@@ -91,7 +91,7 @@ export function validateName(value) {
   if (!name) return { valid: false, message: 'Ismingizni kiriting' }
   if (name.length < 2) return { valid: false, message: "Ism kamida 2 belgidan iborat bo'lishi kerak" }
   if (name.length > 64) return { valid: false, message: "Ism juda uzun (maksimal 64 belgi)" }
-  if (!/^[A-Za-zÀ-ž]{2,}(?:[ '-][A-Za-zÀ-ž]+)*$/.test(name)) {
+  if (!/^\p{L}(?:[\p{L}\p{M}'’ʻ‘ -]*\p{L})?$/u.test(name)) {
     return { valid: false, message: "Ism faqat harflardan iborat bo'lishi kerak" }
   }
 

@@ -1,6 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
 import Logo from '../Logo.jsx'
+import { CheckMark } from '../Marks.jsx'
 import { getLastEmail, loginUser, registerUser } from '../../utils/authStore.js'
+import { mergeGuestFavorites } from '../../utils/favorites.js'
+import { mergeGuestHistory } from '../../utils/quizHistory.js'
 import {
   MIN_PASSWORD_LENGTH,
   getPasswordChecks,
@@ -13,17 +16,17 @@ import {
 
 function fieldClass(hasError) {
   return [
-    'w-full rounded-xl border bg-glass-soft px-3.5 py-2.5 text-sm text-glass-text outline-none transition-all placeholder:text-glass-muted focus:ring-2',
+    'w-full rounded-lg border bg-paper px-3.5 py-2.5 text-sm text-ink outline-none transition-all placeholder:text-muted/60 focus:ring-2',
     hasError
-      ? 'border-danger/60 focus:border-danger focus:ring-danger/20'
-      : 'border-glass-line focus:border-indigo-500 focus:ring-indigo-500/20',
+      ? 'border-negative/60 focus:border-negative focus:ring-negative/15'
+      : 'border-hairline focus:border-ember focus:ring-ember/15',
   ].join(' ')
 }
 
-const labelClass = 'text-xs font-medium text-glass-muted'
+const labelClass = 'font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted'
 
 const ctaClass =
-  'flex w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-indigo-600 to-violet-600 py-3 text-sm font-semibold text-white shadow-lg shadow-indigo-500/25 transition-all hover:from-indigo-500 hover:to-violet-500 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-400/60 active:scale-[0.99] disabled:cursor-not-allowed disabled:opacity-60'
+  'flex w-full items-center justify-center gap-2 rounded-xl bg-ember py-3 text-sm font-semibold text-ember-ink shadow-[0_18px_40px_-24px_var(--ember)] transition-all hover:-translate-y-px hover:brightness-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/50 focus-visible:ring-offset-2 focus-visible:ring-offset-raised active:translate-y-0 disabled:cursor-not-allowed disabled:opacity-60'
 
 function CheckIcon({ passed }) {
   return (
@@ -31,7 +34,7 @@ function CheckIcon({ passed }) {
       viewBox="0 0 20 20"
       fill="currentColor"
       aria-hidden="true"
-      className={passed ? 'h-3.5 w-3.5 text-success' : 'h-3.5 w-3.5 text-glass-muted opacity-50'}
+      className={passed ? 'h-3.5 w-3.5 text-positive' : 'h-3.5 w-3.5 text-muted opacity-50'}
     >
       <path
         fillRule="evenodd"
@@ -52,7 +55,7 @@ function EyeIcon({ hidden }) {
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
-      className="h-4.5 w-4.5"
+      className="h-4 w-4"
     >
       {hidden ? (
         <path d="M3.98 8.223A10.477 10.477 0 0 0 1.934 12C3.226 16.338 7.244 19.5 12 19.5c.993 0 1.953-.138 2.863-.395M6.228 6.228A10.451 10.451 0 0 1 12 4.5c4.756 0 8.773 3.162 10.065 7.498a10.522 10.522 0 0 1-4.293 5.774M6.228 6.228 3 3m3.228 3.228 3.65 3.65m7.894 7.894L21 21m-3.228-3.228-3.65-3.65m0 0a3 3 0 1 0-4.243-4.243m4.242 4.242L9.88 9.88" />
@@ -77,6 +80,8 @@ function AlertIcon() {
     </svg>
   )
 }
+
+const perks = ['Interaktiv test arenasi', 'Natijalar tarixi va analitika', 'Sevimli maskanlar']
 
 export default function AuthModal({ onClose }) {
   const dialogRef = useRef(null)
@@ -154,20 +159,20 @@ export default function AuthModal({ onClose }) {
       return
     }
 
+    mergeGuestHistory(email)
+    mergeGuestFavorites(email)
     onClose()
   }
 
   const tabClass = (active) =>
     [
-      'flex items-center justify-center rounded-lg px-3 py-1.5 text-sm transition-colors duration-150',
-      active
-        ? 'bg-glass-raised font-medium text-glass-text shadow-sm'
-        : 'text-glass-muted hover:text-glass-text',
+      'flex items-center justify-center rounded-lg px-3 py-2 text-sm transition-colors duration-150',
+      active ? 'bg-ink font-semibold text-paper' : 'text-muted hover:text-ink',
     ].join(' ')
 
   return (
     <div
-      className="zehnly-fade-in fixed inset-0 z-[60] flex items-center justify-center bg-scrim p-4 backdrop-blur-sm"
+      className="zehnly-fade-in scrim fixed inset-0 z-[60] flex items-center justify-center p-4 backdrop-blur-md"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) onClose()
       }}
@@ -178,222 +183,270 @@ export default function AuthModal({ onClose }) {
         aria-modal="true"
         aria-labelledby="auth-modal-title"
         tabIndex={-1}
-        className="noise zehnly-scale-in relative max-h-[90vh] w-full max-w-md overflow-y-auto rounded-2xl border border-glass-edge bg-glass p-6 text-glass-text shadow-2xl backdrop-blur-xl outline-none focus:outline-none sm:p-8"
+        className="zehnly-scale-in relative grid max-h-[92vh] w-full max-w-3xl overflow-y-auto rounded-2xl border border-hairline bg-raised text-ink shadow-[var(--shadow-lift)] outline-none focus:outline-none md:grid-cols-[0.92fr_1.08fr]"
       >
-        <span
-          aria-hidden="true"
-          className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-indigo-500/60 to-transparent"
-        />
+        <aside className="relative hidden flex-col justify-between overflow-hidden border-hairline bg-sunken p-8 text-ink md:flex md:border-r">
+          <div
+            aria-hidden="true"
+            className="pointer-events-none absolute -top-28 -right-20 h-64 w-64 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_68%)] blur-3xl"
+          />
+          <div
+            aria-hidden="true"
+            className="dot-grid pointer-events-none absolute inset-0 opacity-40 [mask-image:radial-gradient(ellipse_80%_70%_at_50%_0%,black,transparent_85%)]"
+          />
 
-        <div className="flex items-start justify-between gap-4">
-          <Logo size="md" />
+          <div className="relative">
+            <Logo size="md" />
+          </div>
 
-          <button
-            type="button"
-            onClick={onClose}
-            aria-label="Yopish"
-            className="rounded-lg p-1.5 text-glass-muted transition-colors hover:bg-glass-soft hover:text-glass-text"
-          >
-            <svg className="h-4.5 w-4.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-              <path d="M6.28 5.22a.75.75 0 0 0-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 1 0 1.06 1.06L10 11.06l3.72 3.72a.75.75 0 1 0 1.06-1.06L11.06 10l3.72-3.72a.75.75 0 0 0-1.06-1.06L10 8.94 6.28 5.22Z" />
-            </svg>
-          </button>
-        </div>
+          <div className="relative">
+            <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
+              Zehnly OS
+            </span>
+            <h2 className="mt-4 font-display text-[2.1rem] font-semibold leading-[1.04] tracking-[-0.04em] text-ink">
+              Bilimni <span className="text-aurora">tizimga</span> aylantiring.
+            </h2>
+            <p className="mt-4 text-sm leading-6 text-muted">
+              Hisobingiz natijalar, tarix va sevimlilarni shu brauzerda bir joyda saqlaydi.
+            </p>
 
-        <div
-          role="tablist"
-          aria-label="Kirish yoki ro'yxatdan o'tish"
-          className="mt-5 grid grid-cols-2 gap-1 rounded-xl bg-glass-soft p-1 text-sm"
-        >
-          <button
-            type="button"
-            role="tab"
-            aria-selected={isLogin}
-            onClick={() => {
-              if (!isLogin) switchMode()
-            }}
-            className={tabClass(isLogin)}
-          >
-            Kirish
-          </button>
-          <button
-            type="button"
-            role="tab"
-            aria-selected={!isLogin}
-            onClick={() => {
-              if (isLogin) switchMode()
-            }}
-            className={tabClass(!isLogin)}
-          >
-            Ro'yxatdan o'tish
-          </button>
-        </div>
-
-        <div className="mt-5">
-          <h2 id="auth-modal-title" className="text-lg font-semibold tracking-tight text-glass-text">
-            {isLogin ? 'Tizimga kirish' : "Ro'yxatdan o'tish"}
-          </h2>
-          <p className="mt-1 min-h-10 text-sm text-glass-muted sm:min-h-0">
-            {isLogin
-              ? 'Hisobingizga kirish uchun maʼlumotlarni kiriting'
-              : 'Yangi hisob yaratish uchun maʼlumotlarni kiriting'}
-          </p>
-        </div>
-
-        <form onSubmit={handleSubmit} className="mt-5 flex flex-col gap-4" noValidate>
-          {isLogin ? (
-            <div className="flex h-16 items-center gap-2.5 rounded-xl border border-glass-edge bg-glass-soft px-3.5">
-              <svg
-                viewBox="0 0 20 20"
-                fill="currentColor"
-                aria-hidden="true"
-                className="h-4 w-4 shrink-0 text-link"
-              >
-                <path
-                  fillRule="evenodd"
-                  d="M10 2c-1.716 0-3.408.106-5.07.31C3.806 2.45 3 3.414 3 4.517V17.25a.75.75 0 0 0 1.075.676L10 15.082l5.925 2.844A.75.75 0 0 0 17 17.25V4.517c0-1.103-.806-2.068-1.93-2.207A41.403 41.403 0 0 0 10 2Z"
-                  clipRule="evenodd"
-                />
-              </svg>
-              <p className="text-xs leading-5 text-glass-muted">
-                Natijalar, sevimlilar va statistikangiz hisobingizda saqlanadi
-              </p>
-            </div>
-          ) : (
-            <label className="flex flex-col gap-1.5">
-              <span className={labelClass}>Ism</span>
-              <input
-                type="text"
-                name="name"
-                value={form.name}
-                onChange={handleChange}
-                onBlur={handleBlur}
-                placeholder="Ismingizni kiriting"
-                autoComplete="name"
-                aria-invalid={showNameError}
-                aria-describedby={showNameError ? 'name-error' : undefined}
-                className={fieldClass(showNameError)}
-              />
-              {showNameError && (
-                <span id="name-error" className="flex items-center gap-1.5 text-xs font-medium text-danger">
-                  <AlertIcon />
-                  {nameValidation.message}
-                </span>
-              )}
-            </label>
-          )}
-
-          <label className="flex flex-col gap-1.5">
-            <span className={labelClass}>Email</span>
-            <input
-              type="email"
-              name="email"
-              value={form.email}
-              onChange={handleChange}
-              onBlur={handleBlur}
-              placeholder="ism@example.com"
-              autoComplete="email"
-              inputMode="email"
-              autoCapitalize="none"
-              spellCheck="false"
-              aria-invalid={showEmailError}
-              aria-describedby={showEmailError ? 'email-error' : undefined}
-              className={fieldClass(showEmailError)}
-            />
-            {showEmailError && (
-              <span id="email-error" className="flex items-center gap-1.5 text-xs font-medium text-danger">
-                <AlertIcon />
-                {emailValidation.message}
-              </span>
-            )}
-          </label>
-
-          <label className="flex flex-col gap-1.5">
-            <span className={labelClass}>Parol</span>
-            <div className="relative">
-              <input
-                type={showPassword ? 'text' : 'password'}
-                name="password"
-                value={form.password}
-                onChange={handleChange}
-                onBlur={handleBlur}
-                placeholder="••••••••"
-                autoComplete={isLogin ? 'current-password' : 'new-password'}
-                aria-invalid={showPasswordError}
-                aria-describedby={['password-rules', showPasswordError ? 'password-error' : '']
-                  .filter(Boolean)
-                  .join(' ')}
-                className={`${fieldClass(showPasswordError)} pr-11`}
-              />
-              <button
-                type="button"
-                onClick={() => setShowPassword((prev) => !prev)}
-                aria-label={showPassword ? 'Parolni yashirish' : "Parolni ko'rsatish"}
-                title={showPassword ? 'Parolni yashirish' : "Parolni ko'rsatish"}
-                className="absolute inset-y-0 right-1.5 my-auto flex h-8 w-8 items-center justify-center rounded-lg text-glass-muted transition-colors hover:bg-glass-soft hover:text-glass-text"
-              >
-                <EyeIcon hidden={showPassword} />
-              </button>
-            </div>
-            {showPasswordError && (
-              <span id="password-error" className="flex items-center gap-1.5 text-xs font-medium text-danger">
-                <AlertIcon />
-                {passwordValidation.message}
-              </span>
-            )}
-
-            <ul id="password-rules" className="mt-0.5 grid grid-cols-2 gap-1 text-xs">
-              {passwordRules.map((rule) => (
-                <li
-                  key={rule.key}
-                  className={`flex items-center gap-1.5 ${
-                    passwordChecks[rule.key] ? 'text-success' : 'text-glass-muted'
-                  }`}
-                >
-                  <CheckIcon passed={passwordChecks[rule.key]} />
-                  {rule.label}
+            <ul className="mt-7 space-y-3">
+              {perks.map((perk) => (
+                <li key={perk} className="flex items-center gap-2.5 text-sm text-ink-soft">
+                  <CheckMark className="h-4 w-4 text-ember" />
+                  {perk}
                 </li>
               ))}
             </ul>
-            <span className="sr-only">
-              Parol kamida {MIN_PASSWORD_LENGTH} belgidan iborat bo'lib, harf, raqam va belgi
-              ichishi kerak
+          </div>
+
+          <p className="relative font-mono text-[8px] uppercase tracking-[0.2em] text-muted">
+            Toshkent · 2026
+          </p>
+        </aside>
+
+        <div className="relative p-6 sm:p-8">
+          <span
+            aria-hidden="true"
+            className="absolute inset-x-8 top-0 h-px bg-gradient-to-r from-transparent via-ember/60 to-transparent"
+          />
+
+          <div className="flex items-center justify-between gap-4">
+            <div className="md:hidden">
+              <Logo size="sm" />
+            </div>
+            <span className="hidden font-mono text-[9px] uppercase tracking-[0.18em] text-muted md:inline">
+              Hisob
             </span>
-          </label>
 
-          {serverError && (
-            <p
-              role="alert"
-              className="flex items-start gap-2 rounded-lg border border-danger/25 bg-danger/10 px-3 py-2 text-sm text-danger"
+            <button
+              type="button"
+              onClick={onClose}
+              aria-label="Yopish"
+              className="flex h-8 w-8 items-center justify-center rounded-lg border border-hairline text-muted transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] hover:text-ink"
             >
-              <AlertIcon />
-              {serverError}
-            </p>
-          )}
-
-          <button type="submit" disabled={pending} className={`${ctaClass} mt-1`}>
-            {pending && (
-              <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
-                <path
-                  className="opacity-90"
-                  fill="currentColor"
-                  d="M12 2a10 10 0 0 1 10 10h-3A7 7 0 0 0 12 5V2Z"
-                />
+              <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                <path d="M6.28 5.22a.75.75 0 0 0-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 1 0 1.06 1.06L10 11.06l3.72 3.72a.75.75 0 1 0 1.06-1.06L11.06 10l3.72-3.72a.75.75 0 0 0-1.06-1.06L10 8.94 6.28 5.22Z" />
               </svg>
-            )}
-            {pending ? 'Tekshirilmoqda...' : isLogin ? 'Kirish' : "Ro'yxatdan o'tish"}
-          </button>
+            </button>
+          </div>
 
-          <button
-            type="button"
-            className={`self-end text-sm font-medium text-link transition-opacity hover:opacity-80 ${
-              isLogin ? '' : 'invisible'
-            }`}
+          <div
+            role="tablist"
+            aria-label="Kirish yoki ro'yxatdan o'tish"
+            className="mt-5 grid grid-cols-2 gap-1 rounded-xl border border-hairline bg-paper p-1 text-sm"
           >
-            Parolni unutdingizmi?
-          </button>
-        </form>
+            <button
+              type="button"
+              role="tab"
+              aria-selected={isLogin}
+              onClick={() => {
+                if (!isLogin) switchMode()
+              }}
+              className={tabClass(isLogin)}
+            >
+              Kirish
+            </button>
+            <button
+              type="button"
+              role="tab"
+              aria-selected={!isLogin}
+              onClick={() => {
+                if (isLogin) switchMode()
+              }}
+              className={tabClass(!isLogin)}
+            >
+              Ro&apos;yxatdan o&apos;tish
+            </button>
+          </div>
+
+          <div className="mt-6">
+            <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
+              {isLogin ? 'Xush kelibsiz' : 'Yangi hisob'}
+            </span>
+            <h2
+              id="auth-modal-title"
+              className="mt-2 font-display text-[1.9rem] font-semibold leading-none tracking-[-0.04em] text-ink"
+            >
+              {isLogin ? 'Tizimga kirish' : "Ro'yxatdan o'tish"}
+            </h2>
+            <p className="mt-2 min-h-10 text-sm leading-6 text-muted sm:min-h-0">
+              {isLogin
+                ? 'Hisobingizga kirish uchun maʼlumotlarni kiriting'
+                : 'Yangi hisob yaratish uchun maʼlumotlarni kiriting'}
+            </p>
+          </div>
+
+          <form onSubmit={handleSubmit} className="mt-5 flex flex-col gap-4" noValidate>
+            {isLogin ? (
+              <div className="flex items-center gap-2.5 rounded-xl border border-hairline bg-paper px-3.5 py-3">
+                <svg
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  aria-hidden="true"
+                  className="h-4 w-4 shrink-0 text-ember"
+                >
+                  <path
+                    fillRule="evenodd"
+                    d="M10 2c-1.716 0-3.408.106-5.07.31C3.806 2.45 3 3.414 3 4.517V17.25a.75.75 0 0 0 1.075.676L10 15.082l5.925 2.844A.75.75 0 0 0 17 17.25V4.517c0-1.103-.806-2.068-1.93-2.207A41.403 41.403 0 0 0 10 2Z"
+                    clipRule="evenodd"
+                  />
+                </svg>
+                <p className="text-xs leading-5 text-muted">
+                  Natijalar, sevimlilar va statistikangiz shu brauzerda saqlanadi
+                </p>
+              </div>
+            ) : (
+              <label className="flex flex-col gap-1.5">
+                <span className={labelClass}>Ism</span>
+                <input
+                  type="text"
+                  name="name"
+                  value={form.name}
+                  onChange={handleChange}
+                  onBlur={handleBlur}
+                  placeholder="Ismingizni kiriting"
+                  autoComplete="name"
+                  aria-invalid={showNameError}
+                  aria-describedby={showNameError ? 'name-error' : undefined}
+                  className={fieldClass(showNameError)}
+                />
+                {showNameError && (
+                  <span id="name-error" className="flex items-center gap-1.5 text-xs font-medium text-negative">
+                    <AlertIcon />
+                    {nameValidation.message}
+                  </span>
+                )}
+              </label>
+            )}
+
+            <label className="flex flex-col gap-1.5">
+              <span className={labelClass}>Email</span>
+              <input
+                type="email"
+                name="email"
+                value={form.email}
+                onChange={handleChange}
+                onBlur={handleBlur}
+                placeholder="ism@example.com"
+                autoComplete="email"
+                inputMode="email"
+                autoCapitalize="none"
+                spellCheck="false"
+                aria-invalid={showEmailError}
+                aria-describedby={showEmailError ? 'email-error' : undefined}
+                className={fieldClass(showEmailError)}
+              />
+              {showEmailError && (
+                <span id="email-error" className="flex items-center gap-1.5 text-xs font-medium text-negative">
+                  <AlertIcon />
+                  {emailValidation.message}
+                </span>
+              )}
+            </label>
+
+            <label className="flex flex-col gap-1.5">
+              <span className={labelClass}>Parol</span>
+              <div className="relative">
+                <input
+                  type={showPassword ? 'text' : 'password'}
+                  name="password"
+                  value={form.password}
+                  onChange={handleChange}
+                  onBlur={handleBlur}
+                  placeholder="••••••••"
+                  autoComplete={isLogin ? 'current-password' : 'new-password'}
+                  aria-invalid={showPasswordError}
+                  aria-describedby={['password-rules', showPasswordError ? 'password-error' : '']
+                    .filter(Boolean)
+                    .join(' ')}
+                  className={`${fieldClass(showPasswordError)} pr-11`}
+                />
+                <button
+                  type="button"
+                  onClick={() => setShowPassword((prev) => !prev)}
+                  aria-label={showPassword ? 'Parolni yashirish' : "Parolni ko'rsatish"}
+                  title={showPassword ? 'Parolni yashirish' : "Parolni ko'rsatish"}
+                  className="absolute inset-y-0 right-1.5 my-auto flex h-8 w-8 items-center justify-center rounded-md text-muted transition-colors hover:bg-ink/[0.05] hover:text-ink"
+                >
+                  <EyeIcon hidden={showPassword} />
+                </button>
+              </div>
+              {showPasswordError && (
+                <span id="password-error" className="flex items-center gap-1.5 text-xs font-medium text-negative">
+                  <AlertIcon />
+                  {passwordValidation.message}
+                </span>
+              )}
+
+              <ul id="password-rules" className="mt-0.5 grid grid-cols-1 gap-1.5 text-xs sm:grid-cols-2 sm:gap-1">
+                {passwordRules.map((rule) => (
+                  <li
+                    key={rule.key}
+                    className={`flex items-center gap-1.5 ${
+                      passwordChecks[rule.key] ? 'text-positive' : 'text-muted'
+                    }`}
+                  >
+                    <CheckIcon passed={passwordChecks[rule.key]} />
+                    {rule.label}
+                  </li>
+                ))}
+              </ul>
+              <span className="sr-only">
+                Parol kamida {MIN_PASSWORD_LENGTH} belgidan iborat bo'lib, harf, raqam va belgi
+                ichishi kerak
+              </span>
+            </label>
+
+            {serverError && (
+              <p
+                role="alert"
+                className="flex items-start gap-2 rounded-lg border border-negative/25 bg-negative/10 px-3 py-2 text-sm text-negative"
+              >
+                <AlertIcon />
+                {serverError}
+              </p>
+            )}
+
+            <button type="submit" disabled={pending} className={`${ctaClass} mt-1`}>
+              {pending && (
+                <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
+                  <path
+                    className="opacity-90"
+                    fill="currentColor"
+                    d="M12 2a10 10 0 0 1 10 10h-3A7 7 0 0 0 12 5V2Z"
+                  />
+                </svg>
+              )}
+              {pending ? 'Tekshirilmoqda...' : isLogin ? 'Kirish' : "Ro'yxatdan o'tish"}
+            </button>
+
+            <p className="text-center text-[11px] leading-5 text-muted">
+              Hisob ma’lumotlari faqat shu qurilmada saqlanadi.
+            </p>
+          </form>
+        </div>
       </div>
     </div>
   )

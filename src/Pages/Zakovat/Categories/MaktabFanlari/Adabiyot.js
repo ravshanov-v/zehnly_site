@@ -3518,15 +3518,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "G'afur G'ulom"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sofokl"
       }
     ],
     "correct": "A",
@@ -3643,15 +3643,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulhamid Cho'lpon"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Asqad Muxtor"
       }
     ],
     "correct": "A",
@@ -3764,15 +3764,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Yusuf Xos Hojib"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Durbek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "D",
@@ -3889,11 +3889,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "C",
@@ -3901,7 +3901,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       }
     ],
     "correct": "C",
@@ -4018,15 +4018,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       }
     ],
     "correct": "A",
@@ -4139,11 +4139,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Maqsud Shayxzoda"
       },
       {
         "id": "C",
@@ -4151,7 +4151,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       }
     ],
     "correct": "C",
@@ -4268,15 +4268,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmud Qoshg'ariy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Qutb"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       }
     ],
     "correct": "A",
@@ -4389,7 +4389,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Nizomiy Ganjaviy"
       },
       {
         "id": "B",
@@ -4397,11 +4397,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       }
     ],
     "correct": "B",
@@ -4518,15 +4518,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gomer"
       }
     ],
     "correct": "A",
@@ -4639,11 +4639,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Qodiriy"
       },
       {
         "id": "C",
@@ -4651,7 +4651,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Odil Yoqubov"
       }
     ],
     "correct": "C",
@@ -4764,11 +4764,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "So'fi Olloyor"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulhamid Cho'lpon"
       },
       {
         "id": "C",
@@ -4776,7 +4776,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       }
     ],
     "correct": "C",
@@ -4893,15 +4893,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       }
     ],
     "correct": "A",
@@ -5018,15 +5018,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       }
     ],
     "correct": "A",
@@ -5139,15 +5139,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Sa'diy Sheroziy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mixail Lermontov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "D",
@@ -5268,15 +5268,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mixail Lermontov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Xorazmiy"
       }
     ],
     "correct": "A",
@@ -5389,7 +5389,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "B",
@@ -5397,11 +5397,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Zahiriddin Muhammad Bobur"
       }
     ],
     "correct": "B",
@@ -5518,15 +5518,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       }
     ],
     "correct": "A",
@@ -5639,11 +5639,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "C",
@@ -5651,7 +5651,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       }
     ],
     "correct": "C",
@@ -5764,15 +5764,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       },
       {
         "id": "D",
@@ -5893,15 +5893,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Durbek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       }
     ],
     "correct": "A",
@@ -6014,15 +6014,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Chingiz Aytmatov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "D",
@@ -6143,15 +6143,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Maqsud Shayxzoda"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       }
     ],
     "correct": "A",
@@ -6264,11 +6264,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Qodiriy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Odil Yoqubov"
       },
       {
         "id": "C",
@@ -6276,7 +6276,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Xurshid Do'stmuhammad"
       }
     ],
     "correct": "C",
@@ -6393,15 +6393,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gomer"
       }
     ],
     "correct": "A",
@@ -6518,15 +6518,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Alisher Navoiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Avloniy"
       }
     ],
     "correct": "A",
@@ -6643,15 +6643,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Chingiz Aytmatov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       }
     ],
     "correct": "A",
@@ -6768,15 +6768,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Lev Tolstoy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Atoiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayfi Saroyi"
       }
     ],
     "correct": "A",
@@ -6893,15 +6893,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Nizomiy Ganjaviy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       }
     ],
     "correct": "A",
@@ -7014,11 +7014,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Maqsud Shayxzoda"
       },
       {
         "id": "C",
@@ -7026,7 +7026,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       }
     ],
     "correct": "C",
@@ -7143,15 +7143,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       }
     ],
     "correct": "A",
@@ -7268,15 +7268,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       }
     ],
     "correct": "A",
@@ -7393,15 +7393,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Uilyam Shekspir"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Ernest Xeminguey"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Yusuf Xos Hojib"
       }
     ],
     "correct": "A",
@@ -7518,15 +7518,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurahmon Jomiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Anton Chexov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmud Qoshg'ariy"
       }
     ],
     "correct": "A",
@@ -7643,15 +7643,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       }
     ],
     "correct": "A",
@@ -7764,15 +7764,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       },
       {
         "id": "D",
@@ -7889,7 +7889,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "B",
@@ -7897,11 +7897,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Xorazmiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gulbadanbegim"
       }
     ],
     "correct": "B",
@@ -8014,15 +8014,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Alisher Navoiy"
       },
       {
         "id": "D",
@@ -8139,7 +8139,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       },
       {
         "id": "B",
@@ -8147,11 +8147,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       }
     ],
     "correct": "B",
@@ -8264,11 +8264,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Said Ahmad"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Shukur Xolmirzayev"
       },
       {
         "id": "C",
@@ -8276,7 +8276,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sa'diy Sheroziy"
       }
     ],
     "correct": "C",
@@ -8393,15 +8393,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "G'afur G'ulom"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sofokl"
       }
     ],
     "correct": "A",
@@ -8514,7 +8514,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Gomer"
       },
       {
         "id": "B",
@@ -8522,11 +8522,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Uilyam Shekspir"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Ernest Xeminguey"
       }
     ],
     "correct": "B",
@@ -8639,11 +8639,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Xorazmiy"
       },
       {
         "id": "C",
@@ -8651,7 +8651,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gulbadanbegim"
       }
     ],
     "correct": "C",
@@ -8764,11 +8764,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Asqad Muxtor"
       },
       {
         "id": "C",
@@ -8776,7 +8776,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Hofiz Sheroziy"
       }
     ],
     "correct": "C",
@@ -8893,15 +8893,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmud Qoshg'ariy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Qutb"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       }
     ],
     "correct": "A",
@@ -9014,11 +9014,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "C",
@@ -9026,7 +9026,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       }
     ],
     "correct": "C",
@@ -9139,15 +9139,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Zahiriddin Muhammad Bobur"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "D",
@@ -9268,15 +9268,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "G'afur G'ulom"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       }
     ],
     "correct": "A",
@@ -9389,11 +9389,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       },
       {
         "id": "C",
@@ -9401,7 +9401,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gomer"
       }
     ],
     "correct": "C",
@@ -9514,11 +9514,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Avloniy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Hamid Olimjon"
       },
       {
         "id": "C",
@@ -9526,7 +9526,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       }
     ],
     "correct": "C",
@@ -9643,15 +9643,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Avloniy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Hamid Olimjon"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       }
     ],
     "correct": "A",
@@ -9768,15 +9768,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Sofokl"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Migel de Servantes"
       }
     ],
     "correct": "A",
@@ -9889,15 +9889,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Avloniy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Hamid Olimjon"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       },
       {
         "id": "D",
@@ -10014,15 +10014,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Alisher Navoiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Avloniy"
       },
       {
         "id": "D",
@@ -10143,15 +10143,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Uilyam Shekspir"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Ernest Xeminguey"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Yusuf Xos Hojib"
       }
     ],
     "correct": "A",
@@ -10268,15 +10268,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "G'afur G'ulom"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       }
     ],
     "correct": "A",
@@ -10389,7 +10389,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Qutb"
       },
       {
         "id": "B",
@@ -10397,11 +10397,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Qodiriy"
       }
     ],
     "correct": "B",
@@ -10514,11 +10514,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Durbek"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "C",
@@ -10526,7 +10526,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       }
     ],
     "correct": "C",
@@ -10639,11 +10639,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Sa'diy Sheroziy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mixail Lermontov"
       },
       {
         "id": "C",
@@ -10651,7 +10651,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       }
     ],
     "correct": "C",
@@ -10764,7 +10764,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "So'fi Olloyor"
       },
       {
         "id": "B",
@@ -10772,11 +10772,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulhamid Cho'lpon"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       }
     ],
     "correct": "B",
@@ -10889,11 +10889,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulhamid Cho'lpon"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       },
       {
         "id": "C",
@@ -10901,7 +10901,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Asqad Muxtor"
       }
     ],
     "correct": "C",
@@ -11018,15 +11018,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       }
     ],
     "correct": "A",
@@ -11139,7 +11139,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Migel de Servantes"
       },
       {
         "id": "B",
@@ -11147,11 +11147,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Chingiz Aytmatov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       }
     ],
     "correct": "B",
@@ -11264,7 +11264,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Hamid Olimjon"
       },
       {
         "id": "B",
@@ -11272,11 +11272,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       }
     ],
     "correct": "B",
@@ -11389,15 +11389,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Uilyam Shekspir"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ernest Xeminguey"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Yusuf Xos Hojib"
       },
       {
         "id": "D",
@@ -11514,7 +11514,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmud Qoshg'ariy"
       },
       {
         "id": "B",
@@ -11522,11 +11522,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Qutb"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       }
     ],
     "correct": "B",
@@ -11639,15 +11639,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Zahiriddin Muhammad Bobur"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "D",
@@ -11768,15 +11768,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Zahiriddin Muhammad Bobur"
       }
     ],
     "correct": "A",
@@ -11889,15 +11889,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       },
       {
         "id": "D",
@@ -12018,15 +12018,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Yusuf Xos Hojib"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Durbek"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       }
     ],
     "correct": "A",
@@ -12143,15 +12143,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Zahiriddin Muhammad Bobur"
       }
     ],
     "correct": "A",
@@ -12264,11 +12264,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Qodiriy"
       },
       {
         "id": "C",
@@ -12276,7 +12276,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Odil Yoqubov"
       }
     ],
     "correct": "C",
@@ -12389,7 +12389,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "B",
@@ -12397,11 +12397,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       }
     ],
     "correct": "B",
@@ -12518,15 +12518,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       }
     ],
     "correct": "A",
@@ -19189,7 +19189,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "G'afur G'ulom"
       },
       {
         "id": "B",
@@ -19197,11 +19197,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sofokl"
       }
     ],
     "correct": "B",
@@ -19314,15 +19314,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulhamid Cho'lpon"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Asqad Muxtor"
       },
       {
         "id": "D",
@@ -19439,15 +19439,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Yusuf Xos Hojib"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Durbek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "D",
@@ -19564,15 +19564,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "D",
@@ -19689,11 +19689,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "C",
@@ -19701,7 +19701,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       }
     ],
     "correct": "C",
@@ -19814,11 +19814,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Maqsud Shayxzoda"
       },
       {
         "id": "C",
@@ -19826,7 +19826,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       }
     ],
     "correct": "C",
@@ -19939,7 +19939,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmud Qoshg'ariy"
       },
       {
         "id": "B",
@@ -19947,11 +19947,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Qutb"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       }
     ],
     "correct": "B",
@@ -20064,7 +20064,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Nizomiy Ganjaviy"
       },
       {
         "id": "B",
@@ -20072,11 +20072,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       }
     ],
     "correct": "B",
@@ -20193,15 +20193,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gomer"
       }
     ],
     "correct": "A",
@@ -20314,7 +20314,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       },
       {
         "id": "B",
@@ -20322,11 +20322,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Qodiriy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Odil Yoqubov"
       }
     ],
     "correct": "B",
@@ -20439,11 +20439,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "So'fi Olloyor"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulhamid Cho'lpon"
       },
       {
         "id": "C",
@@ -20451,7 +20451,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       }
     ],
     "correct": "C",
@@ -20564,15 +20564,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "D",
@@ -20689,15 +20689,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       },
       {
         "id": "D",
@@ -20814,15 +20814,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Sa'diy Sheroziy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mixail Lermontov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "D",
@@ -20939,15 +20939,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Mixail Lermontov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Xorazmiy"
       },
       {
         "id": "D",
@@ -21064,7 +21064,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "B",
@@ -21072,11 +21072,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Zahiriddin Muhammad Bobur"
       }
     ],
     "correct": "B",
@@ -21189,7 +21189,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "B",
@@ -21197,11 +21197,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Jek London"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       }
     ],
     "correct": "B",
@@ -21314,7 +21314,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "B",
@@ -21322,11 +21322,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       }
     ],
     "correct": "B",
@@ -21439,11 +21439,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "C",
@@ -21451,7 +21451,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       }
     ],
     "correct": "C",
@@ -21564,11 +21564,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Durbek"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "C",
@@ -21576,7 +21576,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       }
     ],
     "correct": "C",
@@ -21689,15 +21689,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Chingiz Aytmatov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "D",
@@ -21818,15 +21818,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Maqsud Shayxzoda"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       }
     ],
     "correct": "A",
@@ -21943,15 +21943,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Qodiriy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Odil Yoqubov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Xurshid Do'stmuhammad"
       }
     ],
     "correct": "A",
@@ -22068,15 +22068,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gomer"
       }
     ],
     "correct": "A",
@@ -22193,15 +22193,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Alisher Navoiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Avloniy"
       }
     ],
     "correct": "A",
@@ -22314,15 +22314,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Chingiz Aytmatov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "D",
@@ -22443,15 +22443,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Lev Tolstoy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Atoiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayfi Saroyi"
       }
     ],
     "correct": "A",
@@ -22564,15 +22564,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Nizomiy Ganjaviy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Aleksandr Pushkin"
       },
       {
         "id": "D",
@@ -22693,15 +22693,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Maqsud Shayxzoda"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Tog'ay Murod"
       }
     ],
     "correct": "A",
@@ -22814,15 +22814,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       },
       {
         "id": "D",
@@ -22940,15 +22940,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yugnakiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Lutfiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       },
       {
         "id": "D",
@@ -23065,15 +23065,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Uilyam Shekspir"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ernest Xeminguey"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Yusuf Xos Hojib"
       },
       {
         "id": "D",
@@ -23190,15 +23190,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurahmon Jomiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Anton Chexov"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmud Qoshg'ariy"
       },
       {
         "id": "D",
@@ -23315,15 +23315,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       },
       {
         "id": "D",
@@ -23440,11 +23440,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       },
       {
         "id": "C",
@@ -23452,7 +23452,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       }
     ],
     "correct": "C",
@@ -23565,15 +23565,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Xorazmiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Gulbadanbegim"
       },
       {
         "id": "D",
@@ -23690,11 +23690,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Rabindranat Tagor"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Ahmad Yassaviy"
       },
       {
         "id": "C",
@@ -23702,7 +23702,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Alisher Navoiy"
       }
     ],
     "correct": "C",
@@ -23815,15 +23815,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdulla Oripov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Abulqosim Firdavsiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Iogann Volfgang Gyote"
       },
       {
         "id": "D",
@@ -23940,7 +23940,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Said Ahmad"
       },
       {
         "id": "B",
@@ -23948,11 +23948,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Shukur Xolmirzayev"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sa'diy Sheroziy"
       }
     ],
     "correct": "B",
@@ -24065,7 +24065,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "G'afur G'ulom"
       },
       {
         "id": "B",
@@ -24073,11 +24073,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sofokl"
       }
     ],
     "correct": "B",
@@ -24194,15 +24194,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Gomer"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Uilyam Shekspir"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Ernest Xeminguey"
       }
     ],
     "correct": "A",
@@ -24319,15 +24319,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Daniel Defo"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Xorazmiy"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Gulbadanbegim"
       }
     ],
     "correct": "A",
@@ -24440,11 +24440,11 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Pirimqul Qodirov"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Asqad Muxtor"
       },
       {
         "id": "C",
@@ -24452,7 +24452,7 @@ export const adabiyotData = {
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Hofiz Sheroziy"
       }
     ],
     "correct": "C",
@@ -24569,15 +24569,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmud Qoshg'ariy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Qutb"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Sayyodiy"
       }
     ],
     "correct": "A",
@@ -24694,15 +24694,15 @@ export const adabiyotData = {
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "Muqimiy"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Oybek"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "O'tkir Hoshimov"
       }
     ],
     "correct": "A",
@@ -24815,7 +24815,7 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Nosiruddin Rabg'uziy"
       },
       {
         "id": "B",
@@ -24823,11 +24823,11 @@ export const adabiyotData = {
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Zahiriddin Muhammad Bobur"
       },
       {
         "id": "D",
-        "text": "O'zbek xalq eposi"
+        "text": "Abdurauf Fitrat"
       }
     ],
     "correct": "B",
@@ -24940,15 +24940,15 @@ export const adabiyotData = {
     "options": [
       {
         "id": "A",
-        "text": "O'zbek xalq eposi"
+        "text": "Mahmudxo'ja Behbudiy"
       },
       {
         "id": "B",
-        "text": "O'zbek xalq eposi"
+        "text": "G'afur G'ulom"
       },
       {
         "id": "C",
-        "text": "O'zbek xalq eposi"
+        "text": "Erkin Vohidov"
       },
       {
         "id": "D",

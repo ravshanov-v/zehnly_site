@@ -25,7 +25,19 @@ export function getSession() {
 function readSession() {
   try {
     const raw = localStorage.getItem(SESSION_KEY)
-    return raw ? JSON.parse(raw) : null
+    const session = raw ? JSON.parse(raw) : null
+    if (!session?.email || session.id) return session
+
+    const user = readUsers().find((item) => item.email === session.email)
+    if (!user?.id) return session
+
+    const migrated = {
+      ...session,
+      id: user.id,
+      createdAt: session.createdAt || user.createdAt,
+    }
+    localStorage.setItem(SESSION_KEY, JSON.stringify(migrated))
+    return migrated
   } catch {
     return null
   }
@@ -138,7 +150,13 @@ export async function registerUser(email, name, password) {
 
   writeUsers([...users, user])
   setLastEmail(normalizedEmail)
-  writeSession({ name: user.name, email: user.email, createdAt, loggedInAt: createdAt })
+  writeSession({
+    id: user.id,
+    name: user.name,
+    email: user.email,
+    createdAt,
+    loggedInAt: createdAt,
+  })
 
   return { ok: true, user }
 }
@@ -158,7 +176,13 @@ export async function loginUser(email, password) {
   }
 
   setLastEmail(normalizedEmail)
-  writeSession({ name: user.name, email: user.email, createdAt: user.createdAt, loggedInAt: new Date().toISOString() })
+  writeSession({
+    id: user.id,
+    name: user.name,
+    email: user.email,
+    createdAt: user.createdAt,
+    loggedInAt: new Date().toISOString(),
+  })
 
   return { ok: true, user }
 }

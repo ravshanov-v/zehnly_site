@@ -1,11 +1,15 @@
-import BoshSahifa from './Pages/BoshSahifa/BoshSahifa.jsx'
-import OquvMaskanlari from './Pages/OquvMaskanlari/OquvMaskanlari.jsx'
-import Zakovat from './Pages/Zakovat/Zakovat.jsx'
+import { AiYordamchi, BoshSahifa, OquvMaskanlari, Zakovat } from './lazyPages.jsx'
 
 const routes = [
   { path: '/', label: 'Bosh sahifa', element: <BoshSahifa /> },
   { path: '/oquv-maskanlari', label: "O'quv maskanlari", element: <OquvMaskanlari /> },
   { path: '/zakovat', label: 'Zakovat', element: <Zakovat /> },
+  {
+    path: '/ai-yordamchi',
+    label: 'AI Yordamchi',
+    element: <AiYordamchi />,
+    standalone: true,
+  },
 ]
 
 export default routes

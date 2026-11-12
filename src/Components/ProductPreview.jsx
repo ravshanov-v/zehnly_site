@@ -1,161 +1,350 @@
 import { useRef, useState } from 'react'
+import { studyCenters } from '../data/studyCenters.js'
 
 const answers = [
-  { text: 'A) O(n²)', correct: false },
-  { text: 'B) O(1) — O‘zgarmas vaqt', correct: true },
-  { text: 'C) O(n log n)', correct: false },
+  { key: 'A', text: 'O(n²)', correct: false },
+  { key: 'B', text: 'O(1) — o‘zgarmas vaqt', correct: true },
+  { key: 'C', text: 'O(n log n)', correct: false },
 ]
+
+const correctIndex = answers.findIndex((answer) => answer.correct)
+const featuredCenter = studyCenters[0] ?? null
 
 export default function ProductPreview() {
   const [selectedAnswer, setSelectedAnswer] = useState(null)
-  const [score, setScore] = useState(1420)
+  const [score, setScore] = useState(0)
   const [isAnswered, setIsAnswered] = useState(false)
+  const [pointer, setPointer] = useState({ tiltX: 0, tiltY: 0, x: 50, y: 32 })
   const cardRef = useRef(null)
-  const [tilt, setTilt] = useState({ x: 0, y: 0 })
 
   const handleMouseMove = (event) => {
-    if (!cardRef.current) return
-    const rect = cardRef.current.getBoundingClientRect()
+    const node = cardRef.current
+    if (!node) return
+    const rect = node.getBoundingClientRect()
     const x = event.clientX - rect.left
     const y = event.clientY - rect.top
-    const centerX = rect.width / 2
-    const centerY = rect.height / 2
-    setTilt({
-      x: ((y - centerY) / centerY) * -7,
-      y: ((x - centerX) / centerX) * 7,
+    setPointer({
+      tiltX: ((y - rect.height / 2) / (rect.height / 2)) * -1.6,
+      tiltY: ((x - rect.width / 2) / (rect.width / 2)) * 1.6,
+      x: (x / rect.width) * 100,
+      y: (y / rect.height) * 100,
     })
   }
 
-  const handleMouseLeave = () => setTilt({ x: 0, y: 0 })
+  const handleMouseLeave = () => {
+    setPointer((prev) => ({ ...prev, tiltX: 0, tiltY: 0 }))
+  }
 
-  const handleSelect = (index, isCorrect) => {
+  const handleSelect = (index) => {
     if (isAnswered) return
     setSelectedAnswer(index)
-    setIsAnswered(true)
-    if (isCorrect) setScore((prev) => prev + 100)
   }
+
+  const handleCheck = () => {
+    if (isAnswered || selectedAnswer === null) return
+    setIsAnswered(true)
+    if (answers[selectedAnswer].correct) setScore((prev) => prev + 100)
+  }
+
+  const handleReset = () => {
+    setSelectedAnswer(null)
+    setIsAnswered(false)
+    setScore(0)
+  }
+
+  const isCorrectSelection = selectedAnswer === correctIndex
+
+  const statusText = !isAnswered
+    ? selectedAnswer === null
+      ? 'Javobni tanlang va tekshiring.'
+      : `${answers[selectedAnswer].key} varianti tanlandi.`
+    : isCorrectSelection
+      ? 'Ajoyib — to‘g‘ri javob. Namuna hisobiga +100 XP qo‘shildi.'
+      : 'To‘g‘ri javob — B. Yana bir bor urinib ko‘ring.'
 
   return (
     <div
-      className="relative mx-auto mt-6 w-full max-w-5xl select-none px-0 perspective-[1200px] sm:px-4"
-      onMouseMove={handleMouseMove}
-      onMouseLeave={handleMouseLeave}
+      className="relative mx-auto w-full max-w-[640px] select-none"
+      style={{ perspective: '1600px' }}
     >
       <div
-        ref={cardRef}
-        style={{
-          transform: `rotateX(${tilt.x}deg) rotateY(${tilt.y}deg)`,
-          transition: 'transform 0.15s ease-out',
-        }}
-        className="relative rounded-2xl border border-black/5 bg-white/70 p-6 text-left shadow-[0_20px_70px_-15px_rgba(79,70,229,0.25)] backdrop-blur-xl will-change-transform sm:p-8 dark:border-white/10 dark:bg-slate-900/60"
-      >
-        <div className="flex flex-wrap items-center justify-between gap-3 border-b border-slate-200/80 pb-6 dark:border-white/5">
-          <div className="flex items-center gap-2">
-            <span className="inline-block h-3 w-3 rounded-full bg-rose-500/80" />
-            <span className="inline-block h-3 w-3 rounded-full bg-amber-500/80" />
-            <span className="inline-block h-3 w-3 rounded-full bg-emerald-500/80" />
-            <span className="ml-3 rounded-full border border-slate-200 bg-slate-50 px-3 py-1 font-mono text-xs text-slate-500 dark:border-white/5 dark:bg-white/5 dark:text-slate-400">
-              zehnly.uz/demo-preview
-            </span>
-          </div>
-          <div className="flex items-center gap-2 rounded-full border border-indigo-500/20 bg-indigo-500/10 px-3 py-1 text-xs font-medium text-indigo-600 dark:text-indigo-400">
-            <span className="h-2 w-2 animate-ping rounded-full bg-indigo-500 dark:bg-indigo-400" />
-            Jonli Ekotizim
-          </div>
-        </div>
+        aria-hidden="true"
+        className="pointer-events-none absolute inset-x-10 top-8 -z-10 h-2/3 rounded-full bg-[radial-gradient(60%_60%_at_50%_0%,var(--halo),transparent_72%)] blur-3xl"
+      />
 
-        <div className="mt-6 grid grid-cols-1 gap-6 md:grid-cols-12">
-          <div className="rounded-xl border border-black/5 bg-white/60 p-5 md:col-span-7 dark:border-white/10 dark:bg-white/[0.04]">
-            <div className="mb-4 flex items-center justify-between">
-              <span className="text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400">
-                Zakovat Testi • Savol №12
-              </span>
-              <span className="rounded-md bg-indigo-500/10 px-2.5 py-1 text-xs font-bold text-indigo-600 dark:text-indigo-400">
-                +100 Ball
+      <div
+        ref={cardRef}
+        onMouseMove={handleMouseMove}
+        onMouseLeave={handleMouseLeave}
+        style={{
+          transform: `rotateX(${pointer.tiltX}deg) rotateY(${pointer.tiltY}deg)`,
+          transition: 'transform 250ms cubic-bezier(0.22, 1, 0.36, 1)',
+          '--fx': `${pointer.x}%`,
+          '--fy': `${pointer.y}%`,
+        }}
+        className="group relative rounded-2xl border border-hairline bg-raised/90 p-1.5 shadow-[var(--shadow-lift)] backdrop-blur-xl will-change-transform"
+      >
+        <div
+          aria-hidden="true"
+          className="card-spotlight pointer-events-none absolute inset-0 rounded-2xl opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+        />
+
+        <div className="relative rounded-[14px] border border-hairline bg-paper p-4 sm:p-5">
+          <div className="flex flex-wrap items-center justify-between gap-3 border-b border-hairline pb-3.5">
+            <div className="flex items-center gap-3">
+              <div className="flex items-center gap-1.5">
+                <span className="h-2 w-2 rounded-full bg-ember" />
+                <span className="h-2 w-2 rounded-full bg-cobalt/70" />
+                <span className="h-2 w-2 rounded-full bg-ink/20" />
+              </div>
+              <span className="inline-flex items-center gap-1.5 rounded-md border border-hairline bg-raised px-2.5 py-1 font-mono text-[8px] uppercase tracking-[0.14em] text-muted">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.7"
+                  aria-hidden="true"
+                  className="h-3 w-3"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M16.5 10.5V6.75a4.5 4.5 0 1 0-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 0 0 2.25-2.25v-6.75a2.25 2.25 0 0 0-2.25-2.25H6.75a2.25 2.25 0 0 0-2.25 2.25v6.75a2.25 2.25 0 0 0 2.25 2.25Z"
+                  />
+                </svg>
+                zehnly.uz / arena
               </span>
             </div>
 
-            <h4 className="mb-5 text-base font-medium leading-snug text-slate-900 sm:text-lg dark:text-white">
-              Qaysi algoritmik murakkablik eng tez hisoblash tezligini taʼminlaydi?
+            <span className="inline-flex items-center gap-1.5 rounded-md border border-ember/25 bg-ember/[0.06] px-2 py-1 font-mono text-[8px] uppercase tracking-[0.14em] text-ember">
+              <span className="h-1.5 w-1.5 rounded-full bg-ember" />
+              Interaktiv namuna
+            </span>
+          </div>
+
+          <div className="mt-4 rounded-xl border border-hairline bg-raised p-4">
+            <div className="flex items-center justify-between gap-3">
+              <span className="font-mono text-[8px] uppercase tracking-[0.18em] text-muted">
+                Zakovat testi · Namuna savol
+              </span>
+              <span className="rounded-md border border-ember/25 bg-ember/[0.06] px-2 py-0.5 font-mono text-[8px] uppercase tracking-[0.12em] text-ember">
+                Namuna
+              </span>
+            </div>
+
+            <h4 className="mt-3 font-display text-lg font-semibold leading-snug tracking-tight text-ink sm:text-xl">
+              Qaysi algoritmik murakkablik eng tez hisoblash tezligini ta’minlaydi?
             </h4>
 
-            <div className="space-y-2.5">
+            <div className="mt-3 space-y-1.5" role="group" aria-label="Javob variantlari">
               {answers.map((answer, index) => {
-                let buttonClass =
-                  'border-slate-200 text-slate-600 hover:border-indigo-400/60 hover:bg-white hover:text-slate-900 dark:border-white/5 dark:text-slate-300 dark:hover:border-indigo-500/40 dark:hover:bg-white/[0.04]'
+                const isSelected = selectedAnswer === index
+                let rowClass =
+                  'border-hairline bg-paper text-ink-soft hover:-translate-y-px hover:border-ember/45 hover:bg-ember/[0.04] hover:text-ink'
+                let badgeClass = 'border-hairline bg-raised text-muted'
+                let dotClass = 'border-hairline-strong'
+
+                if (!isAnswered && isSelected) {
+                  rowClass = 'border-ember/60 bg-ember/[0.07] text-ink'
+                  badgeClass = 'border-ember/40 bg-ember/10 text-ember'
+                  dotClass = 'border-ember bg-ember'
+                }
+
                 if (isAnswered) {
                   if (answer.correct) {
-                    buttonClass =
-                      'border-emerald-500/50 bg-emerald-500/10 text-emerald-700 shadow-[0_0_15px_rgba(16,185,129,0.2)] dark:text-emerald-300'
-                  } else if (selectedAnswer === index) {
-                    buttonClass =
-                      'border-rose-500/50 bg-rose-500/10 text-rose-700 dark:text-rose-300'
+                    rowClass = 'border-positive/45 bg-positive/[0.07] text-ink'
+                    badgeClass = 'border-positive/35 bg-positive/10 text-positive'
+                    dotClass = 'border-positive bg-positive/15 text-positive'
+                  } else if (isSelected) {
+                    rowClass = 'border-negative/40 bg-negative/[0.05] text-ink'
+                    badgeClass = 'border-negative/35 bg-negative/10 text-negative'
+                    dotClass = 'border-negative bg-negative/15 text-negative'
                   } else {
-                    buttonClass =
-                      'border-slate-200 text-slate-400 opacity-60 dark:border-white/5 dark:text-slate-500'
+                    rowClass = 'border-hairline bg-transparent text-muted opacity-50'
+                    badgeClass = 'border-hairline bg-transparent text-muted'
+                    dotClass = 'border-hairline'
                   }
                 }
 
                 return (
                   <button
-                    key={answer.text}
+                    key={answer.key}
                     type="button"
-                    onClick={() => handleSelect(index, answer.correct)}
-                    className={`flex w-full items-center justify-between rounded-xl border px-4 py-3 text-left text-sm font-medium transition-all duration-200 ${buttonClass}`}
+                    onClick={() => handleSelect(index)}
+                    disabled={isAnswered}
+                    aria-pressed={isSelected}
+                    className={`group/answer flex w-full items-center gap-3 rounded-lg border px-3 py-2.5 text-left text-[13px] transition-all duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/40 focus-visible:ring-offset-2 focus-visible:ring-offset-raised disabled:cursor-default ${rowClass}`}
                   >
-                    <span>{answer.text}</span>
-                    {isAnswered && answer.correct && (
-                      <span className="text-xs font-bold text-emerald-600 dark:text-emerald-400">
-                        ✓ To‘g‘ri
-                      </span>
-                    )}
+                    <span
+                      className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-md border font-mono text-[10px] transition-colors duration-200 ${badgeClass}`}
+                    >
+                      {answer.key}
+                    </span>
+                    <span className="flex-1 leading-5">{answer.text}</span>
+                    <span
+                      className={`flex h-4 w-4 shrink-0 items-center justify-center rounded-full border transition-all duration-200 ${dotClass}`}
+                    >
+                      {isAnswered && answer.correct && (
+                        <svg
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="3"
+                          aria-hidden="true"
+                          className="h-2.5 w-2.5"
+                        >
+                          <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+                        </svg>
+                      )}
+                      {isAnswered && isSelected && !answer.correct && (
+                        <svg
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="3"
+                          aria-hidden="true"
+                          className="h-2.5 w-2.5"
+                        >
+                          <path strokeLinecap="round" strokeLinejoin="round" d="M6 18 18 6M6 6l12 12" />
+                        </svg>
+                      )}
+                      {!isAnswered && isSelected && (
+                        <span className="h-1.5 w-1.5 rounded-full bg-ember-ink" />
+                      )}
+                    </span>
                   </button>
                 )
               })}
             </div>
+
+            <div className="mt-4 flex flex-wrap items-center justify-between gap-3 border-t border-hairline pt-3.5">
+              <p aria-live="polite" className="min-h-5 text-xs leading-5 text-muted">
+                {statusText}
+              </p>
+
+              {isAnswered ? (
+                <button
+                  type="button"
+                  onClick={handleReset}
+                  className="inline-flex h-8 items-center gap-1.5 rounded-lg px-3 text-xs font-medium text-muted transition-colors duration-200 hover:bg-ink/[0.05] hover:text-ink"
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.8"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    aria-hidden="true"
+                    className="h-3.5 w-3.5"
+                  >
+                    <path d="M4.5 12a7.5 7.5 0 1 0 2.2-5.3M4.5 4.5V9H9" />
+                  </svg>
+                  Qayta urinish
+                </button>
+              ) : (
+                <button
+                  type="button"
+                  onClick={handleCheck}
+                  disabled={selectedAnswer === null}
+                  className="inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-all duration-200 hover:bg-ember hover:text-ember-ink disabled:cursor-not-allowed disabled:opacity-35"
+                >
+                  Tekshirish
+                  <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.9"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    aria-hidden="true"
+                    className="h-3.5 w-3.5"
+                  >
+                    <path d="M4 12h16M13 5l7 7-7 7" />
+                  </svg>
+                </button>
+              )}
+            </div>
           </div>
 
-          <div className="flex flex-col justify-between gap-4 md:col-span-5">
-            <div className="rounded-xl border border-slate-200 bg-gradient-to-br from-indigo-500/10 via-purple-500/5 to-transparent p-5 dark:border-white/5">
-              <div className="mb-3 flex items-center justify-between">
-                <span className="text-xs font-medium text-slate-500 dark:text-slate-400">
-                  Sizning reytingingiz
+          <div className="mt-3 grid gap-3 sm:grid-cols-2">
+            <div className="relative overflow-hidden rounded-xl border border-hairline bg-raised p-4">
+              <div
+                aria-hidden="true"
+                className="pointer-events-none absolute -right-8 -top-10 h-24 w-24 rounded-full bg-ember/10 blur-2xl"
+              />
+
+              <div className="relative flex items-center justify-between gap-3">
+                <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
+                  Namuna hisobi
                 </span>
-                <span className="text-xs font-bold text-emerald-600 dark:text-emerald-400">
-                  Top 5%
+                <span className="rounded-md border border-hairline px-1.5 py-0.5 font-mono text-[8px] uppercase tracking-[0.12em] text-muted">
+                  Demo
                 </span>
               </div>
-              <div className="flex items-baseline gap-2">
-                <span className="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-white">
+
+              <div className="relative mt-2 flex items-baseline gap-1.5">
+                <span className="font-display text-3xl font-semibold leading-none tracking-tight text-ink tabular-nums">
                   {score}
                 </span>
-                <span className="text-xs font-medium text-slate-500 dark:text-slate-400">XP</span>
+                <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
+                  Namuna XP
+                </span>
               </div>
-              <div className="mt-3 h-2 w-full overflow-hidden rounded-full bg-slate-200/80 dark:bg-white/5">
-                <div
-                  className="h-full rounded-full bg-gradient-to-r from-indigo-500 to-cyan-400 transition-all duration-500"
-                  style={{ width: isAnswered ? '84%' : '78%' }}
-                />
-              </div>
+
+              <p className="relative mt-3 text-[11px] leading-5 text-muted">
+                Bu namuna mashq — natija haqiqiy hisobingizga ta’sir qilmaydi.
+              </p>
             </div>
 
-            <div className="rounded-xl border border-black/5 bg-white/60 p-5 dark:border-white/10 dark:bg-white/[0.04]">
-              <span className="mb-3 block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400">
-                Tavsiya etilgan o‘quv markazi
-              </span>
-              <div className="flex items-center gap-3">
-                <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-br from-cyan-500 to-blue-600 font-bold text-white shadow-md">
-                  Z
-                </div>
-                <div>
-                  <h5 className="text-sm font-semibold text-slate-900 dark:text-white">
-                    Najot Taʼlim
-                  </h5>
-                  <p className="text-xs text-slate-500 dark:text-slate-400">
-                    Dasturlash va Zamonaviy kasblar
+            <div className="flex flex-col justify-between rounded-xl border border-hairline bg-raised p-4">
+              <div className="flex items-center justify-between gap-3">
+                <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
+                  O‘quv maskanlari
+                </span>
+                <span className="font-mono text-[8px] uppercase tracking-[0.12em] text-muted">
+                  {featuredCenter ? 'Katalog' : 'Baza'}
+                </span>
+              </div>
+
+              {featuredCenter ? (
+                <>
+                  <div className="mt-3 flex items-center gap-2.5">
+                    <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-base font-semibold text-white">
+                      {featuredCenter.name.charAt(0).toUpperCase()}
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <h5 className="truncate text-[13px] font-semibold text-ink">
+                        {featuredCenter.name}
+                      </h5>
+                      <p className="truncate text-[11px] text-muted">
+                        {featuredCenter.district} · {featuredCenter.category}
+                      </p>
+                    </div>
+                  </div>
+
+                  {(featuredCenter.directions ?? []).length > 0 && (
+                    <div className="mt-3 flex flex-wrap gap-1.5">
+                      {featuredCenter.directions.map((tag) => (
+                        <span
+                          key={tag}
+                          className="rounded-md border border-hairline px-1.5 py-0.5 font-mono text-[8px] uppercase tracking-[0.1em] text-muted"
+                        >
+                          {tag}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </>
+              ) : (
+                <div className="mt-3">
+                  <p className="text-[13px] font-semibold text-ink">Katalog hozircha bo‘sh</p>
+                  <p className="mt-1 text-[11px] leading-5 text-muted">
+                    Maskanlar bazasi hozircha bo‘sh. Ma’lumotlar qo‘shilgach, katalog shu
+                    yerda ko‘rinadi.
                   </p>
                 </div>
-              </div>
+              )}
             </div>
           </div>
         </div>

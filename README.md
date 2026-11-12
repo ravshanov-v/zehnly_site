@@ -17,10 +17,12 @@ Bilim va zakovat platformasi — o'quv maskanlari katalogi, zakovat testlari va 
 
 ## Tuzilma
 
-- `src/Components` — umumiy komponentlar (Navbar, Footer, AuthModal, ProphileDrawer, SplashScreen, SpacetimeFabric, ProductPreview va h.k.)
+- `src/Components` — umumiy komponentlar (Navbar, Footer, AuthModal, ProductPreview va h.k.)
 - `src/Pages` — sahifalar (BoshSahifa, Zakovat, OquvMaskanlari, Profil)
 - `src/hooks` — React hooklar
-- `src/utils` — auth store, validatsiya, yordamchi funksiyalar
-- `src/theme` — tund/yorugʻ rejim boshqaruvi
+- `src/utils` — auth store, validatsiya, tarix va sevimlilar yordamchilari
+- `src/context` — tund/yorugʻ rejim konteksti
+- `src/data` — o'quv maskanlari ma'lumotlari
+- `src/Pages/Zakovat/Categories` — fan savollari va kategoriya meta ma'lumotlari
 - `src/styles` — umumiy stil tokenlari
 - `src/Assets` — ikonka va rasmlar

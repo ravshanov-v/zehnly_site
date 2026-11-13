@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Spark } from '../../Components/Marks.jsx'
-import { generateGeminiReply, isGeminiConfigured } from '../../utils/geminiClient.js'
+import { generateGeminiReply } from '../../utils/geminiClient.js'
 
 const starterPrompts = [
   {
@@ -477,7 +477,6 @@ export default function AiYordamchi() {
   const messagesRef = useRef(null)
   const inputRef = useRef(null)
   const requestRef = useRef(null)
-  const configured = isGeminiConfigured()
   const isLoading = status === 'loading'
 
   useEffect(() => {
@@ -544,12 +543,6 @@ export default function AiYordamchi() {
     setError('')
     setStatus('loading')
     inputRef.current?.focus()
-
-    if (!configured) {
-      setError('Gemini API kaliti sozlanmagan. Iltimos, keyinroq qayta urinib ko‘ring.')
-      setStatus('idle')
-      return
-    }
 
     const controller = new AbortController()
     requestRef.current = controller

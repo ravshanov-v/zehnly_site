@@ -1,6 +1,7 @@
 import { Suspense, useLayoutEffect } from 'react';
 import { BrowserRouter, Routes, Route, Outlet, Navigate, useLocation } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
+import ToastProvider from './context/ToastProvider.jsx';
 import Navbar from './Components/Navbar/Navbar.jsx';
 import Footer from './Components/Footer/Footer.jsx';
 import AuroraField from './Components/AuroraField.jsx';
@@ -68,24 +69,26 @@ function Layout() {
 export default function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter>
-        <ScrollToTop />
-        <Routes>
-          {standaloneRoutes.map((route) => (
-            <Route
-              key={route.path}
-              path={route.path}
-              element={<Suspense fallback={<StandaloneFallback />}>{route.element}</Suspense>}
-            />
-          ))}
-          <Route element={<Layout />}>
-            {layoutRoutes.map((route) => (
-              <Route key={route.path} path={route.path} element={route.element} />
+      <ToastProvider>
+        <BrowserRouter>
+          <ScrollToTop />
+          <Routes>
+            {standaloneRoutes.map((route) => (
+              <Route
+                key={route.path}
+                path={route.path}
+                element={<Suspense fallback={<StandaloneFallback />}>{route.element}</Suspense>}
+              />
             ))}
-            <Route path="*" element={<Navigate to="/" replace />} />
-          </Route>
-        </Routes>
-      </BrowserRouter>
+            <Route element={<Layout />}>
+              {layoutRoutes.map((route) => (
+                <Route key={route.path} path={route.path} element={route.element} />
+              ))}
+              <Route path="*" element={<Navigate to="/" replace />} />
+            </Route>
+          </Routes>
+        </BrowserRouter>
+      </ToastProvider>
     </ThemeProvider>
   );
 }

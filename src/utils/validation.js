@@ -3,8 +3,12 @@ const EMAIL_REGEX =
 
 const MAX_EMAIL_LENGTH = 254
 const MAX_LOCAL_LENGTH = 64
-const MIN_PASSWORD_LENGTH = 6
-const MAX_PASSWORD_LENGTH = 64
+export const MIN_PASSWORD_LENGTH = 8
+export const MAX_PASSWORD_LENGTH = 64
+export const MIN_NAME_LENGTH = 3
+export const MAX_NAME_LENGTH = 64
+
+const NAME_REGEX = /^[\p{L}\p{M}\p{N}_.'’ʻ‘ -]+$/u
 
 export function normalizeEmail(value) {
   return String(value ?? '').trim().toLowerCase()
@@ -46,6 +50,8 @@ export function getPasswordChecks(value) {
   return {
     length: password.length >= MIN_PASSWORD_LENGTH,
     maxLength: password.length <= MAX_PASSWORD_LENGTH,
+    lower: /[a-z]/.test(password),
+    upper: /[A-Z]/.test(password),
     letter: /[A-Za-z]/.test(password),
     number: /\d/.test(password),
     special: /[^A-Za-z0-9\s]/.test(password),
@@ -54,48 +60,98 @@ export function getPasswordChecks(value) {
 
 export const passwordRules = [
   { key: 'length', label: `Kamida ${MIN_PASSWORD_LENGTH} belgi` },
-  { key: 'letter', label: 'Kamida bitta harf (a-z, A-Z)' },
-  { key: 'number', label: 'Kamida bitta raqam (0-9)' },
-  { key: 'special', label: "Kamida bitta belgi (!@#$% va h.k.)" },
+  { key: 'letter', label: 'Kamida bitta harf' },
+  { key: 'number', label: 'Kamida bitta raqam' },
+  { key: 'special', label: 'Belgi (!@#$%) — kuchliroq' },
 ]
 
 export function validatePassword(value) {
   const password = String(value ?? '')
-
-  if (!password) return { valid: false, message: 'Parolni kiriting', checks: getPasswordChecks(password) }
-
   const checks = getPasswordChecks(password)
 
+  if (!password) return { valid: false, message: 'Parolni kiriting', checks }
   if (!checks.maxLength) {
     return { valid: false, message: `Parol ${MAX_PASSWORD_LENGTH} belgidan oshmasligi kerak`, checks }
   }
   if (!checks.length) {
-    return { valid: false, message: `Parol kamida ${MIN_PASSWORD_LENGTH} belgidan iborat bo'lishi kerak`, checks }
+    return {
+      valid: false,
+      message: `Parol kamida ${MIN_PASSWORD_LENGTH} belgidan iborat bo'lishi kerak`,
+      checks,
+    }
   }
-
-  const missing = []
-  if (!checks.letter) missing.push('harf')
-  if (!checks.number) missing.push('raqam')
-  if (!checks.special) missing.push('belgi')
-
-  if (missing.length > 0) {
-    return { valid: false, message: `Parolda kamida bitta ${missing.join(', ')} bo'lishi kerak`, checks }
+  if (!checks.letter || !checks.number) {
+    return {
+      valid: false,
+      message: "Parolda kamida bitta harf va bitta raqam bo'lishi kerak",
+      checks,
+    }
   }
 
   return { valid: true, message: '', checks }
 }
 
+export function validateLoginPassword(value) {
+  const password = String(value ?? '')
+
+  if (!password) return { valid: false, message: 'Parolni kiriting' }
+  if (password.length > MAX_PASSWORD_LENGTH) {
+    return { valid: false, message: `Parol ${MAX_PASSWORD_LENGTH} belgidan oshmasligi kerak` }
+  }
+
+  return { valid: true, message: '' }
+}
+
+export function validateConfirmPassword(password, confirmPassword) {
+  const value = String(confirmPassword ?? '')
+
+  if (!value) return { valid: false, message: 'Parolni tasdiqlang' }
+  if (value !== String(password ?? '')) return { valid: false, message: 'Parollar mos kelmadi' }
+
+  return { valid: true, message: '' }
+}
+
 export function validateName(value) {
   const name = String(value ?? '').trim()
 
-  if (!name) return { valid: false, message: 'Ismingizni kiriting' }
-  if (name.length < 2) return { valid: false, message: "Ism kamida 2 belgidan iborat bo'lishi kerak" }
-  if (name.length > 64) return { valid: false, message: "Ism juda uzun (maksimal 64 belgi)" }
-  if (!/^\p{L}(?:[\p{L}\p{M}'’ʻ‘ -]*\p{L})?$/u.test(name)) {
-    return { valid: false, message: "Ism faqat harflardan iborat bo'lishi kerak" }
+  if (!name) return { valid: false, message: 'Ism yoki username kiriting' }
+  if (name.length < MIN_NAME_LENGTH) {
+    return { valid: false, message: `Ism kamida ${MIN_NAME_LENGTH} belgidan iborat bo'lishi kerak` }
+  }
+  if (name.length > MAX_NAME_LENGTH) {
+    return { valid: false, message: `Ism juda uzun (maksimal ${MAX_NAME_LENGTH} belgi)` }
+  }
+  if (!NAME_REGEX.test(name) || !/\p{L}/u.test(name)) {
+    return {
+      valid: false,
+      message: "Ism faqat harf, raqam, bo'sh joy, nuqta, chiziqcha yoki pastki chiziqdan iborat bo'lsin",
+    }
   }
 
   return { valid: true, message: '', name }
 }
 
-export { MIN_PASSWORD_LENGTH }
+export function getPasswordStrength(value) {
+  const password = String(value ?? '')
+
+  if (!password) return { score: 0, level: 'empty', label: '', tone: 'muted', percent: 0 }
+
+  const checks = getPasswordChecks(password)
+  const required = checks.length && checks.letter && checks.number
+
+  let points = 0
+  if (checks.length) points += 1
+  if (checks.letter && checks.number) points += 1
+  if (checks.lower && checks.upper) points += 1
+  if (checks.special) points += 1
+  if (password.length >= 12) points += 1
+
+  if (!required || points <= 1) {
+    return { score: 1, level: 'weak', label: 'Kuchsiz', tone: 'negative', percent: 33 }
+  }
+  if (points <= 3) {
+    return { score: 2, level: 'medium', label: "O'rtacha", tone: 'warning', percent: 66 }
+  }
+
+  return { score: 3, level: 'strong', label: 'Kuchli', tone: 'positive', percent: 100 }
+}

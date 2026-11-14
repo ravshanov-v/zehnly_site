@@ -14,6 +14,12 @@ import {
   getHistory,
   updateHistoryRecord,
 } from '../../utils/quizHistory.js'
+import {
+  advanceCategoryProgress,
+  getCategoryBatch,
+  resetCategoryProgress,
+} from '../../utils/quizProgress.js'
+import { useQuizProgress } from '../../hooks/useQuizProgress.js'
 import { ArrowRight, ArrowUpRight } from '../../Components/Marks.jsx'
 import Reveal from '../../Components/Reveal.jsx'
 
@@ -97,6 +103,8 @@ export default function Zakovat() {
   const [isAnswered, setIsAnswered] = useState(false)
   const [sessionQuestions, setSessionQuestions] = useState([])
   const [questionIndex, setQuestionIndex] = useState(0)
+  const [sessionStartCursor, setSessionStartCursor] = useState(0)
+  const [sessionTotal, setSessionTotal] = useState(0)
   const [activeCategoryId, setActiveCategoryId] = useState(null)
   const [stats, setStats] = useState(EMPTY_STATS)
   const [loadingCategoryId, setLoadingCategoryId] = useState(null)
@@ -105,6 +113,7 @@ export default function Zakovat() {
   const sessionRecordIdRef = useRef(null)
 
   const historyStats = computeStats(getHistory())
+  const progressState = useQuizProgress()
   const isLoading = loadingCategoryId !== null
 
   const currentQuestion = sessionQuestions[questionIndex] || null
@@ -133,25 +142,61 @@ export default function Zakovat() {
     if (resolvedQuestionRef.current) return
 
     resolvedQuestionRef.current = true
+    if (activeCategoryId) advanceCategoryProgress(activeCategoryId)
     setStats((prev) => ({
       ...prev,
       totalAnswered: prev.totalAnswered + 1,
       wrongCount: prev.wrongCount + 1,
     }))
-  }, [gameState, isAnswered, timeLeft, currentQuestion])
+  }, [gameState, isAnswered, timeLeft, currentQuestion, activeCategoryId])
 
-  const startArena = async (categoryId = null) => {
+  const startArena = async (categoryId = null, { reset = false, shuffle: shouldShuffle = false } = {}) => {
     if (isLoading) return
 
     setLoadingCategoryId(categoryId ?? 'mixed')
     setLoadError('')
 
     try {
-      const ids = categoryId ? [categoryId] : pickMixedCategoryIds()
+      if (categoryId) {
+        const category = await loadCategory(categoryId)
+        const ids = category.questions.map((question) => question.id)
+
+        if (reset) resetCategoryProgress(categoryId, ids, { shuffle: shouldShuffle })
+
+        const { batch, start, total, completed } = getCategoryBatch(
+          categoryId,
+          category.questions
+        )
+
+        setActiveCategoryId(categoryId)
+        setSessionStartCursor(start)
+        setSessionTotal(total)
+        setQuestionIndex(0)
+        setTimeLeft(ARENA_SECONDS)
+        setSelectedOption(null)
+        setIsAnswered(false)
+        setStats(EMPTY_STATS)
+        resolvedQuestionRef.current = false
+        sessionRecordIdRef.current = null
+
+        if (completed) {
+          setSessionQuestions([])
+          setGameState('cycle-complete')
+          return
+        }
+
+        setSessionQuestions(batch)
+        setGameState('arena')
+        return
+      }
+
+      const ids = pickMixedCategoryIds()
       const categories = await Promise.all(ids.map((id) => loadCategory(id)))
       const queue = buildSessionQueue(categories)
 
-      setActiveCategoryId(categoryId)
+      setActiveCategoryId(null)
+      setSessionStartCursor(0)
+      setSessionTotal(queue.length)
       setSessionQuestions(queue)
       setQuestionIndex(0)
       setTimeLeft(ARENA_SECONDS)
@@ -171,7 +216,14 @@ export default function Zakovat() {
   const startNextQuestion = () => {
     const nextIndex = questionIndex + 1
 
-    if (nextIndex >= sessionQuestions.length) {
+    if (activeCategoryId) {
+      if (nextIndex >= sessionQuestions.length) {
+        finishSession()
+        return
+      }
+
+      setQuestionIndex(nextIndex)
+    } else if (nextIndex >= sessionQuestions.length) {
       setSessionQuestions((prev) => shuffle(prev))
       setQuestionIndex(0)
     } else {
@@ -217,6 +269,11 @@ export default function Zakovat() {
   }
 
   const resumeSession = () => {
+    if (activeCategoryId) {
+      startArena(activeCategoryId)
+      return
+    }
+
     setGameState('arena')
   }
 
@@ -225,6 +282,7 @@ export default function Zakovat() {
 
     const isAnswerCorrect = id === currentQuestion?.correct
     resolvedQuestionRef.current = true
+    if (activeCategoryId) advanceCategoryProgress(activeCategoryId)
 
     setSelectedOption(id)
     setIsAnswered(true)
@@ -240,6 +298,8 @@ export default function Zakovat() {
     setGameState('lobby')
     setSessionQuestions([])
     setQuestionIndex(0)
+    setSessionStartCursor(0)
+    setSessionTotal(0)
     setSelectedOption(null)
     setIsAnswered(false)
     setTimeLeft(ARENA_SECONDS)
@@ -251,6 +311,12 @@ export default function Zakovat() {
   const isCorrect = isDone && selectedOption === currentQuestion?.correct
   const isTimeout = isDone && selectedOption === null
   const activeMeta = activeCategoryId ? getCategoryMeta(activeCategoryId) : null
+  const activeProgress = activeCategoryId ? progressState[activeCategoryId] : null
+  const activeCursor = activeProgress?.cursor ?? 0
+  const activeCount = activeCategoryId
+    ? getCategoryMeta(activeCategoryId)?.questionCount ?? sessionTotal
+    : sessionQuestions.length
+  const remainingQuestions = activeCategoryId ? Math.max(activeCount - activeCursor, 0) : 0
   const correctOption = currentQuestion?.options.find(
     (option) => option.id === currentQuestion.correct
   )
@@ -403,7 +469,16 @@ export default function Zakovat() {
                   <p className="mt-1.5 text-xs leading-5 text-muted">{group.description}</p>
 
                   <div className="mt-5 grid grid-cols-2 gap-2.5 sm:grid-cols-3 lg:grid-cols-4">
-                    {group.items.map((subject) => (
+                    {group.items.map((subject) => {
+                      const subjectProgress = progressState[subject.id]
+                      const subjectCursor = Math.min(
+                        subjectProgress?.cursor || 0,
+                        subject.questionCount || 0
+                      )
+                      const subjectCompleted =
+                        subject.questionCount > 0 && subjectCursor >= subject.questionCount
+
+                      return (
                       <button
                         key={subject.id}
                         type="button"
@@ -426,11 +501,29 @@ export default function Zakovat() {
                           <span className="mt-1 block font-mono text-[9px] uppercase tracking-[0.1em] text-muted">
                             {loadingCategoryId === subject.id
                               ? 'Yuklanmoqda…'
-                              : `${subject.questionCount.toLocaleString('ru-RU')} savol`}
+                              : subjectCompleted
+                                ? `${subject.questionCount.toLocaleString('ru-RU')} savol · yakunlangan`
+                                : subjectCursor > 0
+                                  ? `${subjectCursor.toLocaleString('ru-RU')} / ${subject.questionCount.toLocaleString('ru-RU')} savol`
+                                  : `${subject.questionCount.toLocaleString('ru-RU')} savol`}
                           </span>
+                          {subject.questionCount > 0 && subjectCursor > 0 && (
+                            <span className="mt-2 block h-1 w-full overflow-hidden rounded-full bg-ink/[0.06]">
+                              <span
+                                className="block h-full rounded-full bg-ember transition-all duration-300"
+                                style={{
+                                  width: `${Math.min(
+                                    100,
+                                    (subjectCursor / subject.questionCount) * 100
+                                  )}%`,
+                                }}
+                              />
+                            </span>
+                          )}
                         </div>
                       </button>
-                    ))}
+                      )
+                    })}
                   </div>
                 </section>
               </Reveal>
@@ -537,9 +630,26 @@ export default function Zakovat() {
                 {currentQuestion.categoryGroup} · {currentQuestion.categoryTitle}
               </span>
               <span className="font-mono text-[9px] uppercase tracking-[0.1em] text-muted">
-                Savol{' '}
-                <strong className="mx-0.5 text-xs text-ink">{questionIndex + 1}</strong> /{' '}
-                {sessionQuestions.length.toLocaleString('ru-RU')}
+                {activeCategoryId ? (
+                  <>
+                    Savol{' '}
+                    <strong className="mx-0.5 text-xs text-ink">
+                      {Math.min(sessionStartCursor + questionIndex + 1, sessionTotal).toLocaleString(
+                        'ru-RU'
+                      )}
+                    </strong>{' '}
+                    / {sessionTotal.toLocaleString('ru-RU')}
+                    <span className="ml-2 text-muted/70">
+                      ({questionIndex + 1}/{sessionQuestions.length} partiya)
+                    </span>
+                  </>
+                ) : (
+                  <>
+                    Savol{' '}
+                    <strong className="mx-0.5 text-xs text-ink">{questionIndex + 1}</strong> /{' '}
+                    {sessionQuestions.length.toLocaleString('ru-RU')}
+                  </>
+                )}
               </span>
               <span className="font-mono text-[9px] uppercase tracking-[0.1em] text-muted">
                 +{currentQuestion.xp} XP
@@ -711,6 +821,59 @@ export default function Zakovat() {
         </div>
       )}
 
+      {gameState === 'cycle-complete' && (
+        <div className="zehnly-fade-in">
+          <div className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center text-ink sm:px-12 sm:py-16">
+            <div
+              aria-hidden="true"
+              className="pointer-events-none absolute -top-32 left-1/2 h-72 w-[38rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_66%)] blur-3xl"
+            />
+            <div
+              aria-hidden="true"
+              className="dot-grid pointer-events-none absolute inset-0 opacity-40 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]"
+            />
+
+            <div className="relative mx-auto max-w-2xl">
+              <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
+                {activeMeta?.title || 'Fan'} · 1000 savol
+              </span>
+              <h2 className="mt-4 font-display text-[clamp(2.2rem,5vw,3.6rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink">
+                Bosqich yakunlandi.
+              </h2>
+              <p className="mx-auto mt-5 max-w-lg text-sm leading-7 text-muted">
+                Bu fan bo‘yicha 1000 ta savolning barchasini ishladingiz. Endi qaytadan
+                boshlashingiz yoki savollarni aralashtirib davom ettirishingiz mumkin.
+              </p>
+
+              <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
+                <button
+                  type="button"
+                  onClick={() => startArena(activeCategoryId, { reset: true })}
+                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                >
+                  1-dan qayta
+                  <ArrowRight className="h-3.5 w-3.5" />
+                </button>
+                <button
+                  type="button"
+                  onClick={() => startArena(activeCategoryId, { reset: true, shuffle: true })}
+                  className="inline-flex h-11 w-full items-center justify-center rounded-xl border border-hairline-strong px-6 text-xs font-semibold text-ink transition-colors hover:border-ember/50 hover:bg-ink/[0.04] sm:w-auto"
+                >
+                  Aralashtirib davom etish
+                </button>
+                <button
+                  type="button"
+                  onClick={handleBackToLobby}
+                  className="inline-flex h-11 w-full items-center justify-center rounded-xl px-4 text-xs font-medium text-muted transition-colors hover:text-ink sm:w-auto"
+                >
+                  Lobbyga qaytish
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {gameState === 'summary' && (
         <div className="zehnly-fade-in">
           <div className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center text-ink sm:px-12 sm:py-16">
@@ -743,6 +906,12 @@ export default function Zakovat() {
               <p className="mt-4 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
                 Jami ishlangan savollar — {stats.totalAnswered} ta
               </p>
+              {activeCategoryId && activeCount > 0 && (
+                <p className="mt-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
+                  Progress — {Math.min(activeCursor, activeCount).toLocaleString('ru-RU')} /{' '}
+                  {activeCount.toLocaleString('ru-RU')}
+                </p>
+              )}
 
               <div className="mx-auto mt-8 grid max-w-xl divide-y divide-hairline overflow-hidden rounded-2xl border border-hairline sm:grid-cols-3 sm:divide-x sm:divide-y-0">
                 <div className="p-5">
@@ -777,12 +946,23 @@ export default function Zakovat() {
                   onClick={resumeSession}
                   className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
                 >
-                  Davom etish
+                  {activeCategoryId && remainingQuestions > 0 ? 'Keyingi 20 savol' : 'Davom etish'}
                   <ArrowRight className="h-3.5 w-3.5" />
                 </button>
                 <button
                   type="button"
-                  onClick={() => startArena(activeCategoryId)}
+                  onClick={() => {
+                    if (
+                      activeCategoryId &&
+                      !window.confirm(
+                        "Bu fan bo'yicha progress noldan boshlanadi. Davom etasizmi?"
+                      )
+                    ) {
+                      return
+                    }
+
+                    startArena(activeCategoryId, { reset: true })
+                  }}
                   className="inline-flex h-11 w-full items-center justify-center rounded-xl border border-hairline-strong px-6 text-xs font-semibold text-ink transition-colors hover:border-ember/50 hover:bg-ink/[0.04] sm:w-auto"
                 >
                   Qayta boshlash

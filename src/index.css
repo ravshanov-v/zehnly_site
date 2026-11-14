@@ -299,6 +299,21 @@ body {
   animation: zehnly-scale-in 0.35s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
 
+@keyframes zehnly-toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.zehnly-toast-in {
+  animation: zehnly-toast-in 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
 @keyframes shimmer {
   from {
     background-position: 200% 0;
@@ -320,6 +335,7 @@ body {
 
   .zehnly-fade-in,
   .zehnly-scale-in,
+  .zehnly-toast-in,
   .animate-fadeIn,
   .animate-drift-a,
   .animate-drift-b,

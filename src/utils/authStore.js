@@ -5,6 +5,7 @@ const SESSION_KEY = 'zehnly-session'
 const LAST_EMAIL_KEY = 'zehnly-last-email'
 
 const listeners = new Set()
+
 let sessionCache = readSession()
 
 function emit() {
@@ -24,32 +25,46 @@ export function getSession() {
 
 function readSession() {
   try {
-    const raw = localStorage.getItem(SESSION_KEY)
-    const session = raw ? JSON.parse(raw) : null
-    if (!session?.email || session.id) return session
+    const localRaw = localStorage.getItem(SESSION_KEY)
+    if (localRaw) return normalizeSession(JSON.parse(localRaw), true)
 
-    const user = readUsers().find((item) => item.email === session.email)
-    if (!user?.id) return session
+    const tabRaw = sessionStorage.getItem(SESSION_KEY)
+    if (tabRaw) return normalizeSession(JSON.parse(tabRaw), false)
 
-    const migrated = {
-      ...session,
-      id: user.id,
-      createdAt: session.createdAt || user.createdAt,
-    }
-    localStorage.setItem(SESSION_KEY, JSON.stringify(migrated))
-    return migrated
+    return null
   } catch {
     return null
   }
 }
 
+function normalizeSession(session, remember) {
+  if (!session || typeof session !== 'object' || !session.email) return null
+
+  let next = { ...session, remember: session.remember ?? remember }
+
+  if (!next.id) {
+    const user = readUsers().find((item) => item.email === next.email)
+    if (user?.id) {
+      next = { ...next, id: user.id, createdAt: next.createdAt || user.createdAt }
+    }
+  }
+
+  return next
+}
+
 function writeSession(session) {
   sessionCache = session
 
-  if (session) {
-    localStorage.setItem(SESSION_KEY, JSON.stringify(session))
-  } else {
+  try {
     localStorage.removeItem(SESSION_KEY)
+    sessionStorage.removeItem(SESSION_KEY)
+
+    if (session) {
+      const storage = session.remember ? localStorage : sessionStorage
+      storage.setItem(SESSION_KEY, JSON.stringify(session))
+    }
+  } catch {
+    // storage mavjud bo'lmaganda sessiya faqat xotirada qoladi
   }
 
   emit()
@@ -66,7 +81,11 @@ function readUsers() {
 }
 
 function writeUsers(users) {
-  localStorage.setItem(USERS_KEY, JSON.stringify(users))
+  try {
+    localStorage.setItem(USERS_KEY, JSON.stringify(users))
+  } catch {
+    // storage mavjud bo'lmaganda yozuvni o'tkazib yuboramiz
+  }
 }
 
 function toHex(buffer) {
@@ -116,33 +135,53 @@ function createId() {
 }
 
 export function getLastEmail() {
-  return localStorage.getItem(LAST_EMAIL_KEY) ?? ''
+  try {
+    return localStorage.getItem(LAST_EMAIL_KEY) ?? ''
+  } catch {
+    return ''
+  }
 }
 
 export function setLastEmail(email) {
-  localStorage.setItem(LAST_EMAIL_KEY, normalizeEmail(email))
+  try {
+    localStorage.setItem(LAST_EMAIL_KEY, normalizeEmail(email))
+  } catch {
+    // muhim emas
+  }
 }
 
 export function getUsers() {
   return readUsers()
 }
 
-export async function registerUser(email, name, password) {
+export function isEmailRegistered(email) {
+  const normalizedEmail = normalizeEmail(email)
+  if (!normalizedEmail) return false
+
+  return readUsers().some((user) => user.email === normalizedEmail)
+}
+
+export async function registerUser(email, name, password, options = {}) {
   const normalizedEmail = normalizeEmail(email)
   const users = readUsers()
 
   if (users.some((user) => user.email === normalizedEmail)) {
-    return { ok: false, message: "Bu email allaqachon ro'yxatdan o'tgan. Kirish bo'limidan foydalaning" }
+    return {
+      ok: false,
+      code: 'EMAIL_TAKEN',
+      message: "Bu email allaqachon ro'yxatdan o'tgan",
+    }
   }
 
   const salt = randomSalt()
   const passwordHash = await hashPassword(password, salt)
   const createdAt = new Date().toISOString()
+  const displayName = String(name).trim()
 
   const user = {
     id: createId(),
     email: normalizedEmail,
-    name,
+    name: displayName,
     salt,
     passwordHash,
     createdAt,
@@ -156,23 +195,24 @@ export async function registerUser(email, name, password) {
     email: user.email,
     createdAt,
     loggedInAt: createdAt,
+    remember: options.remember ?? true,
   })
 
   return { ok: true, user }
 }
 
-export async function loginUser(email, password) {
+export async function loginUser(email, password, options = {}) {
   const normalizedEmail = normalizeEmail(email)
   const user = readUsers().find((item) => item.email === normalizedEmail)
 
   if (!user) {
-    return { ok: false, message: "Email yoki parol noto'g'ri" }
+    return { ok: false, code: 'INVALID_CREDENTIALS', message: "Email yoki parol noto'g'ri" }
   }
 
   const passwordHash = await hashPassword(password, user.salt)
 
   if (passwordHash !== user.passwordHash) {
-    return { ok: false, message: "Email yoki parol noto'g'ri" }
+    return { ok: false, code: 'INVALID_CREDENTIALS', message: "Email yoki parol noto'g'ri" }
   }
 
   setLastEmail(normalizedEmail)
@@ -182,6 +222,7 @@ export async function loginUser(email, password) {
     email: user.email,
     createdAt: user.createdAt,
     loggedInAt: new Date().toISOString(),
+    remember: options.remember ?? true,
   })
 
   return { ok: true, user }
@@ -189,4 +230,45 @@ export async function loginUser(email, password) {
 
 export function logoutUser() {
   writeSession(null)
+}
+
+export async function resetPassword(email, newPassword) {
+  const normalizedEmail = normalizeEmail(email)
+  const users = readUsers()
+  const index = users.findIndex((user) => user.email === normalizedEmail)
+
+  if (index === -1) {
+    return {
+      ok: false,
+      code: 'EMAIL_NOT_FOUND',
+      message: 'Bunday email bilan akkaunt topilmadi',
+    }
+  }
+
+  const salt = randomSalt()
+  const passwordHash = await hashPassword(newPassword, salt)
+  const updatedAt = new Date().toISOString()
+  const updatedUser = {
+    ...users[index],
+    salt,
+    passwordHash,
+    updatedAt,
+  }
+
+  writeUsers(users.map((user, userIndex) => (userIndex === index ? updatedUser : user)))
+  setLastEmail(normalizedEmail)
+
+  return { ok: true, user: updatedUser }
+}
+
+if (typeof window !== 'undefined') {
+  window.addEventListener('storage', (event) => {
+    if (event.key !== null && event.key !== SESSION_KEY) return
+
+    const next = readSession()
+    if (JSON.stringify(next) === JSON.stringify(sessionCache)) return
+
+    sessionCache = next
+    emit()
+  })
 }

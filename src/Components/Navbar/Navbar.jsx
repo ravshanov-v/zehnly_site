@@ -6,6 +6,7 @@ import { useSession } from '../../hooks/useSession.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
 import { useFavorites } from '../../hooks/useFavorites.js'
 import { logoutUser } from '../../utils/authStore.js'
+import { useToast } from '../../context/useToast.js'
 import { formatRecordDate, mergeGuestHistory } from '../../utils/quizHistory.js'
 import { mergeGuestFavorites } from '../../utils/favorites.js'
 import { studyCenters } from '../../data/studyCenters.js'
@@ -25,6 +26,7 @@ const navLinkBase =
 
 export default function Navbar() {
   const { theme, toggleTheme } = useTheme()
+  const { showToast } = useToast()
   const [authOpen, setAuthOpen] = useState(false)
   const [profilOpen, setProfilOpen] = useState(false)
   const [profilTab, setProfilTab] = useState('malumotlarim')
@@ -33,6 +35,10 @@ export default function Navbar() {
   const { records, stats } = useQuizHistory()
   const favoriteIds = useFavorites()
   const isDark = theme === 'dark'
+
+  const displayName = (session?.name || session?.email?.split('@')[0] || '').trim()
+  const initial = displayName.charAt(0).toUpperCase()
+  const xpLabel = new Intl.NumberFormat('uz-UZ').format(Math.max(stats.xp || 0, 0))
 
   const historyLogs = records.map((record) => ({
     action: `${record.categoryTitle} · ${record.correctCount}/${record.totalAnswered} to'g'ri · ${record.xp} XP`,
@@ -60,6 +66,8 @@ export default function Navbar() {
   const handleLogout = () => {
     logoutUser()
     setProfilOpen(false)
+    setMenuOpen(false)
+    showToast('Tizimdan chiqdingiz. Yana kutamiz!', { variant: 'info' })
   }
 
   return (
@@ -132,24 +140,68 @@ export default function Navbar() {
             </button>
 
             {session ? (
-              <button
-                type="button"
-                onClick={() => setProfilOpen(true)}
-                title={(session.name ?? session.email).trim()}
-                aria-label="Profil bo'limini ochish"
-                className="relative flex h-9 w-9 items-center justify-center rounded-lg bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-[13px] font-semibold text-white transition-transform duration-150 hover:scale-105 active:scale-95"
-              >
-                {(session.name ?? session.email).trim().charAt(0).toUpperCase()}
-                <span className="absolute -bottom-0.5 -right-0.5 h-2.5 w-2.5 rounded-full border-2 border-paper bg-positive" />
-              </button>
+              <div className="flex items-center gap-1.5 sm:gap-2">
+                <button
+                  type="button"
+                  onClick={() => setProfilOpen(true)}
+                  title={session.name ?? session.email}
+                  aria-label="Profil bo'limini ochish"
+                  className="group flex h-9 items-center gap-2 rounded-lg border border-hairline bg-paper/60 py-1 pl-1 pr-1.5 transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] lg:pr-3"
+                >
+                  <span className="relative flex h-7 w-7 shrink-0 items-center justify-center rounded-md bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-[12px] font-semibold text-white">
+                    {initial}
+                    <span className="absolute -bottom-0.5 -right-0.5 h-2.5 w-2.5 rounded-full border-2 border-paper bg-positive" />
+                  </span>
+                  <span className="hidden min-w-0 flex-col items-start leading-tight lg:flex">
+                    <span className="max-w-[9rem] truncate text-[12px] font-semibold text-ink">
+                      {displayName}
+                    </span>
+                    <span className="font-mono text-[8px] uppercase tracking-[0.12em] text-ember">
+                      {xpLabel} XP
+                    </span>
+                  </span>
+                </button>
+
+                <span
+                  title={`${xpLabel} XP`}
+                  className="hidden h-9 items-center gap-1 rounded-lg border border-ember/20 bg-ember/[0.07] px-2 font-mono text-[10px] font-semibold tabular-nums text-ember sm:flex lg:hidden"
+                >
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" className="h-3 w-3">
+                    <path d="M13 2 4.5 13.5H11l-1 8.5 9.5-12H13l0-8Z" />
+                  </svg>
+                  {xpLabel}
+                </span>
+
+                <button
+                  type="button"
+                  onClick={handleLogout}
+                  title="Tizimdan chiqish"
+                  aria-label="Tizimdan chiqish"
+                  className="hidden h-9 w-9 items-center justify-center rounded-lg border border-hairline text-muted transition-colors hover:border-negative/30 hover:bg-negative/10 hover:text-negative sm:flex"
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.7"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    aria-hidden="true"
+                    className="h-4 w-4"
+                  >
+                    <path d="M15 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h7a2 2 0 0 0 2-2v-2" />
+                    <path d="M10 12h10m0 0-3-3m3 3-3 3" />
+                  </svg>
+                </button>
+              </div>
             ) : (
               <button
                 type="button"
                 onClick={() => setAuthOpen(true)}
-                className="hidden h-9 items-center gap-2 rounded-lg bg-ink px-4 text-[12px] font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink sm:inline-flex"
+                className="inline-flex h-9 items-center gap-1.5 rounded-lg bg-ink px-3 text-[12px] font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink sm:gap-2 sm:px-4"
               >
-                Kirish
-                <ArrowUpRight className="h-3.5 w-3.5" />
+                <span>Kirish</span>
+                <ArrowUpRight className="hidden h-3.5 w-3.5 sm:block" />
               </button>
             )}
 
@@ -203,17 +255,58 @@ export default function Navbar() {
               </div>
 
               {session ? (
-                <button
-                  type="button"
-                  onClick={() => {
-                    setMenuOpen(false)
-                    setProfilOpen(true)
-                  }}
-                  className="mt-4 flex h-11 w-full items-center justify-between rounded-xl bg-ink px-4 text-sm font-semibold text-paper"
-                >
-                  Profilim
-                  <ArrowUpRight />
-                </button>
+                <div className="mt-4 rounded-xl border border-hairline bg-paper p-3">
+                  <div className="flex items-center gap-3">
+                    <span className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-base font-semibold text-white">
+                      {initial}
+                      <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-paper bg-positive" />
+                    </span>
+                    <div className="min-w-0 flex-1">
+                      <p className="truncate text-sm font-semibold text-ink">{displayName}</p>
+                      <p className="truncate text-[11px] text-muted">{session.email}</p>
+                    </div>
+                    <span className="flex shrink-0 items-center gap-1 rounded-md border border-ember/20 bg-ember/[0.07] px-2 py-1 font-mono text-[10px] font-semibold text-ember">
+                      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" className="h-3 w-3">
+                        <path d="M13 2 4.5 13.5H11l-1 8.5 9.5-12H13l0-8Z" />
+                      </svg>
+                      {xpLabel} XP
+                    </span>
+                  </div>
+
+                  <div className="mt-3 grid grid-cols-2 gap-2">
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setMenuOpen(false)
+                        setProfilOpen(true)
+                      }}
+                      className="flex h-10 items-center justify-center gap-1.5 rounded-lg bg-ink text-xs font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink"
+                    >
+                      Profilim
+                      <ArrowUpRight className="h-3.5 w-3.5" />
+                    </button>
+                    <button
+                      type="button"
+                      onClick={handleLogout}
+                      className="flex h-10 items-center justify-center gap-1.5 rounded-lg border border-negative/25 bg-negative/[0.05] text-xs font-semibold text-negative transition-colors hover:bg-negative/10"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="1.7"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        aria-hidden="true"
+                        className="h-3.5 w-3.5"
+                      >
+                        <path d="M15 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h7a2 2 0 0 0 2-2v-2" />
+                        <path d="M10 12h10m0 0-3-3m3 3-3 3" />
+                      </svg>
+                      Chiqish
+                    </button>
+                  </div>
+                </div>
               ) : (
                 <button
                   type="button"

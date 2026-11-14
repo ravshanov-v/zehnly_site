@@ -1,22 +1,27 @@
 import { useEffect, useRef, useState } from 'react'
 import Logo from '../Logo.jsx'
 import { CheckMark } from '../Marks.jsx'
-import { getLastEmail, loginUser, registerUser } from '../../utils/authStore.js'
+import { getLastEmail, isEmailRegistered, loginUser, registerUser, resetPassword } from '../../utils/authStore.js'
 import { mergeGuestFavorites } from '../../utils/favorites.js'
 import { mergeGuestHistory } from '../../utils/quizHistory.js'
+import { useToast } from '../../context/useToast.js'
 import {
+  MIN_NAME_LENGTH,
   MIN_PASSWORD_LENGTH,
   getPasswordChecks,
+  getPasswordStrength,
   normalizeEmail,
   passwordRules,
+  validateConfirmPassword,
   validateEmail,
+  validateLoginPassword,
   validateName,
   validatePassword,
 } from '../../utils/validation.js'
 
 function fieldClass(hasError) {
   return [
-    'w-full rounded-lg border bg-paper px-3.5 py-2.5 text-sm text-ink outline-none transition-all placeholder:text-muted/60 focus:ring-2',
+    'w-full rounded-lg border bg-paper px-3.5 py-2.5 text-base text-ink outline-none transition-all placeholder:text-muted/60 focus:ring-2 sm:text-sm',
     hasError
       ? 'border-negative/60 focus:border-negative focus:ring-negative/15'
       : 'border-hairline focus:border-ember focus:ring-ember/15',
@@ -26,7 +31,20 @@ function fieldClass(hasError) {
 const labelClass = 'font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted'
 
 const ctaClass =
-  'flex w-full items-center justify-center gap-2 rounded-xl bg-ember py-3 text-sm font-semibold text-ember-ink shadow-[0_18px_40px_-24px_var(--ember)] transition-all hover:-translate-y-px hover:brightness-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/50 focus-visible:ring-offset-2 focus-visible:ring-offset-raised active:translate-y-0 disabled:cursor-not-allowed disabled:opacity-60'
+  'flex w-full items-center justify-center gap-2 rounded-xl bg-ember py-3 text-sm font-semibold text-ember-ink shadow-[0_18px_40px_-24px_var(--ember)] transition-all hover:-translate-y-px hover:brightness-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/50 focus-visible:ring-offset-2 focus-visible:ring-offset-raised active:translate-y-0 disabled:cursor-not-allowed disabled:opacity-60 disabled:hover:translate-y-0'
+
+const STRENGTH_TONES = {
+  negative: { bar: 'bg-negative', text: 'text-negative' },
+  warning: { bar: 'bg-amber-500', text: 'text-amber-500' },
+  positive: { bar: 'bg-positive', text: 'text-positive' },
+  muted: { bar: 'bg-ink/10', text: 'text-muted' },
+}
+
+function wait(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms)
+  })
+}
 
 function CheckIcon({ passed }) {
   return (
@@ -81,17 +99,82 @@ function AlertIcon() {
   )
 }
 
+function PasswordVisibilityButton({ visible, onToggle, label }) {
+  return (
+    <button
+      type="button"
+      onClick={onToggle}
+      aria-label={visible ? `${label}ni yashirish` : `${label}ni ko'rsatish`}
+      title={visible ? `${label}ni yashirish` : `${label}ni ko'rsatish`}
+      className="absolute inset-y-0 right-1.5 my-auto flex h-8 w-8 items-center justify-center rounded-md text-muted transition-colors hover:bg-ink/[0.05] hover:text-ink"
+    >
+      <EyeIcon hidden={visible} />
+    </button>
+  )
+}
+
+function PasswordStrength({ strength }) {
+  const tone = STRENGTH_TONES[strength.tone] ?? STRENGTH_TONES.muted
+
+  return (
+    <div aria-live="polite" className="mt-0.5">
+      <div className="flex items-center justify-between gap-3 text-[10px]">
+        <span className="font-mono uppercase tracking-[0.14em] text-muted">Parol kuchliligi</span>
+        <span className={`font-semibold ${tone.text}`}>{strength.label}</span>
+      </div>
+      <div className="mt-1.5 flex gap-1" aria-hidden="true">
+        {[1, 2, 3].map((level) => (
+          <span
+            key={level}
+            className={`h-1 flex-1 rounded-full transition-colors duration-300 ${
+              level <= strength.score ? tone.bar : 'bg-ink/10'
+            }`}
+          />
+        ))}
+      </div>
+    </div>
+  )
+}
+
 const perks = ['Interaktiv test arenasi', 'Natijalar tarixi va analitika', 'Sevimli maskanlar']
 
 export default function AuthModal({ onClose }) {
   const dialogRef = useRef(null)
+  const panelRef = useRef(null)
+  const { showToast } = useToast()
   const [mode, setMode] = useState('login')
-  const [form, setForm] = useState(() => ({ name: '', email: getLastEmail(), password: '' }))
-  const [touched, setTouched] = useState({ name: false, email: false, password: false })
+  const [form, setForm] = useState(() => ({
+    name: '',
+    email: getLastEmail(),
+    password: '',
+    confirmPassword: '',
+    remember: true,
+  }))
+  const [touched, setTouched] = useState({
+    name: false,
+    email: false,
+    password: false,
+    confirmPassword: false,
+  })
   const [submitted, setSubmitted] = useState(false)
   const [serverError, setServerError] = useState('')
+  const [invalidCredentials, setInvalidCredentials] = useState(false)
   const [pending, setPending] = useState(false)
   const [showPassword, setShowPassword] = useState(false)
+  const [showConfirmPassword, setShowConfirmPassword] = useState(false)
+  const [resetStep, setResetStep] = useState('email')
+  const [resetEmail, setResetEmail] = useState('')
+  const [resetPasswordValue, setResetPasswordValue] = useState('')
+  const [resetConfirmValue, setResetConfirmValue] = useState('')
+  const [resetTouched, setResetTouched] = useState({
+    email: false,
+    password: false,
+    confirmPassword: false,
+  })
+  const [resetSubmitted, setResetSubmitted] = useState(false)
+  const [resetError, setResetError] = useState('')
+  const [showResetPassword, setShowResetPassword] = useState(false)
+  const [showResetConfirm, setShowResetConfirm] = useState(false)
 
   useEffect(() => {
     const onKeyDown = (event) => {
@@ -109,19 +192,55 @@ export default function AuthModal({ onClose }) {
   }, [onClose])
 
   const isLogin = mode === 'login'
+  const isRegister = mode === 'register'
+  const isReset = mode === 'reset'
   const emailValidation = validateEmail(form.email)
-  const passwordValidation = validatePassword(form.password)
   const nameValidation = validateName(form.name)
+  const passwordValidation = isLogin
+    ? validateLoginPassword(form.password)
+    : validatePassword(form.password)
+  const confirmValidation = validateConfirmPassword(form.password, form.confirmPassword)
   const passwordChecks = getPasswordChecks(form.password)
+  const passwordStrength = getPasswordStrength(form.password)
+  const emailTaken =
+    isRegister && emailValidation.valid && isEmailRegistered(emailValidation.email)
 
-  const showEmailError = (touched.email || submitted) && !emailValidation.valid
-  const showPasswordError = (touched.password || submitted) && !passwordValidation.valid
-  const showNameError = (touched.name || submitted) && !nameValidation.valid
+  const resetEmailValidation = validateEmail(resetEmail)
+  const resetPasswordValidation = validatePassword(resetPasswordValue)
+  const resetConfirmValidation = validateConfirmPassword(
+    resetPasswordValue,
+    resetConfirmValue
+  )
+  const resetPasswordChecks = getPasswordChecks(resetPasswordValue)
+  const resetPasswordStrength = getPasswordStrength(resetPasswordValue)
+
+  const isTouched = (key) => touched[key] || submitted
+
+  const showNameError = isRegister && isTouched('name') && !nameValidation.valid
+  const showEmailError = isTouched('email') && (!emailValidation.valid || emailTaken)
+  const showPasswordError = isTouched('password') && !passwordValidation.valid
+  const showConfirmError =
+    isRegister && isTouched('confirmPassword') && !confirmValidation.valid
+  const emailFieldInvalid = showEmailError || (isLogin && invalidCredentials)
+  const passwordFieldInvalid = showPasswordError || (isLogin && invalidCredentials)
+
+  const resetEmailInvalid =
+    (resetTouched.email || resetSubmitted) && !resetEmailValidation.valid
+  const showResetEmailError = resetEmailInvalid || Boolean(resetError)
+  const showResetPasswordError =
+    (resetTouched.password || resetSubmitted) && !resetPasswordValidation.valid
+  const showResetConfirmError =
+    (resetTouched.confirmPassword || resetSubmitted) && !resetConfirmValidation.valid
+
+  const emailErrorMessage = emailTaken
+    ? "Bu email allaqachon ro'yxatdan o'tgan"
+    : emailValidation.message
 
   const handleChange = (event) => {
-    const { name, value } = event.target
-    setForm((prev) => ({ ...prev, [name]: value }))
+    const { name, value, type, checked } = event.target
+    setForm((prev) => ({ ...prev, [name]: type === 'checkbox' ? checked : value }))
     if (serverError) setServerError('')
+    if (invalidCredentials) setInvalidCredentials(false)
   }
 
   const handleBlur = (event) => {
@@ -129,50 +248,229 @@ export default function AuthModal({ onClose }) {
     setTouched((prev) => ({ ...prev, [name]: true }))
   }
 
-  const switchMode = () => {
-    setMode(isLogin ? 'register' : 'login')
+  const scrollToPanelTop = () => {
+    panelRef.current?.scrollTo({ top: 0 })
+  }
+
+  const clearFormFeedback = () => {
+    setTouched({ name: false, email: false, password: false, confirmPassword: false })
     setSubmitted(false)
     setServerError('')
-    setTouched({ name: false, email: false, password: false })
+    setInvalidCredentials(false)
+    setShowPassword(false)
+    setShowConfirmPassword(false)
+    scrollToPanelTop()
+  }
+
+  const clearResetFlow = () => {
+    setResetStep('email')
+    setResetEmail('')
+    setResetPasswordValue('')
+    setResetConfirmValue('')
+    setResetTouched({ email: false, password: false, confirmPassword: false })
+    setResetSubmitted(false)
+    setResetError('')
+    setShowResetPassword(false)
+    setShowResetConfirm(false)
+  }
+
+  const goToLogin = (email) => {
+    setMode('login')
+    setForm((prev) => ({
+      ...prev,
+      email: email ?? prev.email,
+      password: '',
+      confirmPassword: '',
+    }))
+    clearResetFlow()
+    clearFormFeedback()
+  }
+
+  const goToRegister = () => {
+    setMode('register')
+    setForm((prev) => ({ ...prev, password: '', confirmPassword: '' }))
+    clearResetFlow()
+    clearFormFeedback()
+  }
+
+  const switchMode = () => {
+    if (mode === 'register') goToLogin()
+    else goToRegister()
+  }
+
+  const openReset = () => {
+    setMode('reset')
+    setResetStep('email')
+    setResetEmail(form.email.trim())
+    setResetPasswordValue('')
+    setResetConfirmValue('')
+    setResetTouched({ email: false, password: false, confirmPassword: false })
+    setResetSubmitted(false)
+    setResetError('')
+    setShowResetPassword(false)
+    setShowResetConfirm(false)
+    clearFormFeedback()
+  }
+
+  const editResetEmail = () => {
+    setResetStep('email')
+    setResetPasswordValue('')
+    setResetConfirmValue('')
+    setResetTouched({ email: false, password: false, confirmPassword: false })
+    setResetSubmitted(false)
+    setResetError('')
+    setShowResetPassword(false)
+    setShowResetConfirm(false)
+    scrollToPanelTop()
   }
 
   const handleSubmit = async (event) => {
     event.preventDefault()
+    if (pending) return
+
     setSubmitted(true)
     setServerError('')
+    setInvalidCredentials(false)
 
-    if (!emailValidation.valid || !passwordValidation.valid) return
-    if (!isLogin && !nameValidation.valid) return
+    if (!emailValidation.valid) return
+
+    if (isLogin) {
+      if (!passwordValidation.valid) return
+    } else {
+      if (!nameValidation.valid || !passwordValidation.valid || !confirmValidation.valid) return
+
+      if (emailTaken) {
+        setServerError("Bu email allaqachon ro'yxatdan o'tgan")
+        return
+      }
+    }
 
     setPending(true)
 
-    const email = emailValidation.email ?? normalizeEmail(form.email)
-    const name = nameValidation.name ?? form.name.trim()
-    const result = isLogin
-      ? await loginUser(email, form.password)
-      : await registerUser(email, name, form.password)
+    try {
+      const email = emailValidation.email ?? normalizeEmail(form.email)
+      const authPromise = isLogin
+        ? loginUser(email, form.password, { remember: form.remember })
+        : registerUser(email, nameValidation.name, form.password, { remember: true })
 
-    setPending(false)
+      const [result] = await Promise.all([authPromise, wait(450)])
 
-    if (!result.ok) {
-      setServerError(result.message)
+      if (!result.ok) {
+        setPending(false)
+        setServerError(result.message)
+        if (result.code === 'INVALID_CREDENTIALS') setInvalidCredentials(true)
+        return
+      }
+
+      mergeGuestHistory(email)
+      mergeGuestFavorites(email)
+
+      const displayName = (result.user?.name || email).trim()
+
+      showToast(
+        isLogin
+          ? `Xush kelibsiz, ${displayName}!`
+          : `Hisobingiz yaratildi. Xush kelibsiz, ${displayName}!`,
+        {
+          title: isLogin ? 'Tizimga muvaffaqiyatli kirdingiz' : "Ro'yxatdan o'tish yakunlandi",
+          variant: 'success',
+        }
+      )
+
+      setPending(false)
+      onClose()
+    } catch {
+      setPending(false)
+      setServerError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring")
+    }
+  }
+
+  const handleResetChange = (event) => {
+    const { name, value } = event.target
+
+    if (name === 'email') setResetEmail(value)
+    else if (name === 'password') setResetPasswordValue(value)
+    else if (name === 'confirmPassword') setResetConfirmValue(value)
+
+    if (resetError) setResetError('')
+  }
+
+  const handleResetBlur = (event) => {
+    const { name } = event.target
+    setResetTouched((prev) => ({ ...prev, [name]: true }))
+  }
+
+  const handleResetSubmit = async (event) => {
+    event.preventDefault()
+    if (pending) return
+
+    if (resetStep === 'email') {
+      setResetSubmitted(true)
+      setResetError('')
+
+      if (!resetEmailValidation.valid) return
+
+      setPending(true)
+      await wait(400)
+
+      if (!isEmailRegistered(resetEmailValidation.email)) {
+        setPending(false)
+        setResetError('Bunday email bilan akkaunt topilmadi')
+        return
+      }
+
+      setPending(false)
+      setResetEmail(resetEmailValidation.email)
+      setResetStep('password')
+      setResetSubmitted(false)
+      setResetTouched({ email: false, password: false, confirmPassword: false })
+      setShowResetPassword(false)
+      setShowResetConfirm(false)
+      scrollToPanelTop()
       return
     }
 
-    mergeGuestHistory(email)
-    mergeGuestFavorites(email)
-    onClose()
+    setResetSubmitted(true)
+    setResetError('')
+
+    if (!resetPasswordValidation.valid || !resetConfirmValidation.valid) return
+
+    setPending(true)
+
+    try {
+      const [result] = await Promise.all([
+        resetPassword(resetEmail, resetPasswordValue),
+        wait(450),
+      ])
+
+      setPending(false)
+
+      if (!result.ok) {
+        setResetError(result.message)
+        return
+      }
+
+      const email = resetEmailValidation.email ?? normalizeEmail(resetEmail)
+      goToLogin(email)
+      showToast('Parolingiz yangilandi. Endi yangi parol bilan tizimga kiring.', {
+        title: 'Parol muvaffaqiyatli tiklandi',
+        variant: 'success',
+      })
+    } catch {
+      setPending(false)
+      setResetError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring")
+    }
   }
 
   const tabClass = (active) =>
     [
-      'flex items-center justify-center rounded-lg px-3 py-2 text-sm transition-colors duration-150',
+      'flex items-center justify-center rounded-lg px-3 py-2 text-sm transition-colors duration-150 disabled:cursor-not-allowed disabled:opacity-60',
       active ? 'bg-ink font-semibold text-paper' : 'text-muted hover:text-ink',
     ].join(' ')
 
   return (
     <div
-      className="zehnly-fade-in scrim fixed inset-0 z-[60] flex items-center justify-center p-4 backdrop-blur-md"
+      className="zehnly-fade-in scrim fixed inset-0 z-[60] flex items-center justify-center p-3 backdrop-blur-md sm:p-4"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) onClose()
       }}
@@ -183,7 +481,7 @@ export default function AuthModal({ onClose }) {
         aria-modal="true"
         aria-labelledby="auth-modal-title"
         tabIndex={-1}
-        className="zehnly-scale-in relative grid max-h-[92vh] w-full max-w-3xl overflow-y-auto rounded-2xl border border-hairline bg-raised text-ink shadow-[var(--shadow-lift)] outline-none focus:outline-none md:grid-cols-[0.92fr_1.08fr]"
+        className="zehnly-scale-in relative grid h-[calc(100dvh_-_1.5rem)] w-full max-w-3xl overflow-hidden rounded-2xl border border-hairline bg-raised text-ink shadow-[var(--shadow-lift)] outline-none focus:outline-none sm:h-[min(92vh,760px)] md:grid-cols-[0.92fr_1.08fr]"
       >
         <aside className="relative hidden flex-col justify-between overflow-hidden border-hairline bg-sunken p-8 text-ink md:flex md:border-r">
           <div
@@ -225,7 +523,7 @@ export default function AuthModal({ onClose }) {
           </p>
         </aside>
 
-        <div className="relative p-6 sm:p-8">
+        <div ref={panelRef} className="relative flex min-h-0 flex-col overflow-y-auto overscroll-contain p-5 sm:p-8">
           <span
             aria-hidden="true"
             className="absolute inset-x-8 top-0 h-px bg-gradient-to-r from-transparent via-ember/60 to-transparent"
@@ -259,45 +557,286 @@ export default function AuthModal({ onClose }) {
             <button
               type="button"
               role="tab"
-              aria-selected={isLogin}
+              aria-selected={!isRegister}
+              disabled={pending}
               onClick={() => {
-                if (!isLogin) switchMode()
+                if (!isLogin) goToLogin()
               }}
-              className={tabClass(isLogin)}
+              className={tabClass(!isRegister)}
             >
               Kirish
             </button>
             <button
               type="button"
               role="tab"
-              aria-selected={!isLogin}
+              aria-selected={isRegister}
+              disabled={pending}
               onClick={() => {
-                if (isLogin) switchMode()
+                if (!isRegister) goToRegister()
               }}
-              className={tabClass(!isLogin)}
+              className={tabClass(isRegister)}
             >
               Ro&apos;yxatdan o&apos;tish
             </button>
           </div>
 
-          <div className="mt-6">
+          <div className="mt-5 sm:mt-6">
             <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
-              {isLogin ? 'Xush kelibsiz' : 'Yangi hisob'}
+              {isLogin ? 'Xush kelibsiz' : isRegister ? 'Yangi hisob' : 'Hisobni tiklash'}
             </span>
             <h2
               id="auth-modal-title"
-              className="mt-2 font-display text-[1.9rem] font-semibold leading-none tracking-[-0.04em] text-ink"
+              className="mt-2 font-display text-[1.7rem] font-semibold leading-none tracking-[-0.04em] text-ink sm:text-[1.9rem]"
             >
-              {isLogin ? 'Tizimga kirish' : "Ro'yxatdan o'tish"}
+              {isLogin ? 'Tizimga kirish' : isRegister ? "Ro'yxatdan o'tish" : 'Parolni tiklash'}
             </h2>
             <p className="mt-2 min-h-10 text-sm leading-6 text-muted sm:min-h-0">
               {isLogin
                 ? 'Hisobingizga kirish uchun maʼlumotlarni kiriting'
-                : 'Yangi hisob yaratish uchun maʼlumotlarni kiriting'}
+                : isRegister
+                  ? 'Yangi hisob yaratish uchun maʼlumotlarni kiriting'
+                  : resetStep === 'email'
+                    ? 'Roʻyxatdan oʻtgan emailingizni kiriting'
+                    : 'Akkauntingiz uchun yangi parol oʻrnating'}
             </p>
           </div>
 
-          <form onSubmit={handleSubmit} className="mt-5 flex flex-col gap-4" noValidate>
+          {isReset ? (
+            <form
+              key="reset"
+              onSubmit={handleResetSubmit}
+              className="zehnly-fade-in mt-5 flex flex-1 flex-col gap-4"
+              noValidate
+            >
+              {resetStep === 'email' ? (
+                <label className="flex flex-col gap-1.5">
+                  <span className={labelClass}>Ro&apos;yxatdan o&apos;tgan email</span>
+                  <input
+                    type="email"
+                    name="email"
+                    value={resetEmail}
+                    onChange={handleResetChange}
+                    onBlur={handleResetBlur}
+                    placeholder="ism@example.com"
+                    autoComplete="email"
+                    inputMode="email"
+                    autoCapitalize="none"
+                    spellCheck="false"
+                    aria-invalid={showResetEmailError}
+                    aria-describedby={
+                      [
+                        showResetEmailError && resetEmailValidation.message
+                          ? 'reset-email-error'
+                          : '',
+                        resetError ? 'reset-error' : '',
+                      ]
+                        .filter(Boolean)
+                        .join(' ') || undefined
+                    }
+                    className={fieldClass(showResetEmailError)}
+                  />
+
+                  {showResetEmailError && resetEmailValidation.message && (
+                    <span
+                      id="reset-email-error"
+                      className="flex items-center gap-1.5 text-xs font-medium text-negative"
+                    >
+                      <AlertIcon />
+                      {resetEmailValidation.message}
+                    </span>
+                  )}
+
+                  {resetError && (
+                    <p
+                      id="reset-error"
+                      role="alert"
+                      className="flex items-start gap-2 rounded-lg border border-negative/25 bg-negative/10 px-3 py-2 text-sm text-negative"
+                    >
+                      <AlertIcon />
+                      {resetError}
+                    </p>
+                  )}
+
+                  <span className="text-xs leading-5 text-muted">
+                    Akkauntingizni tasdiqlash uchun ro&apos;yxatdan o&apos;tgan emailni kiriting.
+                  </span>
+                </label>
+              ) : (
+                <>
+                  <div className="flex items-center justify-between gap-3 rounded-xl border border-hairline bg-paper px-3.5 py-3">
+                    <div className="flex min-w-0 items-center gap-2.5">
+                      <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-ember/10 text-ember">
+                        <svg
+                          viewBox="0 0 20 20"
+                          fill="currentColor"
+                          aria-hidden="true"
+                          className="h-4 w-4"
+                        >
+                          <path d="M3 4a2 2 0 0 0-2 2v.161a.75.75 0 0 0 .3.6l8 6a1.25 1.25 0 0 0 1.4 0l8-6a.75.75 0 0 0 .3-.6V6a2 2 0 0 0-2-2H3Z" />
+                          <path d="M18 8.339 11.09 13.52a2.75 2.75 0 0 1-3.18 0L1 8.34V14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8.34Z" />
+                        </svg>
+                      </span>
+                      <div className="min-w-0">
+                        <span className={labelClass}>Akkaunt</span>
+                        <p className="truncate text-sm font-medium text-ink" title={resetEmail}>
+                          {resetEmail}
+                        </p>
+                      </div>
+                    </div>
+                    <button
+                      type="button"
+                      onClick={editResetEmail}
+                      disabled={pending}
+                      className="shrink-0 text-xs font-semibold text-ember transition-colors hover:text-cobalt hover:underline underline-offset-2 disabled:cursor-not-allowed disabled:opacity-60"
+                    >
+                      O&apos;zgartirish
+                    </button>
+                  </div>
+
+                  <label className="flex flex-col gap-1.5">
+                    <span className={labelClass}>Yangi parol</span>
+                    <div className="relative">
+                      <input
+                        type={showResetPassword ? 'text' : 'password'}
+                        name="password"
+                        value={resetPasswordValue}
+                        onChange={handleResetChange}
+                        onBlur={handleResetBlur}
+                        placeholder="••••••••"
+                        autoComplete="new-password"
+                        aria-invalid={showResetPasswordError}
+                        aria-describedby={
+                          [
+                            'reset-password-rules',
+                            showResetPasswordError ? 'reset-password-error' : '',
+                          ]
+                            .filter(Boolean)
+                            .join(' ') || undefined
+                        }
+                        className={`${fieldClass(showResetPasswordError)} pr-11`}
+                      />
+                      <PasswordVisibilityButton
+                        visible={showResetPassword}
+                        onToggle={() => setShowResetPassword((prev) => !prev)}
+                        label="Yangi parol"
+                      />
+                    </div>
+
+                    {resetPasswordValue && (
+                      <PasswordStrength strength={resetPasswordStrength} />
+                    )}
+
+                    {showResetPasswordError && (
+                      <span
+                        id="reset-password-error"
+                        className="flex items-center gap-1.5 text-xs font-medium text-negative"
+                      >
+                        <AlertIcon />
+                        {resetPasswordValidation.message}
+                      </span>
+                    )}
+
+                    <ul
+                      id="reset-password-rules"
+                      className="mt-0.5 grid grid-cols-1 gap-1.5 text-xs sm:grid-cols-2 sm:gap-1"
+                    >
+                      {passwordRules.map((rule) => (
+                        <li
+                          key={rule.key}
+                          className={`flex items-center gap-1.5 ${
+                            resetPasswordChecks[rule.key] ? 'text-positive' : 'text-muted'
+                          }`}
+                        >
+                          <CheckIcon passed={resetPasswordChecks[rule.key]} />
+                          {rule.label}
+                        </li>
+                      ))}
+                    </ul>
+                  </label>
+
+                  <label className="flex flex-col gap-1.5">
+                    <span className={labelClass}>Yangi parolni tasdiqlash</span>
+                    <div className="relative">
+                      <input
+                        type={showResetConfirm ? 'text' : 'password'}
+                        name="confirmPassword"
+                        value={resetConfirmValue}
+                        onChange={handleResetChange}
+                        onBlur={handleResetBlur}
+                        placeholder="Parolni qayta kiriting"
+                        autoComplete="new-password"
+                        aria-invalid={showResetConfirmError}
+                        aria-describedby={
+                          showResetConfirmError ? 'reset-confirm-error' : undefined
+                        }
+                        className={`${fieldClass(showResetConfirmError)} pr-11`}
+                      />
+                      <PasswordVisibilityButton
+                        visible={showResetConfirm}
+                        onToggle={() => setShowResetConfirm((prev) => !prev)}
+                        label="Tasdiqlash paroli"
+                      />
+                    </div>
+                    {showResetConfirmError && (
+                      <span
+                        id="reset-confirm-error"
+                        className="flex items-center gap-1.5 text-xs font-medium text-negative"
+                      >
+                        <AlertIcon />
+                        {resetConfirmValidation.message}
+                      </span>
+                    )}
+                  </label>
+
+                  {resetError && (
+                    <p
+                      role="alert"
+                      className="flex items-start gap-2 rounded-lg border border-negative/25 bg-negative/10 px-3 py-2 text-sm text-negative"
+                    >
+                      <AlertIcon />
+                      {resetError}
+                    </p>
+                  )}
+                </>
+              )}
+
+              <button type="submit" disabled={pending} className={`${ctaClass} mt-1`}>
+                {pending && (
+                  <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
+                    <path
+                      className="opacity-90"
+                      fill="currentColor"
+                      d="M12 2a10 10 0 0 1 10 10h-3A7 7 0 0 0 12 5V2Z"
+                    />
+                  </svg>
+                )}
+                {pending
+                  ? 'Tekshirilmoqda...'
+                  : resetStep === 'email'
+                    ? 'Emailni tekshirish'
+                    : 'Parolni yangilash'}
+              </button>
+
+              <div className="mt-auto flex flex-col gap-2 pt-1">
+                <p className="text-center text-xs text-muted">
+                  <button
+                    type="button"
+                    onClick={() => goToLogin()}
+                    disabled={pending}
+                    className="font-semibold text-ember transition-colors hover:text-cobalt disabled:cursor-not-allowed disabled:opacity-60"
+                  >
+                    Kirishga qaytish
+                  </button>
+                </p>
+
+                <p className="text-center text-[11px] leading-5 text-muted">
+                  Parol faqat shu qurilmada xavfsiz yangilanadi.
+                </p>
+              </div>
+            </form>
+          ) : (
+          <form key={mode} onSubmit={handleSubmit} className="zehnly-fade-in mt-5 flex flex-1 flex-col gap-4" noValidate>
             {isLogin ? (
               <div className="flex items-center gap-2.5 rounded-xl border border-hairline bg-paper px-3.5 py-3">
                 <svg
@@ -313,20 +852,21 @@ export default function AuthModal({ onClose }) {
                   />
                 </svg>
                 <p className="text-xs leading-5 text-muted">
-                  Natijalar, sevimlilar va statistikangiz shu brauzerda saqlanadi
+                  Natijalar, sevimlilar va statistikangiz shu brauzerda xavfsiz saqlanadi
                 </p>
               </div>
             ) : (
               <label className="flex flex-col gap-1.5">
-                <span className={labelClass}>Ism</span>
+                <span className={labelClass}>Ism yoki username</span>
                 <input
                   type="text"
                   name="name"
                   value={form.name}
                   onChange={handleChange}
                   onBlur={handleBlur}
-                  placeholder="Ismingizni kiriting"
+                  placeholder={`Kamida ${MIN_NAME_LENGTH} ta belgi`}
                   autoComplete="name"
+                  maxLength={64}
                   aria-invalid={showNameError}
                   aria-describedby={showNameError ? 'name-error' : undefined}
                   className={fieldClass(showNameError)}
@@ -353,14 +893,28 @@ export default function AuthModal({ onClose }) {
                 inputMode="email"
                 autoCapitalize="none"
                 spellCheck="false"
-                aria-invalid={showEmailError}
-                aria-describedby={showEmailError ? 'email-error' : undefined}
-                className={fieldClass(showEmailError)}
+                aria-invalid={emailFieldInvalid}
+                aria-describedby={[
+                  showEmailError ? 'email-error' : '',
+                  isLogin && invalidCredentials ? 'auth-server-error' : '',
+                ]
+                  .filter(Boolean)
+                  .join(' ') || undefined}
+                className={fieldClass(emailFieldInvalid)}
               />
               {showEmailError && (
                 <span id="email-error" className="flex items-center gap-1.5 text-xs font-medium text-negative">
                   <AlertIcon />
-                  {emailValidation.message}
+                  {emailErrorMessage}
+                  {emailTaken && (
+                    <button
+                      type="button"
+                      onClick={switchMode}
+                      className="font-semibold underline underline-offset-2 transition-colors hover:text-ink"
+                    >
+                      Kirish
+                    </button>
+                  )}
                 </span>
               )}
             </label>
@@ -376,22 +930,25 @@ export default function AuthModal({ onClose }) {
                   onBlur={handleBlur}
                   placeholder="••••••••"
                   autoComplete={isLogin ? 'current-password' : 'new-password'}
-                  aria-invalid={showPasswordError}
-                  aria-describedby={['password-rules', showPasswordError ? 'password-error' : '']
+                  aria-invalid={passwordFieldInvalid}
+                  aria-describedby={[
+                    !isLogin ? 'password-rules' : '',
+                    showPasswordError ? 'password-error' : '',
+                    isLogin && invalidCredentials ? 'auth-server-error' : '',
+                  ]
                     .filter(Boolean)
-                    .join(' ')}
-                  className={`${fieldClass(showPasswordError)} pr-11`}
+                    .join(' ') || undefined}
+                  className={`${fieldClass(passwordFieldInvalid)} pr-11`}
                 />
-                <button
-                  type="button"
-                  onClick={() => setShowPassword((prev) => !prev)}
-                  aria-label={showPassword ? 'Parolni yashirish' : "Parolni ko'rsatish"}
-                  title={showPassword ? 'Parolni yashirish' : "Parolni ko'rsatish"}
-                  className="absolute inset-y-0 right-1.5 my-auto flex h-8 w-8 items-center justify-center rounded-md text-muted transition-colors hover:bg-ink/[0.05] hover:text-ink"
-                >
-                  <EyeIcon hidden={showPassword} />
-                </button>
+                <PasswordVisibilityButton
+                  visible={showPassword}
+                  onToggle={() => setShowPassword((prev) => !prev)}
+                  label="Parol"
+                />
               </div>
+
+              {!isLogin && form.password && <PasswordStrength strength={passwordStrength} />}
+
               {showPasswordError && (
                 <span id="password-error" className="flex items-center gap-1.5 text-xs font-medium text-negative">
                   <AlertIcon />
@@ -399,27 +956,89 @@ export default function AuthModal({ onClose }) {
                 </span>
               )}
 
-              <ul id="password-rules" className="mt-0.5 grid grid-cols-1 gap-1.5 text-xs sm:grid-cols-2 sm:gap-1">
-                {passwordRules.map((rule) => (
-                  <li
-                    key={rule.key}
-                    className={`flex items-center gap-1.5 ${
-                      passwordChecks[rule.key] ? 'text-positive' : 'text-muted'
-                    }`}
-                  >
-                    <CheckIcon passed={passwordChecks[rule.key]} />
-                    {rule.label}
-                  </li>
-                ))}
-              </ul>
+              {!isLogin && (
+                <ul id="password-rules" className="mt-0.5 grid grid-cols-1 gap-1.5 text-xs sm:grid-cols-2 sm:gap-1">
+                  {passwordRules.map((rule) => (
+                    <li
+                      key={rule.key}
+                      className={`flex items-center gap-1.5 ${
+                        passwordChecks[rule.key] ? 'text-positive' : 'text-muted'
+                      }`}
+                    >
+                      <CheckIcon passed={passwordChecks[rule.key]} />
+                      {rule.label}
+                    </li>
+                  ))}
+                </ul>
+              )}
+
               <span className="sr-only">
-                Parol kamida {MIN_PASSWORD_LENGTH} belgidan iborat bo'lib, harf, raqam va belgi
-                ichishi kerak
+                Parol kamida {MIN_PASSWORD_LENGTH} belgidan iborat bo&apos;lib, kamida bitta harf va
+                bitta raqamni o&apos;z ichiga olishi kerak
               </span>
             </label>
 
+            {!isLogin && (
+              <label className="flex flex-col gap-1.5">
+                <span className={labelClass}>Parolni tasdiqlash</span>
+                <div className="relative">
+                  <input
+                    type={showConfirmPassword ? 'text' : 'password'}
+                    name="confirmPassword"
+                    value={form.confirmPassword}
+                    onChange={handleChange}
+                    onBlur={handleBlur}
+                    placeholder="Parolni qayta kiriting"
+                    autoComplete="new-password"
+                    aria-invalid={showConfirmError}
+                    aria-describedby={showConfirmError ? 'confirm-password-error' : undefined}
+                    className={`${fieldClass(showConfirmError)} pr-11`}
+                  />
+                  <PasswordVisibilityButton
+                    visible={showConfirmPassword}
+                    onToggle={() => setShowConfirmPassword((prev) => !prev)}
+                    label="Tasdiqlash paroli"
+                  />
+                </div>
+                {showConfirmError && (
+                  <span
+                    id="confirm-password-error"
+                    className="flex items-center gap-1.5 text-xs font-medium text-negative"
+                  >
+                    <AlertIcon />
+                    {confirmValidation.message}
+                  </span>
+                )}
+              </label>
+            )}
+
+            {isLogin && (
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <label className="flex w-fit cursor-pointer select-none items-center gap-2.5 text-xs text-muted">
+                  <input
+                    type="checkbox"
+                    name="remember"
+                    checked={form.remember}
+                    onChange={handleChange}
+                    className="h-4 w-4 cursor-pointer rounded border-hairline accent-[var(--ember)]"
+                  />
+                  Meni eslab qol
+                </label>
+
+                <button
+                  type="button"
+                  onClick={openReset}
+                  disabled={pending}
+                  className="text-xs font-medium text-ember transition-colors hover:text-cobalt hover:underline underline-offset-2 disabled:cursor-not-allowed disabled:opacity-60"
+                >
+                  Parolni unutdingizmi?
+                </button>
+              </div>
+            )}
+
             {serverError && (
               <p
+                id="auth-server-error"
                 role="alert"
                 className="flex items-start gap-2 rounded-lg border border-negative/25 bg-negative/10 px-3 py-2 text-sm text-negative"
               >
@@ -442,10 +1061,25 @@ export default function AuthModal({ onClose }) {
               {pending ? 'Tekshirilmoqda...' : isLogin ? 'Kirish' : "Ro'yxatdan o'tish"}
             </button>
 
-            <p className="text-center text-[11px] leading-5 text-muted">
-              Hisob ma’lumotlari faqat shu qurilmada saqlanadi.
-            </p>
+            <div className="mt-auto flex flex-col gap-2 pt-1">
+              <p className="flex flex-wrap items-center justify-center gap-x-1.5 gap-y-1 text-center text-xs text-muted">
+                {isLogin ? "Akkauntingiz yo'qmi?" : 'Akkauntingiz bormi?'}
+                <button
+                  type="button"
+                  onClick={switchMode}
+                  disabled={pending}
+                  className="font-semibold text-ember transition-colors hover:text-cobalt disabled:cursor-not-allowed disabled:opacity-60"
+                >
+                  {isLogin ? "Ro'yxatdan o'ting" : 'Kirish'}
+                </button>
+              </p>
+
+              <p className="text-center text-[11px] leading-5 text-muted">
+                Hisob ma’lumotlari faqat shu qurilmada saqlanadi.
+              </p>
+            </div>
           </form>
+          )}
         </div>
       </div>
     </div>

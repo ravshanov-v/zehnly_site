@@ -1,4 +1,5 @@
 import { useRef, useState } from 'react'
+import { useSeasonalScene } from '../context/useSeasonalScene.js'
 import { studyCenters } from '../data/studyCenters.js'
 
 const answers = [
@@ -11,6 +12,9 @@ const correctIndex = answers.findIndex((answer) => answer.correct)
 const featuredCenter = studyCenters[0] ?? null
 
 export default function ProductPreview() {
+  const { active: atmosphereActive, physicalMode, seasonEffect } = useSeasonalScene()
+  const isFrosted = atmosphereActive && physicalMode === 'snow'
+  const isAutumn = atmosphereActive && seasonEffect === 'autumn'
   const [selectedAnswer, setSelectedAnswer] = useState(null)
   const [score, setScore] = useState(0)
   const [isAnswered, setIsAnswered] = useState(false)
@@ -82,12 +86,22 @@ export default function ProductPreview() {
           '--fx': `${pointer.x}%`,
           '--fy': `${pointer.y}%`,
         }}
-        className="group relative rounded-2xl border border-hairline bg-raised/90 p-1.5 shadow-[var(--shadow-lift)] backdrop-blur-xl will-change-transform"
+        className={[
+          'group relative rounded-2xl border border-hairline bg-raised/90 p-1.5 shadow-[var(--shadow-lift)] backdrop-blur-xl will-change-transform',
+          isFrosted ? 'seasonal-glass-frost' : '',
+        ].join(' ')}
       >
         <div
           aria-hidden="true"
           className="card-spotlight pointer-events-none absolute inset-0 rounded-2xl opacity-0 transition-opacity duration-300 group-hover:opacity-100"
         />
+
+        {isAutumn && (
+          <div
+            aria-hidden="true"
+            className="autumn-card-glow pointer-events-none absolute inset-0 z-20 rounded-2xl"
+          />
+        )}
 
         <div className="relative rounded-[14px] border border-hairline bg-paper p-4 sm:p-5">
           <div className="flex flex-wrap items-center justify-between gap-3 border-b border-hairline pb-3.5">
@@ -310,7 +324,7 @@ export default function ProductPreview() {
               {featuredCenter ? (
                 <>
                   <div className="mt-3 flex items-center gap-2.5">
-                    <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-base font-semibold text-white">
+                    <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg gradient-brand font-display text-base font-semibold text-white">
                       {featuredCenter.name.charAt(0).toUpperCase()}
                     </div>
                     <div className="min-w-0 flex-1">

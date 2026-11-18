@@ -116,7 +116,7 @@ function buildQuestion(stem, correctText, wrongTexts, explanation, xp, random) {
   return {
     question,
     options: options.map((option, index) => ({ id: LETTERS[index], text: option.text })),
-    correct: options.find((option) => option.isCorrect).id,
+    correct: LETTERS[options.findIndex((option) => option.isCorrect)],
     xp: xp || 200,
     explanation: cleanText(explanation) || `To'g'ri javob: ${correct}.`,
   }

@@ -28,6 +28,7 @@ const matematika = {
           "text": "48"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -52,6 +53,7 @@ const matematika = {
           "text": "72"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -76,6 +78,7 @@ const matematika = {
           "text": "25"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "250 · 0.20 = 50."
     },
@@ -100,6 +103,7 @@ const matematika = {
           "text": "160"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -124,6 +128,7 @@ const matematika = {
           "text": "17/20"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -148,6 +153,7 @@ const matematika = {
           "text": "5/24"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "(21 - 8) / 24 = 13/24."
     },
@@ -172,6 +178,7 @@ const matematika = {
           "text": "3/5 (0.6)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -196,6 +203,7 @@ const matematika = {
           "text": "3/2 (1.5)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -220,6 +228,7 @@ const matematika = {
           "text": "(a - b)²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -244,6 +253,7 @@ const matematika = {
           "text": "a² + 2ab + b²"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -268,6 +278,7 @@ const matematika = {
           "text": "a³ + 3a²b - 3ab² + b³"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -292,6 +303,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "2^(5 + 3 - 6) = 2² = 4."
     },
@@ -316,6 +328,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "12 + 9 - 5 = 16."
     },
@@ -340,6 +353,7 @@ const matematika = {
           "text": "6"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -364,6 +378,7 @@ const matematika = {
           "text": "5"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "3x = 21 => x = 7."
     },
@@ -388,6 +403,7 @@ const matematika = {
           "text": "2 va 3"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -412,6 +428,7 @@ const matematika = {
           "text": "D = b² - 4ac"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -436,6 +453,7 @@ const matematika = {
           "text": "x = 5 va x = 1"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -460,6 +478,7 @@ const matematika = {
           "text": "4"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -484,6 +503,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -508,6 +528,7 @@ const matematika = {
           "text": "6"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -532,6 +553,7 @@ const matematika = {
           "text": "x < 3"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "3x > 9 => x > 3."
     },
@@ -556,6 +578,7 @@ const matematika = {
           "text": "39"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -580,6 +603,7 @@ const matematika = {
           "text": "155"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -604,6 +628,7 @@ const matematika = {
           "text": "162"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -628,6 +653,7 @@ const matematika = {
           "text": "9"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -652,6 +678,7 @@ const matematika = {
           "text": "2"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "sin²α + cos²α = 1."
     },
@@ -676,6 +703,7 @@ const matematika = {
           "text": "√3/2"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin 30° = 1/2."
     },
@@ -700,6 +728,7 @@ const matematika = {
           "text": "√2/2"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "cos 60° = 1/2."
     },
@@ -724,6 +753,7 @@ const matematika = {
           "text": "0"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "tg 45° = 1."
     },
@@ -748,6 +778,7 @@ const matematika = {
           "text": "sin²α - cos²α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "sin 2α = 2 sin α cos α."
     },
@@ -772,6 +803,7 @@ const matematika = {
           "text": "2 cos α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "cos 2α = cos²α - sin²α."
     },
@@ -796,6 +828,7 @@ const matematika = {
           "text": "3x"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -820,6 +853,7 @@ const matematika = {
           "text": "20x⁴ - 2"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "(5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -844,6 +878,7 @@ const matematika = {
           "text": "cos x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "(sin x)' = cos x."
     },
@@ -868,6 +903,7 @@ const matematika = {
           "text": "-sin x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "(cos x)' = -sin x."
     },
@@ -892,6 +928,7 @@ const matematika = {
           "text": "x² + C"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -916,6 +953,7 @@ const matematika = {
           "text": "8"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "[x³]₀² = 2³ - 0³ = 8."
     },
@@ -940,6 +978,7 @@ const matematika = {
           "text": "9"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -964,6 +1003,7 @@ const matematika = {
           "text": "90°"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -988,6 +1028,7 @@ const matematika = {
           "text": "S = 4a"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Kvadrat yuzi: S = a²."
     },
@@ -1012,6 +1053,7 @@ const matematika = {
           "text": "S = 2πR"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Doira yuzi: S = πR²."
     },
@@ -1036,6 +1078,7 @@ const matematika = {
           "text": "L = 2πR"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Aylana uzunligi: L = 2πR."
     },
@@ -1060,6 +1103,7 @@ const matematika = {
           "text": "180°"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -1084,6 +1128,7 @@ const matematika = {
           "text": "V = 3a"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Kub hajmi: V = a³."
     },
@@ -1108,6 +1153,7 @@ const matematika = {
           "text": "V = (4/3)πR³"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -1132,6 +1178,7 @@ const matematika = {
           "text": "V = πR²H"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Konus hajmi: V = (1/3)πR²H."
     },
@@ -1156,6 +1203,7 @@ const matematika = {
           "text": "V = (4/3)πR³"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shar hajmi: V = (4/3)πR³."
     },
@@ -1180,6 +1228,7 @@ const matematika = {
           "text": "S = 4πR²"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sfera sirti: S = 4πR²."
     },
@@ -1204,6 +1253,7 @@ const matematika = {
           "text": "24"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -1228,6 +1278,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "P₄ = 4! = 24."
     },
@@ -1252,6 +1303,7 @@ const matematika = {
           "text": "1/2"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -1276,6 +1328,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "P = 1/2 = 0.5."
     },
@@ -1300,6 +1353,7 @@ const matematika = {
           "text": "5"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "6x = 30 => x = 5."
     },
@@ -1324,6 +1378,7 @@ const matematika = {
           "text": "90"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "120 · (3/4) = 90."
     },
@@ -1348,6 +1403,7 @@ const matematika = {
           "text": "50"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -1372,6 +1428,7 @@ const matematika = {
           "text": "20"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -1396,6 +1453,7 @@ const matematika = {
           "text": "10"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "√(4 · 16) = √64 = 8."
     },
@@ -1420,6 +1478,7 @@ const matematika = {
           "text": "x(x - 9)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "x² - 3² = (x - 3)(x + 3)."
     },
@@ -1444,6 +1503,7 @@ const matematika = {
           "text": "(x + 3)²"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -1468,6 +1528,7 @@ const matematika = {
           "text": "x - 2"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -1492,6 +1553,7 @@ const matematika = {
           "text": "4√2"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "5√2 - 3√2 = 2√2."
     },
@@ -1516,6 +1578,7 @@ const matematika = {
           "text": "7"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(√7)² - 2² = 7 - 4 = 3."
     },
@@ -1540,6 +1603,7 @@ const matematika = {
           "text": "-12"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -1564,6 +1628,7 @@ const matematika = {
           "text": "3"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -1588,6 +1653,7 @@ const matematika = {
           "text": "±4"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2x² = 8 => x² = 4 => x = ±2."
     },
@@ -1612,6 +1678,7 @@ const matematika = {
           "text": "2"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -1636,6 +1703,7 @@ const matematika = {
           "text": "(0; 6)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -1660,6 +1728,7 @@ const matematika = {
           "text": "-9"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -1684,6 +1753,7 @@ const matematika = {
           "text": "(-∞; 4]"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -1708,6 +1778,7 @@ const matematika = {
           "text": "0"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -1732,6 +1803,7 @@ const matematika = {
           "text": "2"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "2 · 2 = 4."
     },
@@ -1756,6 +1828,7 @@ const matematika = {
           "text": "lg x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "lg x = log₁₀ x."
     },
@@ -1780,6 +1853,7 @@ const matematika = {
           "text": "log x"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "ln x = log_e x."
     },
@@ -1804,6 +1878,7 @@ const matematika = {
           "text": "-cos α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -1828,6 +1903,7 @@ const matematika = {
           "text": "-cos α"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "cos (90° - α) = sin α."
     },
@@ -1852,6 +1928,7 @@ const matematika = {
           "text": "sin α"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "sin (180° - α) = sin α."
     },
@@ -1876,6 +1953,7 @@ const matematika = {
           "text": "-cos α"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "cos (180° - α) = -cos α."
     },
@@ -1900,6 +1978,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "tg α · ctg α = 1."
     },
@@ -1924,6 +2003,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin 0° = 0."
     },
@@ -1948,6 +2028,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "cos 0° = 1."
     },
@@ -1972,6 +2053,7 @@ const matematika = {
           "text": "-1"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "sin 90° = 1."
     },
@@ -1996,6 +2078,7 @@ const matematika = {
           "text": "-1"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "cos 90° = 0."
     },
@@ -2020,6 +2103,7 @@ const matematika = {
           "text": "S = a² / 2"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -2044,6 +2128,7 @@ const matematika = {
           "text": "S = (d₁ · d₂) / 2"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -2068,6 +2153,7 @@ const matematika = {
           "text": "S = a · b · h"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -2092,6 +2178,7 @@ const matematika = {
           "text": "S = p · r"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -2116,6 +2203,7 @@ const matematika = {
           "text": "c² = a² + b² - ab cos γ"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -2140,6 +2228,7 @@ const matematika = {
           "text": "a / sin α = b / sin β = c / sin γ = 2R"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -2164,6 +2253,7 @@ const matematika = {
           "text": "S = p / r"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "S = p · r."
     },
@@ -2188,6 +2278,7 @@ const matematika = {
           "text": "S = abc / (2R)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "S = abc / 4R."
     },
@@ -2212,6 +2303,7 @@ const matematika = {
           "text": "6"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -2236,6 +2328,7 @@ const matematika = {
           "text": "22"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -2260,6 +2353,7 @@ const matematika = {
           "text": "24"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -2284,6 +2378,7 @@ const matematika = {
           "text": "32"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -2308,6 +2403,7 @@ const matematika = {
           "text": "48 va 72 sonlarining eng katta umumiy bo'luvchisini (EKUB) toping."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«48 va 72 sonlarining eng katta umumiy bo'luvchisini (EKUB) toping.» savolining to'g'ri javobi — 24. 48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -2332,6 +2428,7 @@ const matematika = {
           "text": "y = 2x + 6 to'g'ri chiziqning Oy o'qi bilan kesishish nuqtasi koordinatasini toping."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«12 va 18 sonlarining eng kichik umumiy karralisini (EKUK) toping.» savolining to'g'ri javobi — 36. 12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -2356,6 +2453,7 @@ const matematika = {
           "text": "Arifmetik progressiyada a₁ = 2, d = 3 bo'lsa, dastlabki 10 ta hadi yig'indisini (S₁₀) toping."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«250 sonining 20% ini toping.» savolining to'g'ri javobi — 50. 250 · 0.20 = 50."
     },
@@ -2380,6 +2478,7 @@ const matematika = {
           "text": "Asosi 10 bo'lgan logarifm (o'nli logarifm) qanday belgilanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Qaysi sonning 40% i 80 ga teng?» savolining to'g'ri javobi — 200. x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -2404,6 +2503,7 @@ const matematika = {
           "text": "Amalni bajaring: 3/4 + 2/5"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Amalni bajaring: 3/4 + 2/5» savolining to'g'ri javobi — 23/20 (1.15). Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -2428,6 +2528,7 @@ const matematika = {
           "text": "Logarifmni hisoblang: log₂32"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Amalni bajaring: 7/8 - 1/3» savolining to'g'ri javobi — 13/24. (21 - 8) / 24 = 13/24."
     },
@@ -2452,6 +2553,7 @@ const matematika = {
           "text": "Amalni bajaring: (2/3) · (9/10)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Amalni bajaring: (2/3) · (9/10)» savolining to'g'ri javobi — 3/5 (0.6). (2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -2476,6 +2578,7 @@ const matematika = {
           "text": "Arifmetik progressiyada a₁ = 3, d = 4 bo'lsa, a₁₀ ni toping."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Amalni bajaring: (4/5) : (8/15)» savolining to'g'ri javobi — 3/2 (1.5). (4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -2500,6 +2603,7 @@ const matematika = {
           "text": "f(x) = sin x funksiyaning hosilasi nima?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Qisqa ko'paytirish formulasi: a² - b² nimaga teng?» savolining to'g'ri javobi — (a - b)(a + b). Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -2524,6 +2628,7 @@ const matematika = {
           "text": "To'g'ri burchakli uchburchakda katetlari 6 va 8 bo'lsa, gipotenuzasini toping."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«(a + b)² ifodaning yoyilmasi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — a² + 2ab + b². Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -2548,6 +2653,7 @@ const matematika = {
           "text": "48 va 72 sonlarining eng katta umumiy bo'luvchisini (EKUB) toping."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«(a - b)³ ifodaning yoyilmasi nimaga teng?» savolining to'g'ri javobi — a³ - 3a²b + 3ab² - b³. Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -2572,6 +2678,7 @@ const matematika = {
           "text": "Ifodani soddalashtiring: 2⁵ · 2³ : 2⁶"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Ifodani soddalashtiring: 2⁵ · 2³ : 2⁶» savolining to'g'ri javobi — 4 (2²). 2^(5 + 3 - 6) = 2² = 4."
     },
@@ -2596,6 +2703,7 @@ const matematika = {
           "text": "Geron formulasi yordamida uchburchak yuzi qanday topiladi (p - yarim perimetr)?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Hisoblang: √144 + √81 - √25» savolining to'g'ri javobi — 16. 12 + 9 - 5 = 16."
     },
@@ -2620,6 +2728,7 @@ const matematika = {
           "text": "sin 0° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Hisoblang: ³√216» savolining to'g'ri javobi — 6. 6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -2644,6 +2753,7 @@ const matematika = {
           "text": "Hisoblang: log₃9 · log₄16"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Chiziqli tenglamani yeching: 5x - 15 = 2x + 6» savolining to'g'ri javobi — 7. 3x = 21 => x = 7."
     },
@@ -2668,6 +2778,7 @@ const matematika = {
           "text": "Kvadrat tenglamaning ildizlarini toping: x² - 5x + 6 = 0"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kvadrat tenglamaning ildizlarini toping: x² - 5x + 6 = 0» savolining to'g'ri javobi — 2 va 3. Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -2692,6 +2803,7 @@ const matematika = {
           "text": "Kvadrat tenglamaning diskriminant formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Kvadrat tenglamaning diskriminant formulasi qaysi?» savolining to'g'ri javobi — D = b² - 4ac. Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -2716,6 +2828,7 @@ const matematika = {
           "text": "Arifmetik o'rta: 14, 18 va 28 sonlarining o'rta arifmetigini toping."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Modulli tenglamani yeching: |2x - 4| = 6» savolining to'g'ri javobi — x = 5 va x = -1. 2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -2740,6 +2853,7 @@ const matematika = {
           "text": "Teskarisi: Qaysi sonning 2/3 qismi 40 ga teng?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Ko'rsatkichli tenglamani yeching: 3^(x+1) = 81» savolining to'g'ri javobi — 3. 81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -2764,6 +2878,7 @@ const matematika = {
           "text": "Logarifmni hisoblang: log₂32"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Logarifmni hisoblang: log₂32» savolining to'g'ri javobi — 5. 2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -2788,6 +2903,7 @@ const matematika = {
           "text": "a(2; -3) va b(5; 4) vektorlarning skalyar ko'paytmasini toping."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Logarifmni hisoblang: log₃81 + log₅125» savolining to'g'ri javobi — 7. log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -2812,6 +2928,7 @@ const matematika = {
           "text": "Muntazam to'rtburchakli piramidaning asosi tomoni 4 ga, balandligi 6 ga teng bo'lsa, hajmini toping."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Tengsizlikni yeching: 3x - 7 > 2» savolining to'g'ri javobi — x > 3. 3x > 9 => x > 3."
     },
@@ -2836,6 +2953,7 @@ const matematika = {
           "text": "Arifmetik progressiyada a₁ = 3, d = 4 bo'lsa, a₁₀ ni toping."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Arifmetik progressiyada a₁ = 3, d = 4 bo'lsa, a₁₀ ni toping.» savolining to'g'ri javobi — 39. a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -2860,6 +2978,7 @@ const matematika = {
           "text": "x² - 7x + 12 = 0 tenglamaning ildizlari yig'indisini toping."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Arifmetik progressiyada a₁ = 2, d = 3 bo'lsa, dastlabki 10 ta hadi yig'indisini (S₁₀) toping.» savolining to'g'ri javobi — 155. S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -2884,6 +3003,7 @@ const matematika = {
           "text": "y = √(x - 4) funksiyaning aniqlanish sohasini toping."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Geometrik progressiyada b₁ = 2, q = 3 bo'lsa, b₄ ni toping.» savolining to'g'ri javobi — 54. b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -2908,6 +3028,7 @@ const matematika = {
           "text": "Amalni bajaring: (4/5) : (8/15)"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Cheksiz kamayuvchi geometrik progressiyada b₁ = 6, q = 1/2 bo'lsa, uning yig'indisini (S) toping.» savolining to'g'ri javobi — 12. S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -2932,6 +3053,7 @@ const matematika = {
           "text": "x² + 6x + 9 ifodani yig'indining kvadrati shaklida yozing."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Asosiy trigonometrik ayniyat: sin²α + cos²α nimaga teng?» savolining to'g'ri javobi — 1. sin²α + cos²α = 1."
     },
@@ -2956,6 +3078,7 @@ const matematika = {
           "text": "Geometrik o'rta: 4 va 16 sonlarining o'rta geometrigini toping."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«sin 30° ning qiymati nechaga teng?» savolining to'g'ri javobi — 1/2 (0.5). sin 30° = 1/2."
     },
@@ -2980,6 +3103,7 @@ const matematika = {
           "text": "y = 2x + 6 to'g'ri chiziqning Oy o'qi bilan kesishish nuqtasi koordinatasini toping."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«cos 60° ning qiymati nechaga teng?» savolining to'g'ri javobi — 1/2 (0.5). cos 60° = 1/2."
     },
@@ -3004,6 +3128,7 @@ const matematika = {
           "text": "Teskarisi: Qaysi sonning 2/3 qismi 40 ga teng?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«tg 45° ning qiymati nechaga teng?» savolining to'g'ri javobi — 1. tg 45° = 1."
     },
@@ -3028,6 +3153,7 @@ const matematika = {
           "text": "Uchburchakning ichki burchaklari yig'indisi necha darajaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Ikkilangan burchak sinusi: sin 2α nimaga teng?» savolining to'g'ri javobi — 2 sin α cos α. sin 2α = 2 sin α cos α."
     },
@@ -3052,6 +3178,7 @@ const matematika = {
           "text": "Sonning qismi: 120 ning 3/4 qismini toping."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Ikkilangan burchak kosinusi: cos 2α nimaga teng?» savolining to'g'ri javobi — cos²α - sin²α. cos 2α = cos²α - sin²α."
     },
@@ -3076,6 +3203,7 @@ const matematika = {
           "text": "f(x) = x³ funksiyaning hosilasini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«f(x) = x³ funksiyaning hosilasini toping.» savolining to'g'ri javobi — 3x². (x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -3100,6 +3228,7 @@ const matematika = {
           "text": "Hisoblang: Aniq integral ∫₀² 3x² dx"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«f(x) = 5x⁴ - 2x + 7 funksiyaning hosilasi nimaga teng?» savolining to'g'ri javobi — 20x³ - 2. (5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -3124,6 +3253,7 @@ const matematika = {
           "text": "Nisbat va mutanosiblik: 3 : x = 6 : 10 proporsiyadan x ni toping."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«f(x) = sin x funksiyaning hosilasi nima?» savolining to'g'ri javobi — cos x. (sin x)' = cos x."
     },
@@ -3148,6 +3278,7 @@ const matematika = {
           "text": "f(x) = cos x funksiyaning hosilasi nima?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«f(x) = cos x funksiyaning hosilasi nima?» savolining to'g'ri javobi — -sin x. (cos x)' = -sin x."
     },
@@ -3172,6 +3303,7 @@ const matematika = {
           "text": "Geron formulasi yordamida uchburchak yuzi qanday topiladi (p - yarim perimetr)?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«f(x) = 2x funksiyaning boshlang'ich funksiyasini toping.» savolining to'g'ri javobi — x² + C. ∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -3196,6 +3328,7 @@ const matematika = {
           "text": "Ikkilangan burchak kosinusi: cos 2α nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Hisoblang: Aniq integral ∫₀² 3x² dx» savolining to'g'ri javobi — 8. [x³]₀² = 2³ - 0³ = 8."
     },
@@ -3220,6 +3353,7 @@ const matematika = {
           "text": "To'g'ri burchakli uchburchakda katetlari 6 va 8 bo'lsa, gipotenuzasini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«To'g'ri burchakli uchburchakda katetlari 6 va 8 bo'lsa, gipotenuzasini toping.» savolining to'g'ri javobi — 10. Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -3244,6 +3378,7 @@ const matematika = {
           "text": "Asosi e (Eyler soni ≈ 2.718) bo'lgan natural logarifm qanday yoziladi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Uchburchakning ichki burchaklari yig'indisi necha darajaga teng?» savolining to'g'ri javobi — 180°. Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -3268,6 +3403,7 @@ const matematika = {
           "text": "Qavariq to'rtburchakning ichki burchaklari yig'indisi necha daraja?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Tomoni a bo'lgan kvadratning yuzi qanday formula bilan hisoblanadi?» savolining to'g'ri javobi — S = a². Kvadrat yuzi: S = a²."
     },
@@ -3292,6 +3428,7 @@ const matematika = {
           "text": "cos 90° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Radiusi R bo'lgan doiraning yuzi formulasi qaysi?» savolining to'g'ri javobi — S = πR². Doira yuzi: S = πR²."
     },
@@ -3316,6 +3453,7 @@ const matematika = {
           "text": "Arifmetik o'rta: 14, 18 va 28 sonlarining o'rta arifmetigini toping."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Radiusi R bo'lgan aylananing uzunligi formulasi qaysi?» savolining to'g'ri javobi — L = 2πR. Aylana uzunligi: L = 2πR."
     },
@@ -3340,6 +3478,7 @@ const matematika = {
           "text": "Amalni bajaring: 7/8 - 1/3"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Qavariq to'rtburchakning ichki burchaklari yig'indisi necha daraja?» savolining to'g'ri javobi — 360°. To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -3364,6 +3503,7 @@ const matematika = {
           "text": "Qirrasi a bo'lgan kubning hajmi nimaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Qirrasi a bo'lgan kubning hajmi nimaga teng?» savolining to'g'ri javobi — V = a³. Kub hajmi: V = a³."
     },
@@ -3388,6 +3528,7 @@ const matematika = {
           "text": "Asosining radiusi R, balandligi H bo'lgan silindrning hajmi formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Asosining radiusi R, balandligi H bo'lgan silindrning hajmi formulasi qaysi?» savolining to'g'ri javobi — V = πR²H. Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -3412,6 +3553,7 @@ const matematika = {
           "text": "Qaysi sonning 40% i 80 ga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Asosining radiusi R, balandligi H bo'lgan konusning hajmi qaysi?» savolining to'g'ri javobi — V = (1/3)πR²H. Konus hajmi: V = (1/3)πR²H."
     },
@@ -3436,6 +3578,7 @@ const matematika = {
           "text": "Radiusi R bo'lgan sharning hajmi formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Radiusi R bo'lgan sharning hajmi formulasi qaysi?» savolining to'g'ri javobi — V = (4/3)πR³. Shar hajmi: V = (4/3)πR³."
     },
@@ -3460,6 +3603,7 @@ const matematika = {
           "text": "Radiusi R bo'lgan sharning hajmi formulasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Radiusi R bo'lgan sfera sirtining yuzi nimaga teng?» savolining to'g'ri javobi — S = 4πR². Sfera sirti: S = 4πR²."
     },
@@ -3484,6 +3628,7 @@ const matematika = {
           "text": "Chiziqli tenglamani yeching: 5x - 15 = 2x + 6"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«5! (5 faktorial) ning qiymatini hisoblang.» savolining to'g'ri javobi — 120. 5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -3508,6 +3653,7 @@ const matematika = {
           "text": "Logarifmni hisoblang: log₃81 + log₅125"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«4 elementli to'plamning barcha o'rinlashtirishlar soni (P₄) nechaga teng?» savolining to'g'ri javobi — 24. P₄ = 4! = 24."
     },
@@ -3532,6 +3678,7 @@ const matematika = {
           "text": "Arifmetik o'rta: 14, 18 va 28 sonlarining o'rta arifmetigini toping."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Bitta standart o'yin suyagi (zarik) tashlanganda 6 ochko tushishi ehtimolligi qancha?» savolining to'g'ri javobi — 1/6. Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -3556,6 +3703,7 @@ const matematika = {
           "text": "Hisoblang: √144 + √81 - √25"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Tanga bir marta tashlanganda gerb tomoni tushishi ehtimoli qancha?» savolining to'g'ri javobi — 1/2 (0.5). P = 1/2 = 0.5."
     },
@@ -3580,6 +3728,7 @@ const matematika = {
           "text": "Arifmetik progressiyada a₁ = 2, d = 3 bo'lsa, dastlabki 10 ta hadi yig'indisini (S₁₀) toping."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Nisbat va mutanosiblik: 3 : x = 6 : 10 proporsiyadan x ni toping.» savolining to'g'ri javobi — 5. 6x = 30 => x = 5."
     },
@@ -3604,6 +3753,7 @@ const matematika = {
           "text": "Ikkilangan burchak sinusi: sin 2α nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Sonning qismi: 120 ning 3/4 qismini toping.» savolining to'g'ri javobi — 90. 120 · (3/4) = 90."
     },
@@ -3628,6 +3778,7 @@ const matematika = {
           "text": "Teskarisi: Qaysi sonning 2/3 qismi 40 ga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Teskarisi: Qaysi sonning 2/3 qismi 40 ga teng?» savolining to'g'ri javobi — 60. x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -3652,6 +3803,7 @@ const matematika = {
           "text": "Hisoblang: √144 + √81 - √25"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Arifmetik o'rta: 14, 18 va 28 sonlarining o'rta arifmetigini toping.» savolining to'g'ri javobi — 20. (14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -3676,6 +3828,7 @@ const matematika = {
           "text": "Arifmetik o'rta: 14, 18 va 28 sonlarining o'rta arifmetigini toping."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Geometrik o'rta: 4 va 16 sonlarining o'rta geometrigini toping.» savolining to'g'ri javobi — 8. √(4 · 16) = √64 = 8."
     },
@@ -3700,6 +3853,7 @@ const matematika = {
           "text": "tg α · ctg α ko'paytmasi nimaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«x² - 9 ko'phadni ko'paytuvchilarga ajrating.» savolining to'g'ri javobi — (x - 3)(x + 3). x² - 3² = (x - 3)(x + 3)."
     },
@@ -3724,6 +3878,7 @@ const matematika = {
           "text": "Amalni bajaring: (2/3) · (9/10)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«x² + 6x + 9 ifodani yig'indining kvadrati shaklida yozing.» savolining to'g'ri javobi — (x + 3)². x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -3748,6 +3903,7 @@ const matematika = {
           "text": "Hisoblang: log₃9 · log₄16"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Kasrni qisqartiring: (x² - 4) / (x - 2)» savolining to'g'ri javobi — x + 2. (x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -3772,6 +3928,7 @@ const matematika = {
           "text": "Qaysi sonning 40% i 80 ga teng?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Irratsional ifodani soddalashtiring: √50 - √18» savolining to'g'ri javobi — 2√2. 5√2 - 3√2 = 2√2."
     },
@@ -3796,6 +3953,7 @@ const matematika = {
           "text": "x² - 9 ko'phadni ko'paytuvchilarga ajrating."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Hisoblang: (√7 - 2)(√7 + 2)» savolining to'g'ri javobi — 3. (√7)² - 2² = 7 - 4 = 3."
     },
@@ -3820,6 +3978,7 @@ const matematika = {
           "text": "x² - 7x + 12 = 0 tenglamaning ildizlari yig'indisini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«x² - 7x + 12 = 0 tenglamaning ildizlari yig'indisini toping.» savolining to'g'ri javobi — 7. Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -3844,6 +4003,7 @@ const matematika = {
           "text": "cos 60° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«x² + 3x - 10 = 0 tenglamaning ildizlari ko'paytmasini toping.» savolining to'g'ri javobi — -10. Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -3868,6 +4028,7 @@ const matematika = {
           "text": "cos 0° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«2x² - 8 = 0 chala kvadrat tenglamaning ildizlarini toping.» savolining to'g'ri javobi — ±2. 2x² = 8 => x² = 4 => x = ±2."
     },
@@ -3892,6 +4053,7 @@ const matematika = {
           "text": "tg 45° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«3x² - 6x = 0 tenglamaning ildizlarini toping.» savolining to'g'ri javobi — 0 va 2. 3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -3916,6 +4078,7 @@ const matematika = {
           "text": "Amalni bajaring: 3/4 + 2/5"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«y = 2x + 6 to'g'ri chiziqning Oy o'qi bilan kesishish nuqtasi koordinatasini toping.» savolining to'g'ri javobi — (0; 6). x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -3940,6 +4103,7 @@ const matematika = {
           "text": "y = 3x - 9 funksiyaning noli (Ox o'qi bilan kesishish nuqtasi) qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«y = 3x - 9 funksiyaning noli (Ox o'qi bilan kesishish nuqtasi) qaysi?» savolining to'g'ri javobi — 3. y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -3964,6 +4128,7 @@ const matematika = {
           "text": "f(x) = 2x funksiyaning boshlang'ich funksiyasini toping."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«y = √(x - 4) funksiyaning aniqlanish sohasini toping.» savolining to'g'ri javobi — [4; +∞). Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -3988,6 +4153,7 @@ const matematika = {
           "text": "cos 90° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Hisoblang: log₅25 - log₂8» savolining to'g'ri javobi — -1. log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -4012,6 +4178,7 @@ const matematika = {
           "text": "Logarifmni hisoblang: log₃81 + log₅125"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Hisoblang: log₃9 · log₄16» savolining to'g'ri javobi — 4. 2 · 2 = 4."
     },
@@ -4036,6 +4203,7 @@ const matematika = {
           "text": "5! (5 faktorial) ning qiymatini hisoblang."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Asosi 10 bo'lgan logarifm (o'nli logarifm) qanday belgilanadi?» savolining to'g'ri javobi — lg x. lg x = log₁₀ x."
     },
@@ -4060,6 +4228,7 @@ const matematika = {
           "text": "Asosi e (Eyler soni ≈ 2.718) bo'lgan natural logarifm qanday yoziladi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Asosi e (Eyler soni ≈ 2.718) bo'lgan natural logarifm qanday yoziladi?» savolining to'g'ri javobi — ln x. ln x = log_e x."
     },
@@ -4084,6 +4253,7 @@ const matematika = {
           "text": "Kvadrat tenglamaning ildizlarini toping: x² - 5x + 6 = 0"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«sin (90° - α) keltirish formulasi nimaga teng?» savolining to'g'ri javobi — cos α. Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -4108,6 +4278,7 @@ const matematika = {
           "text": "Tomoni a bo'lgan kvadratning yuzi qanday formula bilan hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«cos (90° - α) keltirish formulasi nimaga teng?» savolining to'g'ri javobi — sin α. cos (90° - α) = sin α."
     },
@@ -4132,6 +4303,7 @@ const matematika = {
           "text": "Radiusi R bo'lgan doiraning yuzi formulasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«sin (180° - α) keltirish formulasi nimaga teng?» savolining to'g'ri javobi — sin α. sin (180° - α) = sin α."
     },
@@ -4156,6 +4328,7 @@ const matematika = {
           "text": "48 va 72 sonlarining eng katta umumiy bo'luvchisini (EKUB) toping."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«cos (180° - α) nimaga teng?» savolining to'g'ri javobi — -cos α. cos (180° - α) = -cos α."
     },
@@ -4180,6 +4353,7 @@ const matematika = {
           "text": "Muntazam uchburchakning tomoni a bo'lsa, uning yuzi qanday topiladi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«tg α · ctg α ko'paytmasi nimaga teng?» savolining to'g'ri javobi — 1. tg α · ctg α = 1."
     },
@@ -4204,6 +4378,7 @@ const matematika = {
           "text": "Amalni bajaring: 3/4 + 2/5"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«sin 0° ning qiymati nechaga teng?» savolining to'g'ri javobi — 0. sin 0° = 0."
     },
@@ -4228,6 +4403,7 @@ const matematika = {
           "text": "f(x) = cos x funksiyaning hosilasi nima?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«cos 0° ning qiymati nechaga teng?» savolining to'g'ri javobi — 1. cos 0° = 1."
     },
@@ -4252,6 +4428,7 @@ const matematika = {
           "text": "Amalni bajaring: 7/8 - 1/3"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«sin 90° ning qiymati nechaga teng?» savolining to'g'ri javobi — 1. sin 90° = 1."
     },
@@ -4276,6 +4453,7 @@ const matematika = {
           "text": "cos 90° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«cos 90° ning qiymati nechaga teng?» savolining to'g'ri javobi — 0. cos 90° = 0."
     },
@@ -4300,6 +4478,7 @@ const matematika = {
           "text": "Kvadrat tenglamaning ildizlarini toping: x² - 5x + 6 = 0"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Muntazam uchburchakning tomoni a bo'lsa, uning yuzi qanday topiladi?» savolining to'g'ri javobi — S = (a²√3) / 4. Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -4324,6 +4503,7 @@ const matematika = {
           "text": "Rombning diagonallari d₁ va d₂ bo'lsa, uning yuzi nimaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Rombning diagonallari d₁ va d₂ bo'lsa, uning yuzi nimaga teng?» savolining to'g'ri javobi — S = (d₁ · d₂) / 2. Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -4348,6 +4528,7 @@ const matematika = {
           "text": "x² - 7x + 12 = 0 tenglamaning ildizlari yig'indisini toping."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Trapetsiyaning asoslari a va b, balandligi h bo'lsa, yuzi qanday hisoblanadi?» savolining to'g'ri javobi — S = ((a + b) / 2) · h. Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -4372,6 +4553,7 @@ const matematika = {
           "text": "f(x) = 5x⁴ - 2x + 7 funksiyaning hosilasi nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Geron formulasi yordamida uchburchak yuzi qanday topiladi (p - yarim perimetr)?» savolining to'g'ri javobi — S = √(p(p - a)(p - b)(p - c)). Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -4396,6 +4578,7 @@ const matematika = {
           "text": "Hisoblang: √144 + √81 - √25"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kosinuslar teoremasi qaysi javobda to'g'ri ifodalangan?» savolining to'g'ri javobi — c² = a² + b² - 2ab cos γ. Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -4420,6 +4603,7 @@ const matematika = {
           "text": "x² - 9 ko'phadni ko'paytuvchilarga ajrating."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Sinuslar teoremasi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — a / sin α = b / sin β = c / sin γ = 2R. Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -4444,6 +4628,7 @@ const matematika = {
           "text": "Sinuslar teoremasi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Uchburchakka ichki chizilgan aylananing radiusi (r) va yarim perimetr (p) orqali yuz qanday topiladi?» savolining to'g'ri javobi — S = p · r. S = p · r."
     },
@@ -4468,6 +4653,7 @@ const matematika = {
           "text": "2x² - 8 = 0 chala kvadrat tenglamaning ildizlarini toping."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Uchburchakka tashqi chizilgan aylananing radiusi (R) orqali yuz formulasi qaysi?» savolining to'g'ri javobi — S = abc / (4R). S = abc / 4R."
     },
@@ -4492,6 +4678,7 @@ const matematika = {
           "text": "A(1; 3) va B(4; 7) nuqtalar orasidagi masofani toping."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«A(1; 3) va B(4; 7) nuqtalar orasidagi masofani toping.» savolining to'g'ri javobi — 5. d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -4516,6 +4703,7 @@ const matematika = {
           "text": "a(2; -3) va b(5; 4) vektorlarning skalyar ko'paytmasini toping."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«a(2; -3) va b(5; 4) vektorlarning skalyar ko'paytmasini toping.» savolining to'g'ri javobi — -2. a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -4540,6 +4728,7 @@ const matematika = {
           "text": "cos 90° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«To'g'ri burchakli parallelepipedning o'lchamlari 2, 3 va 4 bo'lsa, uning hajmini toping.» savolining to'g'ri javobi — 24. V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -4564,6 +4753,7 @@ const matematika = {
           "text": "Kosinuslar teoremasi qaysi javobda to'g'ri ifodalangan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Muntazam to'rtburchakli piramidaning asosi tomoni 4 ga, balandligi 6 ga teng bo'lsa, hajmini toping.» savolining to'g'ri javobi — 32. V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -4588,6 +4778,7 @@ const matematika = {
           "text": "12 va 18 sonlarining eng kichik umumiy karralisini (EKUK) toping."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -4612,6 +4803,7 @@ const matematika = {
           "text": "Tanga bir marta tashlanganda gerb tomoni tushishi ehtimoli qancha?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -4636,6 +4828,7 @@ const matematika = {
           "text": "250 sonining 20% ini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "250 · 0.20 = 50."
     },
@@ -4660,6 +4853,7 @@ const matematika = {
           "text": "x² + 3x - 10 = 0 tenglamaning ildizlari ko'paytmasini toping."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -4684,6 +4878,7 @@ const matematika = {
           "text": "Ikkilangan burchak kosinusi: cos 2α nimaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -4708,6 +4903,7 @@ const matematika = {
           "text": "Amalni bajaring: 7/8 - 1/3"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(21 - 8) / 24 = 13/24."
     },
@@ -4732,6 +4928,7 @@ const matematika = {
           "text": "To'g'ri burchakli parallelepipedning o'lchamlari 2, 3 va 4 bo'lsa, uning hajmini toping."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -4756,6 +4953,7 @@ const matematika = {
           "text": "Asosining radiusi R, balandligi H bo'lgan silindrning hajmi formulasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -4780,6 +4978,7 @@ const matematika = {
           "text": "Qisqa ko'paytirish formulasi: a² - b² nimaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -4804,6 +5003,7 @@ const matematika = {
           "text": "Irratsional ifodani soddalashtiring: √50 - √18"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -4828,6 +5028,7 @@ const matematika = {
           "text": "a(2; -3) va b(5; 4) vektorlarning skalyar ko'paytmasini toping."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -4852,6 +5053,7 @@ const matematika = {
           "text": "Ifodani soddalashtiring: 2⁵ · 2³ : 2⁶"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "2^(5 + 3 - 6) = 2² = 4."
     },
@@ -4876,6 +5078,7 @@ const matematika = {
           "text": "Logarifmni hisoblang: log₂32"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "12 + 9 - 5 = 16."
     },
@@ -4900,6 +5103,7 @@ const matematika = {
           "text": "tg α · ctg α ko'paytmasi nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -4924,6 +5128,7 @@ const matematika = {
           "text": "Kosinuslar teoremasi qaysi javobda to'g'ri ifodalangan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "3x = 21 => x = 7."
     },
@@ -4948,6 +5153,7 @@ const matematika = {
           "text": "Kvadrat tenglamaning ildizlarini toping: x² - 5x + 6 = 0"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -4972,6 +5178,7 @@ const matematika = {
           "text": "Modulli tenglamani yeching: |2x - 4| = 6"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -4996,6 +5203,7 @@ const matematika = {
           "text": "x² - 7x + 12 = 0 tenglamaning ildizlari yig'indisini toping."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -5020,6 +5228,7 @@ const matematika = {
           "text": "Ko'rsatkichli tenglamani yeching: 3^(x+1) = 81"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -5044,6 +5253,7 @@ const matematika = {
           "text": "sin 30° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -5068,6 +5278,7 @@ const matematika = {
           "text": "Logarifmni hisoblang: log₃81 + log₅125"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -5092,6 +5303,7 @@ const matematika = {
           "text": "tg α · ctg α ko'paytmasi nimaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "3x > 9 => x > 3."
     },
@@ -5116,6 +5328,7 @@ const matematika = {
           "text": "Arifmetik progressiyada a₁ = 3, d = 4 bo'lsa, a₁₀ ni toping."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -5140,6 +5353,7 @@ const matematika = {
           "text": "tg 45° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -5164,6 +5378,7 @@ const matematika = {
           "text": "Geometrik progressiyada b₁ = 2, q = 3 bo'lsa, b₄ ni toping."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -5188,6 +5403,7 @@ const matematika = {
           "text": "5! (5 faktorial) ning qiymatini hisoblang."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -5212,6 +5428,7 @@ const matematika = {
           "text": "sin (90° - α) keltirish formulasi nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin²α + cos²α = 1."
     },
@@ -5236,6 +5453,7 @@ const matematika = {
           "text": "x² - 9 ko'phadni ko'paytuvchilarga ajrating."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "sin 30° = 1/2."
     },
@@ -5260,6 +5478,7 @@ const matematika = {
           "text": "cos 60° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "cos 60° = 1/2."
     },
@@ -5284,6 +5503,7 @@ const matematika = {
           "text": "tg 45° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "tg 45° = 1."
     },
@@ -5308,6 +5528,7 @@ const matematika = {
           "text": "Qirrasi a bo'lgan kubning hajmi nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "sin 2α = 2 sin α cos α."
     },
@@ -5332,6 +5553,7 @@ const matematika = {
           "text": "Tanga bir marta tashlanganda gerb tomoni tushishi ehtimoli qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "cos 2α = cos²α - sin²α."
     },
@@ -5356,6 +5578,7 @@ const matematika = {
           "text": "f(x) = x³ funksiyaning hosilasini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -5380,6 +5603,7 @@ const matematika = {
           "text": "x² + 6x + 9 ifodani yig'indining kvadrati shaklida yozing."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -5404,6 +5628,7 @@ const matematika = {
           "text": "Hisoblang: Aniq integral ∫₀² 3x² dx"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "(sin x)' = cos x."
     },
@@ -5428,6 +5653,7 @@ const matematika = {
           "text": "Modulli tenglamani yeching: |2x - 4| = 6"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "(cos x)' = -sin x."
     },
@@ -5452,6 +5678,7 @@ const matematika = {
           "text": "12 va 18 sonlarining eng kichik umumiy karralisini (EKUK) toping."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -5476,6 +5703,7 @@ const matematika = {
           "text": "Hisoblang: Aniq integral ∫₀² 3x² dx"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "[x³]₀² = 2³ - 0³ = 8."
     },
@@ -5500,6 +5728,7 @@ const matematika = {
           "text": "To'g'ri burchakli uchburchakda katetlari 6 va 8 bo'lsa, gipotenuzasini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -5524,6 +5753,7 @@ const matematika = {
           "text": "Uchburchakning ichki burchaklari yig'indisi necha darajaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -5548,6 +5778,7 @@ const matematika = {
           "text": "Irratsional ifodani soddalashtiring: √50 - √18"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kvadrat yuzi: S = a²."
     },
@@ -5572,6 +5803,7 @@ const matematika = {
           "text": "Ikkilangan burchak sinusi: sin 2α nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Doira yuzi: S = πR²."
     },
@@ -5596,6 +5828,7 @@ const matematika = {
           "text": "Hisoblang: ³√216"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Aylana uzunligi: L = 2πR."
     },
@@ -5620,6 +5853,7 @@ const matematika = {
           "text": "Arifmetik o'rta: 14, 18 va 28 sonlarining o'rta arifmetigini toping."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -5644,6 +5878,7 @@ const matematika = {
           "text": "Geometrik o'rta: 4 va 16 sonlarining o'rta geometrigini toping."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kub hajmi: V = a³."
     },
@@ -5668,6 +5903,7 @@ const matematika = {
           "text": "4 elementli to'plamning barcha o'rinlashtirishlar soni (P₄) nechaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -5692,6 +5928,7 @@ const matematika = {
           "text": "Asosining radiusi R, balandligi H bo'lgan konusning hajmi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Konus hajmi: V = (1/3)πR²H."
     },
@@ -5716,6 +5953,7 @@ const matematika = {
           "text": "x² - 9 ko'phadni ko'paytuvchilarga ajrating."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Shar hajmi: V = (4/3)πR³."
     },
@@ -5740,6 +5978,7 @@ const matematika = {
           "text": "Uchburchakka tashqi chizilgan aylananing radiusi (R) orqali yuz formulasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sfera sirti: S = 4πR²."
     },
@@ -5764,6 +6003,7 @@ const matematika = {
           "text": "Tanga bir marta tashlanganda gerb tomoni tushishi ehtimoli qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -5788,6 +6028,7 @@ const matematika = {
           "text": "4 elementli to'plamning barcha o'rinlashtirishlar soni (P₄) nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "P₄ = 4! = 24."
     },
@@ -5812,6 +6053,7 @@ const matematika = {
           "text": "Bitta standart o'yin suyagi (zarik) tashlanganda 6 ochko tushishi ehtimolligi qancha?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -5836,6 +6078,7 @@ const matematika = {
           "text": "2x² - 8 = 0 chala kvadrat tenglamaning ildizlarini toping."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "P = 1/2 = 0.5."
     },
@@ -5860,6 +6103,7 @@ const matematika = {
           "text": "Nisbat va mutanosiblik: 3 : x = 6 : 10 proporsiyadan x ni toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "6x = 30 => x = 5."
     },
@@ -5884,6 +6128,7 @@ const matematika = {
           "text": "Sonning qismi: 120 ning 3/4 qismini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "120 · (3/4) = 90."
     },
@@ -5908,6 +6153,7 @@ const matematika = {
           "text": "Teskarisi: Qaysi sonning 2/3 qismi 40 ga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -5932,6 +6178,7 @@ const matematika = {
           "text": "Arifmetik o'rta: 14, 18 va 28 sonlarining o'rta arifmetigini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -5956,6 +6203,7 @@ const matematika = {
           "text": "sin 30° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "√(4 · 16) = √64 = 8."
     },
@@ -5980,6 +6228,7 @@ const matematika = {
           "text": "tg 45° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "x² - 3² = (x - 3)(x + 3)."
     },
@@ -6004,6 +6253,7 @@ const matematika = {
           "text": "cos 90° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -6028,6 +6278,7 @@ const matematika = {
           "text": "Radiusi R bo'lgan doiraning yuzi formulasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -6052,6 +6303,7 @@ const matematika = {
           "text": "Radiusi R bo'lgan sfera sirtining yuzi nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "5√2 - 3√2 = 2√2."
     },
@@ -6076,6 +6328,7 @@ const matematika = {
           "text": "a(2; -3) va b(5; 4) vektorlarning skalyar ko'paytmasini toping."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(√7)² - 2² = 7 - 4 = 3."
     },
@@ -6100,6 +6353,7 @@ const matematika = {
           "text": "y = √(x - 4) funksiyaning aniqlanish sohasini toping."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -6124,6 +6378,7 @@ const matematika = {
           "text": "Amalni bajaring: (2/3) · (9/10)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -6148,6 +6403,7 @@ const matematika = {
           "text": "Hisoblang: log₅25 - log₂8"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2x² = 8 => x² = 4 => x = ±2."
     },
@@ -6172,6 +6428,7 @@ const matematika = {
           "text": "3x² - 6x = 0 tenglamaning ildizlarini toping."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -6196,6 +6453,7 @@ const matematika = {
           "text": "Qaysi sonning 40% i 80 ga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -6220,6 +6478,7 @@ const matematika = {
           "text": "y = 3x - 9 funksiyaning noli (Ox o'qi bilan kesishish nuqtasi) qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -6244,6 +6503,7 @@ const matematika = {
           "text": "(a + b)² ifodaning yoyilmasi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -6268,6 +6528,7 @@ const matematika = {
           "text": "Amalni bajaring: (4/5) : (8/15)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -6292,6 +6553,7 @@ const matematika = {
           "text": "250 sonining 20% ini toping."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2 · 2 = 4."
     },
@@ -6316,6 +6578,7 @@ const matematika = {
           "text": "Asosi 10 bo'lgan logarifm (o'nli logarifm) qanday belgilanadi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "lg x = log₁₀ x."
     },
@@ -6340,6 +6603,7 @@ const matematika = {
           "text": "Logarifmni hisoblang: log₃81 + log₅125"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "ln x = log_e x."
     },
@@ -6364,6 +6628,7 @@ const matematika = {
           "text": "2x² - 8 = 0 chala kvadrat tenglamaning ildizlarini toping."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -6388,6 +6653,7 @@ const matematika = {
           "text": "y = 2x + 6 to'g'ri chiziqning Oy o'qi bilan kesishish nuqtasi koordinatasini toping."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "cos (90° - α) = sin α."
     },
@@ -6412,6 +6678,7 @@ const matematika = {
           "text": "Sinuslar teoremasi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "sin (180° - α) = sin α."
     },
@@ -6436,6 +6703,7 @@ const matematika = {
           "text": "To'g'ri burchakli parallelepipedning o'lchamlari 2, 3 va 4 bo'lsa, uning hajmini toping."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "cos (180° - α) = -cos α."
     },
@@ -6460,6 +6728,7 @@ const matematika = {
           "text": "tg α · ctg α ko'paytmasi nimaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "tg α · ctg α = 1."
     },
@@ -6484,6 +6753,7 @@ const matematika = {
           "text": "5! (5 faktorial) ning qiymatini hisoblang."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin 0° = 0."
     },
@@ -6508,6 +6778,7 @@ const matematika = {
           "text": "3x² - 6x = 0 tenglamaning ildizlarini toping."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "cos 0° = 1."
     },
@@ -6532,6 +6803,7 @@ const matematika = {
           "text": "sin 90° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "sin 90° = 1."
     },
@@ -6556,6 +6828,7 @@ const matematika = {
           "text": "cos 90° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "cos 90° = 0."
     },
@@ -6580,6 +6853,7 @@ const matematika = {
           "text": "cos (180° - α) nimaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -6604,6 +6878,7 @@ const matematika = {
           "text": "cos (90° - α) keltirish formulasi nimaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -6628,6 +6903,7 @@ const matematika = {
           "text": "Hisoblang: Aniq integral ∫₀² 3x² dx"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -6652,6 +6928,7 @@ const matematika = {
           "text": "2x² - 8 = 0 chala kvadrat tenglamaning ildizlarini toping."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -6676,6 +6953,7 @@ const matematika = {
           "text": "Kosinuslar teoremasi qaysi javobda to'g'ri ifodalangan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -6700,6 +6978,7 @@ const matematika = {
           "text": "Radiusi R bo'lgan aylananing uzunligi formulasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -6724,6 +7003,7 @@ const matematika = {
           "text": "Qavariq to'rtburchakning ichki burchaklari yig'indisi necha daraja?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "S = p · r."
     },
@@ -6748,6 +7028,7 @@ const matematika = {
           "text": "4 elementli to'plamning barcha o'rinlashtirishlar soni (P₄) nechaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "S = abc / 4R."
     },
@@ -6772,6 +7053,7 @@ const matematika = {
           "text": "To'g'ri burchakli parallelepipedning o'lchamlari 2, 3 va 4 bo'lsa, uning hajmini toping."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -6796,6 +7078,7 @@ const matematika = {
           "text": "tg 45° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -6820,6 +7103,7 @@ const matematika = {
           "text": "sin 30° ning qiymati nechaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -6844,6 +7128,7 @@ const matematika = {
           "text": "Geometrik progressiyada b₁ = 2, q = 3 bo'lsa, b₄ ni toping."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -6868,6 +7153,7 @@ const matematika = {
           "text": "3x = 21 => x = 7."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -6892,6 +7178,7 @@ const matematika = {
           "text": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -6916,6 +7203,7 @@ const matematika = {
           "text": "250 · 0.20 = 50."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "250 · 0.20 = 50."
     },
@@ -6940,6 +7228,7 @@ const matematika = {
           "text": "3x(x - 2) = 0 => x = 0 yoki x = 2."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -6964,6 +7253,7 @@ const matematika = {
           "text": "Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -6988,6 +7278,7 @@ const matematika = {
           "text": "(21 - 8) / 24 = 13/24."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(21 - 8) / 24 = 13/24."
     },
@@ -7012,6 +7303,7 @@ const matematika = {
           "text": "(x^n)' = n · x^(n-1) => (x³)' = 3x²."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -7036,6 +7328,7 @@ const matematika = {
           "text": "x² - 3² = (x - 3)(x + 3)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -7060,6 +7353,7 @@ const matematika = {
           "text": "Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -7084,6 +7378,7 @@ const matematika = {
           "text": "(4/5) · (15/8) = 60/40 = 3/2 = 1.5."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -7108,6 +7403,7 @@ const matematika = {
           "text": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -7132,6 +7428,7 @@ const matematika = {
           "text": "6³ = 216 bo'lgani sababli ³√216 = 6."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2^(5 + 3 - 6) = 2² = 4."
     },
@@ -7156,6 +7453,7 @@ const matematika = {
           "text": "d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "12 + 9 - 5 = 16."
     },
@@ -7180,6 +7478,7 @@ const matematika = {
           "text": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -7204,6 +7503,7 @@ const matematika = {
           "text": "Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "3x = 21 => x = 7."
     },
@@ -7228,6 +7528,7 @@ const matematika = {
           "text": "Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -7252,6 +7553,7 @@ const matematika = {
           "text": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -7276,6 +7578,7 @@ const matematika = {
           "text": "2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -7300,6 +7603,7 @@ const matematika = {
           "text": "81 = 3⁴ => x + 1 = 4 => x = 3."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -7324,6 +7628,7 @@ const matematika = {
           "text": "2⁵ = 32 bo'lgani uchun log₂32 = 5."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -7348,6 +7653,7 @@ const matematika = {
           "text": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -7372,6 +7678,7 @@ const matematika = {
           "text": "y = 0 => 3x - 9 = 0 => x = 3."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "3x > 9 => x > 3."
     },
@@ -7396,6 +7703,7 @@ const matematika = {
           "text": "x = 0 bo'lganda y = 6 bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -7420,6 +7728,7 @@ const matematika = {
           "text": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -7444,6 +7753,7 @@ const matematika = {
           "text": "b₄ = b₁ · q³ = 2 · 27 = 54."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -7468,6 +7778,7 @@ const matematika = {
           "text": "S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -7492,6 +7803,7 @@ const matematika = {
           "text": "cos (90° - α) = sin α."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin²α + cos²α = 1."
     },
@@ -7516,6 +7828,7 @@ const matematika = {
           "text": "2 · 2 = 4."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "sin 30° = 1/2."
     },
@@ -7540,6 +7853,7 @@ const matematika = {
           "text": "Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "cos 60° = 1/2."
     },
@@ -7564,6 +7878,7 @@ const matematika = {
           "text": "lg x = log₁₀ x."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "tg 45° = 1."
     },
@@ -7588,6 +7903,7 @@ const matematika = {
           "text": "P₄ = 4! = 24."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "sin 2α = 2 sin α cos α."
     },
@@ -7612,6 +7928,7 @@ const matematika = {
           "text": "S = p · r."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "cos 2α = cos²α - sin²α."
     },
@@ -7636,6 +7953,7 @@ const matematika = {
           "text": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -7660,6 +7978,7 @@ const matematika = {
           "text": "[x³]₀² = 2³ - 0³ = 8."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -7684,6 +8003,7 @@ const matematika = {
           "text": "V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "(sin x)' = cos x."
     },
@@ -7708,6 +8028,7 @@ const matematika = {
           "text": "x² - 3² = (x - 3)(x + 3)."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "(cos x)' = -sin x."
     },
@@ -7732,6 +8053,7 @@ const matematika = {
           "text": "∫ 2x dx = 2 · (x²/2) + C = x² + C."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -7756,6 +8078,7 @@ const matematika = {
           "text": "a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "[x³]₀² = 2³ - 0³ = 8."
     },
@@ -7780,6 +8103,7 @@ const matematika = {
           "text": "3x(x - 2) = 0 => x = 0 yoki x = 2."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -7804,6 +8128,7 @@ const matematika = {
           "text": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -7828,6 +8153,7 @@ const matematika = {
           "text": "sin 0° = 0."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kvadrat yuzi: S = a²."
     },
@@ -7852,6 +8178,7 @@ const matematika = {
           "text": "6³ = 216 bo'lgani sababli ³√216 = 6."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Doira yuzi: S = πR²."
     },
@@ -7876,6 +8203,7 @@ const matematika = {
           "text": "3x = 21 => x = 7."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Aylana uzunligi: L = 2πR."
     },
@@ -7900,6 +8228,7 @@ const matematika = {
           "text": "S = abc / 4R."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -7924,6 +8253,7 @@ const matematika = {
           "text": "48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Kub hajmi: V = a³."
     },
@@ -7948,6 +8278,7 @@ const matematika = {
           "text": "(sin x)' = cos x."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -7972,6 +8303,7 @@ const matematika = {
           "text": "sin 90° = 1."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Konus hajmi: V = (1/3)πR²H."
     },
@@ -7996,6 +8328,7 @@ const matematika = {
           "text": "Shar hajmi: V = (4/3)πR³."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shar hajmi: V = (4/3)πR³."
     },
@@ -8020,6 +8353,7 @@ const matematika = {
           "text": "d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sfera sirti: S = 4πR²."
     },
@@ -8044,6 +8378,7 @@ const matematika = {
           "text": "log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -8068,6 +8403,7 @@ const matematika = {
           "text": "cos (180° - α) = -cos α."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "P₄ = 4! = 24."
     },
@@ -8092,6 +8428,7 @@ const matematika = {
           "text": "Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -8116,6 +8453,7 @@ const matematika = {
           "text": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "P = 1/2 = 0.5."
     },
@@ -8140,6 +8478,7 @@ const matematika = {
           "text": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "6x = 30 => x = 5."
     },
@@ -8164,6 +8503,7 @@ const matematika = {
           "text": "y = 0 => 3x - 9 = 0 => x = 3."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "120 · (3/4) = 90."
     },
@@ -8188,6 +8528,7 @@ const matematika = {
           "text": "cos 0° = 1."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -8212,6 +8553,7 @@ const matematika = {
           "text": "tg 45° = 1."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -8236,6 +8578,7 @@ const matematika = {
           "text": "lg x = log₁₀ x."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "√(4 · 16) = √64 = 8."
     },
@@ -8260,6 +8603,7 @@ const matematika = {
           "text": "tg 45° = 1."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "x² - 3² = (x - 3)(x + 3)."
     },
@@ -8284,6 +8628,7 @@ const matematika = {
           "text": "x² + 2·3·x + 3² = (x + 3)²."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -8308,6 +8653,7 @@ const matematika = {
           "text": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -8332,6 +8678,7 @@ const matematika = {
           "text": "cos 90° = 0."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "5√2 - 3√2 = 2√2."
     },
@@ -8356,6 +8703,7 @@ const matematika = {
           "text": "(5x⁴)' - (2x)' + 7' = 20x³ - 2."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "(√7)² - 2² = 7 - 4 = 3."
     },
@@ -8380,6 +8728,7 @@ const matematika = {
           "text": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -8404,6 +8753,7 @@ const matematika = {
           "text": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -8428,6 +8778,7 @@ const matematika = {
           "text": "P₄ = 4! = 24."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "2x² = 8 => x² = 4 => x = ±2."
     },
@@ -8452,6 +8803,7 @@ const matematika = {
           "text": "3x(x - 2) = 0 => x = 0 yoki x = 2."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -8476,6 +8828,7 @@ const matematika = {
           "text": "Sfera sirti: S = 4πR²."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -8500,6 +8853,7 @@ const matematika = {
           "text": "x = 0 bo'lganda y = 6 bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -8524,6 +8878,7 @@ const matematika = {
           "text": "log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -8548,6 +8903,7 @@ const matematika = {
           "text": "250 · 0.20 = 50."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -8572,6 +8928,7 @@ const matematika = {
           "text": "2 · 2 = 4."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "2 · 2 = 4."
     },
@@ -8596,6 +8953,7 @@ const matematika = {
           "text": "x² + 2·3·x + 3² = (x + 3)²."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "lg x = log₁₀ x."
     },
@@ -8620,6 +8978,7 @@ const matematika = {
           "text": "ln x = log_e x."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "ln x = log_e x."
     },
@@ -8644,6 +9003,7 @@ const matematika = {
           "text": "Keltirish formulasi: sin (90° - α) = cos α."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -8668,6 +9028,7 @@ const matematika = {
           "text": "3x(x - 2) = 0 => x = 0 yoki x = 2."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "cos (90° - α) = sin α."
     },
@@ -8692,6 +9053,7 @@ const matematika = {
           "text": "sin (180° - α) = sin α."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "sin (180° - α) = sin α."
     },
@@ -8716,6 +9078,7 @@ const matematika = {
           "text": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "cos (180° - α) = -cos α."
     },
@@ -8740,6 +9103,7 @@ const matematika = {
           "text": "a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "tg α · ctg α = 1."
     },
@@ -8764,6 +9128,7 @@ const matematika = {
           "text": "cos 60° = 1/2."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin 0° = 0."
     },
@@ -8788,6 +9153,7 @@ const matematika = {
           "text": "2⁵ = 32 bo'lgani uchun log₂32 = 5."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "cos 0° = 1."
     },
@@ -8812,6 +9178,7 @@ const matematika = {
           "text": "sin 90° = 1."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "sin 90° = 1."
     },
@@ -8836,6 +9203,7 @@ const matematika = {
           "text": "sin 30° = 1/2."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "cos 90° = 0."
     },
@@ -8860,6 +9228,7 @@ const matematika = {
           "text": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -8884,6 +9253,7 @@ const matematika = {
           "text": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -8908,6 +9278,7 @@ const matematika = {
           "text": "sin 30° = 1/2."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -8932,6 +9303,7 @@ const matematika = {
           "text": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -8956,6 +9328,7 @@ const matematika = {
           "text": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -8980,6 +9353,7 @@ const matematika = {
           "text": "P = 1/2 = 0.5."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -9004,6 +9378,7 @@ const matematika = {
           "text": "(cos x)' = -sin x."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "S = p · r."
     },
@@ -9028,6 +9403,7 @@ const matematika = {
           "text": "S = abc / 4R."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "S = abc / 4R."
     },
@@ -9052,6 +9428,7 @@ const matematika = {
           "text": "d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -9076,6 +9453,7 @@ const matematika = {
           "text": "a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -9100,6 +9478,7 @@ const matematika = {
           "text": "sin²α + cos²α = 1."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -9124,6 +9503,7 @@ const matematika = {
           "text": "2x² = 8 => x² = 4 => x = ±2."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -9148,6 +9528,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -9172,6 +9553,7 @@ const matematika = {
           "text": "18"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -9196,6 +9578,7 @@ const matematika = {
           "text": "100"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "250 · 0.20 = 50."
     },
@@ -9220,6 +9603,7 @@ const matematika = {
           "text": "160"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -9244,6 +9628,7 @@ const matematika = {
           "text": "5/24"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(21 - 8) / 24 = 13/24."
     },
@@ -9268,6 +9653,7 @@ const matematika = {
           "text": "(a - b)²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -9292,6 +9678,7 @@ const matematika = {
           "text": "a² + b²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -9316,6 +9703,7 @@ const matematika = {
           "text": "a³ + 3a²b - 3ab² + b³"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -9340,6 +9728,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "12 + 9 - 5 = 16."
     },
@@ -9364,6 +9753,7 @@ const matematika = {
           "text": "1 va 6"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -9388,6 +9778,7 @@ const matematika = {
           "text": "D = 4ac - b²"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -9412,6 +9803,7 @@ const matematika = {
           "text": "x < 3"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "3x > 9 => x > 3."
     },
@@ -9436,6 +9828,7 @@ const matematika = {
           "text": "39"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -9460,6 +9853,7 @@ const matematika = {
           "text": "150"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -9484,6 +9878,7 @@ const matematika = {
           "text": "54"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -9508,6 +9903,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -9532,6 +9928,7 @@ const matematika = {
           "text": "2 sin α cos α"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "sin 2α = 2 sin α cos α."
     },
@@ -9556,6 +9953,7 @@ const matematika = {
           "text": "2 cos α"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "cos 2α = cos²α - sin²α."
     },
@@ -9580,6 +9978,7 @@ const matematika = {
           "text": "x²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "(x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -9604,6 +10003,7 @@ const matematika = {
           "text": "20x³"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -9628,6 +10028,7 @@ const matematika = {
           "text": "-cos x"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "(sin x)' = cos x."
     },
@@ -9652,6 +10053,7 @@ const matematika = {
           "text": "-cos x"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "(cos x)' = -sin x."
     },
@@ -9676,6 +10078,7 @@ const matematika = {
           "text": "x² + C"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -9700,6 +10103,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -9724,6 +10128,7 @@ const matematika = {
           "text": "360°"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -9748,6 +10153,7 @@ const matematika = {
           "text": "S = a² / 2"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Kvadrat yuzi: S = a²."
     },
@@ -9772,6 +10178,7 @@ const matematika = {
           "text": "S = πR"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Doira yuzi: S = πR²."
     },
@@ -9796,6 +10203,7 @@ const matematika = {
           "text": "L = πR²"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Aylana uzunligi: L = 2πR."
     },
@@ -9820,6 +10228,7 @@ const matematika = {
           "text": "360°"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -9844,6 +10253,7 @@ const matematika = {
           "text": "V = 3a"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kub hajmi: V = a³."
     },
@@ -9868,6 +10278,7 @@ const matematika = {
           "text": "V = 2πRH"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -9892,6 +10303,7 @@ const matematika = {
           "text": "V = πR²H"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Konus hajmi: V = (1/3)πR²H."
     },
@@ -9916,6 +10328,7 @@ const matematika = {
           "text": "V = (4/3)πR³"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shar hajmi: V = (4/3)πR³."
     },
@@ -9940,6 +10353,7 @@ const matematika = {
           "text": "S = (4/3)πR²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sfera sirti: S = 4πR²."
     },
@@ -9964,6 +10378,7 @@ const matematika = {
           "text": "720"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -9988,6 +10403,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "P₄ = 4! = 24."
     },
@@ -10012,6 +10428,7 @@ const matematika = {
           "text": "1/2"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -10036,6 +10453,7 @@ const matematika = {
           "text": "100"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "120 · (3/4) = 90."
     },
@@ -10060,6 +10478,7 @@ const matematika = {
           "text": "90"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -10084,6 +10503,7 @@ const matematika = {
           "text": "20"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -10108,6 +10528,7 @@ const matematika = {
           "text": "(x + 3)²"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "x² - 3² = (x - 3)(x + 3)."
     },
@@ -10132,6 +10553,7 @@ const matematika = {
           "text": "(x + 9)²"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -10156,6 +10578,7 @@ const matematika = {
           "text": "x - 2"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -10180,6 +10603,7 @@ const matematika = {
           "text": "3√2"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "5√2 - 3√2 = 2√2."
     },
@@ -10204,6 +10628,7 @@ const matematika = {
           "text": "-10"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -10228,6 +10653,7 @@ const matematika = {
           "text": "4"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2x² = 8 => x² = 4 => x = ±2."
     },
@@ -10252,6 +10678,7 @@ const matematika = {
           "text": "0"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -10276,6 +10703,7 @@ const matematika = {
           "text": "lg x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "lg x = log₁₀ x."
     },
@@ -10300,6 +10728,7 @@ const matematika = {
           "text": "log x"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "ln x = log_e x."
     },
@@ -10324,6 +10753,7 @@ const matematika = {
           "text": "sin α"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -10348,6 +10778,7 @@ const matematika = {
           "text": "-sin α"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "cos (90° - α) = sin α."
     },
@@ -10372,6 +10803,7 @@ const matematika = {
           "text": "-sin α"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "sin (180° - α) = sin α."
     },
@@ -10396,6 +10828,7 @@ const matematika = {
           "text": "-cos α"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "cos (180° - α) = -cos α."
     },
@@ -10420,6 +10853,7 @@ const matematika = {
           "text": "S = a² / 2"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -10444,6 +10878,7 @@ const matematika = {
           "text": "S = 2pr"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "S = p · r."
     },
@@ -10468,6 +10903,7 @@ const matematika = {
           "text": "-14"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -10492,6 +10928,7 @@ const matematika = {
           "text": "18"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -10516,6 +10953,7 @@ const matematika = {
           "text": "32"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -10532,6 +10970,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -10548,6 +10987,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -10564,6 +11004,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 250 · 0.20 = 50."
     },
@@ -10580,6 +11021,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -10596,6 +11038,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -10612,6 +11055,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. (21 - 8) / 24 = 13/24."
     },
@@ -10628,6 +11072,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. (2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -10644,6 +11089,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. (4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -10660,6 +11106,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -10676,6 +11123,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -10692,6 +11140,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -10708,6 +11157,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 2^(5 + 3 - 6) = 2² = 4."
     },
@@ -10724,6 +11174,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 12 + 9 - 5 = 16."
     },
@@ -10740,6 +11191,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -10756,6 +11208,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 3x = 21 => x = 7."
     },
@@ -10772,6 +11225,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -10788,6 +11242,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -10804,6 +11259,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -10820,6 +11276,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -10836,6 +11293,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -10852,6 +11310,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -10868,6 +11327,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 3x > 9 => x > 3."
     },
@@ -10884,6 +11344,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -10900,6 +11361,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -10916,6 +11378,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -10932,6 +11395,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -10948,6 +11412,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. sin²α + cos²α = 1."
     },
@@ -10964,6 +11429,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. sin 30° = 1/2."
     },
@@ -10980,6 +11446,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. cos 60° = 1/2."
     },
@@ -10996,6 +11463,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. tg 45° = 1."
     },
@@ -11012,6 +11480,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. sin 2α = 2 sin α cos α."
     },
@@ -11028,6 +11497,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. cos 2α = cos²α - sin²α."
     },
@@ -11044,6 +11514,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. (x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -11060,6 +11531,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. (5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -11076,6 +11548,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. (sin x)' = cos x."
     },
@@ -11092,6 +11565,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. (cos x)' = -sin x."
     },
@@ -11108,6 +11582,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. ∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -11124,6 +11599,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. [x³]₀² = 2³ - 0³ = 8."
     },
@@ -11140,6 +11616,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -11156,6 +11633,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -11172,6 +11650,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Kvadrat yuzi: S = a²."
     },
@@ -11188,6 +11667,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Doira yuzi: S = πR²."
     },
@@ -11204,6 +11684,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Aylana uzunligi: L = 2πR."
     },
@@ -11220,6 +11701,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -11236,6 +11718,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Kub hajmi: V = a³."
     },
@@ -11252,6 +11735,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -11268,6 +11752,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Konus hajmi: V = (1/3)πR²H."
     },
@@ -11284,6 +11769,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Shar hajmi: V = (4/3)πR³."
     },
@@ -11300,6 +11786,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Sfera sirti: S = 4πR²."
     },
@@ -11316,6 +11803,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -11332,6 +11820,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. P₄ = 4! = 24."
     },
@@ -11348,6 +11837,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -11364,6 +11854,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. P = 1/2 = 0.5."
     },
@@ -11380,6 +11871,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 6x = 30 => x = 5."
     },
@@ -11396,6 +11888,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 120 · (3/4) = 90."
     },
@@ -11412,6 +11905,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -11428,6 +11922,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. (14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -11444,6 +11939,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. √(4 · 16) = √64 = 8."
     },
@@ -11460,6 +11956,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. x² - 3² = (x - 3)(x + 3)."
     },
@@ -11476,6 +11973,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -11492,6 +11990,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. (x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -11508,6 +12007,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 5√2 - 3√2 = 2√2."
     },
@@ -11524,6 +12024,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. (√7)² - 2² = 7 - 4 = 3."
     },
@@ -11540,6 +12041,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -11556,6 +12058,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -11572,6 +12075,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 2x² = 8 => x² = 4 => x = ±2."
     },
@@ -11588,6 +12092,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -11604,6 +12109,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -11620,6 +12126,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -11636,6 +12143,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -11652,6 +12160,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -11668,6 +12177,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 2 · 2 = 4."
     },
@@ -11684,6 +12194,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. lg x = log₁₀ x."
     },
@@ -11700,6 +12211,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. ln x = log_e x."
     },
@@ -11716,6 +12228,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -11732,6 +12245,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. cos (90° - α) = sin α."
     },
@@ -11748,6 +12262,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. sin (180° - α) = sin α."
     },
@@ -11764,6 +12279,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. cos (180° - α) = -cos α."
     },
@@ -11780,6 +12296,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. tg α · ctg α = 1."
     },
@@ -11796,6 +12313,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. sin 0° = 0."
     },
@@ -11812,6 +12330,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. cos 0° = 1."
     },
@@ -11828,6 +12347,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. sin 90° = 1."
     },
@@ -11844,6 +12364,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. cos 90° = 0."
     },
@@ -11860,6 +12381,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -11876,6 +12398,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -11892,6 +12415,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -11908,6 +12432,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -11924,6 +12449,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -11940,6 +12466,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -11956,6 +12483,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. S = p · r."
     },
@@ -11972,6 +12500,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. S = abc / 4R."
     },
@@ -11988,6 +12517,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -12004,6 +12534,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -12020,6 +12551,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -12036,6 +12568,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -12052,6 +12585,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 24. 48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -12068,6 +12602,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 36. 12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -12084,6 +12619,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 50. 250 · 0.20 = 50."
     },
@@ -12100,6 +12636,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 200. x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -12116,6 +12653,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 23/20 (1.15). Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -12132,6 +12670,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 13/24. (21 - 8) / 24 = 13/24."
     },
@@ -12148,6 +12687,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3/5 (0.6). (2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -12164,6 +12704,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3/2 (1.5). (4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -12180,6 +12721,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (a - b)(a + b). Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -12196,6 +12738,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — a² + 2ab + b². Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -12212,6 +12755,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — a³ - 3a²b + 3ab² - b³. Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -12228,6 +12772,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 4 (2²). 2^(5 + 3 - 6) = 2² = 4."
     },
@@ -12244,6 +12789,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16. 12 + 9 - 5 = 16."
     },
@@ -12260,6 +12806,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6. 6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -12276,6 +12823,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7. 3x = 21 => x = 7."
     },
@@ -12292,6 +12840,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 2 va 3. Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -12308,6 +12857,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — D = b² - 4ac. Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -12324,6 +12874,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — x = 5 va x = -1. 2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -12340,6 +12891,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 3. 81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -12356,6 +12908,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5. 2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -12372,6 +12925,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 7. log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -12388,6 +12942,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x > 3. 3x > 9 => x > 3."
     },
@@ -12404,6 +12959,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 39. a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -12420,6 +12976,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 155. S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -12436,6 +12993,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 54. b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -12452,6 +13010,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 12. S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -12468,6 +13027,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. sin²α + cos²α = 1."
     },
@@ -12484,6 +13044,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). sin 30° = 1/2."
     },
@@ -12500,6 +13061,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). cos 60° = 1/2."
     },
@@ -12516,6 +13078,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. tg 45° = 1."
     },
@@ -12532,6 +13095,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 2 sin α cos α. sin 2α = 2 sin α cos α."
     },
@@ -12548,6 +13112,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — cos²α - sin²α. cos 2α = cos²α - sin²α."
     },
@@ -12564,6 +13129,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3x². (x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -12580,6 +13146,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 20x³ - 2. (5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -12596,6 +13163,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — cos x. (sin x)' = cos x."
     },
@@ -12612,6 +13180,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -sin x. (cos x)' = -sin x."
     },
@@ -12628,6 +13197,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x² + C. ∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -12644,6 +13214,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 8. [x³]₀² = 2³ - 0³ = 8."
     },
@@ -12660,6 +13231,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 10. Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -12676,6 +13248,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 180°. Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -12692,6 +13265,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — S = a². Kvadrat yuzi: S = a²."
     },
@@ -12708,6 +13282,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — S = πR². Doira yuzi: S = πR²."
     },
@@ -12724,6 +13299,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — L = 2πR. Aylana uzunligi: L = 2πR."
     },
@@ -12740,6 +13316,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 360°. To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -12756,6 +13333,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — V = a³. Kub hajmi: V = a³."
     },
@@ -12772,6 +13350,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = πR²H. Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -12788,6 +13367,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = (1/3)πR²H. Konus hajmi: V = (1/3)πR²H."
     },
@@ -12804,6 +13384,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = (4/3)πR³. Shar hajmi: V = (4/3)πR³."
     },
@@ -12820,6 +13401,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = 4πR². Sfera sirti: S = 4πR²."
     },
@@ -12836,6 +13418,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 120. 5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -12852,6 +13435,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 24. P₄ = 4! = 24."
     },
@@ -12868,6 +13452,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1/6. Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -12884,6 +13469,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). P = 1/2 = 0.5."
     },
@@ -12900,6 +13486,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5. 6x = 30 => x = 5."
     },
@@ -12916,6 +13503,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 90. 120 · (3/4) = 90."
     },
@@ -12932,6 +13520,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 60. x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -12948,6 +13537,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 20. (14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -12964,6 +13554,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 8. √(4 · 16) = √64 = 8."
     },
@@ -12980,6 +13571,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (x - 3)(x + 3). x² - 3² = (x - 3)(x + 3)."
     },
@@ -12996,6 +13588,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (x + 3)². x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -13012,6 +13605,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x + 2. (x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -13028,6 +13622,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 2√2. 5√2 - 3√2 = 2√2."
     },
@@ -13044,6 +13639,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3. (√7)² - 2² = 7 - 4 = 3."
     },
@@ -13060,6 +13656,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7. Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -13076,6 +13673,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -10. Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -13092,6 +13690,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — ±2. 2x² = 8 => x² = 4 => x = ±2."
     },
@@ -13108,6 +13707,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 0 va 2. 3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -13124,6 +13724,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (0; 6). x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -13140,6 +13741,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3. y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -13156,6 +13758,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — [4; +∞). Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -13172,6 +13775,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -1. log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -13188,6 +13792,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 4. 2 · 2 = 4."
     },
@@ -13204,6 +13809,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — lg x. lg x = log₁₀ x."
     },
@@ -13220,6 +13826,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — ln x. ln x = log_e x."
     },
@@ -13236,6 +13843,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — cos α. Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -13252,6 +13860,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — sin α. cos (90° - α) = sin α."
     },
@@ -13268,6 +13877,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — sin α. sin (180° - α) = sin α."
     },
@@ -13284,6 +13894,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -cos α. cos (180° - α) = -cos α."
     },
@@ -13300,6 +13911,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. tg α · ctg α = 1."
     },
@@ -13316,6 +13928,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 0. sin 0° = 0."
     },
@@ -13332,6 +13945,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. cos 0° = 1."
     },
@@ -13348,6 +13962,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. sin 90° = 1."
     },
@@ -13364,6 +13979,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 0. cos 90° = 0."
     },
@@ -13380,6 +13996,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = (a²√3) / 4. Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -13396,6 +14013,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = (d₁ · d₂) / 2. Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -13412,6 +14030,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = ((a + b) / 2) · h. Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -13428,6 +14047,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = √(p(p - a)(p - b)(p - c)). Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -13444,6 +14064,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — c² = a² + b² - 2ab cos γ. Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -13460,6 +14081,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — a / sin α = b / sin β = c / sin γ = 2R. Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -13476,6 +14098,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = p · r. S = p · r."
     },
@@ -13492,6 +14115,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = abc / (4R). S = abc / 4R."
     },
@@ -13508,6 +14132,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 5. d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -13524,6 +14149,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — -2. a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -13540,6 +14166,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 24. V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -13556,6 +14183,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 32. V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -13572,6 +14200,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 24. 48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -13588,6 +14217,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 36. 12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -13604,6 +14234,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 50. 250 · 0.20 = 50."
     },
@@ -13620,6 +14251,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 200. x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -13636,6 +14268,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 23/20 (1.15). Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -13652,6 +14285,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 13/24. (21 - 8) / 24 = 13/24."
     },
@@ -13668,6 +14302,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3/5 (0.6). (2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -13684,6 +14319,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3/2 (1.5). (4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -13700,6 +14336,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (a - b)(a + b). Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -13716,6 +14353,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — a² + 2ab + b². Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -13732,6 +14370,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — a³ - 3a²b + 3ab² - b³. Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -13748,6 +14387,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 4 (2²). 2^(5 + 3 - 6) = 2² = 4."
     },
@@ -13764,6 +14404,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16. 12 + 9 - 5 = 16."
     },
@@ -13780,6 +14421,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6. 6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -13796,6 +14438,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7. 3x = 21 => x = 7."
     },
@@ -13812,6 +14455,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 2 va 3. Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -13828,6 +14472,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — D = b² - 4ac. Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -13844,6 +14489,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — x = 5 va x = -1. 2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -13860,6 +14506,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 3. 81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -13876,6 +14523,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5. 2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -13892,6 +14540,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 7. log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -13908,6 +14557,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 39. a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -13924,6 +14574,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 155. S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -13940,6 +14591,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 54. b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -13956,6 +14608,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 12. S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -13972,6 +14625,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. sin²α + cos²α = 1."
     },
@@ -13988,6 +14642,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). sin 30° = 1/2."
     },
@@ -14004,6 +14659,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). cos 60° = 1/2."
     },
@@ -14020,6 +14676,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. tg 45° = 1."
     },
@@ -14036,6 +14693,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 2 sin α cos α. sin 2α = 2 sin α cos α."
     },
@@ -14052,6 +14710,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — cos²α - sin²α. cos 2α = cos²α - sin²α."
     },
@@ -14068,6 +14727,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3x². (x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -14084,6 +14744,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 20x³ - 2. (5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -14100,6 +14761,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — cos x. (sin x)' = cos x."
     },
@@ -14116,6 +14778,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -sin x. (cos x)' = -sin x."
     },
@@ -14132,6 +14795,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x² + C. ∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -14148,6 +14812,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 8. [x³]₀² = 2³ - 0³ = 8."
     },
@@ -14164,6 +14829,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 10. Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -14180,6 +14846,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 180°. Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -14196,6 +14863,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — S = a². Kvadrat yuzi: S = a²."
     },
@@ -14212,6 +14880,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — S = πR². Doira yuzi: S = πR²."
     },
@@ -14228,6 +14897,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — L = 2πR. Aylana uzunligi: L = 2πR."
     },
@@ -14244,6 +14914,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 360°. To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -14260,6 +14931,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — V = a³. Kub hajmi: V = a³."
     },
@@ -14276,6 +14948,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = πR²H. Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -14292,6 +14965,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = (1/3)πR²H. Konus hajmi: V = (1/3)πR²H."
     },
@@ -14308,6 +14982,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = (4/3)πR³. Shar hajmi: V = (4/3)πR³."
     },
@@ -14324,6 +14999,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = 4πR². Sfera sirti: S = 4πR²."
     },
@@ -14340,6 +15016,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 120. 5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -14356,6 +15033,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 24. P₄ = 4! = 24."
     },
@@ -14372,6 +15050,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1/6. Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -14388,6 +15067,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). P = 1/2 = 0.5."
     },
@@ -14404,6 +15084,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5. 6x = 30 => x = 5."
     },
@@ -14420,6 +15101,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 90. 120 · (3/4) = 90."
     },
@@ -14436,6 +15118,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 60. x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -14452,6 +15135,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 20. (14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -14468,6 +15152,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 8. √(4 · 16) = √64 = 8."
     },
@@ -14484,6 +15169,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (x - 3)(x + 3). x² - 3² = (x - 3)(x + 3)."
     },
@@ -14500,6 +15186,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (x + 3)². x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -14516,6 +15203,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x + 2. (x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -14532,6 +15220,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 2√2. 5√2 - 3√2 = 2√2."
     },
@@ -14548,6 +15237,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3. (√7)² - 2² = 7 - 4 = 3."
     },
@@ -14564,6 +15254,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7. Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -14580,6 +15271,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -10. Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -14596,6 +15288,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — ±2. 2x² = 8 => x² = 4 => x = ±2."
     },
@@ -14612,6 +15305,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 0 va 2. 3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -14628,6 +15322,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (0; 6). x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -14644,6 +15339,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3. y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -14660,6 +15356,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — [4; +∞). Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -14676,6 +15373,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -1. log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -14692,6 +15390,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 4. 2 · 2 = 4."
     },
@@ -14708,6 +15407,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — lg x. lg x = log₁₀ x."
     },
@@ -14724,6 +15424,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — ln x. ln x = log_e x."
     },
@@ -14740,6 +15441,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — cos α. Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -14756,6 +15458,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — sin α. cos (90° - α) = sin α."
     },
@@ -14772,6 +15475,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — sin α. sin (180° - α) = sin α."
     },
@@ -14788,6 +15492,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -cos α. cos (180° - α) = -cos α."
     },
@@ -14804,6 +15509,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. tg α · ctg α = 1."
     },
@@ -14820,6 +15526,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 0. sin 0° = 0."
     },
@@ -14836,6 +15543,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. cos 0° = 1."
     },
@@ -14852,6 +15560,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. sin 90° = 1."
     },
@@ -14868,6 +15577,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 0. cos 90° = 0."
     },
@@ -14884,6 +15594,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = (a²√3) / 4. Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -14900,6 +15611,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = (d₁ · d₂) / 2. Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -14916,6 +15628,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = ((a + b) / 2) · h. Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -14932,6 +15645,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = √(p(p - a)(p - b)(p - c)). Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -14948,6 +15662,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — c² = a² + b² - 2ab cos γ. Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -14964,6 +15679,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — a / sin α = b / sin β = c / sin γ = 2R. Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -14980,6 +15696,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = p · r. S = p · r."
     },
@@ -14996,6 +15713,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = abc / (4R). S = abc / 4R."
     },
@@ -15012,6 +15730,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 5. d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -15028,6 +15747,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — -2. a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -15044,6 +15764,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 24. V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -15060,6 +15781,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 32. V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -15076,6 +15798,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 24. 48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -15092,6 +15815,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 36. 12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -15108,6 +15832,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 50. 250 · 0.20 = 50."
     },
@@ -15124,6 +15849,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 200. x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -15140,6 +15866,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 23/20 (1.15). Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -15156,6 +15883,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 13/24. (21 - 8) / 24 = 13/24."
     },
@@ -15172,6 +15900,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3/5 (0.6). (2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -15188,6 +15917,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3/2 (1.5). (4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -15204,6 +15934,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (a - b)(a + b). Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -15220,6 +15951,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — a² + 2ab + b². Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -15236,6 +15968,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — a³ - 3a²b + 3ab² - b³. Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -15252,6 +15985,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 4 (2²). 2^(5 + 3 - 6) = 2² = 4."
     },
@@ -15268,6 +16002,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16. 12 + 9 - 5 = 16."
     },
@@ -15284,6 +16019,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6. 6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -15300,6 +16036,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7. 3x = 21 => x = 7."
     },
@@ -15316,6 +16053,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 2 va 3. Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -15332,6 +16070,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — D = b² - 4ac. Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -15348,6 +16087,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 3. 81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -15364,6 +16104,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5. 2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -15380,6 +16121,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 7. log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -15396,6 +16138,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x > 3. 3x > 9 => x > 3."
     },
@@ -15412,6 +16155,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 39. a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -15428,6 +16172,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 155. S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -15444,6 +16189,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 54. b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -15460,6 +16206,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 12. S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -15476,6 +16223,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. sin²α + cos²α = 1."
     },
@@ -15492,6 +16240,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). sin 30° = 1/2."
     },
@@ -15508,6 +16257,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). cos 60° = 1/2."
     },
@@ -15524,6 +16274,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. tg 45° = 1."
     },
@@ -15540,6 +16291,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 2 sin α cos α. sin 2α = 2 sin α cos α."
     },
@@ -15556,6 +16308,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — cos²α - sin²α. cos 2α = cos²α - sin²α."
     },
@@ -15572,6 +16325,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3x². (x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -15588,6 +16342,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 20x³ - 2. (5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -15604,6 +16359,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — cos x. (sin x)' = cos x."
     },
@@ -15620,6 +16376,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -sin x. (cos x)' = -sin x."
     },
@@ -15636,6 +16393,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x² + C. ∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -15652,6 +16410,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 8. [x³]₀² = 2³ - 0³ = 8."
     },
@@ -15668,6 +16427,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 10. Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -15684,6 +16444,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 180°. Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -15700,6 +16461,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — S = a². Kvadrat yuzi: S = a²."
     },
@@ -15716,6 +16478,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — S = πR². Doira yuzi: S = πR²."
     },
@@ -15732,6 +16495,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — L = 2πR. Aylana uzunligi: L = 2πR."
     },
@@ -15748,6 +16512,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 360°. To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -15764,6 +16529,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — V = a³. Kub hajmi: V = a³."
     },
@@ -15780,6 +16546,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = πR²H. Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -15796,6 +16563,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = (1/3)πR²H. Konus hajmi: V = (1/3)πR²H."
     },
@@ -15812,6 +16580,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — V = (4/3)πR³. Shar hajmi: V = (4/3)πR³."
     },
@@ -15828,6 +16597,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = 4πR². Sfera sirti: S = 4πR²."
     },
@@ -15844,6 +16614,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 120. 5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -15860,6 +16631,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 24. P₄ = 4! = 24."
     },
@@ -15876,6 +16648,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1/6. Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -15892,6 +16665,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1/2 (0.5). P = 1/2 = 0.5."
     },
@@ -15908,6 +16682,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5. 6x = 30 => x = 5."
     },
@@ -15924,6 +16699,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 90. 120 · (3/4) = 90."
     },
@@ -15940,6 +16716,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 60. x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -15956,6 +16733,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 20. (14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -15972,6 +16750,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 8. √(4 · 16) = √64 = 8."
     },
@@ -15988,6 +16767,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (x - 3)(x + 3). x² - 3² = (x - 3)(x + 3)."
     },
@@ -16004,6 +16784,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (x + 3)². x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -16020,6 +16801,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — x + 2. (x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -16036,6 +16818,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 2√2. 5√2 - 3√2 = 2√2."
     },
@@ -16052,6 +16835,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3. (√7)² - 2² = 7 - 4 = 3."
     },
@@ -16068,6 +16852,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7. Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -16084,6 +16869,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -10. Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -16100,6 +16886,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — ±2. 2x² = 8 => x² = 4 => x = ±2."
     },
@@ -16116,6 +16903,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — (0; 6). x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -16132,6 +16920,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3. y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -16148,6 +16937,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -1. log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -16164,6 +16954,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 4. 2 · 2 = 4."
     },
@@ -16180,6 +16971,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — lg x. lg x = log₁₀ x."
     },
@@ -16196,6 +16988,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — ln x. ln x = log_e x."
     },
@@ -16212,6 +17005,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — cos α. Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -16228,6 +17022,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — sin α. cos (90° - α) = sin α."
     },
@@ -16244,6 +17039,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — sin α. sin (180° - α) = sin α."
     },
@@ -16260,6 +17056,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -cos α. cos (180° - α) = -cos α."
     },
@@ -16276,6 +17073,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. tg α · ctg α = 1."
     },
@@ -16292,6 +17090,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 0. sin 0° = 0."
     },
@@ -16308,6 +17107,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. cos 0° = 1."
     },
@@ -16324,6 +17124,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1. sin 90° = 1."
     },
@@ -16340,6 +17141,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 0. cos 90° = 0."
     },
@@ -16356,6 +17158,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = (a²√3) / 4. Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -16372,6 +17175,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = (d₁ · d₂) / 2. Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -16388,6 +17192,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = ((a + b) / 2) · h. Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -16404,6 +17209,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = √(p(p - a)(p - b)(p - c)). Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -16420,6 +17226,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — c² = a² + b² - 2ab cos γ. Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -16436,6 +17243,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — a / sin α = b / sin β = c / sin γ = 2R. Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -16452,6 +17260,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — S = p · r. S = p · r."
     },
@@ -16468,6 +17277,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — S = abc / (4R). S = abc / 4R."
     },
@@ -16484,6 +17294,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 5. d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -16500,6 +17311,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — -2. a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -16516,6 +17328,7 @@ const matematika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 24. V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -16532,6 +17345,7 @@ const matematika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 32. V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -16556,6 +17370,7 @@ const matematika = {
           "text": "48"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -16580,6 +17395,7 @@ const matematika = {
           "text": "72"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -16604,6 +17420,7 @@ const matematika = {
           "text": "50"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "250 · 0.20 = 50."
     },
@@ -16628,6 +17445,7 @@ const matematika = {
           "text": "200"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -16652,6 +17470,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -16676,6 +17495,7 @@ const matematika = {
           "text": "5/24"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(21 - 8) / 24 = 13/24."
     },
@@ -16700,6 +17520,7 @@ const matematika = {
           "text": "1/3"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -16724,6 +17545,7 @@ const matematika = {
           "text": "3/2 (1.5)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -16748,6 +17570,7 @@ const matematika = {
           "text": "(a - b)(a + b)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -16772,6 +17595,7 @@ const matematika = {
           "text": "a² + ab + b²"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -16796,6 +17620,7 @@ const matematika = {
           "text": "a³ - 3a²b + 3ab² - b³"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -16820,6 +17645,7 @@ const matematika = {
           "text": "8"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2^(5 + 3 - 6) = 2² = 4."
     },
@@ -16844,6 +17670,7 @@ const matematika = {
           "text": "14"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "12 + 9 - 5 = 16."
     },
@@ -16868,6 +17695,7 @@ const matematika = {
           "text": "6"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -16892,6 +17720,7 @@ const matematika = {
           "text": "-7"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "3x = 21 => x = 7."
     },
@@ -16916,6 +17745,7 @@ const matematika = {
           "text": "-1 va 6"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -16940,6 +17770,7 @@ const matematika = {
           "text": "D = b² - 4ac"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -16964,6 +17795,7 @@ const matematika = {
           "text": "x = 5 va x = 1"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -16988,6 +17820,7 @@ const matematika = {
           "text": "5"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -17012,6 +17845,7 @@ const matematika = {
           "text": "4"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -17036,6 +17870,7 @@ const matematika = {
           "text": "6"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -17060,6 +17895,7 @@ const matematika = {
           "text": "x < -3"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "3x > 9 => x > 3."
     },
@@ -17084,6 +17920,7 @@ const matematika = {
           "text": "36"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -17108,6 +17945,7 @@ const matematika = {
           "text": "155"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -17132,6 +17970,7 @@ const matematika = {
           "text": "27"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -17156,6 +17995,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -17180,6 +18020,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "sin²α + cos²α = 1."
     },
@@ -17204,6 +18045,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "sin 30° = 1/2."
     },
@@ -17228,6 +18070,7 @@ const matematika = {
           "text": "√2/2"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "cos 60° = 1/2."
     },
@@ -17252,6 +18095,7 @@ const matematika = {
           "text": "√3/3"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "tg 45° = 1."
     },
@@ -17276,6 +18120,7 @@ const matematika = {
           "text": "cos²α - sin²α"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "sin 2α = 2 sin α cos α."
     },
@@ -17300,6 +18145,7 @@ const matematika = {
           "text": "1 - sin 2α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "cos 2α = cos²α - sin²α."
     },
@@ -17324,6 +18170,7 @@ const matematika = {
           "text": "3x"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -17348,6 +18195,7 @@ const matematika = {
           "text": "20x³"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -17372,6 +18220,7 @@ const matematika = {
           "text": "cos x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "(sin x)' = cos x."
     },
@@ -17396,6 +18245,7 @@ const matematika = {
           "text": "-sin x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "(cos x)' = -sin x."
     },
@@ -17420,6 +18270,7 @@ const matematika = {
           "text": "2 + C"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -17444,6 +18295,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "[x³]₀² = 2³ - 0³ = 8."
     },
@@ -17468,6 +18320,7 @@ const matematika = {
           "text": "9"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -17492,6 +18345,7 @@ const matematika = {
           "text": "270°"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -17516,6 +18370,7 @@ const matematika = {
           "text": "S = a² / 2"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Kvadrat yuzi: S = a²."
     },
@@ -17540,6 +18395,7 @@ const matematika = {
           "text": "S = 4πR²"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Doira yuzi: S = πR²."
     },
@@ -17564,6 +18420,7 @@ const matematika = {
           "text": "L = πR²"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Aylana uzunligi: L = 2πR."
     },
@@ -17588,6 +18445,7 @@ const matematika = {
           "text": "540°"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -17612,6 +18470,7 @@ const matematika = {
           "text": "V = 3a"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kub hajmi: V = a³."
     },
@@ -17636,6 +18495,7 @@ const matematika = {
           "text": "V = πR²H"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -17660,6 +18520,7 @@ const matematika = {
           "text": "V = 2πRH"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Konus hajmi: V = (1/3)πR²H."
     },
@@ -17684,6 +18545,7 @@ const matematika = {
           "text": "V = (1/3)πR³"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Shar hajmi: V = (4/3)πR³."
     },
@@ -17708,6 +18570,7 @@ const matematika = {
           "text": "S = 4πR²"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sfera sirti: S = 4πR²."
     },
@@ -17732,6 +18595,7 @@ const matematika = {
           "text": "24"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -17756,6 +18620,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "P₄ = 4! = 24."
     },
@@ -17780,6 +18645,7 @@ const matematika = {
           "text": "1/12"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -17804,6 +18670,7 @@ const matematika = {
           "text": "1/4"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "P = 1/2 = 0.5."
     },
@@ -17828,6 +18695,7 @@ const matematika = {
           "text": "5"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "6x = 30 => x = 5."
     },
@@ -17852,6 +18720,7 @@ const matematika = {
           "text": "60"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "120 · (3/4) = 90."
     },
@@ -17876,6 +18745,7 @@ const matematika = {
           "text": "50"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -17900,6 +18770,7 @@ const matematika = {
           "text": "20"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -17924,6 +18795,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "√(4 · 16) = √64 = 8."
     },
@@ -17948,6 +18820,7 @@ const matematika = {
           "text": "(x - 3)(x + 3)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "x² - 3² = (x - 3)(x + 3)."
     },
@@ -17972,6 +18845,7 @@ const matematika = {
           "text": "(x + 3)²"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -17996,6 +18870,7 @@ const matematika = {
           "text": "x + 2"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -18020,6 +18895,7 @@ const matematika = {
           "text": "2√2"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "5√2 - 3√2 = 2√2."
     },
@@ -18044,6 +18920,7 @@ const matematika = {
           "text": "11"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "(√7)² - 2² = 7 - 4 = 3."
     },
@@ -18068,6 +18945,7 @@ const matematika = {
           "text": "-7"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -18092,6 +18970,7 @@ const matematika = {
           "text": "10"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -18116,6 +18995,7 @@ const matematika = {
           "text": "±2"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "2x² = 8 => x² = 4 => x = ±2."
     },
@@ -18140,6 +19020,7 @@ const matematika = {
           "text": "0 va -2"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -18164,6 +19045,7 @@ const matematika = {
           "text": "(6; 0)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -18188,6 +19070,7 @@ const matematika = {
           "text": "-9"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -18212,6 +19095,7 @@ const matematika = {
           "text": "(4; +∞)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -18236,6 +19120,7 @@ const matematika = {
           "text": "-1"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -18260,6 +19145,7 @@ const matematika = {
           "text": "4"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "2 · 2 = 4."
     },
@@ -18284,6 +19170,7 @@ const matematika = {
           "text": "lg x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "lg x = log₁₀ x."
     },
@@ -18308,6 +19195,7 @@ const matematika = {
           "text": "lg x"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "ln x = log_e x."
     },
@@ -18332,6 +19220,7 @@ const matematika = {
           "text": "-cos α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -18356,6 +19245,7 @@ const matematika = {
           "text": "cos α"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "cos (90° - α) = sin α."
     },
@@ -18380,6 +19270,7 @@ const matematika = {
           "text": "-sin α"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "sin (180° - α) = sin α."
     },
@@ -18404,6 +19295,7 @@ const matematika = {
           "text": "-cos α"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "cos (180° - α) = -cos α."
     },
@@ -18428,6 +19320,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "tg α · ctg α = 1."
     },
@@ -18452,6 +19345,7 @@ const matematika = {
           "text": "mavjud emas"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin 0° = 0."
     },
@@ -18476,6 +19370,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "cos 0° = 1."
     },
@@ -18500,6 +19395,7 @@ const matematika = {
           "text": "-1"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "sin 90° = 1."
     },
@@ -18524,6 +19420,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "cos 90° = 0."
     },
@@ -18548,6 +19445,7 @@ const matematika = {
           "text": "S = a²√3"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -18572,6 +19470,7 @@ const matematika = {
           "text": "S = d₁ · d₂"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -18596,6 +19495,7 @@ const matematika = {
           "text": "S = (a + b) · h"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -18620,6 +19520,7 @@ const matematika = {
           "text": "S = p · r"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -18644,6 +19545,7 @@ const matematika = {
           "text": "c² = a² + b² - 2ab cos γ"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -18668,6 +19570,7 @@ const matematika = {
           "text": "a · sin α = b · sin β"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -18692,6 +19595,7 @@ const matematika = {
           "text": "S = 2pr"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "S = p · r."
     },
@@ -18716,6 +19620,7 @@ const matematika = {
           "text": "S = abR / 4c"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "S = abc / 4R."
     },
@@ -18740,6 +19645,7 @@ const matematika = {
           "text": "5"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "d = √((4 - 1)² + (7 - 3)²) = √(3² + 4²) = 5."
     },
@@ -18764,6 +19670,7 @@ const matematika = {
           "text": "22"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "a · b = 2·5 + (-3)·4 = 10 - 12 = -2."
     },
@@ -18788,6 +19695,7 @@ const matematika = {
           "text": "20"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "V = a · b · c = 2 · 3 · 4 = 24."
     },
@@ -18812,6 +19720,7 @@ const matematika = {
           "text": "96"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "V = (1/3) · S_asos · h = (1/3) · 16 · 6 = 32."
     },
@@ -18836,6 +19745,7 @@ const matematika = {
           "text": "48"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "48 = 2⁴ · 3, 72 = 2³ · 3². EKUB(48, 72) = 2³ · 3 = 24."
     },
@@ -18860,6 +19770,7 @@ const matematika = {
           "text": "72"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "12 = 2² · 3, 18 = 2 · 3². EKUK(12, 18) = 2² · 3² = 36."
     },
@@ -18884,6 +19795,7 @@ const matematika = {
           "text": "75"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "250 · 0.20 = 50."
     },
@@ -18908,6 +19820,7 @@ const matematika = {
           "text": "320"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "x · 0.40 = 80 => x = 80 / 0.4 = 200."
     },
@@ -18932,6 +19845,7 @@ const matematika = {
           "text": "5/9"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Umumiy maxraj 20: (15 + 8) / 20 = 23/20 = 1.15."
     },
@@ -18956,6 +19870,7 @@ const matematika = {
           "text": "6/5"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "(21 - 8) / 24 = 13/24."
     },
@@ -18980,6 +19895,7 @@ const matematika = {
           "text": "2/5"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(2 · 9) / (3 · 10) = 18/30 = 3/5."
     },
@@ -19004,6 +19920,7 @@ const matematika = {
           "text": "3/2 (1.5)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(4/5) · (15/8) = 60/40 = 3/2 = 1.5."
     },
@@ -19028,6 +19945,7 @@ const matematika = {
           "text": "a² - 2ab + b²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kvadratlar ayirmasi formulasi: a² - b² = (a - b)(a + b)."
     },
@@ -19052,6 +19970,7 @@ const matematika = {
           "text": "a² + ab + b²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yig'indining kvadrati: a² + 2ab + b²."
     },
@@ -19076,6 +19995,7 @@ const matematika = {
           "text": "a³ - 3ab + b³"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ayirmaning kubi: a³ - 3a²b + 3ab² - b³."
     },
@@ -19100,6 +20020,7 @@ const matematika = {
           "text": "2"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "2^(5 + 3 - 6) = 2² = 4."
     },
@@ -19124,6 +20045,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "12 + 9 - 5 = 16."
     },
@@ -19148,6 +20070,7 @@ const matematika = {
           "text": "4"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "6³ = 216 bo'lgani sababli ³√216 = 6."
     },
@@ -19172,6 +20095,7 @@ const matematika = {
           "text": "5"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "3x = 21 => x = 7."
     },
@@ -19196,6 +20120,7 @@ const matematika = {
           "text": "-2 va -3"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = 5, x₁ · x₂ = 6 => 2 va 3."
     },
@@ -19220,6 +20145,7 @@ const matematika = {
           "text": "D = b² + 4ac"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kvadrat tenglama diskriminanti: D = b² - 4ac."
     },
@@ -19244,6 +20170,7 @@ const matematika = {
           "text": "x = 1 va x = -5"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "2x - 4 = 6 => x = 5; 2x - 4 = -6 => x = -1."
     },
@@ -19268,6 +20195,7 @@ const matematika = {
           "text": "3"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "81 = 3⁴ => x + 1 = 4 => x = 3."
     },
@@ -19292,6 +20220,7 @@ const matematika = {
           "text": "16"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2⁵ = 32 bo'lgani uchun log₂32 = 5."
     },
@@ -19316,6 +20245,7 @@ const matematika = {
           "text": "7"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "log₃81 = 4, log₅125 = 3 => 4 + 3 = 7."
     },
@@ -19340,6 +20270,7 @@ const matematika = {
           "text": "x < 3"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "3x > 9 => x > 3."
     },
@@ -19364,6 +20295,7 @@ const matematika = {
           "text": "36"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "a_n = a₁ + (n - 1)d => a₁₀ = 3 + 9 · 4 = 39."
     },
@@ -19388,6 +20320,7 @@ const matematika = {
           "text": "160"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "S₁₀ = ((2a₁ + 9d)/2) · 10 = ((4 + 27)/2) · 10 = 31 · 5 = 155."
     },
@@ -19412,6 +20345,7 @@ const matematika = {
           "text": "27"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "b₄ = b₁ · q³ = 2 · 27 = 54."
     },
@@ -19436,6 +20370,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "S = b₁ / (1 - q) = 6 / (1 - 0.5) = 12."
     },
@@ -19460,6 +20395,7 @@ const matematika = {
           "text": "tg²α"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin²α + cos²α = 1."
     },
@@ -19484,6 +20420,7 @@ const matematika = {
           "text": "1/2 (0.5)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "sin 30° = 1/2."
     },
@@ -19508,6 +20445,7 @@ const matematika = {
           "text": "√2/2"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "cos 60° = 1/2."
     },
@@ -19532,6 +20470,7 @@ const matematika = {
           "text": "0"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "tg 45° = 1."
     },
@@ -19556,6 +20495,7 @@ const matematika = {
           "text": "2 sin α cos α"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "sin 2α = 2 sin α cos α."
     },
@@ -19580,6 +20520,7 @@ const matematika = {
           "text": "1 - sin 2α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "cos 2α = cos²α - sin²α."
     },
@@ -19604,6 +20545,7 @@ const matematika = {
           "text": "x⁴ / 4"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(x^n)' = n · x^(n-1) => (x³)' = 3x²."
     },
@@ -19628,6 +20570,7 @@ const matematika = {
           "text": "5x³ - 2"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(5x⁴)' - (2x)' + 7' = 20x³ - 2."
     },
@@ -19652,6 +20595,7 @@ const matematika = {
           "text": "-sin x"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "(sin x)' = cos x."
     },
@@ -19676,6 +20620,7 @@ const matematika = {
           "text": "sin x"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "(cos x)' = -sin x."
     },
@@ -19700,6 +20645,7 @@ const matematika = {
           "text": "x² + C"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "∫ 2x dx = 2 · (x²/2) + C = x² + C."
     },
@@ -19724,6 +20670,7 @@ const matematika = {
           "text": "8"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "[x³]₀² = 2³ - 0³ = 8."
     },
@@ -19748,6 +20695,7 @@ const matematika = {
           "text": "14"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Pifagor teoremasi: c = √(6² + 8²) = √(36 + 64) = √100 = 10."
     },
@@ -19772,6 +20720,7 @@ const matematika = {
           "text": "90°"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Har qanday uchburchakning ichki burchaklari yig'indisi 180°."
     },
@@ -19796,6 +20745,7 @@ const matematika = {
           "text": "S = a²"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Kvadrat yuzi: S = a²."
     },
@@ -19820,6 +20770,7 @@ const matematika = {
           "text": "S = 2πR"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Doira yuzi: S = πR²."
     },
@@ -19844,6 +20795,7 @@ const matematika = {
           "text": "L = 2πR"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Aylana uzunligi: L = 2πR."
     },
@@ -19868,6 +20820,7 @@ const matematika = {
           "text": "180°"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "To'rtburchak ichki burchaklari yig'indisi: (4 - 2) · 180° = 360°."
     },
@@ -19892,6 +20845,7 @@ const matematika = {
           "text": "V = 6a²"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kub hajmi: V = a³."
     },
@@ -19916,6 +20870,7 @@ const matematika = {
           "text": "V = πR²H"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Silindr hajmi asos yuzi bilan balandlik ko'paytmasiga teng: V = πR²H."
     },
@@ -19940,6 +20895,7 @@ const matematika = {
           "text": "V = (1/3)πR²H"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Konus hajmi: V = (1/3)πR²H."
     },
@@ -19964,6 +20920,7 @@ const matematika = {
           "text": "V = πR³"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shar hajmi: V = (4/3)πR³."
     },
@@ -19988,6 +20945,7 @@ const matematika = {
           "text": "S = πR²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sfera sirti: S = 4πR²."
     },
@@ -20012,6 +20970,7 @@ const matematika = {
           "text": "60"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "5! = 1 · 2 · 3 · 4 · 5 = 120."
     },
@@ -20036,6 +20995,7 @@ const matematika = {
           "text": "48"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "P₄ = 4! = 24."
     },
@@ -20060,6 +21020,7 @@ const matematika = {
           "text": "1/3"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jami 6 ta teng ehtimolli holatdan qulay holat bitta: P = 1/6."
     },
@@ -20084,6 +21045,7 @@ const matematika = {
           "text": "1/4"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "P = 1/2 = 0.5."
     },
@@ -20108,6 +21070,7 @@ const matematika = {
           "text": "6"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "6x = 30 => x = 5."
     },
@@ -20132,6 +21095,7 @@ const matematika = {
           "text": "90"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "120 · (3/4) = 90."
     },
@@ -20156,6 +21120,7 @@ const matematika = {
           "text": "90"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "x · (2/3) = 40 => x = 40 · 3 / 2 = 60."
     },
@@ -20180,6 +21145,7 @@ const matematika = {
           "text": "19"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(14 + 18 + 28) / 3 = 60 / 3 = 20."
     },
@@ -20204,6 +21170,7 @@ const matematika = {
           "text": "12"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "√(4 · 16) = √64 = 8."
     },
@@ -20228,6 +21195,7 @@ const matematika = {
           "text": "(x - 3)²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "x² - 3² = (x - 3)(x + 3)."
     },
@@ -20252,6 +21220,7 @@ const matematika = {
           "text": "(x - 3)²"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "x² + 2·3·x + 3² = (x + 3)²."
     },
@@ -20276,6 +21245,7 @@ const matematika = {
           "text": "2"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "(x - 2)(x + 2) / (x - 2) = x + 2 (x ≠ 2)."
     },
@@ -20300,6 +21270,7 @@ const matematika = {
           "text": "4√2"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "5√2 - 3√2 = 2√2."
     },
@@ -20324,6 +21295,7 @@ const matematika = {
           "text": "3"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "(√7)² - 2² = 7 - 4 = 3."
     },
@@ -20348,6 +21320,7 @@ const matematika = {
           "text": "-12"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ + x₂ = -(-7) = 7."
     },
@@ -20372,6 +21345,7 @@ const matematika = {
           "text": "-3"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Viyet teoremasiga ko'ra: x₁ · x₂ = -10."
     },
@@ -20396,6 +21370,7 @@ const matematika = {
           "text": "±4"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "2x² = 8 => x² = 4 => x = ±2."
     },
@@ -20420,6 +21395,7 @@ const matematika = {
           "text": "0 va -2"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "3x(x - 2) = 0 => x = 0 yoki x = 2."
     },
@@ -20444,6 +21420,7 @@ const matematika = {
           "text": "(0; 6)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "x = 0 bo'lganda y = 6 bo'ladi."
     },
@@ -20468,6 +21445,7 @@ const matematika = {
           "text": "3"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "y = 0 => 3x - 9 = 0 => x = 3."
     },
@@ -20492,6 +21470,7 @@ const matematika = {
           "text": "[4; +∞)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ildiz osti noldan katta yoki teng: x - 4 ≥ 0 => x ≥ 4."
     },
@@ -20516,6 +21495,7 @@ const matematika = {
           "text": "2"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "log₅25 = 2, log₂8 = 3 => 2 - 3 = -1."
     },
@@ -20540,6 +21520,7 @@ const matematika = {
           "text": "4"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "2 · 2 = 4."
     },
@@ -20564,6 +21545,7 @@ const matematika = {
           "text": "ld x"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "lg x = log₁₀ x."
     },
@@ -20588,6 +21570,7 @@ const matematika = {
           "text": "ln x"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "ln x = log_e x."
     },
@@ -20612,6 +21595,7 @@ const matematika = {
           "text": "-sin α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Keltirish formulasi: sin (90° - α) = cos α."
     },
@@ -20636,6 +21620,7 @@ const matematika = {
           "text": "sin α"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "cos (90° - α) = sin α."
     },
@@ -20660,6 +21645,7 @@ const matematika = {
           "text": "cos α"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "sin (180° - α) = sin α."
     },
@@ -20684,6 +21670,7 @@ const matematika = {
           "text": "-sin α"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "cos (180° - α) = -cos α."
     },
@@ -20708,6 +21695,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "tg α · ctg α = 1."
     },
@@ -20732,6 +21720,7 @@ const matematika = {
           "text": "-1"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "sin 0° = 0."
     },
@@ -20756,6 +21745,7 @@ const matematika = {
           "text": "1/2"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "cos 0° = 1."
     },
@@ -20780,6 +21770,7 @@ const matematika = {
           "text": "1"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "sin 90° = 1."
     },
@@ -20804,6 +21795,7 @@ const matematika = {
           "text": "0"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "cos 90° = 0."
     },
@@ -20828,6 +21820,7 @@ const matematika = {
           "text": "S = (a²√3) / 4"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Teng tomonli uchburchak yuzi: S = (a²√3) / 4."
     },
@@ -20852,6 +21845,7 @@ const matematika = {
           "text": "S = d₁² + d₂²"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Romb yuzi diagonallar ko'paytmasining yarmiga teng."
     },
@@ -20876,6 +21870,7 @@ const matematika = {
           "text": "S = (a · b) / 2 · h"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Trapetsiya yuzi o'rta chiziq bilan balandlik ko'paytmasiga teng."
     },
@@ -20900,6 +21895,7 @@ const matematika = {
           "text": "S = p(p - a)(p - b)(p - c)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Geron formulasi uchta tomon berilganda yuzni hisoblash formulasidir."
     },
@@ -20924,6 +21920,7 @@ const matematika = {
           "text": "c² = a² + b² - 2ab cos γ"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kosinuslar teoremasi ixtiyoriy uchburchak uchun o'rinli."
     },
@@ -20948,6 +21945,7 @@ const matematika = {
           "text": "a / sin α = R"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tomonning qarshisidagi burchak sinusiga nisbati tashqi chizilgan aylana diametriga teng."
     },
@@ -20972,6 +21970,7 @@ const matematika = {
           "text": "S = 2pr"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "S = p · r."
     },
@@ -20996,6 +21995,7 @@ const matematika = {
           "text": "S = abc / (4R)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "S = abc / 4R."
     }

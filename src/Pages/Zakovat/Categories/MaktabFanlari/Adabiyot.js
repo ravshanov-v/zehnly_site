@@ -28,6 +28,7 @@ const adabiyotData = {
           "text": "Ko'kaldosh"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Alpomishning yoshlikdagi ismi Hakimbek."
     },
@@ -52,6 +53,7 @@ const adabiyotData = {
           "text": "Jaloyir urug'i"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "16 urug' Qo'ng'irot eli."
     },
@@ -76,6 +78,7 @@ const adabiyotData = {
           "text": "Toshkent hokimi bilan urushib qolib"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Zakot to'lashni o'ziga nomus bilib ko'chadi."
     },
@@ -100,6 +103,7 @@ const adabiyotData = {
           "text": "Ko'kaldosh"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qorajon Alpomish bilan do'st tutinadi."
     },
@@ -124,6 +128,7 @@ const adabiyotData = {
           "text": "Ming chaqirimdan poyga qilib ot chopish"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Poyga, yoy tortish, tanga ilish, kurash."
     },
@@ -148,6 +153,7 @@ const adabiyotData = {
           "text": "Qultoy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qultoy - sadoqatli yilqichi."
     },
@@ -172,6 +178,7 @@ const adabiyotData = {
           "text": "G'irot xoni"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hilol podsho xiyonatda gumon qilib Ravshanbek ko'zini o'ydiradi."
     },
@@ -196,6 +203,7 @@ const adabiyotData = {
           "text": "G'irot"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Go'ro'g'lining mashhur oti G'irot."
     },
@@ -220,6 +228,7 @@ const adabiyotData = {
           "text": "Rayhon arab"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shirvon xoni Orazgaldining qizi Zulxumor."
     },
@@ -244,6 +253,7 @@ const adabiyotData = {
           "text": "Chambil"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Zangar yurti malikasi Xolbeka."
     },
@@ -268,6 +278,7 @@ const adabiyotData = {
           "text": "Ravshan va Avaz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gurkiboy va Mohiboy."
     },
@@ -292,6 +303,7 @@ const adabiyotData = {
           "text": "Doro I"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kir II bosqinchi bo'lib kelganda mahv etiladi."
     },
@@ -316,6 +328,7 @@ const adabiyotData = {
           "text": "Iskandar Zulqarnaynni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shiroq Doro I qo'shinini dashtga aldab boshlaydi."
     },
@@ -340,6 +353,7 @@ const adabiyotData = {
           "text": "To'nyuquq bitigi, muallifi Bilga xoqon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bitiktosh muallifi Yo'llug' tegin."
     },
@@ -364,6 +378,7 @@ const adabiyotData = {
           "text": "Qoraxoniylar davlati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ikkinchi Turk xoqonligi bosh vaziri To'nyuquq."
     },
@@ -388,6 +403,7 @@ const adabiyotData = {
           "text": "Diniy duolar to'plami"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qadimgi turkiy fol kitobi."
     },
@@ -412,6 +428,7 @@ const adabiyotData = {
           "text": "Arslonxon"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qashqarda Tavg'ach Bug'roxonga tortiq etilgan."
     },
@@ -436,6 +453,7 @@ const adabiyotData = {
           "text": "1100-yilda Buxoroda"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bolasog'unda boshlanib, Qashqarda tugatilgan."
     },
@@ -460,6 +478,7 @@ const adabiyotData = {
           "text": "Adolat"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Oytoldi - davlat va baxt timsoli."
     },
@@ -484,6 +503,7 @@ const adabiyotData = {
           "text": "Adolat"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zg'urmish - qanoat timsoli."
     },
@@ -508,6 +528,7 @@ const adabiyotData = {
           "text": "1069-yilda Tavg'ach xonga"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Abbosiy xalifa Al-Muqtadiy biamrillohga atalgan."
     },
@@ -532,6 +553,7 @@ const adabiyotData = {
           "text": "Qashqar"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Bolasog'un markaz deb olingan."
     },
@@ -556,6 +578,7 @@ const adabiyotData = {
           "text": "'Tarixi Tabariy'da"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qoshg'ariy devonida parchalari keltirilgan."
     },
@@ -580,6 +603,7 @@ const adabiyotData = {
           "text": "Rajaz bahrida"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mutaqoribi musammani mahzuf vaznida."
     },
@@ -604,6 +628,7 @@ const adabiyotData = {
           "text": "Kubroviylik"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Turkiy tasavvuf asoschisi Yassaviy."
     },
@@ -628,6 +653,7 @@ const adabiyotData = {
           "text": "Najmiddin Kubroning"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yassaviyning shogirdi Hakim ota."
     },
@@ -652,6 +678,7 @@ const adabiyotData = {
           "text": "1180-yilda"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Nosiriddin To'qbug'a iltimosiga ko'ra yozilgan."
     },
@@ -676,6 +703,7 @@ const adabiyotData = {
           "text": "Xusrav va Shirin"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "'Suhayl va Guldursun' dostoni muallifi."
     },
@@ -700,6 +728,7 @@ const adabiyotData = {
           "text": "Durbek"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Qutb Tinibekxonga atab tarjima qilgan."
     },
@@ -724,6 +753,7 @@ const adabiyotData = {
           "text": "Tazkira"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Jonibekxon saroyida yozilgan 10 ta noma."
     },
@@ -748,6 +778,7 @@ const adabiyotData = {
           "text": "Maxzan ul-asror (Sirlar xazinasi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Haydar Xorazmiy Nizomiyga ergashgan."
     },
@@ -772,6 +803,7 @@ const adabiyotData = {
           "text": "Sayfi Saroyi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mavlono Sakkokiy."
     },
@@ -796,6 +828,7 @@ const adabiyotData = {
           "text": "Atoiy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Mavlono Atoiy g'azali."
     },
@@ -820,6 +853,7 @@ const adabiyotData = {
           "text": "Durbek"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Lutfiy Navoiy tomonidan yuksak baholangan."
     },
@@ -844,6 +878,7 @@ const adabiyotData = {
           "text": "Bahrom va Dilorom"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lutfiyning 'Gul va Navro'z' masnaviysi."
     },
@@ -868,6 +903,7 @@ const adabiyotData = {
           "text": "Farhod va Shirin"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Durbek 'Yusuf va Zulayho'ni yozgan."
     },
@@ -892,6 +928,7 @@ const adabiyotData = {
           "text": "1441-yil 9-fevralda Hirot shahrida"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Hirotda G'iyosiddin Kichkina xonadonida."
     },
@@ -916,6 +953,7 @@ const adabiyotData = {
           "text": "Devonbegi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Temuriylar saroyidagi e'tiborli amaldor."
     },
@@ -940,6 +978,7 @@ const adabiyotData = {
           "text": "Nishopurda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Samarqand madrasalarida huquq va adabiyot."
     },
@@ -964,6 +1003,7 @@ const adabiyotData = {
           "text": "Muhrdorlik lavozimini"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "1469-yilda muhrdor etib tayinlangan."
     },
@@ -988,6 +1028,7 @@ const adabiyotData = {
           "text": "Marvga"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Husayn Boyqaro uni Astrobodga yuboradi."
     },
@@ -1012,6 +1053,7 @@ const adabiyotData = {
           "text": "3 ta devonni"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Chor devon: G'aroyib us-sig'ar, Navodir ush-shabob, Badoyi ul-vasat, Favoyid ul-kibor."
     },
@@ -1036,6 +1078,7 @@ const adabiyotData = {
           "text": "Badoyi ul-vasat"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "G'aroyib us-sig'ar - bolalik g'aroyibotlari."
     },
@@ -1060,6 +1103,7 @@ const adabiyotData = {
           "text": "Badoyi ul-vasat"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Navodir ush-shabob - yigitlik nodirliklari."
     },
@@ -1084,6 +1128,7 @@ const adabiyotData = {
           "text": "Navodir ush-shabob"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Badoyi ul-vasat - o'rta yosh go'zalliklari."
     },
@@ -1108,6 +1153,7 @@ const adabiyotData = {
           "text": "G'aroyib us-sig'ar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Favoyid ul-kibor - keksalik foydalari."
     },
@@ -1132,6 +1178,7 @@ const adabiyotData = {
           "text": "Navoiy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Forsiy she'rlarida Foniy taxallusi."
     },
@@ -1156,6 +1203,7 @@ const adabiyotData = {
           "text": "1490-1495-yillarda"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qisqa muddatda birinchi turkiy Xamsa yaratildi."
     },
@@ -1180,6 +1228,7 @@ const adabiyotData = {
           "text": "Maxzan ul-asror"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Nizomiy 'Maxzan ul-asror'iga javob."
     },
@@ -1204,6 +1253,7 @@ const adabiyotData = {
           "text": "Xusrav Parviz"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Xitoy xoqonining yolg'iz valiahdi."
     },
@@ -1228,6 +1278,7 @@ const adabiyotData = {
           "text": "Buqrot"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yunon hakimi Suqrot sirlarni ochadi."
     },
@@ -1252,6 +1303,7 @@ const adabiyotData = {
           "text": "Himoloy"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bisotun qoyasini po'lat cho'kich bilan teshib o'tadi."
     },
@@ -1276,6 +1328,7 @@ const adabiyotData = {
           "text": "Shopur"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shopur Farhodning eng yaqin yo'ldoshi."
     },
@@ -1300,6 +1353,7 @@ const adabiyotData = {
           "text": "Salomon"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Bani Omir qabilasidan Qays."
     },
@@ -1324,6 +1378,7 @@ const adabiyotData = {
           "text": "Zayd"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Badavlat Ibn Salomga majburlab uzatiladi."
     },
@@ -1348,6 +1403,7 @@ const adabiyotData = {
           "text": "Xusrav"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Bahrom va uning sevgilisi Dilorom."
     },
@@ -1372,6 +1428,7 @@ const adabiyotData = {
           "text": "G'ijjak"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Dilorom mohir sozanda va barbatnavoz."
     },
@@ -1396,6 +1453,7 @@ const adabiyotData = {
           "text": "Forslar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yajuj va Majuj balosidan dunyoni asrash."
     },
@@ -1420,6 +1478,7 @@ const adabiyotData = {
           "text": "Mahbub ul-qulub"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Simurg'ni qidirgan qushlar timsolida tasavvufiy sayr."
     },
@@ -1444,6 +1503,7 @@ const adabiyotData = {
           "text": "Mezon ul-avzon"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "3 qismdan iborat umr yakuni asari."
     },
@@ -1468,6 +1528,7 @@ const adabiyotData = {
           "text": "Mezon ul-avzon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1499-yilda yozilgan nodir lingvistik asar."
     },
@@ -1492,6 +1553,7 @@ const adabiyotData = {
           "text": "Muhokamat ul-lug'atayn"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Turkiy bahrlar va tuyuqlar bayoni."
     },
@@ -1516,6 +1578,7 @@ const adabiyotData = {
           "text": "Majolis un-nafois"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "8 majlisdan iborat shoirlar tazkirasi."
     },
@@ -1540,6 +1603,7 @@ const adabiyotData = {
           "text": "Holoti Pahlavon Muhammad"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Hayratlanarli beshlik - Jomiy xotirasiga."
     },
@@ -1564,6 +1628,7 @@ const adabiyotData = {
           "text": "Xamsat ul-mutahayyirin"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ustozga cheksiz ehtirom namunasi."
     },
@@ -1588,6 +1653,7 @@ const adabiyotData = {
           "text": "Xamsat ul-mutahayyirin"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Falsafa, tabobat va kurash ustasi Pahlavon Muhammad haqida."
     },
@@ -1612,6 +1678,7 @@ const adabiyotData = {
           "text": "1483-yil 14-fevralda Andijonda"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Andijonda Umarshayx Mirzo oilasida."
     },
@@ -1636,6 +1703,7 @@ const adabiyotData = {
           "text": "12 yoshida"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "1494-yilda otasi vafot etgach."
     },
@@ -1660,6 +1728,7 @@ const adabiyotData = {
           "text": "Panipat jangida"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Panipat jangi tarixiy burilish bo'ldi."
     },
@@ -1684,6 +1753,7 @@ const adabiyotData = {
           "text": "Agra shahrida"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Vasiyatiga ko'ra Kobulda dafn etilgan."
     },
@@ -1708,6 +1778,7 @@ const adabiyotData = {
           "text": "Nastaliq"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Xatti Boburiyda Qur'on ko'chirilgan."
     },
@@ -1732,6 +1803,7 @@ const adabiyotData = {
           "text": "Harb ishi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mubayyin - fiqh masalalarining nazmiy bayoni."
     },
@@ -1756,6 +1828,7 @@ const adabiyotData = {
           "text": "Mubayyin"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Turkiy aruzning ikkinchi yirik nazariy manbasi."
     },
@@ -1780,6 +1853,7 @@ const adabiyotData = {
           "text": "Tarixi Rashidiy"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Humoyunnoma - ayol kishi yozgan nodir tarixiy asar."
     },
@@ -1804,6 +1878,7 @@ const adabiyotData = {
           "text": "Subhonqulixon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Balx hokimi Mahmud Qatag'on tomonidan."
     },
@@ -1828,6 +1903,7 @@ const adabiyotData = {
           "text": "'Bormasmiz'"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Urug'lararo birdamlikka chaqirgan."
     },
@@ -1852,6 +1928,7 @@ const adabiyotData = {
           "text": "Sabot ul-ojizin"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sabot ul-ojizin turkiy tilda yozilgan."
     },
@@ -1876,6 +1953,7 @@ const adabiyotData = {
           "text": "Xudoyorxon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Umarxon shoirlarga homiylik qilgan."
     },
@@ -1900,6 +1978,7 @@ const adabiyotData = {
           "text": "Anbar va Muxtor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Turkiyda Nodira va Komila, forsiyda Maknuna."
     },
@@ -1924,6 +2003,7 @@ const adabiyotData = {
           "text": "Chiston (topishmoq)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Anor va tabiat mavzusidagi chistonlar."
     },
@@ -1948,6 +2028,7 @@ const adabiyotData = {
           "text": "Zubdat ut-tavorix"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Xiva xonlari yilnomasi."
     },
@@ -1972,6 +2053,7 @@ const adabiyotData = {
           "text": "Badiiy tarjima (20 ga yaqin yirik asarni forsiydan o'zbekchaga)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Nizomiy, Sa'diy, Jomiy asarlarini o'zbek tiliga tarjima qilgan."
     },
@@ -1996,6 +2078,7 @@ const adabiyotData = {
           "text": "Kino yaratildi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Toshbosmada devonlar chop etilgan."
     },
@@ -2020,6 +2103,7 @@ const adabiyotData = {
           "text": "'O'zbegim'"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Millat tilini va maktabni ardoqlash."
     },
@@ -2044,6 +2128,7 @@ const adabiyotData = {
           "text": "Manoqib"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ahmad Kalla nomi bilan mashhur mutafakkir."
     },
@@ -2068,6 +2153,7 @@ const adabiyotData = {
           "text": "Sayohatnoma"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Hakimjon va Sulton Ali pachoq kirdikorlari."
     },
@@ -2092,6 +2178,7 @@ const adabiyotData = {
           "text": "Yorqandda (Sharqiy Turkiston)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Vatandan quvg'inda Yorqandda vafot etdi."
     },
@@ -2116,6 +2203,7 @@ const adabiyotData = {
           "text": "Otangdan aylanay"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Zamon qiyinchiliklari va poraxo'rlik tanqidi."
     },
@@ -2140,6 +2228,7 @@ const adabiyotData = {
           "text": "'Taraqqiy' va 'Xurshid'"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Behbudiy 'Oyna' orqali millatni uyg'otdi."
     },
@@ -2164,6 +2253,7 @@ const adabiyotData = {
           "text": "Baxtsiz kuyov"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Toshmurod va boyning nodonlik fojiasi."
     },
@@ -2188,6 +2278,7 @@ const adabiyotData = {
           "text": "Gimnaziya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yangi usulda qisqa muddatda savod chiqarish."
     },
@@ -2212,6 +2303,7 @@ const adabiyotData = {
           "text": "Turkiy Guliston yoxud axloq"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Axloq va tarbiya kitobida."
     },
@@ -2236,6 +2328,7 @@ const adabiyotData = {
           "text": "Munozara"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Hindistonlik farangi va Buxorolik mudarris munozarasi."
     },
@@ -2260,6 +2353,7 @@ const adabiyotData = {
           "text": "Chin sevish"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Abulfayzxon va Nodirshoh to'qnashuvi."
     },
@@ -2284,6 +2378,7 @@ const adabiyotData = {
           "text": "Uyg'onish"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1922-yil Uyg'onish to'plami."
     },
@@ -2308,6 +2403,7 @@ const adabiyotData = {
           "text": "Razzoq so'fi"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Qattiqqo'l va mutaassib Razzoq so'fi."
     },
@@ -2332,6 +2428,7 @@ const adabiyotData = {
           "text": "1930-yilda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Dastlab 1922-yildan jurnallarda e'lon qilingan."
     },
@@ -2356,6 +2453,7 @@ const adabiyotData = {
           "text": "Zaynab"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Solih maxdumning qizi Ra'no."
     },
@@ -2380,6 +2478,7 @@ const adabiyotData = {
           "text": "Dilbar - davr qizi (1934)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Manzum roman janrida yozilgan."
     },
@@ -2404,6 +2503,7 @@ const adabiyotData = {
           "text": "1950-yilda"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Urush yillarida yozilgan shoh asar."
     },
@@ -2428,6 +2528,7 @@ const adabiyotData = {
           "text": "Kuzatish"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Front orti bolalariga atalgan."
     },
@@ -2452,6 +2553,7 @@ const adabiyotData = {
           "text": "Tirilgan murda"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Qoravoyning qiziqarli sarguzashtlari."
     },
@@ -2476,6 +2578,7 @@ const adabiyotData = {
           "text": "Zaynab va Omon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Muqannaning erk uchun mardona kurashi."
     },
@@ -2500,6 +2603,7 @@ const adabiyotData = {
           "text": "1970-yilda"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tarixiy fojia dramasi."
     },
@@ -2524,6 +2628,7 @@ const adabiyotData = {
           "text": "'Sarob', 'Qutlug' qon', 'Navoiy'"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ufq trilogiyasi qismlari."
     },
@@ -2548,6 +2653,7 @@ const adabiyotData = {
           "text": "Tobutdan tovush"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Farmonbibi xonadoni hayoti."
     },
@@ -2572,6 +2678,7 @@ const adabiyotData = {
           "text": "Uch ildiz"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Bobur Mirzoning butun umr yo'li."
     },
@@ -2596,6 +2703,7 @@ const adabiyotData = {
           "text": "Ko'hna dunyo"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ali Qushchi va Ulug'bek munosabatlari."
     },
@@ -2620,6 +2728,7 @@ const adabiyotData = {
           "text": "Oybekka"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Lirik xotiralar qissasi."
     },
@@ -2644,6 +2753,7 @@ const adabiyotData = {
           "text": "Nur borki, soya bor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kimsan va Robiya fojiasi."
     },
@@ -2668,6 +2778,7 @@ const adabiyotData = {
           "text": "Otamdan qolgan dalalar"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dehqonqul timsolida millat fojiasi."
     },
@@ -2692,6 +2803,7 @@ const adabiyotData = {
           "text": "Inson qasidasi"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Erkin Vohidovning mashhur qasidasi."
     },
@@ -2716,6 +2828,7 @@ const adabiyotData = {
           "text": "O'zbegim"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Falsafiy ruhdagi asar."
     },
@@ -2740,6 +2853,7 @@ const adabiyotData = {
           "text": "Bokkachcho"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Jannat va do'zax falsafasi."
     },
@@ -2764,6 +2878,7 @@ const adabiyotData = {
           "text": "1992-yil 8-dekabrda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1992-yil 10-dekabrda qonun bilan tasdiqlangan."
     },
@@ -2788,6 +2903,7 @@ const adabiyotData = {
           "text": "Mahmud Qoshg'ariy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Alpomish' muallifi O'zbek xalq eposi."
     },
@@ -2812,6 +2928,7 @@ const adabiyotData = {
           "text": "ishqiy doston"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Alpomish' - qahramonlik dostoni janridagi asar."
     },
@@ -2836,6 +2953,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Hakimbek (Alpomish) va Barchinoy."
     },
@@ -2860,6 +2978,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish."
     },
@@ -2884,6 +3003,7 @@ const adabiyotData = {
           "text": "Qutadg'u bilig"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "O'zbek xalq eposi 'Alpomish' asarini yaratgan."
     },
@@ -2908,6 +3028,7 @@ const adabiyotData = {
           "text": "O'zbek xalq eposi"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Go'ro'g'li' muallifi O'zbek xalq eposi."
     },
@@ -2932,6 +3053,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Go'ro'g'li' - qahramonlik turkumi janridagi asar."
     },
@@ -2956,6 +3078,7 @@ const adabiyotData = {
           "text": "Kuntug'mish va Xolbeka"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Go'ro'g'li va Avazxon."
     },
@@ -2980,6 +3103,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Chambil yurtini dushmanlardan himoya qilish."
     },
@@ -3004,6 +3128,7 @@ const adabiyotData = {
           "text": "Ahmad Yugnakiy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Ravshan' muallifi O'zbek xalq eposi."
     },
@@ -3028,6 +3153,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Ravshan' - ishqiy-qahramonlik dostoni janridagi asar."
     },
@@ -3052,6 +3178,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ravshanxon va Zulxumor."
     },
@@ -3076,6 +3203,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Shirvon xoni zulmiga qarshi sevgi kurashi."
     },
@@ -3100,6 +3228,7 @@ const adabiyotData = {
           "text": "Mahmud Qoshg'ariy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Kuntug'mish' muallifi O'zbek xalq eposi."
     },
@@ -3124,6 +3253,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Kuntug'mish' - ishqiy doston janridagi asar."
     },
@@ -3148,6 +3278,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Kuntug'mish va Xolbeka."
     },
@@ -3172,6 +3303,7 @@ const adabiyotData = {
           "text": "Zangar yurti malikasiga oshiq bo'lib qora dashtlarda chekkan zahmatlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Zangar yurti malikasiga oshiq bo'lib qora dashtlarda chekkan zahmatlar."
     },
@@ -3196,6 +3328,7 @@ const adabiyotData = {
           "text": "Yusuf Xos Hojib"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Rustamxon' muallifi O'zbek xalq eposi."
     },
@@ -3220,6 +3353,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Rustamxon' - ishqiy-jangnoma doston janridagi asar."
     },
@@ -3244,6 +3378,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Rustamxon va Oqsuluv."
     },
@@ -3268,6 +3403,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: O'gay ona tuhmati va adolat tantanasi."
     },
@@ -3292,6 +3428,7 @@ const adabiyotData = {
           "text": "Sofokl"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Devonu lug'otit turk' muallifi Mahmud Qoshg'ariy."
     },
@@ -3316,6 +3453,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Devonu lug'otit turk' - turkiy qomusiy lug'at janridagi asar."
     },
@@ -3340,6 +3478,7 @@ const adabiyotData = {
           "text": "Alp Er To'nga qahramonlik marsiyalari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Alp Er To'nga qahramonlik marsiyalari."
     },
@@ -3364,6 +3503,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Turk xalqlarining boy so'z xazinasi va xaritasi."
     },
@@ -3388,6 +3528,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Mahmud Qoshg'ariy 'Devonu lug'otit turk' asarini yaratgan."
     },
@@ -3412,6 +3553,7 @@ const adabiyotData = {
           "text": "Pirimqul Qodirov"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Qutadg'u bilig' muallifi Yusuf Xos Hojib."
     },
@@ -3436,6 +3578,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Qutadg'u bilig' - falsafiy-didaktik doston janridagi asar."
     },
@@ -3460,6 +3603,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Kuntug'di, Oytoldi, O'gdulmish, O'zg'urmish."
     },
@@ -3484,6 +3628,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Davlatni adolat va aql bilan boshqarish qonuniyati."
     },
@@ -3508,6 +3653,7 @@ const adabiyotData = {
           "text": "Qutadg'u bilig"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Yusuf Xos Hojib 'Qutadg'u bilig' asarini yaratgan."
     },
@@ -3532,6 +3678,7 @@ const adabiyotData = {
           "text": "Muqimiy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Hibat ul-haqoyiq' muallifi Ahmad Yugnakiy."
     },
@@ -3556,6 +3703,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Hibat ul-haqoyiq' - axloqiy-ta'limiy doston janridagi asar."
     },
@@ -3580,6 +3728,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ilm, saxovat va til odobi targ'iboti."
     },
@@ -3604,6 +3753,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Nodonlik va baxillikning jamiyatga zarari."
     },
@@ -3628,6 +3778,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Ahmad Yugnakiy 'Hibat ul-haqoyiq' asarini yaratgan."
     },
@@ -3652,6 +3803,7 @@ const adabiyotData = {
           "text": "Ahmad Yassaviy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Devoni hikmat' muallifi Ahmad Yassaviy."
     },
@@ -3676,6 +3828,7 @@ const adabiyotData = {
           "text": "tasavvufiy she'rlar majmuasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Devoni hikmat' - tasavvufiy she'rlar majmuasi janridagi asar."
     },
@@ -3700,6 +3853,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Haq ishqi va xizmat yo'lidagi dervishlik."
     },
@@ -3724,6 +3878,7 @@ const adabiyotData = {
           "text": "Nafs balosidan tiyilish va riyozat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Nafs balosidan tiyilish va riyozat."
     },
@@ -3748,6 +3903,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Ahmad Yassaviy 'Devoni hikmat' asarini yaratgan."
     },
@@ -3772,6 +3928,7 @@ const adabiyotData = {
           "text": "Abdulla Oripov"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Qisasi Rabg'uziy' muallifi Nosiruddin Rabg'uziy."
     },
@@ -3796,6 +3953,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Qisasi Rabg'uziy' - payg'ambarlar haqidagi qissalar janridagi asar."
     },
@@ -3820,6 +3978,7 @@ const adabiyotData = {
           "text": "Odam Ato, Nuh, Ibrohim, Muso, Yusuf payg'ambarlar"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Odam Ato, Nuh, Ibrohim, Muso, Yusuf payg'ambarlar."
     },
@@ -3844,6 +4003,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Ilk turkiy nasriy diniy-tarixiy yodgorlik."
     },
@@ -3868,6 +4028,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Nosiruddin Rabg'uziy 'Qisasi Rabg'uziy' asarini yaratgan."
     },
@@ -3892,6 +4053,7 @@ const adabiyotData = {
           "text": "Tog'ay Murod"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Muhabbatnoma' muallifi Xorazmiy."
     },
@@ -3916,6 +4078,7 @@ const adabiyotData = {
           "text": "nomalar majmuasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Muhabbatnoma' - nomalar majmuasi janridagi asar."
     },
@@ -3940,6 +4103,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Oshiq va ma'shuqa munosabatlari."
     },
@@ -3964,6 +4128,7 @@ const adabiyotData = {
           "text": "Jonibekxon saroyida yaratilgan 10 noma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Jonibekxon saroyida yaratilgan 10 noma."
     },
@@ -3988,6 +4153,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Xorazmiy 'Muhabbatnoma' asarini yaratgan."
     },
@@ -4012,6 +4178,7 @@ const adabiyotData = {
           "text": "Sayfi Saroyi"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Guliston bit-turkiy' muallifi Sayfi Saroyi."
     },
@@ -4036,6 +4203,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Guliston bit-turkiy' - didaktik tarjima va original asar janridagi asar."
     },
@@ -4060,6 +4228,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Sa'diy Sheroziy hikoyatlari."
     },
@@ -4084,6 +4253,7 @@ const adabiyotData = {
           "text": "Misrda Saroy shahrida yozilgan axloq kitobi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Misrda Saroy shahrida yozilgan axloq kitobi."
     },
@@ -4108,6 +4278,7 @@ const adabiyotData = {
           "text": "Guliston bit-turkiy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Sayfi Saroyi 'Guliston bit-turkiy' asarini yaratgan."
     },
@@ -4132,6 +4303,7 @@ const adabiyotData = {
           "text": "Jek London"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Suhayl va Guldursun' muallifi Sayfi Saroyi."
     },
@@ -4156,6 +4328,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Suhayl va Guldursun' - ishqiy-fojiaviy doston janridagi asar."
     },
@@ -4180,6 +4353,7 @@ const adabiyotData = {
           "text": "Suhayl va Guldursun"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Suhayl va Guldursun."
     },
@@ -4204,6 +4378,7 @@ const adabiyotData = {
           "text": "Xorazm qal'asi qamali va vatan xiyonati oqibati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Xorazm qal'asi qamali va vatan xiyonati oqibati."
     },
@@ -4228,6 +4403,7 @@ const adabiyotData = {
           "text": "Gomer"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Xusrav va Shirin' muallifi Qutb."
     },
@@ -4252,6 +4428,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Xusrav va Shirin' - ishqiy doston janridagi asar."
     },
@@ -4276,6 +4453,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Xusrav Parviz, Shirin va Farhod."
     },
@@ -4300,6 +4478,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Nizomiy asarining birinchi turkiy tarjimasi."
     },
@@ -4324,6 +4503,7 @@ const adabiyotData = {
           "text": "Xusrav va Shirin"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Qutb 'Xusrav va Shirin' asarini yaratgan."
     },
@@ -4348,6 +4528,7 @@ const adabiyotData = {
           "text": "Durbek"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Yusuf va Zulayho' muallifi Durbek."
     },
@@ -4372,6 +4553,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Yusuf va Zulayho' - ishqiy-ramziy doston janridagi asar."
     },
@@ -4396,6 +4578,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Yusuf payg'ambar va Zulayho."
     },
@@ -4420,6 +4603,7 @@ const adabiyotData = {
           "text": "Balx qamali paytida xalqqa umid bag'ishlash"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Balx qamali paytida xalqqa umid bag'ishlash."
     },
@@ -4444,6 +4628,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Durbek 'Yusuf va Zulayho' asarini yaratgan."
     },
@@ -4468,6 +4653,7 @@ const adabiyotData = {
           "text": "Lutfiy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Gul va Navro'z' muallifi Lutfiy."
     },
@@ -4492,6 +4678,7 @@ const adabiyotData = {
           "text": "ishqiy doston"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Gul va Navro'z' - ishqiy doston janridagi asar."
     },
@@ -4516,6 +4703,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Farxor shahzodasi Navro'z va Rum malikasi Gul."
     },
@@ -4540,6 +4728,7 @@ const adabiyotData = {
           "text": "Hijron sinovlari va sadoqat g'alabasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Hijron sinovlari va sadoqat g'alabasi."
     },
@@ -4564,6 +4753,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Lutfiy 'Gul va Navro'z' asarini yaratgan."
     },
@@ -4588,6 +4778,7 @@ const adabiyotData = {
           "text": "Alisher Navoiy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Hayrat ul-abror' muallifi Alisher Navoiy."
     },
@@ -4612,6 +4803,7 @@ const adabiyotData = {
           "text": "falsafiy-axloqiy masnaviy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Hayrat ul-abror' - falsafiy-axloqiy masnaviy janridagi asar."
     },
@@ -4636,6 +4828,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Hotami Toy, Nushiravoni Odil, Shoh G'oziy."
     },
@@ -4660,6 +4853,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Xamsaning ilk dostoni bo'lib 20 maqolatdan iborat."
     },
@@ -4684,6 +4878,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Alisher Navoiy 'Hayrat ul-abror' asarini yaratgan."
     },
@@ -4708,6 +4903,7 @@ const adabiyotData = {
           "text": "Oybek"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Farhod va Shirin' muallifi Alisher Navoiy."
     },
@@ -4732,6 +4928,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Farhod va Shirin' - qahramonlik-ishqiy dostoni janridagi asar."
     },
@@ -4756,6 +4953,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Farhod, Shirin, Shopur, Suqrot, Xusrav."
     },
@@ -4780,6 +4978,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Bisotun tog'ini teshib Arman eliga obihayot olib borish."
     },
@@ -4804,6 +5003,7 @@ const adabiyotData = {
           "text": "Daniel Defo"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Layli va Majnun' muallifi Alisher Navoiy."
     },
@@ -4828,6 +5028,7 @@ const adabiyotData = {
           "text": "ishqiy-tasavvufiy doston"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Layli va Majnun' - ishqiy-tasavvufiy doston janridagi asar."
     },
@@ -4852,6 +5053,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Qays (Majnun) va Layli, Navfal, Ibn Salom."
     },
@@ -4876,6 +5078,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Haqiqiy ilohiy ishq yo'lida foniylik."
     },
@@ -4900,6 +5103,7 @@ const adabiyotData = {
           "text": "Mixail Lermontov"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Sab'ai sayyor' muallifi Alisher Navoiy."
     },
@@ -4924,6 +5128,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Sab'ai sayyor' - sarguzasht-falsafiy doston janridagi asar."
     },
@@ -4948,6 +5153,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Bahrom Go'r, Dilorom va yetti iqlim musofirlari."
     },
@@ -4972,6 +5178,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Nafsga berilish va hukmdor mas'uliyatsizligi oqibati."
     },
@@ -4996,6 +5203,7 @@ const adabiyotData = {
           "text": "Zahiriddin Muhammad Bobur"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Saddi Iskandariy' muallifi Alisher Navoiy."
     },
@@ -5020,6 +5228,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Saddi Iskandariy' - ijtimoiy-falsafiy qahramonlik dostoni janridagi asar."
     },
@@ -5044,6 +5253,7 @@ const adabiyotData = {
           "text": "Iskandar, Arastu, Aflotun, Dorob"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Iskandar, Arastu, Aflotun, Dorob."
     },
@@ -5068,6 +5278,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Dunyo hukmdorining adolat to'g'oni va foniylik darsi."
     },
@@ -5092,6 +5303,7 @@ const adabiyotData = {
           "text": "Nosiruddin Rabg'uziy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Lison ut-tayr' muallifi Alisher Navoiy."
     },
@@ -5116,6 +5328,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Lison ut-tayr' - tasavvufiy allegorik doston janridagi asar."
     },
@@ -5140,6 +5353,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Hudhud va o'ttiz qush (Simurg')."
     },
@@ -5164,6 +5378,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Haqni o'z ichidan topish sirlari."
     },
@@ -5188,6 +5403,7 @@ const adabiyotData = {
           "text": "Ahmad Yugnakiy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Muhokamat ul-lug'atayn' muallifi Alisher Navoiy."
     },
@@ -5212,6 +5428,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Muhokamat ul-lug'atayn' - lingvistik ilmiy risola janridagi asar."
     },
@@ -5236,6 +5453,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Turkiy va forsiy tillar qiyosi."
     },
@@ -5260,6 +5478,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Turkiy tilning 100 ta fe'l boyligi bilan ustunligi."
     },
@@ -5284,6 +5503,7 @@ const adabiyotData = {
           "text": "Iogann Volfgang Gyote"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Mezon ul-avzon' muallifi Alisher Navoiy."
     },
@@ -5308,6 +5528,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Mezon ul-avzon' - she'rshunoslik risolasi janridagi asar."
     },
@@ -5332,6 +5553,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Aruz bahrlari va turkiy xalq qo'shiqlari."
     },
@@ -5356,6 +5578,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Tuyuq, qoshuq, changi kabi xalq o'lchovlari tahlili."
     },
@@ -5380,6 +5603,7 @@ const adabiyotData = {
           "text": "Muqimiy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Majolis un-nafois' muallifi Alisher Navoiy."
     },
@@ -5404,6 +5628,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Majolis un-nafois' - adabiy tazkira janridagi asar."
     },
@@ -5428,6 +5653,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: 459 nafar shoir va fozil shaxslar."
     },
@@ -5452,6 +5678,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: O'zbek adabiyotidagi birinchi tazkira."
     },
@@ -5476,6 +5703,7 @@ const adabiyotData = {
           "text": "Ahmad Yugnakiy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Mahbub ul-qulub' muallifi Alisher Navoiy."
     },
@@ -5500,6 +5728,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Mahbub ul-qulub' - ijtimoiy-axloqiy nasriy asar janridagi asar."
     },
@@ -5524,6 +5753,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Shohlar, vazirlar, qozilar, darveshlar va kasblar."
     },
@@ -5548,6 +5778,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Adolat, saxovat va yaxshi xulqlar mezoni."
     },
@@ -5572,6 +5803,7 @@ const adabiyotData = {
           "text": "Maqsud Shayxzoda"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Boburnoma' muallifi Zahiriddin Muhammad Bobur."
     },
@@ -5596,6 +5828,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Boburnoma' - tarixiy-avtobiografik asar janridagi asar."
     },
@@ -5620,6 +5853,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Bobur Mirzo va Temuriy shahzodalar."
     },
@@ -5644,6 +5878,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Movarounnahr, Afg'oniston va Hindistonning 30 yillik tarixi."
     },
@@ -5668,6 +5903,7 @@ const adabiyotData = {
           "text": "Boburnoma"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Zahiriddin Muhammad Bobur 'Boburnoma' asarini yaratgan."
     },
@@ -5692,6 +5928,7 @@ const adabiyotData = {
           "text": "Abdulla Qodiriy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Mubayyin' muallifi Zahiriddin Muhammad Bobur."
     },
@@ -5716,6 +5953,7 @@ const adabiyotData = {
           "text": "islomiy fiqh manzumasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Mubayyin' - islomiy fiqh manzumasi janridagi asar."
     },
@@ -5740,6 +5978,7 @@ const adabiyotData = {
           "text": "Namoz, zakot, ro'za va haj arkonlari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Namoz, zakot, ro'za va haj arkonlari."
     },
@@ -5764,6 +6003,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Farzandlariga diniy arkonlarni ta'lim berish."
     },
@@ -5788,6 +6028,7 @@ const adabiyotData = {
           "text": "Oybek"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Muxtasar' muallifi Zahiriddin Muhammad Bobur."
     },
@@ -5812,6 +6053,7 @@ const adabiyotData = {
           "text": "aruz vazni qo'llanmasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Muxtasar' - aruz vazni qo'llanmasi janridagi asar."
     },
@@ -5836,6 +6078,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ruknlar, doiralar va ziynatlar."
     },
@@ -5860,6 +6103,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Aruzshunoslikning ikkinchi mustahkam ustuni."
     },
@@ -5884,6 +6128,7 @@ const adabiyotData = {
           "text": "Abdulla Avloniy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Humoyunnoma' muallifi Gulbadanbegim."
     },
@@ -5908,6 +6153,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Humoyunnoma' - tarixiy-memuar asar janridagi asar."
     },
@@ -5932,6 +6178,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Bobur Mirzo, Humoyun va saroy xonimlari."
     },
@@ -5956,6 +6203,7 @@ const adabiyotData = {
           "text": "Boburiylar oilasi ichki hayotining haqqoniy bayoni"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Boburiylar oilasi ichki hayotining haqqoniy bayoni."
     },
@@ -5980,6 +6228,7 @@ const adabiyotData = {
           "text": "Humoyunnoma"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Gulbadanbegim 'Humoyunnoma' asarini yaratgan."
     },
@@ -6004,6 +6253,7 @@ const adabiyotData = {
           "text": "So'fi Olloyor"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Sabot ul-ojizin' muallifi So'fi Olloyor."
     },
@@ -6028,6 +6278,7 @@ const adabiyotData = {
           "text": "axloqiy-aqidaviy she'riy darslik"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Sabot ul-ojizin' - axloqiy-aqidaviy she'riy darslik janridagi asar."
     },
@@ -6052,6 +6303,7 @@ const adabiyotData = {
           "text": "Musulmonlik shartlari va ibodat odobi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Musulmonlik shartlari va ibodat odobi."
     },
@@ -6076,6 +6328,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Sodda turkiy baytlarda din ahkomlari."
     },
@@ -6100,6 +6353,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "So'fi Olloyor 'Sabot ul-ojizin' asarini yaratgan."
     },
@@ -6124,6 +6378,7 @@ const adabiyotData = {
           "text": "Sayfi Saroyi"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Tohir va Zuhra' muallifi Sayyodiy."
     },
@@ -6148,6 +6403,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Tohir va Zuhra' - ishqiy qissa janridagi asar."
     },
@@ -6172,6 +6428,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Tohir va Zuhra, Qorabotir, Boboxon."
     },
@@ -6196,6 +6453,7 @@ const adabiyotData = {
           "text": "Sanduqqa solib daryoga oqizilgan oshiq sadoqati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Sanduqqa solib daryoga oqizilgan oshiq sadoqati."
     },
@@ -6220,6 +6478,7 @@ const adabiyotData = {
           "text": "Ravshan"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Sayyodiy 'Tohir va Zuhra' asarini yaratgan."
     },
@@ -6244,6 +6503,7 @@ const adabiyotData = {
           "text": "Tog'ay Murod"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Tanobchilar' muallifi Muqimiy."
     },
@@ -6268,6 +6528,7 @@ const adabiyotData = {
           "text": "satirik she'r"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Tanobchilar' - satirik she'r janridagi asar."
     },
@@ -6292,6 +6553,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Hakimjon va Sulton Ali pachoq."
     },
@@ -6316,6 +6578,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Chor amaldorlarining qishloq xalqini nohaq talashi."
     },
@@ -6340,6 +6603,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Muqimiy 'Tanobchilar' asarini yaratgan."
     },
@@ -6364,6 +6628,7 @@ const adabiyotData = {
           "text": "Abdurauf Fitrat"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Padarkush' muallifi Mahmudxo'ja Behbudiy."
     },
@@ -6388,6 +6653,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Padarkush' - birinchi milliy drama janridagi asar."
     },
@@ -6412,6 +6678,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Toshmurod, Boy, Domla, Ziyoli."
     },
@@ -6436,6 +6703,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Nodon va o'qimagan farzandning o'z otasini boylik uchun o'ldirishi."
     },
@@ -6460,6 +6728,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Mahmudxo'ja Behbudiy 'Padarkush' asarini yaratgan."
     },
@@ -6484,6 +6753,7 @@ const adabiyotData = {
           "text": "Abdulla Avloniy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Turkiy Guliston yoxud axloq' muallifi Abdulla Avloniy."
     },
@@ -6508,6 +6778,7 @@ const adabiyotData = {
           "text": "pedagogik-axloqiy risola"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Turkiy Guliston yoxud axloq' - pedagogik-axloqiy risola janridagi asar."
     },
@@ -6532,6 +6803,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Yaxshi va yomon xulqlar tahlili."
     },
@@ -6556,6 +6828,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Tarbiyaning millat taqdiridagi hal qiluvchi o'rni."
     },
@@ -6580,6 +6853,7 @@ const adabiyotData = {
           "text": "Ravshan"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Abdulla Avloniy 'Turkiy Guliston yoxud axloq' asarini yaratgan."
     },
@@ -6604,6 +6878,7 @@ const adabiyotData = {
           "text": "Abdurauf Fitrat"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Munozara' muallifi Abdurauf Fitrat."
     },
@@ -6628,6 +6903,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Munozara' - publitsistik qissa janridagi asar."
     },
@@ -6652,6 +6928,7 @@ const adabiyotData = {
           "text": "Hindistonlik sayyoh va Buxorolik mudarris"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Hindistonlik sayyoh va Buxorolik mudarris."
     },
@@ -6676,6 +6953,7 @@ const adabiyotData = {
           "text": "Madrasalardagi qoloq o'qitish usulini isloh qilish zarurati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Madrasalardagi qoloq o'qitish usulini isloh qilish zarurati."
     },
@@ -6700,6 +6978,7 @@ const adabiyotData = {
           "text": "Munozara"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Abdurauf Fitrat 'Munozara' asarini yaratgan."
     },
@@ -6724,6 +7003,7 @@ const adabiyotData = {
           "text": "Uilyam Shekspir"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Sayha' muallifi Abdurauf Fitrat."
     },
@@ -6748,6 +7028,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Sayha' - inqilobiy she'rlar to'plami janridagi asar."
     },
@@ -6772,6 +7053,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Turkiston xalqi va istiqlol orzusi."
     },
@@ -6796,6 +7078,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Millatni qullik kishanlarini parchalashga chaqiriq."
     },
@@ -6820,6 +7103,7 @@ const adabiyotData = {
           "text": "Abdurauf Fitrat"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Abulfayzxon' muallifi Abdurauf Fitrat."
     },
@@ -6844,6 +7128,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Abulfayzxon' - tarixiy tragediya janridagi asar."
     },
@@ -6868,6 +7153,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Abulfayzxon, Rahimbiy, Farhod otaliq, Nodirshoh."
     },
@@ -6892,6 +7178,7 @@ const adabiyotData = {
           "text": "Zolim shohning qo'rquv va shubhalar ichida o'z taxtini yo'qotishi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Zolim shohning qo'rquv va shubhalar ichida o'z taxtini yo'qotishi."
     },
@@ -6916,6 +7203,7 @@ const adabiyotData = {
           "text": "Abdurauf Fitrat"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Hind ixtilolchilari' muallifi Abdurauf Fitrat."
     },
@@ -6940,6 +7228,7 @@ const adabiyotData = {
           "text": "ozodlik dramasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Hind ixtilolchilari' - ozodlik dramasi janridagi asar."
     },
@@ -6964,6 +7253,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Rahimbaxsh va Dilnavoz."
     },
@@ -6988,6 +7278,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Ingliz mustamlakachilariga qarshi Hindiston xalqining kurashi."
     },
@@ -7012,6 +7303,7 @@ const adabiyotData = {
           "text": "Hamza Hakimzoda Niyoziy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Zaharli hayot' muallifi Hamza Hakimzoda Niyoziy."
     },
@@ -7036,6 +7328,7 @@ const adabiyotData = {
           "text": "fojiaviy drama"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Zaharli hayot' - fojiaviy drama janridagi asar."
     },
@@ -7060,6 +7353,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Mahmudxon va Maryamxon."
     },
@@ -7084,6 +7378,7 @@ const adabiyotData = {
           "text": "Boylarning qalin puli ortidan ikki yoshning o'z joniga qasd qilishi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Boylarning qalin puli ortidan ikki yoshning o'z joniga qasd qilishi."
     },
@@ -7108,6 +7403,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Hamza Hakimzoda Niyoziy 'Zaharli hayot' asarini yaratgan."
     },
@@ -7132,6 +7428,7 @@ const adabiyotData = {
           "text": "Hamza Hakimzoda Niyoziy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Boy ila xizmatchi' muallifi Hamza Hakimzoda Niyoziy."
     },
@@ -7156,6 +7453,7 @@ const adabiyotData = {
           "text": "ijtimoiy drama"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Boy ila xizmatchi' - ijtimoiy drama janridagi asar."
     },
@@ -7180,6 +7478,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: G'ofur, Jamila, Solihboy."
     },
@@ -7204,6 +7503,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Mehnatkash yigitning boy zulmiga qarshi fojiasi."
     },
@@ -7228,6 +7528,7 @@ const adabiyotData = {
           "text": "Abdulhamid Cho'lpon"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Uyg'onish' muallifi Abdulhamid Cho'lpon."
     },
@@ -7252,6 +7553,7 @@ const adabiyotData = {
           "text": "she'riy to'plam"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Uyg'onish' - she'riy to'plam janridagi asar."
     },
@@ -7276,6 +7578,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Turkiston va erkinlik lirikasi."
     },
@@ -7300,6 +7603,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Milliy uyg'onish va istiqlol ruhi."
     },
@@ -7324,6 +7628,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Abdulhamid Cho'lpon 'Uyg'onish' asarini yaratgan."
     },
@@ -7348,6 +7653,7 @@ const adabiyotData = {
           "text": "Abulqosim Firdavsiy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Kecha va kunduz' muallifi Abdulhamid Cho'lpon."
     },
@@ -7372,6 +7678,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Kecha va kunduz' - ijtimoiy roman janridagi asar."
     },
@@ -7396,6 +7703,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Zebi, Akbarali mingboshi, Miryoqub, Razzoq so'fi."
     },
@@ -7420,6 +7728,7 @@ const adabiyotData = {
           "text": "Mustamlaka tuzumi va mutaassiblik girdobidagi ojiz qiz qismati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Mustamlaka tuzumi va mutaassiblik girdobidagi ojiz qiz qismati."
     },
@@ -7444,6 +7753,7 @@ const adabiyotData = {
           "text": "Shukur Xolmirzayev"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'O'tkan kunlar' muallifi Abdulla Qodiriy."
     },
@@ -7468,6 +7778,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'O'tkan kunlar' - tarixiy roman janridagi asar."
     },
@@ -7492,6 +7803,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Otabek, Kumushbibi, Zaynab, Homid, Yusufbek hoji."
     },
@@ -7516,6 +7828,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Qo'qon xonligi parokandaligi va muhabbat fojiasi."
     },
@@ -7540,6 +7853,7 @@ const adabiyotData = {
           "text": "O'tkan kunlar"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Abdulla Qodiriy 'O'tkan kunlar' asarini yaratgan."
     },
@@ -7564,6 +7878,7 @@ const adabiyotData = {
           "text": "Sofokl"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Mehrobdan chayon' muallifi Abdulla Qodiriy."
     },
@@ -7588,6 +7903,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Mehrobdan chayon' - tarixiy roman janridagi asar."
     },
@@ -7612,6 +7928,7 @@ const adabiyotData = {
           "text": "Anvar, Ra'no, Solih maxdum, Xudoyorxon, Shahodat muftiy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Anvar, Ra'no, Solih maxdum, Xudoyorxon, Shahodat muftiy."
     },
@@ -7636,6 +7953,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Mehrobdan chiqqan munofiqlarning begunoh yoshlar boshiga solgan ko'rgiliklari."
     },
@@ -7660,6 +7978,7 @@ const adabiyotData = {
           "text": "Oybek"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Dilbar - davr qizi' muallifi Oybek."
     },
@@ -7684,6 +8003,7 @@ const adabiyotData = {
           "text": "she'riy roman"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Dilbar - davr qizi' - she'riy roman janridagi asar."
     },
@@ -7708,6 +8028,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Dilbar."
     },
@@ -7732,6 +8053,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: O'zbek ayolining ilm va yangi hayotga intilishi."
     },
@@ -7756,6 +8078,7 @@ const adabiyotData = {
           "text": "Ravshan"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Oybek 'Dilbar - davr qizi' asarini yaratgan."
     },
@@ -7780,6 +8103,7 @@ const adabiyotData = {
           "text": "Daniel Defo"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Qutlug' qon' muallifi Oybek."
     },
@@ -7804,6 +8128,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Qutlug' qon' - ijtimoiy-tarixiy roman janridagi asar."
     },
@@ -7828,6 +8153,7 @@ const adabiyotData = {
           "text": "Yo'lchi, Gulnor, Mirzakarimboy, Hakimboyvachcha, Yormat"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Yo'lchi, Gulnor, Mirzakarimboy, Hakimboyvachcha, Yormat."
     },
@@ -7852,6 +8178,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: 1916-yil mardikorlikka olish fojiasi va xalq g'alayoni."
     },
@@ -7876,6 +8203,7 @@ const adabiyotData = {
           "text": "Hofiz Sheroziy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Navoiy' muallifi Oybek."
     },
@@ -7900,6 +8228,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Navoiy' - tarixiy biografik roman janridagi asar."
     },
@@ -7924,6 +8253,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Alisher Navoiy, Husayn Boyqaro, Guli, Majdiddin, Arslonqul."
     },
@@ -7948,6 +8278,7 @@ const adabiyotData = {
           "text": "Buyuk shoirning xalq g'amxo'ri sifatidagi faoliyati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Buyuk shoirning xalq g'amxo'ri sifatidagi faoliyati."
     },
@@ -7972,6 +8303,7 @@ const adabiyotData = {
           "text": "G'afur G'ulom"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Shum bola' muallifi G'afur G'ulom."
     },
@@ -7996,6 +8328,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Shum bola' - avtobiografik sarguzasht qissa janridagi asar."
     },
@@ -8020,6 +8353,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Qoravoy (Shum bola), Omon, Sariboy."
     },
@@ -8044,6 +8378,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Xalqning og'ir hayoti fonida bolaning topqirligi."
     },
@@ -8068,6 +8403,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "G'afur G'ulom 'Shum bola' asarini yaratgan."
     },
@@ -8092,6 +8428,7 @@ const adabiyotData = {
           "text": "Oybek"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Yodgor' muallifi G'afur G'ulom."
     },
@@ -8116,6 +8453,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Yodgor' - qissa janridagi asar."
     },
@@ -8140,6 +8478,7 @@ const adabiyotData = {
           "text": "Yodgor va Jo'raboy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Yodgor va Jo'raboy."
     },
@@ -8164,6 +8503,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Yetim bolaning mehr-oqibatli insonlar bag'rida kamol topishi."
     },
@@ -8188,6 +8528,7 @@ const adabiyotData = {
           "text": "Hamid Olimjon"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Zaynab va Omon' muallifi Hamid Olimjon."
     },
@@ -8212,6 +8553,7 @@ const adabiyotData = {
           "text": "lirik doston"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Zaynab va Omon' - lirik doston janridagi asar."
     },
@@ -8236,6 +8578,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Zaynab va Omon."
     },
@@ -8260,6 +8603,7 @@ const adabiyotData = {
           "text": "Qishloqda yangicha mehnat va sevgining go'zalligi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Qishloqda yangicha mehnat va sevgining go'zalligi."
     },
@@ -8284,6 +8628,7 @@ const adabiyotData = {
           "text": "Zaynab va Omon"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Hamid Olimjon 'Zaynab va Omon' asarini yaratgan."
     },
@@ -8308,6 +8653,7 @@ const adabiyotData = {
           "text": "Erkin Vohidov"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Muqanna' muallifi Hamid Olimjon."
     },
@@ -8332,6 +8678,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Muqanna' - she'riy drama janridagi asar."
     },
@@ -8356,6 +8703,7 @@ const adabiyotData = {
           "text": "Muqanna va Guloyim"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Muqanna va Guloyim."
     },
@@ -8380,6 +8728,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Oq kiyimlilarning dushmanga taslim bo'lmay o'zini olovga tashlashi."
     },
@@ -8404,6 +8753,7 @@ const adabiyotData = {
           "text": "Gomer"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Mirzo Ulug'bek' muallifi Maqsud Shayxzoda."
     },
@@ -8428,6 +8778,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Mirzo Ulug'bek' - tarixiy tragediya janridagi asar."
     },
@@ -8452,6 +8803,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Mirzo Ulug'bek, Abdullatif, Ali Qushchi, Gavharshodbegim."
     },
@@ -8476,6 +8828,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Olim shohning mutaassib ruhoniylar va o'z o'g'li xiyonatidan fojiasi."
     },
@@ -8500,6 +8853,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Maqsud Shayxzoda 'Mirzo Ulug'bek' asarini yaratgan."
     },
@@ -8524,6 +8878,7 @@ const adabiyotData = {
           "text": "Abdulla Oripov"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Jaloliddin Manguberdi' muallifi Maqsud Shayxzoda."
     },
@@ -8548,6 +8903,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Jaloliddin Manguberdi' - qahramonlik dramasi janridagi asar."
     },
@@ -8572,6 +8928,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Jaloliddin, Chingizxon, Temur Malik."
     },
@@ -8596,6 +8953,7 @@ const adabiyotData = {
           "text": "Sind daryosi bo'yida mo'g'ul lashkariga qarshi matonat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Sind daryosi bo'yida mo'g'ul lashkariga qarshi matonat."
     },
@@ -8620,6 +8978,7 @@ const adabiyotData = {
           "text": "Abdulla Oripov"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Ufq' muallifi Said Ahmad."
     },
@@ -8644,6 +9003,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Ufq' - tarixiy trilogiya janridagi asar."
     },
@@ -8668,6 +9028,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ikromjon, Jannat xola, Tursunboy, Azizxon."
     },
@@ -8692,6 +9053,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Katta Farg'ona kanali qurilishi va front orti mehnati."
     },
@@ -8716,6 +9078,7 @@ const adabiyotData = {
           "text": "Ravshan"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Said Ahmad 'Ufq' asarini yaratgan."
     },
@@ -8740,6 +9103,7 @@ const adabiyotData = {
           "text": "Erkin Vohidov"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Jimjitlik' muallifi Said Ahmad."
     },
@@ -8764,6 +9128,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Jimjitlik' - ijtimoiy-tanqidiy roman janridagi asar."
     },
@@ -8788,6 +9153,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: To'lanboy, Mirvali, Rustambek."
     },
@@ -8812,6 +9178,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Sovet turg'unlik yillaridagi ma'naviy tanazzul fosh etilishi."
     },
@@ -8836,6 +9203,7 @@ const adabiyotData = {
           "text": "Hamid Olimjon"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Kelinlar qo'zg'oloni' muallifi Said Ahmad."
     },
@@ -8860,6 +9228,7 @@ const adabiyotData = {
           "text": "komediya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Kelinlar qo'zg'oloni' - komediya janridagi asar."
     },
@@ -8884,6 +9253,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Farmonbibi, Nigora, To'xta."
     },
@@ -8908,6 +9278,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Oiladagi eskirgan qoliplarga qarshi zamonaviy erkinlik kurashi."
     },
@@ -8932,6 +9303,7 @@ const adabiyotData = {
           "text": "Abdulla Avloniy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Yulduzli tunlar' muallifi Pirimqul Qodirov."
     },
@@ -8956,6 +9328,7 @@ const adabiyotData = {
           "text": "tarixiy roman"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Yulduzli tunlar' - tarixiy roman janridagi asar."
     },
@@ -8980,6 +9353,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Zahiriddin Muhammad Bobur, Xonzodabegim, Qosim bek."
     },
@@ -9004,6 +9378,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Boburning taxt iztiroblari va buyuk davlatchilik asosini qurishi."
     },
@@ -9028,6 +9403,7 @@ const adabiyotData = {
           "text": "Ravshan"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Pirimqul Qodirov 'Yulduzli tunlar' asarini yaratgan."
     },
@@ -9052,6 +9428,7 @@ const adabiyotData = {
           "text": "Yusuf Xos Hojib"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Avlodlar dovoni' muallifi Pirimqul Qodirov."
     },
@@ -9076,6 +9453,7 @@ const adabiyotData = {
           "text": "tarixiy roman"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Avlodlar dovoni' - tarixiy roman janridagi asar."
     },
@@ -9100,6 +9478,7 @@ const adabiyotData = {
           "text": "Humoyun, Akbarshoh, Bayramxon"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Humoyun, Akbarshoh, Bayramxon."
     },
@@ -9124,6 +9503,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Boburiylar sulolasining Hindistondagi buyuk yuksalishi."
     },
@@ -9148,6 +9528,7 @@ const adabiyotData = {
           "text": "Erkin Vohidov"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Ona lochin nidosi' muallifi Pirimqul Qodirov."
     },
@@ -9172,6 +9553,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Ona lochin nidosi' - tarixiy roman janridagi asar."
     },
@@ -9196,6 +9578,7 @@ const adabiyotData = {
           "text": "Gavharshodbegim va Temuriy malikalar"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Gavharshodbegim va Temuriy malikalar."
     },
@@ -9220,6 +9603,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Temuriylar saltanatidagi ayollar aqli va me'moriy bunyodkorligi."
     },
@@ -9244,6 +9628,7 @@ const adabiyotData = {
           "text": "Sayyodiy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Uch ildiz' muallifi Pirimqul Qodirov."
     },
@@ -9268,6 +9653,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Uch ildiz' - roman janridagi asar."
     },
@@ -9292,6 +9678,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Mahkam, Samad, Ochil."
     },
@@ -9316,6 +9703,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Universitet talabalarining ilm va muhabbat yo'lidagi qarashlari."
     },
@@ -9340,6 +9728,7 @@ const adabiyotData = {
           "text": "Oybek"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Ulug'bek xazinasi' muallifi Odil Yoqubov."
     },
@@ -9364,6 +9753,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Ulug'bek xazinasi' - tarixiy roman janridagi asar."
     },
@@ -9388,6 +9778,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Mirzo Ulug'bek, Ali Qushchi, Abdullatif, Mavlono Muhiddin."
     },
@@ -9412,6 +9803,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Zij jadvalini va bebaho kutubxonani jaholatdan asrab qolish fidoiyligi."
     },
@@ -9436,6 +9828,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Odil Yoqubov 'Ulug'bek xazinasi' asarini yaratgan."
     },
@@ -9460,6 +9853,7 @@ const adabiyotData = {
           "text": "Odil Yoqubov"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Ko'hna dunyo' muallifi Odil Yoqubov."
     },
@@ -9484,6 +9878,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Ko'hna dunyo' - tarixiy roman janridagi asar."
     },
@@ -9508,6 +9903,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Abu Rayhon Beruniy, Ibn Sino, Mahmud G'aznaviy."
     },
@@ -9532,6 +9928,7 @@ const adabiyotData = {
           "text": "Sharq ilm-fani daholarining zolim sultonlar saroyidagi matonati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Sharq ilm-fani daholarining zolim sultonlar saroyidagi matonati."
     },
@@ -9556,6 +9953,7 @@ const adabiyotData = {
           "text": "So'fi Olloyor"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Diyonat' muallifi Odil Yoqubov."
     },
@@ -9580,6 +9978,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Diyonat' - ijtimoiy roman janridagi asar."
     },
@@ -9604,6 +10003,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Normurod Shomurodov, Otaqo'ziy."
     },
@@ -9628,6 +10028,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Paxta rejasi ortidagi qallobliklarga qarshi vijdon kurashi."
     },
@@ -9652,6 +10053,7 @@ const adabiyotData = {
           "text": "Pirimqul Qodirov"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Dunyoning ishlari' muallifi O'tkir Hoshimov."
     },
@@ -9676,6 +10078,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Dunyoning ishlari' - lirik-nasriy qissa janridagi asar."
     },
@@ -9700,6 +10103,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Muallif va uning onasi."
     },
@@ -9724,6 +10128,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Ona mehri, uning o'rni to'lmas yo'qotilishi va farzandlik burchi."
     },
@@ -9748,6 +10153,7 @@ const adabiyotData = {
           "text": "Ravshan"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "O'tkir Hoshimov 'Dunyoning ishlari' asarini yaratgan."
     },
@@ -9772,6 +10178,7 @@ const adabiyotData = {
           "text": "O'tkir Hoshimov"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Ikki eshik orasi' muallifi O'tkir Hoshimov."
     },
@@ -9796,6 +10203,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Ikki eshik orasi' - roman janridagi asar."
     },
@@ -9820,6 +10228,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Kimsan, Robiya, Shomurod, Umar zakunchi."
     },
@@ -9844,6 +10253,7 @@ const adabiyotData = {
           "text": "Urush keltirgan bevaqt judoliklar va insoniylik sinovi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Urush keltirgan bevaqt judoliklar va insoniylik sinovi."
     },
@@ -9868,6 +10278,7 @@ const adabiyotData = {
           "text": "Migel de Servantes"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Tushda kechgan umrlar' muallifi O'tkir Hoshimov."
     },
@@ -9892,6 +10303,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Tushda kechgan umrlar' - roman janridagi asar."
     },
@@ -9916,6 +10328,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Rustam, Shahnoza, Komissar."
     },
@@ -9940,6 +10353,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Afg'on urushi mayib qilgan yoshlar va 1980-yillar qatag'onlari."
     },
@@ -9964,6 +10378,7 @@ const adabiyotData = {
           "text": "Hamid Olimjon"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Ruhlar isyoni' muallifi Erkin Vohidov."
     },
@@ -9988,6 +10403,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Ruhlar isyoni' - falsafiy doston janridagi asar."
     },
@@ -10012,6 +10428,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Nazrul Islom, Ingliz zobitlari."
     },
@@ -10036,6 +10453,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Zulm va kishanlarga qarshi shoir ruhiyati isyoni."
     },
@@ -10060,6 +10478,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Erkin Vohidov 'Ruhlar isyoni' asarini yaratgan."
     },
@@ -10084,6 +10503,7 @@ const adabiyotData = {
           "text": "Uilyam Shekspir"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Oltin devor' muallifi Erkin Vohidov."
     },
@@ -10108,6 +10528,7 @@ const adabiyotData = {
           "text": "hajviy sahna asari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Oltin devor' - hajviy sahna asari janridagi asar."
     },
@@ -10132,6 +10553,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Mo'min, Qurbon, Xondamir."
     },
@@ -10156,6 +10578,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Xazina topgan kishining ochko'zlik va qiliqlari fosh etilishi."
     },
@@ -10180,6 +10603,7 @@ const adabiyotData = {
           "text": "Mahmud Qoshg'ariy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Jannatga yo'l' muallifi Abdulla Oripov."
     },
@@ -10204,6 +10628,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Jannatga yo'l' - doston janridagi asar."
     },
@@ -10228,6 +10653,7 @@ const adabiyotData = {
           "text": "Hakimbek (Alpomish) va Barchinoy"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Sayyoh, Farishta, Gunohkorlar."
     },
@@ -10252,6 +10678,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Inson vijdoni, yaxshilik va qilmishlar hisob-kitobi."
     },
@@ -10276,6 +10703,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Abdulla Oripov 'Jannatga yo'l' asarini yaratgan."
     },
@@ -10300,6 +10728,7 @@ const adabiyotData = {
           "text": "Abdulla Oripov"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Hakim va ajal' muallifi Abdulla Oripov."
     },
@@ -10324,6 +10753,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Hakim va ajal' - falsafiy doston janridagi asar."
     },
@@ -10348,6 +10778,7 @@ const adabiyotData = {
           "text": "Ibn Sino va Ajal elchisi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ibn Sino va Ajal elchisi."
     },
@@ -10372,6 +10803,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Tibbiyot dahosi ham taqdir muqarrarligi oldida ojizligi."
     },
@@ -10396,6 +10828,7 @@ const adabiyotData = {
           "text": "Nosiruddin Rabg'uziy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Sohibqiron' muallifi Abdulla Oripov."
     },
@@ -10420,6 +10853,7 @@ const adabiyotData = {
           "text": "she'riy drama"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Sohibqiron' - she'riy drama janridagi asar."
     },
@@ -10444,6 +10878,7 @@ const adabiyotData = {
           "text": "Amir Temur, Boyazid Yildirim, Shohrux"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Amir Temur, Boyazid Yildirim, Shohrux."
     },
@@ -10468,6 +10903,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'oya: Davlat mustaqilligi va Sohibqironning jahoniy siyosati."
     },
@@ -10492,6 +10928,7 @@ const adabiyotData = {
           "text": "Iogann Volfgang Gyote"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Otamdan qolgan dalalar' muallifi Tog'ay Murod."
     },
@@ -10516,6 +10953,7 @@ const adabiyotData = {
           "text": "roman"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Otamdan qolgan dalalar' - roman janridagi asar."
     },
@@ -10540,6 +10978,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Dehqonqul, Jamoliddin ketmon, Aqrab."
     },
@@ -10564,6 +11003,7 @@ const adabiyotData = {
           "text": "O'zbek dehqonining paxta yakkahokimligi qurboni bo'lish fojeasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: O'zbek dehqonining paxta yakkahokimligi qurboni bo'lish fojeasi."
     },
@@ -10588,6 +11028,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Tog'ay Murod 'Otamdan qolgan dalalar' asarini yaratgan."
     },
@@ -10612,6 +11053,7 @@ const adabiyotData = {
           "text": "Tog'ay Murod"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Ot kishnagan oqshom' muallifi Tog'ay Murod."
     },
@@ -10636,6 +11078,7 @@ const adabiyotData = {
           "text": "ishqiy-qahramonlik dostoni"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Ot kishnagan oqshom' - qissa janridagi asar."
     },
@@ -10660,6 +11103,7 @@ const adabiyotData = {
           "text": "Ravshanxon va Zulxumor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ziyodulla chavandoz, Tarlon ot."
     },
@@ -10684,6 +11128,7 @@ const adabiyotData = {
           "text": "Chambil yurtini dushmanlardan himoya qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Chavandozlik or-nomusi va vafodor tulpor fojiasi."
     },
@@ -10708,6 +11153,7 @@ const adabiyotData = {
           "text": "Tog'ay Murod"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Oydinda yurgan odamlar' muallifi Tog'ay Murod."
     },
@@ -10732,6 +11178,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Oydinda yurgan odamlar' - qissa janridagi asar."
     },
@@ -10756,6 +11203,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Qoplon va Oymomo."
     },
@@ -10780,6 +11228,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Farzand dog'ida qolgan o'zbek oilasining ruhiy iztiroblari."
     },
@@ -10804,6 +11253,7 @@ const adabiyotData = {
           "text": "Sayyodiy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Bodom qishda gulladi' muallifi Shukur Xolmirzayev."
     },
@@ -10828,6 +11278,7 @@ const adabiyotData = {
           "text": "qahramonlik turkumi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Bodom qishda gulladi' - qissa janridagi asar."
     },
@@ -10852,6 +11303,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ochil, Oysha."
     },
@@ -10876,6 +11328,7 @@ const adabiyotData = {
           "text": "Inson ko'nglida kechuvchi nozik muhabbat va tushunilmaslik dardlari"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'oya: Inson ko'nglida kechuvchi nozik muhabbat va tushunilmaslik dardlari."
     },
@@ -10900,6 +11353,7 @@ const adabiyotData = {
           "text": "Bodom qishda gulladi"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Shukur Xolmirzayev 'Bodom qishda gulladi' asarini yaratgan."
     },
@@ -10924,6 +11378,7 @@ const adabiyotData = {
           "text": "Rabindranat Tagor"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Chinor' muallifi Asqad Muxtor."
     },
@@ -10948,6 +11403,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Chinor' - roman janridagi asar."
     },
@@ -10972,6 +11428,7 @@ const adabiyotData = {
           "text": "Go'ro'g'li va Avazxon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Ochil buva, Azizbek, Akbar."
     },
@@ -10996,6 +11453,7 @@ const adabiyotData = {
           "text": "Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G'oya: Ko'p asrlik chinor ildizlari kabi millatning mustahkam ma'naviy asosi."
     },
@@ -11020,6 +11478,7 @@ const adabiyotData = {
           "text": "Alpomish"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Asqad Muxtor 'Chinor' asarini yaratgan."
     },
@@ -11044,6 +11503,7 @@ const adabiyotData = {
           "text": "Ahmad Yassaviy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Bozor' muallifi Xurshid Do'stmuhammad."
     },
@@ -11068,6 +11528,7 @@ const adabiyotData = {
           "text": "qahramonlik dostoni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Bozor' - roman janridagi asar."
     },
@@ -11092,6 +11553,7 @@ const adabiyotData = {
           "text": "Fozilbek, Kitobfurush"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy qahramonlar: Fozilbek, Kitobfurush."
     },
@@ -11116,6 +11578,7 @@ const adabiyotData = {
           "text": "Shirvon xoni zulmiga qarshi sevgi kurashi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'oya: Ma'naviyat bozorga aylangan zamonda qadriyatlar fojiasi."
     },
@@ -11140,6 +11603,7 @@ const adabiyotData = {
           "text": "Bozor"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Xurshid Do'stmuhammad 'Bozor' asarini yaratgan."
     },
@@ -11164,6 +11628,7 @@ const adabiyotData = {
           "text": "Qarama-qarshi ma'noli so'zlarni bir baytda qo'llash (masalan: oq-qora, kulgu-yig'i)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tazod: Qarama-qarshi ma'noli so'zlarni bir baytda qo'llash (masalan: oq-qora, kulgu-yig'i)"
     },
@@ -11188,6 +11653,7 @@ const adabiyotData = {
           "text": "Tazod"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu Tazod san'atidir."
     },
@@ -11212,6 +11678,7 @@ const adabiyotData = {
           "text": "Yozilishi va aytilishi bir xil, ammo ma'nosi butunlay farq qiluvchi so'zlar qofiyasi (omonim)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tajnis: Yozilishi va aytilishi bir xil, ammo ma'nosi butunlay farq qiluvchi so'zlar qofiyasi (omonim)"
     },
@@ -11236,6 +11703,7 @@ const adabiyotData = {
           "text": "Tazod"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu Tajnis san'atidir."
     },
@@ -11260,6 +11728,7 @@ const adabiyotData = {
           "text": "Faqat qofiyasiz she'r yozish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Talmeh: Mashhur tarixiy shaxs, voqea, qissa yoki afsonaga qisqa ishora qilish"
     },
@@ -11284,6 +11753,7 @@ const adabiyotData = {
           "text": "Tamsil"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu Talmeh san'atidir."
     },
@@ -11308,6 +11778,7 @@ const adabiyotData = {
           "text": "Tabiiy hodisaga shoirona, go'zal va xayoliy boshqacha sabab ko'rsatish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Husni ta'lil: Tabiiy hodisaga shoirona, go'zal va xayoliy boshqacha sabab ko'rsatish"
     },
@@ -11332,6 +11803,7 @@ const adabiyotData = {
           "text": "Husni ta'lil"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu Husni ta'lil san'atidir."
     },
@@ -11356,6 +11828,7 @@ const adabiyotData = {
           "text": "Faqat bir xil harflarni takrorlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Irsoli masal: She'riy bayt ichida xalq maqoli yoki hikmatli so'zni mahorat bilan ishlatish"
     },
@@ -11380,6 +11853,7 @@ const adabiyotData = {
           "text": "Talmeh"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu Irsoli masal san'atidir."
     },
@@ -11404,6 +11878,7 @@ const adabiyotData = {
           "text": "Faqat bir xil harflarni takrorlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mubolag'a: Narsa va hodisani me'yordan ortiq darajada bo'rttirib, kattalashtirib yoki kichraytirib tasvirlash"
     },
@@ -11428,6 +11903,7 @@ const adabiyotData = {
           "text": "Mubolag'a"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu Mubolag'a san'atidir."
     },
@@ -11452,6 +11928,7 @@ const adabiyotData = {
           "text": "Faqat lirik chekinish qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tashbeh: Narsalarni o'xshashlik asosida qiyoslash ('kabi', 'yanglig'', 'misli' so'zlari orqali)"
     },
@@ -11476,6 +11953,7 @@ const adabiyotData = {
           "text": "Istiora"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu Tashbeh san'atidir."
     },
@@ -11500,6 +11978,7 @@ const adabiyotData = {
           "text": "Faqat bir xil harflarni takrorlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Istiora: O'xshatish vositalarisiz bir narsaning nomini ikkinchisiga ko'chma ma'noda to'g'ridan-to'g'ri qo'llash"
     },
@@ -11524,6 +12003,7 @@ const adabiyotData = {
           "text": "Tashbeh"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu Istiora san'atidir."
     },
@@ -11548,6 +12028,7 @@ const adabiyotData = {
           "text": "Faqat bir xil harflarni takrorlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ruju: Avval aytilgan fikrdan go'yo qaytgandek bo'lib, uni yanada kuchliroq dalil bilan tasdiqlash"
     },
@@ -11572,6 +12053,7 @@ const adabiyotData = {
           "text": "Tazod"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu Ruju san'atidir."
     },
@@ -11596,6 +12078,7 @@ const adabiyotData = {
           "text": "Faqat bir xil harflarni takrorlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tamsil: Keltirilgan fikrni isbotlash uchun hayotiy o'xshatish yoki misol keltirish"
     },
@@ -11620,6 +12103,7 @@ const adabiyotData = {
           "text": "Husni ta'lil"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu Tamsil san'atidir."
     },
@@ -11644,6 +12128,7 @@ const adabiyotData = {
           "text": "Baytda bir necha sonlarni ma'noli tartib bilan keltirish san'ati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Siyoqat ul-a'dod: Baytda bir necha sonlarni ma'noli tartib bilan keltirish san'ati"
     },
@@ -11668,6 +12153,7 @@ const adabiyotData = {
           "text": "Ta'rix"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu Siyoqat ul-a'dod san'atidir."
     },
@@ -11692,6 +12178,7 @@ const adabiyotData = {
           "text": "Faqat qofiyasiz she'r yozish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Laff va nashr: Avvalgi misrada bir necha narsani sanab, keyingi misrada ularning har biriga mos sifat yoki harakatni keltirish"
     },
@@ -11716,6 +12203,7 @@ const adabiyotData = {
           "text": "Tazod"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu Laff va nashr san'atidir."
     },
@@ -11740,6 +12228,7 @@ const adabiyotData = {
           "text": "Faqat bir xil harflarni takrorlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ishtiqoq: Bir o'zakdan tarqalgan o'xshash tovushli so'zlarni bir baytda qo'llash"
     },
@@ -11764,6 +12253,7 @@ const adabiyotData = {
           "text": "Ishtiqoq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu Ishtiqoq san'atidir."
     },
@@ -11788,6 +12278,7 @@ const adabiyotData = {
           "text": "Faqat lirik chekinish qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kitmon: Shoir o'z fikrini sir tutib, tinglovchini chuqur o'ylashga undashi"
     },
@@ -11812,6 +12303,7 @@ const adabiyotData = {
           "text": "Ta'rix"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu Kitmon san'atidir."
     },
@@ -11836,6 +12328,7 @@ const adabiyotData = {
           "text": "Faqat bir xil harflarni takrorlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tazmin: O'zgalar she'ridan biror misra yoki baytni o'z she'riga kiritib ketish"
     },
@@ -11860,6 +12353,7 @@ const adabiyotData = {
           "text": "Iqtibos"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu Tazmin san'atidir."
     },
@@ -11884,6 +12378,7 @@ const adabiyotData = {
           "text": "Talmeh"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bu yerda Tazod san'ati qo'llangan."
     },
@@ -11908,6 +12403,7 @@ const adabiyotData = {
           "text": "Tajnis"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bu yerda Talmeh san'ati qo'llangan."
     },
@@ -11932,6 +12428,7 @@ const adabiyotData = {
           "text": "Husni ta'lil"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bu yerda Husni ta'lil san'ati qo'llangan."
     },
@@ -11956,6 +12453,7 @@ const adabiyotData = {
           "text": "Istiora"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bu yerda Tashbeh san'ati qo'llangan."
     },
@@ -11980,6 +12478,7 @@ const adabiyotData = {
           "text": "Tajnis"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bu yerda Tajnis san'ati qo'llangan."
     },
@@ -12004,6 +12503,7 @@ const adabiyotData = {
           "text": "Istiora"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bu yerda Mubolag'a san'ati qo'llangan."
     },
@@ -12028,6 +12528,7 @@ const adabiyotData = {
           "text": "Talmeh"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bu yerda Ruju san'ati qo'llangan."
     },
@@ -12052,6 +12553,7 @@ const adabiyotData = {
           "text": "Tashbeh"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bu yerda Istiora san'ati qo'llangan."
     },
@@ -12076,6 +12578,7 @@ const adabiyotData = {
           "text": "Tajnis"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bu yerda Tashbeh san'ati qo'llangan."
     },
@@ -12100,6 +12603,7 @@ const adabiyotData = {
           "text": "Tazod"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bu yerda Kinoya san'ati qo'llangan."
     },
@@ -12124,6 +12628,7 @@ const adabiyotData = {
           "text": "Gomer"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Iliada' muallifi Gomer."
     },
@@ -12148,6 +12653,7 @@ const adabiyotData = {
           "text": "Faqat dengiz safari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Iliada: Troya urushi va Axill jasorati."
     },
@@ -12172,6 +12678,7 @@ const adabiyotData = {
           "text": "Gomer"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Odisseya' muallifi Gomer."
     },
@@ -12196,6 +12703,7 @@ const adabiyotData = {
           "text": "Iffatli Penelopa va Odisseyning uzoq sarguzashtlari (Yunon eposi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Odisseya: Iffatli Penelopa va Odisseyning uzoq sarguzashtlari."
     },
@@ -12220,6 +12728,7 @@ const adabiyotData = {
           "text": "Sofokl"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Shoh Edip' muallifi Sofokl."
     },
@@ -12244,6 +12753,7 @@ const adabiyotData = {
           "text": "Faqat dengiz safari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shoh Edip: Taqdir muqarrarligi va adolat fojeasi."
     },
@@ -12268,6 +12778,7 @@ const adabiyotData = {
           "text": "Abulqosim Firdavsiy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Shohnoma' muallifi Abulqosim Firdavsiy."
     },
@@ -12292,6 +12803,7 @@ const adabiyotData = {
           "text": "Rustam va Suhrob, Siyovush, Jamshid (Fors-turk epik dostoni)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shohnoma: Rustam va Suhrob, Siyovush, Jamshid."
     },
@@ -12316,6 +12828,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Xamsa (Panj ganj)' muallifi Nizomiy Ganjaviy."
     },
@@ -12340,6 +12853,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Xamsa (Panj ganj): Maxzan ul-asror, Xusrav va Shirin, Layli va Majnun, Haft paykar, Iskandarnoma."
     },
@@ -12364,6 +12878,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Guliston' muallifi Sa'diy Sheroziy."
     },
@@ -12388,6 +12903,7 @@ const adabiyotData = {
           "text": "Faqat dengiz safari"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Guliston: Nasr va nazm uyg'unligidagi 8 bob hikoyatlar."
     },
@@ -12412,6 +12928,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Bo'ston' muallifi Sa'diy Sheroziy."
     },
@@ -12436,6 +12953,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bo'ston: O'n bobdan iborat nazmiy pandnoma."
     },
@@ -12460,6 +12978,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Devon' muallifi Hofiz Sheroziy."
     },
@@ -12484,6 +13003,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Devon: Ishqiy-tasavvufiy g'azallar."
     },
@@ -12508,6 +13028,7 @@ const adabiyotData = {
           "text": "Gyote"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Haft avrang' muallifi Abdurahmon Jomiy."
     },
@@ -12532,6 +13053,7 @@ const adabiyotData = {
           "text": "Yetti buyuk masnaviy doston (Temuriylar davri forsiy adabiyoti)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Haft avrang: Yetti buyuk masnaviy doston."
     },
@@ -12556,6 +13078,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Gamlet' muallifi Uilyam Shekspir."
     },
@@ -12580,6 +13103,7 @@ const adabiyotData = {
           "text": "Faqat komik epizodlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Gamlet: Daniya shahzodasining ikkilanishi va haqiqat fojiasi."
     },
@@ -12604,6 +13128,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Otello' muallifi Uilyam Shekspir."
     },
@@ -12628,6 +13153,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Otello: Yagoning hasadi va rashk fojiasi."
     },
@@ -12652,6 +13178,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Qirol Lir' muallifi Uilyam Shekspir."
     },
@@ -12676,6 +13203,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qirol Lir: Otalik mehrining xato baholanishi va qizlar xiyonati."
     },
@@ -12700,6 +13228,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Romeo va Juletta' muallifi Uilyam Shekspir."
     },
@@ -12724,6 +13253,7 @@ const adabiyotData = {
           "text": "Adovatli oilalar va ikki yoshning pok fojiali sevgisi (Sevgi madhi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Romeo va Juletta: Adovatli oilalar va ikki yoshning pok fojiali sevgisi."
     },
@@ -12748,6 +13278,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Don Kixot' muallifi Migel de Servantes."
     },
@@ -12772,6 +13303,7 @@ const adabiyotData = {
           "text": "Faqat dengiz safari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Don Kixot: Don Kixot va Sancho Pansa sarguzashtlari."
     },
@@ -12796,6 +13328,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Faust' muallifi Iogann Volfgang Gyote."
     },
@@ -12820,6 +13353,7 @@ const adabiyotData = {
           "text": "Doktor Faust va Mefistofel o'rtasidagi bitim (Falsafiy tragediya)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Faust: Doktor Faust va Mefistofel o'rtasidagi bitim."
     },
@@ -12844,6 +13378,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Yevgeniy Onegin' muallifi Aleksandr Pushkin."
     },
@@ -12868,6 +13403,7 @@ const adabiyotData = {
           "text": "Faqat komik epizodlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yevgeniy Onegin: Onegin, Tatyana Larina, Lenskoy."
     },
@@ -12892,6 +13428,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Kapitan qizi' muallifi Aleksandr Pushkin."
     },
@@ -12916,6 +13453,7 @@ const adabiyotData = {
           "text": "Faqat dengiz safari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kapitan qizi: Pugachyov qo'zg'oloni va Grinyov muhabbati."
     },
@@ -12940,6 +13478,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Zamonamiz qahramoni' muallifi Mixail Lermontov."
     },
@@ -12964,6 +13503,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Zamonamiz qahramoni: Pechorin, Bela, Maksim Maksimich."
     },
@@ -12988,6 +13528,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Demon (Iblis)' muallifi Mixail Lermontov."
     },
@@ -13012,6 +13553,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Demon (Iblis): Tamara va Demonning fojiali sevgisi."
     },
@@ -13036,6 +13578,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Urush va tinchlik' muallifi Lev Tolstoy."
     },
@@ -13060,6 +13603,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Urush va tinchlik: Andrey Bolkonskiy, Pyer Bezuxov, Natasha Rostova."
     },
@@ -13084,6 +13628,7 @@ const adabiyotData = {
           "text": "Gyote"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Anna Karenina' muallifi Lev Tolstoy."
     },
@@ -13108,6 +13653,7 @@ const adabiyotData = {
           "text": "Faqat dengiz safari"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Anna Karenina: Anna, Vronskiy, Karenin, Levin."
     },
@@ -13132,6 +13678,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'G'ilof bandasi' muallifi Anton Chexov."
     },
@@ -13156,6 +13703,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "G'ilof bandasi: Belikovning o'zini qobiqqa o'rab yashashi."
     },
@@ -13180,6 +13728,7 @@ const adabiyotData = {
           "text": "Gyote"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Chol va dengiz' muallifi Ernest Xeminguey."
     },
@@ -13204,6 +13753,7 @@ const adabiyotData = {
           "text": "Santyago chol va ulkan marlin balig'i (Qissa)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Chol va dengiz: Santyago chol va ulkan marlin balig'i."
     },
@@ -13228,6 +13778,7 @@ const adabiyotData = {
           "text": "Chingiz Aytmatov"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Asrga tatigulik kun' muallifi Chingiz Aytmatov."
     },
@@ -13252,6 +13803,7 @@ const adabiyotData = {
           "text": "Yedigey, Nayman ona, Manqurt afsonasi (Falsafiy roman)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Asrga tatigulik kun: Yedigey, Nayman ona, Manqurt afsonasi."
     },
@@ -13276,6 +13828,7 @@ const adabiyotData = {
           "text": "Chingiz Aytmatov"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Oq kema' muallifi Chingiz Aytmatov."
     },
@@ -13300,6 +13853,7 @@ const adabiyotData = {
           "text": "Faqat saroy fitnalari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Oq kema: Mo'min chol, Orozqul, bola va bug'u afsonasi."
     },
@@ -13324,6 +13878,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Jamila' muallifi Chingiz Aytmatov."
     },
@@ -13348,6 +13903,7 @@ const adabiyotData = {
           "text": "Faqat komik epizodlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jamila: Doniyor va Jamilaning sevgi jasorati."
     },
@@ -13372,6 +13928,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Alvido, Gulsari!' muallifi Chingiz Aytmatov."
     },
@@ -13396,6 +13953,7 @@ const adabiyotData = {
           "text": "Tanabay va arg'umoq Gulsari taqdiri (Ijtimoiy qissa)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Alvido, Gulsari!: Tanabay va arg'umoq Gulsari taqdiri."
     },
@@ -13420,6 +13978,7 @@ const adabiyotData = {
           "text": "Rabindranat Tagor"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Halokat' muallifi Rabindranat Tagor."
     },
@@ -13444,6 +14003,7 @@ const adabiyotData = {
           "text": "Faqat komik epizodlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Halokat: Ramesh va Kamala taqdiri."
     },
@@ -13468,6 +14028,7 @@ const adabiyotData = {
           "text": "Shekspir"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Hayotga muhabbat' muallifi Jek London."
     },
@@ -13492,6 +14053,7 @@ const adabiyotData = {
           "text": "Faqat komik epizodlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Hayotga muhabbat: Shimol qorliklarida bo'ri bilan olishgan inson."
     },
@@ -13516,6 +14078,7 @@ const adabiyotData = {
           "text": "Tolstoy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Robinzon Kruzo' muallifi Daniel Defo."
     },
@@ -13540,6 +14103,7 @@ const adabiyotData = {
           "text": "Faqat komik epizodlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Robinzon Kruzo: Kimsasiz orolda 28 yil yashagan inson irodasi."
     },
@@ -13564,6 +14128,7 @@ const adabiyotData = {
           "text": "1910-yilda Behbudiy tomonidan"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1919-yilda milliy til va adabiyotni rivojlantirish uchun tuzilgan."
     },
@@ -13588,6 +14153,7 @@ const adabiyotData = {
           "text": "Behbudiy"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ubaydullaxo'ja muharrirligida chiqqan."
     },
@@ -13612,6 +14178,7 @@ const adabiyotData = {
           "text": "Toshkentda"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qo'qonda jadidlar tomonidan nashr etilgan."
     },
@@ -13636,6 +14203,7 @@ const adabiyotData = {
           "text": "1918-yilda Toshkentda"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Oila muammolari va jamiyat tarbiyasiga bag'ishlangan."
     },
@@ -13660,6 +14228,7 @@ const adabiyotData = {
           "text": "Andijonda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Marg'ilon savdo rastasida."
     },
@@ -13684,6 +14253,7 @@ const adabiyotData = {
           "text": "Qodirbobo"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Mirzakarim qutidor hovlisi Baxmalbof mahallasida bo'lgan."
     },
@@ -13708,6 +14278,7 @@ const adabiyotData = {
           "text": "Yusufbek hojidan"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sodiq orqali soxta xat yuboradi."
     },
@@ -13732,6 +14303,7 @@ const adabiyotData = {
           "text": "Xushomadgo'ylik, poraxo'rlik va xalq dardidan yiroqlik"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sultonlik tanazzuli ko'rsatilgan."
     },
@@ -13756,6 +14328,7 @@ const adabiyotData = {
           "text": "Tabiat go'zalligi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Istiqlol ramzidir."
     },
@@ -13780,6 +14353,7 @@ const adabiyotData = {
           "text": "Shum bola"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Vatanparvarlik she'rlari uchun."
     },
@@ -13804,6 +14378,7 @@ const adabiyotData = {
           "text": "Amudaryo"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jizzaxning Sangzor daryosi."
     },
@@ -13828,6 +14403,7 @@ const adabiyotData = {
           "text": "1965-yilda"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xalq shoiri unvoni."
     },
@@ -13852,6 +14428,7 @@ const adabiyotData = {
           "text": "Buxoroning jin ko'chalari"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qoraqalpoq zaminidagi o'zgarishlar."
     },
@@ -13876,6 +14453,7 @@ const adabiyotData = {
           "text": "Buxoro"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Boysun tog'lari va odamlari ruhiyati."
     },
@@ -13900,6 +14478,7 @@ const adabiyotData = {
           "text": "Kitob"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Xo'jasoat qishlog'i nafasi."
     },
@@ -13924,6 +14503,7 @@ const adabiyotData = {
           "text": "Sayr-sayohat"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ma'naviy poklik da'vati."
     },
@@ -13948,6 +14528,7 @@ const adabiyotData = {
           "text": "Inson qalbining uyg'onishi va yasharishi sifatida"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Lirik kechinmalar uyg'unligi."
     },
@@ -13972,6 +14553,7 @@ const adabiyotData = {
           "text": "Dante"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bayron lirikasi va turk she'riyati."
     },
@@ -13996,6 +14578,7 @@ const adabiyotData = {
           "text": "Lola"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Vatanga sadoqat madhiyasi."
     },
@@ -14020,6 +14603,7 @@ const adabiyotData = {
           "text": "'Saodat' jurnali"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbek xotin-qizlari jurnali 'Saodat'."
     },
@@ -14044,6 +14628,7 @@ const adabiyotData = {
           "text": "Komedik holat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'zbek psixologik nasri yutug'i."
     },
@@ -14068,6 +14653,7 @@ const adabiyotData = {
           "text": "Olim bo'lish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vatan va baxt tushunchasi."
     },
@@ -14092,6 +14678,7 @@ const adabiyotData = {
           "text": "Lolazor"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sovet tuzumining yemirilishi davri 'Lolazor'da aks etgan."
     },
@@ -14116,6 +14703,7 @@ const adabiyotData = {
           "text": "'Shum bola' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'zbek xalq qahramonlik eposi 'Alpomish' dostonida Alpomishning asl ismi nima bo'lgan?» savolining to'g'ri javobi — Hakimbek. Alpomishning yoshlikdagi ismi Hakimbek."
     },
@@ -14140,6 +14728,7 @@ const adabiyotData = {
           "text": "'Otamdan qolgan dalalar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Alpomish' dostonida Alpomish va Barchinoy beshikkerti qilingan qabila qaysi?» savolining to'g'ri javobi — Qo'ng'irot urug'i. 16 urug' Qo'ng'irot eli."
     },
@@ -14164,6 +14753,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Xamsa (Panj ganj)' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Alpomish' dostonida Boysari nega o'z elini tark etib Qalmoq yurtiga ko'chadi?» savolining to'g'ri javobi — Boybo'rining zakot talab qilganidan orlanib. Zakot to'lashni o'ziga nomus bilib ko'chadi."
     },
@@ -14188,6 +14778,7 @@ const adabiyotData = {
           "text": "'Go'ro'g'li' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Alpomish' dostonida Qalmoq yurtida Alpomishga birodar tutingan alp kim?» savolining to'g'ri javobi — Qorajon. Qorajon Alpomish bilan do'st tutinadi."
     },
@@ -14212,6 +14803,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Mahmud Qoshg'ariy qalamiga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Alpomish' dostonida Barchinoyning 4 ta shartidan birinchisi nima edi?» savolining to'g'ri javobi — Ming chaqirimdan poyga qilib ot chopish. Poyga, yoy tortish, tanga ilish, kurash."
     },
@@ -14236,6 +14828,7 @@ const adabiyotData = {
           "text": "'Hayrat ul-abror' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Alpomish' dostonida Boybo'rining yilqichisi, Alpomish zindondan chiqqach birinchi uchratgan vafodor cho'pon kim?» savolining to'g'ri javobi — Qultoy. Qultoy - sadoqatli yilqichi."
     },
@@ -14260,6 +14853,7 @@ const adabiyotData = {
           "text": "'Ona lochin nidosi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Go'ro'g'lining tug'ilishi' dostonida Go'ro'g'lining otasi Ravshanbekning ko'zini o'ygan zolim hukmdor kim?» savolining to'g'ri javobi — Hilol podsho. Hilol podsho xiyonatda gumon qilib Ravshanbek ko'zini o'ydiradi."
     },
@@ -14284,6 +14878,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Otello' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Go'ro'g'li' turkumi dostonlarida Go'ro'g'lining vafodor samoviy tulpori qanday ataladi?» savolining to'g'ri javobi — G'irot. Go'ro'g'lining mashhur oti G'irot."
     },
@@ -14308,6 +14903,7 @@ const adabiyotData = {
           "text": "'Layli va Majnun' dostonida Majnunning asl ismi nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Ravshan' dostonida Ravshan kimning qizi Zulxumor ishqida Shirvon eliga yo'l oladi?» savolining to'g'ri javobi — Orazgaldixon. Shirvon xoni Orazgaldining qizi Zulxumor."
     },
@@ -14332,6 +14928,7 @@ const adabiyotData = {
           "text": "Boburning aruz vazniga bag'ishlangan ilmiy risolasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Kuntug'mish' dostonida Kuntug'mish qaysi yurt malikasi Xolbekaga oshiq bo'ladi?» savolining to'g'ri javobi — Zangar yurti. Zangar yurti malikasi Xolbeka."
     },
@@ -14356,6 +14953,7 @@ const adabiyotData = {
           "text": "'Kuntug'mish' dostonida Kuntug'mish va Xolbekaning egizak o'g'illari qanday nomlanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Kuntug'mish' dostonida Kuntug'mish va Xolbekaning egizak o'g'illari qanday nomlanadi?» savolining to'g'ri javobi — Gurkiboy va Mohiboy. Gurkiboy va Mohiboy."
     },
@@ -14380,6 +14978,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Romeo va Juletta' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'To'maris' afsonasida massagetlar malikasi To'maris qaysi bosqinchi Ahamoniylar shohining kallasini qon to'ldirilgan meshga soldi?» savolining to'g'ri javobi — Kir II. Kir II bosqinchi bo'lib kelganda mahv etiladi."
     },
@@ -14404,6 +15003,7 @@ const adabiyotData = {
           "text": "'Shiroq' afsonasida qahramon cho'pon Shiroq o'z elini qutqarish uchun kimning qo'shinini dashtga adashtirib boshlaydi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Shiroq' afsonasida qahramon cho'pon Shiroq o'z elini qutqarish uchun kimning qo'shinini dashtga adashtirib boshlaydi?» savolining to'g'ri javobi — Doro I qo'shinini. Shiroq Doro I qo'shinini dashtga aldab boshlaydi."
     },
@@ -14428,6 +15028,7 @@ const adabiyotData = {
           "text": "Misrada qaysi badiiy san'at yetakchi: 'Besh ketdim bu ko'rkam qomatingga...'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«O'rxun-Enasoy obidalaridan qaysi biri Kul tegin sharafiga bitilgan va uning muallifi kim?» savolining to'g'ri javobi — Kul tegin bitigi, muallifi Yo'llug' tegin. Bitiktosh muallifi Yo'llug' tegin."
     },
@@ -14452,6 +15053,7 @@ const adabiyotData = {
           "text": "To'nyuquq bitiktoshi qaysi turk xoqonligining maslahatchisi va bosh vaziri hayotiga bag'ishlangan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«To'nyuquq bitiktoshi qaysi turk xoqonligining maslahatchisi va bosh vaziri hayotiga bag'ishlangan?» savolining to'g'ri javobi — Ikkinchi Turk xoqonligi. Ikkinchi Turk xoqonligi bosh vaziri To'nyuquq."
     },
@@ -14476,6 +15078,7 @@ const adabiyotData = {
           "text": "'Hakim va ajal' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Qadimgi turkiy yozma yodgorlik 'Irq bitigi' asari qanday mazmundagi kitob hisoblanadi?» savolining to'g'ri javobi — Fol ochish va ta'birlar kitobi. Qadimgi turkiy fol kitobi."
     },
@@ -14500,6 +15103,7 @@ const adabiyotData = {
           "text": "'Qisasi Rabg'uziy' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Yusuf Xos Hojibning 'Qutadg'u bilig' dostoni qaysi hukmdorga bag'ishlab taqdim etilgan?» savolining to'g'ri javobi — Tavg'ach Bug'roxon (Abu Ali Hasan). Qashqarda Tavg'ach Bug'roxonga tortiq etilgan."
     },
@@ -14524,6 +15128,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig' asari nechanchi yilda va qaysi shaharda yakunlangan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Qutadg'u bilig' asari nechanchi yilda va qaysi shaharda yakunlangan?» savolining to'g'ri javobi — 1069-1070-yillarda Qashqarda. Bolasog'unda boshlanib, Qashqarda tugatilgan."
     },
@@ -14548,6 +15153,7 @@ const adabiyotData = {
           "text": "'Mubayyin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Qutadg'u bilig' dostonida Oytoldi nimaning timsoli hisoblanadi?» savolining to'g'ri javobi — Davlat (baxt, iqbol). Oytoldi - davlat va baxt timsoli."
     },
@@ -14572,6 +15178,7 @@ const adabiyotData = {
           "text": "'Alpomish' dostonida Alpomish va Barchinoy beshikkerti qilingan qabila qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Qutadg'u bilig'da O'zg'urmish qahramoni nimaning ramzi hisoblanadi?» savolining to'g'ri javobi — Qanoat va oqibat (zuhd). O'zg'urmish - qanoat timsoli."
     },
@@ -14596,6 +15203,7 @@ const adabiyotData = {
           "text": "Adabiyotshunoslikda 'Irsoli masal' badiiy san'ati qanday ta'riflanadi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Mahmud Qoshg'ariyning 'Devonu lug'otit turk' asari nechanchi yillarda yaratilgan va kimga bag'ishlangan?» savolining to'g'ri javobi — 1072-1074-yillarda, Bag'dod xalifasi Al-Muqtadiyga. Abbosiy xalifa Al-Muqtadiy biamrillohga atalgan."
     },
@@ -14620,6 +15228,7 @@ const adabiyotData = {
           "text": "Muhammad Rizo Ogahiy qaysi sohaga beqiyos hissa qo'shgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«'Devonu lug'otit turk' asarida qadimgi turkiy qabilalarning xaritasi ilova qilingan. Unda dunyoning markazi qilib qaysi shahar ko'rsatilgan?» savolining to'g'ri javobi — Bolasog'un. Bolasog'un markaz deb olingan."
     },
@@ -14644,6 +15253,7 @@ const adabiyotData = {
           "text": "'Alp Er To'nga' marsiyasi ilk bor qaysi yozma manbada uchraydi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Alp Er To'nga' marsiyasi ilk bor qaysi yozma manbada uchraydi?» savolining to'g'ri javobi — 'Devonu lug'otit turk'da. Qoshg'ariy devonida parchalari keltirilgan."
     },
@@ -14668,6 +15278,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Mahmudxo'ja Behbudiy qalamiga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Ahmad Yugnakiyning 'Hibat ul-haqoyiq' (Haqiqatlar armug'oni) asari qaysi vaznda yozilgan?» savolining to'g'ri javobi — Mutaqorib bahrida. Mutaqoribi musammani mahzuf vaznida."
     },
@@ -14692,6 +15303,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Ahmad Yassaviy qaysi tasavvufiy tariqatning asoschisi hisoblanadi?» savolining to'g'ri javobi — Yassaviylik. Turkiy tasavvuf asoschisi Yassaviy."
     },
@@ -14716,6 +15328,7 @@ const adabiyotData = {
           "text": "'Tanobchilar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Sulaymon Boqirg'oniy (Hakim ota) qaysi buyuk mutasavvifning to'rtinchi xalifasi hisoblanadi?» savolining to'g'ri javobi — Ahmad Yassaviyning. Yassaviyning shogirdi Hakim ota."
     },
@@ -14740,6 +15353,7 @@ const adabiyotData = {
           "text": "'Hakim va ajal' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Nosiruddin Rabg'uziyning 'Qisasi Rabg'uziy' asari qachon yaratilgan?» savolining to'g'ri javobi — 1309-1310-yillarda. Nosiriddin To'qbug'a iltimosiga ko'ra yozilgan."
     },
@@ -14764,6 +15378,7 @@ const adabiyotData = {
           "text": "O'tkir Hoshimovning 'Ikki eshik orasi' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Sayfi Saroyining mashhur original dostoni qaysi?» savolining to'g'ri javobi — Suhayl va Guldursun. 'Suhayl va Guldursun' dostoni muallifi."
     },
@@ -14788,6 +15403,7 @@ const adabiyotData = {
           "text": "Zavqiyning satirik va dardli mashhur asari qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Nizomiy Ganjaviyning 'Xusrav va Shirin' dostonini 1341-yilda turkiy tilga ilk bor erkin tarjima qilgan shoir kim?» savolining to'g'ri javobi — Qutb. Qutb Tinibekxonga atab tarjima qilgan."
     },
@@ -14812,6 +15428,7 @@ const adabiyotData = {
           "text": "'Turkiy Guliston yoxud axloq' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Xorazmiyning 'Muhabbatnoma' asari qaysi janrda yozilgan va necha nomadan iborat?» savolining to'g'ri javobi — Nomalar majmuasi, 10 ta nomadan iborat. Jonibekxon saroyida yozilgan 10 ta noma."
     },
@@ -14836,6 +15453,7 @@ const adabiyotData = {
           "text": "'O'zgalar she'ridan biror misra yoki baytni o'z she'riga kiritib ketish' - ushbu ta'rif qaysi mumtoz she'riyat san'atiga tegishli?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Haydar Xorazmiyning xalq orasida mashhur bo'lgan va Maxzan ul-asrorga tatabbu tarzida yozilgan asari qaysi?» savolining to'g'ri javobi — Maxzan ul-asror (Sirlar xazinasi). Haydar Xorazmiy Nizomiyga ergashgan."
     },
@@ -14860,6 +15478,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Abdulhamid Cho'lpon qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Amir Temur, Xalil Sulton va Ulug'bekka qasidalar bitgan XV asr shoiri kim?» savolining to'g'ri javobi — Sakkokiy. Mavlono Sakkokiy."
     },
@@ -14884,6 +15503,7 @@ const adabiyotData = {
           "text": "G'afur G'ulom qaysi asari uchun 1943-yilda SSSR Davlat mukofotiga sazovor bo'lgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Ul sanamkim suv qirog'inda paritek o'lturur...' deb boshlanuvchi mashhur g'azal muallifi kim?» savolining to'g'ri javobi — Atoiy. Mavlono Atoiy g'azali."
     },
@@ -14908,6 +15528,7 @@ const adabiyotData = {
           "text": "Alisher Navoiy o'zining 'Majolis un-nafois' asarida 'o'z davrining malik ul-kalomi' deb qaysi keksaygan shoirni e'zozlagan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Alisher Navoiy o'zining 'Majolis un-nafois' asarida 'o'z davrining malik ul-kalomi' deb qaysi keksaygan shoirni e'zozlagan?» savolining to'g'ri javobi — Mavlono Lutfiy. Lutfiy Navoiy tomonidan yuksak baholangan."
     },
@@ -14932,6 +15553,7 @@ const adabiyotData = {
           "text": "Lutfiyning mashhur dostoni qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Lutfiyning mashhur dostoni qaysi?» savolining to'g'ri javobi — Gul va Navro'z. Lutfiyning 'Gul va Navro'z' masnaviysi."
     },
@@ -14956,6 +15578,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Iliada' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Durbekning 1409-yilda Balx qamali paytida yozilgan mashhur dostoni qaysi?» savolining to'g'ri javobi — Yusuf va Zulayho. Durbek 'Yusuf va Zulayho'ni yozgan."
     },
@@ -14980,6 +15603,7 @@ const adabiyotData = {
           "text": "'Jimjitlik' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Alisher Navoiy qachon va qayerda tug'ilgan?» savolining to'g'ri javobi — 1441-yil 9-fevralda Hirot shahrida. Hirotda G'iyosiddin Kichkina xonadonida."
     },
@@ -15004,6 +15628,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning otasi G'iyosiddin Kichkina qanday lavozimda ishlagan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Alisher Navoiyning otasi G'iyosiddin Kichkina qanday lavozimda ishlagan?» savolining to'g'ri javobi — Bahodir (saroy xizmatchisi). Temuriylar saroyidagi e'tiborli amaldor."
     },
@@ -15028,6 +15653,7 @@ const adabiyotData = {
           "text": "Navoiy 1466-1469-yillarda qaysi shaharda yashab, Fazlulloh Abullaysiydan ta'lim oladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Navoiy 1466-1469-yillarda qaysi shaharda yashab, Fazlulloh Abullaysiydan ta'lim oladi?» savolining to'g'ri javobi — Samarqandda. Samarqand madrasalarida huquq va adabiyot."
     },
@@ -15052,6 +15678,7 @@ const adabiyotData = {
           "text": "'O'tkan kunlar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Husayn Boyqaro 1469-yilda Hirot taxtini egallagach, Navoiyga dastlab qaysi lavozimni beradi?» savolining to'g'ri javobi — Muhrdorlik lavozimini. 1469-yilda muhrdor etib tayinlangan."
     },
@@ -15076,6 +15703,7 @@ const adabiyotData = {
           "text": "Navoiy 1487-1489-yillarda qaysi viloyatga hokim qilib jo'natiladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Navoiy 1487-1489-yillarda qaysi viloyatga hokim qilib jo'natiladi?» savolining to'g'ri javobi — Astrobodga. Husayn Boyqaro uni Astrobodga yuboradi."
     },
@@ -15100,6 +15728,7 @@ const adabiyotData = {
           "text": "Navoiy forsiy tilda qaysi taxallus bilan devon tuzgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Navoiyning 'Xazoyin ul-maoniy' kulliyoti nechta devonni o'z ichiga oladi?» savolining to'g'ri javobi — 4 ta devonni. Chor devon: G'aroyib us-sig'ar, Navodir ush-shabob, Badoyi ul-vasat, Favoyid ul-kibor."
     },
@@ -15124,6 +15753,7 @@ const adabiyotData = {
           "text": "Mahmud Qoshg'ariyning 'Devonu lug'otit turk' asari nechanchi yillarda yaratilgan va kimga bag'ishlangan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Navoiyning bolalik davri she'rlarini jamlagan devoni qaysi?» savolining to'g'ri javobi — G'aroyib us-sig'ar. G'aroyib us-sig'ar - bolalik g'aroyibotlari."
     },
@@ -15148,6 +15778,7 @@ const adabiyotData = {
           "text": "Chingiz Aytmatovning 'Alvido, Gulsari!' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Navoiyning yigitlik davri she'rlari jamlangan ikkinchi devoni qaysi?» savolining to'g'ri javobi — Navodir ush-shabob. Navodir ush-shabob - yigitlik nodirliklari."
     },
@@ -15172,6 +15803,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Alvido, Gulsari!' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Navoiyning o'rta yosh davri she'rlari jamlangan uchinchi devoni qaysi?» savolining to'g'ri javobi — Badoyi ul-vasat. Badoyi ul-vasat - o'rta yosh go'zalliklari."
     },
@@ -15196,6 +15828,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Mahbub ul-qulub' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Navoiyning keksaygan davri she'rlari jamlangan to'rtinchi devoni qaysi?» savolining to'g'ri javobi — Favoyid ul-kibor. Favoyid ul-kibor - keksalik foydalari."
     },
@@ -15220,6 +15853,7 @@ const adabiyotData = {
           "text": "Navoiy forsiy tilda qaysi taxallus bilan devon tuzgan?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Navoiy forsiy tilda qaysi taxallus bilan devon tuzgan?» savolining to'g'ri javobi — Foniy ('Devoni Foniy'). Forsiy she'rlarida Foniy taxallusi."
     },
@@ -15244,6 +15878,7 @@ const adabiyotData = {
           "text": "Abdulla Qodiriyning 'O'tkan kunlar' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Navoiy 'Xamsa' dostonlarini yozishni nechanchi yillarda amalga oshirgan?» savolining to'g'ri javobi — 1483-1485-yillarda. Qisqa muddatda birinchi turkiy Xamsa yaratildi."
     },
@@ -15268,6 +15903,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Urush va tinchlik' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Navoiy 'Hayrat ul-abror' dostonida Nizomiyning qaysi dostoniga ergashgan?» savolining to'g'ri javobi — Maxzan ul-asror. Nizomiy 'Maxzan ul-asror'iga javob."
     },
@@ -15292,6 +15928,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' dostonida Farhod kimning o'g'li bo'lib tug'iladi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Farhod va Shirin' dostonida Farhod kimning o'g'li bo'lib tug'iladi?» savolining to'g'ri javobi — Xoqoni Chin. Xitoy xoqonining yolg'iz valiahdi."
     },
@@ -15316,6 +15953,7 @@ const adabiyotData = {
           "text": "Furqat umrining so'nggi yillarini qaysi shaharda o'tkazdi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Farhod va Shirin' dostonida Farhodga tilsim yo'lini ko'rsatgan yunon hakimi kim?» savolining to'g'ri javobi — Suqrot (Sokrat). Yunon hakimi Suqrot sirlarni ochadi."
     },
@@ -15340,6 +15978,7 @@ const adabiyotData = {
           "text": "'Qisasi Rabg'uziy' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Farhod va Shirin' dostonida Farhodning Arman eliga qazigan arig'i qaysi tog'dan o'tadi?» savolining to'g'ri javobi — Bisotun tog'idan. Bisotun qoyasini po'lat cho'kich bilan teshib o'tadi."
     },
@@ -15364,6 +16003,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' dostonida Farhodning sadoqatli do'sti va mohir rassom kim?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Farhod va Shirin' dostonida Farhodning sadoqatli do'sti va mohir rassom kim?» savolining to'g'ri javobi — Shopur. Shopur Farhodning eng yaqin yo'ldoshi."
     },
@@ -15388,6 +16028,7 @@ const adabiyotData = {
           "text": "'Layli va Majnun' dostonida Majnunning asl ismi nima?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Layli va Majnun' dostonida Majnunning asl ismi nima?» savolining to'g'ri javobi — Qays. Bani Omir qabilasidan Qays."
     },
@@ -15412,6 +16053,7 @@ const adabiyotData = {
           "text": "'Layli va Majnun' dostonida Laylining xohishiga qarshi unga er qilib berilgan kishi kim?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Layli va Majnun' dostonida Laylining xohishiga qarshi unga er qilib berilgan kishi kim?» savolining to'g'ri javobi — Ibn Salom. Badavlat Ibn Salomga majburlab uzatiladi."
     },
@@ -15436,6 +16078,7 @@ const adabiyotData = {
           "text": "'Ko'hna dunyo' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Sab'ai sayyor' dostonining bosh qahramoni kim?» savolining to'g'ri javobi — Bahrom Go'r. Bahrom va uning sevgilisi Dilorom."
     },
@@ -15460,6 +16103,7 @@ const adabiyotData = {
           "text": "'Tohir va Zuhra' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Sab'ai sayyor' dostonida Dilorom qaysi musiqa asbobini chalgan?» savolining to'g'ri javobi — Barbat (ud). Dilorom mohir sozanda va barbatnavoz."
     },
@@ -15484,6 +16128,7 @@ const adabiyotData = {
           "text": "'Saddi Iskandariy' dostonida Iskandar kimlarning yo'lini to'sish uchun ulkan to'g'on quradi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Saddi Iskandariy' dostonida Iskandar kimlarning yo'lini to'sish uchun ulkan to'g'on quradi?» savolining to'g'ri javobi — Yajuj va Majuj. Yajuj va Majuj balosidan dunyoni asrash."
     },
@@ -15508,6 +16153,7 @@ const adabiyotData = {
           "text": "Navoiyning Farididdin Attorning 'Mantiq ut-tayr' asariga javoban yozgan dostoni qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Navoiyning Farididdin Attorning 'Mantiq ut-tayr' asariga javoban yozgan dostoni qaysi?» savolining to'g'ri javobi — Lison ut-tayr (Qushlar tili). Simurg'ni qidirgan qushlar timsolida tasavvufiy sayr."
     },
@@ -15532,6 +16178,7 @@ const adabiyotData = {
           "text": "Nizomiy Ganjaviyning 'Xusrav va Shirin' dostonini 1341-yilda turkiy tilga ilk bor erkin tarjima qilgan shoir kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Navoiyning 1500-yilda yozilgan ijtimoiy-axloqiy nasriy asari qaysi?» savolining to'g'ri javobi — Mahbub ul-qulub. 3 qismdan iborat umr yakuni asari."
     },
@@ -15556,6 +16203,7 @@ const adabiyotData = {
           "text": "Misrada qaysi badiiy san'at yetakchi: 'Oq yuzingda qora xolingni ko'rib...'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Navoiy o'zbek tilining forsiy tildan kam emasligini isbotlagan asari qaysi?» savolining to'g'ri javobi — Muhokamat ul-lug'atayn. 1499-yilda yozilgan nodir lingvistik asar."
     },
@@ -15580,6 +16228,7 @@ const adabiyotData = {
           "text": "'Yodgor' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Navoiyning aruz vazni va turkiy she'r o'lchovlariga bag'ishlangan risolasi qaysi?» savolining to'g'ri javobi — Mezon ul-avzon. Turkiy bahrlar va tuyuqlar bayoni."
     },
@@ -15604,6 +16253,7 @@ const adabiyotData = {
           "text": "'Zaharli hayot' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Navoiyning ilk o'zbek tazkirasi hisoblangan asari qaysi?» savolining to'g'ri javobi — Majolis un-nafois. 8 majlisdan iborat shoirlar tazkirasi."
     },
@@ -15628,6 +16278,7 @@ const adabiyotData = {
           "text": "'Muhabbatnoma' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Navoiy ustozi Abdurahmon Jomiy vafotiga atab yozgan asari qaysi?» savolining to'g'ri javobi — Xamsat ul-mutahayyirin. Hayratlanarli beshlik - Jomiy xotirasiga."
     },
@@ -15652,6 +16303,7 @@ const adabiyotData = {
           "text": "'Padarkush' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Navoiyning ma'naviy otasi Sayyid Hasan Ardasher xotirasiga yozgan asari qaysi?» savolining to'g'ri javobi — Holoti Sayyid Hasan Ardasher. Ustozga cheksiz ehtirom namunasi."
     },
@@ -15676,6 +16328,7 @@ const adabiyotData = {
           "text": "'Layli va Majnun' dostonida Majnunning asl ismi nima?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Navoiy pahlavon do'sti Muhammad xotirasiga atab qaysi asarni yozgan?» savolining to'g'ri javobi — Holoti Pahlavon Muhammad. Falsafa, tabobat va kurash ustasi Pahlavon Muhammad haqida."
     },
@@ -15700,6 +16353,7 @@ const adabiyotData = {
           "text": "Navoiyning ilk o'zbek tazkirasi hisoblangan asari qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Zahiriddin Muhammad Bobur qachon va qayerda tug'ilgan?» savolining to'g'ri javobi — 1483-yil 14-fevralda Andijonda. Andijonda Umarshayx Mirzo oilasida."
     },
@@ -15724,6 +16378,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Zahiriddin Muhammad Bobur qalamiga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Bobur Mirzo necha yoshida Andijon taxtiga o'tirdi?» savolining to'g'ri javobi — 12 yoshida. 1494-yilda otasi vafot etgach."
     },
@@ -15748,6 +16403,7 @@ const adabiyotData = {
           "text": "Chingiz Aytmatovning 'Asrga tatigulik kun' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Bobur Mirzo 1526-yilda qaysi jangda Ibrohim Lo'diyni yengib, Boburiylar saltanatiga asos soldi?» savolining to'g'ri javobi — Panipat jangida. Panipat jangi tarixiy burilish bo'ldi."
     },
@@ -15772,6 +16428,7 @@ const adabiyotData = {
           "text": "'Yusuf va Zulayho' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Boburning qabri qaysi shahardagi bog'da joylashgan?» savolining to'g'ri javobi — Kobul shahrida ('Bog'i Bobur'). Vasiyatiga ko'ra Kobulda dafn etilgan."
     },
@@ -15796,6 +16453,7 @@ const adabiyotData = {
           "text": "'Oydinda yurgan odamlar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Bobur yaratgan yangi turkiy alifbo qanday nomlangan?» savolining to'g'ri javobi — Xatti Boburiy. Xatti Boburiyda Qur'on ko'chirilgan."
     },
@@ -15820,6 +16478,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Said Ahmad qalamiga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Boburning farzandlariga islom fiqhini o'rgatuvchi she'riy asari qaysi?» savolining to'g'ri javobi — Mubayyin. Mubayyin - fiqh masalalarining nazmiy bayoni."
     },
@@ -15844,6 +16503,7 @@ const adabiyotData = {
           "text": "Boburning aruz vazniga bag'ishlangan ilmiy risolasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Boburning aruz vazniga bag'ishlangan ilmiy risolasi qaysi?» savolining to'g'ri javobi — Muxtasar. Turkiy aruzning ikkinchi yirik nazariy manbasi."
     },
@@ -15868,6 +16528,7 @@ const adabiyotData = {
           "text": "Boburning qizi Gulbadanbegim otasi va akasi davri haqida qaysi tarixiy asarni yozgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Boburning qizi Gulbadanbegim otasi va akasi davri haqida qaysi tarixiy asarni yozgan?» savolining to'g'ri javobi — Humoyunnoma. Humoyunnoma - ayol kishi yozgan nodir tarixiy asar."
     },
@@ -15892,6 +16553,7 @@ const adabiyotData = {
           "text": "'Go'ro'g'li' turkumi dostonlarida Go'ro'g'lining vafodor samoviy tulpori qanday ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Boborahim Mashrab 1711-yilda kimning hukmi bilan Balxda qatl etilgan?» savolining to'g'ri javobi — Mahmud Qatag'on. Balx hokimi Mahmud Qatag'on tomonidan."
     },
@@ -15916,6 +16578,7 @@ const adabiyotData = {
           "text": "Misrada qaysi badiiy san'at yetakchi: 'Tishlaring dur-u dudoqlaring la'ldir...'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Turdi Forig'iy Subhonqulixon davridagi Buxoroda beklar adovatini qoralab qaysi she'rni yozgan?» savolining to'g'ri javobi — 'Tor ko'ngullik beklar, man-man demang...'. Urug'lararo birdamlikka chaqirgan."
     },
@@ -15940,6 +16603,7 @@ const adabiyotData = {
           "text": "'O'zgalar she'ridan biror misra yoki baytni o'z she'riga kiritib ketish' - ushbu ta'rif qaysi mumtoz she'riyat san'atiga tegishli?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«So'fi Olloyorning butun Movarounnahrda darslik bo'lgan axloqiy asari qaysi?» savolining to'g'ri javobi — Sabot ul-ojizin. Sabot ul-ojizin turkiy tilda yozilgan."
     },
@@ -15964,6 +16628,7 @@ const adabiyotData = {
           "text": "'Mirzo Ulug'bek' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qo'qon adabiy muhitida 'Amiriy' taxallusi bilan devon tuzgan hukmdor kim?» savolining to'g'ri javobi — Amir Umarxon. Umarxon shoirlarga homiylik qilgan."
     },
@@ -15988,6 +16653,7 @@ const adabiyotData = {
           "text": "'Dilbar - davr qizi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Nodirabegim turkiy va forsiyda qaysi taxalluslar bilan she'rlar yozgan?» savolining to'g'ri javobi — Nodira, Komila va Maknuna. Turkiyda Nodira va Komila, forsiyda Maknuna."
     },
@@ -16012,6 +16678,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Sayyodiy qalamiga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Uvaysiy mumtoz adabiyotimizda qaysi janrning mohir ustasi sanaladi?» savolining to'g'ri javobi — Chiston (topishmoq). Anor va tabiat mavzusidagi chistonlar."
     },
@@ -16036,6 +16703,7 @@ const adabiyotData = {
           "text": "'Mehrobdan chayon'da Xudoyorxon saroyidagi amaldorlar qanday illat timsoli?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Xiva xonligida Munis va Ogahiy hamkorlikda yaratgan yirik tarixiy asar qaysi?» savolining to'g'ri javobi — Firdavs ul-iqbol. Xiva xonlari yilnomasi."
     },
@@ -16060,6 +16728,7 @@ const adabiyotData = {
           "text": "Odil Yoqubovning 'Ulug'bek xazinasi' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Muhammad Rizo Ogahiy qaysi sohaga beqiyos hissa qo'shgan?» savolining to'g'ri javobi — Badiiy tarjima (20 ga yaqin yirik asarni forsiydan o'zbekchaga). Nizomiy, Sa'diy, Jomiy asarlarini o'zbek tiliga tarjima qilgan."
     },
@@ -16084,6 +16753,7 @@ const adabiyotData = {
           "text": "Muhammad Rahimxon II (Feruz) davrida Xivada qanday madaniy yangilik bo'ldi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Muhammad Rahimxon II (Feruz) davrida Xivada qanday madaniy yangilik bo'ldi?» savolining to'g'ri javobi — Ilk bor toshbosma (litografiya) nashriyoti ochildi. Toshbosmada devonlar chop etilgan."
     },
@@ -16108,6 +16778,7 @@ const adabiyotData = {
           "text": "'She'riy bayt ichida xalq maqoli yoki hikmatli so'zni mahorat bilan ishlatish' - ushbu ta'rif qaysi mumtoz she'riyat san'atiga tegishli?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Avaz O'tarning ma'rifatparvarlik ruhidagi mashhur g'azali qaysi?» savolining to'g'ri javobi — 'Til', 'Maktab', 'Topar'. Millat tilini va maktabni ardoqlash."
     },
@@ -16132,6 +16803,7 @@ const adabiyotData = {
           "text": "Sa'diy Sheroziyning 'Guliston' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ahmad Donish Buxoro amirligi tuzumini qattiq tanqid qilgan qaysi asarni yozgan?» savolining to'g'ri javobi — Navodir ul-vaqoe. Ahmad Kalla nomi bilan mashhur mutafakkir."
     },
@@ -16156,6 +16828,7 @@ const adabiyotData = {
           "text": "To'nyuquq bitiktoshi qaysi turk xoqonligining maslahatchisi va bosh vaziri hayotiga bag'ishlangan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Muqimiyning satirik ruhi eng kuchli bo'lgan mashhur asari qaysi?» savolining to'g'ri javobi — Tanobchilar. Hakimjon va Sulton Ali pachoq kirdikorlari."
     },
@@ -16180,6 +16853,7 @@ const adabiyotData = {
           "text": "Furqat umrining so'nggi yillarini qaysi shaharda o'tkazdi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Furqat umrining so'nggi yillarini qaysi shaharda o'tkazdi?» savolining to'g'ri javobi — Yorqandda (Sharqiy Turkiston). Vatandan quvg'inda Yorqandda vafot etdi."
     },
@@ -16204,6 +16878,7 @@ const adabiyotData = {
           "text": "'Ot kishnagan oqshom' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Zavqiyning satirik va dardli mashhur asari qaysi?» savolining to'g'ri javobi — Ajab zamona. Zamon qiyinchiliklari va poraxo'rlik tanqidi."
     },
@@ -16228,6 +16903,7 @@ const adabiyotData = {
           "text": "Bobur Mirzo 1526-yilda qaysi jangda Ibrohim Lo'diyni yengib, Boburiylar saltanatiga asos soldi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Mahmudxo'ja Behbudiy 1913-yilda qaysi gazeta va jurnalni nashr ettirdi?» savolining to'g'ri javobi — 'Samarqand' gazetasi va 'Oyna' jurnali. Behbudiy 'Oyna' orqali millatni uyg'otdi."
     },
@@ -16252,6 +16928,7 @@ const adabiyotData = {
           "text": "Behbudiyning 1911-yilda yozilgan birinchi o'zbek dramasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Behbudiyning 1911-yilda yozilgan birinchi o'zbek dramasi qaysi?» savolining to'g'ri javobi — Padarkush. Toshmurod va boyning nodonlik fojiasi."
     },
@@ -16276,6 +16953,7 @@ const adabiyotData = {
           "text": "'Zaharli hayot' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Munavvarqori Abdurashidxonov Toshkentda qanday maktablar ochdi?» savolining to'g'ri javobi — Usuli jadid (savtiya) maktablari. Yangi usulda qisqa muddatda savod chiqarish."
     },
@@ -16300,6 +16978,7 @@ const adabiyotData = {
           "text": "Abdulla Avloniy qaysi mashhur asarida 'Tarbiya biz uchun yo hayot – yo mamot...' deydi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Abdulla Avloniy qaysi mashhur asarida 'Tarbiya biz uchun yo hayot – yo mamot...' deydi?» savolining to'g'ri javobi — Turkiy Guliston yoxud axloq. Axloq va tarbiya kitobida."
     },
@@ -16324,6 +17003,7 @@ const adabiyotData = {
           "text": "So'fi Olloyorning butun Movarounnahrda darslik bo'lgan axloqiy asari qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Abdurauf Fitratning 1911-yilda Istanbulda chop etilgan mashhur asari qaysi?» savolining to'g'ri javobi — Munozara. Hindistonlik farangi va Buxorolik mudarris munozarasi."
     },
@@ -16348,6 +17028,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Fitratning Ashtarxoniylar sulolasi fojiasiga atalgan pyesasi qaysi?» savolining to'g'ri javobi — Abulfayzxon. Abulfayzxon va Nodirshoh to'qnashuvi."
     },
@@ -16372,6 +17053,7 @@ const adabiyotData = {
           "text": "Lutfiyning 'Gul va Navro'z' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Cho'lponning 1922-yilda chop etilgan ilk she'riy to'plami qaysi?» savolining to'g'ri javobi — Uyg'onish. 1922-yil Uyg'onish to'plami."
     },
@@ -16396,6 +17078,7 @@ const adabiyotData = {
           "text": "'Muxtasar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Cho'lponning 'Kecha va kunduz' romanida Zebining otasi kim?» savolining to'g'ri javobi — Razzoq so'fi. Qattiqqo'l va mutaassib Razzoq so'fi."
     },
@@ -16420,6 +17103,7 @@ const adabiyotData = {
           "text": "'Tushda kechgan umrlar' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Abdulla Qodiriyning 'O'tkan kunlar' romani qachon kitob holida chop etildi?» savolining to'g'ri javobi — 1926-yilda. Dastlab 1922-yildan jurnallarda e'lon qilingan."
     },
@@ -16444,6 +17128,7 @@ const adabiyotData = {
           "text": "'Ufq' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Qodiriyning 'Mehrobdan chayon' romanida Anvarning sevgilisi kim?» savolining to'g'ri javobi — Ra'no. Solih maxdumning qizi Ra'no."
     },
@@ -16468,6 +17153,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Ahmad Yugnakiy qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Oybekning ilk o'zbek she'riy romani qaysi?» savolining to'g'ri javobi — Dilbar - davr qizi (1934). Manzum roman janrida yozilgan."
     },
@@ -16492,6 +17178,7 @@ const adabiyotData = {
           "text": "Aleksandr Pushkinning 'Yevgeniy Onegin' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Oybekning Alisher Navoiy hayotiga bag'ishlangan mashhur romani nechanchi yilda yozildi?» savolining to'g'ri javobi — 1944-yilda ('Navoiy'). Urush yillarida yozilgan shoh asar."
     },
@@ -16516,6 +17203,7 @@ const adabiyotData = {
           "text": "G'afur G'ulomning urush davri fojiasiga atalgan mashhur marsh-she'ri qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«G'afur G'ulomning urush davri fojiasiga atalgan mashhur marsh-she'ri qaysi?» savolining to'g'ri javobi — Sen yetim emassan. Front orti bolalariga atalgan."
     },
@@ -16540,6 +17228,7 @@ const adabiyotData = {
           "text": "G'afur G'ulomning bolalik xotiralari aks etgan mashhur qissasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«G'afur G'ulomning bolalik xotiralari aks etgan mashhur qissasi qaysi?» savolining to'g'ri javobi — Shum bola. Qoravoyning qiziqarli sarguzashtlari."
     },
@@ -16564,6 +17253,7 @@ const adabiyotData = {
           "text": "Oybekning 'Navoiy' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Hamid Olimjonning Oq kiyimlilar qo'zg'oloniga atalgan dramasi qaysi?» savolining to'g'ri javobi — Muqanna. Muqannaning erk uchun mardona kurashi."
     },
@@ -16588,6 +17278,7 @@ const adabiyotData = {
           "text": "Maqsud Shayxzodaning Mirzo Ulug'bek hayoti haqidagi dramasi nechanchi yilda yozilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Maqsud Shayxzodaning Mirzo Ulug'bek hayoti haqidagi dramasi nechanchi yilda yozilgan?» savolining to'g'ri javobi — 1961-yilda ('Mirzo Ulug'bek'). Tarixiy fojia dramasi."
     },
@@ -16612,6 +17303,7 @@ const adabiyotData = {
           "text": "'Hayrat ul-abror' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Said Ahmadning 'Ufq' trilogiyasi qaysi uch qismdan iborat?» savolining to'g'ri javobi — 'Qirq besh kun', 'Hijron kunlarida', 'Ufq bo'sag'asida'. Ufq trilogiyasi qismlari."
     },
@@ -16636,6 +17328,7 @@ const adabiyotData = {
           "text": "'Ravshan' dostonida Ravshan kimning qizi Zulxumor ishqida Shirvon eliga yo'l oladi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Said Ahmadning teatr sahnasida eng ko'p qo'yilgan mashhur komediyasi qaysi?» savolining to'g'ri javobi — Kelinlar qo'zg'oloni. Farmonbibi xonadoni hayoti."
     },
@@ -16660,6 +17353,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Odisseya' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Pirimqul Qodirovning Bobur hayotiga bag'ishlangan romani qaysi?» savolining to'g'ri javobi — Yulduzli tunlar. Bobur Mirzoning butun umr yo'li."
     },
@@ -16684,6 +17378,7 @@ const adabiyotData = {
           "text": "Odil Yoqubovning Mirzo Ulug'bek akademiyasi va fojiasi haqidagi romani qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Odil Yoqubovning Mirzo Ulug'bek akademiyasi va fojiasi haqidagi romani qaysi?» savolining to'g'ri javobi — Ulug'bek xazinasi. Ali Qushchi va Ulug'bek munosabatlari."
     },
@@ -16708,6 +17403,7 @@ const adabiyotData = {
           "text": "Navoiy 'Xamsa' dostonlarini yozishni nechanchi yillarda amalga oshirgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«O'tkir Hoshimovning 'Dunyoning ishlari' asari kimga bag'ishlangan?» savolining to'g'ri javobi — Muallifning o'z onasiga. Lirik xotiralar qissasi."
     },
@@ -16732,6 +17428,7 @@ const adabiyotData = {
           "text": "O'tkir Hoshimovning urush va inson taqdirlari aks etgan romani qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'tkir Hoshimovning urush va inson taqdirlari aks etgan romani qaysi?» savolining to'g'ri javobi — Ikki eshik orasi. Kimsan va Robiya fojiasi."
     },
@@ -16756,6 +17453,7 @@ const adabiyotData = {
           "text": "Tog'ay Murodning qishloq dehqonining fojeiy mehnati aks etgan romani qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Tog'ay Murodning qishloq dehqonining fojeiy mehnati aks etgan romani qaysi?» savolining to'g'ri javobi — Otamdan qolgan dalalar. Dehqonqul timsolida millat fojiasi."
     },
@@ -16780,6 +17478,7 @@ const adabiyotData = {
           "text": "'Mubayyin' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Erkin Vohidovning o'zbek xalqi o'tmishiga atalgan qasidasi qaysi?» savolining to'g'ri javobi — O'zbegim. Erkin Vohidovning mashhur qasidasi."
     },
@@ -16804,6 +17503,7 @@ const adabiyotData = {
           "text": "'Humoyunnoma' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Erkin Vohidovning bengal shoiri Nazrul Islomga atalgan dostoni qaysi?» savolining to'g'ri javobi — Ruhlar isyoni. Falsafiy ruhdagi asar."
     },
@@ -16828,6 +17528,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Halokat' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Abdulla Oripovning 'Jannatga yo'l' dostoni qaysi italyan adibi ruhi bilan hamnafas?» savolining to'g'ri javobi — Dante Aligyeri ('Ilohiy komediya'). Jannat va do'zax falsafasi."
     },
@@ -16852,6 +17553,7 @@ const adabiyotData = {
           "text": "Abdulla Oripov O'zbekiston Respublikasi Davlat Madhiyasi muallifi hisoblanadi. Madhiya matni qachon qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Abdulla Oripov O'zbekiston Respublikasi Davlat Madhiyasi muallifi hisoblanadi. Madhiya matni qachon qabul qilingan?» savolining to'g'ri javobi — 1992-yil 10-dekabrda. 1992-yil 10-dekabrda qonun bilan tasdiqlangan."
     },
@@ -16876,6 +17578,7 @@ const adabiyotData = {
           "text": "'Go'ro'g'li' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Alpomish' asarining muallifi kim?» savolining to'g'ri javobi — O'zbek xalq eposi. 'Alpomish' muallifi O'zbek xalq eposi."
     },
@@ -16900,6 +17603,7 @@ const adabiyotData = {
           "text": "Nizomiy Ganjaviyning 'Xusrav va Shirin' dostonini 1341-yilda turkiy tilga ilk bor erkin tarjima qilgan shoir kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zbek xalq eposining 'Alpomish' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — qahramonlik dostoni. 'Alpomish' - qahramonlik dostoni janridagi asar."
     },
@@ -16924,6 +17628,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri So'fi Olloyor qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Alpomish' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Hakimbek (Alpomish) va Barchinoy. Markaziy qahramonlar: Hakimbek (Alpomish) va Barchinoy."
     },
@@ -16948,6 +17653,7 @@ const adabiyotData = {
           "text": "'Qisasi Rabg'uziy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Alpomish' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish. G'oya: Qalmoq elida Barchin shartlarini bajarish va elni birlashtirish."
     },
@@ -16972,6 +17678,7 @@ const adabiyotData = {
           "text": "Hamid Olimjonning Oq kiyimlilar qo'zg'oloniga atalgan dramasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri O'zbek xalq eposi qalamiga mansub?» savolining to'g'ri javobi — Alpomish. O'zbek xalq eposi 'Alpomish' asarini yaratgan."
     },
@@ -16996,6 +17703,7 @@ const adabiyotData = {
           "text": "'Go'ro'g'li' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Go'ro'g'li' asarining muallifi kim?» savolining to'g'ri javobi — O'zbek xalq eposi. 'Go'ro'g'li' muallifi O'zbek xalq eposi."
     },
@@ -17020,6 +17728,7 @@ const adabiyotData = {
           "text": "O'zbek xalq eposining 'Go'ro'g'li' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbek xalq eposining 'Go'ro'g'li' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — qahramonlik turkumi. 'Go'ro'g'li' - qahramonlik turkumi janridagi asar."
     },
@@ -17044,6 +17753,7 @@ const adabiyotData = {
           "text": "'Ona lochin nidosi' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Go'ro'g'li' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Go'ro'g'li va Avazxon. Markaziy qahramonlar: Go'ro'g'li va Avazxon."
     },
@@ -17068,6 +17778,7 @@ const adabiyotData = {
           "text": "Navoiyning o'rta yosh davri she'rlari jamlangan uchinchi devoni qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Go'ro'g'li' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Chambil yurtini dushmanlardan himoya qilish. G'oya: Chambil yurtini dushmanlardan himoya qilish."
     },
@@ -17092,6 +17803,7 @@ const adabiyotData = {
           "text": "Erkin A'zamning 'Jannat o'zi qaydadir' qissasidagi bosh mavzu nima?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Ravshan' asarining muallifi kim?» savolining to'g'ri javobi — O'zbek xalq eposi. 'Ravshan' muallifi O'zbek xalq eposi."
     },
@@ -17116,6 +17828,7 @@ const adabiyotData = {
           "text": "So'fi Olloyorning 'Sabot ul-ojizin' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'zbek xalq eposining 'Ravshan' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy-qahramonlik dostoni. 'Ravshan' - ishqiy-qahramonlik dostoni janridagi asar."
     },
@@ -17140,6 +17853,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Anna Karenina' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Ravshan' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Ravshanxon va Zulxumor. Markaziy qahramonlar: Ravshanxon va Zulxumor."
     },
@@ -17164,6 +17878,7 @@ const adabiyotData = {
           "text": "'Oydinda yurgan odamlar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Ravshan' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Shirvon xoni zulmiga qarshi sevgi kurashi. G'oya: Shirvon xoni zulmiga qarshi sevgi kurashi."
     },
@@ -17188,6 +17903,7 @@ const adabiyotData = {
           "text": "'Go'ro'g'li' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Kuntug'mish' asarining muallifi kim?» savolining to'g'ri javobi — O'zbek xalq eposi. 'Kuntug'mish' muallifi O'zbek xalq eposi."
     },
@@ -17212,6 +17928,7 @@ const adabiyotData = {
           "text": "O'zbek xalq eposining 'Kuntug'mish' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbek xalq eposining 'Kuntug'mish' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy doston. 'Kuntug'mish' - ishqiy doston janridagi asar."
     },
@@ -17236,6 +17953,7 @@ const adabiyotData = {
           "text": "'Kuntug'mish' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Kuntug'mish' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Kuntug'mish va Xolbeka. Markaziy qahramonlar: Kuntug'mish va Xolbeka."
     },
@@ -17260,6 +17978,7 @@ const adabiyotData = {
           "text": "'Kuntug'mish' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Kuntug'mish' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zangar yurti malikasiga oshiq bo'lib qora dashtlarda chekkan zahmatlar. G'oya: Zangar yurti malikasiga oshiq bo'lib qora dashtlarda chekkan zahmatlar."
     },
@@ -17284,6 +18003,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Gulbadanbegim qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Rustamxon' asarining muallifi kim?» savolining to'g'ri javobi — O'zbek xalq eposi. 'Rustamxon' muallifi O'zbek xalq eposi."
     },
@@ -17308,6 +18028,7 @@ const adabiyotData = {
           "text": "O'zbek xalq eposining 'Rustamxon' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbek xalq eposining 'Rustamxon' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy-jangnoma doston. 'Rustamxon' - ishqiy-jangnoma doston janridagi asar."
     },
@@ -17332,6 +18053,7 @@ const adabiyotData = {
           "text": "'Rustamxon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Rustamxon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Rustamxon va Oqsuluv. Markaziy qahramonlar: Rustamxon va Oqsuluv."
     },
@@ -17356,6 +18078,7 @@ const adabiyotData = {
           "text": "'Rustamxon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Rustamxon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'gay ona tuhmati va adolat tantanasi. G'oya: O'gay ona tuhmati va adolat tantanasi."
     },
@@ -17380,6 +18103,7 @@ const adabiyotData = {
           "text": "Hamid Olimjonning 'Zaynab va Omon' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Devonu lug'otit turk' asarining muallifi kim?» savolining to'g'ri javobi — Mahmud Qoshg'ariy. 'Devonu lug'otit turk' muallifi Mahmud Qoshg'ariy."
     },
@@ -17404,6 +18128,7 @@ const adabiyotData = {
           "text": "Adabiyotshunoslikda 'Irsoli masal' badiiy san'ati qanday ta'riflanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Mahmud Qoshg'ariyning 'Devonu lug'otit turk' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — turkiy qomusiy lug'at. 'Devonu lug'otit turk' - turkiy qomusiy lug'at janridagi asar."
     },
@@ -17428,6 +18153,7 @@ const adabiyotData = {
           "text": "'Devonu lug'otit turk' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Devonu lug'otit turk' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Alp Er To'nga qahramonlik marsiyalari. Markaziy qahramonlar: Alp Er To'nga qahramonlik marsiyalari."
     },
@@ -17452,6 +18178,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' dostonida Farhodning sadoqatli do'sti va mohir rassom kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Devonu lug'otit turk' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Turk xalqlarining boy so'z xazinasi va xaritasi. G'oya: Turk xalqlarining boy so'z xazinasi va xaritasi."
     },
@@ -17476,6 +18203,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Mahmud Qoshg'ariy qalamiga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Mahmud Qoshg'ariy qalamiga mansub?» savolining to'g'ri javobi — Devonu lug'otit turk. Mahmud Qoshg'ariy 'Devonu lug'otit turk' asarini yaratgan."
     },
@@ -17500,6 +18228,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Qutadg'u bilig' asarining muallifi kim?» savolining to'g'ri javobi — Yusuf Xos Hojib. 'Qutadg'u bilig' muallifi Yusuf Xos Hojib."
     },
@@ -17524,6 +18253,7 @@ const adabiyotData = {
           "text": "Navoiy 'Hayrat ul-abror' dostonida Nizomiyning qaysi dostoniga ergashgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yusuf Xos Hojibning 'Qutadg'u bilig' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — falsafiy-didaktik doston. 'Qutadg'u bilig' - falsafiy-didaktik doston janridagi asar."
     },
@@ -17548,6 +18278,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Qutadg'u bilig' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Kuntug'di, Oytoldi, O'gdulmish, O'zg'urmish. Markaziy qahramonlar: Kuntug'di, Oytoldi, O'gdulmish, O'zg'urmish."
     },
@@ -17572,6 +18303,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Qutadg'u bilig' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Davlatni adolat va aql bilan boshqarish qonuniyati. G'oya: Davlatni adolat va aql bilan boshqarish qonuniyati."
     },
@@ -17596,6 +18328,7 @@ const adabiyotData = {
           "text": "Abdulla Oripovning 'Bahor' she'rida fasl qanday tasvirlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Yusuf Xos Hojib qalamiga mansub?» savolining to'g'ri javobi — Qutadg'u bilig. Yusuf Xos Hojib 'Qutadg'u bilig' asarini yaratgan."
     },
@@ -17620,6 +18353,7 @@ const adabiyotData = {
           "text": "Said Ahmadning 'Jimjitlik' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Hibat ul-haqoyiq' asarining muallifi kim?» savolining to'g'ri javobi — Ahmad Yugnakiy. 'Hibat ul-haqoyiq' muallifi Ahmad Yugnakiy."
     },
@@ -17644,6 +18378,7 @@ const adabiyotData = {
           "text": "Bobur yaratgan yangi turkiy alifbo qanday nomlangan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ahmad Yugnakiyning 'Hibat ul-haqoyiq' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — axloqiy-ta'limiy doston. 'Hibat ul-haqoyiq' - axloqiy-ta'limiy doston janridagi asar."
     },
@@ -17668,6 +18403,7 @@ const adabiyotData = {
           "text": "'Hibat ul-haqoyiq' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Hibat ul-haqoyiq' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Ilm, saxovat va til odobi targ'iboti. Markaziy qahramonlar: Ilm, saxovat va til odobi targ'iboti."
     },
@@ -17692,6 +18428,7 @@ const adabiyotData = {
           "text": "'Tushda kechgan umrlar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Hibat ul-haqoyiq' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Nodonlik va baxillikning jamiyatga zarari. G'oya: Nodonlik va baxillikning jamiyatga zarari."
     },
@@ -17716,6 +18453,7 @@ const adabiyotData = {
           "text": "Hofiz Sheroziyning 'Devon' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Ahmad Yugnakiy qalamiga mansub?» savolining to'g'ri javobi — Hibat ul-haqoyiq. Ahmad Yugnakiy 'Hibat ul-haqoyiq' asarini yaratgan."
     },
@@ -17740,6 +18478,7 @@ const adabiyotData = {
           "text": "'Devoni hikmat' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Devoni hikmat' asarining muallifi kim?» savolining to'g'ri javobi — Ahmad Yassaviy. 'Devoni hikmat' muallifi Ahmad Yassaviy."
     },
@@ -17764,6 +18503,7 @@ const adabiyotData = {
           "text": "Muhammad Rahimxon II (Feruz) davrida Xivada qanday madaniy yangilik bo'ldi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Ahmad Yassaviyning 'Devoni hikmat' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tasavvufiy she'rlar majmuasi. 'Devoni hikmat' - tasavvufiy she'rlar majmuasi janridagi asar."
     },
@@ -17788,6 +18528,7 @@ const adabiyotData = {
           "text": "'Rustamxon' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Devoni hikmat' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Haq ishqi va xizmat yo'lidagi dervishlik. Markaziy qahramonlar: Haq ishqi va xizmat yo'lidagi dervishlik."
     },
@@ -17812,6 +18553,7 @@ const adabiyotData = {
           "text": "'Devoni hikmat' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Devoni hikmat' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Nafs balosidan tiyilish va riyozat. G'oya: Nafs balosidan tiyilish va riyozat."
     },
@@ -17836,6 +18578,7 @@ const adabiyotData = {
           "text": "O'tkir Hoshimovning 'Dunyoning ishlari' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Ahmad Yassaviy qalamiga mansub?» savolining to'g'ri javobi — Devoni hikmat. Ahmad Yassaviy 'Devoni hikmat' asarini yaratgan."
     },
@@ -17860,6 +18603,7 @@ const adabiyotData = {
           "text": "'Qisasi Rabg'uziy' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Qisasi Rabg'uziy' asarining muallifi kim?» savolining to'g'ri javobi — Nosiruddin Rabg'uziy. 'Qisasi Rabg'uziy' muallifi Nosiruddin Rabg'uziy."
     },
@@ -17884,6 +18628,7 @@ const adabiyotData = {
           "text": "'Jannatga yo'l' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Nosiruddin Rabg'uziyning 'Qisasi Rabg'uziy' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — payg'ambarlar haqidagi qissalar. 'Qisasi Rabg'uziy' - payg'ambarlar haqidagi qissalar janridagi asar."
     },
@@ -17908,6 +18653,7 @@ const adabiyotData = {
           "text": "'Qisasi Rabg'uziy' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Qisasi Rabg'uziy' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Odam Ato, Nuh, Ibrohim, Muso, Yusuf payg'ambarlar. Markaziy qahramonlar: Odam Ato, Nuh, Ibrohim, Muso, Yusuf payg'ambarlar."
     },
@@ -17932,6 +18678,7 @@ const adabiyotData = {
           "text": "'Dunyoning ishlari' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Qisasi Rabg'uziy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ilk turkiy nasriy diniy-tarixiy yodgorlik. G'oya: Ilk turkiy nasriy diniy-tarixiy yodgorlik."
     },
@@ -17956,6 +18703,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Sab'ai sayyor' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Nosiruddin Rabg'uziy qalamiga mansub?» savolining to'g'ri javobi — Qisasi Rabg'uziy. Nosiruddin Rabg'uziy 'Qisasi Rabg'uziy' asarini yaratgan."
     },
@@ -17980,6 +18728,7 @@ const adabiyotData = {
           "text": "'Muhabbatnoma' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Muhabbatnoma' asarining muallifi kim?» savolining to'g'ri javobi — Xorazmiy. 'Muhabbatnoma' muallifi Xorazmiy."
     },
@@ -18004,6 +18753,7 @@ const adabiyotData = {
           "text": "'Narsa va hodisani me'yordan ortiq darajada bo'rttirib, kattalashtirib yoki kichraytirib tasvirlash' - ushbu ta'rif qaysi mumtoz she'riyat san'atiga tegishli?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Xorazmiyning 'Muhabbatnoma' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — nomalar majmuasi. 'Muhabbatnoma' - nomalar majmuasi janridagi asar."
     },
@@ -18028,6 +18778,7 @@ const adabiyotData = {
           "text": "'Muhabbatnoma' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Muhabbatnoma' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Oshiq va ma'shuqa munosabatlari. Markaziy qahramonlar: Oshiq va ma'shuqa munosabatlari."
     },
@@ -18052,6 +18803,7 @@ const adabiyotData = {
           "text": "'Turkiy Guliston yoxud axloq' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Muhabbatnoma' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jonibekxon saroyida yaratilgan 10 noma. G'oya: Jonibekxon saroyida yaratilgan 10 noma."
     },
@@ -18076,6 +18828,7 @@ const adabiyotData = {
           "text": "Tog'ay Murodning 'Ot kishnagan oqshom' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Xorazmiy qalamiga mansub?» savolining to'g'ri javobi — Muhabbatnoma. Xorazmiy 'Muhabbatnoma' asarini yaratgan."
     },
@@ -18100,6 +18853,7 @@ const adabiyotData = {
           "text": "'Hibat ul-haqoyiq' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Guliston bit-turkiy' asarining muallifi kim?» savolining to'g'ri javobi — Sayfi Saroyi. 'Guliston bit-turkiy' muallifi Sayfi Saroyi."
     },
@@ -18124,6 +18878,7 @@ const adabiyotData = {
           "text": "Adabiyotshunoslikda 'Irsoli masal' badiiy san'ati qanday ta'riflanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Sayfi Saroyining 'Guliston bit-turkiy' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — didaktik tarjima va original asar. 'Guliston bit-turkiy' - didaktik tarjima va original asar janridagi asar."
     },
@@ -18148,6 +18903,7 @@ const adabiyotData = {
           "text": "'Guliston bit-turkiy' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Guliston bit-turkiy' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Sa'diy Sheroziy hikoyatlari. Markaziy qahramonlar: Sa'diy Sheroziy hikoyatlari."
     },
@@ -18172,6 +18928,7 @@ const adabiyotData = {
           "text": "'Guliston bit-turkiy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Guliston bit-turkiy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Misrda Saroy shahrida yozilgan axloq kitobi. G'oya: Misrda Saroy shahrida yozilgan axloq kitobi."
     },
@@ -18196,6 +18953,7 @@ const adabiyotData = {
           "text": "Said Ahmadning 'Jimjitlik' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Sayfi Saroyi qalamiga mansub?» savolining to'g'ri javobi — Guliston bit-turkiy. Sayfi Saroyi 'Guliston bit-turkiy' asarini yaratgan."
     },
@@ -18220,6 +18978,7 @@ const adabiyotData = {
           "text": "To'nyuquq bitiktoshi qaysi turk xoqonligining maslahatchisi va bosh vaziri hayotiga bag'ishlangan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Suhayl va Guldursun' asarining muallifi kim?» savolining to'g'ri javobi — Sayfi Saroyi. 'Suhayl va Guldursun' muallifi Sayfi Saroyi."
     },
@@ -18244,6 +19003,7 @@ const adabiyotData = {
           "text": "'Ikki eshik orasi' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Sayfi Saroyining 'Suhayl va Guldursun' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy-fojiaviy doston. 'Suhayl va Guldursun' - ishqiy-fojiaviy doston janridagi asar."
     },
@@ -18268,6 +19028,7 @@ const adabiyotData = {
           "text": "Misrada qaysi badiiy san'at yetakchi: 'Farhod kabi tog'larni talqon ayladi sevgim...'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Suhayl va Guldursun' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Suhayl va Guldursun. Markaziy qahramonlar: Suhayl va Guldursun."
     },
@@ -18292,6 +19053,7 @@ const adabiyotData = {
           "text": "'Suhayl va Guldursun' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Suhayl va Guldursun' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Xorazm qal'asi qamali va vatan xiyonati oqibati. G'oya: Xorazm qal'asi qamali va vatan xiyonati oqibati."
     },
@@ -18316,6 +19078,7 @@ const adabiyotData = {
           "text": "Gulbadanbegimning 'Humoyunnoma' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Xusrav va Shirin' asarining muallifi kim?» savolining to'g'ri javobi — Qutb. 'Xusrav va Shirin' muallifi Qutb."
     },
@@ -18340,6 +19103,7 @@ const adabiyotData = {
           "text": "Muhammad Rizo Ogahiy qaysi sohaga beqiyos hissa qo'shgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qutbning 'Xusrav va Shirin' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy doston. 'Xusrav va Shirin' - ishqiy doston janridagi asar."
     },
@@ -18364,6 +19128,7 @@ const adabiyotData = {
           "text": "'Yulduzli tunlar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Xusrav va Shirin' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Xusrav Parviz, Shirin va Farhod. Markaziy qahramonlar: Xusrav Parviz, Shirin va Farhod."
     },
@@ -18388,6 +19153,7 @@ const adabiyotData = {
           "text": "'Xusrav va Shirin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Xusrav va Shirin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Nizomiy asarining birinchi turkiy tarjimasi. G'oya: Nizomiy asarining birinchi turkiy tarjimasi."
     },
@@ -18412,6 +19178,7 @@ const adabiyotData = {
           "text": "'Layli va Majnun' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Qutb qalamiga mansub?» savolining to'g'ri javobi — Xusrav va Shirin. Qutb 'Xusrav va Shirin' asarini yaratgan."
     },
@@ -18436,6 +19203,7 @@ const adabiyotData = {
           "text": "'Yusuf va Zulayho' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Yusuf va Zulayho' asarining muallifi kim?» savolining to'g'ri javobi — Durbek. 'Yusuf va Zulayho' muallifi Durbek."
     },
@@ -18460,6 +19228,7 @@ const adabiyotData = {
           "text": "Adabiyotshunoslikda 'Ishtiqoq' badiiy san'ati qanday ta'riflanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Durbekning 'Yusuf va Zulayho' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy-ramziy doston. 'Yusuf va Zulayho' - ishqiy-ramziy doston janridagi asar."
     },
@@ -18484,6 +19253,7 @@ const adabiyotData = {
           "text": "'Suhayl va Guldursun' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Yusuf va Zulayho' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Yusuf payg'ambar va Zulayho. Markaziy qahramonlar: Yusuf payg'ambar va Zulayho."
     },
@@ -18508,6 +19278,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Yusuf va Zulayho' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Balx qamali paytida xalqqa umid bag'ishlash. G'oya: Balx qamali paytida xalqqa umid bag'ishlash."
     },
@@ -18532,6 +19303,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Durbek qalamiga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Durbek qalamiga mansub?» savolining to'g'ri javobi — Yusuf va Zulayho. Durbek 'Yusuf va Zulayho' asarini yaratgan."
     },
@@ -18556,6 +19328,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' dostonida Farhodning sadoqatli do'sti va mohir rassom kim?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Gul va Navro'z' asarining muallifi kim?» savolining to'g'ri javobi — Lutfiy. 'Gul va Navro'z' muallifi Lutfiy."
     },
@@ -18580,6 +19353,7 @@ const adabiyotData = {
           "text": "Mahmudxo'ja Behbudiy 1913-yilda qaysi gazeta va jurnalni nashr ettirdi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Lutfiyning 'Gul va Navro'z' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy doston. 'Gul va Navro'z' - ishqiy doston janridagi asar."
     },
@@ -18604,6 +19378,7 @@ const adabiyotData = {
           "text": "Nosiruddin Rabg'uziyning 'Qisasi Rabg'uziy' asari qachon yaratilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Gul va Navro'z' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Farxor shahzodasi Navro'z va Rum malikasi Gul. Markaziy qahramonlar: Farxor shahzodasi Navro'z va Rum malikasi Gul."
     },
@@ -18628,6 +19403,7 @@ const adabiyotData = {
           "text": "Adabiyotshunoslikda 'Laff va nashr' badiiy san'ati qanday ta'riflanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Gul va Navro'z' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Hijron sinovlari va sadoqat g'alabasi. G'oya: Hijron sinovlari va sadoqat g'alabasi."
     },
@@ -18652,6 +19428,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Lutfiy qalamiga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Lutfiy qalamiga mansub?» savolining to'g'ri javobi — Gul va Navro'z. Lutfiy 'Gul va Navro'z' asarini yaratgan."
     },
@@ -18676,6 +19453,7 @@ const adabiyotData = {
           "text": "'Devonu lug'otit turk' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Hayrat ul-abror' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Hayrat ul-abror' muallifi Alisher Navoiy."
     },
@@ -18700,6 +19478,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' dostonida Farhodning sadoqatli do'sti va mohir rassom kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Hayrat ul-abror' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — falsafiy-axloqiy masnaviy. 'Hayrat ul-abror' - falsafiy-axloqiy masnaviy janridagi asar."
     },
@@ -18724,6 +19503,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Maqsud Shayxzoda qalamiga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Hayrat ul-abror' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Hotami Toy, Nushiravoni Odil, Shoh G'oziy. Markaziy qahramonlar: Hotami Toy, Nushiravoni Odil, Shoh G'oziy."
     },
@@ -18748,6 +19528,7 @@ const adabiyotData = {
           "text": "'Muhabbatnoma' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Hayrat ul-abror' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Xamsaning ilk dostoni bo'lib 20 maqolatdan iborat. G'oya: Xamsaning ilk dostoni bo'lib 20 maqolatdan iborat."
     },
@@ -18772,6 +19553,7 @@ const adabiyotData = {
           "text": "Abdulla Oripov O'zbekiston Respublikasi Davlat Madhiyasi muallifi hisoblanadi. Madhiya matni qachon qabul qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Alisher Navoiy qalamiga mansub?» savolining to'g'ri javobi — Hayrat ul-abror. Alisher Navoiy 'Hayrat ul-abror' asarini yaratgan."
     },
@@ -18796,6 +19578,7 @@ const adabiyotData = {
           "text": "'Yusuf va Zulayho' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Farhod va Shirin' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Farhod va Shirin' muallifi Alisher Navoiy."
     },
@@ -18820,6 +19603,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Sab'ai sayyor' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Farhod va Shirin' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — qahramonlik-ishqiy dostoni. 'Farhod va Shirin' - qahramonlik-ishqiy dostoni janridagi asar."
     },
@@ -18844,6 +19628,7 @@ const adabiyotData = {
           "text": "'Devoni hikmat' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Farhod va Shirin' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Farhod, Shirin, Shopur, Suqrot, Xusrav. Markaziy qahramonlar: Farhod, Shirin, Shopur, Suqrot, Xusrav."
     },
@@ -18868,6 +19653,7 @@ const adabiyotData = {
           "text": "Abdulla Oripovning 'Sohibqiron' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Farhod va Shirin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bisotun tog'ini teshib Arman eliga obihayot olib borish. G'oya: Bisotun tog'ini teshib Arman eliga obihayot olib borish."
     },
@@ -18892,6 +19678,7 @@ const adabiyotData = {
           "text": "Tog'ay Murod qaysi qishloqda tug'ilib, asarlarida o'sha yerni tasvirlaydi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Layli va Majnun' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Layli va Majnun' muallifi Alisher Navoiy."
     },
@@ -18916,6 +19703,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Layli va Majnun' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Layli va Majnun' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy-tasavvufiy doston. 'Layli va Majnun' - ishqiy-tasavvufiy doston janridagi asar."
     },
@@ -18940,6 +19728,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Romeo va Juletta' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Layli va Majnun' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Qays (Majnun) va Layli, Navfal, Ibn Salom. Markaziy qahramonlar: Qays (Majnun) va Layli, Navfal, Ibn Salom."
     },
@@ -18964,6 +19753,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Gulbadanbegim qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Layli va Majnun' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Haqiqiy ilohiy ishq yo'lida foniylik. G'oya: Haqiqiy ilohiy ishq yo'lida foniylik."
     },
@@ -18988,6 +19778,7 @@ const adabiyotData = {
           "text": "Xorazmiyning 'Muhabbatnoma' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Sab'ai sayyor' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Sab'ai sayyor' muallifi Alisher Navoiy."
     },
@@ -19012,6 +19803,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Sab'ai sayyor' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Sab'ai sayyor' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — sarguzasht-falsafiy doston. 'Sab'ai sayyor' - sarguzasht-falsafiy doston janridagi asar."
     },
@@ -19036,6 +19828,7 @@ const adabiyotData = {
           "text": "'Hibat ul-haqoyiq' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Sab'ai sayyor' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Bahrom Go'r, Dilorom va yetti iqlim musofirlari. Markaziy qahramonlar: Bahrom Go'r, Dilorom va yetti iqlim musofirlari."
     },
@@ -19060,6 +19853,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig'da O'zg'urmish qahramoni nimaning ramzi hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Sab'ai sayyor' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Nafsga berilish va hukmdor mas'uliyatsizligi oqibati. G'oya: Nafsga berilish va hukmdor mas'uliyatsizligi oqibati."
     },
@@ -19084,6 +19878,7 @@ const adabiyotData = {
           "text": "'Saddi Iskandariy' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Saddi Iskandariy' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Saddi Iskandariy' muallifi Alisher Navoiy."
     },
@@ -19108,6 +19903,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Saddi Iskandariy' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Saddi Iskandariy' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ijtimoiy-falsafiy qahramonlik dostoni. 'Saddi Iskandariy' - ijtimoiy-falsafiy qahramonlik dostoni janridagi asar."
     },
@@ -19132,6 +19928,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Saddi Iskandariy' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Iskandar, Arastu, Aflotun, Dorob. Markaziy qahramonlar: Iskandar, Arastu, Aflotun, Dorob."
     },
@@ -19156,6 +19953,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Iliada' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Saddi Iskandariy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Dunyo hukmdorining adolat to'g'oni va foniylik darsi. G'oya: Dunyo hukmdorining adolat to'g'oni va foniylik darsi."
     },
@@ -19180,6 +19978,7 @@ const adabiyotData = {
           "text": "Tog'ay Murodning qishloq dehqonining fojeiy mehnati aks etgan romani qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Lison ut-tayr' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Lison ut-tayr' muallifi Alisher Navoiy."
     },
@@ -19204,6 +20003,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Lison ut-tayr' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Lison ut-tayr' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tasavvufiy allegorik doston. 'Lison ut-tayr' - tasavvufiy allegorik doston janridagi asar."
     },
@@ -19228,6 +20028,7 @@ const adabiyotData = {
           "text": "'Lison ut-tayr' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Lison ut-tayr' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Hudhud va o'ttiz qush (Simurg'). Markaziy qahramonlar: Hudhud va o'ttiz qush (Simurg')."
     },
@@ -19252,6 +20053,7 @@ const adabiyotData = {
           "text": "'Xusrav va Shirin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Lison ut-tayr' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Haqni o'z ichidan topish sirlari. G'oya: Haqni o'z ichidan topish sirlari."
     },
@@ -19276,6 +20078,7 @@ const adabiyotData = {
           "text": "'Zaharli hayot' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Muhokamat ul-lug'atayn' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Muhokamat ul-lug'atayn' muallifi Alisher Navoiy."
     },
@@ -19300,6 +20103,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Muhokamat ul-lug'atayn' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Muhokamat ul-lug'atayn' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — lingvistik ilmiy risola. 'Muhokamat ul-lug'atayn' - lingvistik ilmiy risola janridagi asar."
     },
@@ -19324,6 +20128,7 @@ const adabiyotData = {
           "text": "Shukur Xolmirzayev qaysi viloyatda tug'ilgan va uning tabiati asarlariga singgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Muhokamat ul-lug'atayn' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Turkiy va forsiy tillar qiyosi. Markaziy qahramonlar: Turkiy va forsiy tillar qiyosi."
     },
@@ -19348,6 +20153,7 @@ const adabiyotData = {
           "text": "Qodiriyning 'Mehrobdan chayon' romanida Anvarning sevgilisi kim?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Muhokamat ul-lug'atayn' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Turkiy tilning 100 ta fe'l boyligi bilan ustunligi. G'oya: Turkiy tilning 100 ta fe'l boyligi bilan ustunligi."
     },
@@ -19372,6 +20178,7 @@ const adabiyotData = {
           "text": "'Guliston bit-turkiy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Mezon ul-avzon' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Mezon ul-avzon' muallifi Alisher Navoiy."
     },
@@ -19396,6 +20203,7 @@ const adabiyotData = {
           "text": "Mahmud Qoshg'ariyning 'Devonu lug'otit turk' asari nechanchi yillarda yaratilgan va kimga bag'ishlangan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Mezon ul-avzon' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — she'rshunoslik risolasi. 'Mezon ul-avzon' - she'rshunoslik risolasi janridagi asar."
     },
@@ -19420,6 +20228,7 @@ const adabiyotData = {
           "text": "'Shoir o'z fikrini sir tutib, tinglovchini chuqur o'ylashga undashi' - ushbu ta'rif qaysi mumtoz she'riyat san'atiga tegishli?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Mezon ul-avzon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Aruz bahrlari va turkiy xalq qo'shiqlari. Markaziy qahramonlar: Aruz bahrlari va turkiy xalq qo'shiqlari."
     },
@@ -19444,6 +20253,7 @@ const adabiyotData = {
           "text": "'Mezon ul-avzon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Mezon ul-avzon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tuyuq, qoshuq, changi kabi xalq o'lchovlari tahlili. G'oya: Tuyuq, qoshuq, changi kabi xalq o'lchovlari tahlili."
     },
@@ -19468,6 +20278,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Ahmad Yugnakiy qalamiga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Majolis un-nafois' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Majolis un-nafois' muallifi Alisher Navoiy."
     },
@@ -19492,6 +20303,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Shohnoma' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Majolis un-nafois' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — adabiy tazkira. 'Majolis un-nafois' - adabiy tazkira janridagi asar."
     },
@@ -19516,6 +20328,7 @@ const adabiyotData = {
           "text": "'Farhod va Shirin' dostonida Farhodning Arman eliga qazigan arig'i qaysi tog'dan o'tadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Majolis un-nafois' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — 459 nafar shoir va fozil shaxslar. Markaziy qahramonlar: 459 nafar shoir va fozil shaxslar."
     },
@@ -19540,6 +20353,7 @@ const adabiyotData = {
           "text": "'Devonu lug'otit turk' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Majolis un-nafois' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'zbek adabiyotidagi birinchi tazkira. G'oya: O'zbek adabiyotidagi birinchi tazkira."
     },
@@ -19564,6 +20378,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning otasi G'iyosiddin Kichkina qanday lavozimda ishlagan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Mahbub ul-qulub' asarining muallifi kim?» savolining to'g'ri javobi — Alisher Navoiy. 'Mahbub ul-qulub' muallifi Alisher Navoiy."
     },
@@ -19588,6 +20403,7 @@ const adabiyotData = {
           "text": "'Muhokamat ul-lug'atayn' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Alisher Navoiyning 'Mahbub ul-qulub' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ijtimoiy-axloqiy nasriy asar. 'Mahbub ul-qulub' - ijtimoiy-axloqiy nasriy asar janridagi asar."
     },
@@ -19612,6 +20428,7 @@ const adabiyotData = {
           "text": "'Turkiy Guliston yoxud axloq' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Mahbub ul-qulub' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Shohlar, vazirlar, qozilar, darveshlar va kasblar. Markaziy qahramonlar: Shohlar, vazirlar, qozilar, darveshlar va kasblar."
     },
@@ -19636,6 +20453,7 @@ const adabiyotData = {
           "text": "Nosiruddin Rabg'uziyning 'Qisasi Rabg'uziy' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Mahbub ul-qulub' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Adolat, saxovat va yaxshi xulqlar mezoni. G'oya: Adolat, saxovat va yaxshi xulqlar mezoni."
     },
@@ -19660,6 +20478,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Qirol Lir' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Boburnoma' asarining muallifi kim?» savolining to'g'ri javobi — Zahiriddin Muhammad Bobur. 'Boburnoma' muallifi Zahiriddin Muhammad Bobur."
     },
@@ -19684,6 +20503,7 @@ const adabiyotData = {
           "text": "Abdulla Oripovning 'Jannatga yo'l' dostoni qaysi italyan adibi ruhi bilan hamnafas?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Zahiriddin Muhammad Boburning 'Boburnoma' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy-avtobiografik asar. 'Boburnoma' - tarixiy-avtobiografik asar janridagi asar."
     },
@@ -19708,6 +20528,7 @@ const adabiyotData = {
           "text": "Jek Londonning 'Hayotga muhabbat' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Boburnoma' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Bobur Mirzo va Temuriy shahzodalar. Markaziy qahramonlar: Bobur Mirzo va Temuriy shahzodalar."
     },
@@ -19732,6 +20553,7 @@ const adabiyotData = {
           "text": "'Tushda kechgan umrlar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Boburnoma' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Movarounnahr, Afg'oniston va Hindistonning 30 yillik tarixi. G'oya: Movarounnahr, Afg'oniston va Hindistonning 30 yillik tarixi."
     },
@@ -19756,6 +20578,7 @@ const adabiyotData = {
           "text": "Lev Tolstoyning 'Anna Karenina' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Zahiriddin Muhammad Bobur qalamiga mansub?» savolining to'g'ri javobi — Boburnoma. Zahiriddin Muhammad Bobur 'Boburnoma' asarini yaratgan."
     },
@@ -19780,6 +20603,7 @@ const adabiyotData = {
           "text": "Erkin Vohidovning 'Ruhlar isyoni' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Mubayyin' asarining muallifi kim?» savolining to'g'ri javobi — Zahiriddin Muhammad Bobur. 'Mubayyin' muallifi Zahiriddin Muhammad Bobur."
     },
@@ -19804,6 +20628,7 @@ const adabiyotData = {
           "text": "Muhammad Yusufning qaysi she'ri 'Elimda deb yashagan el suygan o'g'lon bo'lur' g'oyasini ilgari suradi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Zahiriddin Muhammad Boburning 'Mubayyin' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — islomiy fiqh manzumasi. 'Mubayyin' - islomiy fiqh manzumasi janridagi asar."
     },
@@ -19828,6 +20653,7 @@ const adabiyotData = {
           "text": "'Mubayyin' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Mubayyin' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Namoz, zakot, ro'za va haj arkonlari. Markaziy qahramonlar: Namoz, zakot, ro'za va haj arkonlari."
     },
@@ -19852,6 +20678,7 @@ const adabiyotData = {
           "text": "Toshkentda 1914-yilda chop etilgan 'Sadoi Turkiston' gazetasining muharriri kim edi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Mubayyin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Farzandlariga diniy arkonlarni ta'lim berish. G'oya: Farzandlariga diniy arkonlarni ta'lim berish."
     },
@@ -19876,6 +20703,7 @@ const adabiyotData = {
           "text": "'Gul va Navro'z' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Muxtasar' asarining muallifi kim?» savolining to'g'ri javobi — Zahiriddin Muhammad Bobur. 'Muxtasar' muallifi Zahiriddin Muhammad Bobur."
     },
@@ -19900,6 +20728,7 @@ const adabiyotData = {
           "text": "'Sayha' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Zahiriddin Muhammad Boburning 'Muxtasar' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — aruz vazni qo'llanmasi. 'Muxtasar' - aruz vazni qo'llanmasi janridagi asar."
     },
@@ -19924,6 +20753,7 @@ const adabiyotData = {
           "text": "Otabek Kumushbibi bilan birinchi bor uchrashgan xonadon qaysi mahallada edi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Muxtasar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Ruknlar, doiralar va ziynatlar. Markaziy qahramonlar: Ruknlar, doiralar va ziynatlar."
     },
@@ -19948,6 +20778,7 @@ const adabiyotData = {
           "text": "'Muxtasar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Muxtasar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Aruzshunoslikning ikkinchi mustahkam ustuni. G'oya: Aruzshunoslikning ikkinchi mustahkam ustuni."
     },
@@ -19972,6 +20803,7 @@ const adabiyotData = {
           "text": "Xurshid Do'stmuhammadning 'Bozor' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Humoyunnoma' asarining muallifi kim?» savolining to'g'ri javobi — Gulbadanbegim. 'Humoyunnoma' muallifi Gulbadanbegim."
     },
@@ -19996,6 +20828,7 @@ const adabiyotData = {
           "text": "Sulaymon Boqirg'oniy (Hakim ota) qaysi buyuk mutasavvifning to'rtinchi xalifasi hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Gulbadanbegimning 'Humoyunnoma' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy-memuar asar. 'Humoyunnoma' - tarixiy-memuar asar janridagi asar."
     },
@@ -20020,6 +20853,7 @@ const adabiyotData = {
           "text": "Sayfi Saroyining mashhur original dostoni qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Humoyunnoma' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Bobur Mirzo, Humoyun va saroy xonimlari. Markaziy qahramonlar: Bobur Mirzo, Humoyun va saroy xonimlari."
     },
@@ -20044,6 +20878,7 @@ const adabiyotData = {
           "text": "'Zaynab va Omon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Humoyunnoma' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Boburiylar oilasi ichki hayotining haqqoniy bayoni. G'oya: Boburiylar oilasi ichki hayotining haqqoniy bayoni."
     },
@@ -20068,6 +20903,7 @@ const adabiyotData = {
           "text": "'Otamdan qolgan dalalar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Gulbadanbegim qalamiga mansub?» savolining to'g'ri javobi — Humoyunnoma. Gulbadanbegim 'Humoyunnoma' asarini yaratgan."
     },
@@ -20092,6 +20928,7 @@ const adabiyotData = {
           "text": "'Hind ixtilolchilari' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Sabot ul-ojizin' asarining muallifi kim?» savolining to'g'ri javobi — So'fi Olloyor. 'Sabot ul-ojizin' muallifi So'fi Olloyor."
     },
@@ -20116,6 +20953,7 @@ const adabiyotData = {
           "text": "So'fi Olloyorning 'Sabot ul-ojizin' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«So'fi Olloyorning 'Sabot ul-ojizin' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — axloqiy-aqidaviy she'riy darslik. 'Sabot ul-ojizin' - axloqiy-aqidaviy she'riy darslik janridagi asar."
     },
@@ -20140,6 +20978,7 @@ const adabiyotData = {
           "text": "'Sabot ul-ojizin' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Sabot ul-ojizin' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Musulmonlik shartlari va ibodat odobi. Markaziy qahramonlar: Musulmonlik shartlari va ibodat odobi."
     },
@@ -20164,6 +21003,7 @@ const adabiyotData = {
           "text": "'Sabot ul-ojizin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Sabot ul-ojizin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Sodda turkiy baytlarda din ahkomlari. G'oya: Sodda turkiy baytlarda din ahkomlari."
     },
@@ -20188,6 +21028,7 @@ const adabiyotData = {
           "text": "'Diyonat' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri So'fi Olloyor qalamiga mansub?» savolining to'g'ri javobi — Sabot ul-ojizin. So'fi Olloyor 'Sabot ul-ojizin' asarini yaratgan."
     },
@@ -20212,6 +21053,7 @@ const adabiyotData = {
           "text": "'Tohir va Zuhra' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Tohir va Zuhra' asarining muallifi kim?» savolining to'g'ri javobi — Sayyodiy. 'Tohir va Zuhra' muallifi Sayyodiy."
     },
@@ -20236,6 +21078,7 @@ const adabiyotData = {
           "text": "Sayyodiyning 'Tohir va Zuhra' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Sayyodiyning 'Tohir va Zuhra' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ishqiy qissa. 'Tohir va Zuhra' - ishqiy qissa janridagi asar."
     },
@@ -20260,6 +21103,7 @@ const adabiyotData = {
           "text": "'Humoyunnoma' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Tohir va Zuhra' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Tohir va Zuhra, Qorabotir, Boboxon. Markaziy qahramonlar: Tohir va Zuhra, Qorabotir, Boboxon."
     },
@@ -20284,6 +21128,7 @@ const adabiyotData = {
           "text": "Navoiyning 'Xazoyin ul-maoniy' kulliyoti nechta devonni o'z ichiga oladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Tohir va Zuhra' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Sanduqqa solib daryoga oqizilgan oshiq sadoqati. G'oya: Sanduqqa solib daryoga oqizilgan oshiq sadoqati."
     },
@@ -20308,6 +21153,7 @@ const adabiyotData = {
           "text": "'O'xshatish vositalarisiz bir narsaning nomini ikkinchisiga ko'chma ma'noda to'g'ridan-to'g'ri qo'llash' - ushbu ta'rif qaysi mumtoz she'riyat san'atiga tegishli?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Sayyodiy qalamiga mansub?» savolining to'g'ri javobi — Tohir va Zuhra. Sayyodiy 'Tohir va Zuhra' asarini yaratgan."
     },
@@ -20332,6 +21178,7 @@ const adabiyotData = {
           "text": "'Layli va Majnun' dostonida Laylining xohishiga qarshi unga er qilib berilgan kishi kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Tanobchilar' asarining muallifi kim?» savolining to'g'ri javobi — Muqimiy. 'Tanobchilar' muallifi Muqimiy."
     },
@@ -20356,6 +21203,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Muhokamat ul-lug'atayn' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Muqimiyning 'Tanobchilar' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — satirik she'r. 'Tanobchilar' - satirik she'r janridagi asar."
     },
@@ -20380,6 +21228,7 @@ const adabiyotData = {
           "text": "'Tanobchilar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Tanobchilar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Hakimjon va Sulton Ali pachoq. Markaziy qahramonlar: Hakimjon va Sulton Ali pachoq."
     },
@@ -20404,6 +21253,7 @@ const adabiyotData = {
           "text": "Zahiriddin Muhammad Boburning 'Muxtasar' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Tanobchilar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Chor amaldorlarining qishloq xalqini nohaq talashi. G'oya: Chor amaldorlarining qishloq xalqini nohaq talashi."
     },
@@ -20428,6 +21278,7 @@ const adabiyotData = {
           "text": "Anton Chexovning 'G'ilof bandasi' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Muqimiy qalamiga mansub?» savolining to'g'ri javobi — Tanobchilar. Muqimiy 'Tanobchilar' asarini yaratgan."
     },
@@ -20452,6 +21303,7 @@ const adabiyotData = {
           "text": "'Tanobchilar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Padarkush' asarining muallifi kim?» savolining to'g'ri javobi — Mahmudxo'ja Behbudiy. 'Padarkush' muallifi Mahmudxo'ja Behbudiy."
     },
@@ -20476,6 +21328,7 @@ const adabiyotData = {
           "text": "Qo'qon adabiy muhitida 'Amiriy' taxallusi bilan devon tuzgan hukmdor kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Mahmudxo'ja Behbudiyning 'Padarkush' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — birinchi milliy drama. 'Padarkush' - birinchi milliy drama janridagi asar."
     },
@@ -20500,6 +21353,7 @@ const adabiyotData = {
           "text": "'Jimjitlik' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Padarkush' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Toshmurod, Boy, Domla, Ziyoli. Markaziy qahramonlar: Toshmurod, Boy, Domla, Ziyoli."
     },
@@ -20524,6 +21378,7 @@ const adabiyotData = {
           "text": "'Padarkush' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Padarkush' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Nodon va o'qimagan farzandning o'z otasini boylik uchun o'ldirishi. G'oya: Nodon va o'qimagan farzandning o'z otasini boylik uchun o'ldirishi."
     },
@@ -20548,6 +21403,7 @@ const adabiyotData = {
           "text": "Boburning farzandlariga islom fiqhini o'rgatuvchi she'riy asari qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Mahmudxo'ja Behbudiy qalamiga mansub?» savolining to'g'ri javobi — Padarkush. Mahmudxo'ja Behbudiy 'Padarkush' asarini yaratgan."
     },
@@ -20572,6 +21428,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Said Ahmad qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Turkiy Guliston yoxud axloq' asarining muallifi kim?» savolining to'g'ri javobi — Abdulla Avloniy. 'Turkiy Guliston yoxud axloq' muallifi Abdulla Avloniy."
     },
@@ -20596,6 +21453,7 @@ const adabiyotData = {
           "text": "'Saddi Iskandariy' dostonida Iskandar kimlarning yo'lini to'sish uchun ulkan to'g'on quradi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Abdulla Avloniyning 'Turkiy Guliston yoxud axloq' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — pedagogik-axloqiy risola. 'Turkiy Guliston yoxud axloq' - pedagogik-axloqiy risola janridagi asar."
     },
@@ -20620,6 +21478,7 @@ const adabiyotData = {
           "text": "Abdurauf Fitratning 1911-yilda Istanbulda chop etilgan mashhur asari qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Turkiy Guliston yoxud axloq' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Yaxshi va yomon xulqlar tahlili. Markaziy qahramonlar: Yaxshi va yomon xulqlar tahlili."
     },
@@ -20644,6 +21503,7 @@ const adabiyotData = {
           "text": "'Turkiy Guliston yoxud axloq' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Turkiy Guliston yoxud axloq' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tarbiyaning millat taqdiridagi hal qiluvchi o'rni. G'oya: Tarbiyaning millat taqdiridagi hal qiluvchi o'rni."
     },
@@ -20668,6 +21528,7 @@ const adabiyotData = {
           "text": "Pirimqul Qodirovning 'Avlodlar dovoni' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Abdulla Avloniy qalamiga mansub?» savolining to'g'ri javobi — Turkiy Guliston yoxud axloq. Abdulla Avloniy 'Turkiy Guliston yoxud axloq' asarini yaratgan."
     },
@@ -20692,6 +21553,7 @@ const adabiyotData = {
           "text": "'Munozara' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Munozara' asarining muallifi kim?» savolining to'g'ri javobi — Abdurauf Fitrat. 'Munozara' muallifi Abdurauf Fitrat."
     },
@@ -20716,6 +21578,7 @@ const adabiyotData = {
           "text": "Maqsud Shayxzodaning Mirzo Ulug'bek hayoti haqidagi dramasi nechanchi yilda yozilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Abdurauf Fitratning 'Munozara' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — publitsistik qissa. 'Munozara' - publitsistik qissa janridagi asar."
     },
@@ -20740,6 +21603,7 @@ const adabiyotData = {
           "text": "'Munozara' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Munozara' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Hindistonlik sayyoh va Buxorolik mudarris. Markaziy qahramonlar: Hindistonlik sayyoh va Buxorolik mudarris."
     },
@@ -20764,6 +21628,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Abdulla Qodiriy qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Munozara' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Madrasalardagi qoloq o'qitish usulini isloh qilish zarurati. G'oya: Madrasalardagi qoloq o'qitish usulini isloh qilish zarurati."
     },
@@ -20788,6 +21653,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Abdurauf Fitrat qalamiga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Abdurauf Fitrat qalamiga mansub?» savolining to'g'ri javobi — Munozara. Abdurauf Fitrat 'Munozara' asarini yaratgan."
     },
@@ -20812,6 +21678,7 @@ const adabiyotData = {
           "text": "Erkin Vohidovning bengal shoiri Nazrul Islomga atalgan dostoni qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Sayha' asarining muallifi kim?» savolining to'g'ri javobi — Abdurauf Fitrat. 'Sayha' muallifi Abdurauf Fitrat."
     },
@@ -20836,6 +21703,7 @@ const adabiyotData = {
           "text": "Pirimqul Qodirovning 'Uch ildiz' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Abdurauf Fitratning 'Sayha' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — inqilobiy she'rlar to'plami. 'Sayha' - inqilobiy she'rlar to'plami janridagi asar."
     },
@@ -20860,6 +21728,7 @@ const adabiyotData = {
           "text": "Asqad Muxtorning 1958-yilda yozilgan qaysi qissasida daryo bo'yidagi burg'ulovchilar tasvirlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Sayha' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Turkiston xalqi va istiqlol orzusi. Markaziy qahramonlar: Turkiston xalqi va istiqlol orzusi."
     },
@@ -20884,6 +21753,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning otasi G'iyosiddin Kichkina qanday lavozimda ishlagan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Sayha' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Millatni qullik kishanlarini parchalashga chaqiriq. G'oya: Millatni qullik kishanlarini parchalashga chaqiriq."
     },
@@ -20908,6 +21778,7 @@ const adabiyotData = {
           "text": "'Abulfayzxon' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Abulfayzxon' asarining muallifi kim?» savolining to'g'ri javobi — Abdurauf Fitrat. 'Abulfayzxon' muallifi Abdurauf Fitrat."
     },
@@ -20932,6 +21803,7 @@ const adabiyotData = {
           "text": "Abdurauf Fitratning 'Abulfayzxon' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Abdurauf Fitratning 'Abulfayzxon' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy tragediya. 'Abulfayzxon' - tarixiy tragediya janridagi asar."
     },
@@ -20956,6 +21828,7 @@ const adabiyotData = {
           "text": "Erkin Vohidovning 'Ruhlar isyoni' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Abulfayzxon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Abulfayzxon, Rahimbiy, Farhod otaliq, Nodirshoh. Markaziy qahramonlar: Abulfayzxon, Rahimbiy, Farhod otaliq, Nodirshoh."
     },
@@ -20980,6 +21853,7 @@ const adabiyotData = {
           "text": "Qo'qon adabiy muhitida 'Amiriy' taxallusi bilan devon tuzgan hukmdor kim?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Abulfayzxon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zolim shohning qo'rquv va shubhalar ichida o'z taxtini yo'qotishi. G'oya: Zolim shohning qo'rquv va shubhalar ichida o'z taxtini yo'qotishi."
     },
@@ -21004,6 +21878,7 @@ const adabiyotData = {
           "text": "Said Ahmadning 'Kelinlar qo'zg'oloni' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Hind ixtilolchilari' asarining muallifi kim?» savolining to'g'ri javobi — Abdurauf Fitrat. 'Hind ixtilolchilari' muallifi Abdurauf Fitrat."
     },
@@ -21028,6 +21903,7 @@ const adabiyotData = {
           "text": "Nizomiy Ganjaviyning 'Xamsa (Panj ganj)' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Abdurauf Fitratning 'Hind ixtilolchilari' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ozodlik dramasi. 'Hind ixtilolchilari' - ozodlik dramasi janridagi asar."
     },
@@ -21052,6 +21928,7 @@ const adabiyotData = {
           "text": "'Hind ixtilolchilari' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Hind ixtilolchilari' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Rahimbaxsh va Dilnavoz. Markaziy qahramonlar: Rahimbaxsh va Dilnavoz."
     },
@@ -21076,6 +21953,7 @@ const adabiyotData = {
           "text": "'Uch ildiz' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Hind ixtilolchilari' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ingliz mustamlakachilariga qarshi Hindiston xalqining kurashi. G'oya: Ingliz mustamlakachilariga qarshi Hindiston xalqining kurashi."
     },
@@ -21100,6 +21978,7 @@ const adabiyotData = {
           "text": "'Zaharli hayot' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Zaharli hayot' asarining muallifi kim?» savolining to'g'ri javobi — Hamza Hakimzoda Niyoziy. 'Zaharli hayot' muallifi Hamza Hakimzoda Niyoziy."
     },
@@ -21124,6 +22003,7 @@ const adabiyotData = {
           "text": "'Ikki eshik orasi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Hamza Hakimzoda Niyoziyning 'Zaharli hayot' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — fojiaviy drama. 'Zaharli hayot' - fojiaviy drama janridagi asar."
     },
@@ -21148,6 +22028,7 @@ const adabiyotData = {
           "text": "Said Ahmadning teatr sahnasida eng ko'p qo'yilgan mashhur komediyasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Zaharli hayot' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Mahmudxon va Maryamxon. Markaziy qahramonlar: Mahmudxon va Maryamxon."
     },
@@ -21172,6 +22053,7 @@ const adabiyotData = {
           "text": "'Zaharli hayot' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Zaharli hayot' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Boylarning qalin puli ortidan ikki yoshning o'z joniga qasd qilishi. G'oya: Boylarning qalin puli ortidan ikki yoshning o'z joniga qasd qilishi."
     },
@@ -21196,6 +22078,7 @@ const adabiyotData = {
           "text": "O'zbek adabiyoti tarixida 'Chig'atoy gurungi' tashkiloti qachon va kim tomonidan tuzilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Hamza Hakimzoda Niyoziy qalamiga mansub?» savolining to'g'ri javobi — Zaharli hayot. Hamza Hakimzoda Niyoziy 'Zaharli hayot' asarini yaratgan."
     },
@@ -21220,6 +22103,7 @@ const adabiyotData = {
           "text": "'Avlodlar dovoni' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Boy ila xizmatchi' asarining muallifi kim?» savolining to'g'ri javobi — Hamza Hakimzoda Niyoziy. 'Boy ila xizmatchi' muallifi Hamza Hakimzoda Niyoziy."
     },
@@ -21244,6 +22128,7 @@ const adabiyotData = {
           "text": "'Bodom qishda gulladi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Hamza Hakimzoda Niyoziyning 'Boy ila xizmatchi' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ijtimoiy drama. 'Boy ila xizmatchi' - ijtimoiy drama janridagi asar."
     },
@@ -21268,6 +22153,7 @@ const adabiyotData = {
           "text": "'Hind ixtilolchilari' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Boy ila xizmatchi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — G'ofur, Jamila, Solihboy. Markaziy qahramonlar: G'ofur, Jamila, Solihboy."
     },
@@ -21292,6 +22178,7 @@ const adabiyotData = {
           "text": "'Boy ila xizmatchi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Boy ila xizmatchi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mehnatkash yigitning boy zulmiga qarshi fojiasi. G'oya: Mehnatkash yigitning boy zulmiga qarshi fojiasi."
     },
@@ -21316,6 +22203,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Xurshid Do'stmuhammad qalamiga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Uyg'onish' asarining muallifi kim?» savolining to'g'ri javobi — Abdulhamid Cho'lpon. 'Uyg'onish' muallifi Abdulhamid Cho'lpon."
     },
@@ -21340,6 +22228,7 @@ const adabiyotData = {
           "text": "Hamid Olimjonning 'Zaynab va Omon' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Abdulhamid Cho'lponning 'Uyg'onish' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — she'riy to'plam. 'Uyg'onish' - she'riy to'plam janridagi asar."
     },
@@ -21364,6 +22253,7 @@ const adabiyotData = {
           "text": "Hamid Olimjon qaysi daryo bo'yida tug'ilib o'sgan va uni she'rlarida kuylagan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Uyg'onish' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Turkiston va erkinlik lirikasi. Markaziy qahramonlar: Turkiston va erkinlik lirikasi."
     },
@@ -21388,6 +22278,7 @@ const adabiyotData = {
           "text": "'Suhayl va Guldursun' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Uyg'onish' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Milliy uyg'onish va istiqlol ruhi. G'oya: Milliy uyg'onish va istiqlol ruhi."
     },
@@ -21412,6 +22303,7 @@ const adabiyotData = {
           "text": "'Tohir va Zuhra' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Abdulhamid Cho'lpon qalamiga mansub?» savolining to'g'ri javobi — Uyg'onish. Abdulhamid Cho'lpon 'Uyg'onish' asarini yaratgan."
     },
@@ -21436,6 +22328,7 @@ const adabiyotData = {
           "text": "'Bozor' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Kecha va kunduz' asarining muallifi kim?» savolining to'g'ri javobi — Abdulhamid Cho'lpon. 'Kecha va kunduz' muallifi Abdulhamid Cho'lpon."
     },
@@ -21460,6 +22353,7 @@ const adabiyotData = {
           "text": "Abdulla Avloniy qaysi mashhur asarida 'Tarbiya biz uchun yo hayot – yo mamot...' deydi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Abdulhamid Cho'lponning 'Kecha va kunduz' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ijtimoiy roman. 'Kecha va kunduz' - ijtimoiy roman janridagi asar."
     },
@@ -21484,6 +22378,7 @@ const adabiyotData = {
           "text": "Behbudiyning 1911-yilda yozilgan birinchi o'zbek dramasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Kecha va kunduz' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Zebi, Akbarali mingboshi, Miryoqub, Razzoq so'fi. Markaziy qahramonlar: Zebi, Akbarali mingboshi, Miryoqub, Razzoq so'fi."
     },
@@ -21508,6 +22403,7 @@ const adabiyotData = {
           "text": "'Kecha va kunduz' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Kecha va kunduz' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mustamlaka tuzumi va mutaassiblik girdobidagi ojiz qiz qismati. G'oya: Mustamlaka tuzumi va mutaassiblik girdobidagi ojiz qiz qismati."
     },
@@ -21532,6 +22428,7 @@ const adabiyotData = {
           "text": "'Dunyoning ishlari' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'O'tkan kunlar' asarining muallifi kim?» savolining to'g'ri javobi — Abdulla Qodiriy. 'O'tkan kunlar' muallifi Abdulla Qodiriy."
     },
@@ -21556,6 +22453,7 @@ const adabiyotData = {
           "text": "Abdulhamid Cho'lponning 'Kecha va kunduz' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Abdulla Qodiriyning 'O'tkan kunlar' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy roman. 'O'tkan kunlar' - tarixiy roman janridagi asar."
     },
@@ -21580,6 +22478,7 @@ const adabiyotData = {
           "text": "Abdulla Oripovning 'Jannatga yo'l' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'O'tkan kunlar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Otabek, Kumushbibi, Zaynab, Homid, Yusufbek hoji. Markaziy qahramonlar: Otabek, Kumushbibi, Zaynab, Homid, Yusufbek hoji."
     },
@@ -21604,6 +22503,7 @@ const adabiyotData = {
           "text": "'Sabot ul-ojizin' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'O'tkan kunlar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Qo'qon xonligi parokandaligi va muhabbat fojiasi. G'oya: Qo'qon xonligi parokandaligi va muhabbat fojiasi."
     },
@@ -21628,6 +22528,7 @@ const adabiyotData = {
           "text": "Adabiyotshunoslikda 'Husni ta'lil' badiiy san'ati qanday ta'riflanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Abdulla Qodiriy qalamiga mansub?» savolining to'g'ri javobi — O'tkan kunlar. Abdulla Qodiriy 'O'tkan kunlar' asarini yaratgan."
     },
@@ -21652,6 +22553,7 @@ const adabiyotData = {
           "text": "O'tkir Hoshimovning urush va inson taqdirlari aks etgan romani qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Mehrobdan chayon' asarining muallifi kim?» savolining to'g'ri javobi — Abdulla Qodiriy. 'Mehrobdan chayon' muallifi Abdulla Qodiriy."
     },
@@ -21676,6 +22578,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Yusuf Xos Hojib qalamiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Abdulla Qodiriyning 'Mehrobdan chayon' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy roman. 'Mehrobdan chayon' - tarixiy roman janridagi asar."
     },
@@ -21700,6 +22603,7 @@ const adabiyotData = {
           "text": "'Mehrobdan chayon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Mehrobdan chayon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Anvar, Ra'no, Solih maxdum, Xudoyorxon, Shahodat muftiy. Markaziy qahramonlar: Anvar, Ra'no, Solih maxdum, Xudoyorxon, Shahodat muftiy."
     },
@@ -21724,6 +22628,7 @@ const adabiyotData = {
           "text": "'Mehrobdan chayon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Mehrobdan chayon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mehrobdan chiqqan munofiqlarning begunoh yoshlar boshiga solgan ko'rgiliklari. G'oya: Mehrobdan chiqqan munofiqlarning begunoh yoshlar boshiga solgan ko'rgiliklari."
     },
@@ -21748,6 +22653,7 @@ const adabiyotData = {
           "text": "'Munozara' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Dilbar - davr qizi' asarining muallifi kim?» savolining to'g'ri javobi — Oybek. 'Dilbar - davr qizi' muallifi Oybek."
     },
@@ -21772,6 +22678,7 @@ const adabiyotData = {
           "text": "'Diyonat' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Oybekning 'Dilbar - davr qizi' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — she'riy roman. 'Dilbar - davr qizi' - she'riy roman janridagi asar."
     },
@@ -21796,6 +22703,7 @@ const adabiyotData = {
           "text": "'Devoni hikmat' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Dilbar - davr qizi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Dilbar. Markaziy qahramonlar: Dilbar."
     },
@@ -21820,6 +22728,7 @@ const adabiyotData = {
           "text": "'Sab'ai sayyor' dostonining bosh qahramoni kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Dilbar - davr qizi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'zbek ayolining ilm va yangi hayotga intilishi. G'oya: O'zbek ayolining ilm va yangi hayotga intilishi."
     },
@@ -21844,6 +22753,7 @@ const adabiyotData = {
           "text": "Navoiyning 'Xazoyin ul-maoniy' kulliyoti nechta devonni o'z ichiga oladi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Oybek qalamiga mansub?» savolining to'g'ri javobi — Dilbar - davr qizi. Oybek 'Dilbar - davr qizi' asarini yaratgan."
     },
@@ -21868,6 +22778,7 @@ const adabiyotData = {
           "text": "'Qutlug' qon' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Qutlug' qon' asarining muallifi kim?» savolining to'g'ri javobi — Oybek. 'Qutlug' qon' muallifi Oybek."
     },
@@ -21892,6 +22803,7 @@ const adabiyotData = {
           "text": "'Tanobchilar' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Oybekning 'Qutlug' qon' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ijtimoiy-tarixiy roman. 'Qutlug' qon' - ijtimoiy-tarixiy roman janridagi asar."
     },
@@ -21916,6 +22828,7 @@ const adabiyotData = {
           "text": "'Qutlug' qon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Qutlug' qon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Yo'lchi, Gulnor, Mirzakarimboy, Hakimboyvachcha, Yormat. Markaziy qahramonlar: Yo'lchi, Gulnor, Mirzakarimboy, Hakimboyvachcha, Yormat."
     },
@@ -21940,6 +22853,7 @@ const adabiyotData = {
           "text": "'Qutlug' qon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Qutlug' qon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 1916-yil mardikorlikka olish fojiasi va xalq g'alayoni. G'oya: 1916-yil mardikorlikka olish fojiasi va xalq g'alayoni."
     },
@@ -21964,6 +22878,7 @@ const adabiyotData = {
           "text": "'Navoiy' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Navoiy' asarining muallifi kim?» savolining to'g'ri javobi — Oybek. 'Navoiy' muallifi Oybek."
     },
@@ -21988,6 +22903,7 @@ const adabiyotData = {
           "text": "O'tkir Hoshimovning 'Ikki eshik orasi' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Oybekning 'Navoiy' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy biografik roman. 'Navoiy' - tarixiy biografik roman janridagi asar."
     },
@@ -22012,6 +22928,7 @@ const adabiyotData = {
           "text": "Navoiyning yigitlik davri she'rlari jamlangan ikkinchi devoni qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Navoiy' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Alisher Navoiy, Husayn Boyqaro, Guli, Majdiddin, Arslonqul. Markaziy qahramonlar: Alisher Navoiy, Husayn Boyqaro, Guli, Majdiddin, Arslonqul."
     },
@@ -22036,6 +22953,7 @@ const adabiyotData = {
           "text": "'Navoiy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Navoiy' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Buyuk shoirning xalq g'amxo'ri sifatidagi faoliyati. G'oya: Buyuk shoirning xalq g'amxo'ri sifatidagi faoliyati."
     },
@@ -22060,6 +22978,7 @@ const adabiyotData = {
           "text": "'Qutadg'u bilig' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Shum bola' asarining muallifi kim?» savolining to'g'ri javobi — G'afur G'ulom. 'Shum bola' muallifi G'afur G'ulom."
     },
@@ -22084,6 +23003,7 @@ const adabiyotData = {
           "text": "'Muhokamat ul-lug'atayn' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«G'afur G'ulomning 'Shum bola' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — avtobiografik sarguzasht qissa. 'Shum bola' - avtobiografik sarguzasht qissa janridagi asar."
     },
@@ -22108,6 +23028,7 @@ const adabiyotData = {
           "text": "Mahmud Qoshg'ariyning 'Devonu lug'otit turk' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Shum bola' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Qoravoy (Shum bola), Omon, Sariboy. Markaziy qahramonlar: Qoravoy (Shum bola), Omon, Sariboy."
     },
@@ -22132,6 +23053,7 @@ const adabiyotData = {
           "text": "'Go'ro'g'li' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Shum bola' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Xalqning og'ir hayoti fonida bolaning topqirligi. G'oya: Xalqning og'ir hayoti fonida bolaning topqirligi."
     },
@@ -22156,6 +23078,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri G'afur G'ulom qalamiga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri G'afur G'ulom qalamiga mansub?» savolining to'g'ri javobi — Shum bola. G'afur G'ulom 'Shum bola' asarini yaratgan."
     },
@@ -22180,6 +23103,7 @@ const adabiyotData = {
           "text": "'Go'ro'g'li' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Yodgor' asarining muallifi kim?» savolining to'g'ri javobi — G'afur G'ulom. 'Yodgor' muallifi G'afur G'ulom."
     },
@@ -22204,6 +23128,7 @@ const adabiyotData = {
           "text": "G'afur G'ulomning 'Yodgor' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«G'afur G'ulomning 'Yodgor' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — qissa. 'Yodgor' - qissa janridagi asar."
     },
@@ -22228,6 +23153,7 @@ const adabiyotData = {
           "text": "'Yodgor' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Yodgor' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Yodgor va Jo'raboy. Markaziy qahramonlar: Yodgor va Jo'raboy."
     },
@@ -22252,6 +23178,7 @@ const adabiyotData = {
           "text": "'Ikki eshik orasi' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Yodgor' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Yetim bolaning mehr-oqibatli insonlar bag'rida kamol topishi. G'oya: Yetim bolaning mehr-oqibatli insonlar bag'rida kamol topishi."
     },
@@ -22276,6 +23203,7 @@ const adabiyotData = {
           "text": "'Zaynab va Omon' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Zaynab va Omon' asarining muallifi kim?» savolining to'g'ri javobi — Hamid Olimjon. 'Zaynab va Omon' muallifi Hamid Olimjon."
     },
@@ -22300,6 +23228,7 @@ const adabiyotData = {
           "text": "Erkin Vohidovning 'Diyonat' she'ridagi asosiy g'oya nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Hamid Olimjonning 'Zaynab va Omon' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — lirik doston. 'Zaynab va Omon' - lirik doston janridagi asar."
     },
@@ -22324,6 +23253,7 @@ const adabiyotData = {
           "text": "'Saddi Iskandariy' dostonida Iskandar kimlarning yo'lini to'sish uchun ulkan to'g'on quradi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Zaynab va Omon' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Zaynab va Omon. Markaziy qahramonlar: Zaynab va Omon."
     },
@@ -22348,6 +23278,7 @@ const adabiyotData = {
           "text": "'Qisasi Rabg'uziy' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Zaynab va Omon' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Qishloqda yangicha mehnat va sevgining go'zalligi. G'oya: Qishloqda yangicha mehnat va sevgining go'zalligi."
     },
@@ -22372,6 +23303,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Saddi Iskandariy' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Hamid Olimjon qalamiga mansub?» savolining to'g'ri javobi — Zaynab va Omon. Hamid Olimjon 'Zaynab va Omon' asarini yaratgan."
     },
@@ -22396,6 +23328,7 @@ const adabiyotData = {
           "text": "'Muqanna' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Muqanna' asarining muallifi kim?» savolining to'g'ri javobi — Hamid Olimjon. 'Muqanna' muallifi Hamid Olimjon."
     },
@@ -22420,6 +23353,7 @@ const adabiyotData = {
           "text": "Hamid Olimjonning 'Muqanna' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Hamid Olimjonning 'Muqanna' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — she'riy drama. 'Muqanna' - she'riy drama janridagi asar."
     },
@@ -22444,6 +23378,7 @@ const adabiyotData = {
           "text": "'Ko'hna dunyo' asarining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Muqanna' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Muqanna va Guloyim. Markaziy qahramonlar: Muqanna va Guloyim."
     },
@@ -22468,6 +23403,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Odil Yoqubov qalamiga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Muqanna' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Oq kiyimlilarning dushmanga taslim bo'lmay o'zini olovga tashlashi. G'oya: Oq kiyimlilarning dushmanga taslim bo'lmay o'zini olovga tashlashi."
     },
@@ -22492,6 +23428,7 @@ const adabiyotData = {
           "text": "G'afur G'ulomning bolalik xotiralari aks etgan mashhur qissasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Mirzo Ulug'bek' asarining muallifi kim?» savolining to'g'ri javobi — Maqsud Shayxzoda. 'Mirzo Ulug'bek' muallifi Maqsud Shayxzoda."
     },
@@ -22516,6 +23453,7 @@ const adabiyotData = {
           "text": "'Bodom qishda gulladi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Maqsud Shayxzodaning 'Mirzo Ulug'bek' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy tragediya. 'Mirzo Ulug'bek' - tarixiy tragediya janridagi asar."
     },
@@ -22540,6 +23478,7 @@ const adabiyotData = {
           "text": "'Muxtasar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Mirzo Ulug'bek' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Mirzo Ulug'bek, Abdullatif, Ali Qushchi, Gavharshodbegim. Markaziy qahramonlar: Mirzo Ulug'bek, Abdullatif, Ali Qushchi, Gavharshodbegim."
     },
@@ -22564,6 +23503,7 @@ const adabiyotData = {
           "text": "'Mirzo Ulug'bek' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Mirzo Ulug'bek' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Olim shohning mutaassib ruhoniylar va o'z o'g'li xiyonatidan fojiasi. G'oya: Olim shohning mutaassib ruhoniylar va o'z o'g'li xiyonatidan fojiasi."
     },
@@ -22588,6 +23528,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Maqsud Shayxzoda qalamiga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Maqsud Shayxzoda qalamiga mansub?» savolining to'g'ri javobi — Mirzo Ulug'bek. Maqsud Shayxzoda 'Mirzo Ulug'bek' asarini yaratgan."
     },
@@ -22612,6 +23553,7 @@ const adabiyotData = {
           "text": "Navoiyning ma'naviy otasi Sayyid Hasan Ardasher xotirasiga yozgan asari qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Jaloliddin Manguberdi' asarining muallifi kim?» savolining to'g'ri javobi — Maqsud Shayxzoda. 'Jaloliddin Manguberdi' muallifi Maqsud Shayxzoda."
     },
@@ -22636,6 +23578,7 @@ const adabiyotData = {
           "text": "Maqsud Shayxzodaning 'Jaloliddin Manguberdi' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Maqsud Shayxzodaning 'Jaloliddin Manguberdi' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — qahramonlik dramasi. 'Jaloliddin Manguberdi' - qahramonlik dramasi janridagi asar."
     },
@@ -22660,6 +23603,7 @@ const adabiyotData = {
           "text": "Murod Muhammad Do'stning mashhur satirik-psixologik romani qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Jaloliddin Manguberdi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Jaloliddin, Chingizxon, Temur Malik. Markaziy qahramonlar: Jaloliddin, Chingizxon, Temur Malik."
     },
@@ -22684,6 +23628,7 @@ const adabiyotData = {
           "text": "'Ulug'bek xazinasi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Jaloliddin Manguberdi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Sind daryosi bo'yida mo'g'ul lashkariga qarshi matonat. G'oya: Sind daryosi bo'yida mo'g'ul lashkariga qarshi matonat."
     },
@@ -22708,6 +23653,7 @@ const adabiyotData = {
           "text": "'Jimjitlik' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Ufq' asarining muallifi kim?» savolining to'g'ri javobi — Said Ahmad. 'Ufq' muallifi Said Ahmad."
     },
@@ -22732,6 +23678,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Shohnoma' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Said Ahmadning 'Ufq' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy trilogiya. 'Ufq' - tarixiy trilogiya janridagi asar."
     },
@@ -22756,6 +23703,7 @@ const adabiyotData = {
           "text": "'Hind ixtilolchilari' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Ufq' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Ikromjon, Jannat xola, Tursunboy, Azizxon. Markaziy qahramonlar: Ikromjon, Jannat xola, Tursunboy, Azizxon."
     },
@@ -22780,6 +23728,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Hayrat ul-abror' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Ufq' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Katta Farg'ona kanali qurilishi va front orti mehnati. G'oya: Katta Farg'ona kanali qurilishi va front orti mehnati."
     },
@@ -22804,6 +23753,7 @@ const adabiyotData = {
           "text": "Uvaysiy mumtoz adabiyotimizda qaysi janrning mohir ustasi sanaladi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Said Ahmad qalamiga mansub?» savolining to'g'ri javobi — Ufq. Said Ahmad 'Ufq' asarini yaratgan."
     },
@@ -22828,6 +23778,7 @@ const adabiyotData = {
           "text": "Hamid Olimjon qaysi daryo bo'yida tug'ilib o'sgan va uni she'rlarida kuylagan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Jimjitlik' asarining muallifi kim?» savolining to'g'ri javobi — Said Ahmad. 'Jimjitlik' muallifi Said Ahmad."
     },
@@ -22852,6 +23803,7 @@ const adabiyotData = {
           "text": "Shukur Xolmirzayev qaysi viloyatda tug'ilgan va uning tabiati asarlariga singgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Said Ahmadning 'Jimjitlik' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ijtimoiy-tanqidiy roman. 'Jimjitlik' - ijtimoiy-tanqidiy roman janridagi asar."
     },
@@ -22876,6 +23828,7 @@ const adabiyotData = {
           "text": "'Ona lochin nidosi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Jimjitlik' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — To'lanboy, Mirvali, Rustambek. Markaziy qahramonlar: To'lanboy, Mirvali, Rustambek."
     },
@@ -22900,6 +23853,7 @@ const adabiyotData = {
           "text": "'Jimjitlik' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Jimjitlik' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Sovet turg'unlik yillaridagi ma'naviy tanazzul fosh etilishi. G'oya: Sovet turg'unlik yillaridagi ma'naviy tanazzul fosh etilishi."
     },
@@ -22924,6 +23878,7 @@ const adabiyotData = {
           "text": "Adabiyotshunoslikda 'Ruju' badiiy san'ati qanday ta'riflanadi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Kelinlar qo'zg'oloni' asarining muallifi kim?» savolining to'g'ri javobi — Said Ahmad. 'Kelinlar qo'zg'oloni' muallifi Said Ahmad."
     },
@@ -22948,6 +23903,7 @@ const adabiyotData = {
           "text": "Xurshid Do'stmuhammadning 'Bozor' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Said Ahmadning 'Kelinlar qo'zg'oloni' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — komediya. 'Kelinlar qo'zg'oloni' - komediya janridagi asar."
     },
@@ -22972,6 +23928,7 @@ const adabiyotData = {
           "text": "Muqimiyning 'Tanobchilar' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Kelinlar qo'zg'oloni' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Farmonbibi, Nigora, To'xta. Markaziy qahramonlar: Farmonbibi, Nigora, To'xta."
     },
@@ -22996,6 +23953,7 @@ const adabiyotData = {
           "text": "Muhammad Rizo Ogahiy qaysi sohaga beqiyos hissa qo'shgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Kelinlar qo'zg'oloni' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Oiladagi eskirgan qoliplarga qarshi zamonaviy erkinlik kurashi. G'oya: Oiladagi eskirgan qoliplarga qarshi zamonaviy erkinlik kurashi."
     },
@@ -23020,6 +23978,7 @@ const adabiyotData = {
           "text": "Muhammad Rizo Ogahiy qaysi sohaga beqiyos hissa qo'shgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«'Yulduzli tunlar' asarining muallifi kim?» savolining to'g'ri javobi — Pirimqul Qodirov. 'Yulduzli tunlar' muallifi Pirimqul Qodirov."
     },
@@ -23044,6 +24003,7 @@ const adabiyotData = {
           "text": "Pirimqul Qodirovning 'Yulduzli tunlar' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Pirimqul Qodirovning 'Yulduzli tunlar' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy roman. 'Yulduzli tunlar' - tarixiy roman janridagi asar."
     },
@@ -23068,6 +24028,7 @@ const adabiyotData = {
           "text": "Nosiruddin Rabg'uziyning 'Qisasi Rabg'uziy' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Yulduzli tunlar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Zahiriddin Muhammad Bobur, Xonzodabegim, Qosim bek. Markaziy qahramonlar: Zahiriddin Muhammad Bobur, Xonzodabegim, Qosim bek."
     },
@@ -23092,6 +24053,7 @@ const adabiyotData = {
           "text": "'Yulduzli tunlar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Yulduzli tunlar' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Boburning taxt iztiroblari va buyuk davlatchilik asosini qurishi. G'oya: Boburning taxt iztiroblari va buyuk davlatchilik asosini qurishi."
     },
@@ -23116,6 +24078,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Xurshid Do'stmuhammad qalamiga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Pirimqul Qodirov qalamiga mansub?» savolining to'g'ri javobi — Yulduzli tunlar. Pirimqul Qodirov 'Yulduzli tunlar' asarini yaratgan."
     },
@@ -23140,6 +24103,7 @@ const adabiyotData = {
           "text": "'Munozara' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Avlodlar dovoni' asarining muallifi kim?» savolining to'g'ri javobi — Pirimqul Qodirov. 'Avlodlar dovoni' muallifi Pirimqul Qodirov."
     },
@@ -23164,6 +24128,7 @@ const adabiyotData = {
           "text": "Erkin A'zamning 'Jannat o'zi qaydadir' qissasidagi bosh mavzu nima?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Pirimqul Qodirovning 'Avlodlar dovoni' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy roman. 'Avlodlar dovoni' - tarixiy roman janridagi asar."
     },
@@ -23188,6 +24153,7 @@ const adabiyotData = {
           "text": "Said Ahmadning 'Kelinlar qo'zg'oloni' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Avlodlar dovoni' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Humoyun, Akbarshoh, Bayramxon. Markaziy qahramonlar: Humoyun, Akbarshoh, Bayramxon."
     },
@@ -23212,6 +24178,7 @@ const adabiyotData = {
           "text": "Sa'diy Sheroziyning 'Guliston' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Avlodlar dovoni' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Boburiylar sulolasining Hindistondagi buyuk yuksalishi. G'oya: Boburiylar sulolasining Hindistondagi buyuk yuksalishi."
     },
@@ -23236,6 +24203,7 @@ const adabiyotData = {
           "text": "'Ona lochin nidosi' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Ona lochin nidosi' asarining muallifi kim?» savolining to'g'ri javobi — Pirimqul Qodirov. 'Ona lochin nidosi' muallifi Pirimqul Qodirov."
     },
@@ -23260,6 +24228,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Muhokamat ul-lug'atayn' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Pirimqul Qodirovning 'Ona lochin nidosi' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy roman. 'Ona lochin nidosi' - tarixiy roman janridagi asar."
     },
@@ -23284,6 +24253,7 @@ const adabiyotData = {
           "text": "Asqad Muxtorning 'Chinor' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Ona lochin nidosi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Gavharshodbegim va Temuriy malikalar. Markaziy qahramonlar: Gavharshodbegim va Temuriy malikalar."
     },
@@ -23308,6 +24278,7 @@ const adabiyotData = {
           "text": "'Ona lochin nidosi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Ona lochin nidosi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Temuriylar saltanatidagi ayollar aqli va me'moriy bunyodkorligi. G'oya: Temuriylar saltanatidagi ayollar aqli va me'moriy bunyodkorligi."
     },
@@ -23332,6 +24303,7 @@ const adabiyotData = {
           "text": "'Uch ildiz' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Uch ildiz' asarining muallifi kim?» savolining to'g'ri javobi — Pirimqul Qodirov. 'Uch ildiz' muallifi Pirimqul Qodirov."
     },
@@ -23356,6 +24328,7 @@ const adabiyotData = {
           "text": "Pirimqul Qodirovning 'Uch ildiz' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Pirimqul Qodirovning 'Uch ildiz' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — roman. 'Uch ildiz' - roman janridagi asar."
     },
@@ -23380,6 +24353,7 @@ const adabiyotData = {
           "text": "'Uch ildiz' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Uch ildiz' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Mahkam, Samad, Ochil. Markaziy qahramonlar: Mahkam, Samad, Ochil."
     },
@@ -23404,6 +24378,7 @@ const adabiyotData = {
           "text": "'Uch ildiz' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Uch ildiz' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Universitet talabalarining ilm va muhabbat yo'lidagi qarashlari. G'oya: Universitet talabalarining ilm va muhabbat yo'lidagi qarashlari."
     },
@@ -23428,6 +24403,7 @@ const adabiyotData = {
           "text": "Jahon adabiyoti durdonasi bo'lgan 'Robinzon Kruzo' asarining muallifi kim?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Ulug'bek xazinasi' asarining muallifi kim?» savolining to'g'ri javobi — Odil Yoqubov. 'Ulug'bek xazinasi' muallifi Odil Yoqubov."
     },
@@ -23452,6 +24428,7 @@ const adabiyotData = {
           "text": "Odil Yoqubovning 'Ulug'bek xazinasi' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Odil Yoqubovning 'Ulug'bek xazinasi' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy roman. 'Ulug'bek xazinasi' - tarixiy roman janridagi asar."
     },
@@ -23476,6 +24453,7 @@ const adabiyotData = {
           "text": "'Zaharli hayot' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Ulug'bek xazinasi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Mirzo Ulug'bek, Ali Qushchi, Abdullatif, Mavlono Muhiddin. Markaziy qahramonlar: Mirzo Ulug'bek, Ali Qushchi, Abdullatif, Mavlono Muhiddin."
     },
@@ -23500,6 +24478,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Abdulla Oripov qalamiga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«'Ulug'bek xazinasi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zij jadvalini va bebaho kutubxonani jaholatdan asrab qolish fidoiyligi. G'oya: Zij jadvalini va bebaho kutubxonani jaholatdan asrab qolish fidoiyligi."
     },
@@ -23524,6 +24503,7 @@ const adabiyotData = {
           "text": "Alisher Navoiyning 'Layli va Majnun' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri Odil Yoqubov qalamiga mansub?» savolining to'g'ri javobi — Ulug'bek xazinasi. Odil Yoqubov 'Ulug'bek xazinasi' asarini yaratgan."
     },
@@ -23548,6 +24528,7 @@ const adabiyotData = {
           "text": "'Ona lochin nidosi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Ko'hna dunyo' asarining muallifi kim?» savolining to'g'ri javobi — Odil Yoqubov. 'Ko'hna dunyo' muallifi Odil Yoqubov."
     },
@@ -23572,6 +24553,7 @@ const adabiyotData = {
           "text": "'Devoni hikmat' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Odil Yoqubovning 'Ko'hna dunyo' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — tarixiy roman. 'Ko'hna dunyo' - tarixiy roman janridagi asar."
     },
@@ -23596,6 +24578,7 @@ const adabiyotData = {
           "text": "'Ko'hna dunyo' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Ko'hna dunyo' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Abu Rayhon Beruniy, Ibn Sino, Mahmud G'aznaviy. Markaziy qahramonlar: Abu Rayhon Beruniy, Ibn Sino, Mahmud G'aznaviy."
     },
@@ -23620,6 +24603,7 @@ const adabiyotData = {
           "text": "'Muxtasar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Ko'hna dunyo' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Sharq ilm-fani daholarining zolim sultonlar saroyidagi matonati. G'oya: Sharq ilm-fani daholarining zolim sultonlar saroyidagi matonati."
     },
@@ -23644,6 +24628,7 @@ const adabiyotData = {
           "text": "'Yusuf va Zulayho' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Diyonat' asarining muallifi kim?» savolining to'g'ri javobi — Odil Yoqubov. 'Diyonat' muallifi Odil Yoqubov."
     },
@@ -23668,6 +24653,7 @@ const adabiyotData = {
           "text": "Odil Yoqubovning 'Diyonat' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Odil Yoqubovning 'Diyonat' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — ijtimoiy roman. 'Diyonat' - ijtimoiy roman janridagi asar."
     },
@@ -23692,6 +24678,7 @@ const adabiyotData = {
           "text": "'Diyonat' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Diyonat' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Normurod Shomurodov, Otaqo'ziy. Markaziy qahramonlar: Normurod Shomurodov, Otaqo'ziy."
     },
@@ -23716,6 +24703,7 @@ const adabiyotData = {
           "text": "'Alpomish' dostonida Alpomish va Barchinoy beshikkerti qilingan qabila qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«'Diyonat' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Paxta rejasi ortidagi qallobliklarga qarshi vijdon kurashi. G'oya: Paxta rejasi ortidagi qallobliklarga qarshi vijdon kurashi."
     },
@@ -23740,6 +24728,7 @@ const adabiyotData = {
           "text": "Ernest Xemingueyning 'Chol va dengiz' asarida qanday voqealar va qahramonlar tasvirlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«'Dunyoning ishlari' asarining muallifi kim?» savolining to'g'ri javobi — O'tkir Hoshimov. 'Dunyoning ishlari' muallifi O'tkir Hoshimov."
     },
@@ -23764,6 +24753,7 @@ const adabiyotData = {
           "text": "'Dunyoning ishlari' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'tkir Hoshimovning 'Dunyoning ishlari' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — lirik-nasriy qissa. 'Dunyoning ishlari' - lirik-nasriy qissa janridagi asar."
     },
@@ -23788,6 +24778,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri Abdurauf Fitrat qalamiga mansub?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Dunyoning ishlari' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Muallif va uning onasi. Markaziy qahramonlar: Muallif va uning onasi."
     },
@@ -23812,6 +24803,7 @@ const adabiyotData = {
           "text": "Navoiy 1466-1469-yillarda qaysi shaharda yashab, Fazlulloh Abullaysiydan ta'lim oladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Dunyoning ishlari' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ona mehri, uning o'rni to'lmas yo'qotilishi va farzandlik burchi. G'oya: Ona mehri, uning o'rni to'lmas yo'qotilishi va farzandlik burchi."
     },
@@ -23836,6 +24828,7 @@ const adabiyotData = {
           "text": "Abdulhamid Cho'lponning 'Kecha va kunduz' asari qaysi adabiy janrga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Quyidagi asarlardan qaysi biri O'tkir Hoshimov qalamiga mansub?» savolining to'g'ri javobi — Dunyoning ishlari. O'tkir Hoshimov 'Dunyoning ishlari' asarini yaratgan."
     },
@@ -23860,6 +24853,7 @@ const adabiyotData = {
           "text": "'Ikki eshik orasi' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Ikki eshik orasi' asarining muallifi kim?» savolining to'g'ri javobi — O'tkir Hoshimov. 'Ikki eshik orasi' muallifi O'tkir Hoshimov."
     },
@@ -23884,6 +24878,7 @@ const adabiyotData = {
           "text": "Abdulla Oripov O'zbekiston Respublikasi Davlat Madhiyasi muallifi hisoblanadi. Madhiya matni qachon qabul qilingan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'tkir Hoshimovning 'Ikki eshik orasi' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — roman. 'Ikki eshik orasi' - roman janridagi asar."
     },
@@ -23908,6 +24903,7 @@ const adabiyotData = {
           "text": "Quyidagi asarlardan qaysi biri O'zbek xalq eposi qalamiga mansub?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Ikki eshik orasi' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Kimsan, Robiya, Shomurod, Umar zakunchi. Markaziy qahramonlar: Kimsan, Robiya, Shomurod, Umar zakunchi."
     },
@@ -23932,6 +24928,7 @@ const adabiyotData = {
           "text": "'Ikki eshik orasi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Ikki eshik orasi' asarining asosiy g'oyaviy mazmuni va ziddiyati qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Urush keltirgan bevaqt judoliklar va insoniylik sinovi. G'oya: Urush keltirgan bevaqt judoliklar va insoniylik sinovi."
     },
@@ -23956,6 +24953,7 @@ const adabiyotData = {
           "text": "'Tushda kechgan umrlar' asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Tushda kechgan umrlar' asarining muallifi kim?» savolining to'g'ri javobi — O'tkir Hoshimov. 'Tushda kechgan umrlar' muallifi O'tkir Hoshimov."
     },
@@ -23980,6 +24978,7 @@ const adabiyotData = {
           "text": "'Jaloliddin Manguberdi' asarining muallifi kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'tkir Hoshimovning 'Tushda kechgan umrlar' asari qaysi adabiy janrga mansub?» savolining to'g'ri javobi — roman. 'Tushda kechgan umrlar' - roman janridagi asar."
     },
@@ -24004,6 +25003,7 @@ const adabiyotData = {
           "text": "'Tushda kechgan umrlar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Tushda kechgan umrlar' asarida qaysi markaziy qahramonlar siymosi aks ettirilgan?» savolining to'g'ri javobi — Rustam, Shahnoza, Komissar. Markaziy qahramonlar: Rustam, Shahnoza, Komissar."
     }

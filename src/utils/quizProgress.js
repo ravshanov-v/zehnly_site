@@ -1,15 +1,20 @@
 import { getSession, subscribe as subscribeSession } from './authStore.js'
+import { isSupabaseEnabled, supabase } from '../lib/supabase.js'
 
 const STORAGE_PREFIX = 'zehnly_quiz_progress:'
 const GUEST_KEY = 'guest'
+const SYNC_DELAY_MS = 800
 
 export const BATCH_SIZE = 20
 
 const listeners = new Set()
+const syncTimers = new Map()
 
 let cacheKey = null
 let cacheRaw = null
 let cacheValue = {}
+let remoteUserId = null
+let remoteGeneration = 0
 
 function emit() {
   listeners.forEach((listener) => listener())
@@ -25,7 +30,16 @@ export function subscribe(listener) {
   }
 }
 
+function currentUserId() {
+  return isSupabaseEnabled ? getSession()?.id || null : null
+}
+
 function storageKey() {
+  if (isSupabaseEnabled) {
+    const session = getSession()
+    return `${STORAGE_PREFIX}${session?.id ? `user:${session.id}` : GUEST_KEY}`
+  }
+
   return `${STORAGE_PREFIX}${getSession()?.email || GUEST_KEY}`
 }
 
@@ -51,6 +65,14 @@ function write(key, value) {
     localStorage.setItem(key, JSON.stringify(value))
   } catch {
     // localStorage to'lgan yoki mavjud bo'lmagan holatda jim o'tamiz
+  }
+}
+
+function removeRaw(key) {
+  try {
+    localStorage.removeItem(key)
+  } catch {
+    // muhim emas
   }
 }
 
@@ -93,6 +115,185 @@ export function getProgressState() {
 
 export function getCategoryProgress(categoryId) {
   return getProgressState()[categoryId] || null
+}
+
+function scheduleRemoteSync(categoryId) {
+  const userId = currentUserId()
+  if (!userId) return
+
+  const existing = syncTimers.get(categoryId)
+  if (existing) clearTimeout(existing)
+
+  syncTimers.set(
+    categoryId,
+    setTimeout(() => {
+      syncTimers.delete(categoryId)
+
+      const session = getSession()
+      if (!session?.id || session.id !== userId) return
+
+      const state = getProgressState()[categoryId]
+      if (!state) return
+
+      supabase
+        .from('quiz_progress')
+        .upsert(
+          {
+            user_id: userId,
+            category_id: categoryId,
+            question_order: state.order,
+            cursor: state.cursor,
+            cycles: state.cycles || 0,
+            updated_at: new Date().toISOString(),
+          },
+          { onConflict: 'user_id,category_id' }
+        )
+        .then(({ error }) => {
+          if (error) console.warn('progress saqlanmadi:', error.message)
+        })
+    }, SYNC_DELAY_MS)
+  )
+}
+
+function clearSyncTimers() {
+  syncTimers.forEach((timer) => clearTimeout(timer))
+  syncTimers.clear()
+}
+
+function mapRemote(row) {
+  return {
+    order: Array.isArray(row.question_order) ? row.question_order : [],
+    cursor: Number.isFinite(row.cursor) ? row.cursor : 0,
+    cycles: Number.isFinite(row.cycles) ? row.cycles : 0,
+    updatedAt: row.updated_at || new Date().toISOString(),
+  }
+}
+
+async function loadRemoteProgress(userId, generation = remoteGeneration) {
+  const { data, error } = await supabase
+    .from('quiz_progress')
+    .select('*')
+    .eq('user_id', userId)
+
+  if (generation !== remoteGeneration || remoteUserId !== userId) return
+
+  if (error) {
+    console.warn('progress yuklanmadi:', error.message)
+    return
+  }
+
+  const key = storageKey()
+  const localState = parse(readRaw(key))
+  const remoteRows = data || []
+  const merged = { ...localState }
+  const toPush = []
+
+  for (const row of remoteRows) {
+    const remote = mapRemote(row)
+    const local = merged[row.category_id]
+
+    if (!local) {
+      merged[row.category_id] = remote
+      continue
+    }
+
+    const localTime = new Date(local.updatedAt || 0).getTime()
+    const remoteTime = new Date(remote.updatedAt || 0).getTime()
+
+    if (remoteTime >= localTime) {
+      merged[row.category_id] = remote
+    } else {
+      toPush.push(row.category_id)
+    }
+  }
+
+  const remoteIds = new Set(remoteRows.map((row) => row.category_id))
+
+  for (const categoryId of Object.keys(localState)) {
+    if (!remoteIds.has(categoryId)) toPush.push(categoryId)
+  }
+
+  write(key, merged)
+  syncCache(key, merged)
+  emit()
+
+  toPush.forEach((categoryId) => scheduleRemoteSync(categoryId))
+}
+
+function syncForSession() {
+  const userId = currentUserId()
+  clearSyncTimers()
+
+  if (userId) {
+    if (remoteUserId === userId) return
+
+    remoteUserId = userId
+    remoteGeneration += 1
+    loadRemoteProgress(userId, remoteGeneration)
+    return
+  }
+
+  remoteUserId = null
+  remoteGeneration += 1
+
+  const key = storageKey()
+  const raw = readRaw(key)
+  cacheKey = key
+  cacheRaw = raw
+  cacheValue = parse(raw)
+  emit()
+}
+
+export async function mergeGuestProgress() {
+  const userId = currentUserId()
+  if (!userId) return
+
+  const guestKey = `${STORAGE_PREFIX}${GUEST_KEY}`
+  const guestState = parse(readRaw(guestKey))
+  const categoryIds = Object.keys(guestState)
+  if (categoryIds.length === 0) return
+
+  const { data, error } = await supabase
+    .from('quiz_progress')
+    .select('category_id')
+    .eq('user_id', userId)
+
+  if (error) {
+    console.warn('Mehmon progressi tekshirilmadi:', error.message)
+    return
+  }
+
+  const existing = new Set((data || []).map((row) => row.category_id))
+  const rows = categoryIds
+    .filter((categoryId) => !existing.has(categoryId))
+    .map((categoryId) => {
+      const item = guestState[categoryId] || {}
+
+      return {
+        user_id: userId,
+        category_id: categoryId,
+        question_order: Array.isArray(item.order) ? item.order : [],
+        cursor: Number.isFinite(item.cursor) ? item.cursor : 0,
+        cycles: Number.isFinite(item.cycles) ? item.cycles : 0,
+        updated_at: item.updatedAt || new Date().toISOString(),
+      }
+    })
+
+  if (rows.length > 0) {
+    const { error: upsertError } = await supabase
+      .from('quiz_progress')
+      .upsert(rows, { onConflict: 'user_id,category_id', ignoreDuplicates: true })
+
+    if (upsertError) {
+      console.warn('Mehmon progressi ko‘chirilmadi:', upsertError.message)
+      return
+    }
+  }
+
+  removeRaw(guestKey)
+  remoteUserId = userId
+  remoteGeneration += 1
+  return loadRemoteProgress(userId, remoteGeneration)
 }
 
 export function ensureCategoryProgress(
@@ -138,6 +339,7 @@ export function ensureCategoryProgress(
 
   if (!unchanged) {
     saveState({ ...state, [categoryId]: next })
+    scheduleRemoteSync(categoryId)
   }
 
   return next
@@ -161,6 +363,7 @@ export function advanceCategoryProgress(categoryId, amount = 1) {
   }
 
   saveState({ ...state, [categoryId]: next })
+  scheduleRemoteSync(categoryId)
   return next
 }
 
@@ -187,3 +390,6 @@ export function getCategoryBatch(categoryId, questions) {
     completed: start >= state.order.length,
   }
 }
+
+subscribeSession(syncForSession)
+syncForSession()

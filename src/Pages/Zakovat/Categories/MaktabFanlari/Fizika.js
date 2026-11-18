@@ -28,6 +28,7 @@ const fizika = {
           "text": "P = m · g"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Jismga ta'sir etuvchi kuch uning massasi va tezlanishi ko'paytmasiga teng."
     },
@@ -52,6 +53,7 @@ const fizika = {
           "text": "3 000 000 km/s"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "c ≈ 3·10^8 m/s = 300 000 km/s."
     },
@@ -76,6 +78,7 @@ const fizika = {
           "text": "120 °C"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Normal atmosfera bosimida suv 100 °C da qaynaydi."
     },
@@ -100,6 +103,7 @@ const fizika = {
           "text": "Vatt"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Xalqaro birliklar sistemasida tok kuchi Amperda o'lchanadi."
     },
@@ -124,6 +128,7 @@ const fizika = {
           "text": "km/soat"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Tezlanish birligi metr taqsim soniya kvadratidir."
     },
@@ -148,6 +153,7 @@ const fizika = {
           "text": "Nolga teng bo'ladi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Tekis harakatda tezlik yo'nalishi va qiymati bo'yicha o'zgarmaydi."
     },
@@ -172,6 +178,7 @@ const fizika = {
           "text": "10.5 m/s²"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "g ≈ 9.8 m/s² (amaliy hisoblashlarda ko'pincha 10 olinadi)."
     },
@@ -196,6 +203,7 @@ const fizika = {
           "text": "ω = T / 2π"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Burchak tezlik ω = 2π/T = 2πν ga teng."
     },
@@ -220,6 +228,7 @@ const fizika = {
           "text": "Birinchi qonuni"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Nyutonning 1-qonuni inersiya qonunidir."
     },
@@ -244,6 +253,7 @@ const fizika = {
           "text": "Moduli bo'yicha teng, yo'nalishi qarama-qarshi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "F1 = -F2 (ta'sir aks ta'sirga teng va qarama-qarshi)."
     },
@@ -268,6 +278,7 @@ const fizika = {
           "text": "F = G · m1m2 / R²"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elastiklik kuchi jism deformatsiyasiga to'g'ri mutanosib."
     },
@@ -292,6 +303,7 @@ const fizika = {
           "text": "F = m · g"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ishqalanish kuchi reaksiya kuchiga mutanosib."
     },
@@ -316,6 +328,7 @@ const fizika = {
           "text": "8.31 J/(mol·K)"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Gravitatsion doimiy G = 6.67·10^-11 N·m²/kg²."
     },
@@ -340,6 +353,7 @@ const fizika = {
           "text": "Ortadi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "F ~ 1/R² qonuniyati bo'yicha masofa oshganda kamayadi."
     },
@@ -364,6 +378,7 @@ const fizika = {
           "text": "p = m · a"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Jism impulsi massa va tezlik ko'paytmasiga teng."
     },
@@ -388,6 +403,7 @@ const fizika = {
           "text": "A = F · s"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kinetik energiya tezlikning kvadratiga to'g'ri proporsional."
     },
@@ -412,6 +428,7 @@ const fizika = {
           "text": "Nyuton (N)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1 Joul = 1 Nyuton · 1 metr."
     },
@@ -436,6 +453,7 @@ const fizika = {
           "text": "Nyuton (N)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 Vatt = 1 Joul / 1 soniya."
     },
@@ -460,6 +478,7 @@ const fizika = {
           "text": "Faqat kuchlar nisbati"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "FIK = (A_foydali / A_to'liq) · 100%."
     },
@@ -484,6 +503,7 @@ const fizika = {
           "text": "Torr"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 Pa = 1 N / m²."
     },
@@ -508,6 +528,7 @@ const fizika = {
           "text": "p = m · g"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gidrostatik bosim zichlik, erkin tushish tezlanishi va balandlikka bog'liq."
     },
@@ -532,6 +553,7 @@ const fizika = {
           "text": "F_A = ρ_s · g · V_ch"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Arximed kuchi siqib chiqarilgan suyuqlik og'irligiga teng."
     },
@@ -556,6 +578,7 @@ const fizika = {
           "text": "Barcha yo'nalishlarda o'zgarishsiz teng uzatiladi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Paskal qonuni: bosim barcha yo'nalishlarga teng tarqaladi."
     },
@@ -580,6 +603,7 @@ const fizika = {
           "text": "760 mm Hg"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 atm = 760 mm simob ustuni ≈ 101325 Pa."
     },
@@ -604,6 +628,7 @@ const fizika = {
           "text": "p = ρ · g · h"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Bosim zarrachalar konsentratsiyasi va o'rtacha kinetik energiyasiga bog'liq."
     },
@@ -628,6 +653,7 @@ const fizika = {
           "text": "p · V = (m / M) · R · T"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ideal gaz holat tenglamasi: pV = νRT."
     },
@@ -652,6 +678,7 @@ const fizika = {
           "text": "Hajm (V = const)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "T = const bo'lganda pV = const."
     },
@@ -676,6 +703,7 @@ const fizika = {
           "text": "Zichlik"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "p = const bo'lganda V/T = const."
     },
@@ -700,6 +728,7 @@ const fizika = {
           "text": "Hajm (V = const, Sharl qonuni)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "V = const bo'lganda p/T = const."
     },
@@ -724,6 +753,7 @@ const fizika = {
           "text": "Adiabatik jarayon (Q = 0)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tashqi muhit bilan issiqlik almashinmaydigan jarayon adiabatik deyiladi."
     },
@@ -748,6 +778,7 @@ const fizika = {
           "text": "Q = c · m · ΔT"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tizimga berilgan issiqlik uning ichki energiyasini oshirishga va ish bajarishga sarflanadi."
     },
@@ -772,6 +803,7 @@ const fizika = {
           "text": "-100 °C"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "0 Kelvin = -273.15 °C."
     },
@@ -796,6 +828,7 @@ const fizika = {
           "text": "η = (T_1 + T_2) / T_1"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "T1 - isitgich, T2 - sovutgich harorati."
     },
@@ -820,6 +853,7 @@ const fizika = {
           "text": "F = k · |q1 · q2| / r²"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kulon kuchi zaryadlar ko'paytmasiga to'g'ri va masofa kvadratiga teskari mutanosib."
     },
@@ -844,6 +878,7 @@ const fizika = {
           "text": "φ = W / q"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kuchlanganlik birlik musbat zaryadga ta'sir qiluvchi kuchdir."
     },
@@ -868,6 +903,7 @@ const fizika = {
           "text": "Genri (H)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Elektr sig'im Faradlarda o'lchanadi."
     },
@@ -892,6 +928,7 @@ const fizika = {
           "text": "P = I · U"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tok kuchi kuchlanishga to'g'ri, qarshilikka teskari mutanosib."
     },
@@ -916,6 +953,7 @@ const fizika = {
           "text": "U = ε - I · r"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "ε - EYK, R - tashqi qarshilik, r - ichki qarshilik."
     },
@@ -940,6 +978,7 @@ const fizika = {
           "text": "R = P / I²"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qarshilik uzunlikka to'g'ri, ko'ndalang kesim yuziga teskari proportsional."
     },
@@ -964,6 +1003,7 @@ const fizika = {
           "text": "Tok kuchi (I = const)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ketma-ket ulanishda barcha qismlardan bir xil tok o'tadi."
     },
@@ -988,6 +1028,7 @@ const fizika = {
           "text": "Qarshilik (R)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Parallel tarmoqlarda kuchlanishlar bir xil bo'ladi."
     },
@@ -1012,6 +1053,7 @@ const fizika = {
           "text": "Q = I² · R · t"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
     },
@@ -1036,6 +1078,7 @@ const fizika = {
           "text": "Veber (Wb)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Magnit maydon induksiyasi Teslada o'lchanadi."
     },
@@ -1060,6 +1103,7 @@ const fizika = {
           "text": "Tesla (Tl)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Magnit oqimi Veberda o'lchanadi (1 Wb = 1 Tl · m²)."
     },
@@ -1084,6 +1128,7 @@ const fizika = {
           "text": "Lorens kuchi (F = q·v·B·sinα)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Lorens kuchi harakatdagi zaryadga ta'sir qiladi."
     },
@@ -1108,6 +1153,7 @@ const fizika = {
           "text": "Amper kuchi (F = I·B·L·sinα)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Amper kuchi tokli o'tkazgichga ta'sir qiladi."
     },
@@ -1132,6 +1178,7 @@ const fizika = {
           "text": "Jeyms Maksvell"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Faradey o'zgaruvchan magnit maydoni tok hosil qilishini isbotlagan."
     },
@@ -1156,6 +1203,7 @@ const fizika = {
           "text": "Chap qo'l qoidasi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
     },
@@ -1180,6 +1228,7 @@ const fizika = {
           "text": "Tesla (Tl)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zinduksiya kattaligi Genrida o'lchanadi."
     },
@@ -1204,6 +1253,7 @@ const fizika = {
           "text": "T = 2π · √(l / g)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mayatnik davri uzunlikka va erkin tushish tezlanishiga bog'liq."
     },
@@ -1228,6 +1278,7 @@ const fizika = {
           "text": "T = 2π · √(m / k)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Davr massa va bikrlikka bog'liq."
     },
@@ -1252,6 +1303,7 @@ const fizika = {
           "text": "ν = 1 / (2πLC)"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Tomson formulasi: T = 2π√(LC)."
     },
@@ -1276,6 +1328,7 @@ const fizika = {
           "text": "λ = v · ν"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "To'lqin uzunligi tezlikning tebranish chastotasiga nisbatiga teng."
     },
@@ -1300,6 +1353,7 @@ const fizika = {
           "text": "α + β = 90°"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yorug'likning qaytish burchagi tushish burchagiga teng."
     },
@@ -1324,6 +1378,7 @@ const fizika = {
           "text": "cosα / cosβ = n"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sinuslarning nisbati nisbiy sindirish ko'rsatkichiga teng."
     },
@@ -1348,6 +1403,7 @@ const fizika = {
           "text": "D = d / f"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yupqa linza formulasi: 1/F = 1/d + 1/f."
     },
@@ -1372,6 +1428,7 @@ const fizika = {
           "text": "Gradus"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1 dptr = 1 / 1 m."
     },
@@ -1396,6 +1453,7 @@ const fizika = {
           "text": "Diffraksiya"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Nyuton ochgan dispersiya hodisasi."
     },
@@ -1420,6 +1478,7 @@ const fizika = {
           "text": "Refraksiya"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "To'lqinlarning to'siq ortiga o'tishi diffraksiyadir."
     },
@@ -1444,6 +1503,7 @@ const fizika = {
           "text": "Diffraksiya"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yorug'lik interferensiyasi to'lqin xususiyatini isbotlaydi."
     },
@@ -1468,6 +1528,7 @@ const fizika = {
           "text": "E = h · ν"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "h - Plank doimiysi, ν - chastota."
     },
@@ -1492,6 +1553,7 @@ const fizika = {
           "text": "9.11 · 10⁻³¹ kg"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Plank doimiysi h ≈ 6.63·10^-34 J·s."
     },
@@ -1516,6 +1578,7 @@ const fizika = {
           "text": "h · ν = A_chiqish"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
     },
@@ -1540,6 +1603,7 @@ const fizika = {
           "text": "D. Mendeleyev"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Rezerford alfa-zarrachalar sochilishi tajribasidan so'ng yadro modelini yaratdi."
     },
@@ -1564,6 +1628,7 @@ const fizika = {
           "text": "Protonlar va neytronlar (nuklonlar)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yadro musbat proton va neytral neytronlardan iborat."
     },
@@ -1588,6 +1653,7 @@ const fizika = {
           "text": "N = A / Z"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Massaviy son A dan tartib raqam Z ayiriladi."
     },
@@ -1612,6 +1678,7 @@ const fizika = {
           "text": "Zarrachalar tezligi 2 barobar kamayishi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "N(t) = N_0 · 2^(-t/T)."
     },
@@ -1636,6 +1703,7 @@ const fizika = {
           "text": "E = h · ν"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Tinchlikdagi massa va energiyaning fundamental bog'liqligi."
     },
@@ -1660,6 +1728,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tezlik - Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)."
     },
@@ -1684,6 +1753,7 @@ const fizika = {
           "text": "Tezlanish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tezlikga tegishli."
     },
@@ -1708,6 +1778,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
     },
@@ -1732,6 +1803,7 @@ const fizika = {
           "text": "Tezlanish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tezlanishga tegishli."
     },
@@ -1756,6 +1828,7 @@ const fizika = {
           "text": "Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kuch - Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)."
     },
@@ -1780,6 +1853,7 @@ const fizika = {
           "text": "Kuch"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuchga tegishli."
     },
@@ -1804,6 +1878,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
     },
@@ -1828,6 +1903,7 @@ const fizika = {
           "text": "Elastiklik kuchi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Og'irlik kuchiga tegishli."
     },
@@ -1852,6 +1928,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Jismning vazni (P) - Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi."
     },
@@ -1876,6 +1953,7 @@ const fizika = {
           "text": "Inersiya"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Jismning vazni (P)ga tegishli."
     },
@@ -1900,6 +1978,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Impuls (Harakat miqdori) - Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)."
     },
@@ -1924,6 +2003,7 @@ const fizika = {
           "text": "Kinetik energiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Impuls (Harakat miqdori)ga tegishli."
     },
@@ -1948,6 +2028,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kuch impulsi - Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)."
     },
@@ -1972,6 +2053,7 @@ const fizika = {
           "text": "Jism impulsi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuch impulsiga tegishli."
     },
@@ -1996,6 +2078,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
     },
@@ -2020,6 +2103,7 @@ const fizika = {
           "text": "To'liq energiya"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kinetik energiyaga tegishli."
     },
@@ -2044,6 +2128,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Potensial energiya - O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)."
     },
@@ -2068,6 +2153,7 @@ const fizika = {
           "text": "Issiqlik miqdori"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Potensial energiyaga tegishli."
     },
@@ -2092,6 +2178,7 @@ const fizika = {
           "text": "Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kuch momenti - Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)."
     },
@@ -2116,6 +2203,7 @@ const fizika = {
           "text": "Bosim"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuch momentiga tegishli."
     },
@@ -2140,6 +2228,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
     },
@@ -2164,6 +2253,7 @@ const fizika = {
           "text": "Bosim"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Zichlikga tegishli."
     },
@@ -2188,6 +2278,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gidrostatik bosim - Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)."
     },
@@ -2212,6 +2303,7 @@ const fizika = {
           "text": "Atmosfera bosimi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gidrostatik bosimga tegishli."
     },
@@ -2236,6 +2328,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Arximed kuchi - Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)."
     },
@@ -2260,6 +2353,7 @@ const fizika = {
           "text": "Sirt taranglik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Arximed kuchiga tegishli."
     },
@@ -2284,6 +2378,7 @@ const fizika = {
           "text": "Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
     },
@@ -2308,6 +2403,7 @@ const fizika = {
           "text": "Zichlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sirt taranglik koeffitsientiga tegishli."
     },
@@ -2332,6 +2428,7 @@ const fizika = {
           "text": "Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Modda miqdori - Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)."
     },
@@ -2356,6 +2453,7 @@ const fizika = {
           "text": "Konsentratsiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Modda miqdoriga tegishli."
     },
@@ -2380,6 +2478,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Avogadro doimiysi - 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)."
     },
@@ -2404,6 +2503,7 @@ const fizika = {
           "text": "Avogadro doimiysi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Avogadro doimiysiga tegishli."
     },
@@ -2428,6 +2528,7 @@ const fizika = {
           "text": "Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bolsman doimiysi - Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)."
     },
@@ -2452,6 +2553,7 @@ const fizika = {
           "text": "Bolsman doimiysi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Bolsman doimiysiga tegishli."
     },
@@ -2476,6 +2578,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Universal gaz doimiysi - 1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))."
     },
@@ -2500,6 +2603,7 @@ const fizika = {
           "text": "Bolsman doimiysi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Universal gaz doimiysiga tegishli."
     },
@@ -2524,6 +2628,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
     },
@@ -2548,6 +2653,7 @@ const fizika = {
           "text": "Solishtirma yonish issiqligi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma issiqlik sig'imiga tegishli."
     },
@@ -2572,6 +2678,7 @@ const fizika = {
           "text": "Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Solishtirma erish issiqligi - Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)."
     },
@@ -2596,6 +2703,7 @@ const fizika = {
           "text": "Bug'lanish issiqligi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma erish issiqligiga tegishli."
     },
@@ -2620,6 +2728,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Solishtirma bug'lanish issiqligi - Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m)."
     },
@@ -2644,6 +2753,7 @@ const fizika = {
           "text": "Solishtirma bug'lanish issiqligi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma bug'lanish issiqligiga tegishli."
     },
@@ -2668,6 +2778,7 @@ const fizika = {
           "text": "Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ichki energiya - Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi."
     },
@@ -2692,6 +2803,7 @@ const fizika = {
           "text": "Kimyoviy energiya"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ichki energiyaga tegishli."
     },
@@ -2716,6 +2828,7 @@ const fizika = {
           "text": "Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
     },
@@ -2740,6 +2853,7 @@ const fizika = {
           "text": "Sig'im"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr zaryadiga tegishli."
     },
@@ -2764,6 +2878,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
     },
@@ -2788,6 +2903,7 @@ const fizika = {
           "text": "Induktivlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr sig'imiga tegishli."
     },
@@ -2812,6 +2928,7 @@ const fizika = {
           "text": "Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
     },
@@ -2836,6 +2953,7 @@ const fizika = {
           "text": "EYK"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr kuchlanish (potensiallar ayirmasi)ga tegishli."
     },
@@ -2860,6 +2978,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Elektr yurituvchi kuch (EYK) - Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)."
     },
@@ -2884,6 +3003,7 @@ const fizika = {
           "text": "Tok kuchi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr yurituvchi kuch (EYK)ga tegishli."
     },
@@ -2908,6 +3028,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
     },
@@ -2932,6 +3053,7 @@ const fizika = {
           "text": "O'tkazuvchanlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma qarshilikga tegishli."
     },
@@ -2956,6 +3078,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr tokining quvvati - Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)."
     },
@@ -2980,6 +3103,7 @@ const fizika = {
           "text": "EYK"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr tokining quvvatiga tegishli."
     },
@@ -3004,6 +3128,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lorens kuchi - Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch."
     },
@@ -3028,6 +3153,7 @@ const fizika = {
           "text": "Og'irlik kuchi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lorens kuchiga tegishli."
     },
@@ -3052,6 +3178,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
     },
@@ -3076,6 +3203,7 @@ const fizika = {
           "text": "Amper kuchi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Amper kuchiga tegishli."
     },
@@ -3100,6 +3228,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "O'zinduksiya hodisasi - Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi."
     },
@@ -3124,6 +3253,7 @@ const fizika = {
           "text": "O'zaro induksiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif O'zinduksiya hodisasiga tegishli."
     },
@@ -3148,6 +3278,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
     },
@@ -3172,6 +3303,7 @@ const fizika = {
           "text": "Dvigatel"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Transformatorga tegishli."
     },
@@ -3196,6 +3328,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
     },
@@ -3220,6 +3353,7 @@ const fizika = {
           "text": "Tebranish davri"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tebranish davriga tegishli."
     },
@@ -3244,6 +3378,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tebranish chastotasi - Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)."
     },
@@ -3268,6 +3403,7 @@ const fizika = {
           "text": "Amplituda"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tebranish chastotasiga tegishli."
     },
@@ -3292,6 +3428,7 @@ const fizika = {
           "text": "Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'lqin interferensiyasi - Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi."
     },
@@ -3316,6 +3453,7 @@ const fizika = {
           "text": "Yutilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'lqin interferensiyasiga tegishli."
     },
@@ -3340,6 +3478,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "To'lqin diffraksiyasi - To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi."
     },
@@ -3364,6 +3503,7 @@ const fizika = {
           "text": "Polyarizatsiya"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'lqin diffraksiyasiga tegishli."
     },
@@ -3388,6 +3528,7 @@ const fizika = {
           "text": "Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yorug'lik dispersiyasi - Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi."
     },
@@ -3412,6 +3553,7 @@ const fizika = {
           "text": "Interferensiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yorug'lik dispersiyasiga tegishli."
     },
@@ -3436,6 +3578,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'liq ichki qaytish - Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi."
     },
@@ -3460,6 +3603,7 @@ const fizika = {
           "text": "Sinish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'liq ichki qaytishga tegishli."
     },
@@ -3484,6 +3628,7 @@ const fizika = {
           "text": "Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fotoeffekt - Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi."
     },
@@ -3508,6 +3653,7 @@ const fizika = {
           "text": "Termoemissiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Fotoeffektga tegishli."
     },
@@ -3532,6 +3678,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yorug'likning qizil chegarasi - Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi)."
     },
@@ -3556,6 +3703,7 @@ const fizika = {
           "text": "Diffraksiya burchagi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yorug'likning qizil chegarasiga tegishli."
     },
@@ -3580,6 +3728,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yadro bog'lanish energiyasi - Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)."
     },
@@ -3604,6 +3753,7 @@ const fizika = {
           "text": "Chiqish ishi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yadro bog'lanish energiyasiga tegishli."
     },
@@ -3628,6 +3778,7 @@ const fizika = {
           "text": "Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Massa defekti - Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm)."
     },
@@ -3652,6 +3803,7 @@ const fizika = {
           "text": "Zichlik defekti"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Massa defektiga tegishli."
     },
@@ -3676,6 +3828,7 @@ const fizika = {
           "text": "Hajmi nolga teng jism"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "O'lchamlari ko'rilayotgan masofalarga nisbatan juda kichik bo'lgan jism."
     },
@@ -3700,6 +3853,7 @@ const fizika = {
           "text": "Faqat chizg'ich va soat"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sanoq sistemasi = Sanoq jismi + Koordinata sistemasi + Soat."
     },
@@ -3724,6 +3878,7 @@ const fizika = {
           "text": "Bosib o'tilgan yo'l uzunligi"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Fazoda jism harakatlangan iz/chiziq trayektoriya deyiladi."
     },
@@ -3748,6 +3903,7 @@ const fizika = {
           "text": "Faqat tezlik vektori"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ko'chish vektor kattalik, yo'l esa skalyar kattalik."
     },
@@ -3772,6 +3928,7 @@ const fizika = {
           "text": "Nolga teng"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Teng o'zgaruvchan harakatda a = const bo'ladi."
     },
@@ -3796,6 +3953,7 @@ const fizika = {
           "text": "h = 2g / t²"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Boshlang'ich tezlik v0 = 0 bo'lganda h = gt²/2."
     },
@@ -3820,6 +3978,7 @@ const fizika = {
           "text": "Aylana"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Havoning qarshiligi hisobga olinmaganda trayektoriya paraboladir."
     },
@@ -3844,6 +4003,7 @@ const fizika = {
           "text": "a = v / t"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Markazga intilma tezlanish a_m = v²/R."
     },
@@ -3868,6 +4028,7 @@ const fizika = {
           "text": "300 000 km/s"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yer atrofida pastki orbitada aylanish tezligi v1 ≈ 7.9 km/s."
     },
@@ -3892,6 +4053,7 @@ const fizika = {
           "text": "16.7 km/s"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yer gravitatsiyasini yengib chiqish tezligi v2 ≈ 11.2 km/s."
     },
@@ -3916,6 +4078,7 @@ const fizika = {
           "text": "11.2 km/s"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Quyosh sistemasini tark etish tezligi v3 ≈ 16.7 km/s."
     },
@@ -3940,6 +4103,7 @@ const fizika = {
           "text": "Massa eng ko'p to'plangan nuqta"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Og'irlik kuchining qo'yilish nuqtasi."
     },
@@ -3964,6 +4128,7 @@ const fizika = {
           "text": "F1 / l1 = F2 / l2"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kuchlar momentlari o'zaro teng bo'lishi kerak."
     },
@@ -3988,6 +4153,7 @@ const fizika = {
           "text": "Kuchdan 2 marta yutuq beradi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ko'chmas blok kuchdan yutuq bermaydi."
     },
@@ -4012,6 +4178,7 @@ const fizika = {
           "text": "4 marta"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ko'char blok kuchdan 2 barobar yutuq beradi (masofada 2 marta yutqazadi)."
     },
@@ -4036,6 +4203,7 @@ const fizika = {
           "text": "Har doim energiyada yutuq bo'ladi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Oddiy mexanizmlar ishdan yutuq bermaydi."
     },
@@ -4060,6 +4228,7 @@ const fizika = {
           "text": "Suyuqlikka aylanmaydigan gaz"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Fizikada qo'llanadigan ideallashtirilgan model."
     },
@@ -4084,6 +4253,7 @@ const fizika = {
           "text": "T = 273.15 / t"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kelvin shkalasi T = t + 273.15 K."
     },
@@ -4108,6 +4278,7 @@ const fizika = {
           "text": "Gravitatsiya ta'sirini"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Moddalarning o'z-o'zidan aralashib ketishi ularning harakatdaligini ko'rsatadi."
     },
@@ -4132,6 +4303,7 @@ const fizika = {
           "text": "Suyuqlik yoki gazda muallaq turgan mikroskopik zarrachalarning tartibsiz harakati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Suyuqlik molekulalarining zarbalari oqibatida yuz beradi."
     },
@@ -4156,6 +4328,7 @@ const fizika = {
           "text": "Faqat suyuqlik massasiga"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Sirt yuzi, harorat va ochiq havo oqimi bug'lanishni tezlashtiradi."
     },
@@ -4180,6 +4353,7 @@ const fizika = {
           "text": "Qizdirilgan quruq bug'"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Vaqt birligida bug'lanayotgan va kondensatsiyalanayotgan molekulalar soni tenglashadi."
     },
@@ -4204,6 +4378,7 @@ const fizika = {
           "text": "Zichlik ortishi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "To'yingan bug' bosimi tashqi bosimga tenglashganda qaynash boshlanadi."
     },
@@ -4228,6 +4403,7 @@ const fizika = {
           "text": "Kondensatsiya"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Erish jarayonida harorat o'zgarmaydi."
     },
@@ -4252,6 +4428,7 @@ const fizika = {
           "text": "Erish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Masalan, yod yoki quruq muzning to'g'ridan-to'g'ri gazga aylanishi."
     },
@@ -4276,6 +4453,7 @@ const fizika = {
           "text": "Bug'lanish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sovuqda derazada qirov hosil bo'lishi desublimatsiyadir."
     },
@@ -4300,6 +4478,7 @@ const fizika = {
           "text": "Qarshilikni o'lchovchi asbob"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Zaryad bor-yo'qligini yaproqchalarning ochilishidan aniqlaydi."
     },
@@ -4324,6 +4503,7 @@ const fizika = {
           "text": "Manfiy ionlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Metallarda tok o'tkazuvchilar erkin elektronlardir."
     },
@@ -4348,6 +4528,7 @@ const fizika = {
           "text": "Faqat neytronlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Elektrolitik dissotsiatsiyada hosil bo'lgan ionlar."
     },
@@ -4372,6 +4553,7 @@ const fizika = {
           "text": "Elektronlar va musbat hamda manfiy ionlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Gaz razryadida ionlar va elektronlar qatnashadi."
     },
@@ -4396,6 +4578,7 @@ const fizika = {
           "text": "Termoelektron emissiya (qizdirilgan katoddan elektronlar ajralishi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Vakuumda termoelektron emissiya orqali tok o'tadi."
     },
@@ -4420,6 +4603,7 @@ const fizika = {
           "text": "Faqat protonli"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Donor aralashma n-tur, akseptor aralashma p-tur hosil qiladi."
     },
@@ -4444,6 +4628,7 @@ const fizika = {
           "text": "Kammerling-Onnes (4.2 K haroratda)"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Kritik haroratda elektr qarshiligining keskin nolga tushishi."
     },
@@ -4468,6 +4653,7 @@ const fizika = {
           "text": "Yorug'lik energiyasi tarqalayotgan yo'nalishni ko'rsatuvchi geometrik chiziq"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Geometrik optikada nur tushunchasi."
     },
@@ -4492,6 +4678,7 @@ const fizika = {
           "text": "Haqiqiy va to'ntarilgan"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yassi ko'zgu doim mavhum va teng tasvir beradi."
     },
@@ -4516,6 +4703,7 @@ const fizika = {
           "text": "Yassi plastinka"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ko'z gavhari yig'uvchi egiluvchan tirik linzadir."
     },
@@ -4540,6 +4728,7 @@ const fizika = {
           "text": "Sochuvchi (botiq) linzalar bilan"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Miopiyada tasvir to'r parda oldiga tushadi, uni sochuvchi linza to'g'rilaydi."
     },
@@ -4564,6 +4753,7 @@ const fizika = {
           "text": "Qorong'i filtr bilan"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gipermetropiyada tasvir to'r parda orqasiga o'tib ketadi, yig'uvchi linza kerak."
     },
@@ -4588,6 +4778,7 @@ const fizika = {
           "text": "380 nm dan 780 nm gacha"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Binafsha rangdan (380 nm) qizil ranggacha (760-780 nm)."
     },
@@ -4612,6 +4803,7 @@ const fizika = {
           "text": "Ko'rinadigan yorug'likdan uzun"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Rentgen nurlari yuqori o'tuvchanlik qobiliyatiga ega."
     },
@@ -4636,6 +4828,7 @@ const fizika = {
           "text": "Beta (β) nurlanish (elektronlar)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gamma nurlari hatto qalin qo'rg'oshin qatlamidan ham o'tadi."
     },
@@ -4660,6 +4853,7 @@ const fizika = {
           "text": "Foton"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Alfa nurlanish geliy yadrolari oqimidir."
     },
@@ -4684,6 +4878,7 @@ const fizika = {
           "text": "Pozitronlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Beta-manfiy yemirilishda yadrodan elektron uchib chiqadi."
     },
@@ -4708,6 +4903,7 @@ const fizika = {
           "text": "Uran-238"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Uran-235 sekin neytronlar ta'sirida bo'linadi va energiya ajratadi."
     },
@@ -4732,6 +4928,7 @@ const fizika = {
           "text": "Yengil yadrolarning (vodorod izotoplari) o'ta yuqori haroratda birikib og'irroq yadro hosil qilishi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Quyosh va yulduzlar energiyasining manbai termoyadro reaksiyasidir."
     },
@@ -4756,6 +4953,7 @@ const fizika = {
           "text": "Gravitatsion qisilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Quyosh yadrosidagi termoyadro reaksiyasi."
     },
@@ -4780,6 +4978,7 @@ const fizika = {
           "text": "Elektronlar qo'zg'almasdir"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "1900-yilda Maks Plank kvant nazariyasiga asos soldi."
     },
@@ -4804,6 +5003,7 @@ const fizika = {
           "text": "Nyutonning ikkinchi qonuni qaysi formula bilan ifodalanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Nyutonning ikkinchi qonuni qaysi formula bilan ifodalanadi?» savolining to'g'ri javobi — F = m · a. Jismga ta'sir etuvchi kuch uning massasi va tezlanishi ko'paytmasiga teng."
     },
@@ -4828,6 +5028,7 @@ const fizika = {
           "text": "To'liq zanjir uchun Om qonuni formulasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Yorug'likning vakuumdagi tezligi taxminan qancha?» savolining to'g'ri javobi — 300 000 km/s. c ≈ 3·10^8 m/s = 300 000 km/s."
     },
@@ -4852,6 +5053,7 @@ const fizika = {
           "text": "Normal sharoitda suv qaysi haroratda qaynaydi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Normal sharoitda suv qaysi haroratda qaynaydi?» savolining to'g'ri javobi — 100 °C. Normal atmosfera bosimida suv 100 °C da qaynaydi."
     },
@@ -4876,6 +5078,7 @@ const fizika = {
           "text": "Mexanik ish qaysi birlikda o'lchanadi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Elektr tok kuchining o'lchov birligi qaysi?» savolining to'g'ri javobi — Amper. Xalqaro birliklar sistemasida tok kuchi Amperda o'lchanadi."
     },
@@ -4900,6 +5103,7 @@ const fizika = {
           "text": "Yassi ko'zguda hosil bo'lgan tasvir qanday xususiyatga ega?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Tezlanishning SI sistemasidagi asosiy o'lchov birligi qaysi?» savolining to'g'ri javobi — m/s². Tezlanish birligi metr taqsim soniya kvadratidir."
     },
@@ -4924,6 +5128,7 @@ const fizika = {
           "text": "Fizikada 'Kuch impulsi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«To'g'ri chiziqli tekis harakatda tezlik qanday o'zgaradi?» savolining to'g'ri javobi — O'zgarmas qoladi (v = const). Tekis harakatda tezlik yo'nalishi va qiymati bo'yicha o'zgarmaydi."
     },
@@ -4948,6 +5153,7 @@ const fizika = {
           "text": "Fizikada 'Elektr tokining quvvati' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Erkin tushish tezlanishining Yer sirtidagi o'rtacha qiymati qancha?» savolining to'g'ri javobi — 9.8 m/s². g ≈ 9.8 m/s² (amaliy hisoblashlarda ko'pincha 10 olinadi)."
     },
@@ -4972,6 +5178,7 @@ const fizika = {
           "text": "Yarimo'tkazgichlarda o'tkazuvchanlik qanday turlarga bo'linadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Burchak tezlik va aylanish davri o'rtasidagi bog'liqlik formulasi qaysi?» savolining to'g'ri javobi — ω = 2π / T. Burchak tezlik ω = 2π/T = 2πν ga teng."
     },
@@ -4996,6 +5203,7 @@ const fizika = {
           "text": "Parallel ulangan o'tkazgichlarda qaysi parametr barchasida teng bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Inersiya qonuni Nyutonning nechanchi qonuni hisoblanadi?» savolining to'g'ri javobi — Birinchi qonuni. Nyutonning 1-qonuni inersiya qonunidir."
     },
@@ -5020,6 +5228,7 @@ const fizika = {
           "text": "Nyutonning uchinchi qonuniga ko'ra ikki jismning o'zaro ta'sir kuchlari qanday bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Nyutonning uchinchi qonuniga ko'ra ikki jismning o'zaro ta'sir kuchlari qanday bo'ladi?» savolining to'g'ri javobi — Moduli bo'yicha teng, yo'nalishi qarama-qarshi. F1 = -F2 (ta'sir aks ta'sirga teng va qarama-qarshi)."
     },
@@ -5044,6 +5253,7 @@ const fizika = {
           "text": "Guk qonuni bo'yicha elastiklik kuchi qanday ifodalanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Guk qonuni bo'yicha elastiklik kuchi qanday ifodalanadi?» savolining to'g'ri javobi — F = -k · x. Elastiklik kuchi jism deformatsiyasiga to'g'ri mutanosib."
     },
@@ -5068,6 +5278,7 @@ const fizika = {
           "text": "Sirpanish ishqalanish kuchi qaysi formula bilan topiladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Sirpanish ishqalanish kuchi qaysi formula bilan topiladi?» savolining to'g'ri javobi — F = μ · N. Ishqalanish kuchi reaksiya kuchiga mutanosib."
     },
@@ -5092,6 +5303,7 @@ const fizika = {
           "text": "Butunjahon tortishish doimiysi G ning son qiymati qancha?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Butunjahon tortishish doimiysi G ning son qiymati qancha?» savolining to'g'ri javobi — 6.67 · 10⁻¹¹ N·m²/kg². Gravitatsion doimiy G = 6.67·10^-11 N·m²/kg²."
     },
@@ -5116,6 +5328,7 @@ const fizika = {
           "text": "Tezlanishning SI sistemasidagi asosiy o'lchov birligi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Jismning Yer sirtidan uzoqlashishi bilan unga ta'sir etuvchi tortishish kuchi qanday o'zgaradi?» savolining to'g'ri javobi — Masofa kvadratiga teskari kamayadi. F ~ 1/R² qonuniyati bo'yicha masofa oshganda kamayadi."
     },
@@ -5140,6 +5353,7 @@ const fizika = {
           "text": "Fizikada 'Elektr tokining quvvati' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Jism impulsi (harakat miqdori) qaysi formula bilan aniqlanadi?» savolining to'g'ri javobi — p = m · v. Jism impulsi massa va tezlik ko'paytmasiga teng."
     },
@@ -5164,6 +5378,7 @@ const fizika = {
           "text": "Foydali ish koeffitsienti (FIK) qanday kattalik?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Kinetik energiya formulasi qaysi?» savolining to'g'ri javobi — E_k = (m · v²) / 2. Kinetik energiya tezlikning kvadratiga to'g'ri proporsional."
     },
@@ -5188,6 +5403,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Mexanik ish qaysi birlikda o'lchanadi?» savolining to'g'ri javobi — Joul (J). 1 Joul = 1 Nyuton · 1 metr."
     },
@@ -5212,6 +5428,7 @@ const fizika = {
           "text": "Fizikada 'Avogadro doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quvvatning SI dagi o'lchov birligi nima?» savolining to'g'ri javobi — Vatt (W). 1 Vatt = 1 Joul / 1 soniya."
     },
@@ -5236,6 +5453,7 @@ const fizika = {
           "text": "Fizikada 'Kuch momenti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Foydali ish koeffitsienti (FIK) qanday kattalik?» savolining to'g'ri javobi — Foydali ishning to'liq sarflangan ishga nisbati. FIK = (A_foydali / A_to'liq) · 100%."
     },
@@ -5260,6 +5478,7 @@ const fizika = {
           "text": "Plank doimiysi h ning son qiymati qancha?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Bosimning SI sistemasidagi o'lchov birligi nima?» savolining to'g'ri javobi — Paskal (Pa). 1 Pa = 1 N / m²."
     },
@@ -5284,6 +5503,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma qarshilik' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Suyuqlik ustunining gidrostatik bosimi qaysi formula bilan aniqlanadi?» savolining to'g'ri javobi — p = ρ · g · h. Gidrostatik bosim zichlik, erkin tushish tezlanishi va balandlikka bog'liq."
     },
@@ -5308,6 +5528,7 @@ const fizika = {
           "text": "Arximed kuchi (ko'tarish kuchi) qaysi formula orqali hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Arximed kuchi (ko'tarish kuchi) qaysi formula orqali hisoblanadi?» savolining to'g'ri javobi — F_A = ρ_s · g · V_ch. Arximed kuchi siqib chiqarilgan suyuqlik og'irligiga teng."
     },
@@ -5332,6 +5553,7 @@ const fizika = {
           "text": "Mexanikaning 'oltin qoidasi' qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Paskal qonuniga ko'ra suyuqlik va gazlarga berilgan tashqi bosim qanday uzatiladi?» savolining to'g'ri javobi — Barcha yo'nalishlarda o'zgarishsiz teng uzatiladi. Paskal qonuni: bosim barcha yo'nalishlarga teng tarqaladi."
     },
@@ -5356,6 +5578,7 @@ const fizika = {
           "text": "Sirpanish ishqalanish kuchi qaysi formula bilan topiladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Normal atmosfera bosimi simob ustunining necha millimetr balandligiga teng?» savolining to'g'ri javobi — 760 mm Hg. 1 atm = 760 mm simob ustuni ≈ 101325 Pa."
     },
@@ -5380,6 +5603,7 @@ const fizika = {
           "text": "Magnit maydon induksiyasi B ning SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Molekulyar-kinetik nazariyaning asosiy tenglamasi qaysi?» savolining to'g'ri javobi — p = (1/3) · n · m_0 · v². Bosim zarrachalar konsentratsiyasi va o'rtacha kinetik energiyasiga bog'liq."
     },
@@ -5404,6 +5628,7 @@ const fizika = {
           "text": "Beta (β⁻) nurlanish qanday zarrachalar oqimidan iborat?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Mendeleyev-Klapeyron tenglamasi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — p · V = (m / M) · R · T. Ideal gaz holat tenglamasi: pV = νRT."
     },
@@ -5428,6 +5653,7 @@ const fizika = {
           "text": "To'liq zanjir uchun Om qonuni formulasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Izotermik jarayonda gazning qaysi parametri o'zgarmas saqlanadi?» savolining to'g'ri javobi — Harorat (T = const, Boyl-Mariott qonuni). T = const bo'lganda pV = const."
     },
@@ -5452,6 +5678,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Izobarik jarayonda gazning qaysi parametri doimiy bo'ladi?» savolining to'g'ri javobi — Bosim (p = const, Gey-Lyussak qonuni). p = const bo'lganda V/T = const."
     },
@@ -5476,6 +5703,7 @@ const fizika = {
           "text": "Izoxorik jarayonda gazning qaysi kattaligi o'zgarmaydi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Izoxorik jarayonda gazning qaysi kattaligi o'zgarmaydi?» savolining to'g'ri javobi — Hajm (V = const, Sharl qonuni). V = const bo'lganda p/T = const."
     },
@@ -5500,6 +5728,7 @@ const fizika = {
           "text": "Mutloq nol harorat Selsiy shkalasi bo'yicha necha darajaga to'g'ri keladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Issiqlik almashinuvsiz kechuvchi termodinamik jarayon nima deyiladi?» savolining to'g'ri javobi — Adiabatik jarayon (Q = 0). Tashqi muhit bilan issiqlik almashinmaydigan jarayon adiabatik deyiladi."
     },
@@ -5524,6 +5753,7 @@ const fizika = {
           "text": "Termodinamikaning birinchi qonuni qanday yoziladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Termodinamikaning birinchi qonuni qanday yoziladi?» savolining to'g'ri javobi — Q = ΔU + A. Tizimga berilgan issiqlik uning ichki energiyasini oshirishga va ish bajarishga sarflanadi."
     },
@@ -5548,6 +5778,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Mutloq nol harorat Selsiy shkalasi bo'yicha necha darajaga to'g'ri keladi?» savolining to'g'ri javobi — -273.15 °C. 0 Kelvin = -273.15 °C."
     },
@@ -5572,6 +5803,7 @@ const fizika = {
           "text": "Karno sikli bo'yicha ishlovchi ideal issiqlik mashinasining FIK formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Karno sikli bo'yicha ishlovchi ideal issiqlik mashinasining FIK formulasi qaysi?» savolining to'g'ri javobi — η = (T_1 - T_2) / T_1. T1 - isitgich, T2 - sovutgich harorati."
     },
@@ -5596,6 +5828,7 @@ const fizika = {
           "text": "Fizikada 'Impuls (Harakat miqdori)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kulon qonuniga ko'ra nuqtaviy zaryadlarning o'zaro ta'sir kuchi qanday aniqlanadi?» savolining to'g'ri javobi — F = k · |q1 · q2| / r². Kulon kuchi zaryadlar ko'paytmasiga to'g'ri va masofa kvadratiga teskari mutanosib."
     },
@@ -5620,6 +5853,7 @@ const fizika = {
           "text": "Kondensator sig'imining SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Elektr maydon kuchlanganligi E ning ta'rif formulasi qaysi?» savolining to'g'ri javobi — E = F / q. Kuchlanganlik birlik musbat zaryadga ta'sir qiluvchi kuchdir."
     },
@@ -5644,6 +5878,7 @@ const fizika = {
           "text": "Fizikada 'Kinetik energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Kondensator sig'imining SI dagi o'lchov birligi nima?» savolining to'g'ri javobi — Farad (F). Elektr sig'im Faradlarda o'lchanadi."
     },
@@ -5668,6 +5903,7 @@ const fizika = {
           "text": "To'g'ri chiziqli tekis harakatda tezlik qanday o'zgaradi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Zanjirning bir qismi uchun Om qonuni qaysi?» savolining to'g'ri javobi — I = U / R. Tok kuchi kuchlanishga to'g'ri, qarshilikka teskari mutanosib."
     },
@@ -5692,6 +5928,7 @@ const fizika = {
           "text": "Fizikada 'Bolsman doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«To'liq zanjir uchun Om qonuni formulasi qaysi?» savolining to'g'ri javobi — I = ε / (R + r). ε - EYK, R - tashqi qarshilik, r - ichki qarshilik."
     },
@@ -5716,6 +5953,7 @@ const fizika = {
           "text": "Parallel ulangan o'tkazgichlarda qaysi parametr barchasida teng bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«O'tkazgichning qarshiligi uning o'lchamlariga qanday bog'liq?» savolining to'g'ri javobi — R = ρ · l / S. Qarshilik uzunlikka to'g'ri, ko'ndalang kesim yuziga teskari proportsional."
     },
@@ -5740,6 +5978,7 @@ const fizika = {
           "text": "Ketma-ket ulangan o'tkazgichlarda qaysi fizik kattalik bir xil bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Ketma-ket ulangan o'tkazgichlarda qaysi fizik kattalik bir xil bo'ladi?» savolining to'g'ri javobi — Tok kuchi (I = const). Ketma-ket ulanishda barcha qismlardan bir xil tok o'tadi."
     },
@@ -5764,6 +6003,7 @@ const fizika = {
           "text": "Kogerent to'lqinlarning fazoda qo'shilib, kuchayishi yoki susayishi hodisasi nima?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Parallel ulangan o'tkazgichlarda qaysi parametr barchasida teng bo'ladi?» savolining to'g'ri javobi — Kuchlanish (U = const). Parallel tarmoqlarda kuchlanishlar bir xil bo'ladi."
     },
@@ -5788,6 +6028,7 @@ const fizika = {
           "text": "Fizikada Plank gipotezasi nimadan iborat?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Joul-Lens qonuni bo'yicha o'tkazgichda ajraladigan issiqlik miqdori qanday hisoblanadi?» savolining to'g'ri javobi — Q = I² · R · t. Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
     },
@@ -5812,6 +6053,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Magnit maydon induksiyasi B ning SI dagi o'lchov birligi nima?» savolining to'g'ri javobi — Tesla (Tl). Magnit maydon induksiyasi Teslada o'lchanadi."
     },
@@ -5836,6 +6078,7 @@ const fizika = {
           "text": "Nyutonning ikkinchi qonuni qaysi formula bilan ifodalanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Magnit oqimi Φ ning SI dagi o'lchov birligi qaysi?» savolining to'g'ri javobi — Veber (Wb). Magnit oqimi Veberda o'lchanadi (1 Wb = 1 Tl · m²)."
     },
@@ -5860,6 +6103,7 @@ const fizika = {
           "text": "Fizikada 'Lorens kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Magnit maydonida harakatlanayotgan zaryadli zarrachaga ta'sir qiluvchi kuch nima deb ataladi?» savolining to'g'ri javobi — Lorens kuchi (F = q·v·B·sinα). Lorens kuchi harakatdagi zaryadga ta'sir qiladi."
     },
@@ -5884,6 +6128,7 @@ const fizika = {
           "text": "Fizikada 'Impuls (Harakat miqdori)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Tokli o'tkazgichga magnit maydoni tomonidan ta'sir etuvchi kuch qanday ataladi?» savolining to'g'ri javobi — Amper kuchi (F = I·B·L·sinα). Amper kuchi tokli o'tkazgichga ta'sir qiladi."
     },
@@ -5908,6 +6153,7 @@ const fizika = {
           "text": "Quyosh sirtida energiya qaysi jarayon hisobiga ajraladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Elektromagnit induksiya hodisasini 1831-yilda kim kashf etgan?» savolining to'g'ri javobi — Maykl Faradey. Faradey o'zgaruvchan magnit maydoni tok hosil qilishini isbotlagan."
     },
@@ -5932,6 +6178,7 @@ const fizika = {
           "text": "Mutloq nol harorat Selsiy shkalasi bo'yicha necha darajaga to'g'ri keladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Konturda hosil bo'lgan induksion tok yo'nalishini aniqlovchi qoida qaysi?» savolining to'g'ri javobi — Lens qoidasi. Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
     },
@@ -5956,6 +6203,7 @@ const fizika = {
           "text": "Fizikada 'Og'irlik kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«G'altakning induktivlik birligi nima?» savolining to'g'ri javobi — Genri (H). O'zinduksiya kattaligi Genrida o'lchanadi."
     },
@@ -5980,6 +6228,7 @@ const fizika = {
           "text": "Zanjirning bir qismi uchun Om qonuni qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Matematik mayatnikning tebranish davri qaysi formula bilan ifodalanadi (Gyuygens formulasi)?» savolining to'g'ri javobi — T = 2π · √(l / g). Mayatnik davri uzunlikka va erkin tushish tezlanishiga bog'liq."
     },
@@ -6004,6 +6253,7 @@ const fizika = {
           "text": "Sanoq sistemasi qanday elementlardan tashkil topgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Prujinali mayatnikning tebranish davri formulasi qaysi?» savolining to'g'ri javobi — T = 2π · √(m / k). Davr massa va bikrlikka bog'liq."
     },
@@ -6028,6 +6278,7 @@ const fizika = {
           "text": "To'lqin uzunligi λ, tarqalish tezligi v va chastota ν orasidagi bog'liqlik qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Elektromagnit tebranish konturining tebranish davri formulasi qanday ataladi (Tomson formulasi)?» savolining to'g'ri javobi — T = 2π · √(L · C). Tomson formulasi: T = 2π√(LC)."
     },
@@ -6052,6 +6303,7 @@ const fizika = {
           "text": "Ko'z gavhari qanday optik xususiyatga ega?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«To'lqin uzunligi λ, tarqalish tezligi v va chastota ν orasidagi bog'liqlik qaysi?» savolining to'g'ri javobi — λ = v / ν. To'lqin uzunligi tezlikning tebranish chastotasiga nisbatiga teng."
     },
@@ -6076,6 +6328,7 @@ const fizika = {
           "text": "Fizikada 'Tebranish davri' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Yorug'likning qaytish qonuniga ko'ra tushish burchagi α va qaytish burchagi β qanday munosabatda bo'ladi?» savolining to'g'ri javobi — α = β (tushish burchagi qaytish burchagiga teng). Yorug'likning qaytish burchagi tushish burchagiga teng."
     },
@@ -6100,6 +6353,7 @@ const fizika = {
           "text": "Nyutonning uchinchi qonuniga ko'ra ikki jismning o'zaro ta'sir kuchlari qanday bo'ladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Yorug'likning sinish qonuni (Snellius qonuni) qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — sinα / sinβ = n_2 / n_1. Sinuslarning nisbati nisbiy sindirish ko'rsatkichiga teng."
     },
@@ -6124,6 +6378,7 @@ const fizika = {
           "text": "Uzoqdan ko'ruvchilik (gipermetropiya) qanday linzali ko'zoynak bilan tuzatiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Yupqa qavariq linzaning fokus masofasi F, jism masofasi d va tasvir masofasi f orasidagi formula qaysi?» savolining to'g'ri javobi — 1/F = 1/d + 1/f. Yupqa linza formulasi: 1/F = 1/d + 1/f."
     },
@@ -6148,6 +6403,7 @@ const fizika = {
           "text": "Ketma-ket ulangan o'tkazgichlarda qaysi fizik kattalik bir xil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Linzaning optik kuchi D qaysi birlikda o'lchanadi?» savolining to'g'ri javobi — Dioptriya (dptr). 1 dptr = 1 / 1 m."
     },
@@ -6172,6 +6428,7 @@ const fizika = {
           "text": "Ko'rinadigan yorug'lik to'lqin uzunliklari oralig'i taxminan qancha?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Oq yorug'likning prizmadan o'tganda spektrga (ranglarga) ajralish hodisasi nima deyiladi?» savolining to'g'ri javobi — Yorug'lik dispersiyasi. Nyuton ochgan dispersiya hodisasi."
     },
@@ -6196,6 +6453,7 @@ const fizika = {
           "text": "Inersiya qonuni Nyutonning nechanchi qonuni hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Yorug'lik to'lqinlarining to'siqlarni aylanib o'tish hodisasi nima deb ataladi?» savolining to'g'ri javobi — Diffraksiya. To'lqinlarning to'siq ortiga o'tishi diffraksiyadir."
     },
@@ -6220,6 +6478,7 @@ const fizika = {
           "text": "Moddiy nuqta nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kogerent to'lqinlarning fazoda qo'shilib, kuchayishi yoki susayishi hodisasi nima?» savolining to'g'ri javobi — Interferensiya. Yorug'lik interferensiyasi to'lqin xususiyatini isbotlaydi."
     },
@@ -6244,6 +6503,7 @@ const fizika = {
           "text": "Foton energiyasi Plank formulasi bo'yicha qanday aniqlanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Foton energiyasi Plank formulasi bo'yicha qanday aniqlanadi?» savolining to'g'ri javobi — E = h · ν. h - Plank doimiysi, ν - chastota."
     },
@@ -6268,6 +6528,7 @@ const fizika = {
           "text": "Mexanik ish qaysi birlikda o'lchanadi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Plank doimiysi h ning son qiymati qancha?» savolining to'g'ri javobi — 6.63 · 10⁻³⁴ J·s. Plank doimiysi h ≈ 6.63·10^-34 J·s."
     },
@@ -6292,6 +6553,7 @@ const fizika = {
           "text": "To'g'ri chiziqli tekis harakatda tezlik qanday o'zgaradi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Fotoeffekt uchun Eynshteyn tenglamasi qaysi?» savolining to'g'ri javobi — h · ν = A_chiqish + (m · v²) / 2. Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
     },
@@ -6316,6 +6578,7 @@ const fizika = {
           "text": "Fizikada 'Elektr yurituvchi kuch (EYK)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Atomning sayyorasimon (planetar) modelini kim taklif etgan?» savolining to'g'ri javobi — Ernest Rezerford (1911-yilda). Rezerford alfa-zarrachalar sochilishi tajribasidan so'ng yadro modelini yaratdi."
     },
@@ -6340,6 +6603,7 @@ const fizika = {
           "text": "Fizikada 'Avogadro doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Atom yadrosi qanday zarrachalardan tashkil topgan?» savolining to'g'ri javobi — Protonlar va neytronlar (nuklonlar). Yadro musbat proton va neytral neytronlardan iborat."
     },
@@ -6364,6 +6628,7 @@ const fizika = {
           "text": "Og'irlik markazi nima?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yadrodagi neytronlar soni N qanday topiladi?» savolining to'g'ri javobi — N = A - Z. Massaviy son A dan tartib raqam Z ayiriladi."
     },
@@ -6388,6 +6653,7 @@ const fizika = {
           "text": "Quvvatning SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Yarim yemirilish davri T nima?» savolining to'g'ri javobi — Dastlabki radioaktiv yadrolar sonining yarmi yemirilishi uchun ketgan vaqt. N(t) = N_0 · 2^(-t/T)."
     },
@@ -6412,6 +6678,7 @@ const fizika = {
           "text": "Sirpanish ishqalanish kuchi qaysi formula bilan topiladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Eynshteynning massa va energiya bog'liqligi formulasini toping:» savolining to'g'ri javobi — E = m · c². Tinchlikdagi massa va energiyaning fundamental bog'liqligi."
     },
@@ -6436,6 +6703,7 @@ const fizika = {
           "text": "Elektroskop qanday asbob?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Tezlik' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t). Tezlik - Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)."
     },
@@ -6460,6 +6728,7 @@ const fizika = {
           "text": "Elektromagnit induksiya hodisasini 1831-yilda kim kashf etgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)'?» savolining to'g'ri javobi — Tezlik. Ushbu ta'rif Tezlikga tegishli."
     },
@@ -6484,6 +6753,7 @@ const fizika = {
           "text": "Beta (β⁻) nurlanish qanday zarrachalar oqimidan iborat?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Tezlanish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt). Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
     },
@@ -6508,6 +6778,7 @@ const fizika = {
           "text": "Magnit maydon induksiyasi B ning SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)'?» savolining to'g'ri javobi — Tezlanish. Ushbu ta'rif Tezlanishga tegishli."
     },
@@ -6532,6 +6803,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'Kuch' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton). Kuch - Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)."
     },
@@ -6556,6 +6828,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)'?» savolining to'g'ri javobi — Kuch. Ushbu ta'rif Kuchga tegishli."
     },
@@ -6580,6 +6853,7 @@ const fizika = {
           "text": "Quvvatning SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Og'irlik kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g). Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
     },
@@ -6604,6 +6878,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)'?» savolining to'g'ri javobi — Og'irlik kuchi. Ushbu ta'rif Og'irlik kuchiga tegishli."
     },
@@ -6628,6 +6903,7 @@ const fizika = {
           "text": "Mendeleyev-Klapeyron tenglamasi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Jismning vazni (P)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi. Jismning vazni (P) - Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi."
     },
@@ -6652,6 +6928,7 @@ const fizika = {
           "text": "Arximed kuchi (ko'tarish kuchi) qaysi formula orqali hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi'?» savolining to'g'ri javobi — Jismning vazni (P). Ushbu ta'rif Jismning vazni (P)ga tegishli."
     },
@@ -6676,6 +6953,7 @@ const fizika = {
           "text": "Konturda hosil bo'lgan induksion tok yo'nalishini aniqlovchi qoida qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Impuls (Harakat miqdori)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s). Impuls (Harakat miqdori) - Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)."
     },
@@ -6700,6 +6978,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)'?» savolining to'g'ri javobi — Impuls (Harakat miqdori). Ushbu ta'rif Impuls (Harakat miqdori)ga tegishli."
     },
@@ -6724,6 +7003,7 @@ const fizika = {
           "text": "Fizikada 'Kuch impulsi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Kuch impulsi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp). Kuch impulsi - Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)."
     },
@@ -6748,6 +7028,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma bug'lanish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)'?» savolining to'g'ri javobi — Kuch impulsi. Ushbu ta'rif Kuch impulsiga tegishli."
     },
@@ -6772,6 +7053,7 @@ const fizika = {
           "text": "Foydali ish koeffitsienti (FIK) qanday kattalik?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Kinetik energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2). Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
     },
@@ -6796,6 +7078,7 @@ const fizika = {
           "text": "Termodinamikaning birinchi qonuni qanday yoziladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)'?» savolining to'g'ri javobi — Kinetik energiya. Ushbu ta'rif Kinetik energiyaga tegishli."
     },
@@ -6820,6 +7103,7 @@ const fizika = {
           "text": "Fizikada 'O'zinduksiya hodisasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Potensial energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh). Potensial energiya - O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)."
     },
@@ -6844,6 +7128,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)'?» savolining to'g'ri javobi — Potensial energiya. Ushbu ta'rif Potensial energiyaga tegishli."
     },
@@ -6868,6 +7153,7 @@ const fizika = {
           "text": "Matematik mayatnikning tebranish davri qaysi formula bilan ifodalanadi (Gyuygens formulasi)?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Kuch momenti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m). Kuch momenti - Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)."
     },
@@ -6892,6 +7178,7 @@ const fizika = {
           "text": "Qaynash nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)'?» savolining to'g'ri javobi — Kuch momenti. Ushbu ta'rif Kuch momentiga tegishli."
     },
@@ -6916,6 +7203,7 @@ const fizika = {
           "text": "Ko'chish nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Zichlik' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³). Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
     },
@@ -6940,6 +7228,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)'?» savolining to'g'ri javobi — Zichlik. Ushbu ta'rif Zichlikga tegishli."
     },
@@ -6964,6 +7253,7 @@ const fizika = {
           "text": "Fizikada 'Gidrostatik bosim' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Gidrostatik bosim' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh). Gidrostatik bosim - Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)."
     },
@@ -6988,6 +7278,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)'?» savolining to'g'ri javobi — Gidrostatik bosim. Ushbu ta'rif Gidrostatik bosimga tegishli."
     },
@@ -7012,6 +7303,7 @@ const fizika = {
           "text": "Linzaning optik kuchi D qaysi birlikda o'lchanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Arximed kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch). Arximed kuchi - Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)."
     },
@@ -7036,6 +7328,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)'?» savolining to'g'ri javobi — Arximed kuchi. Ushbu ta'rif Arximed kuchiga tegishli."
     },
@@ -7060,6 +7353,7 @@ const fizika = {
           "text": "Mexanik ish qaysi birlikda o'lchanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Sirt taranglik koeffitsienti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m). Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
     },
@@ -7084,6 +7378,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)'?» savolining to'g'ri javobi — Sirt taranglik koeffitsienti. Ushbu ta'rif Sirt taranglik koeffitsientiga tegishli."
     },
@@ -7108,6 +7403,7 @@ const fizika = {
           "text": "Fizikada 'Amper kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'Modda miqdori' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol). Modda miqdori - Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)."
     },
@@ -7132,6 +7428,7 @@ const fizika = {
           "text": "Fizikada 'Avogadro doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)'?» savolining to'g'ri javobi — Modda miqdori. Ushbu ta'rif Modda miqdoriga tegishli."
     },
@@ -7156,6 +7453,7 @@ const fizika = {
           "text": "Fizikada 'Zichlik' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Avogadro doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹). Avogadro doimiysi - 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)."
     },
@@ -7180,6 +7478,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)'?» savolining to'g'ri javobi — Avogadro doimiysi. Ushbu ta'rif Avogadro doimiysiga tegishli."
     },
@@ -7204,6 +7503,7 @@ const fizika = {
           "text": "Fizikada 'Bolsman doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Bolsman doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K). Bolsman doimiysi - Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)."
     },
@@ -7228,6 +7528,7 @@ const fizika = {
           "text": "Fizikada 'Elektr sig'imi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)'?» savolining to'g'ri javobi — Bolsman doimiysi. Ushbu ta'rif Bolsman doimiysiga tegishli."
     },
@@ -7252,6 +7553,7 @@ const fizika = {
           "text": "Fizikada 'Universal gaz doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Universal gaz doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K)). Universal gaz doimiysi - 1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))."
     },
@@ -7276,6 +7578,7 @@ const fizika = {
           "text": "Fizikada 'O'zinduksiya hodisasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))'?» savolining to'g'ri javobi — Universal gaz doimiysi. Ushbu ta'rif Universal gaz doimiysiga tegishli."
     },
@@ -7300,6 +7603,7 @@ const fizika = {
           "text": "Og'irlik markazi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Solishtirma issiqlik sig'imi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT)). Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
     },
@@ -7324,6 +7628,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))'?» savolining to'g'ri javobi — Solishtirma issiqlik sig'imi. Ushbu ta'rif Solishtirma issiqlik sig'imiga tegishli."
     },
@@ -7348,6 +7653,7 @@ const fizika = {
           "text": "Fizikada 'Potensial energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Solishtirma erish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m). Solishtirma erish issiqligi - Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)."
     },
@@ -7372,6 +7678,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)'?» savolining to'g'ri javobi — Solishtirma erish issiqligi. Ushbu ta'rif Solishtirma erish issiqligiga tegishli."
     },
@@ -7396,6 +7703,7 @@ const fizika = {
           "text": "Yupqa qavariq linzaning fokus masofasi F, jism masofasi d va tasvir masofasi f orasidagi formula qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Solishtirma bug'lanish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m). Solishtirma bug'lanish issiqligi - Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m)."
     },
@@ -7420,6 +7728,7 @@ const fizika = {
           "text": "Molekulyar-kinetik nazariyaning asosiy tenglamasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m)'?» savolining to'g'ri javobi — Solishtirma bug'lanish issiqligi. Ushbu ta'rif Solishtirma bug'lanish issiqligiga tegishli."
     },
@@ -7444,6 +7753,7 @@ const fizika = {
           "text": "Fizikada 'Ichki energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Ichki energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi. Ichki energiya - Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi."
     },
@@ -7468,6 +7778,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi'?» savolining to'g'ri javobi — Ichki energiya. Ushbu ta'rif Ichki energiyaga tegishli."
     },
@@ -7492,6 +7803,7 @@ const fizika = {
           "text": "Fizikada 'Amper kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'Elektr zaryadi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon). Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
     },
@@ -7516,6 +7828,7 @@ const fizika = {
           "text": "Fizikada 'Amper kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)'?» savolining to'g'ri javobi — Elektr zaryadi. Ushbu ta'rif Elektr zaryadiga tegishli."
     },
@@ -7540,6 +7853,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Elektr sig'imi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad). Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
     },
@@ -7564,6 +7878,7 @@ const fizika = {
           "text": "Fizikada 'Elektr tokining quvvati' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)'?» savolining to'g'ri javobi — Elektr sig'imi. Ushbu ta'rif Elektr sig'imiga tegishli."
     },
@@ -7588,6 +7903,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Elektr kuchlanish (potensiallar ayirmasi)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt). Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
     },
@@ -7612,6 +7928,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)'?» savolining to'g'ri javobi — Elektr kuchlanish (potensiallar ayirmasi). Ushbu ta'rif Elektr kuchlanish (potensiallar ayirmasi)ga tegishli."
     },
@@ -7636,6 +7953,7 @@ const fizika = {
           "text": "Kogerent to'lqinlarning fazoda qo'shilib, kuchayishi yoki susayishi hodisasi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'Elektr yurituvchi kuch (EYK)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt). Elektr yurituvchi kuch (EYK) - Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)."
     },
@@ -7660,6 +7978,7 @@ const fizika = {
           "text": "Fizikada 'Yorug'likning qizil chegarasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)'?» savolining to'g'ri javobi — Elektr yurituvchi kuch (EYK). Ushbu ta'rif Elektr yurituvchi kuch (EYK)ga tegishli."
     },
@@ -7684,6 +8003,7 @@ const fizika = {
           "text": "Nyutonning ikkinchi qonuni qaysi formula bilan ifodalanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'Solishtirma qarshilik' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m). Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
     },
@@ -7708,6 +8028,7 @@ const fizika = {
           "text": "Inersiya qonuni Nyutonning nechanchi qonuni hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)'?» savolining to'g'ri javobi — Solishtirma qarshilik. Ushbu ta'rif Solishtirma qarshilikga tegishli."
     },
@@ -7732,6 +8053,7 @@ const fizika = {
           "text": "Fizikada 'Elektr tokining quvvati' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Elektr tokining quvvati' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt). Elektr tokining quvvati - Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)."
     },
@@ -7756,6 +8078,7 @@ const fizika = {
           "text": "Fizikada 'Og'irlik kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)'?» savolining to'g'ri javobi — Elektr tokining quvvati. Ushbu ta'rif Elektr tokining quvvatiga tegishli."
     },
@@ -7780,6 +8103,7 @@ const fizika = {
           "text": "Fizikada 'Lorens kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Lorens kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch. Lorens kuchi - Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch."
     },
@@ -7804,6 +8128,7 @@ const fizika = {
           "text": "Fizikada 'Bolsman doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch'?» savolining to'g'ri javobi — Lorens kuchi. Ushbu ta'rif Lorens kuchiga tegishli."
     },
@@ -7828,6 +8153,7 @@ const fizika = {
           "text": "Molekulyar-kinetik nazariyaning asosiy tenglamasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'Amper kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch. Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
     },
@@ -7852,6 +8178,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch'?» savolining to'g'ri javobi — Amper kuchi. Ushbu ta'rif Amper kuchiga tegishli."
     },
@@ -7876,6 +8203,7 @@ const fizika = {
           "text": "Fizikada 'O'zinduksiya hodisasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'O'zinduksiya hodisasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi. O'zinduksiya hodisasi - Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi."
     },
@@ -7900,6 +8228,7 @@ const fizika = {
           "text": "Fizikada 'Tezlanish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi'?» savolining to'g'ri javobi — O'zinduksiya hodisasi. Ushbu ta'rif O'zinduksiya hodisasiga tegishli."
     },
@@ -7924,6 +8253,7 @@ const fizika = {
           "text": "Fizikada 'Transformator' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Transformator' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma. Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
     },
@@ -7948,6 +8278,7 @@ const fizika = {
           "text": "Fizikada 'Ichki energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma'?» savolining to'g'ri javobi — Transformator. Ushbu ta'rif Transformatorga tegishli."
     },
@@ -7972,6 +8303,7 @@ const fizika = {
           "text": "Fizikada 'Tebranish davri' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'Tebranish davri' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya). Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
     },
@@ -7996,6 +8328,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)'?» savolining to'g'ri javobi — Tebranish davri. Ushbu ta'rif Tebranish davriga tegishli."
     },
@@ -8020,6 +8353,7 @@ const fizika = {
           "text": "Fizikada 'Impuls (Harakat miqdori)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Tebranish chastotasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers). Tebranish chastotasi - Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)."
     },
@@ -8044,6 +8378,7 @@ const fizika = {
           "text": "Vakuumda elektr toki hosil qilish uchun nima zarur?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)'?» savolining to'g'ri javobi — Tebranish chastotasi. Ushbu ta'rif Tebranish chastotasiga tegishli."
     },
@@ -8068,6 +8403,7 @@ const fizika = {
           "text": "Eynshteynning massa va energiya bog'liqligi formulasini toping:"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'To'lqin interferensiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi. To'lqin interferensiyasi - Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi."
     },
@@ -8092,6 +8428,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi'?» savolining to'g'ri javobi — To'lqin interferensiyasi. Ushbu ta'rif To'lqin interferensiyasiga tegishli."
     },
@@ -8116,6 +8453,7 @@ const fizika = {
           "text": "Elektrolitlarda (suyuqliklarda) elektr tokini nimalar tashiydi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'To'lqin diffraksiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi. To'lqin diffraksiyasi - To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi."
     },
@@ -8140,6 +8478,7 @@ const fizika = {
           "text": "Eynshteynning massa va energiya bog'liqligi formulasini toping:"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi'?» savolining to'g'ri javobi — To'lqin diffraksiyasi. Ushbu ta'rif To'lqin diffraksiyasiga tegishli."
     },
@@ -8164,6 +8503,7 @@ const fizika = {
           "text": "Normal sharoitda suv qaysi haroratda qaynaydi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fizikada 'Yorug'lik dispersiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi. Yorug'lik dispersiyasi - Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi."
     },
@@ -8188,6 +8528,7 @@ const fizika = {
           "text": "Inersiya qonuni Nyutonning nechanchi qonuni hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi'?» savolining to'g'ri javobi — Yorug'lik dispersiyasi. Ushbu ta'rif Yorug'lik dispersiyasiga tegishli."
     },
@@ -8212,6 +8553,7 @@ const fizika = {
           "text": "Fizikada 'To'liq ichki qaytish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fizikada 'To'liq ichki qaytish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi. To'liq ichki qaytish - Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi."
     },
@@ -8236,6 +8578,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma erish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi'?» savolining to'g'ri javobi — To'liq ichki qaytish. Ushbu ta'rif To'liq ichki qaytishga tegishli."
     },
@@ -8260,6 +8603,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Fotoeffekt' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi. Fotoeffekt - Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi."
     },
@@ -8284,6 +8628,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi'?» savolining to'g'ri javobi — Fotoeffekt. Ushbu ta'rif Fotoeffektga tegishli."
     },
@@ -8308,6 +8653,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fizikada 'Yorug'likning qizil chegarasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi). Yorug'likning qizil chegarasi - Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi)."
     },
@@ -8332,6 +8678,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma bug'lanish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi)'?» savolining to'g'ri javobi — Yorug'likning qizil chegarasi. Ushbu ta'rif Yorug'likning qizil chegarasiga tegishli."
     },
@@ -8356,6 +8703,7 @@ const fizika = {
           "text": "Qattiq jismning suyuqlikka aylanish jarayoni nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Yadro bog'lanish energiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²). Yadro bog'lanish energiyasi - Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)."
     },
@@ -8380,6 +8728,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)'?» savolining to'g'ri javobi — Yadro bog'lanish energiyasi. Ushbu ta'rif Yadro bog'lanish energiyasiga tegishli."
     },
@@ -8404,6 +8753,7 @@ const fizika = {
           "text": "Fizikada 'Yadro bog'lanish energiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fizikada 'Massa defekti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm). Massa defekti - Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm)."
     },
@@ -8428,6 +8778,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm)'?» savolining to'g'ri javobi — Massa defekti. Ushbu ta'rif Massa defektiga tegishli."
     },
@@ -8452,6 +8803,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi'?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Moddiy nuqta nima?» savolining to'g'ri javobi — Harakat sharoitida o'lchamlari hisobga olinmasa ham bo'ladigan jism. O'lchamlari ko'rilayotgan masofalarga nisbatan juda kichik bo'lgan jism."
     },
@@ -8476,6 +8828,7 @@ const fizika = {
           "text": "Uzoqdan ko'ruvchilik (gipermetropiya) qanday linzali ko'zoynak bilan tuzatiladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Sanoq sistemasi qanday elementlardan tashkil topgan?» savolining to'g'ri javobi — Sanoq jismi, u bilan bog'langan koordinatalar sistemasi va vaqt o'lchagich (soat). Sanoq sistemasi = Sanoq jismi + Koordinata sistemasi + Soat."
     },
@@ -8500,6 +8853,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)'?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Trayektoriya nima?» savolining to'g'ri javobi — Harakatlanayotgan jism qoldirgan yoki chizgan chiziq. Fazoda jism harakatlangan iz/chiziq trayektoriya deyiladi."
     },
@@ -8524,6 +8878,7 @@ const fizika = {
           "text": "Izoxorik jarayonda gazning qaysi kattaligi o'zgarmaydi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ko'chish nima?» savolining to'g'ri javobi — Harakatning boshlang'ich va oxirgi nuqtalarini tutashtiruvchi yo'nalishga ega to'g'ri chiziq kesmasi (vektor). Ko'chish vektor kattalik, yo'l esa skalyar kattalik."
     },
@@ -8548,6 +8903,7 @@ const fizika = {
           "text": "Richagning muvozanat sharti qanday ifodalanadi (Arximed qoidasi)?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Teng o'zgaruvchan harakatda tezlanish qanday kattalik hisoblanadi?» savolining to'g'ri javobi — Vaqt o'tishi bilan o'zgarmas (a = const). Teng o'zgaruvchan harakatda a = const bo'ladi."
     },
@@ -8572,6 +8928,7 @@ const fizika = {
           "text": "Boshlang'ich tezliksiz erkin tushayotgan jismning t vaqtdagi tushish balandligi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Boshlang'ich tezliksiz erkin tushayotgan jismning t vaqtdagi tushish balandligi qaysi?» savolining to'g'ri javobi — h = (g · t²) / 2. Boshlang'ich tezlik v0 = 0 bo'lganda h = gt²/2."
     },
@@ -8596,6 +8953,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Gorizontga burchak ostida otilgan jismning trayektoriyasi qanday shaklda bo'ladi?» savolining to'g'ri javobi — Parabola. Havoning qarshiligi hisobga olinmaganda trayektoriya paraboladir."
     },
@@ -8620,6 +8978,7 @@ const fizika = {
           "text": "Fizikada 'Transformator' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Aylanma harakatda markazga intilma tezlanish formulasi qaysi?» savolining to'g'ri javobi — a = v² / R = ω² · R. Markazga intilma tezlanish a_m = v²/R."
     },
@@ -8644,6 +9003,7 @@ const fizika = {
           "text": "Jism impulsi (harakat miqdori) qaysi formula bilan aniqlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Birinchi kosmik tezlikning Yer uchun taxminiy qiymati qancha?» savolining to'g'ri javobi — 7.9 km/s. Yer atrofida pastki orbitada aylanish tezligi v1 ≈ 7.9 km/s."
     },
@@ -8668,6 +9028,7 @@ const fizika = {
           "text": "Foton energiyasi Plank formulasi bo'yicha qanday aniqlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ikkinchi kosmik tezlik (parabolik tezlik) Yer uchun qanchaga teng?» savolining to'g'ri javobi — 11.2 km/s. Yer gravitatsiyasini yengib chiqish tezligi v2 ≈ 11.2 km/s."
     },
@@ -8692,6 +9053,7 @@ const fizika = {
           "text": "Uchinchi kosmik tezlik Yer uchun qancha?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Uchinchi kosmik tezlik Yer uchun qancha?» savolining to'g'ri javobi — 16.7 km/s. Quyosh sistemasini tark etish tezligi v3 ≈ 16.7 km/s."
     },
@@ -8716,6 +9078,7 @@ const fizika = {
           "text": "Yarim yemirilish davri T nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Og'irlik markazi nima?» savolining to'g'ri javobi — Jismning barcha qismlariga ta'sir qiluvchi og'irlik kuchlarining teng ta'sir etuvchisi qo'yilgan nuqta. Og'irlik kuchining qo'yilish nuqtasi."
     },
@@ -8740,6 +9103,7 @@ const fizika = {
           "text": "Elektr maydon kuchlanganligi E ning ta'rif formulasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Richagning muvozanat sharti qanday ifodalanadi (Arximed qoidasi)?» savolining to'g'ri javobi — F1 · l1 = F2 · l2. Kuchlar momentlari o'zaro teng bo'lishi kerak."
     },
@@ -8764,6 +9128,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma erish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Ko'chmas blok qanday mexanik yutuq beradi?» savolining to'g'ri javobi — Kuchdan yutuq bermaydi, faqat kuch yo'nalishini o'zgartiradi. Ko'chmas blok kuchdan yutuq bermaydi."
     },
@@ -8788,6 +9153,7 @@ const fizika = {
           "text": "Yorug'likning sinish qonuni (Snellius qonuni) qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ko'char blok kuchdan necha marta yutuq beradi?» savolining to'g'ri javobi — 2 marta yutuq beradi. Ko'char blok kuchdan 2 barobar yutuq beradi (masofada 2 marta yutqazadi)."
     },
@@ -8812,6 +9178,7 @@ const fizika = {
           "text": "Jismning Yer sirtidan uzoqlashishi bilan unga ta'sir etuvchi tortishish kuchi qanday o'zgaradi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Mexanikaning 'oltin qoidasi' qaysi?» savolining to'g'ri javobi — Kuchdan necha marta yutsak, masofada shuncha yutqazamiz (ishdan yutuq olinmaydi). Oddiy mexanizmlar ishdan yutuq bermaydi."
     },
@@ -8836,6 +9203,7 @@ const fizika = {
           "text": "Fizikada 'Avogadro doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Ideal gaz nima?» savolining to'g'ri javobi — Molekulalari o'lchamlari hisobga olinmaydigan, to'qnashuvdan boshqa vaqtda o'zaro ta'sirlashmaydigan nazariy model. Fizikada qo'llanadigan ideallashtirilgan model."
     },
@@ -8860,6 +9228,7 @@ const fizika = {
           "text": "Trayektoriya nima?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Termodinamik harorat T va Selsiy harorati t o'rtasidagi bog'lanish qaysi?» savolining to'g'ri javobi — T = t + 273.15. Kelvin shkalasi T = t + 273.15 K."
     },
@@ -8884,6 +9253,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Diffuziya hodisasi nimani isbotlaydi?» savolining to'g'ri javobi — Modda molekulalarining uzluksiz va tartibsiz (xaotik) harakatini. Moddalarning o'z-o'zidan aralashib ketishi ularning harakatdaligini ko'rsatadi."
     },
@@ -8908,6 +9278,7 @@ const fizika = {
           "text": "Parallel ulangan o'tkazgichlarda qaysi parametr barchasida teng bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Broun harakati nima?» savolining to'g'ri javobi — Suyuqlik yoki gazda muallaq turgan mikroskopik zarrachalarning tartibsiz harakati. Suyuqlik molekulalarining zarbalari oqibatida yuz beradi."
     },
@@ -8932,6 +9303,7 @@ const fizika = {
           "text": "Kulon qonuniga ko'ra nuqtaviy zaryadlarning o'zaro ta'sir kuchi qanday aniqlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Suyuqlikning bug'lanish tezligi nimalarga bog'liq?» savolining to'g'ri javobi — Suyuqlik turiga, sirt yuzasiga, haroratga va shamolga. Sirt yuzi, harorat va ochiq havo oqimi bug'lanishni tezlashtiradi."
     },
@@ -8956,6 +9328,7 @@ const fizika = {
           "text": "Fotoeffekt uchun Eynshteyn tenglamasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«To'yingan bug' nima?» savolining to'g'ri javobi — O'z suyuqligi bilan dinamik muvozanatda bo'lgan bug'. Vaqt birligida bug'lanayotgan va kondensatsiyalanayotgan molekulalar soni tenglashadi."
     },
@@ -8980,6 +9353,7 @@ const fizika = {
           "text": "Qaynash nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Qaynash nima?» savolining to'g'ri javobi — Suyuqlikning nafaqat sirtidan, balki butun hajmi bo'ylab pufakchalar hosil qilib jadallik bilan bug'lanishi. To'yingan bug' bosimi tashqi bosimga tenglashganda qaynash boshlanadi."
     },
@@ -9004,6 +9378,7 @@ const fizika = {
           "text": "Oq yorug'likning prizmadan o'tganda spektrga (ranglarga) ajralish hodisasi nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Qattiq jismning suyuqlikka aylanish jarayoni nima deyiladi?» savolining to'g'ri javobi — Erish. Erish jarayonida harorat o'zgarmaydi."
     },
@@ -9028,6 +9403,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Moddaning to'g'ridan-to'g'ri qattiq holatdan gaz holatiga o'tishi nima deb ataladi?» savolining to'g'ri javobi — Sublimatsiya. Masalan, yod yoki quruq muzning to'g'ridan-to'g'ri gazga aylanishi."
     },
@@ -9052,6 +9428,7 @@ const fizika = {
           "text": "Jismning Yer sirtidan uzoqlashishi bilan unga ta'sir etuvchi tortishish kuchi qanday o'zgaradi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Gazning to'g'ridan-to'g'ri qattiq holatga o'tishi nima deyiladi?» savolining to'g'ri javobi — Desublimatsiya. Sovuqda derazada qirov hosil bo'lishi desublimatsiyadir."
     },
@@ -9076,6 +9453,7 @@ const fizika = {
           "text": "Elektroskop qanday asbob?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Elektroskop qanday asbob?» savolining to'g'ri javobi — Jismning elektrlanganganligini aniqlovchi asbob. Zaryad bor-yo'qligini yaproqchalarning ochilishidan aniqlaydi."
     },
@@ -9100,6 +9478,7 @@ const fizika = {
           "text": "Magnit maydon induksiyasi B ning SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Metallarda elektr tokini qanday zarrachalar tashiydi?» savolining to'g'ri javobi — Erkin elektronlar. Metallarda tok o'tkazuvchilar erkin elektronlardir."
     },
@@ -9124,6 +9503,7 @@ const fizika = {
           "text": "Elektrolitlarda (suyuqliklarda) elektr tokini nimalar tashiydi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Elektrolitlarda (suyuqliklarda) elektr tokini nimalar tashiydi?» savolining to'g'ri javobi — Musbat va manfiy ionlar. Elektrolitik dissotsiatsiyada hosil bo'lgan ionlar."
     },
@@ -9148,6 +9528,7 @@ const fizika = {
           "text": "Beta (β⁻) nurlanish qanday zarrachalar oqimidan iborat?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Gazlarda elektr tokini qanday zarrachalar tashiydi?» savolining to'g'ri javobi — Elektronlar va musbat hamda manfiy ionlar. Gaz razryadida ionlar va elektronlar qatnashadi."
     },
@@ -9172,6 +9553,7 @@ const fizika = {
           "text": "Vakuumda elektr toki hosil qilish uchun nima zarur?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Vakuumda elektr toki hosil qilish uchun nima zarur?» savolining to'g'ri javobi — Termoelektron emissiya (qizdirilgan katoddan elektronlar ajralishi). Vakuumda termoelektron emissiya orqali tok o'tadi."
     },
@@ -9196,6 +9578,7 @@ const fizika = {
           "text": "Fizikada 'Arximed kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Yarimo'tkazgichlarda o'tkazuvchanlik qanday turlarga bo'linadi?» savolining to'g'ri javobi — Xususiy (elektron-teshikli) va aralashmali (n-tur va p-tur). Donor aralashma n-tur, akseptor aralashma p-tur hosil qiladi."
     },
@@ -9220,6 +9603,7 @@ const fizika = {
           "text": "Fizikada 'Ichki energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«O'ta o'tkazuvchanlik hodisasini 1911-yilda simobda kim kashf etgan?» savolining to'g'ri javobi — Kammerling-Onnes (4.2 K haroratda). Kritik haroratda elektr qarshiligining keskin nolga tushishi."
     },
@@ -9244,6 +9628,7 @@ const fizika = {
           "text": "Izotermik jarayonda gazning qaysi parametri o'zgarmas saqlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Yorug'lik nuri nima?» savolining to'g'ri javobi — Yorug'lik energiyasi tarqalayotgan yo'nalishni ko'rsatuvchi geometrik chiziq. Geometrik optikada nur tushunchasi."
     },
@@ -9268,6 +9653,7 @@ const fizika = {
           "text": "Gazlarda elektr tokini qanday zarrachalar tashiydi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yassi ko'zguda hosil bo'lgan tasvir qanday xususiyatga ega?» savolining to'g'ri javobi — Mavhum, to'g'ri va jism o'lchamiga teng. Yassi ko'zgu doim mavhum va teng tasvir beradi."
     },
@@ -9292,6 +9678,7 @@ const fizika = {
           "text": "Ko'z gavhari qanday optik xususiyatga ega?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Ko'z gavhari qanday optik xususiyatga ega?» savolining to'g'ri javobi — Ikki tomoni qavariq yig'uvchi linza. Ko'z gavhari yig'uvchi egiluvchan tirik linzadir."
     },
@@ -9316,6 +9703,7 @@ const fizika = {
           "text": "Yaqindan ko'ruvchilik (miopiya) qanday ko'zoynak linzasi bilan tuzatiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Yaqindan ko'ruvchilik (miopiya) qanday ko'zoynak linzasi bilan tuzatiladi?» savolining to'g'ri javobi — Sochuvchi (botiq) linzalar bilan. Miopiyada tasvir to'r parda oldiga tushadi, uni sochuvchi linza to'g'rilaydi."
     },
@@ -9340,6 +9728,7 @@ const fizika = {
           "text": "Boshlang'ich tezliksiz erkin tushayotgan jismning t vaqtdagi tushish balandligi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Uzoqdan ko'ruvchilik (gipermetropiya) qanday linzali ko'zoynak bilan tuzatiladi?» savolining to'g'ri javobi — Yig'uvchi (qavariq) linzalar bilan. Gipermetropiyada tasvir to'r parda orqasiga o'tib ketadi, yig'uvchi linza kerak."
     },
@@ -9364,6 +9753,7 @@ const fizika = {
           "text": "Alfa (α) zarracha o'zi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ko'rinadigan yorug'lik to'lqin uzunliklari oralig'i taxminan qancha?» savolining to'g'ri javobi — 380 nm dan 780 nm gacha. Binafsha rangdan (380 nm) qizil ranggacha (760-780 nm)."
     },
@@ -9388,6 +9778,7 @@ const fizika = {
           "text": "Rentgen nurlarining to'lqin uzunligi qanday?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Rentgen nurlarining to'lqin uzunligi qanday?» savolining to'g'ri javobi — Ultrabinafsha va gamma-nurlar oralig'idagi juda qisqa to'lqinlar (0.01 - 10 nm). Rentgen nurlari yuqori o'tuvchanlik qobiliyatiga ega."
     },
@@ -9412,6 +9803,7 @@ const fizika = {
           "text": "Qattiq jismning suyuqlikka aylanish jarayoni nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Radioaktiv nurlanishning qaysi turi eng katta kirib borish qobiliyatiga ega?» savolining to'g'ri javobi — Gamma (γ) nurlanish (fotonlar oqimi). Gamma nurlari hatto qalin qo'rg'oshin qatlamidan ham o'tadi."
     },
@@ -9436,6 +9828,7 @@ const fizika = {
           "text": "Alfa (α) zarracha o'zi nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Alfa (α) zarracha o'zi nima?» savolining to'g'ri javobi — Geliy atomi yadrosi (ikkita proton va ikkita neytron: ⁴₂He). Alfa nurlanish geliy yadrolari oqimidir."
     },
@@ -9460,6 +9853,7 @@ const fizika = {
           "text": "Fotoeffekt uchun Eynshteyn tenglamasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Beta (β⁻) nurlanish qanday zarrachalar oqimidan iborat?» savolining to'g'ri javobi — Tez harakatlanuvchi elektronlar. Beta-manfiy yemirilishda yadrodan elektron uchib chiqadi."
     },
@@ -9484,6 +9878,7 @@ const fizika = {
           "text": "Yadroning zanjirli bo'linish reaksiyasida qaysi og'ir izotop keng qo'llaniladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Yadroning zanjirli bo'linish reaksiyasida qaysi og'ir izotop keng qo'llaniladi?» savolining to'g'ri javobi — Uran-235 (²³⁵U). Uran-235 sekin neytronlar ta'sirida bo'linadi va energiya ajratadi."
     },
@@ -9508,6 +9903,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Termoyadro sintez reaksiyasi nima?» savolining to'g'ri javobi — Yengil yadrolarning (vodorod izotoplari) o'ta yuqori haroratda birikib og'irroq yadro hosil qilishi. Quyosh va yulduzlar energiyasining manbai termoyadro reaksiyasidir."
     },
@@ -9532,6 +9928,7 @@ const fizika = {
           "text": "Yorug'likning sinish qonuni (Snellius qonuni) qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyosh sirtida energiya qaysi jarayon hisobiga ajraladi?» savolining to'g'ri javobi — Termoyadro sintezi (vodorodning geliyga aylanishi). Quyosh yadrosidagi termoyadro reaksiyasi."
     },
@@ -9556,6 +9953,7 @@ const fizika = {
           "text": "Fizikada Plank gipotezasi nimadan iborat?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Fizikada Plank gipotezasi nimadan iborat?» savolining to'g'ri javobi — Atomlar yorug'likni uzluksiz emas, balki diskret porsiyalar (kvantlar) tarzida chiqaradi va yutadi. 1900-yilda Maks Plank kvant nazariyasiga asos soldi."
     },
@@ -9580,6 +9978,7 @@ const fizika = {
           "text": "Issiqlik almashinuvsiz kechuvchi termodinamik jarayon nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Jismga ta'sir etuvchi kuch uning massasi va tezlanishi ko'paytmasiga teng."
     },
@@ -9604,6 +10003,7 @@ const fizika = {
           "text": "Karno sikli bo'yicha ishlovchi ideal issiqlik mashinasining FIK formulasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "c ≈ 3·10^8 m/s = 300 000 km/s."
     },
@@ -9628,6 +10028,7 @@ const fizika = {
           "text": "Karno sikli bo'yicha ishlovchi ideal issiqlik mashinasining FIK formulasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Normal atmosfera bosimida suv 100 °C da qaynaydi."
     },
@@ -9652,6 +10053,7 @@ const fizika = {
           "text": "Fizikada 'Arximed kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Xalqaro birliklar sistemasida tok kuchi Amperda o'lchanadi."
     },
@@ -9676,6 +10078,7 @@ const fizika = {
           "text": "Tezlanishning SI sistemasidagi asosiy o'lchov birligi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tezlanish birligi metr taqsim soniya kvadratidir."
     },
@@ -9700,6 +10103,7 @@ const fizika = {
           "text": "Mexanik ish qaysi birlikda o'lchanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Tekis harakatda tezlik yo'nalishi va qiymati bo'yicha o'zgarmaydi."
     },
@@ -9724,6 +10128,7 @@ const fizika = {
           "text": "Plank doimiysi h ning son qiymati qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "g ≈ 9.8 m/s² (amaliy hisoblashlarda ko'pincha 10 olinadi)."
     },
@@ -9748,6 +10153,7 @@ const fizika = {
           "text": "Birinchi kosmik tezlikning Yer uchun taxminiy qiymati qancha?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Burchak tezlik ω = 2π/T = 2πν ga teng."
     },
@@ -9772,6 +10178,7 @@ const fizika = {
           "text": "Gazlarda elektr tokini qanday zarrachalar tashiydi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Nyutonning 1-qonuni inersiya qonunidir."
     },
@@ -9796,6 +10203,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "F1 = -F2 (ta'sir aks ta'sirga teng va qarama-qarshi)."
     },
@@ -9820,6 +10228,7 @@ const fizika = {
           "text": "Vakuumda elektr toki hosil qilish uchun nima zarur?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Elastiklik kuchi jism deformatsiyasiga to'g'ri mutanosib."
     },
@@ -9844,6 +10253,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ishqalanish kuchi reaksiya kuchiga mutanosib."
     },
@@ -9868,6 +10278,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Gravitatsion doimiy G = 6.67·10^-11 N·m²/kg²."
     },
@@ -9892,6 +10303,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "F ~ 1/R² qonuniyati bo'yicha masofa oshganda kamayadi."
     },
@@ -9916,6 +10328,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jism impulsi massa va tezlik ko'paytmasiga teng."
     },
@@ -9940,6 +10353,7 @@ const fizika = {
           "text": "Fizikada 'Avogadro doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kinetik energiya tezlikning kvadratiga to'g'ri proporsional."
     },
@@ -9964,6 +10378,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 Joul = 1 Nyuton · 1 metr."
     },
@@ -9988,6 +10403,7 @@ const fizika = {
           "text": "Quvvatning SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 Vatt = 1 Joul / 1 soniya."
     },
@@ -10012,6 +10428,7 @@ const fizika = {
           "text": "Foydali ish koeffitsienti (FIK) qanday kattalik?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "FIK = (A_foydali / A_to'liq) · 100%."
     },
@@ -10036,6 +10453,7 @@ const fizika = {
           "text": "Bosimning SI sistemasidagi o'lchov birligi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 Pa = 1 N / m²."
     },
@@ -10060,6 +10478,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gidrostatik bosim zichlik, erkin tushish tezlanishi va balandlikka bog'liq."
     },
@@ -10084,6 +10503,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma erish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Arximed kuchi siqib chiqarilgan suyuqlik og'irligiga teng."
     },
@@ -10108,6 +10528,7 @@ const fizika = {
           "text": "Fizikada 'Elektr tokining quvvati' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Paskal qonuni: bosim barcha yo'nalishlarga teng tarqaladi."
     },
@@ -10132,6 +10553,7 @@ const fizika = {
           "text": "Aylanma harakatda markazga intilma tezlanish formulasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1 atm = 760 mm simob ustuni ≈ 101325 Pa."
     },
@@ -10156,6 +10578,7 @@ const fizika = {
           "text": "Yorug'lik to'lqinlarining to'siqlarni aylanib o'tish hodisasi nima deb ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Bosim zarrachalar konsentratsiyasi va o'rtacha kinetik energiyasiga bog'liq."
     },
@@ -10180,6 +10603,7 @@ const fizika = {
           "text": "Mendeleyev-Klapeyron tenglamasi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ideal gaz holat tenglamasi: pV = νRT."
     },
@@ -10204,6 +10628,7 @@ const fizika = {
           "text": "Fizikada 'Elektr sig'imi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "T = const bo'lganda pV = const."
     },
@@ -10228,6 +10653,7 @@ const fizika = {
           "text": "Izobarik jarayonda gazning qaysi parametri doimiy bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "p = const bo'lganda V/T = const."
     },
@@ -10252,6 +10678,7 @@ const fizika = {
           "text": "Yadrodagi neytronlar soni N qanday topiladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "V = const bo'lganda p/T = const."
     },
@@ -10276,6 +10703,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tashqi muhit bilan issiqlik almashinmaydigan jarayon adiabatik deyiladi."
     },
@@ -10300,6 +10728,7 @@ const fizika = {
           "text": "Termodinamikaning birinchi qonuni qanday yoziladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tizimga berilgan issiqlik uning ichki energiyasini oshirishga va ish bajarishga sarflanadi."
     },
@@ -10324,6 +10753,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "0 Kelvin = -273.15 °C."
     },
@@ -10348,6 +10778,7 @@ const fizika = {
           "text": "Uchinchi kosmik tezlik Yer uchun qancha?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "T1 - isitgich, T2 - sovutgich harorati."
     },
@@ -10372,6 +10803,7 @@ const fizika = {
           "text": "Kulon qonuniga ko'ra nuqtaviy zaryadlarning o'zaro ta'sir kuchi qanday aniqlanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kulon kuchi zaryadlar ko'paytmasiga to'g'ri va masofa kvadratiga teskari mutanosib."
     },
@@ -10396,6 +10828,7 @@ const fizika = {
           "text": "Fizikada 'Arximed kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kuchlanganlik birlik musbat zaryadga ta'sir qiluvchi kuchdir."
     },
@@ -10420,6 +10853,7 @@ const fizika = {
           "text": "Kondensator sig'imining SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Elektr sig'im Faradlarda o'lchanadi."
     },
@@ -10444,6 +10878,7 @@ const fizika = {
           "text": "Zanjirning bir qismi uchun Om qonuni qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tok kuchi kuchlanishga to'g'ri, qarshilikka teskari mutanosib."
     },
@@ -10468,6 +10903,7 @@ const fizika = {
           "text": "To'liq zanjir uchun Om qonuni formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "ε - EYK, R - tashqi qarshilik, r - ichki qarshilik."
     },
@@ -10492,6 +10928,7 @@ const fizika = {
           "text": "O'tkazgichning qarshiligi uning o'lchamlariga qanday bog'liq?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qarshilik uzunlikka to'g'ri, ko'ndalang kesim yuziga teskari proportsional."
     },
@@ -10516,6 +10953,7 @@ const fizika = {
           "text": "Suyuqlikning bug'lanish tezligi nimalarga bog'liq?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ketma-ket ulanishda barcha qismlardan bir xil tok o'tadi."
     },
@@ -10540,6 +10978,7 @@ const fizika = {
           "text": "Birinchi kosmik tezlikning Yer uchun taxminiy qiymati qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Parallel tarmoqlarda kuchlanishlar bir xil bo'ladi."
     },
@@ -10564,6 +11003,7 @@ const fizika = {
           "text": "Fizikada Plank gipotezasi nimadan iborat?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
     },
@@ -10588,6 +11028,7 @@ const fizika = {
           "text": "Fizikada 'Bolsman doimiysi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Magnit maydon induksiyasi Teslada o'lchanadi."
     },
@@ -10612,6 +11053,7 @@ const fizika = {
           "text": "Moddaning to'g'ridan-to'g'ri qattiq holatdan gaz holatiga o'tishi nima deb ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Magnit oqimi Veberda o'lchanadi (1 Wb = 1 Tl · m²)."
     },
@@ -10636,6 +11078,7 @@ const fizika = {
           "text": "Radioaktiv nurlanishning qaysi turi eng katta kirib borish qobiliyatiga ega?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lorens kuchi harakatdagi zaryadga ta'sir qiladi."
     },
@@ -10660,6 +11103,7 @@ const fizika = {
           "text": "Guk qonuni bo'yicha elastiklik kuchi qanday ifodalanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Amper kuchi tokli o'tkazgichga ta'sir qiladi."
     },
@@ -10684,6 +11128,7 @@ const fizika = {
           "text": "Ko'chmas blok qanday mexanik yutuq beradi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Faradey o'zgaruvchan magnit maydoni tok hosil qilishini isbotlagan."
     },
@@ -10708,6 +11153,7 @@ const fizika = {
           "text": "Fizikada 'Kuch momenti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
     },
@@ -10732,6 +11178,7 @@ const fizika = {
           "text": "G'altakning induktivlik birligi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zinduksiya kattaligi Genrida o'lchanadi."
     },
@@ -10756,6 +11203,7 @@ const fizika = {
           "text": "Normal sharoitda suv qaysi haroratda qaynaydi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Mayatnik davri uzunlikka va erkin tushish tezlanishiga bog'liq."
     },
@@ -10780,6 +11228,7 @@ const fizika = {
           "text": "Fizikada 'Ichki energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Davr massa va bikrlikka bog'liq."
     },
@@ -10804,6 +11253,7 @@ const fizika = {
           "text": "Fizikada 'Tebranish chastotasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Tomson formulasi: T = 2π√(LC)."
     },
@@ -10828,6 +11278,7 @@ const fizika = {
           "text": "To'lqin uzunligi λ, tarqalish tezligi v va chastota ν orasidagi bog'liqlik qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'lqin uzunligi tezlikning tebranish chastotasiga nisbatiga teng."
     },
@@ -10852,6 +11303,7 @@ const fizika = {
           "text": "Fizikada 'Transformator' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Yorug'likning qaytish burchagi tushish burchagiga teng."
     },
@@ -10876,6 +11328,7 @@ const fizika = {
           "text": "Suyuqlik ustunining gidrostatik bosimi qaysi formula bilan aniqlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sinuslarning nisbati nisbiy sindirish ko'rsatkichiga teng."
     },
@@ -10900,6 +11353,7 @@ const fizika = {
           "text": "To'yingan bug' nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yupqa linza formulasi: 1/F = 1/d + 1/f."
     },
@@ -10924,6 +11378,7 @@ const fizika = {
           "text": "Magnit oqimi Φ ning SI dagi o'lchov birligi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 dptr = 1 / 1 m."
     },
@@ -10948,6 +11403,7 @@ const fizika = {
           "text": "Oq yorug'likning prizmadan o'tganda spektrga (ranglarga) ajralish hodisasi nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Nyuton ochgan dispersiya hodisasi."
     },
@@ -10972,6 +11428,7 @@ const fizika = {
           "text": "Yorug'lik to'lqinlarining to'siqlarni aylanib o'tish hodisasi nima deb ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'lqinlarning to'siq ortiga o'tishi diffraksiyadir."
     },
@@ -10996,6 +11453,7 @@ const fizika = {
           "text": "Kogerent to'lqinlarning fazoda qo'shilib, kuchayishi yoki susayishi hodisasi nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yorug'lik interferensiyasi to'lqin xususiyatini isbotlaydi."
     },
@@ -11020,6 +11478,7 @@ const fizika = {
           "text": "Fizikada 'Tezlanish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "h - Plank doimiysi, ν - chastota."
     },
@@ -11044,6 +11503,7 @@ const fizika = {
           "text": "Plank doimiysi h ning son qiymati qancha?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Plank doimiysi h ≈ 6.63·10^-34 J·s."
     },
@@ -11068,6 +11528,7 @@ const fizika = {
           "text": "Moddaning to'g'ridan-to'g'ri qattiq holatdan gaz holatiga o'tishi nima deb ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
     },
@@ -11092,6 +11553,7 @@ const fizika = {
           "text": "Ko'z gavhari qanday optik xususiyatga ega?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Rezerford alfa-zarrachalar sochilishi tajribasidan so'ng yadro modelini yaratdi."
     },
@@ -11116,6 +11578,7 @@ const fizika = {
           "text": "Fizikada 'Yadro bog'lanish energiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yadro musbat proton va neytral neytronlardan iborat."
     },
@@ -11140,6 +11603,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Massaviy son A dan tartib raqam Z ayiriladi."
     },
@@ -11164,6 +11628,7 @@ const fizika = {
           "text": "Normal sharoitda suv qaysi haroratda qaynaydi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "N(t) = N_0 · 2^(-t/T)."
     },
@@ -11188,6 +11653,7 @@ const fizika = {
           "text": "Metallarda elektr tokini qanday zarrachalar tashiydi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tinchlikdagi massa va energiyaning fundamental bog'liqligi."
     },
@@ -11212,6 +11678,7 @@ const fizika = {
           "text": "Fizikada 'Elektr yurituvchi kuch (EYK)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Tezlik - Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)."
     },
@@ -11236,6 +11703,7 @@ const fizika = {
           "text": "Moddaning to'g'ridan-to'g'ri qattiq holatdan gaz holatiga o'tishi nima deb ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tezlikga tegishli."
     },
@@ -11260,6 +11728,7 @@ const fizika = {
           "text": "Nyutonning uchinchi qonuniga ko'ra ikki jismning o'zaro ta'sir kuchlari qanday bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
     },
@@ -11284,6 +11753,7 @@ const fizika = {
           "text": "Nyutonning ikkinchi qonuni qaysi formula bilan ifodalanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tezlanishga tegishli."
     },
@@ -11308,6 +11778,7 @@ const fizika = {
           "text": "Fizikada 'Kuch' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kuch - Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)."
     },
@@ -11332,6 +11803,7 @@ const fizika = {
           "text": "Izotermik jarayonda gazning qaysi parametri o'zgarmas saqlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuchga tegishli."
     },
@@ -11356,6 +11828,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
     },
@@ -11380,6 +11853,7 @@ const fizika = {
           "text": "Suyuqlik ustunining gidrostatik bosimi qaysi formula bilan aniqlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Og'irlik kuchiga tegishli."
     },
@@ -11404,6 +11878,7 @@ const fizika = {
           "text": "Elektrolitlarda (suyuqliklarda) elektr tokini nimalar tashiydi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Jismning vazni (P) - Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi."
     },
@@ -11428,6 +11903,7 @@ const fizika = {
           "text": "Jismning Yer sirtidan uzoqlashishi bilan unga ta'sir etuvchi tortishish kuchi qanday o'zgaradi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Jismning vazni (P)ga tegishli."
     },
@@ -11452,6 +11928,7 @@ const fizika = {
           "text": "Fizikada 'Impuls (Harakat miqdori)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Impuls (Harakat miqdori) - Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)."
     },
@@ -11476,6 +11953,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Impuls (Harakat miqdori)ga tegishli."
     },
@@ -11500,6 +11978,7 @@ const fizika = {
           "text": "Fizikada 'Kuch impulsi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kuch impulsi - Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)."
     },
@@ -11524,6 +12003,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuch impulsiga tegishli."
     },
@@ -11548,6 +12028,7 @@ const fizika = {
           "text": "Ko'chish nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
     },
@@ -11572,6 +12053,7 @@ const fizika = {
           "text": "Normal sharoitda suv qaysi haroratda qaynaydi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kinetik energiyaga tegishli."
     },
@@ -11596,6 +12078,7 @@ const fizika = {
           "text": "Fizikada 'Yadro bog'lanish energiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Potensial energiya - O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)."
     },
@@ -11620,6 +12103,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Potensial energiyaga tegishli."
     },
@@ -11644,6 +12128,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kuch momenti - Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)."
     },
@@ -11668,6 +12153,7 @@ const fizika = {
           "text": "Oq yorug'likning prizmadan o'tganda spektrga (ranglarga) ajralish hodisasi nima deyiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuch momentiga tegishli."
     },
@@ -11692,6 +12178,7 @@ const fizika = {
           "text": "Fizikada 'Zichlik' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
     },
@@ -11716,6 +12203,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Zichlikga tegishli."
     },
@@ -11740,6 +12228,7 @@ const fizika = {
           "text": "Fizikada 'To'liq ichki qaytish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gidrostatik bosim - Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)."
     },
@@ -11764,6 +12253,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gidrostatik bosimga tegishli."
     },
@@ -11788,6 +12278,7 @@ const fizika = {
           "text": "Fizikada 'Tezlanish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Arximed kuchi - Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)."
     },
@@ -11812,6 +12303,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Arximed kuchiga tegishli."
     },
@@ -11836,6 +12328,7 @@ const fizika = {
           "text": "Guk qonuni bo'yicha elastiklik kuchi qanday ifodalanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
     },
@@ -11860,6 +12353,7 @@ const fizika = {
           "text": "Burchak tezlik va aylanish davri o'rtasidagi bog'liqlik formulasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sirt taranglik koeffitsientiga tegishli."
     },
@@ -11884,6 +12378,7 @@ const fizika = {
           "text": "Ko'chmas blok qanday mexanik yutuq beradi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Modda miqdori - Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)."
     },
@@ -11908,6 +12403,7 @@ const fizika = {
           "text": "Ko'rinadigan yorug'lik to'lqin uzunliklari oralig'i taxminan qancha?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Modda miqdoriga tegishli."
     },
@@ -11932,6 +12428,7 @@ const fizika = {
           "text": "Issiqlik almashinuvsiz kechuvchi termodinamik jarayon nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Avogadro doimiysi - 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)."
     },
@@ -11956,6 +12453,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Avogadro doimiysiga tegishli."
     },
@@ -11980,6 +12478,7 @@ const fizika = {
           "text": "Fizikada 'Massa defekti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bolsman doimiysi - Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)."
     },
@@ -12004,6 +12503,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Bolsman doimiysiga tegishli."
     },
@@ -12028,6 +12528,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma issiqlik sig'imi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Universal gaz doimiysi - 1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))."
     },
@@ -12052,6 +12553,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Universal gaz doimiysiga tegishli."
     },
@@ -12076,6 +12578,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma issiqlik sig'imi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
     },
@@ -12100,6 +12603,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: '1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma issiqlik sig'imiga tegishli."
     },
@@ -12124,6 +12628,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma erish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Solishtirma erish issiqligi - Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)."
     },
@@ -12148,6 +12653,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma erish issiqligiga tegishli."
     },
@@ -12172,6 +12678,7 @@ const fizika = {
           "text": "Termodinamik harorat T va Selsiy harorati t o'rtasidagi bog'lanish qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Solishtirma bug'lanish issiqligi - Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m)."
     },
@@ -12196,6 +12703,7 @@ const fizika = {
           "text": "To'liq zanjir uchun Om qonuni formulasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma bug'lanish issiqligiga tegishli."
     },
@@ -12220,6 +12728,7 @@ const fizika = {
           "text": "Fizikada 'Ichki energiya' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ichki energiya - Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi."
     },
@@ -12244,6 +12753,7 @@ const fizika = {
           "text": "Fizikada 'Sirt taranglik koeffitsienti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ichki energiyaga tegishli."
     },
@@ -12268,6 +12778,7 @@ const fizika = {
           "text": "Fizikada 'Elektr zaryadi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
     },
@@ -12292,6 +12803,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr zaryadiga tegishli."
     },
@@ -12316,6 +12828,7 @@ const fizika = {
           "text": "Ketma-ket ulangan o'tkazgichlarda qaysi fizik kattalik bir xil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
     },
@@ -12340,6 +12853,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr sig'imiga tegishli."
     },
@@ -12364,6 +12878,7 @@ const fizika = {
           "text": "Fizikada 'Elektr kuchlanish (potensiallar ayirmasi)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
     },
@@ -12388,6 +12903,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr kuchlanish (potensiallar ayirmasi)ga tegishli."
     },
@@ -12412,6 +12928,7 @@ const fizika = {
           "text": "Fizikada 'Elektr yurituvchi kuch (EYK)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektr yurituvchi kuch (EYK) - Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)."
     },
@@ -12436,6 +12953,7 @@ const fizika = {
           "text": "Moddaning to'g'ridan-to'g'ri qattiq holatdan gaz holatiga o'tishi nima deb ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr yurituvchi kuch (EYK)ga tegishli."
     },
@@ -12460,6 +12978,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
     },
@@ -12484,6 +13003,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma qarshilikga tegishli."
     },
@@ -12508,6 +13028,7 @@ const fizika = {
           "text": "Richagning muvozanat sharti qanday ifodalanadi (Arximed qoidasi)?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Elektr tokining quvvati - Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)."
     },
@@ -12532,6 +13053,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr tokining quvvatiga tegishli."
     },
@@ -12556,6 +13078,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lorens kuchi - Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch."
     },
@@ -12580,6 +13103,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lorens kuchiga tegishli."
     },
@@ -12604,6 +13128,7 @@ const fizika = {
           "text": "Fizikada 'Kuch momenti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
     },
@@ -12628,6 +13153,7 @@ const fizika = {
           "text": "Nyutonning uchinchi qonuniga ko'ra ikki jismning o'zaro ta'sir kuchlari qanday bo'ladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Amper kuchiga tegishli."
     },
@@ -12652,6 +13178,7 @@ const fizika = {
           "text": "To'lqin uzunligi λ, tarqalish tezligi v va chastota ν orasidagi bog'liqlik qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "O'zinduksiya hodisasi - Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi."
     },
@@ -12676,6 +13203,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif O'zinduksiya hodisasiga tegishli."
     },
@@ -12700,6 +13228,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
     },
@@ -12724,6 +13253,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Transformatorga tegishli."
     },
@@ -12748,6 +13278,7 @@ const fizika = {
           "text": "Fizikada 'Elektr kuchlanish (potensiallar ayirmasi)' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
     },
@@ -12772,6 +13303,7 @@ const fizika = {
           "text": "Ko'char blok kuchdan necha marta yutuq beradi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tebranish davriga tegishli."
     },
@@ -12796,6 +13328,7 @@ const fizika = {
           "text": "Fizikada 'Solishtirma erish issiqligi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tebranish chastotasi - Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)."
     },
@@ -12820,6 +13353,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tebranish chastotasiga tegishli."
     },
@@ -12844,6 +13378,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'lqin interferensiyasi - Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi."
     },
@@ -12868,6 +13403,7 @@ const fizika = {
           "text": "Elektromagnit tebranish konturining tebranish davri formulasi qanday ataladi (Tomson formulasi)?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'lqin interferensiyasiga tegishli."
     },
@@ -12892,6 +13428,7 @@ const fizika = {
           "text": "Fizikada 'To'lqin diffraksiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'lqin diffraksiyasi - To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi."
     },
@@ -12916,6 +13453,7 @@ const fizika = {
           "text": "Metallarda elektr tokini qanday zarrachalar tashiydi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'lqin diffraksiyasiga tegishli."
     },
@@ -12940,6 +13478,7 @@ const fizika = {
           "text": "Inersiya qonuni Nyutonning nechanchi qonuni hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yorug'lik dispersiyasi - Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi."
     },
@@ -12964,6 +13503,7 @@ const fizika = {
           "text": "Normal atmosfera bosimi simob ustunining necha millimetr balandligiga teng?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yorug'lik dispersiyasiga tegishli."
     },
@@ -12988,6 +13528,7 @@ const fizika = {
           "text": "O'tkazgichning qarshiligi uning o'lchamlariga qanday bog'liq?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "To'liq ichki qaytish - Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi."
     },
@@ -13012,6 +13553,7 @@ const fizika = {
           "text": "Yadrodagi neytronlar soni N qanday topiladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'liq ichki qaytishga tegishli."
     },
@@ -13036,6 +13578,7 @@ const fizika = {
           "text": "Kondensator sig'imining SI dagi o'lchov birligi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Fotoeffekt - Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi."
     },
@@ -13060,6 +13603,7 @@ const fizika = {
           "text": "Tezlanishning SI sistemasidagi asosiy o'lchov birligi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Fotoeffektga tegishli."
     },
@@ -13084,6 +13628,7 @@ const fizika = {
           "text": "Issiqlik almashinuvsiz kechuvchi termodinamik jarayon nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yorug'likning qizil chegarasi - Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi)."
     },
@@ -13108,6 +13653,7 @@ const fizika = {
           "text": "Fizikada 'Og'irlik kuchi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yorug'likning qizil chegarasiga tegishli."
     },
@@ -13132,6 +13678,7 @@ const fizika = {
           "text": "Guk qonuni bo'yicha elastiklik kuchi qanday ifodalanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yadro bog'lanish energiyasi - Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)."
     },
@@ -13156,6 +13703,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yadro bog'lanish energiyasiga tegishli."
     },
@@ -13180,6 +13728,7 @@ const fizika = {
           "text": "Fizikada 'Massa defekti' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Massa defekti - Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm)."
     },
@@ -13204,6 +13753,7 @@ const fizika = {
           "text": "Erkin tushish tezlanishining Yer sirtidagi o'rtacha qiymati qancha?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Massa defektiga tegishli."
     },
@@ -13228,6 +13778,7 @@ const fizika = {
           "text": "Magnit maydonida harakatlanayotgan zaryadli zarrachaga ta'sir qiluvchi kuch nima deb ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "O'lchamlari ko'rilayotgan masofalarga nisbatan juda kichik bo'lgan jism."
     },
@@ -13252,6 +13803,7 @@ const fizika = {
           "text": "Sanoq sistemasi qanday elementlardan tashkil topgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sanoq sistemasi = Sanoq jismi + Koordinata sistemasi + Soat."
     },
@@ -13276,6 +13828,7 @@ const fizika = {
           "text": "Trayektoriya nima?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Fazoda jism harakatlangan iz/chiziq trayektoriya deyiladi."
     },
@@ -13300,6 +13853,7 @@ const fizika = {
           "text": "Oq yorug'likning prizmadan o'tganda spektrga (ranglarga) ajralish hodisasi nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ko'chish vektor kattalik, yo'l esa skalyar kattalik."
     },
@@ -13324,6 +13878,7 @@ const fizika = {
           "text": "Elektromagnit tebranish konturining tebranish davri formulasi qanday ataladi (Tomson formulasi)?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Teng o'zgaruvchan harakatda a = const bo'ladi."
     },
@@ -13348,6 +13903,7 @@ const fizika = {
           "text": "To'lqin uzunligi λ, tarqalish tezligi v va chastota ν orasidagi bog'liqlik qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Boshlang'ich tezlik v0 = 0 bo'lganda h = gt²/2."
     },
@@ -13372,6 +13928,7 @@ const fizika = {
           "text": "To'yingan bug' nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Havoning qarshiligi hisobga olinmaganda trayektoriya paraboladir."
     },
@@ -13396,6 +13953,7 @@ const fizika = {
           "text": "Fizikada 'Tezlanish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Markazga intilma tezlanish a_m = v²/R."
     },
@@ -13420,6 +13978,7 @@ const fizika = {
           "text": "Fizikada 'To'liq ichki qaytish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yer atrofida pastki orbitada aylanish tezligi v1 ≈ 7.9 km/s."
     },
@@ -13444,6 +14003,7 @@ const fizika = {
           "text": "Fizikada 'To'lqin interferensiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yer gravitatsiyasini yengib chiqish tezligi v2 ≈ 11.2 km/s."
     },
@@ -13468,6 +14028,7 @@ const fizika = {
           "text": "Fizikada 'Yorug'lik dispersiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Quyosh sistemasini tark etish tezligi v3 ≈ 16.7 km/s."
     },
@@ -13492,6 +14053,7 @@ const fizika = {
           "text": "Nyutonning uchinchi qonuniga ko'ra ikki jismning o'zaro ta'sir kuchlari qanday bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Og'irlik kuchining qo'yilish nuqtasi."
     },
@@ -13516,6 +14078,7 @@ const fizika = {
           "text": "Fizikada 'Yadro bog'lanish energiyasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kuchlar momentlari o'zaro teng bo'lishi kerak."
     },
@@ -13540,6 +14103,7 @@ const fizika = {
           "text": "Ketma-ket ulangan o'tkazgichlarda qaysi fizik kattalik bir xil bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ko'chmas blok kuchdan yutuq bermaydi."
     },
@@ -13564,6 +14128,7 @@ const fizika = {
           "text": "Ko'char blok kuchdan necha marta yutuq beradi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ko'char blok kuchdan 2 barobar yutuq beradi (masofada 2 marta yutqazadi)."
     },
@@ -13588,6 +14153,7 @@ const fizika = {
           "text": "Mexanikaning 'oltin qoidasi' qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Oddiy mexanizmlar ishdan yutuq bermaydi."
     },
@@ -13612,6 +14178,7 @@ const fizika = {
           "text": "Ko'rinadigan yorug'lik to'lqin uzunliklari oralig'i taxminan qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Fizikada qo'llanadigan ideallashtirilgan model."
     },
@@ -13636,6 +14203,7 @@ const fizika = {
           "text": "Normal sharoitda suv qaysi haroratda qaynaydi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kelvin shkalasi T = t + 273.15 K."
     },
@@ -13660,6 +14228,7 @@ const fizika = {
           "text": "Diffuziya hodisasi nimani isbotlaydi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Moddalarning o'z-o'zidan aralashib ketishi ularning harakatdaligini ko'rsatadi."
     },
@@ -13684,6 +14253,7 @@ const fizika = {
           "text": "Broun harakati nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Suyuqlik molekulalarining zarbalari oqibatida yuz beradi."
     },
@@ -13708,6 +14278,7 @@ const fizika = {
           "text": "O'tkazgichning qarshiligi uning o'lchamlariga qanday bog'liq?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sirt yuzi, harorat va ochiq havo oqimi bug'lanishni tezlashtiradi."
     },
@@ -13732,6 +14303,7 @@ const fizika = {
           "text": "Uzoqdan ko'ruvchilik (gipermetropiya) qanday linzali ko'zoynak bilan tuzatiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vaqt birligida bug'lanayotgan va kondensatsiyalanayotgan molekulalar soni tenglashadi."
     },
@@ -13756,6 +14328,7 @@ const fizika = {
           "text": "Qaynash nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'yingan bug' bosimi tashqi bosimga tenglashganda qaynash boshlanadi."
     },
@@ -13780,6 +14353,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Erish jarayonida harorat o'zgarmaydi."
     },
@@ -13804,6 +14378,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Masalan, yod yoki quruq muzning to'g'ridan-to'g'ri gazga aylanishi."
     },
@@ -13828,6 +14403,7 @@ const fizika = {
           "text": "Gorizontga burchak ostida otilgan jismning trayektoriyasi qanday shaklda bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sovuqda derazada qirov hosil bo'lishi desublimatsiyadir."
     },
@@ -13852,6 +14428,7 @@ const fizika = {
           "text": "Yorug'likning sinish qonuni (Snellius qonuni) qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Zaryad bor-yo'qligini yaproqchalarning ochilishidan aniqlaydi."
     },
@@ -13876,6 +14453,7 @@ const fizika = {
           "text": "Fizikada 'Tezlanish' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Metallarda tok o'tkazuvchilar erkin elektronlardir."
     },
@@ -13900,6 +14478,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Elektrolitik dissotsiatsiyada hosil bo'lgan ionlar."
     },
@@ -13924,6 +14503,7 @@ const fizika = {
           "text": "Fizikada 'Elektr sig'imi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gaz razryadida ionlar va elektronlar qatnashadi."
     },
@@ -13948,6 +14528,7 @@ const fizika = {
           "text": "Ko'z gavhari qanday optik xususiyatga ega?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vakuumda termoelektron emissiya orqali tok o'tadi."
     },
@@ -13972,6 +14553,7 @@ const fizika = {
           "text": "Suyuqlikning bug'lanish tezligi nimalarga bog'liq?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Donor aralashma n-tur, akseptor aralashma p-tur hosil qiladi."
     },
@@ -13996,6 +14578,7 @@ const fizika = {
           "text": "O'ta o'tkazuvchanlik hodisasini 1911-yilda simobda kim kashf etgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Kritik haroratda elektr qarshiligining keskin nolga tushishi."
     },
@@ -14020,6 +14603,7 @@ const fizika = {
           "text": "To'liq zanjir uchun Om qonuni formulasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Geometrik optikada nur tushunchasi."
     },
@@ -14044,6 +14628,7 @@ const fizika = {
           "text": "Fizikada 'O'zinduksiya hodisasi' tushunchasining ta'rifi yoki xarakterli xususiyati qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yassi ko'zgu doim mavhum va teng tasvir beradi."
     },
@@ -14068,6 +14653,7 @@ const fizika = {
           "text": "Fotoeffekt uchun Eynshteyn tenglamasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ko'z gavhari yig'uvchi egiluvchan tirik linzadir."
     },
@@ -14092,6 +14678,7 @@ const fizika = {
           "text": "Bosimning SI sistemasidagi o'lchov birligi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Miopiyada tasvir to'r parda oldiga tushadi, uni sochuvchi linza to'g'rilaydi."
     },
@@ -14116,6 +14703,7 @@ const fizika = {
           "text": "G'altakning induktivlik birligi nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gipermetropiyada tasvir to'r parda orqasiga o'tib ketadi, yig'uvchi linza kerak."
     },
@@ -14140,6 +14728,7 @@ const fizika = {
           "text": "Termodinamik harorat T va Selsiy harorati t o'rtasidagi bog'lanish qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Binafsha rangdan (380 nm) qizil ranggacha (760-780 nm)."
     },
@@ -14164,6 +14753,7 @@ const fizika = {
           "text": "Rentgen nurlarining to'lqin uzunligi qanday?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Rentgen nurlari yuqori o'tuvchanlik qobiliyatiga ega."
     },
@@ -14188,6 +14778,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gamma nurlari hatto qalin qo'rg'oshin qatlamidan ham o'tadi."
     },
@@ -14212,6 +14803,7 @@ const fizika = {
           "text": "Gazlarda elektr tokini qanday zarrachalar tashiydi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Alfa nurlanish geliy yadrolari oqimidir."
     },
@@ -14236,6 +14828,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Beta-manfiy yemirilishda yadrodan elektron uchib chiqadi."
     },
@@ -14260,6 +14853,7 @@ const fizika = {
           "text": "Diffuziya hodisasi nimani isbotlaydi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Uran-235 sekin neytronlar ta'sirida bo'linadi va energiya ajratadi."
     },
@@ -14284,6 +14878,7 @@ const fizika = {
           "text": "Fizikada Plank gipotezasi nimadan iborat?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Quyosh va yulduzlar energiyasining manbai termoyadro reaksiyasidir."
     },
@@ -14308,6 +14903,7 @@ const fizika = {
           "text": "Quyidagi ta'rif qaysi fizik kattalik, asbob yoki qonuniyatga tegishli: 'Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Quyosh yadrosidagi termoyadro reaksiyasi."
     },
@@ -14332,6 +14928,7 @@ const fizika = {
           "text": "Vakuumda elektr toki hosil qilish uchun nima zarur?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "1900-yilda Maks Plank kvant nazariyasiga asos soldi."
     },
@@ -14356,6 +14953,7 @@ const fizika = {
           "text": "Yorug'likning qaytish burchagi tushish burchagiga teng."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Jismga ta'sir etuvchi kuch uning massasi va tezlanishi ko'paytmasiga teng."
     },
@@ -14380,6 +14978,7 @@ const fizika = {
           "text": "Metallarda tok o'tkazuvchilar erkin elektronlardir."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "c ≈ 3·10^8 m/s = 300 000 km/s."
     },
@@ -14404,6 +15003,7 @@ const fizika = {
           "text": "Normal atmosfera bosimida suv 100 °C da qaynaydi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Normal atmosfera bosimida suv 100 °C da qaynaydi."
     },
@@ -14428,6 +15028,7 @@ const fizika = {
           "text": "To'yingan bug' bosimi tashqi bosimga tenglashganda qaynash boshlanadi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Xalqaro birliklar sistemasida tok kuchi Amperda o'lchanadi."
     },
@@ -14452,6 +15053,7 @@ const fizika = {
           "text": "Ushbu ta'rif Elektr zaryadiga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tezlanish birligi metr taqsim soniya kvadratidir."
     },
@@ -14476,6 +15078,7 @@ const fizika = {
           "text": "Rentgen nurlari yuqori o'tuvchanlik qobiliyatiga ega."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tekis harakatda tezlik yo'nalishi va qiymati bo'yicha o'zgarmaydi."
     },
@@ -14500,6 +15103,7 @@ const fizika = {
           "text": "Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "g ≈ 9.8 m/s² (amaliy hisoblashlarda ko'pincha 10 olinadi)."
     },
@@ -14524,6 +15128,7 @@ const fizika = {
           "text": "Plank doimiysi h ≈ 6.63·10^-34 J·s."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Burchak tezlik ω = 2π/T = 2πν ga teng."
     },
@@ -14548,6 +15153,7 @@ const fizika = {
           "text": "Nyutonning 1-qonuni inersiya qonunidir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Nyutonning 1-qonuni inersiya qonunidir."
     },
@@ -14572,6 +15178,7 @@ const fizika = {
           "text": "Ushbu ta'rif Kuchga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "F1 = -F2 (ta'sir aks ta'sirga teng va qarama-qarshi)."
     },
@@ -14596,6 +15203,7 @@ const fizika = {
           "text": "Ichki energiya - Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elastiklik kuchi jism deformatsiyasiga to'g'ri mutanosib."
     },
@@ -14620,6 +15228,7 @@ const fizika = {
           "text": "Ishqalanish kuchi reaksiya kuchiga mutanosib."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ishqalanish kuchi reaksiya kuchiga mutanosib."
     },
@@ -14644,6 +15253,7 @@ const fizika = {
           "text": "Alfa nurlanish geliy yadrolari oqimidir."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Gravitatsion doimiy G = 6.67·10^-11 N·m²/kg²."
     },
@@ -14668,6 +15278,7 @@ const fizika = {
           "text": "F ~ 1/R² qonuniyati bo'yicha masofa oshganda kamayadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "F ~ 1/R² qonuniyati bo'yicha masofa oshganda kamayadi."
     },
@@ -14692,6 +15303,7 @@ const fizika = {
           "text": "Jism impulsi massa va tezlik ko'paytmasiga teng."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jism impulsi massa va tezlik ko'paytmasiga teng."
     },
@@ -14716,6 +15328,7 @@ const fizika = {
           "text": "Gaz razryadida ionlar va elektronlar qatnashadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kinetik energiya tezlikning kvadratiga to'g'ri proporsional."
     },
@@ -14740,6 +15353,7 @@ const fizika = {
           "text": "1 Joul = 1 Nyuton · 1 metr."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 Joul = 1 Nyuton · 1 metr."
     },
@@ -14764,6 +15378,7 @@ const fizika = {
           "text": "F1 = -F2 (ta'sir aks ta'sirga teng va qarama-qarshi)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1 Vatt = 1 Joul / 1 soniya."
     },
@@ -14788,6 +15403,7 @@ const fizika = {
           "text": "FIK = (A_foydali / A_to'liq) · 100%."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "FIK = (A_foydali / A_to'liq) · 100%."
     },
@@ -14812,6 +15428,7 @@ const fizika = {
           "text": "Ushbu ta'rif Elektr yurituvchi kuch (EYK)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 Pa = 1 N / m²."
     },
@@ -14836,6 +15453,7 @@ const fizika = {
           "text": "Rentgen nurlari yuqori o'tuvchanlik qobiliyatiga ega."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gidrostatik bosim zichlik, erkin tushish tezlanishi va balandlikka bog'liq."
     },
@@ -14860,6 +15478,7 @@ const fizika = {
           "text": "Arximed kuchi siqib chiqarilgan suyuqlik og'irligiga teng."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Arximed kuchi siqib chiqarilgan suyuqlik og'irligiga teng."
     },
@@ -14884,6 +15503,7 @@ const fizika = {
           "text": "Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Paskal qonuni: bosim barcha yo'nalishlarga teng tarqaladi."
     },
@@ -14908,6 +15528,7 @@ const fizika = {
           "text": "Bosim zarrachalar konsentratsiyasi va o'rtacha kinetik energiyasiga bog'liq."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 atm = 760 mm simob ustuni ≈ 101325 Pa."
     },
@@ -14932,6 +15553,7 @@ const fizika = {
           "text": "Og'irlik kuchining qo'yilish nuqtasi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Bosim zarrachalar konsentratsiyasi va o'rtacha kinetik energiyasiga bog'liq."
     },
@@ -14956,6 +15578,7 @@ const fizika = {
           "text": "Ushbu ta'rif Kuchga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ideal gaz holat tenglamasi: pV = νRT."
     },
@@ -14980,6 +15603,7 @@ const fizika = {
           "text": "T = const bo'lganda pV = const."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "T = const bo'lganda pV = const."
     },
@@ -15004,6 +15628,7 @@ const fizika = {
           "text": "Gidrostatik bosim - Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "p = const bo'lganda V/T = const."
     },
@@ -15028,6 +15653,7 @@ const fizika = {
           "text": "Ushbu ta'rif To'lqin interferensiyasiga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "V = const bo'lganda p/T = const."
     },
@@ -15052,6 +15678,7 @@ const fizika = {
           "text": "Magnit oqimi Veberda o'lchanadi (1 Wb = 1 Tl · m²)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tashqi muhit bilan issiqlik almashinmaydigan jarayon adiabatik deyiladi."
     },
@@ -15076,6 +15703,7 @@ const fizika = {
           "text": "Elektrolitik dissotsiatsiyada hosil bo'lgan ionlar."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tizimga berilgan issiqlik uning ichki energiyasini oshirishga va ish bajarishga sarflanadi."
     },
@@ -15100,6 +15728,7 @@ const fizika = {
           "text": "0 Kelvin = -273.15 °C."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "0 Kelvin = -273.15 °C."
     },
@@ -15124,6 +15753,7 @@ const fizika = {
           "text": "T1 - isitgich, T2 - sovutgich harorati."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "T1 - isitgich, T2 - sovutgich harorati."
     },
@@ -15148,6 +15778,7 @@ const fizika = {
           "text": "Kulon kuchi zaryadlar ko'paytmasiga to'g'ri va masofa kvadratiga teskari mutanosib."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kulon kuchi zaryadlar ko'paytmasiga to'g'ri va masofa kvadratiga teskari mutanosib."
     },
@@ -15172,6 +15803,7 @@ const fizika = {
           "text": "Kuchlanganlik birlik musbat zaryadga ta'sir qiluvchi kuchdir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kuchlanganlik birlik musbat zaryadga ta'sir qiluvchi kuchdir."
     },
@@ -15196,6 +15828,7 @@ const fizika = {
           "text": "Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Elektr sig'im Faradlarda o'lchanadi."
     },
@@ -15220,6 +15853,7 @@ const fizika = {
           "text": "Ushbu ta'rif Potensial energiyaga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tok kuchi kuchlanishga to'g'ri, qarshilikka teskari mutanosib."
     },
@@ -15244,6 +15878,7 @@ const fizika = {
           "text": "Lorens kuchi harakatdagi zaryadga ta'sir qiladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "ε - EYK, R - tashqi qarshilik, r - ichki qarshilik."
     },
@@ -15268,6 +15903,7 @@ const fizika = {
           "text": "Quyosh sistemasini tark etish tezligi v3 ≈ 16.7 km/s."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qarshilik uzunlikka to'g'ri, ko'ndalang kesim yuziga teskari proportsional."
     },
@@ -15292,6 +15928,7 @@ const fizika = {
           "text": "Ketma-ket ulanishda barcha qismlardan bir xil tok o'tadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ketma-ket ulanishda barcha qismlardan bir xil tok o'tadi."
     },
@@ -15316,6 +15953,7 @@ const fizika = {
           "text": "T = const bo'lganda pV = const."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Parallel tarmoqlarda kuchlanishlar bir xil bo'ladi."
     },
@@ -15340,6 +15978,7 @@ const fizika = {
           "text": "Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
     },
@@ -15364,6 +16003,7 @@ const fizika = {
           "text": "Ushbu ta'rif Yorug'lik dispersiyasiga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Magnit maydon induksiyasi Teslada o'lchanadi."
     },
@@ -15388,6 +16028,7 @@ const fizika = {
           "text": "Magnit oqimi Veberda o'lchanadi (1 Wb = 1 Tl · m²)."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Magnit oqimi Veberda o'lchanadi (1 Wb = 1 Tl · m²)."
     },
@@ -15412,6 +16053,7 @@ const fizika = {
           "text": "Beta-manfiy yemirilishda yadrodan elektron uchib chiqadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lorens kuchi harakatdagi zaryadga ta'sir qiladi."
     },
@@ -15436,6 +16078,7 @@ const fizika = {
           "text": "Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Amper kuchi tokli o'tkazgichga ta'sir qiladi."
     },
@@ -15460,6 +16103,7 @@ const fizika = {
           "text": "Ushbu ta'rif Lorens kuchiga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Faradey o'zgaruvchan magnit maydoni tok hosil qilishini isbotlagan."
     },
@@ -15484,6 +16128,7 @@ const fizika = {
           "text": "Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
     },
@@ -15508,6 +16153,7 @@ const fizika = {
           "text": "Geometrik optikada nur tushunchasi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zinduksiya kattaligi Genrida o'lchanadi."
     },
@@ -15532,6 +16178,7 @@ const fizika = {
           "text": "Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Mayatnik davri uzunlikka va erkin tushish tezlanishiga bog'liq."
     },
@@ -15556,6 +16203,7 @@ const fizika = {
           "text": "Quyosh yadrosidagi termoyadro reaksiyasi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Davr massa va bikrlikka bog'liq."
     },
@@ -15580,6 +16228,7 @@ const fizika = {
           "text": "Ushbu ta'rif Ichki energiyaga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Tomson formulasi: T = 2π√(LC)."
     },
@@ -15604,6 +16253,7 @@ const fizika = {
           "text": "To'lqin uzunligi tezlikning tebranish chastotasiga nisbatiga teng."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'lqin uzunligi tezlikning tebranish chastotasiga nisbatiga teng."
     },
@@ -15628,6 +16278,7 @@ const fizika = {
           "text": "Yorug'likning qaytish burchagi tushish burchagiga teng."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Yorug'likning qaytish burchagi tushish burchagiga teng."
     },
@@ -15652,6 +16303,7 @@ const fizika = {
           "text": "Paskal qonuni: bosim barcha yo'nalishlarga teng tarqaladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sinuslarning nisbati nisbiy sindirish ko'rsatkichiga teng."
     },
@@ -15676,6 +16328,7 @@ const fizika = {
           "text": "Tekis harakatda tezlik yo'nalishi va qiymati bo'yicha o'zgarmaydi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yupqa linza formulasi: 1/F = 1/d + 1/f."
     },
@@ -15700,6 +16353,7 @@ const fizika = {
           "text": "0 Kelvin = -273.15 °C."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 dptr = 1 / 1 m."
     },
@@ -15724,6 +16378,7 @@ const fizika = {
           "text": "Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Nyuton ochgan dispersiya hodisasi."
     },
@@ -15748,6 +16403,7 @@ const fizika = {
           "text": "To'lqinlarning to'siq ortiga o'tishi diffraksiyadir."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'lqinlarning to'siq ortiga o'tishi diffraksiyadir."
     },
@@ -15772,6 +16428,7 @@ const fizika = {
           "text": "Yorug'lik interferensiyasi to'lqin xususiyatini isbotlaydi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yorug'lik interferensiyasi to'lqin xususiyatini isbotlaydi."
     },
@@ -15796,6 +16453,7 @@ const fizika = {
           "text": "Ushbu ta'rif To'lqin interferensiyasiga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "h - Plank doimiysi, ν - chastota."
     },
@@ -15820,6 +16478,7 @@ const fizika = {
           "text": "Plank doimiysi h ≈ 6.63·10^-34 J·s."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Plank doimiysi h ≈ 6.63·10^-34 J·s."
     },
@@ -15844,6 +16503,7 @@ const fizika = {
           "text": "Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
     },
@@ -15868,6 +16528,7 @@ const fizika = {
           "text": "Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Rezerford alfa-zarrachalar sochilishi tajribasidan so'ng yadro modelini yaratdi."
     },
@@ -15892,6 +16553,7 @@ const fizika = {
           "text": "Yadro musbat proton va neytral neytronlardan iborat."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yadro musbat proton va neytral neytronlardan iborat."
     },
@@ -15916,6 +16578,7 @@ const fizika = {
           "text": "Ushbu ta'rif Jismning vazni (P)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Massaviy son A dan tartib raqam Z ayiriladi."
     },
@@ -15940,6 +16603,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tebranish chastotasiga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "N(t) = N_0 · 2^(-t/T)."
     },
@@ -15964,6 +16628,7 @@ const fizika = {
           "text": "Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tinchlikdagi massa va energiyaning fundamental bog'liqligi."
     },
@@ -15988,6 +16653,7 @@ const fizika = {
           "text": "Suyuqlik molekulalarining zarbalari oqibatida yuz beradi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tezlik - Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)."
     },
@@ -16012,6 +16678,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tezlikga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tezlikga tegishli."
     },
@@ -16036,6 +16703,7 @@ const fizika = {
           "text": "Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
     },
@@ -16060,6 +16728,7 @@ const fizika = {
           "text": "Quyosh yadrosidagi termoyadro reaksiyasi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tezlanishga tegishli."
     },
@@ -16084,6 +16753,7 @@ const fizika = {
           "text": "Masalan, yod yoki quruq muzning to'g'ridan-to'g'ri gazga aylanishi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kuch - Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)."
     },
@@ -16108,6 +16778,7 @@ const fizika = {
           "text": "Ushbu ta'rif Kuchga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuchga tegishli."
     },
@@ -16132,6 +16803,7 @@ const fizika = {
           "text": "Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
     },
@@ -16156,6 +16828,7 @@ const fizika = {
           "text": "Zaryad bor-yo'qligini yaproqchalarning ochilishidan aniqlaydi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Og'irlik kuchiga tegishli."
     },
@@ -16180,6 +16853,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tezlanishga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Jismning vazni (P) - Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi."
     },
@@ -16204,6 +16878,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tezlanishga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Jismning vazni (P)ga tegishli."
     },
@@ -16228,6 +16903,7 @@ const fizika = {
           "text": "Ushbu ta'rif O'zinduksiya hodisasiga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Impuls (Harakat miqdori) - Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)."
     },
@@ -16252,6 +16928,7 @@ const fizika = {
           "text": "Ushbu ta'rif O'zinduksiya hodisasiga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Impuls (Harakat miqdori)ga tegishli."
     },
@@ -16276,6 +16953,7 @@ const fizika = {
           "text": "Sinuslarning nisbati nisbiy sindirish ko'rsatkichiga teng."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kuch impulsi - Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)."
     },
@@ -16300,6 +16978,7 @@ const fizika = {
           "text": "Nyutonning 1-qonuni inersiya qonunidir."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuch impulsiga tegishli."
     },
@@ -16324,6 +17003,7 @@ const fizika = {
           "text": "Og'irlik kuchining qo'yilish nuqtasi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
     },
@@ -16348,6 +17028,7 @@ const fizika = {
           "text": "Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kinetik energiyaga tegishli."
     },
@@ -16372,6 +17053,7 @@ const fizika = {
           "text": "Potensial energiya - O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Potensial energiya - O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)."
     },
@@ -16396,6 +17078,7 @@ const fizika = {
           "text": "Paskal qonuni: bosim barcha yo'nalishlarga teng tarqaladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Potensial energiyaga tegishli."
     },
@@ -16420,6 +17103,7 @@ const fizika = {
           "text": "Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kuch momenti - Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)."
     },
@@ -16444,6 +17128,7 @@ const fizika = {
           "text": "Ushbu ta'rif Kuch momentiga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kuch momentiga tegishli."
     },
@@ -16468,6 +17153,7 @@ const fizika = {
           "text": "Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
     },
@@ -16492,6 +17178,7 @@ const fizika = {
           "text": "Moddalarning o'z-o'zidan aralashib ketishi ularning harakatdaligini ko'rsatadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Zichlikga tegishli."
     },
@@ -16516,6 +17203,7 @@ const fizika = {
           "text": "Boshlang'ich tezlik v0 = 0 bo'lganda h = gt²/2."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gidrostatik bosim - Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)."
     },
@@ -16540,6 +17228,7 @@ const fizika = {
           "text": "Magnit maydon induksiyasi Teslada o'lchanadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gidrostatik bosimga tegishli."
     },
@@ -16564,6 +17253,7 @@ const fizika = {
           "text": "Tashqi muhit bilan issiqlik almashinmaydigan jarayon adiabatik deyiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Arximed kuchi - Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)."
     },
@@ -16588,6 +17278,7 @@ const fizika = {
           "text": "V = const bo'lganda p/T = const."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Arximed kuchiga tegishli."
     },
@@ -16612,6 +17303,7 @@ const fizika = {
           "text": "Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
     },
@@ -16636,6 +17328,7 @@ const fizika = {
           "text": "Elektr sig'im Faradlarda o'lchanadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sirt taranglik koeffitsientiga tegishli."
     },
@@ -16660,6 +17353,7 @@ const fizika = {
           "text": "Quyosh yadrosidagi termoyadro reaksiyasi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Modda miqdori - Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)."
     },
@@ -16684,6 +17378,7 @@ const fizika = {
           "text": "Amper kuchi tokli o'tkazgichga ta'sir qiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Modda miqdoriga tegishli."
     },
@@ -16708,6 +17403,7 @@ const fizika = {
           "text": "Gidrostatik bosim zichlik, erkin tushish tezlanishi va balandlikka bog'liq."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Avogadro doimiysi - 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)."
     },
@@ -16732,6 +17428,7 @@ const fizika = {
           "text": "Plank doimiysi h ≈ 6.63·10^-34 J·s."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Avogadro doimiysiga tegishli."
     },
@@ -16756,6 +17453,7 @@ const fizika = {
           "text": "Tinchlikdagi massa va energiyaning fundamental bog'liqligi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bolsman doimiysi - Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)."
     },
@@ -16780,6 +17478,7 @@ const fizika = {
           "text": "Nyutonning 1-qonuni inersiya qonunidir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Bolsman doimiysiga tegishli."
     },
@@ -16804,6 +17503,7 @@ const fizika = {
           "text": "Alfa nurlanish geliy yadrolari oqimidir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Universal gaz doimiysi - 1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))."
     },
@@ -16828,6 +17528,7 @@ const fizika = {
           "text": "Ishqalanish kuchi reaksiya kuchiga mutanosib."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Universal gaz doimiysiga tegishli."
     },
@@ -16852,6 +17553,7 @@ const fizika = {
           "text": "Kuch momenti - Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
     },
@@ -16876,6 +17578,7 @@ const fizika = {
           "text": "Ushbu ta'rif Solishtirma issiqlik sig'imiga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma issiqlik sig'imiga tegishli."
     },
@@ -16900,6 +17603,7 @@ const fizika = {
           "text": "Yer atrofida pastki orbitada aylanish tezligi v1 ≈ 7.9 km/s."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Solishtirma erish issiqligi - Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)."
     },
@@ -16924,6 +17628,7 @@ const fizika = {
           "text": "T = const bo'lganda pV = const."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma erish issiqligiga tegishli."
     },
@@ -16948,6 +17653,7 @@ const fizika = {
           "text": "Fazoda jism harakatlangan iz/chiziq trayektoriya deyiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Solishtirma bug'lanish issiqligi - Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m)."
     },
@@ -16972,6 +17678,7 @@ const fizika = {
           "text": "Gidrostatik bosim zichlik, erkin tushish tezlanishi va balandlikka bog'liq."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma bug'lanish issiqligiga tegishli."
     },
@@ -16996,6 +17703,7 @@ const fizika = {
           "text": "Gipermetropiyada tasvir to'r parda orqasiga o'tib ketadi, yig'uvchi linza kerak."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ichki energiya - Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi."
     },
@@ -17020,6 +17728,7 @@ const fizika = {
           "text": "Ko'chish vektor kattalik, yo'l esa skalyar kattalik."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ichki energiyaga tegishli."
     },
@@ -17044,6 +17753,7 @@ const fizika = {
           "text": "1 Joul = 1 Nyuton · 1 metr."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
     },
@@ -17068,6 +17778,7 @@ const fizika = {
           "text": "Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr zaryadiga tegishli."
     },
@@ -17092,6 +17803,7 @@ const fizika = {
           "text": "Zaryad bor-yo'qligini yaproqchalarning ochilishidan aniqlaydi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
     },
@@ -17116,6 +17828,7 @@ const fizika = {
           "text": "To'lqin uzunligi tezlikning tebranish chastotasiga nisbatiga teng."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr sig'imiga tegishli."
     },
@@ -17140,6 +17853,7 @@ const fizika = {
           "text": "Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
     },
@@ -17164,6 +17878,7 @@ const fizika = {
           "text": "Ushbu ta'rif Fotoeffektga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr kuchlanish (potensiallar ayirmasi)ga tegishli."
     },
@@ -17188,6 +17903,7 @@ const fizika = {
           "text": "Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr yurituvchi kuch (EYK) - Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)."
     },
@@ -17212,6 +17928,7 @@ const fizika = {
           "text": "Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr yurituvchi kuch (EYK)ga tegishli."
     },
@@ -17236,6 +17953,7 @@ const fizika = {
           "text": "Bosim zarrachalar konsentratsiyasi va o'rtacha kinetik energiyasiga bog'liq."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
     },
@@ -17260,6 +17978,7 @@ const fizika = {
           "text": "Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Solishtirma qarshilikga tegishli."
     },
@@ -17284,6 +18003,7 @@ const fizika = {
           "text": "Kritik haroratda elektr qarshiligining keskin nolga tushishi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Elektr tokining quvvati - Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)."
     },
@@ -17308,6 +18028,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tebranish davriga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Elektr tokining quvvatiga tegishli."
     },
@@ -17332,6 +18053,7 @@ const fizika = {
           "text": "Kinetik energiya tezlikning kvadratiga to'g'ri proporsional."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lorens kuchi - Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch."
     },
@@ -17356,6 +18078,7 @@ const fizika = {
           "text": "Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lorens kuchiga tegishli."
     },
@@ -17380,6 +18103,7 @@ const fizika = {
           "text": "Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
     },
@@ -17404,6 +18128,7 @@ const fizika = {
           "text": "Ushbu ta'rif Elektr yurituvchi kuch (EYK)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Amper kuchiga tegishli."
     },
@@ -17428,6 +18153,7 @@ const fizika = {
           "text": "h - Plank doimiysi, ν - chastota."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "O'zinduksiya hodisasi - Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi."
     },
@@ -17452,6 +18178,7 @@ const fizika = {
           "text": "Ushbu ta'rif To'liq ichki qaytishga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif O'zinduksiya hodisasiga tegishli."
     },
@@ -17476,6 +18203,7 @@ const fizika = {
           "text": "Tizimga berilgan issiqlik uning ichki energiyasini oshirishga va ish bajarishga sarflanadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
     },
@@ -17500,6 +18228,7 @@ const fizika = {
           "text": "Tebranish chastotasi - Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Transformatorga tegishli."
     },
@@ -17524,6 +18253,7 @@ const fizika = {
           "text": "Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
     },
@@ -17548,6 +18278,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tebranish davriga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tebranish davriga tegishli."
     },
@@ -17572,6 +18303,7 @@ const fizika = {
           "text": "Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tebranish chastotasi - Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)."
     },
@@ -17596,6 +18328,7 @@ const fizika = {
           "text": "Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tebranish chastotasiga tegishli."
     },
@@ -17620,6 +18353,7 @@ const fizika = {
           "text": "1 Pa = 1 N / m²."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'lqin interferensiyasi - Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi."
     },
@@ -17644,6 +18378,7 @@ const fizika = {
           "text": "Ushbu ta'rif To'lqin diffraksiyasiga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'lqin interferensiyasiga tegishli."
     },
@@ -17668,6 +18403,7 @@ const fizika = {
           "text": "p = const bo'lganda V/T = const."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'lqin diffraksiyasi - To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi."
     },
@@ -17692,6 +18428,7 @@ const fizika = {
           "text": "Ketma-ket ulanishda barcha qismlardan bir xil tok o'tadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'lqin diffraksiyasiga tegishli."
     },
@@ -17716,6 +18453,7 @@ const fizika = {
           "text": "Ushbu ta'rif Fotoeffektga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yorug'lik dispersiyasi - Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi."
     },
@@ -17740,6 +18478,7 @@ const fizika = {
           "text": "Sovuqda derazada qirov hosil bo'lishi desublimatsiyadir."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yorug'lik dispersiyasiga tegishli."
     },
@@ -17764,6 +18503,7 @@ const fizika = {
           "text": "Elektrolitik dissotsiatsiyada hosil bo'lgan ionlar."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'liq ichki qaytish - Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi."
     },
@@ -17788,6 +18528,7 @@ const fizika = {
           "text": "Quyosh yadrosidagi termoyadro reaksiyasi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'liq ichki qaytishga tegishli."
     },
@@ -17812,6 +18553,7 @@ const fizika = {
           "text": "To'liq ichki qaytish - Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Fotoeffekt - Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi."
     },
@@ -17836,6 +18578,7 @@ const fizika = {
           "text": "Ushbu ta'rif Fotoeffektga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Fotoeffektga tegishli."
     },
@@ -17860,6 +18603,7 @@ const fizika = {
           "text": "Ushbu ta'rif Transformatorga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yorug'likning qizil chegarasi - Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi)."
     },
@@ -17884,6 +18628,7 @@ const fizika = {
           "text": "Ushbu ta'rif Yorug'likning qizil chegarasiga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yorug'likning qizil chegarasiga tegishli."
     },
@@ -17908,6 +18653,7 @@ const fizika = {
           "text": "Vaqt birligida bug'lanayotgan va kondensatsiyalanayotgan molekulalar soni tenglashadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yadro bog'lanish energiyasi - Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)."
     },
@@ -17932,6 +18678,7 @@ const fizika = {
           "text": "Ushbu ta'rif Kinetik energiyaga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yadro bog'lanish energiyasiga tegishli."
     },
@@ -17956,6 +18703,7 @@ const fizika = {
           "text": "Jismning vazni (P) - Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Massa defekti - Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm)."
     },
@@ -17980,6 +18728,7 @@ const fizika = {
           "text": "Sovuqda derazada qirov hosil bo'lishi desublimatsiyadir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Massa defektiga tegishli."
     },
@@ -18004,6 +18753,7 @@ const fizika = {
           "text": "Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "O'lchamlari ko'rilayotgan masofalarga nisbatan juda kichik bo'lgan jism."
     },
@@ -18028,6 +18778,7 @@ const fizika = {
           "text": "Beta-manfiy yemirilishda yadrodan elektron uchib chiqadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sanoq sistemasi = Sanoq jismi + Koordinata sistemasi + Soat."
     },
@@ -18052,6 +18803,7 @@ const fizika = {
           "text": "Arximed kuchi - Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Fazoda jism harakatlangan iz/chiziq trayektoriya deyiladi."
     },
@@ -18076,6 +18828,7 @@ const fizika = {
           "text": "Ko'chish vektor kattalik, yo'l esa skalyar kattalik."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ko'chish vektor kattalik, yo'l esa skalyar kattalik."
     },
@@ -18100,6 +18853,7 @@ const fizika = {
           "text": "Avogadro doimiysi - 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Teng o'zgaruvchan harakatda a = const bo'ladi."
     },
@@ -18124,6 +18878,7 @@ const fizika = {
           "text": "Boshlang'ich tezlik v0 = 0 bo'lganda h = gt²/2."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Boshlang'ich tezlik v0 = 0 bo'lganda h = gt²/2."
     },
@@ -18148,6 +18903,7 @@ const fizika = {
           "text": "Havoning qarshiligi hisobga olinmaganda trayektoriya paraboladir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Havoning qarshiligi hisobga olinmaganda trayektoriya paraboladir."
     },
@@ -18172,6 +18928,7 @@ const fizika = {
           "text": "Ushbu ta'rif Solishtirma bug'lanish issiqligiga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Markazga intilma tezlanish a_m = v²/R."
     },
@@ -18196,6 +18953,7 @@ const fizika = {
           "text": "F1 = -F2 (ta'sir aks ta'sirga teng va qarama-qarshi)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yer atrofida pastki orbitada aylanish tezligi v1 ≈ 7.9 km/s."
     },
@@ -18220,6 +18978,7 @@ const fizika = {
           "text": "Massaviy son A dan tartib raqam Z ayiriladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yer gravitatsiyasini yengib chiqish tezligi v2 ≈ 11.2 km/s."
     },
@@ -18244,6 +19003,7 @@ const fizika = {
           "text": "Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Quyosh sistemasini tark etish tezligi v3 ≈ 16.7 km/s."
     },
@@ -18268,6 +19028,7 @@ const fizika = {
           "text": "Ushbu ta'rif Jismning vazni (P)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Og'irlik kuchining qo'yilish nuqtasi."
     },
@@ -18292,6 +19053,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tebranish davriga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kuchlar momentlari o'zaro teng bo'lishi kerak."
     },
@@ -18316,6 +19078,7 @@ const fizika = {
           "text": "Ushbu ta'rif Tezlanishga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ko'chmas blok kuchdan yutuq bermaydi."
     },
@@ -18340,6 +19103,7 @@ const fizika = {
           "text": "Magnit maydon induksiyasi Teslada o'lchanadi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ko'char blok kuchdan 2 barobar yutuq beradi (masofada 2 marta yutqazadi)."
     },
@@ -18364,6 +19128,7 @@ const fizika = {
           "text": "Ushbu ta'rif Modda miqdoriga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Oddiy mexanizmlar ishdan yutuq bermaydi."
     },
@@ -18388,6 +19153,7 @@ const fizika = {
           "text": "ε - EYK, R - tashqi qarshilik, r - ichki qarshilik."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Fizikada qo'llanadigan ideallashtirilgan model."
     },
@@ -18412,6 +19178,7 @@ const fizika = {
           "text": "Kulon kuchi zaryadlar ko'paytmasiga to'g'ri va masofa kvadratiga teskari mutanosib."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Kelvin shkalasi T = t + 273.15 K."
     },
@@ -18436,6 +19203,7 @@ const fizika = {
           "text": "Ushbu ta'rif Modda miqdoriga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Moddalarning o'z-o'zidan aralashib ketishi ularning harakatdaligini ko'rsatadi."
     },
@@ -18460,6 +19228,7 @@ const fizika = {
           "text": "Sanoq sistemasi = Sanoq jismi + Koordinata sistemasi + Soat."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Suyuqlik molekulalarining zarbalari oqibatida yuz beradi."
     },
@@ -18484,6 +19253,7 @@ const fizika = {
           "text": "Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sirt yuzi, harorat va ochiq havo oqimi bug'lanishni tezlashtiradi."
     },
@@ -18508,6 +19278,7 @@ const fizika = {
           "text": "Tinchlikdagi massa va energiyaning fundamental bog'liqligi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vaqt birligida bug'lanayotgan va kondensatsiyalanayotgan molekulalar soni tenglashadi."
     },
@@ -18532,6 +19303,7 @@ const fizika = {
           "text": "Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "To'yingan bug' bosimi tashqi bosimga tenglashganda qaynash boshlanadi."
     },
@@ -18556,6 +19328,7 @@ const fizika = {
           "text": "To'yingan bug' bosimi tashqi bosimga tenglashganda qaynash boshlanadi."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Erish jarayonida harorat o'zgarmaydi."
     },
@@ -18580,6 +19353,7 @@ const fizika = {
           "text": "Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Masalan, yod yoki quruq muzning to'g'ridan-to'g'ri gazga aylanishi."
     },
@@ -18604,6 +19378,7 @@ const fizika = {
           "text": "Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sovuqda derazada qirov hosil bo'lishi desublimatsiyadir."
     },
@@ -18628,6 +19403,7 @@ const fizika = {
           "text": "Tashqi muhit bilan issiqlik almashinmaydigan jarayon adiabatik deyiladi."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Zaryad bor-yo'qligini yaproqchalarning ochilishidan aniqlaydi."
     },
@@ -18652,6 +19428,7 @@ const fizika = {
           "text": "Vakuumda termoelektron emissiya orqali tok o'tadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Metallarda tok o'tkazuvchilar erkin elektronlardir."
     },
@@ -18676,6 +19453,7 @@ const fizika = {
           "text": "Elektrolitik dissotsiatsiyada hosil bo'lgan ionlar."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Elektrolitik dissotsiatsiyada hosil bo'lgan ionlar."
     },
@@ -18700,6 +19478,7 @@ const fizika = {
           "text": "1 Vatt = 1 Joul / 1 soniya."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gaz razryadida ionlar va elektronlar qatnashadi."
     },
@@ -18724,6 +19503,7 @@ const fizika = {
           "text": "Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vakuumda termoelektron emissiya orqali tok o'tadi."
     },
@@ -18748,6 +19528,7 @@ const fizika = {
           "text": "Rezerford alfa-zarrachalar sochilishi tajribasidan so'ng yadro modelini yaratdi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Donor aralashma n-tur, akseptor aralashma p-tur hosil qiladi."
     },
@@ -18772,6 +19553,7 @@ const fizika = {
           "text": "Kritik haroratda elektr qarshiligining keskin nolga tushishi."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Kritik haroratda elektr qarshiligining keskin nolga tushishi."
     },
@@ -18796,6 +19578,7 @@ const fizika = {
           "text": "Ko'z gavhari yig'uvchi egiluvchan tirik linzadir."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Geometrik optikada nur tushunchasi."
     },
@@ -18820,6 +19603,7 @@ const fizika = {
           "text": "Qarshilik uzunlikka to'g'ri, ko'ndalang kesim yuziga teskari proportsional."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yassi ko'zgu doim mavhum va teng tasvir beradi."
     },
@@ -18844,6 +19628,7 @@ const fizika = {
           "text": "N(t) = N_0 · 2^(-t/T)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ko'z gavhari yig'uvchi egiluvchan tirik linzadir."
     },
@@ -18868,6 +19653,7 @@ const fizika = {
           "text": "Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Miopiyada tasvir to'r parda oldiga tushadi, uni sochuvchi linza to'g'rilaydi."
     },
@@ -18892,6 +19678,7 @@ const fizika = {
           "text": "Donor aralashma n-tur, akseptor aralashma p-tur hosil qiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gipermetropiyada tasvir to'r parda orqasiga o'tib ketadi, yig'uvchi linza kerak."
     },
@@ -18916,6 +19703,7 @@ const fizika = {
           "text": "Binafsha rangdan (380 nm) qizil ranggacha (760-780 nm)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Binafsha rangdan (380 nm) qizil ranggacha (760-780 nm)."
     },
@@ -18940,6 +19728,7 @@ const fizika = {
           "text": "Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Rentgen nurlari yuqori o'tuvchanlik qobiliyatiga ega."
     },
@@ -18964,6 +19753,7 @@ const fizika = {
           "text": "Gamma nurlari hatto qalin qo'rg'oshin qatlamidan ham o'tadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Gamma nurlari hatto qalin qo'rg'oshin qatlamidan ham o'tadi."
     },
@@ -18988,6 +19778,7 @@ const fizika = {
           "text": "Normal atmosfera bosimida suv 100 °C da qaynaydi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Alfa nurlanish geliy yadrolari oqimidir."
     },
@@ -19012,6 +19803,7 @@ const fizika = {
           "text": "c ≈ 3·10^8 m/s = 300 000 km/s."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Beta-manfiy yemirilishda yadrodan elektron uchib chiqadi."
     },
@@ -19036,6 +19828,7 @@ const fizika = {
           "text": "Yassi ko'zgu doim mavhum va teng tasvir beradi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Uran-235 sekin neytronlar ta'sirida bo'linadi va energiya ajratadi."
     },
@@ -19060,6 +19853,7 @@ const fizika = {
           "text": "Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Quyosh va yulduzlar energiyasining manbai termoyadro reaksiyasidir."
     },
@@ -19084,6 +19878,7 @@ const fizika = {
           "text": "Kritik haroratda elektr qarshiligining keskin nolga tushishi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Quyosh yadrosidagi termoyadro reaksiyasi."
     },
@@ -19108,6 +19903,7 @@ const fizika = {
           "text": "FIK = (A_foydali / A_to'liq) · 100%."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "1900-yilda Maks Plank kvant nazariyasiga asos soldi."
     },
@@ -19132,6 +19928,7 @@ const fizika = {
           "text": "30 000 km/s"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "c ≈ 3·10^8 m/s = 300 000 km/s."
     },
@@ -19156,6 +19953,7 @@ const fizika = {
           "text": "0 °C"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Normal atmosfera bosimida suv 100 °C da qaynaydi."
     },
@@ -19180,6 +19978,7 @@ const fizika = {
           "text": "Volt"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Xalqaro birliklar sistemasida tok kuchi Amperda o'lchanadi."
     },
@@ -19204,6 +20003,7 @@ const fizika = {
           "text": "10.5 m/s²"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "g ≈ 9.8 m/s² (amaliy hisoblashlarda ko'pincha 10 olinadi)."
     },
@@ -19228,6 +20028,7 @@ const fizika = {
           "text": "-100 °C"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "0 Kelvin = -273.15 °C."
     },
@@ -19252,6 +20053,7 @@ const fizika = {
           "text": "O'ng qo'l qoidasi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
     },
@@ -19276,6 +20078,7 @@ const fizika = {
           "text": "1/F = 1/d + 1/f"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yupqa linza formulasi: 1/F = 1/d + 1/f."
     },
@@ -19300,6 +20103,7 @@ const fizika = {
           "text": "Diffraksiya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'lqinlarning to'siq ortiga o'tishi diffraksiyadir."
     },
@@ -19324,6 +20128,7 @@ const fizika = {
           "text": "Interferensiya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yorug'lik interferensiyasi to'lqin xususiyatini isbotlaydi."
     },
@@ -19348,6 +20153,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tezlik - Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)."
     },
@@ -19372,6 +20178,7 @@ const fizika = {
           "text": "Tezlanish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Tezlikga tegishli."
     },
@@ -19396,6 +20203,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
     },
@@ -19420,6 +20228,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kuch - Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)."
     },
@@ -19444,6 +20253,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
     },
@@ -19468,6 +20278,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Jismning vazni (P) - Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi."
     },
@@ -19492,6 +20303,7 @@ const fizika = {
           "text": "Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Impuls (Harakat miqdori) - Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)."
     },
@@ -19516,6 +20328,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kuch impulsi - Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)."
     },
@@ -19540,6 +20353,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
     },
@@ -19564,6 +20378,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Potensial energiya - O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)."
     },
@@ -19588,6 +20403,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kuch momenti - Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)."
     },
@@ -19612,6 +20428,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
     },
@@ -19636,6 +20453,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gidrostatik bosim - Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)."
     },
@@ -19660,6 +20478,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Arximed kuchi - Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)."
     },
@@ -19684,6 +20503,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
     },
@@ -19708,6 +20528,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Modda miqdori - Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)."
     },
@@ -19732,6 +20553,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Avogadro doimiysi - 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)."
     },
@@ -19756,6 +20578,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bolsman doimiysi - Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)."
     },
@@ -19780,6 +20603,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Universal gaz doimiysi - 1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))."
     },
@@ -19804,6 +20628,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
     },
@@ -19828,6 +20653,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Solishtirma erish issiqligi - Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)."
     },
@@ -19852,6 +20678,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Solishtirma bug'lanish issiqligi - Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m)."
     },
@@ -19876,6 +20703,7 @@ const fizika = {
           "text": "Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ichki energiya - Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi."
     },
@@ -19900,6 +20728,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
     },
@@ -19924,6 +20753,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
     },
@@ -19948,6 +20778,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
     },
@@ -19972,6 +20803,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Elektr yurituvchi kuch (EYK) - Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)."
     },
@@ -19996,6 +20828,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
     },
@@ -20020,6 +20853,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Elektr tokining quvvati - Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)."
     },
@@ -20044,6 +20878,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lorens kuchi - Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch."
     },
@@ -20068,6 +20903,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
     },
@@ -20092,6 +20928,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'zinduksiya hodisasi - Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi."
     },
@@ -20116,6 +20953,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
     },
@@ -20140,6 +20978,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
     },
@@ -20164,6 +21003,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Tebranish chastotasi - Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)."
     },
@@ -20188,6 +21028,7 @@ const fizika = {
           "text": "Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'lqin interferensiyasi - Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi."
     },
@@ -20212,6 +21053,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "To'lqin diffraksiyasi - To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi."
     },
@@ -20236,6 +21078,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yorug'lik dispersiyasi - Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi."
     },
@@ -20260,6 +21103,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "To'liq ichki qaytish - Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi."
     },
@@ -20284,6 +21128,7 @@ const fizika = {
           "text": "Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Fotoeffekt - Yorug'lik ta'sirida moddadan (asosan metallardan) elektronlarning urib chiqarilishi."
     },
@@ -20308,6 +21153,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yorug'likning qizil chegarasi - Fotoeffekt yuz berishi mumkin bo'lgan eng kichik chastota (yoki eng katta to'lqin uzunligi)."
     },
@@ -20332,6 +21178,7 @@ const fizika = {
           "text": "Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yadro bog'lanish energiyasi - Yadroni alohida nuklonlarga ajratish uchun sarflanishi kerak bo'lgan minimal energiya (ΔE = Δm · c²)."
     },
@@ -20356,6 +21203,7 @@ const fizika = {
           "text": "Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Massa defekti - Yadroni tashkil qiluvchi alohida nuklonlar massalari yig'indisining yadro tinchlik massasidan kattaligi (Δm)."
     },
@@ -20380,6 +21228,7 @@ const fizika = {
           "text": "Parabola"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Havoning qarshiligi hisobga olinmaganda trayektoriya paraboladir."
     },
@@ -20404,6 +21253,7 @@ const fizika = {
           "text": "7.9 km/s"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yer atrofida pastki orbitada aylanish tezligi v1 ≈ 7.9 km/s."
     },
@@ -20428,6 +21278,7 @@ const fizika = {
           "text": "9.8 km/s"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yer gravitatsiyasini yengib chiqish tezligi v2 ≈ 11.2 km/s."
     },
@@ -20452,6 +21303,7 @@ const fizika = {
           "text": "16.7 km/s"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Quyosh sistemasini tark etish tezligi v3 ≈ 16.7 km/s."
     },
@@ -20476,6 +21328,7 @@ const fizika = {
           "text": "T = t · 1.8"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Kelvin shkalasi T = t + 273.15 K."
     },
@@ -20500,6 +21353,7 @@ const fizika = {
           "text": "Kondensatsiya"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Erish jarayonida harorat o'zgarmaydi."
     },
@@ -20524,6 +21378,7 @@ const fizika = {
           "text": "Bug'lanish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sovuqda derazada qirov hosil bo'lishi desublimatsiyadir."
     },
@@ -20548,6 +21403,7 @@ const fizika = {
           "text": "Musbat ionlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Metallarda tok o'tkazuvchilar erkin elektronlardir."
     },
@@ -20564,6 +21420,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Jismga ta'sir etuvchi kuch uning massasi va tezlanishi ko'paytmasiga teng."
     },
@@ -20580,6 +21437,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. c ≈ 3·10^8 m/s = 300 000 km/s."
     },
@@ -20596,6 +21454,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Normal atmosfera bosimida suv 100 °C da qaynaydi."
     },
@@ -20612,6 +21471,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Xalqaro birliklar sistemasida tok kuchi Amperda o'lchanadi."
     },
@@ -20628,6 +21488,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Tezlanish birligi metr taqsim soniya kvadratidir."
     },
@@ -20644,6 +21505,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Tekis harakatda tezlik yo'nalishi va qiymati bo'yicha o'zgarmaydi."
     },
@@ -20660,6 +21522,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. g ≈ 9.8 m/s² (amaliy hisoblashlarda ko'pincha 10 olinadi)."
     },
@@ -20676,6 +21539,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Burchak tezlik ω = 2π/T = 2πν ga teng."
     },
@@ -20692,6 +21556,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Nyutonning 1-qonuni inersiya qonunidir."
     },
@@ -20708,6 +21573,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. F1 = -F2 (ta'sir aks ta'sirga teng va qarama-qarshi)."
     },
@@ -20724,6 +21590,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Elastiklik kuchi jism deformatsiyasiga to'g'ri mutanosib."
     },
@@ -20740,6 +21607,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ishqalanish kuchi reaksiya kuchiga mutanosib."
     },
@@ -20756,6 +21624,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Gravitatsion doimiy G = 6.67·10^-11 N·m²/kg²."
     },
@@ -20772,6 +21641,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. F ~ 1/R² qonuniyati bo'yicha masofa oshganda kamayadi."
     },
@@ -20788,6 +21658,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Jism impulsi massa va tezlik ko'paytmasiga teng."
     },
@@ -20804,6 +21675,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kinetik energiya tezlikning kvadratiga to'g'ri proporsional."
     },
@@ -20820,6 +21692,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1 Joul = 1 Nyuton · 1 metr."
     },
@@ -20836,6 +21709,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1 Vatt = 1 Joul / 1 soniya."
     },
@@ -20852,6 +21726,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. FIK = (A_foydali / A_to'liq) · 100%."
     },
@@ -20868,6 +21743,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1 Pa = 1 N / m²."
     },
@@ -20884,6 +21760,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Gidrostatik bosim zichlik, erkin tushish tezlanishi va balandlikka bog'liq."
     },
@@ -20900,6 +21777,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Arximed kuchi siqib chiqarilgan suyuqlik og'irligiga teng."
     },
@@ -20916,6 +21794,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Paskal qonuni: bosim barcha yo'nalishlarga teng tarqaladi."
     },
@@ -20932,6 +21811,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1 atm = 760 mm simob ustuni ≈ 101325 Pa."
     },
@@ -20948,6 +21828,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Bosim zarrachalar konsentratsiyasi va o'rtacha kinetik energiyasiga bog'liq."
     },
@@ -20964,6 +21845,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ideal gaz holat tenglamasi: pV = νRT."
     },
@@ -20980,6 +21862,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. T = const bo'lganda pV = const."
     },
@@ -20996,6 +21879,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. p = const bo'lganda V/T = const."
     },
@@ -21012,6 +21896,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. V = const bo'lganda p/T = const."
     },
@@ -21028,6 +21913,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Tashqi muhit bilan issiqlik almashinmaydigan jarayon adiabatik deyiladi."
     },
@@ -21044,6 +21930,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Tizimga berilgan issiqlik uning ichki energiyasini oshirishga va ish bajarishga sarflanadi."
     },
@@ -21060,6 +21947,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 0 Kelvin = -273.15 °C."
     },
@@ -21076,6 +21964,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. T1 - isitgich, T2 - sovutgich harorati."
     },
@@ -21092,6 +21981,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kulon kuchi zaryadlar ko'paytmasiga to'g'ri va masofa kvadratiga teskari mutanosib."
     },
@@ -21108,6 +21998,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kuchlanganlik birlik musbat zaryadga ta'sir qiluvchi kuchdir."
     },
@@ -21124,6 +22015,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Elektr sig'im Faradlarda o'lchanadi."
     },
@@ -21140,6 +22032,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Tok kuchi kuchlanishga to'g'ri, qarshilikka teskari mutanosib."
     },
@@ -21156,6 +22049,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. ε - EYK, R - tashqi qarshilik, r - ichki qarshilik."
     },
@@ -21172,6 +22066,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Qarshilik uzunlikka to'g'ri, ko'ndalang kesim yuziga teskari proportsional."
     },
@@ -21188,6 +22083,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ketma-ket ulanishda barcha qismlardan bir xil tok o'tadi."
     },
@@ -21204,6 +22100,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Parallel tarmoqlarda kuchlanishlar bir xil bo'ladi."
     },
@@ -21220,6 +22117,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ajraladigan issiqlik tok kvadratiga to'g'ri proportsional."
     },
@@ -21236,6 +22134,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Magnit maydon induksiyasi Teslada o'lchanadi."
     },
@@ -21252,6 +22151,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Magnit oqimi Veberda o'lchanadi (1 Wb = 1 Tl · m²)."
     },
@@ -21268,6 +22168,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Lorens kuchi harakatdagi zaryadga ta'sir qiladi."
     },
@@ -21284,6 +22185,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Amper kuchi tokli o'tkazgichga ta'sir qiladi."
     },
@@ -21300,6 +22202,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Faradey o'zgaruvchan magnit maydoni tok hosil qilishini isbotlagan."
     },
@@ -21316,6 +22219,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Lens qoidasi: induksion tok o'zini vujudga keltirgan sababga qarshilik ko'rsatadi."
     },
@@ -21332,6 +22236,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'zinduksiya kattaligi Genrida o'lchanadi."
     },
@@ -21348,6 +22253,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Mayatnik davri uzunlikka va erkin tushish tezlanishiga bog'liq."
     },
@@ -21364,6 +22270,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Davr massa va bikrlikka bog'liq."
     },
@@ -21380,6 +22287,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Tomson formulasi: T = 2π√(LC)."
     },
@@ -21396,6 +22304,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. To'lqin uzunligi tezlikning tebranish chastotasiga nisbatiga teng."
     },
@@ -21412,6 +22321,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Yorug'likning qaytish burchagi tushish burchagiga teng."
     },
@@ -21428,6 +22338,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Sinuslarning nisbati nisbiy sindirish ko'rsatkichiga teng."
     },
@@ -21444,6 +22355,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Yupqa linza formulasi: 1/F = 1/d + 1/f."
     },
@@ -21460,6 +22372,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1 dptr = 1 / 1 m."
     },
@@ -21476,6 +22389,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Nyuton ochgan dispersiya hodisasi."
     },
@@ -21492,6 +22406,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. To'lqinlarning to'siq ortiga o'tishi diffraksiyadir."
     },
@@ -21508,6 +22423,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Yorug'lik interferensiyasi to'lqin xususiyatini isbotlaydi."
     },
@@ -21524,6 +22440,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. h - Plank doimiysi, ν - chastota."
     },
@@ -21540,6 +22457,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Plank doimiysi h ≈ 6.63·10^-34 J·s."
     },
@@ -21556,6 +22474,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Yutilgan foton energiyasi elektronni chiqarish va unga kinetik energiya berishga sarflanadi."
     },
@@ -21572,6 +22491,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Rezerford alfa-zarrachalar sochilishi tajribasidan so'ng yadro modelini yaratdi."
     },
@@ -21588,6 +22508,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Yadro musbat proton va neytral neytronlardan iborat."
     },
@@ -21604,6 +22525,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Massaviy son A dan tartib raqam Z ayiriladi."
     },
@@ -21620,6 +22542,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. N(t) = N_0 · 2^(-t/T)."
     },
@@ -21636,6 +22559,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Tinchlikdagi massa va energiyaning fundamental bog'liqligi."
     },
@@ -21652,6 +22576,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Tezlik - Vaqt birligi ichida bosib o'tilgan yo'l (v = s / t)."
     },
@@ -21668,6 +22593,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Tezlikga tegishli."
     },
@@ -21684,6 +22610,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Tezlanish - Vaqt birligi ichida tezlikning o'zgarish tezligi (a = Δv / Δt)."
     },
@@ -21700,6 +22627,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Tezlanishga tegishli."
     },
@@ -21716,6 +22644,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kuch - Jismlarning bir-biriga mexanik ta'siri o'lchovi (F = m · a, birligi Nyuton)."
     },
@@ -21732,6 +22661,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Kuchga tegishli."
     },
@@ -21748,6 +22678,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Og'irlik kuchi - Jismga Yer tomonidan ko'rsatiladigan tortishish kuchi (F = m · g)."
     },
@@ -21764,6 +22695,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Og'irlik kuchiga tegishli."
     },
@@ -21780,6 +22712,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Jismning vazni (P) - Jismning Yerga tortilishi oqibatida tayanch yoki osmaga ko'rsatadigan ta'sir kuchi."
     },
@@ -21796,6 +22729,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Jismning vazni (P)ga tegishli."
     },
@@ -21812,6 +22746,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Impuls (Harakat miqdori) - Jism massasi va uning tezligi ko'paytmasi (p = m · v, birligi kg·m/s)."
     },
@@ -21828,6 +22763,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Impuls (Harakat miqdori)ga tegishli."
     },
@@ -21844,6 +22780,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kuch impulsi - Kuch va uning ta'sir qilish vaqti ko'paytmasi (F · Δt = Δp)."
     },
@@ -21860,6 +22797,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Kuch impulsiga tegishli."
     },
@@ -21876,6 +22814,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kinetik energiya - Jismning harakati tufayli ega bo'lgan energiyasi (E_k = mv² / 2)."
     },
@@ -21892,6 +22831,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Kinetik energiyaga tegishli."
     },
@@ -21908,6 +22848,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Potensial energiya - O'zaro ta'sirlashuvchi jismlar yoki ularning qismlari o'zaro joylashuviga bog'liq energiya (E_p = mgh)."
     },
@@ -21924,6 +22865,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Potensial energiyaga tegishli."
     },
@@ -21940,6 +22882,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kuch momenti - Kuch moduli va uning yelkasi ko'paytmasi (M = F · d, birligi N·m)."
     },
@@ -21956,6 +22899,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Kuch momentiga tegishli."
     },
@@ -21972,6 +22916,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Zichlik - Moddaning birlik hajmdagi massasi (ρ = m / V, birligi kg/m³)."
     },
@@ -21988,6 +22933,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Zichlikga tegishli."
     },
@@ -22004,6 +22950,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Gidrostatik bosim - Tinch turgan suyuqlik ustunining og'irligi hisobiga vujudga keladigan bosim (p = ρgh)."
     },
@@ -22020,6 +22967,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Gidrostatik bosimga tegishli."
     },
@@ -22036,6 +22984,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Arximed kuchi - Suyuqlik yoki gazga botirilgan jismga ta'sir etuvchi yuqoriga yo'nalgan itaruvchi kuch (F_A = ρ_s g V_ch)."
     },
@@ -22052,6 +23001,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Arximed kuchiga tegishli."
     },
@@ -22068,6 +23018,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Sirt taranglik koeffitsienti - Suyuqlik sirtini chegaralovchi kontur uzunligi birligiga to'g'ri keluvchi kuch (σ = F / l, N/m)."
     },
@@ -22084,6 +23035,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Sirt taranglik koeffitsientiga tegishli."
     },
@@ -22100,6 +23052,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Modda miqdori - Jismdagi strukturaviy zarrachalar sonining Avogadro doimiysiga nisbati (ν = N / N_A, birligi mol)."
     },
@@ -22116,6 +23069,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Modda miqdoriga tegishli."
     },
@@ -22132,6 +23086,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Avogadro doimiysi - 1 mol moddadagi atom yoki molekulalar soni (N_A ≈ 6.02 · 10²³ mol⁻¹)."
     },
@@ -22148,6 +23103,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Avogadro doimiysiga tegishli."
     },
@@ -22164,6 +23120,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bolsman doimiysi - Ideal gaz harorati va molekulalarining o'rtacha kinetik energiyasini bog'lovchi kattalik (k ≈ 1.38 · 10⁻²³ J/K)."
     },
@@ -22180,6 +23137,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Bolsman doimiysiga tegishli."
     },
@@ -22196,6 +23154,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Universal gaz doimiysi - 1 mol ideal gazning 1 Kelvinga qizdirilganda bajargan ishi (R ≈ 8.31 J/(mol·K))."
     },
@@ -22212,6 +23171,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Universal gaz doimiysiga tegishli."
     },
@@ -22228,6 +23188,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Solishtirma issiqlik sig'imi - 1 kg moddani 1 gradusga isitish uchun zarur bo'lgan issiqlik miqdori (c = Q / (m·ΔT))."
     },
@@ -22244,6 +23205,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Solishtirma issiqlik sig'imiga tegishli."
     },
@@ -22260,6 +23222,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Solishtirma erish issiqligi - Erish haroratidagi 1 kg qattiq jismni suyuqlikka aylantirish uchun kerak bo'lgan issiqlik (λ = Q / m)."
     },
@@ -22276,6 +23239,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Solishtirma erish issiqligiga tegishli."
     },
@@ -22292,6 +23256,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Solishtirma bug'lanish issiqligi - Qaynash haroratidagi 1 kg suyuqlikni bug'ga aylantirish uchun zarur bo'lgan issiqlik (r = Q / m)."
     },
@@ -22308,6 +23273,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Solishtirma bug'lanish issiqligiga tegishli."
     },
@@ -22324,6 +23290,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ichki energiya - Jismni tashkil etuvchi barcha mikrozarrachalar harakat kinetik va o'zaro ta'sir potensial energiyalari yig'indisi."
     },
@@ -22340,6 +23307,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Ichki energiyaga tegishli."
     },
@@ -22356,6 +23324,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Elektr zaryadi - Zarrachalar yoki jismlarning elektromagnit o'zaro ta'sirlashuv xususiyatini ifodalovchi kattalik (birligi Kulon)."
     },
@@ -22372,6 +23341,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Elektr zaryadiga tegishli."
     },
@@ -22388,6 +23358,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Elektr sig'imi - O'tkazgich zaryadining uning potensialiga nisbatiga teng bo'lgan kattalik (C = q / U, birligi Farad)."
     },
@@ -22404,6 +23375,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Elektr sig'imiga tegishli."
     },
@@ -22420,6 +23392,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Elektr kuchlanish (potensiallar ayirmasi) - Birlik musbat zaryadni maydonning bir nuqtasidan ikkinchisiga ko'chirishda bajarilgan ish (U = A / q, Volt)."
     },
@@ -22436,6 +23409,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Elektr kuchlanish (potensiallar ayirmasi)ga tegishli."
     },
@@ -22452,6 +23426,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Elektr yurituvchi kuch (EYK) - Begona kuchlarning birlik zaryadni butun yopiq kontur bo'ylab ko'chirishdagi ishi (ε = A_b / q, Volt)."
     },
@@ -22468,6 +23443,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Elektr yurituvchi kuch (EYK)ga tegishli."
     },
@@ -22484,6 +23460,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Solishtirma qarshilik - Uzunligi 1 m, ko'ndalang kesim yuzi 1 m² bo'lgan o'tkazgich qarshiligi (ρ, birligi Om·m)."
     },
@@ -22500,6 +23477,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Solishtirma qarshilikga tegishli."
     },
@@ -22516,6 +23494,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Elektr tokining quvvati - Vaqt birligi ichida elektr toki bajargan ish (P = U · I = I²R, birligi Vatt)."
     },
@@ -22532,6 +23511,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Elektr tokining quvvatiga tegishli."
     },
@@ -22548,6 +23528,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Lorens kuchi - Magnit maydonida harakatlanayotgan zaryadli zarrachaga maydon tomonidan ta'sir qiluvchi kuch."
     },
@@ -22564,6 +23545,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Lorens kuchiga tegishli."
     },
@@ -22580,6 +23562,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Amper kuchi - Magnit maydoniga joylashtirilgan tokli o'tkazgichga ta'sir qiluvchi kuch."
     },
@@ -22596,6 +23579,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Amper kuchiga tegishli."
     },
@@ -22612,6 +23596,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. O'zinduksiya hodisasi - Konturdagi tok kuchining o'zgarishi natijasida o'sha konturning o'zida induksion EYK hosil bo'lishi."
     },
@@ -22628,6 +23613,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif O'zinduksiya hodisasiga tegishli."
     },
@@ -22644,6 +23630,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Transformator - O'zgaruvchan tok kuchlanishini chastotasini o'zgartirmasdan oshiruvchi yoki kamaytiruvchi qurilma."
     },
@@ -22660,6 +23647,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Transformatorga tegishli."
     },
@@ -22676,6 +23664,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Tebranish davri - Bitta to'liq tebranish uchun ketgan vaqt (T = t / N, birligi soniya)."
     },
@@ -22692,6 +23681,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Tebranish davriga tegishli."
     },
@@ -22708,6 +23698,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Tebranish chastotasi - Vaqt birligi (1 sekund) ichidagi to'liq tebranishlar soni (ν = 1 / T, birligi Gers)."
     },
@@ -22724,6 +23715,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Tebranish chastotasiga tegishli."
     },
@@ -22740,6 +23732,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. To'lqin interferensiyasi - Kogerent to'lqinlar qo'shilganda fazoda turg'un kuchayish va susayish manzaralarining hosil bo'lishi."
     },
@@ -22756,6 +23749,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif To'lqin interferensiyasiga tegishli."
     },
@@ -22772,6 +23766,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. To'lqin diffraksiyasi - To'lqinlarning o'z yo'lidagi to'siqlarni aylanib o'tish hodisasi."
     },
@@ -22788,6 +23783,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif To'lqin diffraksiyasiga tegishli."
     },
@@ -22804,6 +23800,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Yorug'lik dispersiyasi - Moddaning sindirish ko'rsatkichining yorug'lik chastotasiga (to'lqin uzunligiga) bog'liqligi."
     },
@@ -22820,6 +23817,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif Yorug'lik dispersiyasiga tegishli."
     },
@@ -22836,6 +23834,7 @@ const fizika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. To'liq ichki qaytish - Yorug'lik optik zichroq muhitdan optik kamroq muhitga o'tganda ma'lum chegaraviy burchakdan boshlab to'liq orqaga qaytishi."
     },
@@ -22852,6 +23851,7 @@ const fizika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif To'liq ichki qaytishga tegishli."
     }

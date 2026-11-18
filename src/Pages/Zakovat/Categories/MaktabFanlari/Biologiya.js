@@ -28,6 +28,7 @@ const biologiya = {
           "text": "Mitoxondriya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mitoxondriya ATF sintezlaydi."
     },
@@ -52,6 +53,7 @@ const biologiya = {
           "text": "Leykotsitlar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eritrotsitlar gemoglobin orqali kislorod tashiydi."
     },
@@ -76,6 +78,7 @@ const biologiya = {
           "text": "Golji apparati"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Xloroplastlarda fotosintez boradi."
     },
@@ -100,6 +103,7 @@ const biologiya = {
           "text": "Miya"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Teri maydoni va og'irligi bo'yicha eng yirik organdir."
     },
@@ -124,6 +128,7 @@ const biologiya = {
           "text": "Golji majmuasi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Mitoxondriyada ATF sintezlanadi."
     },
@@ -148,6 +153,7 @@ const biologiya = {
           "text": "Hujayra markazi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ribosoma oqsil biosintezini ta'minlaydi."
     },
@@ -172,6 +178,7 @@ const biologiya = {
           "text": "Lizosoma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Lizosoma gidrolitik fermentlarga boy."
     },
@@ -196,6 +203,7 @@ const biologiya = {
           "text": "Xitin"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'simlik qobig'i sellyulozadan iborat."
     },
@@ -220,6 +228,7 @@ const biologiya = {
           "text": "Xitin"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Zamburug'larda xitin bo'ladi."
     },
@@ -244,6 +253,7 @@ const biologiya = {
           "text": "Kollagen"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bakteriyalar qobig'i mureindan iborat."
     },
@@ -268,6 +278,7 @@ const biologiya = {
           "text": "Sitozin (S)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "DNK da A=T qo'sh vodorod bog'i bilan bog'lanadi."
     },
@@ -292,6 +303,7 @@ const biologiya = {
           "text": "Guanin (G)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "RNK tarkibida timin o'rniga uratsil bo'ladi."
     },
@@ -316,6 +328,7 @@ const biologiya = {
           "text": "2 ta"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G va S orasida 3 ta vodorod bog'i mavjud."
     },
@@ -340,6 +353,7 @@ const biologiya = {
           "text": "Tashqi membranada"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Yorug'lik bosqichi tilakoidlarda kechadi."
     },
@@ -364,6 +378,7 @@ const biologiya = {
           "text": "Stroma sohasida"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Qorong'ilik bosqichi stromada kechadi."
     },
@@ -388,6 +403,7 @@ const biologiya = {
           "text": "Kristalar"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kristalar ichki sathni kengaytiradi."
     },
@@ -412,6 +428,7 @@ const biologiya = {
           "text": "Metafaza"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Metafazada xromosomalar ekvatorga keladi."
     },
@@ -436,6 +453,7 @@ const biologiya = {
           "text": "Telofaza"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Anafazada qutblarga tortiladi."
     },
@@ -460,6 +478,7 @@ const biologiya = {
           "text": "Kon'yugatsiya"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Krossingover genlar almashinuvidir."
     },
@@ -484,6 +503,7 @@ const biologiya = {
           "text": "Limfotsitlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Eritrotsitlar gazlarni tashiydi."
     },
@@ -508,6 +528,7 @@ const biologiya = {
           "text": "Oshqozon osti bezi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Jigar eng yirik bezdir."
     },
@@ -532,6 +553,7 @@ const biologiya = {
           "text": "Teri"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Teri umumiy maydoni va vazni bilan eng yirik organdir."
     },
@@ -556,6 +578,7 @@ const biologiya = {
           "text": "Eritrotsitlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Trombotsitlar qon ivishini ta'minlaydi."
     },
@@ -580,6 +603,7 @@ const biologiya = {
           "text": "Chap bo'lmachadan"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Aorta chap qorinchadan chiqadi."
     },
@@ -604,6 +628,7 @@ const biologiya = {
           "text": "O'ng bo'lmachadan"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "O'pka arteriyasi o'ng qorinchadan boshlanadi."
     },
@@ -628,6 +653,7 @@ const biologiya = {
           "text": "Tabaqali klapanlar (ikki va uch tabaqali)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bo'lmacha va qorincha orasida tabaqali klapanlar joylashgan."
     },
@@ -652,6 +678,7 @@ const biologiya = {
           "text": "Uyqu arteriyasi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kavak venalarda bosim nol yoki manfiy bo'ladi."
     },
@@ -676,6 +703,7 @@ const biologiya = {
           "text": "Miyacha"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Miyacha muvozanat markazi hisoblanadi."
     },
@@ -700,6 +728,7 @@ const biologiya = {
           "text": "Miyachada"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Uzunchoq miya hayotiy reflektor markazdir."
     },
@@ -724,6 +753,7 @@ const biologiya = {
           "text": "To'r parda (retina)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'r pardada fotoretseptorlar bo'ladi."
     },
@@ -748,6 +778,7 @@ const biologiya = {
           "text": "Tayoqchalar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kolbachalar yorug'likda ranglarni ajratadi."
     },
@@ -772,6 +803,7 @@ const biologiya = {
           "text": "C vitamini"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "A vitamini yetishmasa shabko'rlik yuzaga keladi."
     },
@@ -796,6 +828,7 @@ const biologiya = {
           "text": "Insulin"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Insulin oshqozon osti bezining beta-hujayralarida ishlab chiqariladi."
     },
@@ -820,6 +853,7 @@ const biologiya = {
           "text": "Vazopressin"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "STG suyak va mushaklar o'sishini boshqaradi."
     },
@@ -844,6 +878,7 @@ const biologiya = {
           "text": "Nefron"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Nefron siydik hosil qilish birligidir."
     },
@@ -868,6 +903,7 @@ const biologiya = {
           "text": "Gregor Mendel"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Mendel 1865-yilda irsiyat qonunlarini kashf etdi."
     },
@@ -892,6 +928,7 @@ const biologiya = {
           "text": "Mustaqil taqsimlanish qonuni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Birinchi avlodda barcha duragaylar bir xil fenotipga ega bo'ladi."
     },
@@ -916,6 +953,7 @@ const biologiya = {
           "text": "1 : 1"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fenotip bo'yicha 3 ta dominant va 1 ta retsessiv."
     },
@@ -940,6 +978,7 @@ const biologiya = {
           "text": "Uotson va Krik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Morgan birikkan genlar qonuniyatini yaratdi."
     },
@@ -964,6 +1003,7 @@ const biologiya = {
           "text": "44 ta"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "22 juft autosoma va 1 juft jinsiy xromosoma."
     },
@@ -988,6 +1028,7 @@ const biologiya = {
           "text": "18-xromosoma"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "21-xromosoma bo'yicha trisomiya (47 xromosoma)."
     },
@@ -1012,6 +1053,7 @@ const biologiya = {
           "text": "G. Mendel"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vavilov 7 ta asosiy gen-markazni asoslab bergan."
     },
@@ -1036,6 +1078,7 @@ const biologiya = {
           "text": "Kambiy"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ksilema o'suvchi oqimni ta'minlaydi."
     },
@@ -1060,6 +1103,7 @@ const biologiya = {
           "text": "Sklerenxima"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Floema tushuvchi oqimni o'tkazadi."
     },
@@ -1084,6 +1128,7 @@ const biologiya = {
           "text": "S.G. Navashin (1898-yilda)"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Navashin liliya va lolada kashf etgan."
     },
@@ -1108,6 +1153,7 @@ const biologiya = {
           "text": "Urug' po'sti"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Markaziy hujayra (2n) va spermiy (n) qo'shilishidan 3n endosperm hosil bo'ladi."
     },
@@ -1132,6 +1178,7 @@ const biologiya = {
           "text": "Piyoz, sarimsoq"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sabzi va lavlagi ildizmevadir (kartoshka tugunak)."
     },
@@ -1156,6 +1203,7 @@ const biologiya = {
           "text": "Tufelka (oyoqchali)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Evglena aralash oziqlanish xususiyatiga ega."
     },
@@ -1180,6 +1228,7 @@ const biologiya = {
           "text": "Tse-tse pashshasi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Odam oraliq xo'jayin, jinsiy davri chivinda bo'ladi."
     },
@@ -1204,6 +1253,7 @@ const biologiya = {
           "text": "Metanefridiylar"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yassi chuvalchanglarda protonefridiylar bo'ladi."
     },
@@ -1228,6 +1278,7 @@ const biologiya = {
           "text": "Issiqlikni saqlash uchun"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Uchishga moslashuv."
     },
@@ -1252,6 +1303,7 @@ const biologiya = {
           "text": "2 kamerali"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qushlarda o'ng, sutemizuvchilarda chap aorta ravog'i."
     },
@@ -1276,6 +1328,7 @@ const biologiya = {
           "text": "Karl Linney"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lamark 'Zoologiya falsafasi' asarida evolyutsiya nazariyasini bergan."
     },
@@ -1300,6 +1353,7 @@ const biologiya = {
           "text": "Faqat geografik to'siqlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Tabiiy tanlanish eng moslashganlarning yashab qolishidir."
     },
@@ -1324,6 +1378,7 @@ const biologiya = {
           "text": "Alohida tur"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Evolutsiya populyatsiya darajasida boshlanadi."
     },
@@ -1348,6 +1403,7 @@ const biologiya = {
           "text": "Avtotroflar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Redutsentlar moddalar aylanishini yakunlaydi."
     },
@@ -1372,6 +1428,7 @@ const biologiya = {
           "text": "i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yadro - Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish."
     },
@@ -1396,6 +1453,7 @@ const biologiya = {
           "text": "Vakuola"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yadroga tegishli."
     },
@@ -1420,6 +1478,7 @@ const biologiya = {
           "text": "i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Mitoxondriya - Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish."
     },
@@ -1444,6 +1503,7 @@ const biologiya = {
           "text": "Xloroplast"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Mitoxondriyaga tegishli."
     },
@@ -1468,6 +1528,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Xloroplast - Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash."
     },
@@ -1492,6 +1553,7 @@ const biologiya = {
           "text": "Xromoplast"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Xloroplastga tegishli."
     },
@@ -1516,6 +1578,7 @@ const biologiya = {
           "text": "i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ribosoma - i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash."
     },
@@ -1540,6 +1603,7 @@ const biologiya = {
           "text": "Ribosoma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ribosomaga tegishli."
     },
@@ -1564,6 +1628,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Golji majmuasi - Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish."
     },
@@ -1588,6 +1653,7 @@ const biologiya = {
           "text": "Yadrocha"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Golji majmuasiga tegishli."
     },
@@ -1612,6 +1678,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lizosoma - Gidrolitik fermentlar yordamida polimerlarni monomerlargacha parchalash."
     },
@@ -1636,6 +1703,7 @@ const biologiya = {
           "text": "Ribosoma"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lizosomaga tegishli."
     },
@@ -1660,6 +1728,7 @@ const biologiya = {
           "text": "Lipidlar va uglevodlar sintezi hamda moddalar transporti"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Endoplazmatik to'r (silliq) - Lipidlar va uglevodlar sintezi hamda moddalar transporti."
     },
@@ -1684,6 +1753,7 @@ const biologiya = {
           "text": "Donador EPT"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Endoplazmatik to'r (silliq)ga tegishli."
     },
@@ -1708,6 +1778,7 @@ const biologiya = {
           "text": "Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Endoplazmatik to'r (donador) - Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti."
     },
@@ -1732,6 +1803,7 @@ const biologiya = {
           "text": "Silliq EPT"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Endoplazmatik to'r (donador)ga tegishli."
     },
@@ -1756,6 +1828,7 @@ const biologiya = {
           "text": "Mitoz va meyoz bo'linish dukini hosil qilish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Hujayra markazi (Sentrosoma) - Mitoz va meyoz bo'linish dukini hosil qilish."
     },
@@ -1780,6 +1853,7 @@ const biologiya = {
           "text": "Lizosoma"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hujayra markazi (Sentrosoma)ga tegishli."
     },
@@ -1804,6 +1878,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vakuola (o'simlikda) - Hujayra shirasini saqlash, turgor bosimini ta'minlash."
     },
@@ -1828,6 +1903,7 @@ const biologiya = {
           "text": "Xloroplast"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Vakuola (o'simlikda)ga tegishli."
     },
@@ -1852,6 +1928,7 @@ const biologiya = {
           "text": "Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peroksisoma - Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash."
     },
@@ -1876,6 +1953,7 @@ const biologiya = {
           "text": "Peroksisoma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Peroksisomaga tegishli."
     },
@@ -1900,6 +1978,7 @@ const biologiya = {
           "text": "Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "A vitamini (retinol) - Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)."
     },
@@ -1924,6 +2003,7 @@ const biologiya = {
           "text": "D vitamini"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif A vitamini (retinol)ga tegishli."
     },
@@ -1948,6 +2028,7 @@ const biologiya = {
           "text": "Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "B1 vitamini (tiamin) - Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)."
     },
@@ -1972,6 +2053,7 @@ const biologiya = {
           "text": "PP vitamini"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif B1 vitamini (tiamin)ga tegishli."
     },
@@ -1996,6 +2078,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "C vitamini (askorbin kislota) - Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi."
     },
@@ -2020,6 +2103,7 @@ const biologiya = {
           "text": "E vitamini"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif C vitamini (askorbin kislota)ga tegishli."
     },
@@ -2044,6 +2128,7 @@ const biologiya = {
           "text": "Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "D vitamini (kalsiferol) - Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)."
     },
@@ -2068,6 +2153,7 @@ const biologiya = {
           "text": "A vitamini"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif D vitamini (kalsiferol)ga tegishli."
     },
@@ -2092,6 +2178,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "B12 vitamini (kobalamin) - Xavfli kamqonlik (anemiya)."
     },
@@ -2116,6 +2203,7 @@ const biologiya = {
           "text": "B12 vitamini (kobalamin)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif B12 vitamini (kobalamin)ga tegishli."
     },
@@ -2140,6 +2228,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "PP vitamini (nikotin kislota) - Pellagra kasalligi (dermatit, diareya, demensiya)."
     },
@@ -2164,6 +2253,7 @@ const biologiya = {
           "text": "PP vitamini (nikotin kislota)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif PP vitamini (nikotin kislota)ga tegishli."
     },
@@ -2188,6 +2278,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "K vitamini (filloxinon) - Qon ivishining buzilishi va ko'p qon yo'qotish."
     },
@@ -2212,6 +2303,7 @@ const biologiya = {
           "text": "E vitamini"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif K vitamini (filloxinon)ga tegishli."
     },
@@ -2236,6 +2328,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gipofiz bezi - Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar."
     },
@@ -2260,6 +2353,7 @@ const biologiya = {
           "text": "Qalqonsimon bez"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gipofiz beziga tegishli."
     },
@@ -2284,6 +2378,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qalqonsimon bez - Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)."
     },
@@ -2308,6 +2403,7 @@ const biologiya = {
           "text": "Gipofiz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Qalqonsimon bezga tegishli."
     },
@@ -2332,6 +2428,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Buyrak usti bezi po'stloq qismi - Kortizol, aldosteron va jinsiy gormonlar."
     },
@@ -2356,6 +2453,7 @@ const biologiya = {
           "text": "Qalqonoldi bezi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Buyrak usti bezi po'stloq qismiga tegishli."
     },
@@ -2380,6 +2478,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
     },
@@ -2404,6 +2503,7 @@ const biologiya = {
           "text": "Buyrak usti bezi mag'iz qismi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Buyrak usti bezi mag'iz qismiga tegishli."
     },
@@ -2428,6 +2528,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Oshqozon osti bezi (Langergans orolchalari) - Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)."
     },
@@ -2452,6 +2553,7 @@ const biologiya = {
           "text": "Oshqozon osti bezi (Langergans orolchalari)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Oshqozon osti bezi (Langergans orolchalari)ga tegishli."
     },
@@ -2476,6 +2578,7 @@ const biologiya = {
           "text": "Melatonin (kun-tun biologik ritmlarini boshqarish)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Epifiz (g'uddasimon bez) - Melatonin (kun-tun biologik ritmlarini boshqarish)."
     },
@@ -2500,6 +2603,7 @@ const biologiya = {
           "text": "Timus"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Epifiz (g'uddasimon bez)ga tegishli."
     },
@@ -2524,6 +2628,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Timus (ayrisimon bez) - T-limfotsitlarni yetiltirish va immunitetni ta'minlash."
     },
@@ -2548,6 +2653,7 @@ const biologiya = {
           "text": "Epifiz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Timus (ayrisimon bez)ga tegishli."
     },
@@ -2572,6 +2678,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "I (0) qon guruhi - Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor."
     },
@@ -2596,6 +2703,7 @@ const biologiya = {
           "text": "II (A) guruhi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif I (0) qon guruhiga tegishli."
     },
@@ -2620,6 +2728,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "II (A) qon guruhi - Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor."
     },
@@ -2644,6 +2753,7 @@ const biologiya = {
           "text": "IV (AB) guruhi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif II (A) qon guruhiga tegishli."
     },
@@ -2668,6 +2778,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "III (B) qon guruhi - Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor."
     },
@@ -2692,6 +2803,7 @@ const biologiya = {
           "text": "II (A) guruhi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif III (B) qon guruhiga tegishli."
     },
@@ -2716,6 +2828,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "IV (AB) qon guruhi - Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q."
     },
@@ -2740,6 +2853,7 @@ const biologiya = {
           "text": "I (0) guruhi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif IV (AB) qon guruhiga tegishli."
     },
@@ -2764,6 +2878,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Rezus-omil (Rh) - Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda)."
     },
@@ -2788,6 +2903,7 @@ const biologiya = {
           "text": "Agglyutinin"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Rezus-omil (Rh)ga tegishli."
     },
@@ -2812,6 +2928,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Nafas olish sistemasi - Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari."
     },
@@ -2836,6 +2953,7 @@ const biologiya = {
           "text": "Nafas olish sistemasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Nafas olish sistemasiga tegishli."
     },
@@ -2860,6 +2978,7 @@ const biologiya = {
           "text": "Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ayirish sistemasi - Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali."
     },
@@ -2884,6 +3003,7 @@ const biologiya = {
           "text": "Hazm qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ayirish sistemasiga tegishli."
     },
@@ -2908,6 +3028,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Hazm fermenti Pepsin - Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)."
     },
@@ -2932,6 +3053,7 @@ const biologiya = {
           "text": "Lipaza"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Pepsinga tegishli."
     },
@@ -2956,6 +3078,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Hazm fermenti Amilaza (ptialin) - Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi."
     },
@@ -2980,6 +3103,7 @@ const biologiya = {
           "text": "Hazm fermenti Amilaza (ptialin)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Amilaza (ptialin)ga tegishli."
     },
@@ -3004,6 +3128,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hazm fermenti Lipaza - Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi."
     },
@@ -3028,6 +3153,7 @@ const biologiya = {
           "text": "Amilaza"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Lipazaga tegishli."
     },
@@ -3052,6 +3178,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "O't suyuqligi (safro) - Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi."
     },
@@ -3076,6 +3203,7 @@ const biologiya = {
           "text": "Me'da osti bezi shirasi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif O't suyuqligi (safro)ga tegishli."
     },
@@ -3100,6 +3228,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Krestguldoshlar (Karamdoshlar) - Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha."
     },
@@ -3124,6 +3253,7 @@ const biologiya = {
           "text": "Bug'doydoshlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Krestguldoshlar (Karamdoshlar)ga tegishli."
     },
@@ -3148,6 +3278,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Atirgo'ldoshlar (Ra'noguldoshlar) - Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1."
     },
@@ -3172,6 +3303,7 @@ const biologiya = {
           "text": "Atirgo'ldoshlar (Ra'noguldoshlar)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Atirgo'ldoshlar (Ra'noguldoshlar)ga tegishli."
     },
@@ -3196,6 +3328,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Burchoqdoshlar (Dukkakdoshlar) - Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak."
     },
@@ -3220,6 +3353,7 @@ const biologiya = {
           "text": "Krestguldoshlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Burchoqdoshlar (Dukkakdoshlar)ga tegishli."
     },
@@ -3244,6 +3378,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ituzumdoshlar - Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha."
     },
@@ -3268,6 +3403,7 @@ const biologiya = {
           "text": "Karamdoshlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ituzumdoshlarga tegishli."
     },
@@ -3292,6 +3428,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Murakkabguldoshlar (Qoqidoshlar) - Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista."
     },
@@ -3316,6 +3453,7 @@ const biologiya = {
           "text": "Murakkabguldoshlar (Qoqidoshlar)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Murakkabguldoshlar (Qoqidoshlar)ga tegishli."
     },
@@ -3340,6 +3478,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bug'doydoshlar (Boshoqdoshlar) - Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don."
     },
@@ -3364,6 +3503,7 @@ const biologiya = {
           "text": "Bug'doydoshlar (Boshoqdoshlar)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
     },
@@ -3388,6 +3528,7 @@ const biologiya = {
           "text": "Oddiy gulqo'rg'onli (O3+3 Ch3+3 U(3)), mevasi ko'sakcha, piyozboshli"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Loladoshlar - Oddiy gulqo'rg'onli (O3+3 Ch3+3 U(3)), mevasi ko'sakcha, piyozboshli."
     },
@@ -3412,6 +3553,7 @@ const biologiya = {
           "text": "Murakkabguldoshlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Loladoshlarga tegishli."
     },
@@ -3436,6 +3578,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gidra (Bo'shliqichlilar) - Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar."
     },
@@ -3460,6 +3603,7 @@ const biologiya = {
           "text": "Gidra (Bo'shliqichlilar)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gidra (Bo'shliqichlilar)ga tegishli."
     },
@@ -3484,6 +3628,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Oq planariya (Yassi chuvalchanglar) - Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)."
     },
@@ -3508,6 +3653,7 @@ const biologiya = {
           "text": "Meduza"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Oq planariya (Yassi chuvalchanglar)ga tegishli."
     },
@@ -3532,6 +3678,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Odam askaridasi (To'garak chuvalchanglar) - Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli."
     },
@@ -3556,6 +3703,7 @@ const biologiya = {
           "text": "Gidra"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Odam askaridasi (To'garak chuvalchanglar)ga tegishli."
     },
@@ -3580,6 +3728,7 @@ const biologiya = {
           "text": "Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yomg'ir chuvalchangi (Halqali chuvalchanglar) - Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi."
     },
@@ -3604,6 +3753,7 @@ const biologiya = {
           "text": "Gidra"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yomg'ir chuvalchangi (Halqali chuvalchanglar)ga tegishli."
     },
@@ -3628,6 +3778,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Daryo qisqichbaqasi (Qisqichbaqasimonlar) - Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi."
     },
@@ -3652,6 +3803,7 @@ const biologiya = {
           "text": "Chigirtka"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Daryo qisqichbaqasi (Qisqichbaqasimonlar)ga tegishli."
     },
@@ -3676,6 +3828,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Butli o'rgimchak (O'rgimchaksimonlar) - 4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar."
     },
@@ -3700,6 +3853,7 @@ const biologiya = {
           "text": "Qo'ng'iz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Butli o'rgimchak (O'rgimchaksimonlar)ga tegishli."
     },
@@ -3724,6 +3878,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "May qo'ng'izi (Hasharotlar) - Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi."
     },
@@ -3748,6 +3903,7 @@ const biologiya = {
           "text": "Qisqichbaqa"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif May qo'ng'izi (Hasharotlar)ga tegishli."
     },
@@ -3772,6 +3928,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lansetnik (Boshskeletlilar) - Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)."
     },
@@ -3796,6 +3953,7 @@ const biologiya = {
           "text": "Lansetnik (Boshskeletlilar)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lansetnik (Boshskeletlilar)ga tegishli."
     },
@@ -3820,6 +3978,7 @@ const biologiya = {
           "text": "3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Suvda va quruqlikda yashovchilar (Amfibiyalar) - 3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam."
     },
@@ -3844,6 +4003,7 @@ const biologiya = {
           "text": "Qushlar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Suvda va quruqlikda yashovchilar (Amfibiyalar)ga tegishli."
     },
@@ -3868,6 +4028,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sudralib yuruvchilar (Reptiliyalar) - 3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali."
     },
@@ -3892,6 +4053,7 @@ const biologiya = {
           "text": "Sudralib yuruvchilar (Reptiliyalar)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sudralib yuruvchilar (Reptiliyalar)ga tegishli."
     },
@@ -3916,6 +4078,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qushlar - 4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)."
     },
@@ -3940,6 +4103,7 @@ const biologiya = {
           "text": "Amfibiyalar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Qushlarga tegishli."
     },
@@ -3964,6 +4128,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
     },
@@ -3988,6 +4153,7 @@ const biologiya = {
           "text": "Reptiliyalar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sutemizuvchilarga tegishli."
     },
@@ -4012,6 +4178,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gomozigota genotip - Bir xil allel genlarga ega organizm (masalan, AA yoki aa)."
     },
@@ -4036,6 +4203,7 @@ const biologiya = {
           "text": "Gomozigota genotip"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gomozigota genotipga tegishli."
     },
@@ -4060,6 +4228,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Geterozigota genotip - Har xil allel genlarga ega organizm (masalan, Aa)."
     },
@@ -4084,6 +4253,7 @@ const biologiya = {
           "text": "Monoploid"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Geterozigota genotipga tegishli."
     },
@@ -4108,6 +4278,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fenotip - Organizmning barcha tashqi va ichki belgilari hamda xususiyatlari yig'indisi."
     },
@@ -4132,6 +4303,7 @@ const biologiya = {
           "text": "Genotip"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Fenotipga tegishli."
     },
@@ -4156,6 +4328,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Genotip - Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi."
     },
@@ -4180,6 +4353,7 @@ const biologiya = {
           "text": "Kariotip"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Genotipga tegishli."
     },
@@ -4204,6 +4378,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kariotip - Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli."
     },
@@ -4228,6 +4403,7 @@ const biologiya = {
           "text": "Fenotip"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kariotipga tegishli."
     },
@@ -4252,6 +4428,7 @@ const biologiya = {
           "text": "Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'liqsiz dominantlik (oraliq irsiylanish) - Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)."
     },
@@ -4276,6 +4453,7 @@ const biologiya = {
           "text": "Epistaz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'liqsiz dominantlik (oraliq irsiylanish)ga tegishli."
     },
@@ -4300,6 +4478,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kodominantlik - Ikkala allel genning ham fenotipda to'liq namoyon bo'lishi (masalan, IV (AB) qon guruhi)."
     },
@@ -4324,6 +4503,7 @@ const biologiya = {
           "text": "Kodominantlik"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kodominantlikga tegishli."
     },
@@ -4348,6 +4528,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Komplementarlik - Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi."
     },
@@ -4372,6 +4553,7 @@ const biologiya = {
           "text": "Komplementarlik"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Komplementarlikga tegishli."
     },
@@ -4396,6 +4578,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Epistaz - Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)."
     },
@@ -4420,6 +4603,7 @@ const biologiya = {
           "text": "Epistaz"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Epistazga tegishli."
     },
@@ -4444,6 +4628,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Polimeriya - Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ)."
     },
@@ -4468,6 +4653,7 @@ const biologiya = {
           "text": "Pleiotropiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Polimeriyaga tegishli."
     },
@@ -4492,6 +4678,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Pleiotropiya - Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi."
     },
@@ -4516,6 +4703,7 @@ const biologiya = {
           "text": "Pleiotropiya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Pleiotropiyaga tegishli."
     },
@@ -4540,6 +4728,7 @@ const biologiya = {
           "text": "Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Gomologik organlar - Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi)."
     },
@@ -4564,6 +4753,7 @@ const biologiya = {
           "text": "Gomologik organlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gomologik organlarga tegishli."
     },
@@ -4588,6 +4778,7 @@ const biologiya = {
           "text": "Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Analogik organlar - Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)."
     },
@@ -4612,6 +4803,7 @@ const biologiya = {
           "text": "Rudimentlar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Analogik organlarga tegishli."
     },
@@ -4636,6 +4828,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Rudimentlar - Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)."
     },
@@ -4660,6 +4853,7 @@ const biologiya = {
           "text": "Rudimentlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Rudimentlarga tegishli."
     },
@@ -4684,6 +4878,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Atavizm - Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)."
     },
@@ -4708,6 +4903,7 @@ const biologiya = {
           "text": "Atavizm"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Atavizmga tegishli."
     },
@@ -4732,6 +4928,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aromorfoz - Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish."
     },
@@ -4756,6 +4953,7 @@ const biologiya = {
           "text": "Degeneratsiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Aromorfozga tegishli."
     },
@@ -4780,6 +4978,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Idioadaptatsiya - Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)."
     },
@@ -4804,6 +5003,7 @@ const biologiya = {
           "text": "Divergensiya"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Idioadaptatsiyaga tegishli."
     },
@@ -4828,6 +5028,7 @@ const biologiya = {
           "text": "O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
     },
@@ -4852,6 +5053,7 @@ const biologiya = {
           "text": "Idioadaptatsiya"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Umumiy degeneratsiya (katamorfoz)ga tegishli."
     },
@@ -4876,6 +5078,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Divergensiya - Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi."
     },
@@ -4900,6 +5103,7 @@ const biologiya = {
           "text": "Divergensiya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Divergensiyaga tegishli."
     },
@@ -4924,6 +5128,7 @@ const biologiya = {
           "text": "Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Konvergensiya - Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)."
     },
@@ -4948,6 +5153,7 @@ const biologiya = {
           "text": "Divergensiya"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Konvergensiyaga tegishli."
     },
@@ -4972,6 +5178,7 @@ const biologiya = {
           "text": "Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Biogenetik qonun (Gekkel-Myuller) - Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi."
     },
@@ -4996,6 +5203,7 @@ const biologiya = {
           "text": "Mendel qonuni"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Biogenetik qonun (Gekkel-Myuller)ga tegishli."
     },
@@ -5020,6 +5228,7 @@ const biologiya = {
           "text": "Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Hardy-Vaynberg qonuni - Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi."
     },
@@ -5044,6 +5253,7 @@ const biologiya = {
           "text": "Vavilov qonuni"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hardy-Vaynberg qonuniga tegishli."
     },
@@ -5068,6 +5278,7 @@ const biologiya = {
           "text": "Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vavilovning gomologik qatorlar qonuni - Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi."
     },
@@ -5092,6 +5303,7 @@ const biologiya = {
           "text": "Morgan qonuni"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Vavilovning gomologik qatorlar qonuniga tegishli."
     },
@@ -5116,6 +5328,7 @@ const biologiya = {
           "text": "R. Virxov va L. Paster"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Uotson va Krik DNK qo'sh spiralini yaratgan."
     },
@@ -5140,6 +5353,7 @@ const biologiya = {
           "text": "J. Uotson va F. Krik"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shleyden va Shvann hujayra nazariyasini asoslagan."
     },
@@ -5164,6 +5378,7 @@ const biologiya = {
           "text": "Teodor Shvann"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Virxov hujayra nazariyasini to'ldirdi."
     },
@@ -5188,6 +5403,7 @@ const biologiya = {
           "text": "Yan Purkine"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Levenguk sodda organizmlarni kashf etdi."
     },
@@ -5212,6 +5428,7 @@ const biologiya = {
           "text": "Robert Guk"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Broun o'simlik hujayralarida yadroni topgan."
     },
@@ -5236,6 +5453,7 @@ const biologiya = {
           "text": "I.I. Mechnikov"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ivanovskiy virusologiya faniga asos soldi."
     },
@@ -5260,6 +5478,7 @@ const biologiya = {
           "text": "Robert Kox"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Mechnikov 1908-yilda Nobel mukofotini olgan."
     },
@@ -5284,6 +5503,7 @@ const biologiya = {
           "text": "Lui Paster"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Lui Paster vaksinalar tayyorlash usulini ochdi."
     },
@@ -5308,6 +5528,7 @@ const biologiya = {
           "text": "Lui Paster"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Jenner sigir chechagi orqali odamni emlagan."
     },
@@ -5332,6 +5553,7 @@ const biologiya = {
           "text": "Robert Kox"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Fleming Penicillium zamburug'idan penitsillin oldi."
     },
@@ -5356,6 +5578,7 @@ const biologiya = {
           "text": "Antoni van Levenguk"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Robert Kox sil bakteriyasini topdi."
     },
@@ -5380,6 +5603,7 @@ const biologiya = {
           "text": "Karl Landshteyner"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Landshteyner qon guruhlarini ajratdi."
     },
@@ -5404,6 +5628,7 @@ const biologiya = {
           "text": "Murtak"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tuguncha devoridan meva hosil bo'ladi."
     },
@@ -5428,6 +5653,7 @@ const biologiya = {
           "text": "Urug'"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Urug'kurtak urug'ga aylanadi."
     },
@@ -5452,6 +5678,7 @@ const biologiya = {
           "text": "Gutatsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Transpiratsiya o'simlikni sovutadi va suv oqimini ta'minlaydi."
     },
@@ -5476,6 +5703,7 @@ const biologiya = {
           "text": "Transpiratsiya"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gutatsiya havoda namlik yuqori bo'lganda kuzatiladi."
     },
@@ -5500,6 +5728,7 @@ const biologiya = {
           "text": "Temir (Fe2+)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Xlorofill markazida magniy atomi bo'ladi."
     },
@@ -5524,6 +5753,7 @@ const biologiya = {
           "text": "Magniy (Mg2+)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Gemoglobinda temir kislorodni biriktiradi."
     },
@@ -5548,6 +5778,7 @@ const biologiya = {
           "text": "Fibrinogen"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fibrinogen trombin ta'sirida fibringa o'tadi."
     },
@@ -5572,6 +5803,7 @@ const biologiya = {
           "text": "Jigar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qizil ilik barcha qon hujayralarini hosil qiladi."
     },
@@ -5596,6 +5828,7 @@ const biologiya = {
           "text": "3-4 kun"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Keksaygan eritrotsitlar taloq va jigarda parchalanadi."
     },
@@ -5620,6 +5853,7 @@ const biologiya = {
           "text": "Taloq va jigarda"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Taloq 'eritrotsitlar qabristoni' deyiladi."
     },
@@ -5644,6 +5878,7 @@ const biologiya = {
           "text": "O'pka arteriyasi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Koronar tomirlar yurak miokardini oziqlantiradi."
     },
@@ -5668,6 +5903,7 @@ const biologiya = {
           "text": "0.3 soniya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bo'lmachalar sistolasi 0.1s, qorinchalar sistolasi 0.3s, umumiy pauza 0.4s."
     },
@@ -5692,6 +5928,7 @@ const biologiya = {
           "text": "Pepsinni faollashtiradi va bakteritsid ta'sir ko'rsatadi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "HCl kuchli kislotali muhit va bakteritsid ta'sir ko'rsatadi."
     },
@@ -5716,6 +5953,7 @@ const biologiya = {
           "text": "So'rilish yuzasini yuzlab barobar kengaytiradi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Vorsinkalar oziq moddalarni qon va limfaga so'radi."
     },
@@ -5740,6 +5978,7 @@ const biologiya = {
           "text": "Limfa tomirlariga"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Glyukoza va aminokislotalar qonga, yog' kislotalari limfaga so'riladi."
     },
@@ -5764,6 +6003,7 @@ const biologiya = {
           "text": "Qon kapillyarlariga"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yog'lar avval limfaga o'tadi."
     },
@@ -5788,6 +6028,7 @@ const biologiya = {
           "text": "Gipofizda"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Gipotalamus tana haroratini boshqaradi."
     },
@@ -5812,6 +6053,7 @@ const biologiya = {
           "text": "Epifizda"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Gipotalamo-gipofizar tizim."
     },
@@ -5836,6 +6078,7 @@ const biologiya = {
           "text": "Nefron naychalarida (Genle halqasida)"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Birlamchi siydikdan suv va foydali moddalar qayta so'riladi."
     },
@@ -5860,6 +6103,7 @@ const biologiya = {
           "text": "50 litr"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Birlamchi siydik 150-180 L, ikkilamchi siydik esa 1.5 L."
     },
@@ -5884,6 +6128,7 @@ const biologiya = {
           "text": "Siydik kislotasi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Oqsil va qand paydo bo'lishi kasallik belgisidir."
     },
@@ -5908,6 +6153,7 @@ const biologiya = {
           "text": "Birlamchi tana bo‘shlig‘i, anal teshikning bo‘lishi va ayrim jinslilik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Oq planariya yassi chuvalchanglar tipiga kiradi: tanasi ikki tomonlama (bilateral) simmetriyali, uch qavatli (ektoderma, entoderma, mezoderma) bo‘lib, tana bo‘shlig‘i bo‘lmaydi, ichki a'zolar oralig‘i biriktiruvchi to‘qima — parenxima bilan to‘lgan."
     },
@@ -5932,6 +6178,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Hujayraning “energiya stansiyasi” hisoblangan organoid qaysi?» savolining to'g'ri javobi — Mitoxondriya. Mitoxondriya ATF sintezlaydi."
     },
@@ -5956,6 +6203,7 @@ const biologiya = {
           "text": "O'simliklarda suv va unda erigan mineral tuzlarni ildizdan bargga tashuvchi o'tkazuvchi to'qima qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Qonda kislorod tashishda ishtirok etuvchi hujayralar qaysi?» savolining to'g'ri javobi — Eritrotsitlar. Eritrotsitlar gemoglobin orqali kislorod tashiydi."
     },
@@ -5980,6 +6228,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Fotosintez jarayoni qaysi organoidda kechadi?» savolining to'g'ri javobi — Xloroplast. Xloroplastlarda fotosintez boradi."
     },
@@ -6004,6 +6253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar'?"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "«Inson tanasidagi eng yirik organ qaysi?» savolining to'g'ri javobi — Teri. Teri maydoni va og'irligi bo'yicha eng yirik organdir."
     },
@@ -6028,6 +6278,7 @@ const biologiya = {
           "text": "Hujayraning 'energiya stansiyasi' hisoblangan va ATF sintezlovchi ikki membranali organoid qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Hujayraning 'energiya stansiyasi' hisoblangan va ATF sintezlovchi ikki membranali organoid qaysi?» savolining to'g'ri javobi — Mitoxondriya. Mitoxondriyada ATF sintezlanadi."
     },
@@ -6052,6 +6303,7 @@ const biologiya = {
           "text": "Oqsil biosintezi (translyatsiya) hujayraning qaysi membranasiz organoidida amalga oshadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Oqsil biosintezi (translyatsiya) hujayraning qaysi membranasiz organoidida amalga oshadi?» savolining to'g'ri javobi — Ribosoma. Ribosoma oqsil biosintezini ta'minlaydi."
     },
@@ -6076,6 +6328,7 @@ const biologiya = {
           "text": "Qon plazmasidagi qaysi eruvchan oqsil qon iviganda erimaydigan fibringa aylanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Hujayra ichi hazm qilish (avtoliz) jarayonini qaysi bir membranali organoid amalga oshiradi?» savolining to'g'ri javobi — Lizosoma. Lizosoma gidrolitik fermentlarga boy."
     },
@@ -6100,6 +6353,7 @@ const biologiya = {
           "text": "O'simlik hujayrasiga mustahkamlik beruvchi qobiq asosan qaysi polisaxariddan tashkil topgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'simlik hujayrasiga mustahkamlik beruvchi qobiq asosan qaysi polisaxariddan tashkil topgan?» savolining to'g'ri javobi — Sellyuloza (kletchatka). O'simlik qobig'i sellyulozadan iborat."
     },
@@ -6124,6 +6378,7 @@ const biologiya = {
           "text": "Biologiyada 'Ayirish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Zamburug'lar hujayra qobig'ida qaysi polisaxarid mavjud?» savolining to'g'ri javobi — Xitin. Zamburug'larda xitin bo'ladi."
     },
@@ -6148,6 +6403,7 @@ const biologiya = {
           "text": "Gulli o'simliklarda qo'sh urug'lanishdan so'ng triploid (3n) xromosomali qaysi to'qima hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Bakteriyalar (prokariotlar) hujayra devori qaysi moddadan tuzilgan?» savolining to'g'ri javobi — Murein (peptidoglikan). Bakteriyalar qobig'i mureindan iborat."
     },
@@ -6172,6 +6428,7 @@ const biologiya = {
           "text": "Biologiyada 'O't suyuqligi (safro)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«DNK molekulasida adenin (A) nukleotidiga komplementar bo'lgan azot asosi qaysi?» savolining to'g'ri javobi — Timin (T). DNK da A=T qo'sh vodorod bog'i bilan bog'lanadi."
     },
@@ -6196,6 +6453,7 @@ const biologiya = {
           "text": "RNK molekulasida timin (T) o'rniga qaysi pirimidin asosi bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«RNK molekulasida timin (T) o'rniga qaysi pirimidin asosi bo'ladi?» savolining to'g'ri javobi — Uratsil (U). RNK tarkibida timin o'rniga uratsil bo'ladi."
     },
@@ -6220,6 +6478,7 @@ const biologiya = {
           "text": "Guanin va sitozin nukleotidlari orasida nechta vodorod bog'i hosil bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Guanin va sitozin nukleotidlari orasida nechta vodorod bog'i hosil bo'ladi?» savolining to'g'ri javobi — 3 ta. G va S orasida 3 ta vodorod bog'i mavjud."
     },
@@ -6244,6 +6503,7 @@ const biologiya = {
           "text": "Biologiyada 'Aromorfoz'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Fotosintezning yorug'lik bosqichi xloroplastning qaysi qismida kechadi?» savolining to'g'ri javobi — Tilakoid membranalarida (granalar). Yorug'lik bosqichi tilakoidlarda kechadi."
     },
@@ -6268,6 +6528,7 @@ const biologiya = {
           "text": "Genlarning birikkan holda irsiylanishi (Irsiyatning xromosoma nazariyasi)ni kim kashf qilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Fotosintezning qorong'ilik bosqichi (Kalvin sikli) xloroplastning qayerida boradi?» savolining to'g'ri javobi — Stroma sohasida. Qorong'ilik bosqichi stromada kechadi."
     },
@@ -6292,6 +6553,7 @@ const biologiya = {
           "text": "Gemoglobin oqsili tarkibidagi gem guruhining markazida qaysi metall ioni mavjud?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Mitoxondriyaning ichki membranasi hosil qilgan burmalar nima deb ataladi?» savolining to'g'ri javobi — Kristalar. Kristalar ichki sathni kengaytiradi."
     },
@@ -6316,6 +6578,7 @@ const biologiya = {
           "text": "Fotosintez jarayoni qaysi organoidda kechadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Mitoz bo'linishning qaysi fazasida xromosomalar ekvator tekisligida tiziladi?» savolining to'g'ri javobi — Metafaza. Metafazada xromosomalar ekvatorga keladi."
     },
@@ -6340,6 +6603,7 @@ const biologiya = {
           "text": "Bir hujayrali sodda hayvonlardan qaysi biri yorug'likda fotosintez, qorong'ida geterotrof oziqlanadi (miksotrof)?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Mitozning qaysi fazasida xromatidalar qarama-qarshi qutblarga ajraladi?» savolining to'g'ri javobi — Anafaza. Anafazada qutblarga tortiladi."
     },
@@ -6364,6 +6628,7 @@ const biologiya = {
           "text": "Meyoz I bo'linishining profaza I bosqichida gomologik xromosomalarning o'zaro chatishishi nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Meyoz I bo'linishining profaza I bosqichida gomologik xromosomalarning o'zaro chatishishi nima deyiladi?» savolining to'g'ri javobi — Krossingover. Krossingover genlar almashinuvidir."
     },
@@ -6388,6 +6653,7 @@ const biologiya = {
           "text": "Ko'rish retseptorlari (tayoqcha va kolbachalar) ko'zning qaysi pardasida joylashgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qonda kislorod va karbonat angidridni tashuvchi gemoglobinga ega yadrosiz qon shaklli elementi qaysi?» savolining to'g'ri javobi — Eritrotsitlar. Eritrotsitlar gazlarni tashiydi."
     },
@@ -6412,6 +6678,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Inson tanasidagi eng yirik ichki a'zo (bez) qaysi?» savolining to'g'ri javobi — Jigar. Jigar eng yirik bezdir."
     },
@@ -6436,6 +6703,7 @@ const biologiya = {
           "text": "Biologiyada 'D vitamini (kalsiferol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Inson tanasidagi eng katta tashqi a'zo nima?» savolining to'g'ri javobi — Teri. Teri umumiy maydoni va vazni bilan eng yirik organdir."
     },
@@ -6460,6 +6728,7 @@ const biologiya = {
           "text": "Bir hujayrali sodda hayvonlardan qaysi biri yorug'likda fotosintez, qorong'ida geterotrof oziqlanadi (miksotrof)?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Qonning ivish jarayonida ishtirok etuvchi qon plastinkalari qanday ataladi?» savolining to'g'ri javobi — Trombotsitlar. Trombotsitlar qon ivishini ta'minlaydi."
     },
@@ -6484,6 +6753,7 @@ const biologiya = {
           "text": "Katta qon aylanish doirasi yurakning qaysi bo'lmasidan boshlanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Katta qon aylanish doirasi yurakning qaysi bo'lmasidan boshlanadi?» savolining to'g'ri javobi — Chap qorinchadan. Aorta chap qorinchadan chiqadi."
     },
@@ -6508,6 +6778,7 @@ const biologiya = {
           "text": "Biologiyada 'Krestguldoshlar (Karamdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kichik (o'pka) qon aylanish doirasi yurakning qaysi kamerasidan boshlanadi?» savolining to'g'ri javobi — O'ng qorinchadan. O'pka arteriyasi o'ng qorinchadan boshlanadi."
     },
@@ -6532,6 +6803,7 @@ const biologiya = {
           "text": "Yurakning qaysi klapanlari bo'lmacha va qorinchalar o'rtasida joylashgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Yurakning qaysi klapanlari bo'lmacha va qorinchalar o'rtasida joylashgan?» savolining to'g'ri javobi — Tabaqali klapanlar (ikki va uch tabaqali). Bo'lmacha va qorincha orasida tabaqali klapanlar joylashgan."
     },
@@ -6556,6 +6828,7 @@ const biologiya = {
           "text": "Biologiyada 'Oq planariya (Yassi chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Qon bosimi eng past bo'lgan qon tomirlari qaysilar?» savolining to'g'ri javobi — Kavak venalar. Kavak venalarda bosim nol yoki manfiy bo'ladi."
     },
@@ -6580,6 +6853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Inson miyasining muvozanat va harakatlarni muvofiqlashtiruvchi bo'limi qaysi?» savolining to'g'ri javobi — Miyacha. Miyacha muvozanat markazi hisoblanadi."
     },
@@ -6604,6 +6878,7 @@ const biologiya = {
           "text": "Hujayraning 'energiya stansiyasi' hisoblangan va ATF sintezlovchi ikki membranali organoid qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Nafas olish, yurak urishi va hazm qilishning hayotiy vegetativ markazlari qaysi miya bo'limida?» savolining to'g'ri javobi — Uzunchoq miyada. Uzunchoq miya hayotiy reflektor markazdir."
     },
@@ -6628,6 +6903,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Ko'rish retseptorlari (tayoqcha va kolbachalar) ko'zning qaysi pardasida joylashgan?» savolining to'g'ri javobi — To'r parda (retina). To'r pardada fotoretseptorlar bo'ladi."
     },
@@ -6652,6 +6928,7 @@ const biologiya = {
           "text": "Biologiyada 'Epifiz (g'uddasimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Rang ajratish uchun mas'ul bo'lgan ko'z retseptorlari qaysi?» savolining to'g'ri javobi — Kolbachalar. Kolbachalar yorug'likda ranglarni ajratadi."
     },
@@ -6676,6 +6953,7 @@ const biologiya = {
           "text": "Biologiyada 'Butli o'rgimchak (O'rgimchaksimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qorong'ida ko'rishni ta'minlovchi rodopsin pigmenti sintezi uchun qaysi vitamin zarur?» savolining to'g'ri javobi — A vitamini (retinol). A vitamini yetishmasa shabko'rlik yuzaga keladi."
     },
@@ -6700,6 +6978,7 @@ const biologiya = {
           "text": "Biologiyada 'III (B) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Qondagi glyukoza miqdorini kamaytiruvchi (hujayralarga o'tishini ta'minlovchi) gormon qaysi?» savolining to'g'ri javobi — Insulin. Insulin oshqozon osti bezining beta-hujayralarida ishlab chiqariladi."
     },
@@ -6724,6 +7003,7 @@ const biologiya = {
           "text": "Gulli o'simliklarda changlanish va urug'lanishdan so'ng tuguncha devoridan nima hosil bo'ladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Gipofiz bezining oldingi bo'lagi ishlab chiqaradigan o'sish gormoni qanday nomlanadi?» savolining to'g'ri javobi — Somatotrop gormon (STG). STG suyak va mushaklar o'sishini boshqaradi."
     },
@@ -6748,6 +7028,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Buyrakning morfologik va funksional birligi nima deb ataladi?» savolining to'g'ri javobi — Nefron. Nefron siydik hosil qilish birligidir."
     },
@@ -6772,6 +7053,7 @@ const biologiya = {
           "text": "Bir hujayrali sodda hayvonlardan qaysi biri yorug'likda fotosintez, qorong'ida geterotrof oziqlanadi (miksotrof)?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Genetika fanining asoschisi va no'xat o'simligida duragaylash tajribalarini o'tkazgan olim kim?» savolining to'g'ri javobi — Gregor Mendel. Mendel 1865-yilda irsiyat qonunlarini kashf etdi."
     },
@@ -6796,6 +7078,7 @@ const biologiya = {
           "text": "Biologiyada 'Krestguldoshlar (Karamdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Mendelning birinchi qonuni qanday nomlanadi?» savolining to'g'ri javobi — Birinchi avlod duragaylarining bir xilligi qonuni (Dominantlik qonuni). Birinchi avlodda barcha duragaylar bir xil fenotipga ega bo'ladi."
     },
@@ -6820,6 +7103,7 @@ const biologiya = {
           "text": "Biologiyada 'Hazm fermenti Pepsin'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Mendelning ikkinchi qonuni bo'yicha monoduragay chatishtirishda F2 avlodda fenotip bo'yicha ajralish nisbati qanday?» savolining to'g'ri javobi — 3 : 1. Fenotip bo'yicha 3 ta dominant va 1 ta retsessiv."
     },
@@ -6844,6 +7128,7 @@ const biologiya = {
           "text": "Genlarning birikkan holda irsiylanishi (Irsiyatning xromosoma nazariyasi)ni kim kashf qilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Genlarning birikkan holda irsiylanishi (Irsiyatning xromosoma nazariyasi)ni kim kashf qilgan?» savolining to'g'ri javobi — Tomas Hant Morgan (drosofila pashshasida). Morgan birikkan genlar qonuniyatini yaratdi."
     },
@@ -6868,6 +7153,7 @@ const biologiya = {
           "text": "Biologiyada 'C vitamini (askorbin kislota)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Odam kariotipida jami nechta xromosoma mavjud?» savolining to'g'ri javobi — 46 ta (23 juft). 22 juft autosoma va 1 juft jinsiy xromosoma."
     },
@@ -6892,6 +7178,7 @@ const biologiya = {
           "text": "Buyrakning morfologik va funksional birligi nima deb ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Daun sindromi qaysi xromosoma trisomiyasi (ortiqcha bitta nusxasi) natijasida kelib chiqadi?» savolining to'g'ri javobi — 21-autosoma xromosomasi. 21-xromosoma bo'yicha trisomiya (47 xromosoma)."
     },
@@ -6916,6 +7203,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Madaniy o'simliklarning kelib chiqish markazlarini aniqlagan buyuk olim kim?» savolining to'g'ri javobi — N.I. Vavilov. Vavilov 7 ta asosiy gen-markazni asoslab bergan."
     },
@@ -6940,6 +7228,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«O'simliklarda suv va unda erigan mineral tuzlarni ildizdan bargga tashuvchi o'tkazuvchi to'qima qaysi?» savolining to'g'ri javobi — Ksilema (naylar / traxeyalar). Ksilema o'suvchi oqimni ta'minlaydi."
     },
@@ -6964,6 +7253,7 @@ const biologiya = {
           "text": "Biologiyada 'A vitamini (retinol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Barglarda hosil bo'lgan organik moddalarni boshqa organlarga eltuvchi to'qima qaysi?» savolining to'g'ri javobi — Floema (elaksimon naylar). Floema tushuvchi oqimni o'tkazadi."
     },
@@ -6988,6 +7278,7 @@ const biologiya = {
           "text": "Biologiyada 'B12 vitamini (kobalamin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Yopiq urug'li (gulli) o'simliklarda qo'sh urug'lanish hodisasini kim kashf etgan?» savolining to'g'ri javobi — S.G. Navashin (1898-yilda). Navashin liliya va lolada kashf etgan."
     },
@@ -7012,6 +7303,7 @@ const biologiya = {
           "text": "Biologiyada 'I (0) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Gulli o'simliklarda qo'sh urug'lanishdan so'ng triploid (3n) xromosomali qaysi to'qima hosil bo'ladi?» savolining to'g'ri javobi — Endosperm (zaxira ozuqa to'qimasi). Markaziy hujayra (2n) va spermiy (n) qo'shilishidan 3n endosperm hosil bo'ladi."
     },
@@ -7036,6 +7328,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Ildiz meva hosil qiluvchi o'simliklar qatorini toping:» savolining to'g'ri javobi — Sabzi, lavlagi, turp. Sabzi va lavlagi ildizmevadir (kartoshka tugunak)."
     },
@@ -7060,6 +7353,7 @@ const biologiya = {
           "text": "Biologiyada 'A vitamini (retinol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Bir hujayrali sodda hayvonlardan qaysi biri yorug'likda fotosintez, qorong'ida geterotrof oziqlanadi (miksotrof)?» savolining to'g'ri javobi — Yashil evglena. Evglena aralash oziqlanish xususiyatiga ega."
     },
@@ -7084,6 +7378,7 @@ const biologiya = {
           "text": "Biologiyada 'Timus (ayrisimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Malyariya plazmodiysining oraliq xo'jayini kim hisoblanadi?» savolining to'g'ri javobi — Odam (jinsiy ko'payish chivinda kechadi). Odam oraliq xo'jayin, jinsiy davri chivinda bo'ladi."
     },
@@ -7108,6 +7403,7 @@ const biologiya = {
           "text": "Yassi chuvalchanglarning ayirish sistemasi qaysi tuzilmadan iborat?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Yassi chuvalchanglarning ayirish sistemasi qaysi tuzilmadan iborat?» savolining to'g'ri javobi — Protonefridiylar (yulduzsimon hujayralar). Yassi chuvalchanglarda protonefridiylar bo'ladi."
     },
@@ -7132,6 +7428,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)'?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Qushlarning suyaklari yengil va ichi g'ovak bo'lishining biologik ahamiyati nima?» savolining to'g'ri javobi — Uchishni yengillashtirish uchun. Uchishga moslashuv."
     },
@@ -7156,6 +7453,7 @@ const biologiya = {
           "text": "Sutemizuvchilar yuragi necha kamerali va qaysi aorta ravog'iga ega?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Sutemizuvchilar yuragi necha kamerali va qaysi aorta ravog'iga ega?» savolining to'g'ri javobi — 4 kamerali, chap aorta ravog'i. Qushlarda o'ng, sutemizuvchilarda chap aorta ravog'i."
     },
@@ -7180,6 +7478,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Organik olam evolutsiyasining birinchi yaxlit nazariyasini yaratgan olim kim?» savolining to'g'ri javobi — Jan Batist Lamark (1809-yilda). Lamark 'Zoologiya falsafasi' asarida evolyutsiya nazariyasini bergan."
     },
@@ -7204,6 +7503,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Charlz Darvin fikricha evolutsiyaning harakatlantiruvchi asosiy kuchi nima?» savolining to'g'ri javobi — Tabiiy tanlanish va yashash uchun kurash. Tabiiy tanlanish eng moslashganlarning yashab qolishidir."
     },
@@ -7228,6 +7528,7 @@ const biologiya = {
           "text": "Tiriklikning eng kichik evolutsion birligi nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tiriklikning eng kichik evolutsion birligi nima?» savolining to'g'ri javobi — Populyatsiya. Evolutsiya populyatsiya darajasida boshlanadi."
     },
@@ -7252,6 +7553,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Ekosistemada organik moddalarni mineral moddalargacha parchalovchi organizmlar qanday ataladi?» savolining to'g'ri javobi — Redutsentlar (destruktorlar: bakteriya va zamburug'lar). Redutsentlar moddalar aylanishini yakunlaydi."
     },
@@ -7276,6 +7578,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Yadro'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish. Yadro - Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish."
     },
@@ -7300,6 +7603,7 @@ const biologiya = {
           "text": "Genetika fanining asoschisi va no'xat o'simligida duragaylash tajribalarini o'tkazgan olim kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish'?» savolining to'g'ri javobi — Yadro. Ushbu ta'rif Yadroga tegishli."
     },
@@ -7324,6 +7628,7 @@ const biologiya = {
           "text": "Biologiyada 'Mitoxondriya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Mitoxondriya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish. Mitoxondriya - Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish."
     },
@@ -7348,6 +7653,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish'?» savolining to'g'ri javobi — Mitoxondriya. Ushbu ta'rif Mitoxondriyaga tegishli."
     },
@@ -7372,6 +7678,7 @@ const biologiya = {
           "text": "Biologiyada 'Xloroplast'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Xloroplast'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash. Xloroplast - Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash."
     },
@@ -7396,6 +7703,7 @@ const biologiya = {
           "text": "Biologiyada 'Suvda va quruqlikda yashovchilar (Amfibiyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash'?» savolining to'g'ri javobi — Xloroplast. Ushbu ta'rif Xloroplastga tegishli."
     },
@@ -7420,6 +7728,7 @@ const biologiya = {
           "text": "Biologiyada 'Ribosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Ribosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash. Ribosoma - i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash."
     },
@@ -7444,6 +7753,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash'?» savolining to'g'ri javobi — Ribosoma. Ushbu ta'rif Ribosomaga tegishli."
     },
@@ -7468,6 +7778,7 @@ const biologiya = {
           "text": "Biologiyada 'Golji majmuasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Golji majmuasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish. Golji majmuasi - Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish."
     },
@@ -7492,6 +7803,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish'?» savolining to'g'ri javobi — Golji majmuasi. Ushbu ta'rif Golji majmuasiga tegishli."
     },
@@ -7516,6 +7828,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Hujayra shirasini saqlash, turgor bosimini ta'minlash'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Lizosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gidrolitik fermentlar yordamida polimerlarni monomerlargacha parchalash. Lizosoma - Gidrolitik fermentlar yordamida polimerlarni monomerlargacha parchalash."
     },
@@ -7540,6 +7853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gidrolitik fermentlar yordamida polimerlarni monomerlargacha parchalash'?» savolining to'g'ri javobi — Lizosoma. Ushbu ta'rif Lizosomaga tegishli."
     },
@@ -7564,6 +7878,7 @@ const biologiya = {
           "text": "Biologiyada 'Idioadaptatsiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Endoplazmatik to'r (silliq)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Lipidlar va uglevodlar sintezi hamda moddalar transporti. Endoplazmatik to'r (silliq) - Lipidlar va uglevodlar sintezi hamda moddalar transporti."
     },
@@ -7588,6 +7903,7 @@ const biologiya = {
           "text": "Oqsil biosintezi (translyatsiya) hujayraning qaysi membranasiz organoidida amalga oshadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Lipidlar va uglevodlar sintezi hamda moddalar transporti'?» savolining to'g'ri javobi — Endoplazmatik to'r (silliq). Ushbu ta'rif Endoplazmatik to'r (silliq)ga tegishli."
     },
@@ -7612,6 +7928,7 @@ const biologiya = {
           "text": "Biologiyada 'Endoplazmatik to'r (donador)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Endoplazmatik to'r (donador)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti. Endoplazmatik to'r (donador) - Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti."
     },
@@ -7636,6 +7953,7 @@ const biologiya = {
           "text": "Biologiyada 'Nafas olish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti'?» savolining to'g'ri javobi — Endoplazmatik to'r (donador). Ushbu ta'rif Endoplazmatik to'r (donador)ga tegishli."
     },
@@ -7660,6 +7978,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Hujayra shirasini saqlash, turgor bosimini ta'minlash'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Hujayra markazi (Sentrosoma)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mitoz va meyoz bo'linish dukini hosil qilish. Hujayra markazi (Sentrosoma) - Mitoz va meyoz bo'linish dukini hosil qilish."
     },
@@ -7684,6 +8003,7 @@ const biologiya = {
           "text": "Biologiyada 'Daryo qisqichbaqasi (Qisqichbaqasimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Mitoz va meyoz bo'linish dukini hosil qilish'?» savolining to'g'ri javobi — Hujayra markazi (Sentrosoma). Ushbu ta'rif Hujayra markazi (Sentrosoma)ga tegishli."
     },
@@ -7708,6 +8028,7 @@ const biologiya = {
           "text": "Hujayraning “energiya stansiyasi” hisoblangan organoid qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Vakuola (o'simlikda)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Hujayra shirasini saqlash, turgor bosimini ta'minlash. Vakuola (o'simlikda) - Hujayra shirasini saqlash, turgor bosimini ta'minlash."
     },
@@ -7732,6 +8053,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Hujayra shirasini saqlash, turgor bosimini ta'minlash'?» savolining to'g'ri javobi — Vakuola (o'simlikda). Ushbu ta'rif Vakuola (o'simlikda)ga tegishli."
     },
@@ -7756,6 +8078,7 @@ const biologiya = {
           "text": "Biologiyada 'Peroksisoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Peroksisoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash. Peroksisoma - Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash."
     },
@@ -7780,6 +8103,7 @@ const biologiya = {
           "text": "Biologiyada 'Ribosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash'?» savolining to'g'ri javobi — Peroksisoma. Ushbu ta'rif Peroksisomaga tegishli."
     },
@@ -7804,6 +8128,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'A vitamini (retinol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya). A vitamini (retinol) - Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)."
     },
@@ -7828,6 +8153,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)'?» savolining to'g'ri javobi — A vitamini (retinol). Ushbu ta'rif A vitamini (retinol)ga tegishli."
     },
@@ -7852,6 +8178,7 @@ const biologiya = {
           "text": "Biologiyada 'IV (AB) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'B1 vitamini (tiamin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Beri-beri kasalligi (asab va yurak faoliyatining buzilishi). B1 vitamini (tiamin) - Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)."
     },
@@ -7876,6 +8203,7 @@ const biologiya = {
           "text": "Ingichka ichak shilliq qavatidagi vorsinkalar qanday asosiy vazifani bajaradi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)'?» savolining to'g'ri javobi — B1 vitamini (tiamin). Ushbu ta'rif B1 vitamini (tiamin)ga tegishli."
     },
@@ -7900,6 +8228,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'C vitamini (askorbin kislota)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi. C vitamini (askorbin kislota) - Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi."
     },
@@ -7924,6 +8253,7 @@ const biologiya = {
           "text": "Biologiyada 'Suvda va quruqlikda yashovchilar (Amfibiyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi'?» savolining to'g'ri javobi — C vitamini (askorbin kislota). Ushbu ta'rif C vitamini (askorbin kislota)ga tegishli."
     },
@@ -7948,6 +8278,7 @@ const biologiya = {
           "text": "Biologiyada 'D vitamini (kalsiferol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'D vitamini (kalsiferol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi). D vitamini (kalsiferol) - Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)."
     },
@@ -7972,6 +8303,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)'?» savolining to'g'ri javobi — D vitamini (kalsiferol). Ushbu ta'rif D vitamini (kalsiferol)ga tegishli."
     },
@@ -7996,6 +8328,7 @@ const biologiya = {
           "text": "Daun sindromi qaysi xromosoma trisomiyasi (ortiqcha bitta nusxasi) natijasida kelib chiqadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'B12 vitamini (kobalamin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Xavfli kamqonlik (anemiya). B12 vitamini (kobalamin) - Xavfli kamqonlik (anemiya)."
     },
@@ -8020,6 +8353,7 @@ const biologiya = {
           "text": "Biologiyada 'II (A) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Xavfli kamqonlik (anemiya)'?» savolining to'g'ri javobi — B12 vitamini (kobalamin). Ushbu ta'rif B12 vitamini (kobalamin)ga tegishli."
     },
@@ -8044,6 +8378,7 @@ const biologiya = {
           "text": "Tirik hujayralarni (bakteriya, bir hujayrali jonivorlar, spermatozoid) ilk bor mikroskopda ko'rgan olim kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'PP vitamini (nikotin kislota)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Pellagra kasalligi (dermatit, diareya, demensiya). PP vitamini (nikotin kislota) - Pellagra kasalligi (dermatit, diareya, demensiya)."
     },
@@ -8068,6 +8403,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Pellagra kasalligi (dermatit, diareya, demensiya)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Pellagra kasalligi (dermatit, diareya, demensiya)'?» savolining to'g'ri javobi — PP vitamini (nikotin kislota). Ushbu ta'rif PP vitamini (nikotin kislota)ga tegishli."
     },
@@ -8092,6 +8428,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomologik organlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'K vitamini (filloxinon)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Qon ivishining buzilishi va ko'p qon yo'qotish. K vitamini (filloxinon) - Qon ivishining buzilishi va ko'p qon yo'qotish."
     },
@@ -8116,6 +8453,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'T-limfotsitlarni yetiltirish va immunitetni ta'minlash'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Qon ivishining buzilishi va ko'p qon yo'qotish'?» savolining to'g'ri javobi — K vitamini (filloxinon). Ushbu ta'rif K vitamini (filloxinon)ga tegishli."
     },
@@ -8140,6 +8478,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Gipofiz bezi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar. Gipofiz bezi - Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar."
     },
@@ -8164,6 +8503,7 @@ const biologiya = {
           "text": "Biologiyada 'Daryo qisqichbaqasi (Qisqichbaqasimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar'?» savolining to'g'ri javobi — Gipofiz bezi. Ushbu ta'rif Gipofiz beziga tegishli."
     },
@@ -8188,6 +8528,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Qalqonsimon bez'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tiroksin va triyodtironin (asosiy metabolizmni boshqarish). Qalqonsimon bez - Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)."
     },
@@ -8212,6 +8553,7 @@ const biologiya = {
           "text": "Biologiyada 'Sudralib yuruvchilar (Reptiliyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)'?» savolining to'g'ri javobi — Qalqonsimon bez. Ushbu ta'rif Qalqonsimon bezga tegishli."
     },
@@ -8236,6 +8578,7 @@ const biologiya = {
           "text": "Biologiyada 'Hujayra markazi (Sentrosoma)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Buyrak usti bezi po'stloq qismi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kortizol, aldosteron va jinsiy gormonlar. Buyrak usti bezi po'stloq qismi - Kortizol, aldosteron va jinsiy gormonlar."
     },
@@ -8260,6 +8603,7 @@ const biologiya = {
           "text": "Sog'lom odamda sutkasiga qancha birlamchi siydik hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kortizol, aldosteron va jinsiy gormonlar'?» savolining to'g'ri javobi — Buyrak usti bezi po'stloq qismi. Ushbu ta'rif Buyrak usti bezi po'stloq qismiga tegishli."
     },
@@ -8284,6 +8628,7 @@ const biologiya = {
           "text": "Biologiyada 'Konvergensiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Buyrak usti bezi mag'iz qismi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Adrenalin va noradrenalin (stress gormonlari). Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
     },
@@ -8308,6 +8653,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Adrenalin va noradrenalin (stress gormonlari)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Adrenalin va noradrenalin (stress gormonlari)'?» savolining to'g'ri javobi — Buyrak usti bezi mag'iz qismi. Ushbu ta'rif Buyrak usti bezi mag'iz qismiga tegishli."
     },
@@ -8332,6 +8678,7 @@ const biologiya = {
           "text": "Biologiyada 'Lansetnik (Boshskeletlilar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Oshqozon osti bezi (Langergans orolchalari)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi). Oshqozon osti bezi (Langergans orolchalari) - Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)."
     },
@@ -8356,6 +8703,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)'?» savolining to'g'ri javobi — Oshqozon osti bezi (Langergans orolchalari). Ushbu ta'rif Oshqozon osti bezi (Langergans orolchalari)ga tegishli."
     },
@@ -8380,6 +8728,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'T-limfotsitlarni yetiltirish va immunitetni ta'minlash'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Epifiz (g'uddasimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Melatonin (kun-tun biologik ritmlarini boshqarish). Epifiz (g'uddasimon bez) - Melatonin (kun-tun biologik ritmlarini boshqarish)."
     },
@@ -8404,6 +8753,7 @@ const biologiya = {
           "text": "Biologiyada 'Atirgo'ldoshlar (Ra'noguldoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Melatonin (kun-tun biologik ritmlarini boshqarish)'?» savolining to'g'ri javobi — Epifiz (g'uddasimon bez). Ushbu ta'rif Epifiz (g'uddasimon bez)ga tegishli."
     },
@@ -8428,6 +8778,7 @@ const biologiya = {
           "text": "Gulli o'simliklarda qo'sh urug'lanishdan so'ng triploid (3n) xromosomali qaysi to'qima hosil bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Timus (ayrisimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — T-limfotsitlarni yetiltirish va immunitetni ta'minlash. Timus (ayrisimon bez) - T-limfotsitlarni yetiltirish va immunitetni ta'minlash."
     },
@@ -8452,6 +8803,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'T-limfotsitlarni yetiltirish va immunitetni ta'minlash'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'T-limfotsitlarni yetiltirish va immunitetni ta'minlash'?» savolining to'g'ri javobi — Timus (ayrisimon bez). Ushbu ta'rif Timus (ayrisimon bez)ga tegishli."
     },
@@ -8476,6 +8828,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'I (0) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor. I (0) qon guruhi - Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor."
     },
@@ -8500,6 +8853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor'?» savolining to'g'ri javobi — I (0) qon guruhi. Ushbu ta'rif I (0) qon guruhiga tegishli."
     },
@@ -8524,6 +8878,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'II (A) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor. II (A) qon guruhi - Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor."
     },
@@ -8548,6 +8903,7 @@ const biologiya = {
           "text": "Hujayraning 'energiya stansiyasi' hisoblangan va ATF sintezlovchi ikki membranali organoid qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor'?» savolining to'g'ri javobi — II (A) qon guruhi. Ushbu ta'rif II (A) qon guruhiga tegishli."
     },
@@ -8572,6 +8928,7 @@ const biologiya = {
           "text": "Biologiyada 'III (B) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'III (B) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor. III (B) qon guruhi - Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor."
     },
@@ -8596,6 +8953,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor'?» savolining to'g'ri javobi — III (B) qon guruhi. Ushbu ta'rif III (B) qon guruhiga tegishli."
     },
@@ -8620,6 +8978,7 @@ const biologiya = {
           "text": "Biologiyada 'Lizosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'IV (AB) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q. IV (AB) qon guruhi - Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q."
     },
@@ -8644,6 +9003,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q'?» savolining to'g'ri javobi — IV (AB) qon guruhi. Ushbu ta'rif IV (AB) qon guruhiga tegishli."
     },
@@ -8668,6 +9028,7 @@ const biologiya = {
           "text": "Biologiyada 'Rezus-omil (Rh)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Rezus-omil (Rh)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda). Rezus-omil (Rh) - Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda)."
     },
@@ -8692,6 +9053,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda)'?» savolining to'g'ri javobi — Rezus-omil (Rh). Ushbu ta'rif Rezus-omil (Rh)ga tegishli."
     },
@@ -8716,6 +9078,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Nafas olish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari. Nafas olish sistemasi - Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari."
     },
@@ -8740,6 +9103,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari'?» savolining to'g'ri javobi — Nafas olish sistemasi. Ushbu ta'rif Nafas olish sistemasiga tegishli."
     },
@@ -8764,6 +9128,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Ayirish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali. Ayirish sistemasi - Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali."
     },
@@ -8788,6 +9153,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Mitoz va meyoz bo'linish dukini hosil qilish'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali'?» savolining to'g'ri javobi — Ayirish sistemasi. Ushbu ta'rif Ayirish sistemasiga tegishli."
     },
@@ -8812,6 +9178,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Hazm fermenti Pepsin'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda). Hazm fermenti Pepsin - Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)."
     },
@@ -8836,6 +9203,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)'?» savolining to'g'ri javobi — Hazm fermenti Pepsin. Ushbu ta'rif Hazm fermenti Pepsinga tegishli."
     },
@@ -8860,6 +9228,7 @@ const biologiya = {
           "text": "Biologiyada 'Nafas olish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Hazm fermenti Amilaza (ptialin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi. Hazm fermenti Amilaza (ptialin) - Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi."
     },
@@ -8884,6 +9253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi'?» savolining to'g'ri javobi — Hazm fermenti Amilaza (ptialin). Ushbu ta'rif Hazm fermenti Amilaza (ptialin)ga tegishli."
     },
@@ -8908,6 +9278,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Hazm fermenti Lipaza'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi. Hazm fermenti Lipaza - Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi."
     },
@@ -8932,6 +9303,7 @@ const biologiya = {
           "text": "Biologiyada 'Epifiz (g'uddasimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi'?» savolining to'g'ri javobi — Hazm fermenti Lipaza. Ushbu ta'rif Hazm fermenti Lipazaga tegishli."
     },
@@ -8956,6 +9328,7 @@ const biologiya = {
           "text": "Qon bosimi eng past bo'lgan qon tomirlari qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'O't suyuqligi (safro)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi. O't suyuqligi (safro) - Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi."
     },
@@ -8980,6 +9353,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi'?» savolining to'g'ri javobi — O't suyuqligi (safro). Ushbu ta'rif O't suyuqligi (safro)ga tegishli."
     },
@@ -9004,6 +9378,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Krestguldoshlar (Karamdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha. Krestguldoshlar (Karamdoshlar) - Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha."
     },
@@ -9028,6 +9403,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha'?» savolining to'g'ri javobi — Krestguldoshlar (Karamdoshlar). Ushbu ta'rif Krestguldoshlar (Karamdoshlar)ga tegishli."
     },
@@ -9052,6 +9428,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Atirgo'ldoshlar (Ra'noguldoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1. Atirgo'ldoshlar (Ra'noguldoshlar) - Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1."
     },
@@ -9076,6 +9453,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1'?» savolining to'g'ri javobi — Atirgo'ldoshlar (Ra'noguldoshlar). Ushbu ta'rif Atirgo'ldoshlar (Ra'noguldoshlar)ga tegishli."
     },
@@ -9100,6 +9478,7 @@ const biologiya = {
           "text": "Biologiyada 'Burchoqdoshlar (Dukkakdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Burchoqdoshlar (Dukkakdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak. Burchoqdoshlar (Dukkakdoshlar) - Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak."
     },
@@ -9124,6 +9503,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak'?» savolining to'g'ri javobi — Burchoqdoshlar (Dukkakdoshlar). Ushbu ta'rif Burchoqdoshlar (Dukkakdoshlar)ga tegishli."
     },
@@ -9148,6 +9528,7 @@ const biologiya = {
           "text": "Biologiyada 'Ituzumdoshlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Ituzumdoshlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha. Ituzumdoshlar - Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha."
     },
@@ -9172,6 +9553,7 @@ const biologiya = {
           "text": "Biologiyada 'Butli o'rgimchak (O'rgimchaksimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha'?» savolining to'g'ri javobi — Ituzumdoshlar. Ushbu ta'rif Ituzumdoshlarga tegishli."
     },
@@ -9196,6 +9578,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Murakkabguldoshlar (Qoqidoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista. Murakkabguldoshlar (Qoqidoshlar) - Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista."
     },
@@ -9220,6 +9603,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista'?» savolining to'g'ri javobi — Murakkabguldoshlar (Qoqidoshlar). Ushbu ta'rif Murakkabguldoshlar (Qoqidoshlar)ga tegishli."
     },
@@ -9244,6 +9628,7 @@ const biologiya = {
           "text": "Biologiyada 'Bug'doydoshlar (Boshoqdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Bug'doydoshlar (Boshoqdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don. Bug'doydoshlar (Boshoqdoshlar) - Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don."
     },
@@ -9268,6 +9653,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don'?» savolining to'g'ri javobi — Bug'doydoshlar (Boshoqdoshlar). Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
     },
@@ -9292,6 +9678,7 @@ const biologiya = {
           "text": "Charlz Darvin fikricha evolutsiyaning harakatlantiruvchi asosiy kuchi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Loladoshlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Oddiy gulqo'rg'onli (O3+3 Ch3+3 U(3)), mevasi ko'sakcha, piyozboshli. Loladoshlar - Oddiy gulqo'rg'onli (O3+3 Ch3+3 U(3)), mevasi ko'sakcha, piyozboshli."
     },
@@ -9316,6 +9703,7 @@ const biologiya = {
           "text": "Biologiyada 'D vitamini (kalsiferol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Oddiy gulqo'rg'onli (O3+3 Ch3+3 U(3)), mevasi ko'sakcha, piyozboshli'?» savolining to'g'ri javobi — Loladoshlar. Ushbu ta'rif Loladoshlarga tegishli."
     },
@@ -9340,6 +9728,7 @@ const biologiya = {
           "text": "Biologiyada 'Gidra (Bo'shliqichlilar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Gidra (Bo'shliqichlilar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar. Gidra (Bo'shliqichlilar) - Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar."
     },
@@ -9364,6 +9753,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar'?» savolining to'g'ri javobi — Gidra (Bo'shliqichlilar). Ushbu ta'rif Gidra (Bo'shliqichlilar)ga tegishli."
     },
@@ -9388,6 +9778,7 @@ const biologiya = {
           "text": "Inson miyasining muvozanat va harakatlarni muvofiqlashtiruvchi bo'limi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Oq planariya (Yassi chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima). Oq planariya (Yassi chuvalchanglar) - Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)."
     },
@@ -9412,6 +9803,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)'?» savolining to'g'ri javobi — Oq planariya (Yassi chuvalchanglar). Ushbu ta'rif Oq planariya (Yassi chuvalchanglar)ga tegishli."
     },
@@ -9436,6 +9828,7 @@ const biologiya = {
           "text": "Malyariya plazmodiysining oraliq xo'jayini kim hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Odam askaridasi (To'garak chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli. Odam askaridasi (To'garak chuvalchanglar) - Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli."
     },
@@ -9460,6 +9853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli'?» savolining to'g'ri javobi — Odam askaridasi (To'garak chuvalchanglar). Ushbu ta'rif Odam askaridasi (To'garak chuvalchanglar)ga tegishli."
     },
@@ -9484,6 +9878,7 @@ const biologiya = {
           "text": "Biologiyada 'Ribosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Yomg'ir chuvalchangi (Halqali chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi. Yomg'ir chuvalchangi (Halqali chuvalchanglar) - Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi."
     },
@@ -9508,6 +9903,7 @@ const biologiya = {
           "text": "Gipofiz gormonlari sekretsiyasini boshqaruvchi neyrogormonlar qayerda ishlab chiqariladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi'?» savolining to'g'ri javobi — Yomg'ir chuvalchangi (Halqali chuvalchanglar). Ushbu ta'rif Yomg'ir chuvalchangi (Halqali chuvalchanglar)ga tegishli."
     },
@@ -9532,6 +9928,7 @@ const biologiya = {
           "text": "Biologiyada 'Daryo qisqichbaqasi (Qisqichbaqasimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Daryo qisqichbaqasi (Qisqichbaqasimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi. Daryo qisqichbaqasi (Qisqichbaqasimonlar) - Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi."
     },
@@ -9556,6 +9953,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi'?» savolining to'g'ri javobi — Daryo qisqichbaqasi (Qisqichbaqasimonlar). Ushbu ta'rif Daryo qisqichbaqasi (Qisqichbaqasimonlar)ga tegishli."
     },
@@ -9580,6 +9978,7 @@ const biologiya = {
           "text": "Biologiyada 'Butli o'rgimchak (O'rgimchaksimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Butli o'rgimchak (O'rgimchaksimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar. Butli o'rgimchak (O'rgimchaksimonlar) - 4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar."
     },
@@ -9604,6 +10003,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar'?» savolining to'g'ri javobi — Butli o'rgimchak (O'rgimchaksimonlar). Ushbu ta'rif Butli o'rgimchak (O'rgimchaksimonlar)ga tegishli."
     },
@@ -9628,6 +10028,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'May qo'ng'izi (Hasharotlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi. May qo'ng'izi (Hasharotlar) - Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi."
     },
@@ -9652,6 +10053,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi'?» savolining to'g'ri javobi — May qo'ng'izi (Hasharotlar). Ushbu ta'rif May qo'ng'izi (Hasharotlar)ga tegishli."
     },
@@ -9676,6 +10078,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Lansetnik (Boshskeletlilar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri). Lansetnik (Boshskeletlilar) - Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)."
     },
@@ -9700,6 +10103,7 @@ const biologiya = {
           "text": "Kichik (o'pka) qon aylanish doirasi yurakning qaysi kamerasidan boshlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)'?» savolining to'g'ri javobi — Lansetnik (Boshskeletlilar). Ushbu ta'rif Lansetnik (Boshskeletlilar)ga tegishli."
     },
@@ -9724,6 +10128,7 @@ const biologiya = {
           "text": "Qonda kislorod tashishda ishtirok etuvchi hujayralar qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Suvda va quruqlikda yashovchilar (Amfibiyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam. Suvda va quruqlikda yashovchilar (Amfibiyalar) - 3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam."
     },
@@ -9748,6 +10153,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam'?» savolining to'g'ri javobi — Suvda va quruqlikda yashovchilar (Amfibiyalar). Ushbu ta'rif Suvda va quruqlikda yashovchilar (Amfibiyalar)ga tegishli."
     },
@@ -9772,6 +10178,7 @@ const biologiya = {
           "text": "Qon plazmasidagi qaysi eruvchan oqsil qon iviganda erimaydigan fibringa aylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Sudralib yuruvchilar (Reptiliyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali. Sudralib yuruvchilar (Reptiliyalar) - 3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali."
     },
@@ -9796,6 +10203,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomologik organlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali'?» savolining to'g'ri javobi — Sudralib yuruvchilar (Reptiliyalar). Ushbu ta'rif Sudralib yuruvchilar (Reptiliyalar)ga tegishli."
     },
@@ -9820,6 +10228,7 @@ const biologiya = {
           "text": "Biologiyada 'Qushlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Qushlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas). Qushlar - 4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)."
     },
@@ -9844,6 +10253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)'?» savolining to'g'ri javobi — Qushlar. Ushbu ta'rif Qushlarga tegishli."
     },
@@ -9868,6 +10278,7 @@ const biologiya = {
           "text": "'Har bir hujayra mavjud hujayraning bo'linishidan hosil bo'ladi' (Omnis cellula e cellula) qoidasini kim kiritgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Sutemizuvchilar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan. Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
     },
@@ -9892,6 +10303,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan'?» savolining to'g'ri javobi — Sutemizuvchilar. Ushbu ta'rif Sutemizuvchilarga tegishli."
     },
@@ -9916,6 +10328,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Gomozigota genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bir xil allel genlarga ega organizm (masalan, AA yoki aa). Gomozigota genotip - Bir xil allel genlarga ega organizm (masalan, AA yoki aa)."
     },
@@ -9940,6 +10353,7 @@ const biologiya = {
           "text": "Odam kariotipida jami nechta xromosoma mavjud?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bir xil allel genlarga ega organizm (masalan, AA yoki aa)'?» savolining to'g'ri javobi — Gomozigota genotip. Ushbu ta'rif Gomozigota genotipga tegishli."
     },
@@ -9964,6 +10378,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomozigota genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Geterozigota genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har xil allel genlarga ega organizm (masalan, Aa). Geterozigota genotip - Har xil allel genlarga ega organizm (masalan, Aa)."
     },
@@ -9988,6 +10403,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har xil allel genlarga ega organizm (masalan, Aa)'?» savolining to'g'ri javobi — Geterozigota genotip. Ushbu ta'rif Geterozigota genotipga tegishli."
     },
@@ -10012,6 +10428,7 @@ const biologiya = {
           "text": "Biologiyada 'Fenotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Fenotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Organizmning barcha tashqi va ichki belgilari hamda xususiyatlari yig'indisi. Fenotip - Organizmning barcha tashqi va ichki belgilari hamda xususiyatlari yig'indisi."
     },
@@ -10036,6 +10453,7 @@ const biologiya = {
           "text": "Mitoz bo'linishning qaysi fazasida xromosomalar ekvator tekisligida tiziladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmning barcha tashqi va ichki belgilari hamda xususiyatlari yig'indisi'?» savolining to'g'ri javobi — Fenotip. Ushbu ta'rif Fenotipga tegishli."
     },
@@ -10060,6 +10478,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi. Genotip - Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi."
     },
@@ -10084,6 +10503,7 @@ const biologiya = {
           "text": "Biologiyada 'Ituzumdoshlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi'?» savolining to'g'ri javobi — Genotip. Ushbu ta'rif Genotipga tegishli."
     },
@@ -10108,6 +10528,7 @@ const biologiya = {
           "text": "Biologiyada 'Kariotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Kariotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli. Kariotip - Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli."
     },
@@ -10132,6 +10553,7 @@ const biologiya = {
           "text": "Biologiyada 'Krestguldoshlar (Karamdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli'?» savolining to'g'ri javobi — Kariotip. Ushbu ta'rif Kariotipga tegishli."
     },
@@ -10156,6 +10578,7 @@ const biologiya = {
           "text": "Ildiz meva hosil qiluvchi o'simliklar qatorini toping:"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'To'liqsiz dominantlik (oraliq irsiylanish)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi). To'liqsiz dominantlik (oraliq irsiylanish) - Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)."
     },
@@ -10180,6 +10603,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)'?» savolining to'g'ri javobi — To'liqsiz dominantlik. Ushbu ta'rif To'liqsiz dominantlik (oraliq irsiylanish)ga tegishli."
     },
@@ -10204,6 +10628,7 @@ const biologiya = {
           "text": "Biologiyada 'Kodominantlik'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Kodominantlik'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ikkala allel genning ham fenotipda to'liq namoyon bo'lishi (masalan, IV (AB) qon guruhi). Kodominantlik - Ikkala allel genning ham fenotipda to'liq namoyon bo'lishi (masalan, IV (AB) qon guruhi)."
     },
@@ -10228,6 +10653,7 @@ const biologiya = {
           "text": "Hujayra nazariyasining asoschilari kimlar?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ikkala allel genning ham fenotipda to'liq namoyon bo'lishi (masalan, IV (AB) qon guruhi)'?» savolining to'g'ri javobi — Kodominantlik. Ushbu ta'rif Kodominantlikga tegishli."
     },
@@ -10252,6 +10678,7 @@ const biologiya = {
           "text": "Biologiyada 'Komplementarlik'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Komplementarlik'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi. Komplementarlik - Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi."
     },
@@ -10276,6 +10703,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi'?» savolining to'g'ri javobi — Komplementarlik. Ushbu ta'rif Komplementarlikga tegishli."
     },
@@ -10300,6 +10728,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Epistaz'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi). Epistaz - Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)."
     },
@@ -10324,6 +10753,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)'?» savolining to'g'ri javobi — Epistaz. Ushbu ta'rif Epistazga tegishli."
     },
@@ -10348,6 +10778,7 @@ const biologiya = {
           "text": "Biologiyada 'Peroksisoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Polimeriya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ). Polimeriya - Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ)."
     },
@@ -10372,6 +10803,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ)'?» savolining to'g'ri javobi — Polimeriya. Ushbu ta'rif Polimeriyaga tegishli."
     },
@@ -10396,6 +10828,7 @@ const biologiya = {
           "text": "Biologiyada 'Qushlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Pleiotropiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi. Pleiotropiya - Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi."
     },
@@ -10420,6 +10853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi'?» savolining to'g'ri javobi — Pleiotropiya. Ushbu ta'rif Pleiotropiyaga tegishli."
     },
@@ -10444,6 +10878,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Gomologik organlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi). Gomologik organlar - Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi)."
     },
@@ -10468,6 +10903,7 @@ const biologiya = {
           "text": "Biologiyada 'Qalqonsimon bez'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi)'?» savolining to'g'ri javobi — Gomologik organlar. Ushbu ta'rif Gomologik organlarga tegishli."
     },
@@ -10492,6 +10928,7 @@ const biologiya = {
           "text": "Fotosintez jarayoni qaysi organoidda kechadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Analogik organlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi). Analogik organlar - Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)."
     },
@@ -10516,6 +10953,7 @@ const biologiya = {
           "text": "Biologiyada 'Ayirish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)'?» savolining to'g'ri javobi — Analogik organlar. Ushbu ta'rif Analogik organlarga tegishli."
     },
@@ -10540,6 +10978,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Rudimentlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi). Rudimentlar - Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)."
     },
@@ -10564,6 +11003,7 @@ const biologiya = {
           "text": "Biologiyada 'Ribosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)'?» savolining to'g'ri javobi — Rudimentlar. Ushbu ta'rif Rudimentlarga tegishli."
     },
@@ -10588,6 +11028,7 @@ const biologiya = {
           "text": "Biologiyada 'Atavizm'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Biologiyada 'Atavizm'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum). Atavizm - Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)."
     },
@@ -10612,6 +11053,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)'?» savolining to'g'ri javobi — Atavizm. Ushbu ta'rif Atavizmga tegishli."
     },
@@ -10636,6 +11078,7 @@ const biologiya = {
           "text": "Biologiyada 'Bug'doydoshlar (Boshoqdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Aromorfoz'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish. Aromorfoz - Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish."
     },
@@ -10660,6 +11103,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish'?» savolining to'g'ri javobi — Aromorfoz. Ushbu ta'rif Aromorfozga tegishli."
     },
@@ -10684,6 +11128,7 @@ const biologiya = {
           "text": "Sutemizuvchilar yuragi necha kamerali va qaysi aorta ravog'iga ega?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Biologiyada 'Idioadaptatsiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi). Idioadaptatsiya - Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)."
     },
@@ -10708,6 +11153,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)'?» savolining to'g'ri javobi — Idioadaptatsiya. Ushbu ta'rif Idioadaptatsiyaga tegishli."
     },
@@ -10732,6 +11178,7 @@ const biologiya = {
           "text": "Biologiyada 'Hazm fermenti Amilaza (ptialin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Umumiy degeneratsiya (katamorfoz)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi). Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
     },
@@ -10756,6 +11203,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)'?» savolining to'g'ri javobi — Umumiy degeneratsiya (katamorfoz). Ushbu ta'rif Umumiy degeneratsiya (katamorfoz)ga tegishli."
     },
@@ -10780,6 +11228,7 @@ const biologiya = {
           "text": "Sog'lom odam siydigida qaysi moddalar bo'lmasligi kerak?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Divergensiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi. Divergensiya - Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi."
     },
@@ -10804,6 +11253,7 @@ const biologiya = {
           "text": "Inson tanasidagi eng yirik organ qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi'?» savolining to'g'ri javobi — Divergensiya. Ushbu ta'rif Divergensiyaga tegishli."
     },
@@ -10828,6 +11278,7 @@ const biologiya = {
           "text": "Biologiyada 'Genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Konvergensiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula). Konvergensiya - Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)."
     },
@@ -10852,6 +11303,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)'?» savolining to'g'ri javobi — Konvergensiya. Ushbu ta'rif Konvergensiyaga tegishli."
     },
@@ -10876,6 +11328,7 @@ const biologiya = {
           "text": "Biologiyada 'II (A) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Biogenetik qonun (Gekkel-Myuller)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi. Biogenetik qonun (Gekkel-Myuller) - Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi."
     },
@@ -10900,6 +11353,7 @@ const biologiya = {
           "text": "Mitoxondriyaning ichki membranasi hosil qilgan burmalar nima deb ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi'?» savolining to'g'ri javobi — Biogenetik qonun (Gekkel-Myuller). Ushbu ta'rif Biogenetik qonun (Gekkel-Myuller)ga tegishli."
     },
@@ -10924,6 +11378,7 @@ const biologiya = {
           "text": "Tarixda ilk bor chechak kasalligiga qarshi vaksina qo'llagan ingliz shifokori kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Biologiyada 'Hardy-Vaynberg qonuni'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi. Hardy-Vaynberg qonuni - Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi."
     },
@@ -10948,6 +11403,7 @@ const biologiya = {
           "text": "Odam kariotipida jami nechta xromosoma mavjud?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi'?» savolining to'g'ri javobi — Hardy-Vaynberg qonuni. Ushbu ta'rif Hardy-Vaynberg qonuniga tegishli."
     },
@@ -10972,6 +11428,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biologiyada 'Vavilovning gomologik qatorlar qonuni'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi. Vavilovning gomologik qatorlar qonuni - Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi."
     },
@@ -10996,6 +11453,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi'?» savolining to'g'ri javobi — Vavilovning gomologik qatorlar qonuni. Ushbu ta'rif Vavilovning gomologik qatorlar qonuniga tegishli."
     },
@@ -11020,6 +11478,7 @@ const biologiya = {
           "text": "Ikkilamchi siydik nefronning qaysi qismida reabsorbsiya jarayonidan so'ng hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«DNK ning ikkilamchi spiral strukturasini 1953-yilda kimlar kashf qilgan?» savolining to'g'ri javobi — J. Uotson va F. Krik. Uotson va Krik DNK qo'sh spiralini yaratgan."
     },
@@ -11044,6 +11503,7 @@ const biologiya = {
           "text": "Biologiyada 'Biogenetik qonun (Gekkel-Myuller)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Hujayra nazariyasining asoschilari kimlar?» savolining to'g'ri javobi — M. Shleyden va T. Shvann (1838-1839). Shleyden va Shvann hujayra nazariyasini asoslagan."
     },
@@ -11068,6 +11528,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«'Har bir hujayra mavjud hujayraning bo'linishidan hosil bo'ladi' (Omnis cellula e cellula) qoidasini kim kiritgan?» savolining to'g'ri javobi — Rudolf Virxov (1858-yilda). Virxov hujayra nazariyasini to'ldirdi."
     },
@@ -11092,6 +11553,7 @@ const biologiya = {
           "text": "O'simliklarda suv tomchilarining barg qirralaridagi gidatodalar orqali ajralishi nima?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Tirik hujayralarni (bakteriya, bir hujayrali jonivorlar, spermatozoid) ilk bor mikroskopda ko'rgan olim kim?» savolining to'g'ri javobi — Antoni van Levenguk. Levenguk sodda organizmlarni kashf etdi."
     },
@@ -11116,6 +11578,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Hujayrada yadroni 1831-yilda birinchi bo'lib kashf etgan ingliz botanigi kim?» savolining to'g'ri javobi — Robert Broun. Broun o'simlik hujayralarida yadroni topgan."
     },
@@ -11140,6 +11603,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Viruslarni 1892-yilda tamaki mozaikasi kasalligini o'rganishda kashf etgan rus olimi kim?» savolining to'g'ri javobi — D.I. Ivanovskiy. Ivanovskiy virusologiya faniga asos soldi."
     },
@@ -11164,6 +11628,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fagotsitoz hodisasini va hujayraviy immunitetni kim kashf etgan?» savolining to'g'ri javobi — I.I. Mechnikov. Mechnikov 1908-yilda Nobel mukofotini olgan."
     },
@@ -11188,6 +11653,7 @@ const biologiya = {
           "text": "Tirik hujayralarni (bakteriya, bir hujayrali jonivorlar, spermatozoid) ilk bor mikroskopda ko'rgan olim kim?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quturish va kuydirgi kasalliklariga qarshi ilk vaksinalarni yaratgan olim kim?» savolining to'g'ri javobi — Lui Paster. Lui Paster vaksinalar tayyorlash usulini ochdi."
     },
@@ -11212,6 +11678,7 @@ const biologiya = {
           "text": "Tarixda ilk bor chechak kasalligiga qarshi vaksina qo'llagan ingliz shifokori kim?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tarixda ilk bor chechak kasalligiga qarshi vaksina qo'llagan ingliz shifokori kim?» savolining to'g'ri javobi — Eduard Jenner (1796-yilda). Jenner sigir chechagi orqali odamni emlagan."
     },
@@ -11236,6 +11703,7 @@ const biologiya = {
           "text": "Biologiyada 'Yomg'ir chuvalchangi (Halqali chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Penitsillin antibiotigini 1928-yilda zamburug'dan ajratib olgan olim kim?» savolining to'g'ri javobi — Aleksandr Fleming. Fleming Penicillium zamburug'idan penitsillin oldi."
     },
@@ -11260,6 +11728,7 @@ const biologiya = {
           "text": "Biologiyada 'Rezus-omil (Rh)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tuberkulyoz (sil) qo'zg'atuvchisini kashf qilgan olim kim?» savolining to'g'ri javobi — Robert Kox (Kox tayoqchasi). Robert Kox sil bakteriyasini topdi."
     },
@@ -11284,6 +11753,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Odam organizmida qon guruhlarini (AB0 tizimi) 1900-yilda kashf etgan avstriyalik olim kim?» savolining to'g'ri javobi — Karl Landshteyner. Landshteyner qon guruhlarini ajratdi."
     },
@@ -11308,6 +11778,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Gulli o'simliklarda changlanish va urug'lanishdan so'ng tuguncha devoridan nima hosil bo'ladi?» savolining to'g'ri javobi — Meva pallasi (perikarp). Tuguncha devoridan meva hosil bo'ladi."
     },
@@ -11332,6 +11803,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Urug'kurtakdan nima rivojlanadi?» savolining to'g'ri javobi — Urug'. Urug'kurtak urug'ga aylanadi."
     },
@@ -11356,6 +11828,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'simliklarda suvning barglar orqali bug'lanishi nima deb ataladi?» savolining to'g'ri javobi — Transpiratsiya. Transpiratsiya o'simlikni sovutadi va suv oqimini ta'minlaydi."
     },
@@ -11380,6 +11853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«O'simliklarda suv tomchilarining barg qirralaridagi gidatodalar orqali ajralishi nima?» savolining to'g'ri javobi — Gutatsiya. Gutatsiya havoda namlik yuqori bo'lganda kuzatiladi."
     },
@@ -11404,6 +11878,7 @@ const biologiya = {
           "text": "Yurak sikli tinch holatda qancha vaqt davom etadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Xlorofill pigmenti molekulasi markazida qaysi metall ioni joylashgan?» savolining to'g'ri javobi — Magniy (Mg2+). Xlorofill markazida magniy atomi bo'ladi."
     },
@@ -11428,6 +11903,7 @@ const biologiya = {
           "text": "Biologiyada 'Burchoqdoshlar (Dukkakdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Gemoglobin oqsili tarkibidagi gem guruhining markazida qaysi metall ioni mavjud?» savolining to'g'ri javobi — Temir (Fe2+). Gemoglobinda temir kislorodni biriktiradi."
     },
@@ -11452,6 +11928,7 @@ const biologiya = {
           "text": "Biologiyada 'Pleiotropiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Qon plazmasidagi qaysi eruvchan oqsil qon iviganda erimaydigan fibringa aylanadi?» savolining to'g'ri javobi — Fibrinogen. Fibrinogen trombin ta'sirida fibringa o'tadi."
     },
@@ -11476,6 +11953,7 @@ const biologiya = {
           "text": "Tuberkulyoz (sil) qo'zg'atuvchisini kashf qilgan olim kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Odamda qon yaratuvchi asosiy a'zo qaysi?» savolining to'g'ri javobi — Qizil ilik (suyak ko'migi). Qizil ilik barcha qon hujayralarini hosil qiladi."
     },
@@ -11500,6 +11978,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Eritrotsitlarning o'rtacha umr ko'rish davomiyligi qancha?» savolining to'g'ri javobi — 120 kun (taxminan 4 oy). Keksaygan eritrotsitlar taloq va jigarda parchalanadi."
     },
@@ -11524,6 +12003,7 @@ const biologiya = {
           "text": "Biologiyada 'Daryo qisqichbaqasi (Qisqichbaqasimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qon hujayralarining parchalanishi asosan qaysi organlarda kechadi?» savolining to'g'ri javobi — Taloq va jigarda. Taloq 'eritrotsitlar qabristoni' deyiladi."
     },
@@ -11548,6 +12028,7 @@ const biologiya = {
           "text": "Yurakning o'zini qon bilan ta'minlovchi maxsus arteriyalar nima deb ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Yurakning o'zini qon bilan ta'minlovchi maxsus arteriyalar nima deb ataladi?» savolining to'g'ri javobi — Tojsimon (koronar) arteriyalar. Koronar tomirlar yurak miokardini oziqlantiradi."
     },
@@ -11572,6 +12053,7 @@ const biologiya = {
           "text": "Sutemizuvchilar yuragi necha kamerali va qaysi aorta ravog'iga ega?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yurak sikli tinch holatda qancha vaqt davom etadi?» savolining to'g'ri javobi — 0.8 soniya. Bo'lmachalar sistolasi 0.1s, qorinchalar sistolasi 0.3s, umumiy pauza 0.4s."
     },
@@ -11596,6 +12078,7 @@ const biologiya = {
           "text": "Gipofiz bezining oldingi bo'lagi ishlab chiqaradigan o'sish gormoni qanday nomlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Oshqozon shirasidagi xlorid kislotasi (HCl) qanday biologik vazifalarni bajaradi?» savolining to'g'ri javobi — Pepsinni faollashtiradi va bakteritsid ta'sir ko'rsatadi. HCl kuchli kislotali muhit va bakteritsid ta'sir ko'rsatadi."
     },
@@ -11620,6 +12103,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Hujayra shirasini saqlash, turgor bosimini ta'minlash'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Ingichka ichak shilliq qavatidagi vorsinkalar qanday asosiy vazifani bajaradi?» savolining to'g'ri javobi — So'rilish yuzasini yuzlab barobar kengaytiradi. Vorsinkalar oziq moddalarni qon va limfaga so'radi."
     },
@@ -11644,6 +12128,7 @@ const biologiya = {
           "text": "Biologiyada 'Biogenetik qonun (Gekkel-Myuller)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Oziq moddalardan aminokislotalar va glyukoza vorsinkalardan qayerga so'riladi?» savolining to'g'ri javobi — Qon kapillyarlariga. Glyukoza va aminokislotalar qonga, yog' kislotalari limfaga so'riladi."
     },
@@ -11668,6 +12153,7 @@ const biologiya = {
           "text": "Biologiyada 'Endoplazmatik to'r (silliq)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Yog'larning parchalanish mahsulotlari ichak vorsinkalaridan qayerga o'tadi?» savolining to'g'ri javobi — Limfa kapillyarlariga. Yog'lar avval limfaga o'tadi."
     },
@@ -11692,6 +12178,7 @@ const biologiya = {
           "text": "Charlz Darvin fikricha evolutsiyaning harakatlantiruvchi asosiy kuchi nima?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Odam tanasida termoregulyatsiya markazi miyaning qaysi qismida joylashgan?» savolining to'g'ri javobi — Gipotalamusda (oraliq miya). Gipotalamus tana haroratini boshqaradi."
     },
@@ -11716,6 +12203,7 @@ const biologiya = {
           "text": "Biologiyada 'O't suyuqligi (safro)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Gipofiz gormonlari sekretsiyasini boshqaruvchi neyrogormonlar qayerda ishlab chiqariladi?» savolining to'g'ri javobi — Gipotalamusda. Gipotalamo-gipofizar tizim."
     },
@@ -11740,6 +12228,7 @@ const biologiya = {
           "text": "Sutemizuvchilar yuragi necha kamerali va qaysi aorta ravog'iga ega?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Ikkilamchi siydik nefronning qaysi qismida reabsorbsiya jarayonidan so'ng hosil bo'ladi?» savolining to'g'ri javobi — Nefron naychalarida (Genle halqasida). Birlamchi siydikdan suv va foydali moddalar qayta so'riladi."
     },
@@ -11764,6 +12253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Sog'lom odamda sutkasiga qancha birlamchi siydik hosil bo'ladi?» savolining to'g'ri javobi — 150-180 litr. Birlamchi siydik 150-180 L, ikkilamchi siydik esa 1.5 L."
     },
@@ -11788,6 +12278,7 @@ const biologiya = {
           "text": "Sog'lom odamda sutkasiga qancha birlamchi siydik hosil bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Sog'lom odam siydigida qaysi moddalar bo'lmasligi kerak?» savolining to'g'ri javobi — Oqsil va glyukoza. Oqsil va qand paydo bo'lishi kasallik belgisidir."
     },
@@ -11812,6 +12303,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Oq planariya (Yassi chuvalchanglar) uchun xarakterli bo‘lgan asosiy biologik belgilar qaysi javobda to‘g‘ri ko‘rsatilgan?» savolining to'g'ri javobi — Ikki tomonlama simmetriya, uch qavatli tana va tana bo‘shlig‘ining yo‘qligi (parenxima). Oq planariya yassi chuvalchanglar tipiga kiradi: tanasi ikki tomonlama (bilateral) simmetriyali, uch qavatli (ektoderma, entoderma, mezoderma) bo‘lib, tana bo‘shlig‘i bo‘lmaydi, ichki a'zolar oralig‘i biriktiruvchi to‘qima — parenxima bilan to‘lgan."
     },
@@ -11836,6 +12328,7 @@ const biologiya = {
           "text": "Eritrotsitlarning o'rtacha umr ko'rish davomiyligi qancha?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mitoxondriya ATF sintezlaydi."
     },
@@ -11860,6 +12353,7 @@ const biologiya = {
           "text": "Qonda kislorod tashishda ishtirok etuvchi hujayralar qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eritrotsitlar gemoglobin orqali kislorod tashiydi."
     },
@@ -11884,6 +12378,7 @@ const biologiya = {
           "text": "Fotosintez jarayoni qaysi organoidda kechadi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Xloroplastlarda fotosintez boradi."
     },
@@ -11908,6 +12403,7 @@ const biologiya = {
           "text": "Biologiyada 'Hujayra markazi (Sentrosoma)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "Teri maydoni va og'irligi bo'yicha eng yirik organdir."
     },
@@ -11932,6 +12428,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Mitoxondriyada ATF sintezlanadi."
     },
@@ -11956,6 +12453,7 @@ const biologiya = {
           "text": "Oqsil biosintezi (translyatsiya) hujayraning qaysi membranasiz organoidida amalga oshadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ribosoma oqsil biosintezini ta'minlaydi."
     },
@@ -11980,6 +12478,7 @@ const biologiya = {
           "text": "Rang ajratish uchun mas'ul bo'lgan ko'z retseptorlari qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lizosoma gidrolitik fermentlarga boy."
     },
@@ -12004,6 +12503,7 @@ const biologiya = {
           "text": "O'simlik hujayrasiga mustahkamlik beruvchi qobiq asosan qaysi polisaxariddan tashkil topgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'simlik qobig'i sellyulozadan iborat."
     },
@@ -12028,6 +12528,7 @@ const biologiya = {
           "text": "Zamburug'lar hujayra qobig'ida qaysi polisaxarid mavjud?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Zamburug'larda xitin bo'ladi."
     },
@@ -12052,6 +12553,7 @@ const biologiya = {
           "text": "Bakteriyalar (prokariotlar) hujayra devori qaysi moddadan tuzilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bakteriyalar qobig'i mureindan iborat."
     },
@@ -12076,6 +12578,7 @@ const biologiya = {
           "text": "DNK molekulasida adenin (A) nukleotidiga komplementar bo'lgan azot asosi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "DNK da A=T qo'sh vodorod bog'i bilan bog'lanadi."
     },
@@ -12100,6 +12603,7 @@ const biologiya = {
           "text": "Buyrakning morfologik va funksional birligi nima deb ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "RNK tarkibida timin o'rniga uratsil bo'ladi."
     },
@@ -12124,6 +12628,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "G va S orasida 3 ta vodorod bog'i mavjud."
     },
@@ -12148,6 +12653,7 @@ const biologiya = {
           "text": "Fagotsitoz hodisasini va hujayraviy immunitetni kim kashf etgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Yorug'lik bosqichi tilakoidlarda kechadi."
     },
@@ -12172,6 +12678,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Pellagra kasalligi (dermatit, diareya, demensiya)'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Qorong'ilik bosqichi stromada kechadi."
     },
@@ -12196,6 +12703,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kristalar ichki sathni kengaytiradi."
     },
@@ -12220,6 +12728,7 @@ const biologiya = {
           "text": "Mitoz bo'linishning qaysi fazasida xromosomalar ekvator tekisligida tiziladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Metafazada xromosomalar ekvatorga keladi."
     },
@@ -12244,6 +12753,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Anafazada qutblarga tortiladi."
     },
@@ -12268,6 +12778,7 @@ const biologiya = {
           "text": "Fotosintezning qorong'ilik bosqichi (Kalvin sikli) xloroplastning qayerida boradi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Krossingover genlar almashinuvidir."
     },
@@ -12292,6 +12803,7 @@ const biologiya = {
           "text": "Qonda kislorod va karbonat angidridni tashuvchi gemoglobinga ega yadrosiz qon shaklli elementi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Eritrotsitlar gazlarni tashiydi."
     },
@@ -12316,6 +12828,7 @@ const biologiya = {
           "text": "Inson tanasidagi eng yirik ichki a'zo (bez) qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jigar eng yirik bezdir."
     },
@@ -12340,6 +12853,7 @@ const biologiya = {
           "text": "Inson tanasidagi eng katta tashqi a'zo nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Teri umumiy maydoni va vazni bilan eng yirik organdir."
     },
@@ -12364,6 +12878,7 @@ const biologiya = {
           "text": "Mendelning birinchi qonuni qanday nomlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Trombotsitlar qon ivishini ta'minlaydi."
     },
@@ -12388,6 +12903,7 @@ const biologiya = {
           "text": "Bakteriyalar (prokariotlar) hujayra devori qaysi moddadan tuzilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aorta chap qorinchadan chiqadi."
     },
@@ -12412,6 +12928,7 @@ const biologiya = {
           "text": "Biologiyada 'C vitamini (askorbin kislota)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'pka arteriyasi o'ng qorinchadan boshlanadi."
     },
@@ -12436,6 +12953,7 @@ const biologiya = {
           "text": "Sog'lom odam siydigida qaysi moddalar bo'lmasligi kerak?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bo'lmacha va qorincha orasida tabaqali klapanlar joylashgan."
     },
@@ -12460,6 +12978,7 @@ const biologiya = {
           "text": "Qon bosimi eng past bo'lgan qon tomirlari qaysilar?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kavak venalarda bosim nol yoki manfiy bo'ladi."
     },
@@ -12484,6 +13003,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Mitoz va meyoz bo'linish dukini hosil qilish'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Miyacha muvozanat markazi hisoblanadi."
     },
@@ -12508,6 +13028,7 @@ const biologiya = {
           "text": "Biologiyada 'K vitamini (filloxinon)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Uzunchoq miya hayotiy reflektor markazdir."
     },
@@ -12532,6 +13053,7 @@ const biologiya = {
           "text": "Ko'rish retseptorlari (tayoqcha va kolbachalar) ko'zning qaysi pardasida joylashgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'r pardada fotoretseptorlar bo'ladi."
     },
@@ -12556,6 +13078,7 @@ const biologiya = {
           "text": "Odamda qon yaratuvchi asosiy a'zo qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kolbachalar yorug'likda ranglarni ajratadi."
     },
@@ -12580,6 +13103,7 @@ const biologiya = {
           "text": "Qorong'ida ko'rishni ta'minlovchi rodopsin pigmenti sintezi uchun qaysi vitamin zarur?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "A vitamini yetishmasa shabko'rlik yuzaga keladi."
     },
@@ -12604,6 +13128,7 @@ const biologiya = {
           "text": "Biologiyada 'Umumiy degeneratsiya (katamorfoz)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Insulin oshqozon osti bezining beta-hujayralarida ishlab chiqariladi."
     },
@@ -12628,6 +13153,7 @@ const biologiya = {
           "text": "Biologiyada 'Murakkabguldoshlar (Qoqidoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "STG suyak va mushaklar o'sishini boshqaradi."
     },
@@ -12652,6 +13178,7 @@ const biologiya = {
           "text": "Inson tanasidagi eng yirik ichki a'zo (bez) qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Nefron siydik hosil qilish birligidir."
     },
@@ -12676,6 +13203,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ)'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Mendel 1865-yilda irsiyat qonunlarini kashf etdi."
     },
@@ -12700,6 +13228,7 @@ const biologiya = {
           "text": "Mendelning birinchi qonuni qanday nomlanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Birinchi avlodda barcha duragaylar bir xil fenotipga ega bo'ladi."
     },
@@ -12724,6 +13253,7 @@ const biologiya = {
           "text": "Mendelning ikkinchi qonuni bo'yicha monoduragay chatishtirishda F2 avlodda fenotip bo'yicha ajralish nisbati qanday?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fenotip bo'yicha 3 ta dominant va 1 ta retsessiv."
     },
@@ -12748,6 +13278,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomozigota genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Morgan birikkan genlar qonuniyatini yaratdi."
     },
@@ -12772,6 +13303,7 @@ const biologiya = {
           "text": "Qon bosimi eng past bo'lgan qon tomirlari qaysilar?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "22 juft autosoma va 1 juft jinsiy xromosoma."
     },
@@ -12796,6 +13328,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "21-xromosoma bo'yicha trisomiya (47 xromosoma)."
     },
@@ -12820,6 +13353,7 @@ const biologiya = {
           "text": "Biologiyada 'A vitamini (retinol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Vavilov 7 ta asosiy gen-markazni asoslab bergan."
     },
@@ -12844,6 +13378,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Xavfli kamqonlik (anemiya)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ksilema o'suvchi oqimni ta'minlaydi."
     },
@@ -12868,6 +13403,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Floema tushuvchi oqimni o'tkazadi."
     },
@@ -12892,6 +13428,7 @@ const biologiya = {
           "text": "Biologiyada 'Golji majmuasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Navashin liliya va lolada kashf etgan."
     },
@@ -12916,6 +13453,7 @@ const biologiya = {
           "text": "O'simliklarda suv va unda erigan mineral tuzlarni ildizdan bargga tashuvchi o'tkazuvchi to'qima qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Markaziy hujayra (2n) va spermiy (n) qo'shilishidan 3n endosperm hosil bo'ladi."
     },
@@ -12940,6 +13478,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sabzi va lavlagi ildizmevadir (kartoshka tugunak)."
     },
@@ -12964,6 +13503,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Hujayra shirasini saqlash, turgor bosimini ta'minlash'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Evglena aralash oziqlanish xususiyatiga ega."
     },
@@ -12988,6 +13528,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Odam oraliq xo'jayin, jinsiy davri chivinda bo'ladi."
     },
@@ -13012,6 +13553,7 @@ const biologiya = {
           "text": "Biologiyada 'O't suyuqligi (safro)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yassi chuvalchanglarda protonefridiylar bo'ladi."
     },
@@ -13036,6 +13578,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bir xil allel genlarga ega organizm (masalan, AA yoki aa)'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Uchishga moslashuv."
     },
@@ -13060,6 +13603,7 @@ const biologiya = {
           "text": "Eritrotsitlarning o'rtacha umr ko'rish davomiyligi qancha?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qushlarda o'ng, sutemizuvchilarda chap aorta ravog'i."
     },
@@ -13084,6 +13628,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lamark 'Zoologiya falsafasi' asarida evolyutsiya nazariyasini bergan."
     },
@@ -13108,6 +13653,7 @@ const biologiya = {
           "text": "Charlz Darvin fikricha evolutsiyaning harakatlantiruvchi asosiy kuchi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tabiiy tanlanish eng moslashganlarning yashab qolishidir."
     },
@@ -13132,6 +13678,7 @@ const biologiya = {
           "text": "Qonda kislorod tashishda ishtirok etuvchi hujayralar qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Evolutsiya populyatsiya darajasida boshlanadi."
     },
@@ -13156,6 +13703,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Redutsentlar moddalar aylanishini yakunlaydi."
     },
@@ -13180,6 +13728,7 @@ const biologiya = {
           "text": "Gemoglobin oqsili tarkibidagi gem guruhining markazida qaysi metall ioni mavjud?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yadro - Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish."
     },
@@ -13204,6 +13753,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yadroga tegishli."
     },
@@ -13228,6 +13778,7 @@ const biologiya = {
           "text": "Biologiyada 'Mitoxondriya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mitoxondriya - Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish."
     },
@@ -13252,6 +13803,7 @@ const biologiya = {
           "text": "Biologiyada 'Aromorfoz'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Mitoxondriyaga tegishli."
     },
@@ -13276,6 +13828,7 @@ const biologiya = {
           "text": "Ikkilamchi siydik nefronning qaysi qismida reabsorbsiya jarayonidan so'ng hosil bo'ladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Xloroplast - Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash."
     },
@@ -13300,6 +13853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Xloroplastga tegishli."
     },
@@ -13324,6 +13878,7 @@ const biologiya = {
           "text": "Biologiyada 'Endoplazmatik to'r (silliq)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ribosoma - i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash."
     },
@@ -13348,6 +13903,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ribosomaga tegishli."
     },
@@ -13372,6 +13928,7 @@ const biologiya = {
           "text": "Biologiyada 'Golji majmuasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Golji majmuasi - Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish."
     },
@@ -13396,6 +13953,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Golji majmuasiga tegishli."
     },
@@ -13420,6 +13978,7 @@ const biologiya = {
           "text": "Biologiyada 'Endoplazmatik to'r (silliq)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lizosoma - Gidrolitik fermentlar yordamida polimerlarni monomerlargacha parchalash."
     },
@@ -13444,6 +14003,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gidrolitik fermentlar yordamida polimerlarni monomerlargacha parchalash'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lizosomaga tegishli."
     },
@@ -13468,6 +14028,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Endoplazmatik to'r (silliq) - Lipidlar va uglevodlar sintezi hamda moddalar transporti."
     },
@@ -13492,6 +14053,7 @@ const biologiya = {
           "text": "Odam tanasida termoregulyatsiya markazi miyaning qaysi qismida joylashgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Endoplazmatik to'r (silliq)ga tegishli."
     },
@@ -13516,6 +14078,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Endoplazmatik to'r (donador) - Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti."
     },
@@ -13540,6 +14103,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Endoplazmatik to'r (donador)ga tegishli."
     },
@@ -13564,6 +14128,7 @@ const biologiya = {
           "text": "Mendelning birinchi qonuni qanday nomlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Hujayra markazi (Sentrosoma) - Mitoz va meyoz bo'linish dukini hosil qilish."
     },
@@ -13588,6 +14153,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Mitoz va meyoz bo'linish dukini hosil qilish'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hujayra markazi (Sentrosoma)ga tegishli."
     },
@@ -13612,6 +14178,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vakuola (o'simlikda) - Hujayra shirasini saqlash, turgor bosimini ta'minlash."
     },
@@ -13636,6 +14203,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomologik organlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Vakuola (o'simlikda)ga tegishli."
     },
@@ -13660,6 +14228,7 @@ const biologiya = {
           "text": "Biologiyada 'Peroksisoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peroksisoma - Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash."
     },
@@ -13684,6 +14253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Peroksisomaga tegishli."
     },
@@ -13708,6 +14278,7 @@ const biologiya = {
           "text": "Biologiyada 'A vitamini (retinol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "A vitamini (retinol) - Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)."
     },
@@ -13732,6 +14303,7 @@ const biologiya = {
           "text": "Biologiyada 'Timus (ayrisimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif A vitamini (retinol)ga tegishli."
     },
@@ -13756,6 +14328,7 @@ const biologiya = {
           "text": "Hujayra ichi hazm qilish (avtoliz) jarayonini qaysi bir membranali organoid amalga oshiradi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "B1 vitamini (tiamin) - Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)."
     },
@@ -13780,6 +14353,7 @@ const biologiya = {
           "text": "Yog'larning parchalanish mahsulotlari ichak vorsinkalaridan qayerga o'tadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif B1 vitamini (tiamin)ga tegishli."
     },
@@ -13804,6 +14378,7 @@ const biologiya = {
           "text": "Biologiyada 'Bug'doydoshlar (Boshoqdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "C vitamini (askorbin kislota) - Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi."
     },
@@ -13828,6 +14403,7 @@ const biologiya = {
           "text": "Qorong'ida ko'rishni ta'minlovchi rodopsin pigmenti sintezi uchun qaysi vitamin zarur?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif C vitamini (askorbin kislota)ga tegishli."
     },
@@ -13852,6 +14428,7 @@ const biologiya = {
           "text": "Bir hujayrali sodda hayvonlardan qaysi biri yorug'likda fotosintez, qorong'ida geterotrof oziqlanadi (miksotrof)?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "D vitamini (kalsiferol) - Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)."
     },
@@ -13876,6 +14453,7 @@ const biologiya = {
           "text": "Odamda qon yaratuvchi asosiy a'zo qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif D vitamini (kalsiferol)ga tegishli."
     },
@@ -13900,6 +14478,7 @@ const biologiya = {
           "text": "Biologiyada 'Hazm fermenti Pepsin'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "B12 vitamini (kobalamin) - Xavfli kamqonlik (anemiya)."
     },
@@ -13924,6 +14503,7 @@ const biologiya = {
           "text": "Ko'rish retseptorlari (tayoqcha va kolbachalar) ko'zning qaysi pardasida joylashgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif B12 vitamini (kobalamin)ga tegishli."
     },
@@ -13948,6 +14528,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomozigota genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "PP vitamini (nikotin kislota) - Pellagra kasalligi (dermatit, diareya, demensiya)."
     },
@@ -13972,6 +14553,7 @@ const biologiya = {
           "text": "Mitozning qaysi fazasida xromatidalar qarama-qarshi qutblarga ajraladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif PP vitamini (nikotin kislota)ga tegishli."
     },
@@ -13996,6 +14578,7 @@ const biologiya = {
           "text": "Hujayraning “energiya stansiyasi” hisoblangan organoid qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "K vitamini (filloxinon) - Qon ivishining buzilishi va ko'p qon yo'qotish."
     },
@@ -14020,6 +14603,7 @@ const biologiya = {
           "text": "Biologiyada 'May qo'ng'izi (Hasharotlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif K vitamini (filloxinon)ga tegishli."
     },
@@ -14044,6 +14628,7 @@ const biologiya = {
           "text": "Biologiyada 'Qalqonsimon bez'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gipofiz bezi - Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar."
     },
@@ -14068,6 +14653,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gipofiz beziga tegishli."
     },
@@ -14092,6 +14678,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qalqonsimon bez - Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)."
     },
@@ -14116,6 +14703,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Qalqonsimon bezga tegishli."
     },
@@ -14140,6 +14728,7 @@ const biologiya = {
           "text": "Biologiyada 'Buyrak usti bezi po'stloq qismi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Buyrak usti bezi po'stloq qismi - Kortizol, aldosteron va jinsiy gormonlar."
     },
@@ -14164,6 +14753,7 @@ const biologiya = {
           "text": "Biologiyada 'Krestguldoshlar (Karamdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Buyrak usti bezi po'stloq qismiga tegishli."
     },
@@ -14188,6 +14778,7 @@ const biologiya = {
           "text": "Biologiyada 'Buyrak usti bezi mag'iz qismi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
     },
@@ -14212,6 +14803,7 @@ const biologiya = {
           "text": "Meyoz I bo'linishining profaza I bosqichida gomologik xromosomalarning o'zaro chatishishi nima deyiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Buyrak usti bezi mag'iz qismiga tegishli."
     },
@@ -14236,6 +14828,7 @@ const biologiya = {
           "text": "Qon bosimi eng past bo'lgan qon tomirlari qaysilar?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Oshqozon osti bezi (Langergans orolchalari) - Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)."
     },
@@ -14260,6 +14853,7 @@ const biologiya = {
           "text": "Rang ajratish uchun mas'ul bo'lgan ko'z retseptorlari qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Oshqozon osti bezi (Langergans orolchalari)ga tegishli."
     },
@@ -14284,6 +14878,7 @@ const biologiya = {
           "text": "Yopiq urug'li (gulli) o'simliklarda qo'sh urug'lanish hodisasini kim kashf etgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Epifiz (g'uddasimon bez) - Melatonin (kun-tun biologik ritmlarini boshqarish)."
     },
@@ -14308,6 +14903,7 @@ const biologiya = {
           "text": "Hujayra nazariyasining asoschilari kimlar?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Epifiz (g'uddasimon bez)ga tegishli."
     },
@@ -14332,6 +14928,7 @@ const biologiya = {
           "text": "Barglarda hosil bo'lgan organik moddalarni boshqa organlarga eltuvchi to'qima qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Timus (ayrisimon bez) - T-limfotsitlarni yetiltirish va immunitetni ta'minlash."
     },
@@ -14356,6 +14953,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'T-limfotsitlarni yetiltirish va immunitetni ta'minlash'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Timus (ayrisimon bez)ga tegishli."
     },
@@ -14380,6 +14978,7 @@ const biologiya = {
           "text": "Biologiyada 'Idioadaptatsiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "I (0) qon guruhi - Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor."
     },
@@ -14404,6 +15003,7 @@ const biologiya = {
           "text": "Biologiyada 'Hazm fermenti Lipaza'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif I (0) qon guruhiga tegishli."
     },
@@ -14428,6 +15028,7 @@ const biologiya = {
           "text": "Fotosintezning yorug'lik bosqichi xloroplastning qaysi qismida kechadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "II (A) qon guruhi - Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor."
     },
@@ -14452,6 +15053,7 @@ const biologiya = {
           "text": "Inson tanasidagi eng yirik ichki a'zo (bez) qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif II (A) qon guruhiga tegishli."
     },
@@ -14476,6 +15078,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Hujayra shirasini saqlash, turgor bosimini ta'minlash'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "III (B) qon guruhi - Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor."
     },
@@ -14500,6 +15103,7 @@ const biologiya = {
           "text": "Qorong'ida ko'rishni ta'minlovchi rodopsin pigmenti sintezi uchun qaysi vitamin zarur?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif III (B) qon guruhiga tegishli."
     },
@@ -14524,6 +15128,7 @@ const biologiya = {
           "text": "Viruslarni 1892-yilda tamaki mozaikasi kasalligini o'rganishda kashf etgan rus olimi kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "IV (AB) qon guruhi - Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q."
     },
@@ -14548,6 +15153,7 @@ const biologiya = {
           "text": "Biologiyada 'B12 vitamini (kobalamin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif IV (AB) qon guruhiga tegishli."
     },
@@ -14572,6 +15178,7 @@ const biologiya = {
           "text": "Biologiyada 'Rezus-omil (Rh)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Rezus-omil (Rh) - Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda)."
     },
@@ -14596,6 +15203,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomozigota genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Rezus-omil (Rh)ga tegishli."
     },
@@ -14620,6 +15228,7 @@ const biologiya = {
           "text": "Biologiyada 'C vitamini (askorbin kislota)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Nafas olish sistemasi - Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari."
     },
@@ -14644,6 +15253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Nafas olish sistemasiga tegishli."
     },
@@ -14668,6 +15278,7 @@ const biologiya = {
           "text": "Biologiyada 'Ayirish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ayirish sistemasi - Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali."
     },
@@ -14692,6 +15303,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ayirish sistemasiga tegishli."
     },
@@ -14716,6 +15328,7 @@ const biologiya = {
           "text": "Biologiyada 'Buyrak usti bezi po'stloq qismi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hazm fermenti Pepsin - Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)."
     },
@@ -14740,6 +15353,7 @@ const biologiya = {
           "text": "Mitoz bo'linishning qaysi fazasida xromosomalar ekvator tekisligida tiziladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Pepsinga tegishli."
     },
@@ -14764,6 +15378,7 @@ const biologiya = {
           "text": "Biologiyada 'Hazm fermenti Amilaza (ptialin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Hazm fermenti Amilaza (ptialin) - Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi."
     },
@@ -14788,6 +15403,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Amilaza (ptialin)ga tegishli."
     },
@@ -14812,6 +15428,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hazm fermenti Lipaza - Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi."
     },
@@ -14836,6 +15453,7 @@ const biologiya = {
           "text": "Biologiyada 'Kariotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Lipazaga tegishli."
     },
@@ -14860,6 +15478,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O't suyuqligi (safro) - Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi."
     },
@@ -14884,6 +15503,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif O't suyuqligi (safro)ga tegishli."
     },
@@ -14908,6 +15528,7 @@ const biologiya = {
           "text": "Biologiyada 'Krestguldoshlar (Karamdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Krestguldoshlar (Karamdoshlar) - Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha."
     },
@@ -14932,6 +15553,7 @@ const biologiya = {
           "text": "Biologiyada 'Atirgo'ldoshlar (Ra'noguldoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Krestguldoshlar (Karamdoshlar)ga tegishli."
     },
@@ -14956,6 +15578,7 @@ const biologiya = {
           "text": "Ingichka ichak shilliq qavatidagi vorsinkalar qanday asosiy vazifani bajaradi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Atirgo'ldoshlar (Ra'noguldoshlar) - Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1."
     },
@@ -14980,6 +15603,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Atirgo'ldoshlar (Ra'noguldoshlar)ga tegishli."
     },
@@ -15004,6 +15628,7 @@ const biologiya = {
           "text": "O'simlik hujayrasiga mustahkamlik beruvchi qobiq asosan qaysi polisaxariddan tashkil topgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Burchoqdoshlar (Dukkakdoshlar) - Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak."
     },
@@ -15028,6 +15653,7 @@ const biologiya = {
           "text": "Biologiyada 'Idioadaptatsiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Burchoqdoshlar (Dukkakdoshlar)ga tegishli."
     },
@@ -15052,6 +15678,7 @@ const biologiya = {
           "text": "Ikkilamchi siydik nefronning qaysi qismida reabsorbsiya jarayonidan so'ng hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ituzumdoshlar - Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha."
     },
@@ -15076,6 +15703,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ituzumdoshlarga tegishli."
     },
@@ -15100,6 +15728,7 @@ const biologiya = {
           "text": "Biologiyada 'Murakkabguldoshlar (Qoqidoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Murakkabguldoshlar (Qoqidoshlar) - Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista."
     },
@@ -15124,6 +15753,7 @@ const biologiya = {
           "text": "Biologiyada 'Atavizm'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Murakkabguldoshlar (Qoqidoshlar)ga tegishli."
     },
@@ -15148,6 +15778,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bug'doydoshlar (Boshoqdoshlar) - Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don."
     },
@@ -15172,6 +15803,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
     },
@@ -15196,6 +15828,7 @@ const biologiya = {
           "text": "Biologiyada 'Loladoshlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Loladoshlar - Oddiy gulqo'rg'onli (O3+3 Ch3+3 U(3)), mevasi ko'sakcha, piyozboshli."
     },
@@ -15220,6 +15853,7 @@ const biologiya = {
           "text": "Gemoglobin oqsili tarkibidagi gem guruhining markazida qaysi metall ioni mavjud?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Loladoshlarga tegishli."
     },
@@ -15244,6 +15878,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gidra (Bo'shliqichlilar) - Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar."
     },
@@ -15268,6 +15903,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gidra (Bo'shliqichlilar)ga tegishli."
     },
@@ -15292,6 +15928,7 @@ const biologiya = {
           "text": "Biologiyada 'Oq planariya (Yassi chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Oq planariya (Yassi chuvalchanglar) - Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)."
     },
@@ -15316,6 +15953,7 @@ const biologiya = {
           "text": "Meyoz I bo'linishining profaza I bosqichida gomologik xromosomalarning o'zaro chatishishi nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Oq planariya (Yassi chuvalchanglar)ga tegishli."
     },
@@ -15340,6 +15978,7 @@ const biologiya = {
           "text": "Biologiyada 'Odam askaridasi (To'garak chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Odam askaridasi (To'garak chuvalchanglar) - Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli."
     },
@@ -15364,6 +16003,7 @@ const biologiya = {
           "text": "Ko'rish retseptorlari (tayoqcha va kolbachalar) ko'zning qaysi pardasida joylashgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Odam askaridasi (To'garak chuvalchanglar)ga tegishli."
     },
@@ -15388,6 +16028,7 @@ const biologiya = {
           "text": "Biologiyada 'Yomg'ir chuvalchangi (Halqali chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yomg'ir chuvalchangi (Halqali chuvalchanglar) - Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi."
     },
@@ -15412,6 +16053,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yomg'ir chuvalchangi (Halqali chuvalchanglar)ga tegishli."
     },
@@ -15436,6 +16078,7 @@ const biologiya = {
           "text": "Biologiyada 'Atirgo'ldoshlar (Ra'noguldoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Daryo qisqichbaqasi (Qisqichbaqasimonlar) - Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi."
     },
@@ -15460,6 +16103,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Daryo qisqichbaqasi (Qisqichbaqasimonlar)ga tegishli."
     },
@@ -15484,6 +16128,7 @@ const biologiya = {
           "text": "Biologiyada 'Lizosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Butli o'rgimchak (O'rgimchaksimonlar) - 4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar."
     },
@@ -15508,6 +16153,7 @@ const biologiya = {
           "text": "Biologiyada 'Hazm fermenti Amilaza (ptialin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Butli o'rgimchak (O'rgimchaksimonlar)ga tegishli."
     },
@@ -15532,6 +16178,7 @@ const biologiya = {
           "text": "Rang ajratish uchun mas'ul bo'lgan ko'z retseptorlari qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "May qo'ng'izi (Hasharotlar) - Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi."
     },
@@ -15556,6 +16203,7 @@ const biologiya = {
           "text": "Biologiyada 'I (0) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif May qo'ng'izi (Hasharotlar)ga tegishli."
     },
@@ -15580,6 +16228,7 @@ const biologiya = {
           "text": "Qonda kislorod tashishda ishtirok etuvchi hujayralar qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lansetnik (Boshskeletlilar) - Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)."
     },
@@ -15604,6 +16253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lansetnik (Boshskeletlilar)ga tegishli."
     },
@@ -15628,6 +16278,7 @@ const biologiya = {
           "text": "Biologiyada 'Suvda va quruqlikda yashovchilar (Amfibiyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Suvda va quruqlikda yashovchilar (Amfibiyalar) - 3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam."
     },
@@ -15652,6 +16303,7 @@ const biologiya = {
           "text": "Oq planariya (Yassi chuvalchanglar) uchun xarakterli bo‘lgan asosiy biologik belgilar qaysi javobda to‘g‘ri ko‘rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Suvda va quruqlikda yashovchilar (Amfibiyalar)ga tegishli."
     },
@@ -15676,6 +16328,7 @@ const biologiya = {
           "text": "Biologiyada 'Sudralib yuruvchilar (Reptiliyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Sudralib yuruvchilar (Reptiliyalar) - 3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali."
     },
@@ -15700,6 +16353,7 @@ const biologiya = {
           "text": "Biologiyada 'Epifiz (g'uddasimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sudralib yuruvchilar (Reptiliyalar)ga tegishli."
     },
@@ -15724,6 +16378,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qushlar - 4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)."
     },
@@ -15748,6 +16403,7 @@ const biologiya = {
           "text": "Biologiyada 'Nafas olish sistemasi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Qushlarga tegishli."
     },
@@ -15772,6 +16428,7 @@ const biologiya = {
           "text": "Qon hujayralarining parchalanishi asosan qaysi organlarda kechadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
     },
@@ -15796,6 +16453,7 @@ const biologiya = {
           "text": "Mitoz bo'linishning qaysi fazasida xromosomalar ekvator tekisligida tiziladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sutemizuvchilarga tegishli."
     },
@@ -15820,6 +16478,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomozigota genotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Gomozigota genotip - Bir xil allel genlarga ega organizm (masalan, AA yoki aa)."
     },
@@ -15844,6 +16503,7 @@ const biologiya = {
           "text": "Biologiyada 'D vitamini (kalsiferol)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gomozigota genotipga tegishli."
     },
@@ -15868,6 +16528,7 @@ const biologiya = {
           "text": "Biologiyada 'Rezus-omil (Rh)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Geterozigota genotip - Har xil allel genlarga ega organizm (masalan, Aa)."
     },
@@ -15892,6 +16553,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Har xil allel genlarga ega organizm (masalan, Aa)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Geterozigota genotipga tegishli."
     },
@@ -15916,6 +16578,7 @@ const biologiya = {
           "text": "Biologiyada 'Qalqonsimon bez'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Fenotip - Organizmning barcha tashqi va ichki belgilari hamda xususiyatlari yig'indisi."
     },
@@ -15940,6 +16603,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmning barcha tashqi va ichki belgilari hamda xususiyatlari yig'indisi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Fenotipga tegishli."
     },
@@ -15964,6 +16628,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Genotip - Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi."
     },
@@ -15988,6 +16653,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Genotipga tegishli."
     },
@@ -16012,6 +16678,7 @@ const biologiya = {
           "text": "Biologiyada 'III (B) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kariotip - Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli."
     },
@@ -16036,6 +16703,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kariotipga tegishli."
     },
@@ -16060,6 +16728,7 @@ const biologiya = {
           "text": "Hujayra nazariyasining asoschilari kimlar?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "To'liqsiz dominantlik (oraliq irsiylanish) - Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)."
     },
@@ -16084,6 +16753,7 @@ const biologiya = {
           "text": "Ikkilamchi siydik nefronning qaysi qismida reabsorbsiya jarayonidan so'ng hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'liqsiz dominantlik (oraliq irsiylanish)ga tegishli."
     },
@@ -16108,6 +16778,7 @@ const biologiya = {
           "text": "Yurak sikli tinch holatda qancha vaqt davom etadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kodominantlik - Ikkala allel genning ham fenotipda to'liq namoyon bo'lishi (masalan, IV (AB) qon guruhi)."
     },
@@ -16132,6 +16803,7 @@ const biologiya = {
           "text": "Biologiyada 'I (0) qon guruhi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kodominantlikga tegishli."
     },
@@ -16156,6 +16828,7 @@ const biologiya = {
           "text": "Biologiyada 'Komplementarlik'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Komplementarlik - Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi."
     },
@@ -16180,6 +16853,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Komplementarlikga tegishli."
     },
@@ -16204,6 +16878,7 @@ const biologiya = {
           "text": "Biologiyada 'Ribosoma'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Epistaz - Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)."
     },
@@ -16228,6 +16903,7 @@ const biologiya = {
           "text": "Biologiyada 'Oq planariya (Yassi chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Epistazga tegishli."
     },
@@ -16252,6 +16928,7 @@ const biologiya = {
           "text": "Hujayraning “energiya stansiyasi” hisoblangan organoid qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Polimeriya - Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ)."
     },
@@ -16276,6 +16953,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Polimeriyaga tegishli."
     },
@@ -16300,6 +16978,7 @@ const biologiya = {
           "text": "Bir hujayrali sodda hayvonlardan qaysi biri yorug'likda fotosintez, qorong'ida geterotrof oziqlanadi (miksotrof)?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Pleiotropiya - Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi."
     },
@@ -16324,6 +17003,7 @@ const biologiya = {
           "text": "Biologiyada 'Murakkabguldoshlar (Qoqidoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Pleiotropiyaga tegishli."
     },
@@ -16348,6 +17028,7 @@ const biologiya = {
           "text": "Qushlarning suyaklari yengil va ichi g'ovak bo'lishining biologik ahamiyati nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gomologik organlar - Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi)."
     },
@@ -16372,6 +17053,7 @@ const biologiya = {
           "text": "Biologiyada 'Fenotip'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gomologik organlarga tegishli."
     },
@@ -16396,6 +17078,7 @@ const biologiya = {
           "text": "Biologiyada 'Qushlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Analogik organlar - Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)."
     },
@@ -16420,6 +17103,7 @@ const biologiya = {
           "text": "Biologiyada 'Yomg'ir chuvalchangi (Halqali chuvalchanglar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Analogik organlarga tegishli."
     },
@@ -16444,6 +17128,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Rudimentlar - Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)."
     },
@@ -16468,6 +17153,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Rudimentlarga tegishli."
     },
@@ -16492,6 +17178,7 @@ const biologiya = {
           "text": "Hujayra ichi hazm qilish (avtoliz) jarayonini qaysi bir membranali organoid amalga oshiradi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Atavizm - Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)."
     },
@@ -16516,6 +17203,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Atavizmga tegishli."
     },
@@ -16540,6 +17228,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Hujayra shirasini saqlash, turgor bosimini ta'minlash'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Aromorfoz - Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish."
     },
@@ -16564,6 +17253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Aromorfozga tegishli."
     },
@@ -16588,6 +17278,7 @@ const biologiya = {
           "text": "Biologiyada 'Idioadaptatsiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Idioadaptatsiya - Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)."
     },
@@ -16612,6 +17303,7 @@ const biologiya = {
           "text": "Biologiyada 'Suvda va quruqlikda yashovchilar (Amfibiyalar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Idioadaptatsiyaga tegishli."
     },
@@ -16636,6 +17328,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
     },
@@ -16660,6 +17353,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Umumiy degeneratsiya (katamorfoz)ga tegishli."
     },
@@ -16684,6 +17378,7 @@ const biologiya = {
           "text": "Biologiyada 'Divergensiya'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Divergensiya - Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi."
     },
@@ -16708,6 +17403,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Divergensiyaga tegishli."
     },
@@ -16732,6 +17428,7 @@ const biologiya = {
           "text": "Yopiq urug'li (gulli) o'simliklarda qo'sh urug'lanish hodisasini kim kashf etgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Konvergensiya - Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)."
     },
@@ -16756,6 +17453,7 @@ const biologiya = {
           "text": "Biologiyada 'Hazm fermenti Amilaza (ptialin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Konvergensiyaga tegishli."
     },
@@ -16780,6 +17478,7 @@ const biologiya = {
           "text": "Biologiyada 'Biogenetik qonun (Gekkel-Myuller)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Biogenetik qonun (Gekkel-Myuller) - Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi."
     },
@@ -16804,6 +17503,7 @@ const biologiya = {
           "text": "Hujayra nazariyasining asoschilari kimlar?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Biogenetik qonun (Gekkel-Myuller)ga tegishli."
     },
@@ -16828,6 +17528,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hardy-Vaynberg qonuni - Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi."
     },
@@ -16852,6 +17553,7 @@ const biologiya = {
           "text": "Biologiyada 'Gidra (Bo'shliqichlilar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hardy-Vaynberg qonuniga tegishli."
     },
@@ -16876,6 +17578,7 @@ const biologiya = {
           "text": "Inson tanasidagi eng yirik organ qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vavilovning gomologik qatorlar qonuni - Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi."
     },
@@ -16900,6 +17603,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Vavilovning gomologik qatorlar qonuniga tegishli."
     },
@@ -16924,6 +17628,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Uotson va Krik DNK qo'sh spiralini yaratgan."
     },
@@ -16948,6 +17653,7 @@ const biologiya = {
           "text": "Hujayra nazariyasining asoschilari kimlar?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shleyden va Shvann hujayra nazariyasini asoslagan."
     },
@@ -16972,6 +17678,7 @@ const biologiya = {
           "text": "Biologiyada 'Buyrak usti bezi mag'iz qismi'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Virxov hujayra nazariyasini to'ldirdi."
     },
@@ -16996,6 +17703,7 @@ const biologiya = {
           "text": "Organik olam evolutsiyasining birinchi yaxlit nazariyasini yaratgan olim kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Levenguk sodda organizmlarni kashf etdi."
     },
@@ -17020,6 +17728,7 @@ const biologiya = {
           "text": "O'simlik hujayrasiga mustahkamlik beruvchi qobiq asosan qaysi polisaxariddan tashkil topgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Broun o'simlik hujayralarida yadroni topgan."
     },
@@ -17044,6 +17753,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Qon ivishining buzilishi va ko'p qon yo'qotish'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ivanovskiy virusologiya faniga asos soldi."
     },
@@ -17068,6 +17778,7 @@ const biologiya = {
           "text": "Fagotsitoz hodisasini va hujayraviy immunitetni kim kashf etgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mechnikov 1908-yilda Nobel mukofotini olgan."
     },
@@ -17092,6 +17803,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lui Paster vaksinalar tayyorlash usulini ochdi."
     },
@@ -17116,6 +17828,7 @@ const biologiya = {
           "text": "Gulli o'simliklarda qo'sh urug'lanishdan so'ng triploid (3n) xromosomali qaysi to'qima hosil bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Jenner sigir chechagi orqali odamni emlagan."
     },
@@ -17140,6 +17853,7 @@ const biologiya = {
           "text": "O'simliklarda suv va unda erigan mineral tuzlarni ildizdan bargga tashuvchi o'tkazuvchi to'qima qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Fleming Penicillium zamburug'idan penitsillin oldi."
     },
@@ -17164,6 +17878,7 @@ const biologiya = {
           "text": "Biologiyada 'Gomologik organlar'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Robert Kox sil bakteriyasini topdi."
     },
@@ -17188,6 +17903,7 @@ const biologiya = {
           "text": "Biologiyada 'Aromorfoz'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Landshteyner qon guruhlarini ajratdi."
     },
@@ -17212,6 +17928,7 @@ const biologiya = {
           "text": "Gulli o'simliklarda changlanish va urug'lanishdan so'ng tuguncha devoridan nima hosil bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tuguncha devoridan meva hosil bo'ladi."
     },
@@ -17236,6 +17953,7 @@ const biologiya = {
           "text": "Biologiyada 'Burchoqdoshlar (Dukkakdoshlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Urug'kurtak urug'ga aylanadi."
     },
@@ -17260,6 +17978,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Qon ivishining buzilishi va ko'p qon yo'qotish'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Transpiratsiya o'simlikni sovutadi va suv oqimini ta'minlaydi."
     },
@@ -17284,6 +18003,7 @@ const biologiya = {
           "text": "Biologiyada 'Rezus-omil (Rh)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gutatsiya havoda namlik yuqori bo'lganda kuzatiladi."
     },
@@ -17308,6 +18028,7 @@ const biologiya = {
           "text": "Xlorofill pigmenti molekulasi markazida qaysi metall ioni joylashgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xlorofill markazida magniy atomi bo'ladi."
     },
@@ -17332,6 +18053,7 @@ const biologiya = {
           "text": "Mitozning qaysi fazasida xromatidalar qarama-qarshi qutblarga ajraladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Gemoglobinda temir kislorodni biriktiradi."
     },
@@ -17356,6 +18078,7 @@ const biologiya = {
           "text": "Biologiyada 'Epifiz (g'uddasimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fibrinogen trombin ta'sirida fibringa o'tadi."
     },
@@ -17380,6 +18103,7 @@ const biologiya = {
           "text": "Madaniy o'simliklarning kelib chiqish markazlarini aniqlagan buyuk olim kim?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qizil ilik barcha qon hujayralarini hosil qiladi."
     },
@@ -17404,6 +18128,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Keksaygan eritrotsitlar taloq va jigarda parchalanadi."
     },
@@ -17428,6 +18153,7 @@ const biologiya = {
           "text": "Biologiyada 'Rezus-omil (Rh)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Taloq 'eritrotsitlar qabristoni' deyiladi."
     },
@@ -17452,6 +18178,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Koronar tomirlar yurak miokardini oziqlantiradi."
     },
@@ -17476,6 +18203,7 @@ const biologiya = {
           "text": "Yurak sikli tinch holatda qancha vaqt davom etadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bo'lmachalar sistolasi 0.1s, qorinchalar sistolasi 0.3s, umumiy pauza 0.4s."
     },
@@ -17500,6 +18228,7 @@ const biologiya = {
           "text": "Oshqozon shirasidagi xlorid kislotasi (HCl) qanday biologik vazifalarni bajaradi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "HCl kuchli kislotali muhit va bakteritsid ta'sir ko'rsatadi."
     },
@@ -17524,6 +18253,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: '3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Vorsinkalar oziq moddalarni qon va limfaga so'radi."
     },
@@ -17548,6 +18278,7 @@ const biologiya = {
           "text": "Quyidagi ta'rif qaysi biologik tuzilma, a'zo yoki qonuniyatga tegishli: 'Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Glyukoza va aminokislotalar qonga, yog' kislotalari limfaga so'riladi."
     },
@@ -17572,6 +18303,7 @@ const biologiya = {
           "text": "Yog'larning parchalanish mahsulotlari ichak vorsinkalaridan qayerga o'tadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yog'lar avval limfaga o'tadi."
     },
@@ -17596,6 +18328,7 @@ const biologiya = {
           "text": "Biologiyada 'B1 vitamini (tiamin)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Gipotalamus tana haroratini boshqaradi."
     },
@@ -17620,6 +18353,7 @@ const biologiya = {
           "text": "Gipofiz gormonlari sekretsiyasini boshqaruvchi neyrogormonlar qayerda ishlab chiqariladi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Gipotalamo-gipofizar tizim."
     },
@@ -17644,6 +18378,7 @@ const biologiya = {
           "text": "Biologiyada 'Epifiz (g'uddasimon bez)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Birlamchi siydikdan suv va foydali moddalar qayta so'riladi."
     },
@@ -17668,6 +18403,7 @@ const biologiya = {
           "text": "'Har bir hujayra mavjud hujayraning bo'linishidan hosil bo'ladi' (Omnis cellula e cellula) qoidasini kim kiritgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Birlamchi siydik 150-180 L, ikkilamchi siydik esa 1.5 L."
     },
@@ -17692,6 +18428,7 @@ const biologiya = {
           "text": "Sog'lom odam siydigida qaysi moddalar bo'lmasligi kerak?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Oqsil va qand paydo bo'lishi kasallik belgisidir."
     },
@@ -17716,6 +18453,7 @@ const biologiya = {
           "text": "Biologiyada 'Butli o'rgimchak (O'rgimchaksimonlar)'ning asosiy vazifasi yoki xarakterli belgisi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Oq planariya yassi chuvalchanglar tipiga kiradi: tanasi ikki tomonlama (bilateral) simmetriyali, uch qavatli (ektoderma, entoderma, mezoderma) bo‘lib, tana bo‘shlig‘i bo‘lmaydi, ichki a'zolar oralig‘i biriktiruvchi to‘qima — parenxima bilan to‘lgan."
     },
@@ -17740,6 +18478,7 @@ const biologiya = {
           "text": "Redutsentlar moddalar aylanishini yakunlaydi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Mitoxondriya ATF sintezlaydi."
     },
@@ -17764,6 +18503,7 @@ const biologiya = {
           "text": "Analogik organlar - Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Eritrotsitlar gemoglobin orqali kislorod tashiydi."
     },
@@ -17788,6 +18528,7 @@ const biologiya = {
           "text": "Birlamchi siydik 150-180 L, ikkilamchi siydik esa 1.5 L."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Xloroplastlarda fotosintez boradi."
     },
@@ -17812,6 +18553,7 @@ const biologiya = {
           "text": "Teri maydoni va og'irligi bo'yicha eng yirik organdir."
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "Teri maydoni va og'irligi bo'yicha eng yirik organdir."
     },
@@ -17836,6 +18578,7 @@ const biologiya = {
           "text": "Mitoxondriyada ATF sintezlanadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mitoxondriyada ATF sintezlanadi."
     },
@@ -17860,6 +18603,7 @@ const biologiya = {
           "text": "Divergensiya - Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ribosoma oqsil biosintezini ta'minlaydi."
     },
@@ -17884,6 +18628,7 @@ const biologiya = {
           "text": "Bakteriyalar qobig'i mureindan iborat."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lizosoma gidrolitik fermentlarga boy."
     },
@@ -17908,6 +18653,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Vavilovning gomologik qatorlar qonuniga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'simlik qobig'i sellyulozadan iborat."
     },
@@ -17932,6 +18678,7 @@ const biologiya = {
           "text": "Zamburug'larda xitin bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Zamburug'larda xitin bo'ladi."
     },
@@ -17956,6 +18703,7 @@ const biologiya = {
           "text": "Bakteriyalar qobig'i mureindan iborat."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bakteriyalar qobig'i mureindan iborat."
     },
@@ -17980,6 +18728,7 @@ const biologiya = {
           "text": "DNK da A=T qo'sh vodorod bog'i bilan bog'lanadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "DNK da A=T qo'sh vodorod bog'i bilan bog'lanadi."
     },
@@ -18004,6 +18753,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Aromorfozga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "RNK tarkibida timin o'rniga uratsil bo'ladi."
     },
@@ -18028,6 +18778,7 @@ const biologiya = {
           "text": "Birlamchi siydik 150-180 L, ikkilamchi siydik esa 1.5 L."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G va S orasida 3 ta vodorod bog'i mavjud."
     },
@@ -18052,6 +18803,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Hazm fermenti Amilaza (ptialin)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yorug'lik bosqichi tilakoidlarda kechadi."
     },
@@ -18076,6 +18828,7 @@ const biologiya = {
           "text": "Fibrinogen trombin ta'sirida fibringa o'tadi."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Qorong'ilik bosqichi stromada kechadi."
     },
@@ -18100,6 +18853,7 @@ const biologiya = {
           "text": "Gipotalamus tana haroratini boshqaradi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kristalar ichki sathni kengaytiradi."
     },
@@ -18124,6 +18878,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Epistazga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Metafazada xromosomalar ekvatorga keladi."
     },
@@ -18148,6 +18903,7 @@ const biologiya = {
           "text": "HCl kuchli kislotali muhit va bakteritsid ta'sir ko'rsatadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Anafazada qutblarga tortiladi."
     },
@@ -18172,6 +18928,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Buyrak usti bezi mag'iz qismiga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Krossingover genlar almashinuvidir."
     },
@@ -18196,6 +18953,7 @@ const biologiya = {
           "text": "Oshqozon osti bezi (Langergans orolchalari) - Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Eritrotsitlar gazlarni tashiydi."
     },
@@ -18220,6 +18978,7 @@ const biologiya = {
           "text": "Gemoglobinda temir kislorodni biriktiradi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jigar eng yirik bezdir."
     },
@@ -18244,6 +19003,7 @@ const biologiya = {
           "text": "STG suyak va mushaklar o'sishini boshqaradi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Teri umumiy maydoni va vazni bilan eng yirik organdir."
     },
@@ -18268,6 +19028,7 @@ const biologiya = {
           "text": "Gipofiz bezi - Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Trombotsitlar qon ivishini ta'minlaydi."
     },
@@ -18292,6 +19053,7 @@ const biologiya = {
           "text": "Suvda va quruqlikda yashovchilar (Amfibiyalar) - 3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Aorta chap qorinchadan chiqadi."
     },
@@ -18316,6 +19078,7 @@ const biologiya = {
           "text": "O'pka arteriyasi o'ng qorinchadan boshlanadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "O'pka arteriyasi o'ng qorinchadan boshlanadi."
     },
@@ -18340,6 +19103,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Endoplazmatik to'r (donador)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bo'lmacha va qorincha orasida tabaqali klapanlar joylashgan."
     },
@@ -18364,6 +19128,7 @@ const biologiya = {
           "text": "Timus (ayrisimon bez) - T-limfotsitlarni yetiltirish va immunitetni ta'minlash."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kavak venalarda bosim nol yoki manfiy bo'ladi."
     },
@@ -18388,6 +19153,7 @@ const biologiya = {
           "text": "Virxov hujayra nazariyasini to'ldirdi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Miyacha muvozanat markazi hisoblanadi."
     },
@@ -18412,6 +19178,7 @@ const biologiya = {
           "text": "Uzunchoq miya hayotiy reflektor markazdir."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Uzunchoq miya hayotiy reflektor markazdir."
     },
@@ -18436,6 +19203,7 @@ const biologiya = {
           "text": "To'r pardada fotoretseptorlar bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'r pardada fotoretseptorlar bo'ladi."
     },
@@ -18460,6 +19228,7 @@ const biologiya = {
           "text": "Keksaygan eritrotsitlar taloq va jigarda parchalanadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kolbachalar yorug'likda ranglarni ajratadi."
     },
@@ -18484,6 +19253,7 @@ const biologiya = {
           "text": "Ushbu ta'rif C vitamini (askorbin kislota)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "A vitamini yetishmasa shabko'rlik yuzaga keladi."
     },
@@ -18508,6 +19278,7 @@ const biologiya = {
           "text": "Sudralib yuruvchilar (Reptiliyalar) - 3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Insulin oshqozon osti bezining beta-hujayralarida ishlab chiqariladi."
     },
@@ -18532,6 +19303,7 @@ const biologiya = {
           "text": "Uzunchoq miya hayotiy reflektor markazdir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "STG suyak va mushaklar o'sishini boshqaradi."
     },
@@ -18556,6 +19328,7 @@ const biologiya = {
           "text": "Nefron siydik hosil qilish birligidir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Nefron siydik hosil qilish birligidir."
     },
@@ -18580,6 +19353,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Idioadaptatsiyaga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Mendel 1865-yilda irsiyat qonunlarini kashf etdi."
     },
@@ -18604,6 +19378,7 @@ const biologiya = {
           "text": "A vitamini (retinol) - Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Birinchi avlodda barcha duragaylar bir xil fenotipga ega bo'ladi."
     },
@@ -18628,6 +19403,7 @@ const biologiya = {
           "text": "Qushlar - 4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Fenotip bo'yicha 3 ta dominant va 1 ta retsessiv."
     },
@@ -18652,6 +19428,7 @@ const biologiya = {
           "text": "Morgan birikkan genlar qonuniyatini yaratdi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Morgan birikkan genlar qonuniyatini yaratdi."
     },
@@ -18676,6 +19453,7 @@ const biologiya = {
           "text": "22 juft autosoma va 1 juft jinsiy xromosoma."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "22 juft autosoma va 1 juft jinsiy xromosoma."
     },
@@ -18700,6 +19478,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Rezus-omil (Rh)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "21-xromosoma bo'yicha trisomiya (47 xromosoma)."
     },
@@ -18724,6 +19503,7 @@ const biologiya = {
           "text": "May qo'ng'izi (Hasharotlar) - Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vavilov 7 ta asosiy gen-markazni asoslab bergan."
     },
@@ -18748,6 +19528,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Mitoxondriyaga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ksilema o'suvchi oqimni ta'minlaydi."
     },
@@ -18772,6 +19553,7 @@ const biologiya = {
           "text": "Birinchi avlodda barcha duragaylar bir xil fenotipga ega bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Floema tushuvchi oqimni o'tkazadi."
     },
@@ -18796,6 +19578,7 @@ const biologiya = {
           "text": "Navashin liliya va lolada kashf etgan."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Navashin liliya va lolada kashf etgan."
     },
@@ -18820,6 +19603,7 @@ const biologiya = {
           "text": "Markaziy hujayra (2n) va spermiy (n) qo'shilishidan 3n endosperm hosil bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Markaziy hujayra (2n) va spermiy (n) qo'shilishidan 3n endosperm hosil bo'ladi."
     },
@@ -18844,6 +19628,7 @@ const biologiya = {
           "text": "Biogenetik qonun (Gekkel-Myuller) - Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sabzi va lavlagi ildizmevadir (kartoshka tugunak)."
     },
@@ -18868,6 +19653,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Krestguldoshlar (Karamdoshlar)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Evglena aralash oziqlanish xususiyatiga ega."
     },
@@ -18892,6 +19678,7 @@ const biologiya = {
           "text": "Koronar tomirlar yurak miokardini oziqlantiradi."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Odam oraliq xo'jayin, jinsiy davri chivinda bo'ladi."
     },
@@ -18916,6 +19703,7 @@ const biologiya = {
           "text": "III (B) qon guruhi - Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yassi chuvalchanglarda protonefridiylar bo'ladi."
     },
@@ -18940,6 +19728,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Hazm fermenti Amilaza (ptialin)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Uchishga moslashuv."
     },
@@ -18964,6 +19753,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qushlarda o'ng, sutemizuvchilarda chap aorta ravog'i."
     },
@@ -18988,6 +19778,7 @@ const biologiya = {
           "text": "Birlamchi siydik 150-180 L, ikkilamchi siydik esa 1.5 L."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lamark 'Zoologiya falsafasi' asarida evolyutsiya nazariyasini bergan."
     },
@@ -19012,6 +19803,7 @@ const biologiya = {
           "text": "Tabiiy tanlanish eng moslashganlarning yashab qolishidir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tabiiy tanlanish eng moslashganlarning yashab qolishidir."
     },
@@ -19036,6 +19828,7 @@ const biologiya = {
           "text": "A vitamini (retinol) - Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Evolutsiya populyatsiya darajasida boshlanadi."
     },
@@ -19060,6 +19853,7 @@ const biologiya = {
           "text": "Eritrotsitlar gemoglobin orqali kislorod tashiydi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Redutsentlar moddalar aylanishini yakunlaydi."
     },
@@ -19084,6 +19878,7 @@ const biologiya = {
           "text": "Xlorofill markazida magniy atomi bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yadro - Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish."
     },
@@ -19108,6 +19903,7 @@ const biologiya = {
           "text": "Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yadroga tegishli."
     },
@@ -19132,6 +19928,7 @@ const biologiya = {
           "text": "Mitoxondriya - Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mitoxondriya - Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish."
     },
@@ -19156,6 +19953,7 @@ const biologiya = {
           "text": "Polimeriya - Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Mitoxondriyaga tegishli."
     },
@@ -19180,6 +19978,7 @@ const biologiya = {
           "text": "Xloroplast - Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xloroplast - Quyosh nuri energiyasini yutib organik moddalar (glyukoza) sintezlash."
     },
@@ -19204,6 +20003,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Xloroplastga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Xloroplastga tegishli."
     },
@@ -19228,6 +20028,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Idioadaptatsiyaga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ribosoma - i-RNK asosida aminokislotalardan polipeptid (oqsil) zanjirini sintezlash."
     },
@@ -19252,6 +20053,7 @@ const biologiya = {
           "text": "RNK tarkibida timin o'rniga uratsil bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ribosomaga tegishli."
     },
@@ -19276,6 +20078,7 @@ const biologiya = {
           "text": "Golji majmuasi - Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Golji majmuasi - Moddalarni to'plash, modifikatsiyalash, pufakchalarga o'rash va lizosomalar hosil qilish."
     },
@@ -19300,6 +20103,7 @@ const biologiya = {
           "text": "Ushbu ta'rif B1 vitamini (tiamin)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Golji majmuasiga tegishli."
     },
@@ -19324,6 +20128,7 @@ const biologiya = {
           "text": "PP vitamini (nikotin kislota) - Pellagra kasalligi (dermatit, diareya, demensiya)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Lizosoma - Gidrolitik fermentlar yordamida polimerlarni monomerlargacha parchalash."
     },
@@ -19348,6 +20153,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Geterozigota genotipga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lizosomaga tegishli."
     },
@@ -19372,6 +20178,7 @@ const biologiya = {
           "text": "Gutatsiya havoda namlik yuqori bo'lganda kuzatiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Endoplazmatik to'r (silliq) - Lipidlar va uglevodlar sintezi hamda moddalar transporti."
     },
@@ -19396,6 +20203,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Idioadaptatsiyaga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Endoplazmatik to'r (silliq)ga tegishli."
     },
@@ -19420,6 +20228,7 @@ const biologiya = {
           "text": "Endoplazmatik to'r (donador) - Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Endoplazmatik to'r (donador) - Yuzasidagi ribosomalar bilan oqsillar sintezi va transporti."
     },
@@ -19444,6 +20253,7 @@ const biologiya = {
           "text": "Mitoxondriya - Kislorodli nafas olish va ATF ko'rinishida energiya sintez qilish."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Endoplazmatik to'r (donador)ga tegishli."
     },
@@ -19468,6 +20278,7 @@ const biologiya = {
           "text": "Hujayra markazi (Sentrosoma) - Mitoz va meyoz bo'linish dukini hosil qilish."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Hujayra markazi (Sentrosoma) - Mitoz va meyoz bo'linish dukini hosil qilish."
     },
@@ -19492,6 +20303,7 @@ const biologiya = {
           "text": "Gidra (Bo'shliqichlilar) - Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hujayra markazi (Sentrosoma)ga tegishli."
     },
@@ -19516,6 +20328,7 @@ const biologiya = {
           "text": "Landshteyner qon guruhlarini ajratdi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Vakuola (o'simlikda) - Hujayra shirasini saqlash, turgor bosimini ta'minlash."
     },
@@ -19540,6 +20353,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Vakuola (o'simlikda)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Vakuola (o'simlikda)ga tegishli."
     },
@@ -19564,6 +20378,7 @@ const biologiya = {
           "text": "Kolbachalar yorug'likda ranglarni ajratadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Peroksisoma - Zaharli vodorod peroksidini (H2O2) suv va kislorodga parchalash."
     },
@@ -19588,6 +20403,7 @@ const biologiya = {
           "text": "Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Peroksisomaga tegishli."
     },
@@ -19612,6 +20428,7 @@ const biologiya = {
           "text": "Yog'lar avval limfaga o'tadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "A vitamini (retinol) - Shabko'rlik (gemeralopiya) va shox parda qurishi (kseroftalmiya)."
     },
@@ -19636,6 +20453,7 @@ const biologiya = {
           "text": "Ushbu ta'rif A vitamini (retinol)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif A vitamini (retinol)ga tegishli."
     },
@@ -19660,6 +20478,7 @@ const biologiya = {
           "text": "Daryo qisqichbaqasi (Qisqichbaqasimonlar) - Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "B1 vitamini (tiamin) - Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)."
     },
@@ -19684,6 +20503,7 @@ const biologiya = {
           "text": "Bug'doydoshlar (Boshoqdoshlar) - Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif B1 vitamini (tiamin)ga tegishli."
     },
@@ -19708,6 +20528,7 @@ const biologiya = {
           "text": "C vitamini (askorbin kislota) - Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "C vitamini (askorbin kislota) - Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi."
     },
@@ -19732,6 +20553,7 @@ const biologiya = {
           "text": "Ushbu ta'rif C vitamini (askorbin kislota)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif C vitamini (askorbin kislota)ga tegishli."
     },
@@ -19756,6 +20578,7 @@ const biologiya = {
           "text": "Ushbu ta'rif IV (AB) qon guruhiga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "D vitamini (kalsiferol) - Raxit kasalligi (suyaklar qiyshayishi va kalsiy almashinuvi buzilishi)."
     },
@@ -19780,6 +20603,7 @@ const biologiya = {
           "text": "Ushbu ta'rif D vitamini (kalsiferol)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif D vitamini (kalsiferol)ga tegishli."
     },
@@ -19804,6 +20628,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Daryo qisqichbaqasi (Qisqichbaqasimonlar)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "B12 vitamini (kobalamin) - Xavfli kamqonlik (anemiya)."
     },
@@ -19828,6 +20653,7 @@ const biologiya = {
           "text": "Yassi chuvalchanglarda protonefridiylar bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif B12 vitamini (kobalamin)ga tegishli."
     },
@@ -19852,6 +20678,7 @@ const biologiya = {
           "text": "Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "PP vitamini (nikotin kislota) - Pellagra kasalligi (dermatit, diareya, demensiya)."
     },
@@ -19876,6 +20703,7 @@ const biologiya = {
           "text": "Yadro - Irsiy axborotni saqlash, qayta ishlash va hujayra faoliyatini boshqarish."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif PP vitamini (nikotin kislota)ga tegishli."
     },
@@ -19900,6 +20728,7 @@ const biologiya = {
           "text": "K vitamini (filloxinon) - Qon ivishining buzilishi va ko'p qon yo'qotish."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "K vitamini (filloxinon) - Qon ivishining buzilishi va ko'p qon yo'qotish."
     },
@@ -19924,6 +20753,7 @@ const biologiya = {
           "text": "Tabiiy tanlanish eng moslashganlarning yashab qolishidir."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif K vitamini (filloxinon)ga tegishli."
     },
@@ -19948,6 +20778,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Konvergensiyaga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gipofiz bezi - Somatotrop (o'sish gormoni), tireotrop, adrenokortikotrop gormonlar."
     },
@@ -19972,6 +20803,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Gipofiz beziga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gipofiz beziga tegishli."
     },
@@ -19996,6 +20828,7 @@ const biologiya = {
           "text": "Qalqonsimon bez - Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qalqonsimon bez - Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)."
     },
@@ -20020,6 +20853,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Oq planariya (Yassi chuvalchanglar)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Qalqonsimon bezga tegishli."
     },
@@ -20044,6 +20878,7 @@ const biologiya = {
           "text": "Buyrak usti bezi po'stloq qismi - Kortizol, aldosteron va jinsiy gormonlar."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Buyrak usti bezi po'stloq qismi - Kortizol, aldosteron va jinsiy gormonlar."
     },
@@ -20068,6 +20903,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Buyrak usti bezi po'stloq qismiga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Buyrak usti bezi po'stloq qismiga tegishli."
     },
@@ -20092,6 +20928,7 @@ const biologiya = {
           "text": "IV (AB) qon guruhi - Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
     },
@@ -20116,6 +20953,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Buyrak usti bezi mag'iz qismiga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Buyrak usti bezi mag'iz qismiga tegishli."
     },
@@ -20140,6 +20978,7 @@ const biologiya = {
           "text": "Oshqozon osti bezi (Langergans orolchalari) - Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Oshqozon osti bezi (Langergans orolchalari) - Insulin (glyukozani kamaytiruvchi) va Glukagon (glyukozani oshiruvchi)."
     },
@@ -20164,6 +21003,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Rezus-omil (Rh)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Oshqozon osti bezi (Langergans orolchalari)ga tegishli."
     },
@@ -20188,6 +21028,7 @@ const biologiya = {
           "text": "Virxov hujayra nazariyasini to'ldirdi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Epifiz (g'uddasimon bez) - Melatonin (kun-tun biologik ritmlarini boshqarish)."
     },
@@ -20212,6 +21053,7 @@ const biologiya = {
           "text": "Xlorofill markazida magniy atomi bo'ladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Epifiz (g'uddasimon bez)ga tegishli."
     },
@@ -20236,6 +21078,7 @@ const biologiya = {
           "text": "Yog'lar avval limfaga o'tadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Timus (ayrisimon bez) - T-limfotsitlarni yetiltirish va immunitetni ta'minlash."
     },
@@ -20260,6 +21103,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Timus (ayrisimon bez)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Timus (ayrisimon bez)ga tegishli."
     },
@@ -20284,6 +21128,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Gipofiz beziga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "I (0) qon guruhi - Eritrotsitlarida agglyutinogenlar yo'q, plazmasida alfa va beta agglyutininlar bor."
     },
@@ -20308,6 +21153,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Polimeriyaga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif I (0) qon guruhiga tegishli."
     },
@@ -20332,6 +21178,7 @@ const biologiya = {
           "text": "May qo'ng'izi (Hasharotlar) - Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "II (A) qon guruhi - Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor."
     },
@@ -20356,6 +21203,7 @@ const biologiya = {
           "text": "Ushbu ta'rif II (A) qon guruhiga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif II (A) qon guruhiga tegishli."
     },
@@ -20380,6 +21228,7 @@ const biologiya = {
           "text": "III (B) qon guruhi - Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "III (B) qon guruhi - Eritrotsitlarida B agglyutinogen, plazmasida alfa agglyutinin bor."
     },
@@ -20404,6 +21253,7 @@ const biologiya = {
           "text": "Genotip - Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif III (B) qon guruhiga tegishli."
     },
@@ -20428,6 +21278,7 @@ const biologiya = {
           "text": "Vakuola (o'simlikda) - Hujayra shirasini saqlash, turgor bosimini ta'minlash."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "IV (AB) qon guruhi - Eritrotsitlarida A va B agglyutinogenlar bor, plazmasida agglyutininlar yo'q."
     },
@@ -20452,6 +21303,7 @@ const biologiya = {
           "text": "Ushbu ta'rif IV (AB) qon guruhiga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif IV (AB) qon guruhiga tegishli."
     },
@@ -20476,6 +21328,7 @@ const biologiya = {
           "text": "Uzunchoq miya hayotiy reflektor markazdir."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Rezus-omil (Rh) - Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda)."
     },
@@ -20500,6 +21353,7 @@ const biologiya = {
           "text": "Yassi chuvalchanglarda protonefridiylar bo'ladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Rezus-omil (Rh)ga tegishli."
     },
@@ -20524,6 +21378,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Loladoshlarga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Nafas olish sistemasi - Burun bo'shlig'i, hiqildoq, kekirdak (traxeya), bronxlar, o'pka alveolalari."
     },
@@ -20548,6 +21403,7 @@ const biologiya = {
           "text": "Kavak venalarda bosim nol yoki manfiy bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Nafas olish sistemasiga tegishli."
     },
@@ -20572,6 +21428,7 @@ const biologiya = {
           "text": "Ayirish sistemasi - Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ayirish sistemasi - Buyraklar, siydik naylari, siydik pufagi, siydik chiqarish kanali."
     },
@@ -20596,6 +21453,7 @@ const biologiya = {
           "text": "Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ayirish sistemasiga tegishli."
     },
@@ -20620,6 +21478,7 @@ const biologiya = {
           "text": "Lizosoma gidrolitik fermentlarga boy."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hazm fermenti Pepsin - Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)."
     },
@@ -20644,6 +21503,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Hazm fermenti Pepsinga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Pepsinga tegishli."
     },
@@ -20668,6 +21528,7 @@ const biologiya = {
           "text": "Hazm fermenti Amilaza (ptialin) - Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Hazm fermenti Amilaza (ptialin) - Og'iz bo'shlig'ida kraxmalni maltozagacha parchalaydi."
     },
@@ -20692,6 +21553,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Hazm fermenti Amilaza (ptialin)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Amilaza (ptialin)ga tegishli."
     },
@@ -20716,6 +21578,7 @@ const biologiya = {
           "text": "Hazm fermenti Lipaza - Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Hazm fermenti Lipaza - Ingichka ichakda o't suyuqligi ta'sirida emulsiya bo'lgan yog'larni parchalaydi."
     },
@@ -20740,6 +21603,7 @@ const biologiya = {
           "text": "B1 vitamini (tiamin) - Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hazm fermenti Lipazaga tegishli."
     },
@@ -20764,6 +21628,7 @@ const biologiya = {
           "text": "O't suyuqligi (safro) - Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "O't suyuqligi (safro) - Jigarda ishlab chiqarilib, o't pufagida to'planadi va yog'larni emulsiyalaydi."
     },
@@ -20788,6 +21653,7 @@ const biologiya = {
           "text": "Eritrotsitlar gemoglobin orqali kislorod tashiydi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif O't suyuqligi (safro)ga tegishli."
     },
@@ -20812,6 +21678,7 @@ const biologiya = {
           "text": "Morgan birikkan genlar qonuniyatini yaratdi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Krestguldoshlar (Karamdoshlar) - Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha."
     },
@@ -20836,6 +21703,7 @@ const biologiya = {
           "text": "Bo'lmacha va qorincha orasida tabaqali klapanlar joylashgan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Krestguldoshlar (Karamdoshlar)ga tegishli."
     },
@@ -20860,6 +21728,7 @@ const biologiya = {
           "text": "Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Atirgo'ldoshlar (Ra'noguldoshlar) - Gul formulasi: Gk5 Gt5 Ch cheksiz U cheksiz yoki 1."
     },
@@ -20884,6 +21753,7 @@ const biologiya = {
           "text": "Taloq 'eritrotsitlar qabristoni' deyiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Atirgo'ldoshlar (Ra'noguldoshlar)ga tegishli."
     },
@@ -20908,6 +21778,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Hazm fermenti Lipazaga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Burchoqdoshlar (Dukkakdoshlar) - Gultoji: yelkan (1), eshkaklar (2), qayiqcha (2 qo'shilgan), mevasi dukkak."
     },
@@ -20932,6 +21803,7 @@ const biologiya = {
           "text": "Urug'kurtak urug'ga aylanadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Burchoqdoshlar (Dukkakdoshlar)ga tegishli."
     },
@@ -20956,6 +21828,7 @@ const biologiya = {
           "text": "Ushbu ta'rif D vitamini (kalsiferol)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ituzumdoshlar - Gul formulasi: Gk(5) Gt(5) Ch5 U(2), mevasi rezavor yoki ko'sakcha."
     },
@@ -20980,6 +21853,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Komplementarlikga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Ituzumdoshlarga tegishli."
     },
@@ -21004,6 +21878,7 @@ const biologiya = {
           "text": "Murakkabguldoshlar (Qoqidoshlar) - Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Murakkabguldoshlar (Qoqidoshlar) - Gullari savatcha to'pgulda: tilsimon, naychasimon, soxta tilsimon, voronkasimon; mevasi pista."
     },
@@ -21028,6 +21903,7 @@ const biologiya = {
           "text": "Hujayra markazi (Sentrosoma) - Mitoz va meyoz bo'linish dukini hosil qilish."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Murakkabguldoshlar (Qoqidoshlar)ga tegishli."
     },
@@ -21052,6 +21928,7 @@ const biologiya = {
           "text": "Bug'doydoshlar (Boshoqdoshlar) - Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bug'doydoshlar (Boshoqdoshlar) - Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don."
     },
@@ -21076,6 +21953,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
     },
@@ -21100,6 +21978,7 @@ const biologiya = {
           "text": "Eritrotsitlar gazlarni tashiydi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Loladoshlar - Oddiy gulqo'rg'onli (O3+3 Ch3+3 U(3)), mevasi ko'sakcha, piyozboshli."
     },
@@ -21124,6 +22003,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Timus (ayrisimon bez)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Loladoshlarga tegishli."
     },
@@ -21148,6 +22028,7 @@ const biologiya = {
           "text": "Rezus-omil (Rh) - Eritrotsitlar membranasidagi maxsus D-antigen (musbat 85% odamlarda)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gidra (Bo'shliqichlilar) - Radial (nursimon) simmetriya, ikki qavatli tana (ektoderma va entoderma), otuvchi hujayralar."
     },
@@ -21172,6 +22053,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Gidra (Bo'shliqichlilar)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gidra (Bo'shliqichlilar)ga tegishli."
     },
@@ -21196,6 +22078,7 @@ const biologiya = {
           "text": "Oq planariya (Yassi chuvalchanglar) - Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Oq planariya (Yassi chuvalchanglar) - Ikki tomonlama (bilateral) simmetriya, uch qavatli tana, tana bo'shlig'i yo'q (parenxima)."
     },
@@ -21220,6 +22103,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Qushlarga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Oq planariya (Yassi chuvalchanglar)ga tegishli."
     },
@@ -21244,6 +22128,7 @@ const biologiya = {
           "text": "Bug'doydoshlar (Boshoqdoshlar) - Poyasi poxolpoya, bargi qinli, to'pguli boshoq yoki ro'vak, mevasi don."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Odam askaridasi (To'garak chuvalchanglar) - Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli."
     },
@@ -21268,6 +22153,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Oshqozon osti bezi (Langergans orolchalari)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Odam askaridasi (To'garak chuvalchanglar)ga tegishli."
     },
@@ -21292,6 +22178,7 @@ const biologiya = {
           "text": "Yog'lar avval limfaga o'tadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yomg'ir chuvalchangi (Halqali chuvalchanglar) - Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi."
     },
@@ -21316,6 +22203,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Yomg'ir chuvalchangi (Halqali chuvalchanglar)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Yomg'ir chuvalchangi (Halqali chuvalchanglar)ga tegishli."
     },
@@ -21340,6 +22228,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Daryo qisqichbaqasi (Qisqichbaqasimonlar) - Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi."
     },
@@ -21364,6 +22253,7 @@ const biologiya = {
           "text": "Yomg'ir chuvalchangi (Halqali chuvalchanglar) - Ikkilamchi tana bo'shlig'i (tselom), tana bo'g'imlarga bo'lingan, yopiq qon aylanish sistemasi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Daryo qisqichbaqasi (Qisqichbaqasimonlar)ga tegishli."
     },
@@ -21388,6 +22278,7 @@ const biologiya = {
           "text": "Mechnikov 1908-yilda Nobel mukofotini olgan."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Butli o'rgimchak (O'rgimchaksimonlar) - 4 juft yurish oyoqlari, mo'ylovlari yo'q, xelitsera va pedipalplar, o'pka xaltalari va traxeyalar."
     },
@@ -21412,6 +22303,7 @@ const biologiya = {
           "text": "C vitamini (askorbin kislota) - Singa (tsinga) kasalligi, milklar qonashi va immunitet pasayishi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Butli o'rgimchak (O'rgimchaksimonlar)ga tegishli."
     },
@@ -21436,6 +22328,7 @@ const biologiya = {
           "text": "To'r pardada fotoretseptorlar bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "May qo'ng'izi (Hasharotlar) - Tanasi 3 bo'lim (bosh, ko'krak, qorin), 3 juft oyoq, 1 juft mo'ylov, traxeyalar orqali nafas oladi."
     },
@@ -21460,6 +22353,7 @@ const biologiya = {
           "text": "Ushbu ta'rif May qo'ng'izi (Hasharotlar)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif May qo'ng'izi (Hasharotlar)ga tegishli."
     },
@@ -21484,6 +22378,7 @@ const biologiya = {
           "text": "Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lansetnik (Boshskeletlilar) - Xordalilarning eng tuban vakili, umr bo'yi xordasini saqlaydi, yuragi yo'q (pulsatsiyalanuvchi qorin qon tomiri)."
     },
@@ -21508,6 +22403,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Lansetnik (Boshskeletlilar)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Lansetnik (Boshskeletlilar)ga tegishli."
     },
@@ -21532,6 +22428,7 @@ const biologiya = {
           "text": "B1 vitamini (tiamin) - Beri-beri kasalligi (asab va yurak faoliyatining buzilishi)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Suvda va quruqlikda yashovchilar (Amfibiyalar) - 3 kamerali yurak (2 bo'lmacha, 1 qorincha), 2 ta qon aylanish doirasi, terisi doim nam."
     },
@@ -21556,6 +22453,7 @@ const biologiya = {
           "text": "Hazm fermenti Pepsin - Oshqozonda oqsillarni peptonlargacha parchalaydi (kislotali muhitda)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Suvda va quruqlikda yashovchilar (Amfibiyalar)ga tegishli."
     },
@@ -21580,6 +22478,7 @@ const biologiya = {
           "text": "Ushbu ta'rif K vitamini (filloxinon)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sudralib yuruvchilar (Reptiliyalar) - 3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali."
     },
@@ -21604,6 +22503,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Ribosomaga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sudralib yuruvchilar (Reptiliyalar)ga tegishli."
     },
@@ -21628,6 +22528,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Oq planariya (Yassi chuvalchanglar)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qushlar - 4 kamerali yurak, o'ng aorta ravog'i, issiqqonli (gomoyoterm), suyaklari ichi g'ovak, havo xaltachalari (qo'shaloq nafas)."
     },
@@ -21652,6 +22553,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Qushlarga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Qushlarga tegishli."
     },
@@ -21676,6 +22578,7 @@ const biologiya = {
           "text": "Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Sutemizuvchilar - 4 kamerali yurak, chap aorta ravog'i, diafragma, bolalarini sut bilan boqish, tishlar ixtisoslashgan."
     },
@@ -21700,6 +22603,7 @@ const biologiya = {
           "text": "Tuguncha devoridan meva hosil bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Sutemizuvchilarga tegishli."
     },
@@ -21724,6 +22628,7 @@ const biologiya = {
           "text": "Ushbu ta'rif III (B) qon guruhiga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gomozigota genotip - Bir xil allel genlarga ega organizm (masalan, AA yoki aa)."
     },
@@ -21748,6 +22653,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Gomozigota genotipga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gomozigota genotipga tegishli."
     },
@@ -21772,6 +22678,7 @@ const biologiya = {
           "text": "Pleiotropiya - Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Geterozigota genotip - Har xil allel genlarga ega organizm (masalan, Aa)."
     },
@@ -21796,6 +22703,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Oq planariya (Yassi chuvalchanglar)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Geterozigota genotipga tegishli."
     },
@@ -21820,6 +22728,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Endoplazmatik to'r (silliq)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Fenotip - Organizmning barcha tashqi va ichki belgilari hamda xususiyatlari yig'indisi."
     },
@@ -21844,6 +22753,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Hazm fermenti Pepsinga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Fenotipga tegishli."
     },
@@ -21868,6 +22778,7 @@ const biologiya = {
           "text": "Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Genotip - Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi."
     },
@@ -21892,6 +22803,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Genotipga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Genotipga tegishli."
     },
@@ -21916,6 +22828,7 @@ const biologiya = {
           "text": "Ushbu ta'rif B1 vitamini (tiamin)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kariotip - Muayyan turga mansub organizm xromosomalari to'plamining soni, o'lchami va shakli."
     },
@@ -21940,6 +22853,7 @@ const biologiya = {
           "text": "Miyacha muvozanat markazi hisoblanadi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kariotipga tegishli."
     },
@@ -21964,6 +22878,7 @@ const biologiya = {
           "text": "Genotip - Organizmning urug'lanish paytida ota-onadan olgan barcha genlari yig'indisi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "To'liqsiz dominantlik (oraliq irsiylanish) - Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)."
     },
@@ -21988,6 +22903,7 @@ const biologiya = {
           "text": "Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif To'liqsiz dominantlik (oraliq irsiylanish)ga tegishli."
     },
@@ -22012,6 +22928,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Odam askaridasi (To'garak chuvalchanglar)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kodominantlik - Ikkala allel genning ham fenotipda to'liq namoyon bo'lishi (masalan, IV (AB) qon guruhi)."
     },
@@ -22036,6 +22953,7 @@ const biologiya = {
           "text": "Qalqonsimon bez - Tiroksin va triyodtironin (asosiy metabolizmni boshqarish)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Kodominantlikga tegishli."
     },
@@ -22060,6 +22978,7 @@ const biologiya = {
           "text": "Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Komplementarlik - Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi."
     },
@@ -22084,6 +23003,7 @@ const biologiya = {
           "text": "Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Komplementarlikga tegishli."
     },
@@ -22108,6 +23028,7 @@ const biologiya = {
           "text": "Epistaz - Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Epistaz - Bitta noallel genning boshqa noallel gen ta'sirini bostirishi (ingibitsiya qilishi)."
     },
@@ -22132,6 +23053,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Epistazga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Epistazga tegishli."
     },
@@ -22156,6 +23078,7 @@ const biologiya = {
           "text": "Pleiotropiya - Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Polimeriya - Bir belgining rivojlanishiga bir necha juft noallel genlarning bir xil yo'nalishda ta'sir qilishi (kumulyativ)."
     },
@@ -22180,6 +23103,7 @@ const biologiya = {
           "text": "Ushbu ta'rif III (B) qon guruhiga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Polimeriyaga tegishli."
     },
@@ -22204,6 +23128,7 @@ const biologiya = {
           "text": "II (A) qon guruhi - Eritrotsitlarida A agglyutinogen, plazmasida beta agglyutinin bor."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Pleiotropiya - Bitta genning bir vaqtning o'zida bir nechta belgilarga ta'sir ko'rsatishi."
     },
@@ -22228,6 +23153,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Pleiotropiyaga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Pleiotropiyaga tegishli."
     },
@@ -22252,6 +23178,7 @@ const biologiya = {
           "text": "Hardy-Vaynberg qonuni - Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gomologik organlar - Kelib chiqishi va tuzilishi bir xil, lekin bajaradigan vazifasi har xil bo'lgan organlar (divergensiya natijasi)."
     },
@@ -22276,6 +23203,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Analogik organlarga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Gomologik organlarga tegishli."
     },
@@ -22300,6 +23228,7 @@ const biologiya = {
           "text": "Ribosoma oqsil biosintezini ta'minlaydi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Analogik organlar - Kelib chiqishi har xil, ammo bir xil yashash muhitida o'xshash vazifa bajaruvchi organlar (konvergensiya natijasi)."
     },
@@ -22324,6 +23253,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Biogenetik qonun (Gekkel-Myuller)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif Analogik organlarga tegishli."
     },
@@ -22348,6 +23278,7 @@ const biologiya = {
           "text": "Rudimentlar - Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Rudimentlar - Evolutsiya jarayonida o'zining dastlabki asosiy vazifasini yo'qotgan qoldiq organlar (masalan, ko'richak o'simtasi)."
     },
@@ -22372,6 +23303,7 @@ const biologiya = {
           "text": "Daryo qisqichbaqasi (Qisqichbaqasimonlar) - Boshko'krak va qorin, 2 juft mo'ylov, 5 juft yurish oyoqlari, jabralar orqali nafas oladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Rudimentlarga tegishli."
     },
@@ -22396,6 +23328,7 @@ const biologiya = {
           "text": "Ushbu ta'rif B12 vitamini (kobalamin)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Atavizm - Ajdodlarga xos bo'lgan, uzoq vaqt yo'qolib ketgan belgining ayrim individlarda tasodifan qayta paydo bo'lishi (masalan, qalin jun, dum)."
     },
@@ -22420,6 +23353,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Atavizmga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Atavizmga tegishli."
     },
@@ -22444,6 +23378,7 @@ const biologiya = {
           "text": "Qizil ilik barcha qon hujayralarini hosil qiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aromorfoz - Organizmlarning tuzilish darajasini keskin oshirib, yangi yashash muhitini egallashga imkon beradigan yirik evolutsion o'zgarish."
     },
@@ -22468,6 +23403,7 @@ const biologiya = {
           "text": "Ksilema o'suvchi oqimni ta'minlaydi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Aromorfozga tegishli."
     },
@@ -22492,6 +23428,7 @@ const biologiya = {
           "text": "Idioadaptatsiya - Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Idioadaptatsiya - Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)."
     },
@@ -22516,6 +23453,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Idioadaptatsiyaga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Idioadaptatsiyaga tegishli."
     },
@@ -22540,6 +23478,7 @@ const biologiya = {
           "text": "Ivanovskiy virusologiya faniga asos soldi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Umumiy degeneratsiya (katamorfoz) - O'troq yoki parazit hayot kechirishga o'tish munosabati bilan tana tuzilishining soddalashishi (organlarning yo'qolishi)."
     },
@@ -22564,6 +23503,7 @@ const biologiya = {
           "text": "To'liqsiz dominantlik (oraliq irsiylanish) - Geterozigota organizmda oraliq belgi namoyon bo'lishi (masalan, tungi go'zalda qizil va oqdan pushti rang chiqishi)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Umumiy degeneratsiya (katamorfoz)ga tegishli."
     },
@@ -22588,6 +23528,7 @@ const biologiya = {
           "text": "Ushbu ta'rif K vitamini (filloxinon)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Divergensiya - Umumiy ajdoddan kelib chiqqan belgilarning turli muhit ta'sirida ajralib, turlicha shakl olishi."
     },
@@ -22612,6 +23553,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Divergensiyaga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Divergensiyaga tegishli."
     },
@@ -22636,6 +23578,7 @@ const biologiya = {
           "text": "Sudralib yuruvchilar (Reptiliyalar) - 3 kamerali yurak (qorinchada chala to'siq bor, timsohda 4 kamerali), terisi quruq muguz tangachali."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Konvergensiya - Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)."
     },
@@ -22660,6 +23603,7 @@ const biologiya = {
           "text": "Idioadaptatsiya - Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif Konvergensiyaga tegishli."
     },
@@ -22684,6 +23628,7 @@ const biologiya = {
           "text": "Krossingover genlar almashinuvidir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Biogenetik qonun (Gekkel-Myuller) - Har bir organizm o'z individual rivojlanishida (ontogenez) o'z turining tarixiy taraqqiyotini (filogenez) qisqacha takrorlaydi."
     },
@@ -22708,6 +23653,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Biogenetik qonun (Gekkel-Myuller)ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif Biogenetik qonun (Gekkel-Myuller)ga tegishli."
     },
@@ -22732,6 +23678,7 @@ const biologiya = {
           "text": "Hardy-Vaynberg qonuni - Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Hardy-Vaynberg qonuni - Ideal erkin chatishuvchi (panmiktik) populyatsiyada genlar va genotiplar uchrash chastotasi avloddan avlodga o'zgarmasdan saqlanadi."
     },
@@ -22756,6 +23703,7 @@ const biologiya = {
           "text": "Idioadaptatsiya - Umumiy tuzilish darajasini o'zgartirmasdan, muayyan tor muhit sharoitiga moslashish (masalan, qushlar tumshug'ining har xilligi)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Hardy-Vaynberg qonuniga tegishli."
     },
@@ -22780,6 +23728,7 @@ const biologiya = {
           "text": "Vavilovning gomologik qatorlar qonuni - Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Vavilovning gomologik qatorlar qonuni - Genetik jihatdan o'zaro yaqin bo'lgan turlar va urug'lar irsiy o'zgaruvchanlikning o'xshash qatorlariga ega bo'ladi."
     },
@@ -22804,6 +23753,7 @@ const biologiya = {
           "text": "Broun o'simlik hujayralarida yadroni topgan."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif Vavilovning gomologik qatorlar qonuniga tegishli."
     },
@@ -22828,6 +23778,7 @@ const biologiya = {
           "text": "Lui Paster vaksinalar tayyorlash usulini ochdi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Uotson va Krik DNK qo'sh spiralini yaratgan."
     },
@@ -22852,6 +23803,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Odam askaridasi (To'garak chuvalchanglar)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Shleyden va Shvann hujayra nazariyasini asoslagan."
     },
@@ -22876,6 +23828,7 @@ const biologiya = {
           "text": "B12 vitamini (kobalamin) - Xavfli kamqonlik (anemiya)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Virxov hujayra nazariyasini to'ldirdi."
     },
@@ -22900,6 +23853,7 @@ const biologiya = {
           "text": "Ushbu ta'rif May qo'ng'izi (Hasharotlar)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Levenguk sodda organizmlarni kashf etdi."
     },
@@ -22924,6 +23878,7 @@ const biologiya = {
           "text": "Metafazada xromosomalar ekvatorga keladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Broun o'simlik hujayralarida yadroni topgan."
     },
@@ -22948,6 +23903,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Bug'doydoshlar (Boshoqdoshlar)ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ivanovskiy virusologiya faniga asos soldi."
     },
@@ -22972,6 +23928,7 @@ const biologiya = {
           "text": "Qushlarda o'ng, sutemizuvchilarda chap aorta ravog'i."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mechnikov 1908-yilda Nobel mukofotini olgan."
     },
@@ -22996,6 +23953,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Gomozigota genotipga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lui Paster vaksinalar tayyorlash usulini ochdi."
     },
@@ -23020,6 +23978,7 @@ const biologiya = {
           "text": "Jenner sigir chechagi orqali odamni emlagan."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Jenner sigir chechagi orqali odamni emlagan."
     },
@@ -23044,6 +24003,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Genotipga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Fleming Penicillium zamburug'idan penitsillin oldi."
     },
@@ -23068,6 +24028,7 @@ const biologiya = {
           "text": "Qushlarda o'ng, sutemizuvchilarda chap aorta ravog'i."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Robert Kox sil bakteriyasini topdi."
     },
@@ -23092,6 +24053,7 @@ const biologiya = {
           "text": "Ushbu ta'rif B12 vitamini (kobalamin)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Landshteyner qon guruhlarini ajratdi."
     },
@@ -23116,6 +24078,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Epistazga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tuguncha devoridan meva hosil bo'ladi."
     },
@@ -23140,6 +24103,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Aromorfozga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Urug'kurtak urug'ga aylanadi."
     },
@@ -23164,6 +24128,7 @@ const biologiya = {
           "text": "Transpiratsiya o'simlikni sovutadi va suv oqimini ta'minlaydi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Transpiratsiya o'simlikni sovutadi va suv oqimini ta'minlaydi."
     },
@@ -23188,6 +24153,7 @@ const biologiya = {
           "text": "Urug'kurtak urug'ga aylanadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gutatsiya havoda namlik yuqori bo'lganda kuzatiladi."
     },
@@ -23212,6 +24178,7 @@ const biologiya = {
           "text": "Buyrak usti bezi mag'iz qismi - Adrenalin va noradrenalin (stress gormonlari)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Xlorofill markazida magniy atomi bo'ladi."
     },
@@ -23236,6 +24203,7 @@ const biologiya = {
           "text": "Gemoglobinda temir kislorodni biriktiradi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Gemoglobinda temir kislorodni biriktiradi."
     },
@@ -23260,6 +24228,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Butli o'rgimchak (O'rgimchaksimonlar)ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fibrinogen trombin ta'sirida fibringa o'tadi."
     },
@@ -23284,6 +24253,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Gipofiz beziga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qizil ilik barcha qon hujayralarini hosil qiladi."
     },
@@ -23308,6 +24278,7 @@ const biologiya = {
           "text": "Keksaygan eritrotsitlar taloq va jigarda parchalanadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Keksaygan eritrotsitlar taloq va jigarda parchalanadi."
     },
@@ -23332,6 +24303,7 @@ const biologiya = {
           "text": "Taloq 'eritrotsitlar qabristoni' deyiladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Taloq 'eritrotsitlar qabristoni' deyiladi."
     },
@@ -23356,6 +24328,7 @@ const biologiya = {
           "text": "Epifiz (g'uddasimon bez) - Melatonin (kun-tun biologik ritmlarini boshqarish)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Koronar tomirlar yurak miokardini oziqlantiradi."
     },
@@ -23380,6 +24353,7 @@ const biologiya = {
           "text": "Konvergensiya - Har xil kelib chiqishga ega organizmlarning bir xil muhitda yashashi natijasida tashqi tuzilishining o'xshash bo'lib qolishi (masalan, kit va akula)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bo'lmachalar sistolasi 0.1s, qorinchalar sistolasi 0.3s, umumiy pauza 0.4s."
     },
@@ -23404,6 +24378,7 @@ const biologiya = {
           "text": "HCl kuchli kislotali muhit va bakteritsid ta'sir ko'rsatadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "HCl kuchli kislotali muhit va bakteritsid ta'sir ko'rsatadi."
     },
@@ -23428,6 +24403,7 @@ const biologiya = {
           "text": "Eritrotsitlar gazlarni tashiydi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Vorsinkalar oziq moddalarni qon va limfaga so'radi."
     },
@@ -23452,6 +24428,7 @@ const biologiya = {
           "text": "Gutatsiya havoda namlik yuqori bo'lganda kuzatiladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Glyukoza va aminokislotalar qonga, yog' kislotalari limfaga so'riladi."
     },
@@ -23476,6 +24453,7 @@ const biologiya = {
           "text": "Yog'lar avval limfaga o'tadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yog'lar avval limfaga o'tadi."
     },
@@ -23500,6 +24478,7 @@ const biologiya = {
           "text": "Komplementarlik - Nonoallel ikkita dominant genning birgalikda yangi belgini hosil qilishi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Gipotalamus tana haroratini boshqaradi."
     },
@@ -23524,6 +24503,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Endoplazmatik to'r (silliq)ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Gipotalamo-gipofizar tizim."
     },
@@ -23548,6 +24528,7 @@ const biologiya = {
           "text": "Jigar eng yirik bezdir."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Birlamchi siydikdan suv va foydali moddalar qayta so'riladi."
     },
@@ -23572,6 +24553,7 @@ const biologiya = {
           "text": "Odam askaridasi (To'garak chuvalchanglar) - Birlamchi tana bo'shlig'i, orqa chiqaruv teshigi (anal teshik) mavjud, ayrim jinsli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Birlamchi siydik 150-180 L, ikkilamchi siydik esa 1.5 L."
     },
@@ -23596,6 +24578,7 @@ const biologiya = {
           "text": "Krestguldoshlar (Karamdoshlar) - Gul formulasi: Gk4 Gt4 Ch2+4 U(2), mevasi qo'zoq yoki qo'zoqcha."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Oqsil va qand paydo bo'lishi kasallik belgisidir."
     },
@@ -23620,6 +24603,7 @@ const biologiya = {
           "text": "Ushbu ta'rif Gomozigota genotipga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Oq planariya yassi chuvalchanglar tipiga kiradi: tanasi ikki tomonlama (bilateral) simmetriyali, uch qavatli (ektoderma, entoderma, mezoderma) bo‘lib, tana bo‘shlig‘i bo‘lmaydi, ichki a'zolar oralig‘i biriktiruvchi to‘qima — parenxima bilan to‘lgan."
     },
@@ -23644,6 +24628,7 @@ const biologiya = {
           "text": "Ribosoma"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Mitoxondriya ATF sintezlaydi."
     },
@@ -23668,6 +24653,7 @@ const biologiya = {
           "text": "Eritrotsitlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eritrotsitlar gemoglobin orqali kislorod tashiydi."
     },
@@ -23692,6 +24678,7 @@ const biologiya = {
           "text": "Xloroplast"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Xloroplastlarda fotosintez boradi."
     },
@@ -23716,6 +24703,7 @@ const biologiya = {
           "text": "O'pka"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "Teri maydoni va og'irligi bo'yicha eng yirik organdir."
     },
@@ -23740,6 +24728,7 @@ const biologiya = {
           "text": "Mitoxondriya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mitoxondriyada ATF sintezlanadi."
     },
@@ -23764,6 +24753,7 @@ const biologiya = {
           "text": "Ribosoma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ribosoma oqsil biosintezini ta'minlaydi."
     },
@@ -23788,6 +24778,7 @@ const biologiya = {
           "text": "Lizosoma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Lizosoma gidrolitik fermentlarga boy."
     },
@@ -23812,6 +24803,7 @@ const biologiya = {
           "text": "Murein"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Zamburug'larda xitin bo'ladi."
     },
@@ -23836,6 +24828,7 @@ const biologiya = {
           "text": "4 ta"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G va S orasida 3 ta vodorod bog'i mavjud."
     },
@@ -23860,6 +24853,7 @@ const biologiya = {
           "text": "Granalar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kristalar ichki sathni kengaytiradi."
     },
@@ -23884,6 +24878,7 @@ const biologiya = {
           "text": "Metafaza"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Metafazada xromosomalar ekvatorga keladi."
     },
@@ -23908,6 +24903,7 @@ const biologiya = {
           "text": "Telofaza"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Anafazada qutblarga tortiladi."
     },
@@ -23932,6 +24928,7 @@ const biologiya = {
           "text": "Transkripsiya"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Krossingover genlar almashinuvidir."
     },
@@ -23956,6 +24953,7 @@ const biologiya = {
           "text": "Trombotsitlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Eritrotsitlar gazlarni tashiydi."
     },
@@ -23980,6 +24978,7 @@ const biologiya = {
           "text": "Taloq"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jigar eng yirik bezdir."
     },
@@ -24004,6 +25003,7 @@ const biologiya = {
           "text": "Jigar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Teri umumiy maydoni va vazni bilan eng yirik organdir."
     }

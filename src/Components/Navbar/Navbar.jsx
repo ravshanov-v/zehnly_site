@@ -1,14 +1,18 @@
 import { useEffect, useState } from 'react'
 import { NavLink } from 'react-router-dom'
-import routes from '../../routes.jsx'
+import { navRoutes } from '../../routes.jsx'
 import { useTheme } from '../../context/useTheme.js'
+import { useAtmosphere } from '../../context/useAtmosphere.js'
+import { useSeasonalScene } from '../../context/useSeasonalScene.js'
 import { useSession } from '../../hooks/useSession.js'
+import { useAuthReady } from '../../hooks/useAuthReady.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
 import { useFavorites } from '../../hooks/useFavorites.js'
 import { logoutUser } from '../../utils/authStore.js'
 import { useToast } from '../../context/useToast.js'
 import { formatRecordDate, mergeGuestHistory } from '../../utils/quizHistory.js'
 import { mergeGuestFavorites } from '../../utils/favorites.js'
+import { mergeGuestProgress } from '../../utils/quizProgress.js'
 import { studyCenters } from '../../data/studyCenters.js'
 import AuthModal from '../AuthModal/AuthModal.jsx'
 import Logo from '../Logo.jsx'
@@ -19,19 +23,26 @@ import Statistika from '../../Pages/Profil/Statistika.jsx'
 import Tarix from '../../Pages/Profil/Tarix.jsx'
 import Xatlar from '../../Pages/Profil/Xatlar.jsx'
 import Sozlamalar from '../../Pages/Profil/Sozlamalar.jsx'
-import { ArrowUpRight } from '../Marks.jsx'
+import { ArrowUpRight, Spark } from '../Marks.jsx'
 
 const navLinkBase =
   'flex items-center rounded-lg px-3.5 py-2 text-[13px] font-medium transition-colors duration-150'
 
 export default function Navbar() {
   const { theme, toggleTheme } = useTheme()
+  const {
+    enabled: atmosphereEnabled,
+    toggleEnabled: toggleAtmosphere,
+    effectLabel: atmosphereLabel,
+  } = useAtmosphere()
+  const { active: seasonalSceneActive, physicalMode } = useSeasonalScene()
   const { showToast } = useToast()
   const [authOpen, setAuthOpen] = useState(false)
   const [profilOpen, setProfilOpen] = useState(false)
   const [profilTab, setProfilTab] = useState('malumotlarim')
   const [menuOpen, setMenuOpen] = useState(false)
   const session = useSession()
+  const authReady = useAuthReady()
   const { records, stats } = useQuizHistory()
   const favoriteIds = useFavorites()
   const isDark = theme === 'dark'
@@ -50,7 +61,8 @@ export default function Navbar() {
     if (!session?.email) return
     mergeGuestHistory(session.email)
     mergeGuestFavorites(session.email)
-  }, [session?.email])
+    mergeGuestProgress()
+  }, [session?.email, session?.id])
 
   useEffect(() => {
     if (!menuOpen) return
@@ -72,7 +84,12 @@ export default function Navbar() {
 
   return (
     <>
-      <header className="sticky top-0 z-50 border-b border-hairline bg-paper/70 backdrop-blur-2xl">
+      <header
+        className={[
+          'sticky top-0 z-50 border-b border-hairline bg-paper/70 backdrop-blur-2xl',
+          seasonalSceneActive && physicalMode === 'snow' ? 'seasonal-navbar-frost' : '',
+        ].join(' ')}
+      >
         <div className="mx-auto flex h-16 max-w-[1240px] items-center justify-between gap-4 px-5 sm:px-8">
           <NavLink
             to="/"
@@ -84,7 +101,7 @@ export default function Navbar() {
           </NavLink>
 
           <nav className="hidden items-center gap-1 md:flex">
-            {routes.map((route) => (
+            {navRoutes.map((route) => (
               <NavLink
                 key={route.path}
                 to={route.path}
@@ -139,7 +156,37 @@ export default function Navbar() {
               )}
             </button>
 
-            {session ? (
+            <button
+              type="button"
+              onClick={toggleAtmosphere}
+              role="switch"
+              aria-checked={atmosphereEnabled}
+              aria-label={
+                atmosphereEnabled
+                  ? 'Mavsumiy effektni o‘chirish'
+                  : 'Mavsumiy effektni yoqish'
+              }
+              title={
+                atmosphereEnabled
+                  ? `${atmosphereLabel} · o‘chirish`
+                  : 'Mavsumiy effektni yoqish'
+              }
+              className={[
+                'flex h-9 w-9 items-center justify-center rounded-lg border transition-colors active:scale-95',
+                atmosphereEnabled
+                  ? 'border-ember/30 bg-ember/[0.06] text-ember hover:bg-ember/10'
+                  : 'border-hairline bg-transparent text-muted hover:border-hairline-strong hover:bg-ink/[0.04] hover:text-ink',
+              ].join(' ')}
+            >
+              <Spark className="h-4 w-4" />
+            </button>
+
+            {!authReady ? (
+              <span
+                aria-label="Sessiya tekshirilmoqda"
+                className="h-9 w-20 animate-pulse rounded-lg border border-hairline bg-ink/[0.04] sm:w-24"
+              />
+            ) : session ? (
               <div className="flex items-center gap-1.5 sm:gap-2">
                 <button
                   type="button"
@@ -148,7 +195,7 @@ export default function Navbar() {
                   aria-label="Profil bo'limini ochish"
                   className="group flex h-9 items-center gap-2 rounded-lg border border-hairline bg-paper/60 py-1 pl-1 pr-1.5 transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] lg:pr-3"
                 >
-                  <span className="relative flex h-7 w-7 shrink-0 items-center justify-center rounded-md bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-[12px] font-semibold text-white">
+                  <span className="relative flex h-7 w-7 shrink-0 items-center justify-center rounded-md gradient-brand font-display text-[12px] font-semibold text-white">
                     {initial}
                     <span className="absolute -bottom-0.5 -right-0.5 h-2.5 w-2.5 rounded-full border-2 border-paper bg-positive" />
                   </span>
@@ -235,7 +282,7 @@ export default function Navbar() {
           >
             <div className="mx-auto max-w-[1240px] px-5 py-4 sm:px-8">
               <div className="flex flex-col">
-                {routes.map((route) => (
+                {navRoutes.map((route) => (
                   <NavLink
                     key={route.path}
                     to={route.path}
@@ -257,7 +304,7 @@ export default function Navbar() {
               {session ? (
                 <div className="mt-4 rounded-xl border border-hairline bg-paper p-3">
                   <div className="flex items-center gap-3">
-                    <span className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-base font-semibold text-white">
+                    <span className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-lg gradient-brand font-display text-base font-semibold text-white">
                       {initial}
                       <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-paper bg-positive" />
                     </span>

@@ -1,28 +1,34 @@
+import { isRemoteAuth } from '../../utils/authStore.js'
+
 export default function Malumotlarim({ user }) {
-  const formatDate = (dateString) => {
-    if (!dateString) return "Noma'lum";
-    try {
-      const d = new Date(dateString);
-      return d.toLocaleDateString('uz-UZ', {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric',
-      });
-    } catch {
-      return dateString;
-    }
+  const formatDate = (dateValue) => {
+    if (!dateValue) return "Noma'lum";
+
+    const date = new Date(dateValue);
+    if (Number.isNaN(date.getTime())) return "Noma'lum";
+
+    const day = String(date.getDate()).padStart(2, '0');
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const year = date.getFullYear();
+
+    return `${day}.${month}.${year}`;
   };
 
   const displayName = user?.name || user?.email?.split('@')[0] || "Foydalanuvchi";
   const email = user?.email || "Ko'rsatilmagan";
   const userId = user?.id ? `#${user.id.slice(0, 8).toUpperCase()}` : '—';
-  const createdAt = formatDate(user?.createdAt);
+  const createdAt = formatDate(user?.created_at ?? user?.createdAt);
 
   const cells = [
     { label: 'Elektron pochta', value: email, mono: false, accent: false },
     { label: "Ro'yxatdan o'tgan sana", value: createdAt, mono: false, accent: false },
     { label: 'Foydalanuvchi ID', value: userId, mono: true, accent: true },
-    { label: 'Hisob turi', value: 'Lokal hisob · shu brauzerda', mono: false, accent: false },
+    {
+      label: 'Hisob turi',
+      value: isRemoteAuth ? 'Supabase hisob · qurilmalararo sinxron' : 'Lokal hisob · shu brauzerda',
+      mono: false,
+      accent: false,
+    },
   ];
 
   return (
@@ -34,7 +40,7 @@ export default function Malumotlarim({ user }) {
         />
         <div className="relative flex items-start justify-between gap-4">
           <div className="flex items-center gap-3">
-            <span className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-xl font-semibold text-white">
+            <span className="flex h-12 w-12 items-center justify-center rounded-xl gradient-brand font-display text-xl font-semibold text-white">
               {displayName.charAt(0).toUpperCase()}
             </span>
             <div>

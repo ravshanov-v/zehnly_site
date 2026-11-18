@@ -28,6 +28,7 @@ const huquq = {
           "text": "1992-yil 8-dekabr"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -52,6 +53,7 @@ const huquq = {
           "text": "Prokuratura"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -76,6 +78,7 @@ const huquq = {
           "text": "1950"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -100,6 +103,7 @@ const huquq = {
           "text": "Prezident farmoni"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -124,6 +128,7 @@ const huquq = {
           "text": "Federativ respublika"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -148,6 +153,7 @@ const huquq = {
           "text": "Oliy Majlis"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -172,6 +178,7 @@ const huquq = {
           "text": "1991-yil 18-noyabr"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -196,6 +203,7 @@ const huquq = {
           "text": "1992-yil 8-dekabr"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -220,6 +228,7 @@ const huquq = {
           "text": "1993-yil 8-dekabr"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -244,6 +253,7 @@ const huquq = {
           "text": "Uch palatadan"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -268,6 +278,7 @@ const huquq = {
           "text": "7 yil muddatga"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -292,6 +303,7 @@ const huquq = {
           "text": "6 yil muddatga"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -316,6 +328,7 @@ const huquq = {
           "text": "40 yoshdan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -340,6 +353,7 @@ const huquq = {
           "text": "30 yoshga"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -364,6 +378,7 @@ const huquq = {
           "text": "18 yoshdan"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -388,6 +403,7 @@ const huquq = {
           "text": "Oliy Sud"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -412,6 +428,7 @@ const huquq = {
           "text": "Ijroiya organlarini boshqaradi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -436,6 +453,7 @@ const huquq = {
           "text": "Pasport olganda"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -460,6 +478,7 @@ const huquq = {
           "text": "21 yoshdan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -484,6 +503,7 @@ const huquq = {
           "text": "Reabilitatsiya"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -508,6 +528,7 @@ const huquq = {
           "text": "Jazo muddatini o'tash vaqti"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -532,6 +553,7 @@ const huquq = {
           "text": "1 yil"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -556,6 +578,7 @@ const huquq = {
           "text": "Bobo va buvilari"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -580,6 +603,7 @@ const huquq = {
           "text": "14 yoshdan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -604,6 +628,7 @@ const huquq = {
           "text": "Haftasiga 30 soat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -628,6 +653,7 @@ const huquq = {
           "text": "Haftasiga 36 soat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -652,6 +678,7 @@ const huquq = {
           "text": "Haftasiga 48 soat"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -676,6 +703,7 @@ const huquq = {
           "text": "1 oy"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -700,6 +728,7 @@ const huquq = {
           "text": "21 kalendar kundan kam bo'lmasligi kerak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -724,6 +753,7 @@ const huquq = {
           "text": "Jismoniy jazolash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -748,6 +778,7 @@ const huquq = {
           "text": "20 yosh"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -772,6 +803,7 @@ const huquq = {
           "text": "Qisqartirilishi mumkin emas"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -796,6 +828,7 @@ const huquq = {
           "text": "Boshqa nikohda turgan shaxslar, yaqin qarindoshlar, ruhan nosog'lom shaxslar o'rtasida"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -820,6 +853,7 @@ const huquq = {
           "text": "Davlat mulki"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -844,6 +878,7 @@ const huquq = {
           "text": "Har birining o'z shaxsiy xususiy mulki"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -868,6 +903,7 @@ const huquq = {
           "text": "Beshdan bir qismi (1/5)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -892,6 +928,7 @@ const huquq = {
           "text": "18 yosh"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -916,6 +953,7 @@ const huquq = {
           "text": "18 yoshdan"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -940,6 +978,7 @@ const huquq = {
           "text": "Jinoyat sodir etish usuli"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -964,6 +1003,7 @@ const huquq = {
           "text": "2016-yil 4-dekabrdan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -988,6 +1028,7 @@ const huquq = {
           "text": "Jazodan ozod qilish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -1012,6 +1053,7 @@ const huquq = {
           "text": "18 yoshdan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -1036,6 +1078,7 @@ const huquq = {
           "text": "10 sutka"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -1060,6 +1103,7 @@ const huquq = {
           "text": "Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -1084,6 +1128,7 @@ const huquq = {
           "text": "Saylov huquqi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -1108,6 +1153,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -1132,6 +1178,7 @@ const huquq = {
           "text": "Meros huquqi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -1156,6 +1203,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -1180,6 +1228,7 @@ const huquq = {
           "text": "E'tiqod erkinligi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -1204,6 +1253,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -1228,6 +1278,7 @@ const huquq = {
           "text": "Saylov huquqi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -1252,6 +1303,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -1276,6 +1328,7 @@ const huquq = {
           "text": "Mehnat huquqi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -1300,6 +1353,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -1324,6 +1378,7 @@ const huquq = {
           "text": "Ta'lim olish huquqi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -1348,6 +1403,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -1372,6 +1428,7 @@ const huquq = {
           "text": "Shartnoma erkinligi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -1396,6 +1453,7 @@ const huquq = {
           "text": "Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -1420,6 +1478,7 @@ const huquq = {
           "text": "Davlat organlariga murojaat qilish huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -1444,6 +1503,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -1468,6 +1528,7 @@ const huquq = {
           "text": "E'tiqod erkinligi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -1492,6 +1553,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -1516,6 +1578,7 @@ const huquq = {
           "text": "Saylov huquqi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -1540,6 +1603,7 @@ const huquq = {
           "text": "Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -1564,6 +1628,7 @@ const huquq = {
           "text": "Tibbiy yordam olish huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -1588,6 +1653,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -1612,6 +1678,7 @@ const huquq = {
           "text": "Daxlsizlik"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -1636,6 +1703,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -1660,6 +1728,7 @@ const huquq = {
           "text": "Bepul umumiy o'rta ta'lim olish huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -1684,6 +1753,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -1708,6 +1778,7 @@ const huquq = {
           "text": "Vatanni himoya qilish"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -1732,6 +1803,7 @@ const huquq = {
           "text": "Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -1756,6 +1828,7 @@ const huquq = {
           "text": "Qonunga rioya qilish"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -1780,6 +1853,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -1804,6 +1878,7 @@ const huquq = {
           "text": "Ta'lim olish burchi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -1828,6 +1903,7 @@ const huquq = {
           "text": "Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -1852,6 +1928,7 @@ const huquq = {
           "text": "Tarixiy, ma'naviy va madaniy merosni asrab-avaylash"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -1876,6 +1953,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -1900,6 +1978,7 @@ const huquq = {
           "text": "Soliq to'lash"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -1924,6 +2003,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -1948,6 +2028,7 @@ const huquq = {
           "text": "Pudrat shartnomasi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -1972,6 +2053,7 @@ const huquq = {
           "text": "Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -1996,6 +2078,7 @@ const huquq = {
           "text": "Garov"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -2020,6 +2103,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -2044,6 +2128,7 @@ const huquq = {
           "text": "Layoqat mezonlari"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -2068,6 +2153,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -2092,6 +2178,7 @@ const huquq = {
           "text": "Ko'char mulk"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -2116,6 +2203,7 @@ const huquq = {
           "text": "14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -2140,6 +2228,7 @@ const huquq = {
           "text": "Patronat"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -2164,6 +2253,7 @@ const huquq = {
           "text": "14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -2188,6 +2278,7 @@ const huquq = {
           "text": "Emansipatsiya"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -2212,6 +2303,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -2236,6 +2328,7 @@ const huquq = {
           "text": "Jinoyat tushunchasi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
     },
@@ -2260,6 +2353,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -2284,6 +2378,7 @@ const huquq = {
           "text": "Ozodlikdan mahrum qilish"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ozodlikni cheklash jazosi'ga tegishli."
     },
@@ -2308,6 +2403,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -2332,6 +2428,7 @@ const huquq = {
           "text": "Majburiy jamoat ishlari"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
     },
@@ -2356,6 +2453,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -2380,6 +2478,7 @@ const huquq = {
           "text": "Axloq tuzatish ishlari"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Axloq tuzatish ishlari'ga tegishli."
     },
@@ -2404,6 +2503,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -2428,6 +2528,7 @@ const huquq = {
           "text": "Yengillatuvchi holatlar"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
     },
@@ -2452,6 +2553,7 @@ const huquq = {
           "text": "Birinchi marta 5 yilga, keyin 10 yil muddatga"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
     },
@@ -2476,6 +2578,7 @@ const huquq = {
           "text": "5 yil"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -2500,6 +2603,7 @@ const huquq = {
           "text": "Ochiq holda o'tkaziladi (davlat sirini saqlash hollari bundan mustasno)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ochiqlik va shaffoflik konstitutsiyaviy prinsipdir."
     },
@@ -2524,6 +2628,7 @@ const huquq = {
           "text": "1994-yil 1-iyul"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -2548,6 +2653,7 @@ const huquq = {
           "text": "1991-yil 31-avgust"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -2572,6 +2678,7 @@ const huquq = {
           "text": "1989-yil 20-noyabrda"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -2596,6 +2703,7 @@ const huquq = {
           "text": "18 yoshga to'lmagan shaxs"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
     },
@@ -2620,6 +2728,7 @@ const huquq = {
           "text": "Faqat sud qarori"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
     },
@@ -2644,6 +2753,7 @@ const huquq = {
           "text": "Faqat davlat idorasi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
     },
@@ -2668,6 +2778,7 @@ const huquq = {
           "text": "Bank to'lovi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Notarius bitimlarning qonuniyligini rasmiylashtiradi."
     },
@@ -2692,6 +2803,7 @@ const huquq = {
           "text": "Faqat xotin huquqli"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Konstitutsiya va Oila kodeksi er-xotin teng huquqliligini kafolatlaydi."
     },
@@ -2716,6 +2828,7 @@ const huquq = {
           "text": "3 kun oldin"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
     },
@@ -2740,6 +2853,7 @@ const huquq = {
           "text": "Kamida 2 oy oldin yozma ravishda"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
     },
@@ -2764,6 +2878,7 @@ const huquq = {
           "text": "Tergov ma'lumotnomasi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ishga kirishda qonunda ruxsat etilmagan qo'shimcha hujjatlarni talab qilish man etiladi."
     },
@@ -2788,6 +2903,7 @@ const huquq = {
           "text": "Ota-onalar tomonidan"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
     },
@@ -2812,6 +2928,7 @@ const huquq = {
           "text": "Qonunchilik palatasi taklifi bilan"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
     },
@@ -2836,6 +2953,7 @@ const huquq = {
           "text": "Bosh prokuror"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Prezident parlament palatalari bilan maslahatlashuvlardan so'ng nomzodni kiritadi."
     },
@@ -2860,6 +2978,7 @@ const huquq = {
           "text": "Xalq deputatlari viloyat, tuman va shahar Kengashlari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
     },
@@ -2884,6 +3003,7 @@ const huquq = {
           "text": "Profilaktika inspektori"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mahalla fuqarolarning o'zini o'zi boshqarishining nodavlat institutidir."
     },
@@ -2908,6 +3028,7 @@ const huquq = {
           "text": "Gaaga shahrida (Niderlandiya)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "BMTning asosiy sud organi Gaagada joylashgan."
     },
@@ -2932,6 +3053,7 @@ const huquq = {
           "text": "1939-yilda"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
     },
@@ -2956,6 +3078,7 @@ const huquq = {
           "text": "Faqat hokimlar"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Qonun loyihasini parlamentga kiritish huquqiga ega bo'lgan sub'ektlar doirasi qat'iy belgilangan."
     },
@@ -2980,6 +3103,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«O'zbekiston Respublikasi Konstitutsiyasi qaysi sanada qabul qilingan?» savolining to'g'ri javobi — 1992-yil 8-dekabr. Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -3004,6 +3128,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Konstitutsiyaviy sudi sudyalari necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«O'zbekistonda qonun chiqaruvchi hokimiyat organi qaysi?» savolining to'g'ri javobi — Oliy Majlis. O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -3028,6 +3153,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash'?"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "«Inson huquqlari umumjahon deklaratsiyasi qaysi yilda qabul qilingan?» savolining to'g'ri javobi — 1948. BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -3052,6 +3178,7 @@ const huquq = {
           "text": "Inson huquqlari umumjahon deklaratsiyasi qaysi yilda qabul qilingan?"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "«Quyidagilardan qaysi biri O'zbekiston Respublikasining davlat ramzi EMAS?» savolining to'g'ri javobi — Prezident farmoni. Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -3076,6 +3203,7 @@ const huquq = {
           "text": "Mahalliy davlat hokimiyati vakillik organi qanday ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Yangi tahrirdagi Konstitutsiyaga muvofiq, O'zbekiston qanday davlat deb e'lon qilingan?» savolining to'g'ri javobi — Suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat. Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -3100,6 +3228,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«O'zbekiston Respublikasida davlat hokimiyatining birdan-bir manbai kim hisoblanadi?» savolining to'g'ri javobi — O'zbekiston xalqi. Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -3124,6 +3253,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat bayrog'i to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi Davlat bayrog'i to'g'risidagi qonun qachon qabul qilingan?» savolining to'g'ri javobi — 1991-yil 18-noyabr. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -3148,6 +3278,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat gerbi to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi Davlat gerbi to'g'risidagi qonun qachon qabul qilingan?» savolining to'g'ri javobi — 1992-yil 2-iyul. Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -3172,6 +3303,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat madhiyasi qachon qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi Davlat madhiyasi qachon qabul qilingan?» savolining to'g'ri javobi — 1992-yil 10-dekabr. Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -3196,6 +3328,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Oliy Majlisi necha palatadan iborat?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi Oliy Majlisi necha palatadan iborat?» savolining to'g'ri javobi — Ikki palatadan: Qonunchilik palatasi (quyi) va Senat (yuqori). Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -3220,6 +3353,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Turar joy daxlsizligi huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Oliy Majlis Qonunchilik palatasi deputatlari necha yil muddatga saylanadi?» savolining to'g'ri javobi — 5 yil muddatga. Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -3244,6 +3378,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi Prezidenti necha yil muddatga saylanadi?» savolining to'g'ri javobi — 7 yil muddatga. Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -3268,6 +3403,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?» savolining to'g'ri javobi — 35 yoshdan. O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -3292,6 +3428,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Oliy Majlis Qonunchilik palatasi deputatligiga saylanish uchun fuqaro necha yoshga to'lgan bo'lishi kerak?» savolining to'g'ri javobi — 25 yoshga. Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -3316,6 +3453,7 @@ const huquq = {
           "text": "Vasiyatnoma bo'lmagan taqdirda, qonun bo'yicha merosxo'rlarning birinchi navbatiga kimlar kiradi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«O'zbekiston Respublikasida saylov huquqi (faol saylov huquqi) necha yoshdan boshlanadi?» savolining to'g'ri javobi — 18 yoshdan. 18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -3340,6 +3478,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasida ijro etuvchi hokimiyatni qaysi organ amalga oshiradi?» savolining to'g'ri javobi — Vazirlar Mahkamasi (Hukumat). Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -3364,6 +3503,7 @@ const huquq = {
           "text": "Sud hokimiyatining asosiy vazifasi va xususiyati nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Sud hokimiyatining asosiy vazifasi va xususiyati nima?» savolining to'g'ri javobi — Mustaqil bo'lib, faqat qonunga bo'ysunadi va odil sudlovni amalga oshiradi. Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -3388,6 +3528,7 @@ const huquq = {
           "text": "Fuqarolik huquqiy layoqat qachon vujudga keladi va qachon tugaydi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fuqarolik huquqiy layoqat qachon vujudga keladi va qachon tugaydi?» savolining to'g'ri javobi — Inson tug'ilgan paytdan boshlanadi va vafot etishi bilan tugaydi. Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -3412,6 +3553,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«To'liq fuqarolik muomala layoqati qaysi yoshdan boshlab to'liq hajmda vujudga keladi?» savolining to'g'ri javobi — 18 yoshga to'lganda (balog'atga yetganda). Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -3436,6 +3578,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Ijtimoiy ta'minot huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Voyaga yetmagan 16 yoshga to'lgan shaxsning mustaqil mehnat yoki tadbirkorlik qilishi munosabati bilan to'liq muomalaga layoqatli deb e'lon qilinishi nima deyiladi?» savolining to'g'ri javobi — Emansipatsiya. Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -3460,6 +3603,7 @@ const huquq = {
           "text": "Da'vo muddati nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Da'vo muddati nima?» savolining to'g'ri javobi — Shaxs o'zining buzilgan huquqini sud orqali himoya qilishi mumkin bo'lgan muddat. Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -3484,6 +3628,7 @@ const huquq = {
           "text": "Inson huquqlari umumjahon deklaratsiyasi qaysi yilda qabul qilingan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Fuqarolik qonunchiligida umumiy da'vo muddati necha yil qilib belgilangan?» savolining to'g'ri javobi — 3 yil. O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -3508,6 +3653,7 @@ const huquq = {
           "text": "Sud muhokamasi barcha sudlarda qanday tartibda o'tkaziladi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Vasiyatnoma bo'lmagan taqdirda, qonun bo'yicha merosxo'rlarning birinchi navbatiga kimlar kiradi?» savolining to'g'ri javobi — Meros qoldiruvchining bolalari, eri (xotini) va ota-onasi. Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -3532,6 +3678,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi yangi Mehnat kodeksiga ko'ra, xodim bilan mehnat shartnomasi tuzishga qaysi yoshdan yo'l qo'yiladi?» savolining to'g'ri javobi — 16 yoshdan (ota-ona roziligi bilan yengil ishga 15 yoshdan). Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -3556,6 +3703,7 @@ const huquq = {
           "text": "Vasiyatnoma bo'lmagan taqdirda, qonun bo'yicha merosxo'rlarning birinchi navbatiga kimlar kiradi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«16 yoshdan 18 yoshgacha bo'lgan xodimlar uchun haftalik ish vaqti qancha qilib cheklangan?» savolining to'g'ri javobi — Haftasiga 36 soatdan oshmasligi kerak. 16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -3580,6 +3728,7 @@ const huquq = {
           "text": "Voyaga yetmagan bitta bola uchun undiriladigan aliment miqdori ota-ona daromadining qancha qismini tashkil etadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«15 yoshdan 16 yoshgacha bo'lgan o'smirlar uchun haftalik ish vaqti normasi qancha?» savolining to'g'ri javobi — Haftasiga 24 soatdan oshmasligi kerak. 15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -3604,6 +3753,7 @@ const huquq = {
           "text": "Mehnat shartnomasida dastlabki sinov muddati ko'pi bilan qancha bo'lishi mumkin?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Kattalar uchun haftalik normal ish vaqti davomiyligi qancha?» savolining to'g'ri javobi — Haftasiga 40 soatdan oshmasligi kerak. Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -3628,6 +3778,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida davlat hokimiyatining birdan-bir manbai kim hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Mehnat shartnomasida dastlabki sinov muddati ko'pi bilan qancha bo'lishi mumkin?» savolining to'g'ri javobi — 3 oydan oshmasligi kerak (rahbar xodimlar uchun 6 oygacha). Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -3652,6 +3803,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Yillik asosiy mehnat ta'tilining minimal davomiyligi necha ish kunidan iborat?» savolining to'g'ri javobi — 21 kalendar kundan kam bo'lmasligi kerak. Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -3676,6 +3828,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'O'zbekiston Respublikasini himoya qilish burchi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Mehnat intizomini buzganlik uchun qo'llaniladigan intizomiy jazo choralari qaysilar?» savolining to'g'ri javobi — Hayfsan, o'rtacha oylik ish haqining 30% (ba'zan 50%) gacha jarima, mehnat shartnomasini bekor qilish. Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -3700,6 +3853,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«O'zbekistonda erkaklar va ayollar uchun rasmiy nikoh yoshi qilib necha yosh belgilangan?» savolining to'g'ri javobi — 18 yosh. Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -3724,6 +3878,7 @@ const huquq = {
           "text": "Ish beruvchi xodimni xodimning aybisiz (masalan, shtat qisqarganda) ishdan bo'shatsa, necha oy oldin ogohlantirishi shart?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Uzrli sabablar bo'lganda (masalan, homiladorlik) tuman/shahar hokimi nikoh yoshini ko'pi bilan qancha muddatga qisqartirishi mumkin?» savolining to'g'ri javobi — 1 yildan oshmagan muddatga (17 yoshgacha). Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -3748,6 +3903,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Qonun bilan belgilangan soliqlarni to'lash majburiyati' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Nikoh tuzishga monelik qiladigan qonuniy holatlar qaysilar?» savolining to'g'ri javobi — Boshqa nikohda turgan shaxslar, yaqin qarindoshlar, ruhan nosog'lom shaxslar o'rtasida. Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -3772,6 +3928,7 @@ const huquq = {
           "text": "Er-xotinning nikoh davomida orttirgan umumiy mol-mulki qanday mulk hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Er-xotinning nikoh davomida orttirgan umumiy mol-mulki qanday mulk hisoblanadi?» savolining to'g'ri javobi — Birgalikdagi umumiy mulk. Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -3796,6 +3953,7 @@ const huquq = {
           "text": "Er-xotinning nikohgacha olgan mulki yoki hadya, meros tariqasida olgan buyumlari qanday mulk sanaladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Er-xotinning nikohgacha olgan mulki yoki hadya, meros tariqasida olgan buyumlari qanday mulk sanaladi?» savolining to'g'ri javobi — Har birining o'z shaxsiy xususiy mulki. Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -3820,6 +3978,7 @@ const huquq = {
           "text": "To'liq fuqarolik muomala layoqati qaysi yoshdan boshlab to'liq hajmda vujudga keladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Voyaga yetmagan bitta bola uchun undiriladigan aliment miqdori ota-ona daromadining qancha qismini tashkil etadi?» savolining to'g'ri javobi — To'rtdan bir qismi (1/4). 1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -3844,6 +4003,7 @@ const huquq = {
           "text": "Nikoh tuzishga monelik qiladigan qonuniy holatlar qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Umumiy qoidaga ko'ra, O'zbekiston Respublikasi Jinoyat kodeksi bo'yicha jinoiy javobgarlikka tortish yoshi necha yosh?» savolining to'g'ri javobi — 16 yosh (og'ir jinoyatlar uchun 14 va 13 yoshdan). Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -3868,6 +4028,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Bepul umumiy o'rta ta'lim olish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Qasddan odam o'ldirish yoki og'ir oqibatli jinoyatlar sodir etganlik uchun javobgarlik necha yoshdan boshlanadi?» savolining to'g'ri javobi — 14 yoshdan. O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -3892,6 +4053,7 @@ const huquq = {
           "text": "Zaruriy mudofaa nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Zaruriy mudofaa nima?» savolining to'g'ri javobi — Tajovuzkorga jismoniy zarar yetkazish orqali o'zini, boshqalarni yoki davlat manfaatlarini himoya qilish (jinoyat hisoblanmaydi). Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -3916,6 +4078,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasida o'lim jazosi qachondan boshlab to'liq bekor qilingan?» savolining to'g'ri javobi — 2008-yil 1-yanvardan. 2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -3940,6 +4103,7 @@ const huquq = {
           "text": "Aybsizlik prezumpsiyasi nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Aybsizlik prezumpsiyasi nima?» savolining to'g'ri javobi — Shaxsning aybi qonunda belgilangan tartibda sudda isbotlanmaguncha va sud hukmi qonuniy kuchga kirmaguncha u aybsiz hisoblanishi. Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -3964,6 +4128,7 @@ const huquq = {
           "text": "Ma'muriy javobgarlik qaysi yoshdan boshlanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Ma'muriy javobgarlik qaysi yoshdan boshlanadi?» savolining to'g'ri javobi — 16 yoshga to'lgan paytdan. Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -3988,6 +4153,7 @@ const huquq = {
           "text": "Uzrli sabablar bo'lganda (masalan, homiladorlik) tuman/shahar hokimi nikoh yoshini ko'pi bilan qancha muddatga qisqartirishi mumkin?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Ma'muriy qamoq jazosi ko'pi bilan necha sutkagacha muddatga qo'llanilishi mumkin?» savolining to'g'ri javobi — 15 sutkagacha (favqulodda holatlarda 30 sutkagacha). Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -4012,6 +4178,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Yashash huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi. Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -4036,6 +4203,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Jinoiy javobgarlikni istisno qiluvchi holatlar' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi'?» savolining to'g'ri javobi — Yashash huquqi. Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -4060,6 +4228,7 @@ const huquq = {
           "text": "Yangi tahrirdagi Konstitutsiyaga ko'ra, pedagog xodimlarning sha'ni va qadr-qimmati kim tomonidan himoya qilinadi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Shaxsiy daxlsizlik huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas. Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -4084,6 +4253,7 @@ const huquq = {
           "text": "O'zbekistonda qonun chiqaruvchi hokimiyat organi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas'?» savolining to'g'ri javobi — Shaxsiy daxlsizlik huquqi. Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -4108,6 +4278,7 @@ const huquq = {
           "text": "Yillik asosiy mehnat ta'tilining minimal davomiyligi necha ish kunidan iborat?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Turar joy daxlsizligi huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas. Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -4132,6 +4303,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas'?» savolining to'g'ri javobi — Turar joy daxlsizligi huquqi. Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -4156,6 +4328,7 @@ const huquq = {
           "text": "To'liq fuqarolik muomala layoqati qaysi yoshdan boshlab to'liq hajmda vujudga keladi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Vijdon va e'tiqod erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega. Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -4180,6 +4353,7 @@ const huquq = {
           "text": "Mahalliy davlat hokimiyati vakillik organi qanday ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega'?» savolining to'g'ri javobi — Vijdon va e'tiqod erkinligi. Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -4204,6 +4378,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Davlat ishlarini boshqarishda ishtirok etish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Davlat ishlarini boshqarishda ishtirok etish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi. Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -4228,6 +4403,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi'?» savolining to'g'ri javobi — Davlat ishlarini boshqarishda ishtirok etish huquqi. Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -4252,6 +4428,7 @@ const huquq = {
           "text": "16 yoshdan 18 yoshgacha bo'lgan xodimlar uchun haftalik ish vaqti qancha qilib cheklangan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Saylash va saylanish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi. Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -4276,6 +4453,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi'?» savolining to'g'ri javobi — Saylash va saylanish huquqi. Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -4300,6 +4478,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi. Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -4324,6 +4503,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Konstitutsiyaviy sudi sudyalari necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi'?» savolining to'g'ri javobi — Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi. Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -4348,6 +4528,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Shaxsiy daxlsizlik huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Davlat organlariga murojaat qilish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi. Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -4372,6 +4553,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Davlat organlariga murojaat qilish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi'?» savolining to'g'ri javobi — Davlat organlariga murojaat qilish huquqi. Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -4396,6 +4578,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Mulkdor bo'lish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi. Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -4420,6 +4603,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi'?» savolining to'g'ri javobi — Mulkdor bo'lish huquqi. Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -4444,6 +4628,7 @@ const huquq = {
           "text": "Mehnat shartnomasida dastlabki sinov muddati ko'pi bilan qancha bo'lishi mumkin?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Mehnat qilish va kasb tanlash erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi. Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -4468,6 +4653,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi'?» savolining to'g'ri javobi — Mehnat qilish va kasb tanlash erkinligi. Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -4492,6 +4678,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Turar joy daxlsizligi huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Tibbiy yordam olish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi. Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -4516,6 +4703,7 @@ const huquq = {
           "text": "Yillik asosiy mehnat ta'tilining minimal davomiyligi necha ish kunidan iborat?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi'?» savolining to'g'ri javobi — Tibbiy yordam olish huquqi. Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -4540,6 +4728,7 @@ const huquq = {
           "text": "Bola huquqlari to'g'risidagi BMT Konvensiyasi qachon qabul qilingan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Ijtimoiy ta'minot huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi. Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -4564,6 +4753,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi'?» savolining to'g'ri javobi — Ijtimoiy ta'minot huquqi. Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -4588,6 +4778,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Saylash va saylanish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Bepul umumiy o'rta ta'lim olish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati. Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -4612,6 +4803,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati'?» savolining to'g'ri javobi — Bepul umumiy o'rta ta'lim olish huquqi. Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -4636,6 +4828,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Konstitutsiya va qonunlarga rioya etish majburiyati' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Konstitutsiya va qonunlarga rioya etish majburiyati' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi. Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -4660,6 +4853,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Vijdon va e'tiqod erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi'?» savolining to'g'ri javobi — Konstitutsiya va qonunlarga rioya etish majburiyati. Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -4684,6 +4878,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'O'zbekiston Respublikasini himoya qilish burchi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'O'zbekiston Respublikasini himoya qilish burchi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati. O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -4708,6 +4903,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati'?» savolining to'g'ri javobi — O'zbekiston Respublikasini himoya qilish burchi. Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -4732,6 +4928,7 @@ const huquq = {
           "text": "Er-xotinning nikohgacha olgan mulki yoki hadya, meros tariqasida olgan buyumlari qanday mulk sanaladi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Qonun bilan belgilangan soliqlarni to'lash majburiyati' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi. Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -4756,6 +4953,7 @@ const huquq = {
           "text": "Fuqarolarning o'zini o'zi boshqarish organi nima?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi'?» savolining to'g'ri javobi — Qonun bilan belgilangan soliqlarni to'lash majburiyati. Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -4780,6 +4978,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati. Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -4804,6 +5003,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati'?» savolining to'g'ri javobi — Tarixiy, ma'naviy va madaniy merosni asrab-avaylash. Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -4828,6 +5028,7 @@ const huquq = {
           "text": "Xalqaro sud (BMT Xalqaro Odil Sudlovi) qaysi shaharda joylashgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi. Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -4852,6 +5053,7 @@ const huquq = {
           "text": "Umumiy qoidaga ko'ra, O'zbekiston Respublikasi Jinoyat kodeksi bo'yicha jinoiy javobgarlikka tortish yoshi necha yosh?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi'?» savolining to'g'ri javobi — Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish. Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -4876,6 +5078,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Oldi-sotdi shartnomasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Oldi-sotdi shartnomasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim. Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -4900,6 +5103,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim'?» savolining to'g'ri javobi — Oldi-sotdi shartnomasi. Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -4924,6 +5128,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat gerbi to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Hadya shartnomasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim. Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -4948,6 +5153,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim'?» savolining to'g'ri javobi — Hadya shartnomasi. Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -4972,6 +5178,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mulk huquqining uchta mezoni' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Mulk huquqining uchta mezoni' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui. Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -4996,6 +5203,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui'?» savolining to'g'ri javobi — Mulk huquqining uchta mezoni. Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -5020,6 +5228,7 @@ const huquq = {
           "text": "Sud hokimiyatining asosiy vazifasi va xususiyati nima?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Ko'chmas mulk' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar. Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -5044,6 +5253,7 @@ const huquq = {
           "text": "15 yoshdan 16 yoshgacha bo'lgan o'smirlar uchun haftalik ish vaqti normasi qancha?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar'?» savolining to'g'ri javobi — Ko'chmas mulk. Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -5068,6 +5278,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Vijdon va e'tiqod erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Vasiylik' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish. Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -5092,6 +5303,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish'?» savolining to'g'ri javobi — Vasiylik. Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -5116,6 +5328,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Homiylik' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Homiylik' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli. Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -5140,6 +5353,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Jinoyat tushunchasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli'?» savolining to'g'ri javobi — Homiylik. Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -5164,6 +5378,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Jinoyat tushunchasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Jinoyat tushunchasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik). Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -5188,6 +5403,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida o'lim jazosi qachondan boshlab to'liq bekor qilingan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)'?» savolining to'g'ri javobi — Jinoyat tushunchasi. Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
     },
@@ -5212,6 +5428,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Ozodlikni cheklash jazosi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash. Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -5236,6 +5453,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Tibbiy yordam olish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash'?» savolining to'g'ri javobi — Ozodlikni cheklash jazosi. Ushbu ta'rif 'Ozodlikni cheklash jazosi'ga tegishli."
     },
@@ -5260,6 +5478,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Ozodlikdan mahrum qilish jazosi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish. Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -5284,6 +5503,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish'?» savolining to'g'ri javobi — Ozodlikdan mahrum qilish jazosi. Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
     },
@@ -5308,6 +5528,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Axloq tuzatish ishlari' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Axloq tuzatish ishlari' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi. Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -5332,6 +5553,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat bayrog'i to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi'?» savolining to'g'ri javobi — Axloq tuzatish ishlari. Ushbu ta'rif 'Axloq tuzatish ishlari'ga tegishli."
     },
@@ -5356,6 +5578,7 @@ const huquq = {
           "text": "To'liq fuqarolik muomala layoqati qaysi yoshdan boshlab to'liq hajmda vujudga keladi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Huquqshunoslikda 'Jinoiy javobgarlikni istisno qiluvchi holatlar' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik. Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -5380,6 +5603,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik'?» savolining to'g'ri javobi — Jinoiy javobgarlikni istisno qiluvchi holatlar. Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
     },
@@ -5404,6 +5628,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Axloq tuzatish ishlari' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«O'zbekiston Respublikasi Konstitutsiyaviy sudi sudyalari necha yil muddatga saylanadi?» savolining to'g'ri javobi — Birinchi marta 5 yilga, keyin 10 yil muddatga. Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
     },
@@ -5428,6 +5653,7 @@ const huquq = {
           "text": "Vasiyatnoma bo'lmagan taqdirda, qonun bo'yicha merosxo'rlarning birinchi navbatiga kimlar kiradi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«O'zbekiston Respublikasi Bosh prokurori vakolat muddati necha yil?» savolining to'g'ri javobi — 5 yil. Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -5452,6 +5678,7 @@ const huquq = {
           "text": "Xodim o'z xohishiga ko'ra mehnat shartnomasini bekor qilmoqchi bo'lsa, ish beruvchini necha kun oldin ogohlantirishi kerak?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Sud muhokamasi barcha sudlarda qanday tartibda o'tkaziladi?» savolining to'g'ri javobi — Ochiq holda o'tkaziladi (davlat sirini saqlash hollari bundan mustasno). Ochiqlik va shaffoflik konstitutsiyaviy prinsipdir."
     },
@@ -5476,6 +5703,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasining rasmiy pul birligi so'm qachon muomalaga kiritilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasining rasmiy pul birligi so'm qachon muomalaga kiritilgan?» savolining to'g'ri javobi — 1994-yil 1-iyul. Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -5500,6 +5728,7 @@ const huquq = {
           "text": "Sud hokimiyatining asosiy vazifasi va xususiyati nima?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasi Davlat tili to'g'risidagi qonun qachon qabul qilingan?» savolining to'g'ri javobi — 1989-yil 21-oktyabr. O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -5524,6 +5753,7 @@ const huquq = {
           "text": "Kattalar uchun haftalik normal ish vaqti davomiyligi qancha?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bola huquqlari to'g'risidagi BMT Konvensiyasi qachon qabul qilingan?» savolining to'g'ri javobi — 1989-yil 20-noyabrda. 1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -5548,6 +5778,7 @@ const huquq = {
           "text": "Oliy Majlis Qonunchilik palatasi deputatligiga saylanish uchun fuqaro necha yoshga to'lgan bo'lishi kerak?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Bola huquqlarining kafolatlari to'g'risidagi O'zbekiston Respublikasi Qonuniga ko'ra, bola deb kim e'tirof etiladi?» savolining to'g'ri javobi — 18 yoshga to'lmagan shaxs. 18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
     },
@@ -5572,6 +5803,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Fuqarolik kodeksiga ko'ra, bitim nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«O'zbekiston Respublikasi Fuqarolik kodeksiga ko'ra, bitim nima?» savolining to'g'ri javobi — Fuqarolar va yuridik shaxslarning fuqarolik huquq va burchlarini belgilash, o'zgartirish yoki bekor qilishga qaratilgan harakatlari. Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
     },
@@ -5596,6 +5828,7 @@ const huquq = {
           "text": "Yuridik shaxs nima?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Yuridik shaxs nima?» savolining to'g'ri javobi — O'z mulkida, xo'jalik yuritishida yoki operativ boshqaruvida alohida mol-mulkka ega bo'lgan va o'z nomidan sudda da'vogar va javobgar bo'la oladigan tashkilot. Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
     },
@@ -5620,6 +5853,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Notarial tasdiqlash nima?» savolining to'g'ri javobi — Qonunda belgilangan hollarda hujjatlar, shartnomalar va vasiyatnomalarning qonuniyligini notarius tomonidan tasdiqlanishi. Notarius bitimlarning qonuniyligini rasmiylashtiradi."
     },
@@ -5644,6 +5878,7 @@ const huquq = {
           "text": "Fuqarolarning o'zini o'zi boshqarish organi nima?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Oila qonunchiligiga ko'ra, er va xotin o'zaro teng huquqlarga egami?» savolining to'g'ri javobi — Ha, er va xotin oilaviy munosabatlarda teng huquqlarga ega. Konstitutsiya va Oila kodeksi er-xotin teng huquqliligini kafolatlaydi."
     },
@@ -5668,6 +5903,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida ijro etuvchi hokimiyatni qaysi organ amalga oshiradi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Xodim o'z xohishiga ko'ra mehnat shartnomasini bekor qilmoqchi bo'lsa, ish beruvchini necha kun oldin ogohlantirishi kerak?» savolining to'g'ri javobi — 14 kalendar kun (2 hafta) oldin yozma ravishda. Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
     },
@@ -5692,6 +5928,7 @@ const huquq = {
           "text": "To'liq fuqarolik muomala layoqati qaysi yoshdan boshlab to'liq hajmda vujudga keladi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Ish beruvchi xodimni xodimning aybisiz (masalan, shtat qisqarganda) ishdan bo'shatsa, necha oy oldin ogohlantirishi shart?» savolining to'g'ri javobi — Kamida 2 oy oldin yozma ravishda. Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
     },
@@ -5716,6 +5953,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Hadya shartnomasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Xodim ish beruvchi bilan tuzilgan mehnat shartnomasida qanday hujjatlarni taqdim etishi shart?» savolining to'g'ri javobi — Pasport (ID-karta), mehnat daftarchasi (yoki elektron nusxasi), diplom (zarur bo'lsa), harbiy guvohnoma. Ishga kirishda qonunda ruxsat etilmagan qo'shimcha hujjatlarni talab qilish man etiladi."
     },
@@ -5740,6 +5978,7 @@ const huquq = {
           "text": "Gumanitar huquqning asosiy manbalaridan biri bo'lgan Jeneva konvensiyalari qachon qabul qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yangi tahrirdagi Konstitutsiyaga ko'ra, pedagog xodimlarning sha'ni va qadr-qimmati kim tomonidan himoya qilinadi?» savolining to'g'ri javobi — Davlat tomonidan himoya qilinadi va ularga g'amxo'rlik ko'rsatiladi. Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
     },
@@ -5764,6 +6003,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«O'zbekistonda Oliy Majlis Senatining Raisi kimning taqdimiga binoan saylanadi?» savolining to'g'ri javobi — O'zbekiston Respublikasi Prezidentining taqdimiga binoan. Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
     },
@@ -5788,6 +6028,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Bosh vaziri nomzodini Qonunchilik palatasiga kim taqdim etadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«O'zbekiston Respublikasi Bosh vaziri nomzodini Qonunchilik palatasiga kim taqdim etadi?» savolining to'g'ri javobi — O'zbekiston Respublikasi Prezidenti. Prezident parlament palatalari bilan maslahatlashuvlardan so'ng nomzodni kiritadi."
     },
@@ -5812,6 +6053,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidenti necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Mahalliy davlat hokimiyati vakillik organi qanday ataladi?» savolining to'g'ri javobi — Xalq deputatlari viloyat, tuman va shahar Kengashlari. Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
     },
@@ -5836,6 +6078,7 @@ const huquq = {
           "text": "15 yoshdan 16 yoshgacha bo'lgan o'smirlar uchun haftalik ish vaqti normasi qancha?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Fuqarolarning o'zini o'zi boshqarish organi nima?» savolining to'g'ri javobi — Fuqarolar yig'ini (Mahalla). Mahalla fuqarolarning o'zini o'zi boshqarishining nodavlat institutidir."
     },
@@ -5860,6 +6103,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Xalqaro sud (BMT Xalqaro Odil Sudlovi) qaysi shaharda joylashgan?» savolining to'g'ri javobi — Gaaga shahrida (Niderlandiya). BMTning asosiy sud organi Gaagada joylashgan."
     },
@@ -5884,6 +6128,7 @@ const huquq = {
           "text": "Gumanitar huquqning asosiy manbalaridan biri bo'lgan Jeneva konvensiyalari qachon qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Gumanitar huquqning asosiy manbalaridan biri bo'lgan Jeneva konvensiyalari qachon qabul qilingan?» savolining to'g'ri javobi — 1949-yilda. 1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
     },
@@ -5908,6 +6153,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Qonunchilik tashabbusi huquqiga kimlar ega?» savolining to'g'ri javobi — Prezident, Qonunchilik palatasi deputati, Senat, Hukumat, Qoraqalpog'iston Jo'qorg'i Kengesi, Oliy Sud, Bosh prokuror. Qonun loyihasini parlamentga kiritish huquqiga ega bo'lgan sub'ektlar doirasi qat'iy belgilangan."
     },
@@ -5932,6 +6178,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -5956,6 +6203,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi'?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -5980,6 +6228,7 @@ const huquq = {
           "text": "Inson huquqlari umumjahon deklaratsiyasi qaysi yilda qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -6004,6 +6253,7 @@ const huquq = {
           "text": "Quyidagilardan qaysi biri O'zbekiston Respublikasining davlat ramzi EMAS?"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -6028,6 +6278,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida saylov huquqi (faol saylov huquqi) necha yoshdan boshlanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -6052,6 +6303,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida davlat hokimiyatining birdan-bir manbai kim hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -6076,6 +6328,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Davlat ishlarini boshqarishda ishtirok etish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -6100,6 +6353,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -6124,6 +6378,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat madhiyasi qachon qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -6148,6 +6403,7 @@ const huquq = {
           "text": "Oliy Majlis Qonunchilik palatasi deputatlari necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -6172,6 +6428,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida o'lim jazosi qachondan boshlab to'liq bekor qilingan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -6196,6 +6453,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidenti necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -6220,6 +6478,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Konstitutsiyaviy sudi sudyalari necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -6244,6 +6503,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Davlat ishlarini boshqarishda ishtirok etish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -6268,6 +6528,7 @@ const huquq = {
           "text": "Voyaga yetmagan 16 yoshga to'lgan shaxsning mustaqil mehnat yoki tadbirkorlik qilishi munosabati bilan to'liq muomalaga layoqatli deb e'lon qilinishi nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -6292,6 +6553,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat tili to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -6316,6 +6578,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -6340,6 +6603,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -6364,6 +6628,7 @@ const huquq = {
           "text": "Voyaga yetmagan 16 yoshga to'lgan shaxsning mustaqil mehnat yoki tadbirkorlik qilishi munosabati bilan to'liq muomalaga layoqatli deb e'lon qilinishi nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -6388,6 +6653,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mulkdor bo'lish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -6412,6 +6678,7 @@ const huquq = {
           "text": "O'zbekistonda qonun chiqaruvchi hokimiyat organi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -6436,6 +6703,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mulkdor bo'lish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -6460,6 +6728,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Ko'chmas mulk' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -6484,6 +6753,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida o'lim jazosi qachondan boshlab to'liq bekor qilingan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -6508,6 +6778,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -6532,6 +6803,7 @@ const huquq = {
           "text": "Xodim o'z xohishiga ko'ra mehnat shartnomasini bekor qilmoqchi bo'lsa, ish beruvchini necha kun oldin ogohlantirishi kerak?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -6556,6 +6828,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)'?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -6580,6 +6853,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida davlat hokimiyatining birdan-bir manbai kim hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -6604,6 +6878,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida saylov huquqi (faol saylov huquqi) necha yoshdan boshlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -6628,6 +6903,7 @@ const huquq = {
           "text": "Mehnat intizomini buzganlik uchun qo'llaniladigan intizomiy jazo choralari qaysilar?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -6652,6 +6928,7 @@ const huquq = {
           "text": "Er-xotinning nikohgacha olgan mulki yoki hadya, meros tariqasida olgan buyumlari qanday mulk sanaladi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -6676,6 +6953,7 @@ const huquq = {
           "text": "Uzrli sabablar bo'lganda (masalan, homiladorlik) tuman/shahar hokimi nikoh yoshini ko'pi bilan qancha muddatga qisqartirishi mumkin?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -6700,6 +6978,7 @@ const huquq = {
           "text": "Voyaga yetmagan 16 yoshga to'lgan shaxsning mustaqil mehnat yoki tadbirkorlik qilishi munosabati bilan to'liq muomalaga layoqatli deb e'lon qilinishi nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -6724,6 +7003,7 @@ const huquq = {
           "text": "16 yoshdan 18 yoshgacha bo'lgan xodimlar uchun haftalik ish vaqti qancha qilib cheklangan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -6748,6 +7028,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Oliy Majlisi necha palatadan iborat?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -6772,6 +7053,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -6796,6 +7078,7 @@ const huquq = {
           "text": "Umumiy qoidaga ko'ra, O'zbekiston Respublikasi Jinoyat kodeksi bo'yicha jinoiy javobgarlikka tortish yoshi necha yosh?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -6820,6 +7103,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi yangi Mehnat kodeksiga ko'ra, xodim bilan mehnat shartnomasi tuzishga qaysi yoshdan yo'l qo'yiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -6844,6 +7128,7 @@ const huquq = {
           "text": "Xodim ish beruvchi bilan tuzilgan mehnat shartnomasida qanday hujjatlarni taqdim etishi shart?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -6868,6 +7153,7 @@ const huquq = {
           "text": "Qonunchilik tashabbusi huquqiga kimlar ega?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -6892,6 +7178,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Axloq tuzatish ishlari' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -6916,6 +7203,7 @@ const huquq = {
           "text": "Ish beruvchi xodimni xodimning aybisiz (masalan, shtat qisqarganda) ishdan bo'shatsa, necha oy oldin ogohlantirishi shart?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -6940,6 +7228,7 @@ const huquq = {
           "text": "Xodim o'z xohishiga ko'ra mehnat shartnomasini bekor qilmoqchi bo'lsa, ish beruvchini necha kun oldin ogohlantirishi kerak?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -6964,6 +7253,7 @@ const huquq = {
           "text": "Oila qonunchiligiga ko'ra, er va xotin o'zaro teng huquqlarga egami?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -6988,6 +7278,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -7012,6 +7303,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -7036,6 +7328,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -7060,6 +7353,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -7084,6 +7378,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -7108,6 +7403,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat bayrog'i to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -7132,6 +7428,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -7156,6 +7453,7 @@ const huquq = {
           "text": "Xodim o'z xohishiga ko'ra mehnat shartnomasini bekor qilmoqchi bo'lsa, ish beruvchini necha kun oldin ogohlantirishi kerak?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -7180,6 +7478,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -7204,6 +7503,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -7228,6 +7528,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidenti necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -7252,6 +7553,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mulkdor bo'lish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -7276,6 +7578,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Axloq tuzatish ishlari' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -7300,6 +7603,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -7324,6 +7628,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -7348,6 +7653,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Davlat organlariga murojaat qilish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -7372,6 +7678,7 @@ const huquq = {
           "text": "Zaruriy mudofaa nima?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -7396,6 +7703,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mehnat qilish va kasb tanlash erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -7420,6 +7728,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Bepul umumiy o'rta ta'lim olish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -7444,6 +7753,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Hadya shartnomasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -7468,6 +7778,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Oliy Majlisi necha palatadan iborat?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -7492,6 +7803,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Ijtimoiy ta'minot huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -7516,6 +7828,7 @@ const huquq = {
           "text": "Zaruriy mudofaa nima?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -7540,6 +7853,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Bepul umumiy o'rta ta'lim olish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -7564,6 +7878,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Konstitutsiyaviy sudi sudyalari necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -7588,6 +7903,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida o'lim jazosi qachondan boshlab to'liq bekor qilingan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -7612,6 +7928,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim'?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -7636,6 +7953,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'O'zbekiston Respublikasini himoya qilish burchi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -7660,6 +7978,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Davlat ishlarini boshqarishda ishtirok etish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -7684,6 +8003,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat tili to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -7708,6 +8028,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -7732,6 +8053,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Axloq tuzatish ishlari' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -7756,6 +8078,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -7780,6 +8103,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -7804,6 +8128,7 @@ const huquq = {
           "text": "Umumiy qoidaga ko'ra, O'zbekiston Respublikasi Jinoyat kodeksi bo'yicha jinoiy javobgarlikka tortish yoshi necha yosh?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -7828,6 +8153,7 @@ const huquq = {
           "text": "Yangi tahrirdagi Konstitutsiyaga ko'ra, pedagog xodimlarning sha'ni va qadr-qimmati kim tomonidan himoya qilinadi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -7852,6 +8178,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mulk huquqining uchta mezoni' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -7876,6 +8203,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Hadya shartnomasi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -7900,6 +8228,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -7924,6 +8253,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: '18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi'?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -7948,6 +8278,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -7972,6 +8303,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -7996,6 +8328,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -8020,6 +8353,7 @@ const huquq = {
           "text": "Qonunchilik tashabbusi huquqiga kimlar ega?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -8044,6 +8378,7 @@ const huquq = {
           "text": "Qasddan odam o'ldirish yoki og'ir oqibatli jinoyatlar sodir etganlik uchun javobgarlik necha yoshdan boshlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -8068,6 +8403,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Davlat gerbi to'g'risidagi qonun qachon qabul qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -8092,6 +8428,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi'?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -8116,6 +8453,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi'?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -8140,6 +8478,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)'?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
     },
@@ -8164,6 +8503,7 @@ const huquq = {
           "text": "Fuqarolik huquqiy layoqat qachon vujudga keladi va qachon tugaydi?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -8188,6 +8528,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Tibbiy yordam olish huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ozodlikni cheklash jazosi'ga tegishli."
     },
@@ -8212,6 +8553,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Axloq tuzatish ishlari' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -8236,6 +8578,7 @@ const huquq = {
           "text": "Mehnat shartnomasida dastlabki sinov muddati ko'pi bilan qancha bo'lishi mumkin?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
     },
@@ -8260,6 +8603,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Jinoiy javobgarlikni istisno qiluvchi holatlar' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -8284,6 +8628,7 @@ const huquq = {
           "text": "Ma'muriy qamoq jazosi ko'pi bilan necha sutkagacha muddatga qo'llanilishi mumkin?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Axloq tuzatish ishlari'ga tegishli."
     },
@@ -8308,6 +8653,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Ijtimoiy ta'minot huquqi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -8332,6 +8678,7 @@ const huquq = {
           "text": "Bola huquqlari to'g'risidagi BMT Konvensiyasi qachon qabul qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
     },
@@ -8356,6 +8703,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Konstitutsiyaviy sudi sudyalari necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
     },
@@ -8380,6 +8728,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Bosh prokurori vakolat muddati necha yil?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -8404,6 +8753,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ochiqlik va shaffoflik konstitutsiyaviy prinsipdir."
     },
@@ -8428,6 +8778,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidenti necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -8452,6 +8803,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasining rasmiy pul birligi so'm qachon muomalaga kiritilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -8476,6 +8828,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Konstitutsiya va qonunlarga rioya etish majburiyati' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -8500,6 +8853,7 @@ const huquq = {
           "text": "Oliy Majlis Qonunchilik palatasi deputatlari necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
     },
@@ -8524,6 +8878,7 @@ const huquq = {
           "text": "Huquqshunoslikda 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi' tushunchasining mazmuni qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
     },
@@ -8548,6 +8903,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
     },
@@ -8572,6 +8928,7 @@ const huquq = {
           "text": "Xodim o'z xohishiga ko'ra mehnat shartnomasini bekor qilmoqchi bo'lsa, ish beruvchini necha kun oldin ogohlantirishi kerak?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Notarius bitimlarning qonuniyligini rasmiylashtiradi."
     },
@@ -8596,6 +8953,7 @@ const huquq = {
           "text": "Oila qonunchiligiga ko'ra, er va xotin o'zaro teng huquqlarga egami?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Konstitutsiya va Oila kodeksi er-xotin teng huquqliligini kafolatlaydi."
     },
@@ -8620,6 +8978,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidenti necha yil muddatga saylanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
     },
@@ -8644,6 +9003,7 @@ const huquq = {
           "text": "Ish beruvchi xodimni xodimning aybisiz (masalan, shtat qisqarganda) ishdan bo'shatsa, necha oy oldin ogohlantirishi shart?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
     },
@@ -8668,6 +9028,7 @@ const huquq = {
           "text": "Xodim ish beruvchi bilan tuzilgan mehnat shartnomasida qanday hujjatlarni taqdim etishi shart?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ishga kirishda qonunda ruxsat etilmagan qo'shimcha hujjatlarni talab qilish man etiladi."
     },
@@ -8692,6 +9053,7 @@ const huquq = {
           "text": "Yangi tahrirdagi Konstitutsiyaga ko'ra, pedagog xodimlarning sha'ni va qadr-qimmati kim tomonidan himoya qilinadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
     },
@@ -8716,6 +9078,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasida o'lim jazosi qachondan boshlab to'liq bekor qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
     },
@@ -8740,6 +9103,7 @@ const huquq = {
           "text": "Quyidagi ta'rif qaysi huquqiy tushuncha, mezon yoki qoidaga tegishli: 'Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Prezident parlament palatalari bilan maslahatlashuvlardan so'ng nomzodni kiritadi."
     },
@@ -8764,6 +9128,7 @@ const huquq = {
           "text": "Aybsizlik prezumpsiyasi nima?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
     },
@@ -8788,6 +9153,7 @@ const huquq = {
           "text": "Fuqarolarning o'zini o'zi boshqarish organi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Mahalla fuqarolarning o'zini o'zi boshqarishining nodavlat institutidir."
     },
@@ -8812,6 +9178,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Prezidentligiga nomzod qaysi yoshdan kichik bo'lmasligi kerak?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "BMTning asosiy sud organi Gaagada joylashgan."
     },
@@ -8836,6 +9203,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasining rasmiy pul birligi so'm qachon muomalaga kiritilgan?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
     },
@@ -8860,6 +9228,7 @@ const huquq = {
           "text": "Qonunchilik tashabbusi huquqiga kimlar ega?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Qonun loyihasini parlamentga kiritish huquqiga ega bo'lgan sub'ektlar doirasi qat'iy belgilangan."
     },
@@ -8884,6 +9253,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -8908,6 +9278,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -8932,6 +9303,7 @@ const huquq = {
           "text": "Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -8956,6 +9328,7 @@ const huquq = {
           "text": "Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -8980,6 +9353,7 @@ const huquq = {
           "text": "Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -9004,6 +9378,7 @@ const huquq = {
           "text": "Deputatlar va senatorlarning vakolat muddati 5 yil."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -9028,6 +9403,7 @@ const huquq = {
           "text": "O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -9052,6 +9428,7 @@ const huquq = {
           "text": "Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -9076,6 +9453,7 @@ const huquq = {
           "text": "Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -9100,6 +9478,7 @@ const huquq = {
           "text": "Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -9124,6 +9503,7 @@ const huquq = {
           "text": "1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -9148,6 +9528,7 @@ const huquq = {
           "text": "Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -9172,6 +9553,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -9196,6 +9578,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -9220,6 +9603,7 @@ const huquq = {
           "text": "Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -9244,6 +9628,7 @@ const huquq = {
           "text": "Xalq davlat hokimiyatining birdan-bir manbaidir."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -9268,6 +9653,7 @@ const huquq = {
           "text": "BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -9292,6 +9678,7 @@ const huquq = {
           "text": "Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -9316,6 +9703,7 @@ const huquq = {
           "text": "Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -9340,6 +9728,7 @@ const huquq = {
           "text": "Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -9364,6 +9753,7 @@ const huquq = {
           "text": "Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -9388,6 +9778,7 @@ const huquq = {
           "text": "Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -9412,6 +9803,7 @@ const huquq = {
           "text": "Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -9436,6 +9828,7 @@ const huquq = {
           "text": "Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -9460,6 +9853,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -9484,6 +9878,7 @@ const huquq = {
           "text": "2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -9508,6 +9903,7 @@ const huquq = {
           "text": "Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -9532,6 +9928,7 @@ const huquq = {
           "text": "Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -9556,6 +9953,7 @@ const huquq = {
           "text": "Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -9580,6 +9978,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -9604,6 +10003,7 @@ const huquq = {
           "text": "Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -9628,6 +10028,7 @@ const huquq = {
           "text": "Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -9652,6 +10053,7 @@ const huquq = {
           "text": "Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -9676,6 +10078,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Yashash huquqi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -9700,6 +10103,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -9724,6 +10128,7 @@ const huquq = {
           "text": "Notarius bitimlarning qonuniyligini rasmiylashtiradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -9748,6 +10153,7 @@ const huquq = {
           "text": "Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -9772,6 +10178,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -9796,6 +10203,7 @@ const huquq = {
           "text": "Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -9820,6 +10228,7 @@ const huquq = {
           "text": "Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -9844,6 +10253,7 @@ const huquq = {
           "text": "Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -9868,6 +10278,7 @@ const huquq = {
           "text": "Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -9892,6 +10303,7 @@ const huquq = {
           "text": "Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -9916,6 +10328,7 @@ const huquq = {
           "text": "Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -9940,6 +10353,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Yashash huquqi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -9964,6 +10378,7 @@ const huquq = {
           "text": "Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -9988,6 +10403,7 @@ const huquq = {
           "text": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -10012,6 +10428,7 @@ const huquq = {
           "text": "Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -10036,6 +10453,7 @@ const huquq = {
           "text": "BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -10060,6 +10478,7 @@ const huquq = {
           "text": "BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -10084,6 +10503,7 @@ const huquq = {
           "text": "Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -10108,6 +10528,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -10132,6 +10553,7 @@ const huquq = {
           "text": "Notarius bitimlarning qonuniyligini rasmiylashtiradi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -10156,6 +10578,7 @@ const huquq = {
           "text": "Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -10180,6 +10603,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -10204,6 +10628,7 @@ const huquq = {
           "text": "Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -10228,6 +10653,7 @@ const huquq = {
           "text": "Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -10252,6 +10678,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -10276,6 +10703,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -10300,6 +10728,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -10324,6 +10753,7 @@ const huquq = {
           "text": "Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -10348,6 +10778,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -10372,6 +10803,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -10396,6 +10828,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -10420,6 +10853,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -10444,6 +10878,7 @@ const huquq = {
           "text": "Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -10468,6 +10903,7 @@ const huquq = {
           "text": "Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -10492,6 +10928,7 @@ const huquq = {
           "text": "Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -10516,6 +10953,7 @@ const huquq = {
           "text": "Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -10540,6 +10978,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -10564,6 +11003,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -10588,6 +11028,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -10612,6 +11053,7 @@ const huquq = {
           "text": "Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -10636,6 +11078,7 @@ const huquq = {
           "text": "Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -10660,6 +11103,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -10684,6 +11128,7 @@ const huquq = {
           "text": "Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -10708,6 +11153,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -10732,6 +11178,7 @@ const huquq = {
           "text": "Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -10756,6 +11203,7 @@ const huquq = {
           "text": "Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -10780,6 +11228,7 @@ const huquq = {
           "text": "Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -10804,6 +11253,7 @@ const huquq = {
           "text": "Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -10828,6 +11278,7 @@ const huquq = {
           "text": "Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -10852,6 +11303,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -10876,6 +11328,7 @@ const huquq = {
           "text": "Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -10900,6 +11353,7 @@ const huquq = {
           "text": "Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -10924,6 +11378,7 @@ const huquq = {
           "text": "Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -10948,6 +11403,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -10972,6 +11428,7 @@ const huquq = {
           "text": "Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -10996,6 +11453,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Vasiylik'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -11020,6 +11478,7 @@ const huquq = {
           "text": "Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -11044,6 +11503,7 @@ const huquq = {
           "text": "Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -11068,6 +11528,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -11092,6 +11553,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
     },
@@ -11116,6 +11578,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -11140,6 +11603,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ozodlikni cheklash jazosi'ga tegishli."
     },
@@ -11164,6 +11628,7 @@ const huquq = {
           "text": "Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -11188,6 +11653,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Homiylik'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
     },
@@ -11212,6 +11678,7 @@ const huquq = {
           "text": "Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -11236,6 +11703,7 @@ const huquq = {
           "text": "Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Axloq tuzatish ishlari'ga tegishli."
     },
@@ -11260,6 +11728,7 @@ const huquq = {
           "text": "Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -11284,6 +11753,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
     },
@@ -11308,6 +11778,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
     },
@@ -11332,6 +11803,7 @@ const huquq = {
           "text": "Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -11356,6 +11828,7 @@ const huquq = {
           "text": "2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ochiqlik va shaffoflik konstitutsiyaviy prinsipdir."
     },
@@ -11380,6 +11853,7 @@ const huquq = {
           "text": "Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -11404,6 +11878,7 @@ const huquq = {
           "text": "O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -11428,6 +11903,7 @@ const huquq = {
           "text": "1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -11452,6 +11928,7 @@ const huquq = {
           "text": "18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
     },
@@ -11476,6 +11953,7 @@ const huquq = {
           "text": "Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
     },
@@ -11500,6 +11978,7 @@ const huquq = {
           "text": "Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
     },
@@ -11524,6 +12003,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Notarius bitimlarning qonuniyligini rasmiylashtiradi."
     },
@@ -11548,6 +12028,7 @@ const huquq = {
           "text": "Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Konstitutsiya va Oila kodeksi er-xotin teng huquqliligini kafolatlaydi."
     },
@@ -11572,6 +12053,7 @@ const huquq = {
           "text": "Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
     },
@@ -11596,6 +12078,7 @@ const huquq = {
           "text": "Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
     },
@@ -11620,6 +12103,7 @@ const huquq = {
           "text": "18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ishga kirishda qonunda ruxsat etilmagan qo'shimcha hujjatlarni talab qilish man etiladi."
     },
@@ -11644,6 +12128,7 @@ const huquq = {
           "text": "Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
     },
@@ -11668,6 +12153,7 @@ const huquq = {
           "text": "Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
     },
@@ -11692,6 +12178,7 @@ const huquq = {
           "text": "Xalq davlat hokimiyatining birdan-bir manbaidir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Prezident parlament palatalari bilan maslahatlashuvlardan so'ng nomzodni kiritadi."
     },
@@ -11716,6 +12203,7 @@ const huquq = {
           "text": "Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
     },
@@ -11740,6 +12228,7 @@ const huquq = {
           "text": "Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mahalla fuqarolarning o'zini o'zi boshqarishining nodavlat institutidir."
     },
@@ -11764,6 +12253,7 @@ const huquq = {
           "text": "Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "BMTning asosiy sud organi Gaagada joylashgan."
     },
@@ -11788,6 +12278,7 @@ const huquq = {
           "text": "1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
     },
@@ -11812,6 +12303,7 @@ const huquq = {
           "text": "1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Qonun loyihasini parlamentga kiritish huquqiga ega bo'lgan sub'ektlar doirasi qat'iy belgilangan."
     },
@@ -11836,6 +12328,7 @@ const huquq = {
           "text": "1991-yil 31-avgust"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -11860,6 +12353,7 @@ const huquq = {
           "text": "Konstitutsiyaviy sud"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -11884,6 +12378,7 @@ const huquq = {
           "text": "1945"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -11908,6 +12403,7 @@ const huquq = {
           "text": "Suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -11932,6 +12428,7 @@ const huquq = {
           "text": "1991-yil 18-noyabr"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -11956,6 +12453,7 @@ const huquq = {
           "text": "1992-yil 2-iyul"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -11980,6 +12478,7 @@ const huquq = {
           "text": "1992-yil 2-iyul"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -12004,6 +12503,7 @@ const huquq = {
           "text": "21 yoshga"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -12028,6 +12528,7 @@ const huquq = {
           "text": "Indulgensiya"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -12052,6 +12553,7 @@ const huquq = {
           "text": "3 yil"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -12076,6 +12578,7 @@ const huquq = {
           "text": "18 yosh"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -12100,6 +12603,7 @@ const huquq = {
           "text": "16 yoshdan"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -12124,6 +12628,7 @@ const huquq = {
           "text": "2016-yil 4-dekabrdan"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -12148,6 +12653,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -12172,6 +12678,7 @@ const huquq = {
           "text": "Mehnat qilish huquqi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -12196,6 +12703,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -12220,6 +12728,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -12244,6 +12753,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -12268,6 +12778,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -12292,6 +12803,7 @@ const huquq = {
           "text": "18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -12316,6 +12828,7 @@ const huquq = {
           "text": "Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -12340,6 +12853,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -12364,6 +12878,7 @@ const huquq = {
           "text": "Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -12388,6 +12903,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -12412,6 +12928,7 @@ const huquq = {
           "text": "Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -12436,6 +12953,7 @@ const huquq = {
           "text": "Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -12460,6 +12978,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -12484,6 +13003,7 @@ const huquq = {
           "text": "Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -12508,6 +13028,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -12532,6 +13053,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -12556,6 +13078,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -12580,6 +13103,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -12604,6 +13128,7 @@ const huquq = {
           "text": "Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -12628,6 +13153,7 @@ const huquq = {
           "text": "Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -12652,6 +13178,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -12676,6 +13203,7 @@ const huquq = {
           "text": "Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -12700,6 +13228,7 @@ const huquq = {
           "text": "14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -12724,6 +13253,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -12748,6 +13278,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -12772,6 +13303,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -12796,6 +13328,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -12820,6 +13353,7 @@ const huquq = {
           "text": "Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -12844,6 +13378,7 @@ const huquq = {
           "text": "Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -12868,6 +13403,7 @@ const huquq = {
           "text": "5 yil"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -12892,6 +13428,7 @@ const huquq = {
           "text": "1993-yil 15-noyabr"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -12916,6 +13453,7 @@ const huquq = {
           "text": "1990-yil 24-mart"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -12940,6 +13478,7 @@ const huquq = {
           "text": "1989-yil 20-noyabrda"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -12956,6 +13495,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -12972,6 +13512,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -12988,6 +13529,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Ha. BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -13004,6 +13546,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "Ha. Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -13020,6 +13563,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -13036,6 +13580,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -13052,6 +13597,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -13068,6 +13614,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -13084,6 +13631,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -13100,6 +13648,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -13116,6 +13665,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -13132,6 +13682,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -13148,6 +13699,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -13164,6 +13716,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -13180,6 +13733,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. 18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -13196,6 +13750,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -13212,6 +13767,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -13228,6 +13784,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -13244,6 +13801,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -13260,6 +13818,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -13276,6 +13835,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -13292,6 +13852,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -13308,6 +13869,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -13324,6 +13886,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -13340,6 +13903,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -13356,6 +13920,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -13372,6 +13937,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -13388,6 +13954,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -13404,6 +13971,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -13420,6 +13988,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -13436,6 +14005,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -13452,6 +14022,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -13468,6 +14039,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -13484,6 +14056,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -13500,6 +14073,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -13516,6 +14090,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -13532,6 +14107,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -13548,6 +14124,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -13564,6 +14141,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -13580,6 +14158,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -13596,6 +14175,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -13612,6 +14192,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -13628,6 +14209,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -13644,6 +14226,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -13660,6 +14243,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -13676,6 +14260,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -13692,6 +14277,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -13708,6 +14294,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -13724,6 +14311,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -13740,6 +14328,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -13756,6 +14345,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -13772,6 +14362,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -13788,6 +14379,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -13804,6 +14396,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -13820,6 +14413,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -13836,6 +14430,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -13852,6 +14447,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -13868,6 +14464,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -13884,6 +14481,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -13900,6 +14498,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -13916,6 +14515,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -13932,6 +14532,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -13948,6 +14549,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -13964,6 +14566,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -13980,6 +14583,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -13996,6 +14600,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -14012,6 +14617,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -14028,6 +14634,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -14044,6 +14651,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -14060,6 +14668,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -14076,6 +14685,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -14092,6 +14702,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -14108,6 +14719,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -14124,6 +14736,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -14140,6 +14753,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -14156,6 +14770,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -14172,6 +14787,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -14188,6 +14804,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -14204,6 +14821,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -14220,6 +14838,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -14236,6 +14855,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -14252,6 +14872,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -14268,6 +14889,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -14284,6 +14906,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -14300,6 +14923,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -14316,6 +14940,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -14332,6 +14957,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -14348,6 +14974,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -14364,6 +14991,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -14380,6 +15008,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -14396,6 +15025,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -14412,6 +15042,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -14428,6 +15059,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
     },
@@ -14444,6 +15076,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -14460,6 +15093,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Ozodlikni cheklash jazosi'ga tegishli."
     },
@@ -14476,6 +15110,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -14492,6 +15127,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
     },
@@ -14508,6 +15144,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -14524,6 +15161,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Axloq tuzatish ishlari'ga tegishli."
     },
@@ -14540,6 +15178,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -14556,6 +15195,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
     },
@@ -14572,6 +15212,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
     },
@@ -14588,6 +15229,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -14604,6 +15246,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ochiqlik va shaffoflik konstitutsiyaviy prinsipdir."
     },
@@ -14620,6 +15263,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -14636,6 +15280,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -14652,6 +15297,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -14668,6 +15314,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
     },
@@ -14684,6 +15331,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
     },
@@ -14700,6 +15348,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
     },
@@ -14716,6 +15365,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Notarius bitimlarning qonuniyligini rasmiylashtiradi."
     },
@@ -14732,6 +15382,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Konstitutsiya va Oila kodeksi er-xotin teng huquqliligini kafolatlaydi."
     },
@@ -14748,6 +15399,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
     },
@@ -14764,6 +15416,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
     },
@@ -14780,6 +15433,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ishga kirishda qonunda ruxsat etilmagan qo'shimcha hujjatlarni talab qilish man etiladi."
     },
@@ -14796,6 +15450,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
     },
@@ -14812,6 +15467,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
     },
@@ -14828,6 +15484,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Prezident parlament palatalari bilan maslahatlashuvlardan so'ng nomzodni kiritadi."
     },
@@ -14844,6 +15501,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
     },
@@ -14860,6 +15518,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Mahalla fuqarolarning o'zini o'zi boshqarishining nodavlat institutidir."
     },
@@ -14876,6 +15535,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. BMTning asosiy sud organi Gaagada joylashgan."
     },
@@ -14892,6 +15552,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. 1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
     },
@@ -14908,6 +15569,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Qonun loyihasini parlamentga kiritish huquqiga ega bo'lgan sub'ektlar doirasi qat'iy belgilangan."
     },
@@ -14924,6 +15586,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 8-dekabr. Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -14940,6 +15603,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Oliy Majlis. O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -14956,6 +15620,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — 1948. BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -14972,6 +15637,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — Prezident farmoni. Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -14988,6 +15654,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat. Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -15004,6 +15671,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston xalqi. Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -15020,6 +15688,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 18-noyabr. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -15036,6 +15705,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 2-iyul. Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -15052,6 +15722,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 10-dekabr. Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -15068,6 +15739,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikki palatadan: Qonunchilik palatasi (quyi) va Senat (yuqori). Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -15084,6 +15756,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5 yil muddatga. Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -15100,6 +15773,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7 yil muddatga. Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -15116,6 +15790,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 35 yoshdan. O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -15132,6 +15807,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 25 yoshga. Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -15148,6 +15824,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshdan. 18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -15164,6 +15841,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Vazirlar Mahkamasi (Hukumat). Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -15180,6 +15858,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mustaqil bo'lib, faqat qonunga bo'ysunadi va odil sudlovni amalga oshiradi. Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -15196,6 +15875,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Inson tug'ilgan paytdan boshlanadi va vafot etishi bilan tugaydi. Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -15212,6 +15892,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lganda (balog'atga yetganda). Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -15228,6 +15909,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Emansipatsiya. Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -15244,6 +15926,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs o'zining buzilgan huquqini sud orqali himoya qilishi mumkin bo'lgan muddat. Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -15260,6 +15943,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3 yil. O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -15276,6 +15960,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Meros qoldiruvchining bolalari, eri (xotini) va ota-onasi. Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -15292,6 +15977,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yoshdan (ota-ona roziligi bilan yengil ishga 15 yoshdan). Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -15308,6 +15994,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 36 soatdan oshmasligi kerak. 16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -15324,6 +16011,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 24 soatdan oshmasligi kerak. 15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -15340,6 +16028,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 40 soatdan oshmasligi kerak. Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -15356,6 +16045,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 3 oydan oshmasligi kerak (rahbar xodimlar uchun 6 oygacha). Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -15372,6 +16062,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 21 kalendar kundan kam bo'lmasligi kerak. Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -15388,6 +16079,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hayfsan, o'rtacha oylik ish haqining 30% (ba'zan 50%) gacha jarima, mehnat shartnomasini bekor qilish. Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -15404,6 +16096,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18 yosh. Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -15420,6 +16113,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1 yildan oshmagan muddatga (17 yoshgacha). Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -15436,6 +16130,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Boshqa nikohda turgan shaxslar, yaqin qarindoshlar, ruhan nosog'lom shaxslar o'rtasida. Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -15452,6 +16147,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Birgalikdagi umumiy mulk. Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -15468,6 +16164,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Har birining o'z shaxsiy xususiy mulki. Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -15484,6 +16181,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — To'rtdan bir qismi (1/4). 1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -15500,6 +16198,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yosh (og'ir jinoyatlar uchun 14 va 13 yoshdan). Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -15516,6 +16215,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshdan. O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -15532,6 +16232,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tajovuzkorga jismoniy zarar yetkazish orqali o'zini, boshqalarni yoki davlat manfaatlarini himoya qilish (jinoyat hisoblanmaydi). Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -15548,6 +16249,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 2008-yil 1-yanvardan. 2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -15564,6 +16266,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxsning aybi qonunda belgilangan tartibda sudda isbotlanmaguncha va sud hukmi qonuniy kuchga kirmaguncha u aybsiz hisoblanishi. Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -15580,6 +16283,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yoshga to'lgan paytdan. Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -15596,6 +16300,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 15 sutkagacha (favqulodda holatlarda 30 sutkagacha). Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -15612,6 +16317,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi. Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -15628,6 +16334,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Yashash huquqi. Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -15644,6 +16351,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas. Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -15660,6 +16368,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Shaxsiy daxlsizlik huquqi. Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -15676,6 +16385,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas. Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -15692,6 +16402,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Turar joy daxlsizligi huquqi. Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -15708,6 +16419,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega. Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -15724,6 +16436,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Vijdon va e'tiqod erkinligi. Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -15740,6 +16453,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi. Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -15756,6 +16470,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat ishlarini boshqarishda ishtirok etish huquqi. Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -15772,6 +16487,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi. Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -15788,6 +16504,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Saylash va saylanish huquqi. Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -15804,6 +16521,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi. Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -15820,6 +16538,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi. Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -15836,6 +16555,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi. Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -15852,6 +16572,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat organlariga murojaat qilish huquqi. Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -15868,6 +16589,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi. Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -15884,6 +16606,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulkdor bo'lish huquqi. Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -15900,6 +16623,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi. Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -15916,6 +16640,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mehnat qilish va kasb tanlash erkinligi. Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -15932,6 +16657,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi. Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -15948,6 +16674,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tibbiy yordam olish huquqi. Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -15964,6 +16691,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi. Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -15980,6 +16708,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ijtimoiy ta'minot huquqi. Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -15996,6 +16725,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati. Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -16012,6 +16742,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bepul umumiy o'rta ta'lim olish huquqi. Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -16028,6 +16759,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi. Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -16044,6 +16776,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Konstitutsiya va qonunlarga rioya etish majburiyati. Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -16060,6 +16793,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati. O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -16076,6 +16810,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston Respublikasini himoya qilish burchi. Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -16092,6 +16827,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi. Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -16108,6 +16844,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Qonun bilan belgilangan soliqlarni to'lash majburiyati. Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -16124,6 +16861,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati. Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -16140,6 +16878,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tarixiy, ma'naviy va madaniy merosni asrab-avaylash. Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -16156,6 +16895,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi. Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -16172,6 +16912,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish. Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -16188,6 +16929,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim. Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -16204,6 +16946,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Oldi-sotdi shartnomasi. Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -16220,6 +16963,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim. Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -16236,6 +16980,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hadya shartnomasi. Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -16252,6 +16997,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui. Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -16268,6 +17014,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulk huquqining uchta mezoni. Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -16284,6 +17031,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar. Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -16300,6 +17048,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ko'chmas mulk. Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -16316,6 +17065,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish. Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -16332,6 +17082,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Vasiylik. Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -16348,6 +17099,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli. Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -16364,6 +17116,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Homiylik. Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -16380,6 +17133,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik). Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -16396,6 +17150,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Jinoyat tushunchasi. Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
     },
@@ -16412,6 +17167,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash. Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -16428,6 +17184,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ozodlikni cheklash jazosi. Ushbu ta'rif 'Ozodlikni cheklash jazosi'ga tegishli."
     },
@@ -16444,6 +17201,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish. Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -16460,6 +17218,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ozodlikdan mahrum qilish jazosi. Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
     },
@@ -16476,6 +17235,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi. Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -16492,6 +17252,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Axloq tuzatish ishlari. Ushbu ta'rif 'Axloq tuzatish ishlari'ga tegishli."
     },
@@ -16508,6 +17269,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik. Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -16524,6 +17286,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Jinoiy javobgarlikni istisno qiluvchi holatlar. Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
     },
@@ -16540,6 +17303,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Birinchi marta 5 yilga, keyin 10 yil muddatga. Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
     },
@@ -16556,6 +17320,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 5 yil. Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -16572,6 +17337,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ochiq holda o'tkaziladi (davlat sirini saqlash hollari bundan mustasno). Ochiqlik va shaffoflik konstitutsiyaviy prinsipdir."
     },
@@ -16588,6 +17354,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1994-yil 1-iyul. Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -16604,6 +17371,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1989-yil 21-oktyabr. O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -16620,6 +17388,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1989-yil 20-noyabrda. 1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -16636,6 +17405,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lmagan shaxs. 18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
     },
@@ -16652,6 +17422,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolar va yuridik shaxslarning fuqarolik huquq va burchlarini belgilash, o'zgartirish yoki bekor qilishga qaratilgan harakatlari. Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
     },
@@ -16668,6 +17439,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — O'z mulkida, xo'jalik yuritishida yoki operativ boshqaruvida alohida mol-mulkka ega bo'lgan va o'z nomidan sudda da'vogar va javobgar bo'la oladigan tashkilot. Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
     },
@@ -16684,6 +17456,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qonunda belgilangan hollarda hujjatlar, shartnomalar va vasiyatnomalarning qonuniyligini notarius tomonidan tasdiqlanishi. Notarius bitimlarning qonuniyligini rasmiylashtiradi."
     },
@@ -16700,6 +17473,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Ha, er va xotin oilaviy munosabatlarda teng huquqlarga ega. Konstitutsiya va Oila kodeksi er-xotin teng huquqliligini kafolatlaydi."
     },
@@ -16716,6 +17490,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 14 kalendar kun (2 hafta) oldin yozma ravishda. Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
     },
@@ -16732,6 +17507,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Kamida 2 oy oldin yozma ravishda. Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
     },
@@ -16748,6 +17524,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Pasport (ID-karta), mehnat daftarchasi (yoki elektron nusxasi), diplom (zarur bo'lsa), harbiy guvohnoma. Ishga kirishda qonunda ruxsat etilmagan qo'shimcha hujjatlarni talab qilish man etiladi."
     },
@@ -16764,6 +17541,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Davlat tomonidan himoya qilinadi va ularga g'amxo'rlik ko'rsatiladi. Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
     },
@@ -16780,6 +17558,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston Respublikasi Prezidentining taqdimiga binoan. Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
     },
@@ -16796,6 +17575,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston Respublikasi Prezidenti. Prezident parlament palatalari bilan maslahatlashuvlardan so'ng nomzodni kiritadi."
     },
@@ -16812,6 +17592,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Xalq deputatlari viloyat, tuman va shahar Kengashlari. Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
     },
@@ -16828,6 +17609,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolar yig'ini (Mahalla). Mahalla fuqarolarning o'zini o'zi boshqarishining nodavlat institutidir."
     },
@@ -16844,6 +17626,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gaaga shahrida (Niderlandiya). BMTning asosiy sud organi Gaagada joylashgan."
     },
@@ -16860,6 +17643,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 1949-yilda. 1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
     },
@@ -16876,6 +17660,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Prezident, Qonunchilik palatasi deputati, Senat, Hukumat, Qoraqalpog'iston Jo'qorg'i Kengesi, Oliy Sud, Bosh prokuror. Qonun loyihasini parlamentga kiritish huquqiga ega bo'lgan sub'ektlar doirasi qat'iy belgilangan."
     },
@@ -16892,6 +17677,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 8-dekabr. Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -16908,6 +17694,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Oliy Majlis. O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -16924,6 +17711,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — 1948. BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -16940,6 +17728,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — Prezident farmoni. Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -16956,6 +17745,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat. Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -16972,6 +17762,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston xalqi. Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -16988,6 +17779,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 18-noyabr. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -17004,6 +17796,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 2-iyul. Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -17020,6 +17813,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 10-dekabr. Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -17036,6 +17830,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikki palatadan: Qonunchilik palatasi (quyi) va Senat (yuqori). Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -17052,6 +17847,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5 yil muddatga. Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -17068,6 +17864,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7 yil muddatga. Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -17084,6 +17881,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 35 yoshdan. O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -17100,6 +17898,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 25 yoshga. Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -17116,6 +17915,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshdan. 18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -17132,6 +17932,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Vazirlar Mahkamasi (Hukumat). Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -17148,6 +17949,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mustaqil bo'lib, faqat qonunga bo'ysunadi va odil sudlovni amalga oshiradi. Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -17164,6 +17966,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Inson tug'ilgan paytdan boshlanadi va vafot etishi bilan tugaydi. Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -17180,6 +17983,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lganda (balog'atga yetganda). Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -17196,6 +18000,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Emansipatsiya. Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -17212,6 +18017,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs o'zining buzilgan huquqini sud orqali himoya qilishi mumkin bo'lgan muddat. Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -17228,6 +18034,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3 yil. O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -17244,6 +18051,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Meros qoldiruvchining bolalari, eri (xotini) va ota-onasi. Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -17260,6 +18068,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yoshdan (ota-ona roziligi bilan yengil ishga 15 yoshdan). Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -17276,6 +18085,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 36 soatdan oshmasligi kerak. 16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -17292,6 +18102,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 24 soatdan oshmasligi kerak. 15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -17308,6 +18119,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 40 soatdan oshmasligi kerak. Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -17324,6 +18136,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 3 oydan oshmasligi kerak (rahbar xodimlar uchun 6 oygacha). Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -17340,6 +18153,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 21 kalendar kundan kam bo'lmasligi kerak. Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -17356,6 +18170,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hayfsan, o'rtacha oylik ish haqining 30% (ba'zan 50%) gacha jarima, mehnat shartnomasini bekor qilish. Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -17372,6 +18187,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18 yosh. Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -17388,6 +18204,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1 yildan oshmagan muddatga (17 yoshgacha). Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -17404,6 +18221,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Boshqa nikohda turgan shaxslar, yaqin qarindoshlar, ruhan nosog'lom shaxslar o'rtasida. Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -17420,6 +18238,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Birgalikdagi umumiy mulk. Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -17436,6 +18255,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Har birining o'z shaxsiy xususiy mulki. Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -17452,6 +18272,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — To'rtdan bir qismi (1/4). 1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -17468,6 +18289,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yosh (og'ir jinoyatlar uchun 14 va 13 yoshdan). Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -17484,6 +18306,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshdan. O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -17500,6 +18323,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tajovuzkorga jismoniy zarar yetkazish orqali o'zini, boshqalarni yoki davlat manfaatlarini himoya qilish (jinoyat hisoblanmaydi). Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -17516,6 +18340,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 2008-yil 1-yanvardan. 2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -17532,6 +18357,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxsning aybi qonunda belgilangan tartibda sudda isbotlanmaguncha va sud hukmi qonuniy kuchga kirmaguncha u aybsiz hisoblanishi. Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -17548,6 +18374,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yoshga to'lgan paytdan. Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -17564,6 +18391,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 15 sutkagacha (favqulodda holatlarda 30 sutkagacha). Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -17580,6 +18408,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi. Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -17596,6 +18425,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Yashash huquqi. Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -17612,6 +18442,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas. Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -17628,6 +18459,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Shaxsiy daxlsizlik huquqi. Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -17644,6 +18476,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas. Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -17660,6 +18493,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Turar joy daxlsizligi huquqi. Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -17676,6 +18510,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega. Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -17692,6 +18527,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Vijdon va e'tiqod erkinligi. Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -17708,6 +18544,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi. Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -17724,6 +18561,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat ishlarini boshqarishda ishtirok etish huquqi. Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -17740,6 +18578,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi. Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -17756,6 +18595,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Saylash va saylanish huquqi. Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -17772,6 +18612,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi. Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -17788,6 +18629,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi. Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -17804,6 +18646,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi. Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -17820,6 +18663,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat organlariga murojaat qilish huquqi. Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -17836,6 +18680,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi. Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -17852,6 +18697,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulkdor bo'lish huquqi. Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -17868,6 +18714,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi. Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -17884,6 +18731,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mehnat qilish va kasb tanlash erkinligi. Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -17900,6 +18748,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi. Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -17916,6 +18765,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tibbiy yordam olish huquqi. Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -17932,6 +18782,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi. Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -17948,6 +18799,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ijtimoiy ta'minot huquqi. Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -17964,6 +18816,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati. Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -17980,6 +18833,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bepul umumiy o'rta ta'lim olish huquqi. Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -17996,6 +18850,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi. Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -18012,6 +18867,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Konstitutsiya va qonunlarga rioya etish majburiyati. Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -18028,6 +18884,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati. O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -18044,6 +18901,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston Respublikasini himoya qilish burchi. Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -18060,6 +18918,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi. Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -18076,6 +18935,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Qonun bilan belgilangan soliqlarni to'lash majburiyati. Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -18092,6 +18952,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati. Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -18108,6 +18969,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tarixiy, ma'naviy va madaniy merosni asrab-avaylash. Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -18124,6 +18986,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi. Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -18140,6 +19003,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish. Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -18156,6 +19020,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim. Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -18172,6 +19037,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Oldi-sotdi shartnomasi. Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -18188,6 +19054,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim. Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -18204,6 +19071,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hadya shartnomasi. Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -18220,6 +19088,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui. Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -18236,6 +19105,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulk huquqining uchta mezoni. Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -18252,6 +19122,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar. Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -18268,6 +19139,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ko'chmas mulk. Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -18284,6 +19156,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish. Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -18300,6 +19173,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Vasiylik. Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -18316,6 +19190,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli. Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -18332,6 +19207,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Homiylik. Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -18348,6 +19224,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik). Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     },
@@ -18364,6 +19241,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Jinoyat tushunchasi. Ushbu ta'rif 'Jinoyat tushunchasi'ga tegishli."
     },
@@ -18380,6 +19258,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash. Ozodlikni cheklash jazosi - Mahkumga sutkaning ma'lum vaqtida yashash joyidan chiqmaslik, ommaviy joylarga bormaslik kabi taqiqlar yuklash."
     },
@@ -18396,6 +19275,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ozodlikni cheklash jazosi. Ushbu ta'rif 'Ozodlikni cheklash jazosi'ga tegishli."
     },
@@ -18412,6 +19292,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish. Ozodlikdan mahrum qilish jazosi - Mahkumni jamiyatdan ajratib, qat'iy rejimli koloniyaga yoki turmaga majburiy joylashtirish."
     },
@@ -18428,6 +19309,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ozodlikdan mahrum qilish jazosi. Ushbu ta'rif 'Ozodlikdan mahrum qilish jazosi'ga tegishli."
     },
@@ -18444,6 +19326,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi. Axloq tuzatish ishlari - Mahkumning o'z ish joyida yoki maxsus joylarda ishlab, oylik maoshining 10% dan 30% gacha davlatga ushlab qolinishi."
     },
@@ -18460,6 +19343,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Axloq tuzatish ishlari. Ushbu ta'rif 'Axloq tuzatish ishlari'ga tegishli."
     },
@@ -18476,6 +19360,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik. Jinoiy javobgarlikni istisno qiluvchi holatlar - Zaruriy mudofaa, oxirgi zarurat, jismoniy yoki ruhiy majburlash, asosli tavakkalchilik."
     },
@@ -18492,6 +19377,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Jinoiy javobgarlikni istisno qiluvchi holatlar. Ushbu ta'rif 'Jinoiy javobgarlikni istisno qiluvchi holatlar'ga tegishli."
     },
@@ -18508,6 +19394,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Birinchi marta 5 yilga, keyin 10 yil muddatga. Konstitutsiyaviy sud sudyalari Oliy Majlis Senati tomonidan saylanadi."
     },
@@ -18524,6 +19411,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 5 yil. Bosh prokuror Prezident tomonidan Senat ma'qullashi bilan 5 yil muddatga tayinlanadi."
     },
@@ -18540,6 +19428,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ochiq holda o'tkaziladi (davlat sirini saqlash hollari bundan mustasno). Ochiqlik va shaffoflik konstitutsiyaviy prinsipdir."
     },
@@ -18556,6 +19445,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1994-yil 1-iyul. Milliy valyutamiz so'm 1994-yil 1-iyulda kiritilgan."
     },
@@ -18572,6 +19462,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1989-yil 21-oktyabr. O'zbek tiliga davlat tili maqomi 1989-yil 21-oktyabrda berilgan."
     },
@@ -18588,6 +19479,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1989-yil 20-noyabrda. 1989-yil 20-noyabrda BMT Bosh Assambleyasi tomonidan qabul qilingan."
     },
@@ -18604,6 +19496,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lmagan shaxs. 18 yoshga to'lmagan har bir inson qonunchilikda bola hisoblanadi."
     },
@@ -18620,6 +19513,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolar va yuridik shaxslarning fuqarolik huquq va burchlarini belgilash, o'zgartirish yoki bekor qilishga qaratilgan harakatlari. Bitimlar bir tomonlama, ikki tomonlama yoki ko'p tomonlama (shartnoma) bo'ladi."
     },
@@ -18636,6 +19530,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — O'z mulkida, xo'jalik yuritishida yoki operativ boshqaruvida alohida mol-mulkka ega bo'lgan va o'z nomidan sudda da'vogar va javobgar bo'la oladigan tashkilot. Yuridik shaxs tashkiliy birilikka, mustaqil balansga va hisobraqamga ega bo'ladi."
     },
@@ -18652,6 +19547,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qonunda belgilangan hollarda hujjatlar, shartnomalar va vasiyatnomalarning qonuniyligini notarius tomonidan tasdiqlanishi. Notarius bitimlarning qonuniyligini rasmiylashtiradi."
     },
@@ -18668,6 +19564,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Ha, er va xotin oilaviy munosabatlarda teng huquqlarga ega. Konstitutsiya va Oila kodeksi er-xotin teng huquqliligini kafolatlaydi."
     },
@@ -18684,6 +19581,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 14 kalendar kun (2 hafta) oldin yozma ravishda. Mehnat kodeksiga binoan xodim 14 kun oldin yozma ariza topshiradi."
     },
@@ -18700,6 +19598,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Kamida 2 oy oldin yozma ravishda. Shtat qisqarganda xodim kamida 2 oy oldin ogohlantirilishi va kompensatsiya to'lanishi lozim."
     },
@@ -18716,6 +19615,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Pasport (ID-karta), mehnat daftarchasi (yoki elektron nusxasi), diplom (zarur bo'lsa), harbiy guvohnoma. Ishga kirishda qonunda ruxsat etilmagan qo'shimcha hujjatlarni talab qilish man etiladi."
     },
@@ -18732,6 +19632,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Davlat tomonidan himoya qilinadi va ularga g'amxo'rlik ko'rsatiladi. Yangi Konstitutsiyada o'qituvchilar sha'ni va kasbiy faoliyati davlat himoyasiga olindi."
     },
@@ -18748,6 +19649,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston Respublikasi Prezidentining taqdimiga binoan. Senat a'zolari orasidan Prezident taqdimi bilan saylanadi."
     },
@@ -18764,6 +19666,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston Respublikasi Prezidenti. Prezident parlament palatalari bilan maslahatlashuvlardan so'ng nomzodni kiritadi."
     },
@@ -18780,6 +19683,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Xalq deputatlari viloyat, tuman va shahar Kengashlari. Vakillik organi - Xalq deputatlari Kengashi, ijroiya organi - Hokim."
     },
@@ -18796,6 +19700,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolar yig'ini (Mahalla). Mahalla fuqarolarning o'zini o'zi boshqarishining nodavlat institutidir."
     },
@@ -18812,6 +19717,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gaaga shahrida (Niderlandiya). BMTning asosiy sud organi Gaagada joylashgan."
     },
@@ -18828,6 +19734,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 1949-yilda. 1949-yilgi to'rtta Jeneva konvensiyasi urush paytida insonlarni himoya qilishga bag'ishlangan."
     },
@@ -18844,6 +19751,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Prezident, Qonunchilik palatasi deputati, Senat, Hukumat, Qoraqalpog'iston Jo'qorg'i Kengesi, Oliy Sud, Bosh prokuror. Qonun loyihasini parlamentga kiritish huquqiga ega bo'lgan sub'ektlar doirasi qat'iy belgilangan."
     },
@@ -18860,6 +19768,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 8-dekabr. Konstitutsiya 1992-yil 8-dekabrda 12-chaqiriq Oliy Kengashning 11-sessiyasida qabul qilingan."
     },
@@ -18876,6 +19785,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Oliy Majlis. O'zbekiston Respublikasi Oliy Majlisi oliy davlat vakillik va qonun chiqaruvchi organidir."
     },
@@ -18892,6 +19802,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — 1948. BMT Bosh Assambleyasi tomonidan 1948-yil 10-dekabrda qabul qilingan."
     },
@@ -18908,6 +19819,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — Prezident farmoni. Davlat ramzlari Konstitutsiyada belgilangan: Bayroq, Gerb va Madhiya."
     },
@@ -18924,6 +19836,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat. Konstitutsiyaning 1-moddasida O'zbekiston boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir deb belgilangan."
     },
@@ -18940,6 +19853,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston xalqi. Xalq davlat hokimiyatining birdan-bir manbaidir."
     },
@@ -18956,6 +19870,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 18-noyabr. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -18972,6 +19887,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 2-iyul. Davlat gerbi 1992-yil 2-iyulda tasdiqlangan."
     },
@@ -18988,6 +19904,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 10-dekabr. Davlat madhiyasi 1992-yil 10-dekabrda qabul qilingan."
     },
@@ -19004,6 +19921,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikki palatadan: Qonunchilik palatasi (quyi) va Senat (yuqori). Oliy Majlis parlament tizimi ikki palatalidir."
     },
@@ -19020,6 +19938,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 5 yil muddatga. Deputatlar va senatorlarning vakolat muddati 5 yil."
     },
@@ -19036,6 +19955,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7 yil muddatga. Yangi tahrirdagi Konstitutsiyaga ko'ra Prezidentlik muddati 7 yil."
     },
@@ -19052,6 +19972,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 35 yoshdan. O'ttiz besh yoshdan kichik bo'lmagan, davlat tilini yaxshi biladigan fuqaro saylanishi mumkin."
     },
@@ -19068,6 +19989,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 25 yoshga. Deputatlikka 25 yoshga to'lgan fuqarolar saylanadi."
     },
@@ -19084,6 +20006,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshdan. 18 yoshga to'lgan barcha fuqarolar ovoz berish huquqiga ega."
     },
@@ -19100,6 +20023,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Vazirlar Mahkamasi (Hukumat). Vazirlar Mahkamasi ijro etuvchi hokimiyatning oliy organidir."
     },
@@ -19116,6 +20040,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mustaqil bo'lib, faqat qonunga bo'ysunadi va odil sudlovni amalga oshiradi. Sudyalar mustaqildir, faqat qonunga bo'ysunadilar."
     },
@@ -19132,6 +20057,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Inson tug'ilgan paytdan boshlanadi va vafot etishi bilan tugaydi. Huquq layoqati barcha insonlarda tug'ilgan paytdan paydo bo'ladi."
     },
@@ -19148,6 +20074,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lganda (balog'atga yetganda). Fuqaro 18 yoshga to'lgach, o'z harakatlari bilan huquq va majburiyatlar oladi."
     },
@@ -19164,6 +20091,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Emansipatsiya. Emansipatsiya - 16 yoshli o'smirni to'liq muomala layoqatli deb e'tirof etishdir."
     },
@@ -19180,6 +20108,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs o'zining buzilgan huquqini sud orqali himoya qilishi mumkin bo'lgan muddat. Buzilgan huquqni himoya qilish uchun berilgan qonuniy vaqt."
     },
@@ -19196,6 +20125,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 3 yil. O'zbekiston Respublikasi Fuqarolik kodeksida umumiy da'vo muddati 3 yil."
     },
@@ -19212,6 +20142,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Meros qoldiruvchining bolalari, eri (xotini) va ota-onasi. Farzandlar, turmush o'rtoq va ota-ona 1-navbatdagi qonuniy merosxo'rlardir."
     },
@@ -19228,6 +20159,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yoshdan (ota-ona roziligi bilan yengil ishga 15 yoshdan). Mehnatga layoqat yoshi 16 yosh qilib belgilangan."
     },
@@ -19244,6 +20176,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 36 soatdan oshmasligi kerak. 16-18 yoshlilar uchun qisqartirilgan ish vaqti 36 soatdan oshmaydi."
     },
@@ -19260,6 +20193,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 24 soatdan oshmasligi kerak. 15-16 yoshli o'smirlar uchun haftasiga ko'pi bilan 24 soat ish belgilanadi."
     },
@@ -19276,6 +20210,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Haftasiga 40 soatdan oshmasligi kerak. Normal ish vaqti haftasiga 40 soatdan oshishi mumkin emas."
     },
@@ -19292,6 +20227,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 3 oydan oshmasligi kerak (rahbar xodimlar uchun 6 oygacha). Oddiy xodimlar uchun 3 oygacha bo'lgan sinov muddati belgilanadi."
     },
@@ -19308,6 +20244,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 21 kalendar kundan kam bo'lmasligi kerak. Yangi Mehnat kodeksiga binoan eng kam yillik ta'til 21 kalendar kundir."
     },
@@ -19324,6 +20261,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hayfsan, o'rtacha oylik ish haqining 30% (ba'zan 50%) gacha jarima, mehnat shartnomasini bekor qilish. Qonunda faqat hayfsan, jarima va ishdan bo'shatish ko'zda tutilgan."
     },
@@ -19340,6 +20278,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18 yosh. Oila kodeksiga ko'ra nikoh yoshi qat'iy 18 yosh etib belgilangan."
     },
@@ -19356,6 +20295,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1 yildan oshmagan muddatga (17 yoshgacha). Faqat hokim qarori bilan ko'pi bilan 1 yilga qisqartirilishi mumkin."
     },
@@ -19372,6 +20312,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Boshqa nikohda turgan shaxslar, yaqin qarindoshlar, ruhan nosog'lom shaxslar o'rtasida. Yaqin qon-qarindoshlar va amaldagi boshqa nikohda bo'lganlar nikohlana olmaydi."
     },
@@ -19388,6 +20329,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Birgalikdagi umumiy mulk. Nikoh davrida topilgan barcha daromad va mulk teng taqsimlanadi."
     },
@@ -19404,6 +20346,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Har birining o'z shaxsiy xususiy mulki. Nikohgacha olingan yoki meros qolgan mol-mulk shaxsiy bo'lib qoladi."
     },
@@ -19420,6 +20363,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — To'rtdan bir qismi (1/4). 1 bolaga 1/4, 2 bolaga 1/3, 3 va undan ortiq bolaga daromadning 1/2 qismi."
     },
@@ -19436,6 +20380,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yosh (og'ir jinoyatlar uchun 14 va 13 yoshdan). Umumiy jinoiy javobgarlik yoshi 16 yoshdan boshlanadi."
     },
@@ -19452,6 +20397,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshdan. O'ta og'ir qilmishlar uchun qonun bo'yicha 14 yoshdan jazo qo'llaniladi."
     },
@@ -19468,6 +20414,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tajovuzkorga jismoniy zarar yetkazish orqali o'zini, boshqalarni yoki davlat manfaatlarini himoya qilish (jinoyat hisoblanmaydi). Mudofaa chegarasidan chiqilmagan holda zaruriy mudofaa jinoyat sanalmaydi."
     },
@@ -19484,6 +20431,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 2008-yil 1-yanvardan. 2008-yil 1-yanvardan O'zbekistonda o'lim jazosi butunlay bekor qilingan."
     },
@@ -19500,6 +20448,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxsning aybi qonunda belgilangan tartibda sudda isbotlanmaguncha va sud hukmi qonuniy kuchga kirmaguncha u aybsiz hisoblanishi. Inson huquqlarining fundamental kafolati bo'lib, sud hukmigacha shaxs aybsiz sanaladi."
     },
@@ -19516,6 +20465,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 16 yoshga to'lgan paytdan. Ma'muriy huquqbuzarliklar to'g'risidagi kodeks bo'yicha javobgarlik 16 yoshdan boshlanadi."
     },
@@ -19532,6 +20482,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 15 sutkagacha (favqulodda holatlarda 30 sutkagacha). Ma'muriy qamoq faqat sud tomonidan ko'pi bilan 15 sutkagacha tayinlanadi."
     },
@@ -19548,6 +20499,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi. Yashash huquqi - Har bir insonning ajralmas huquqi bo'lib, inson hayotiga suiqasd qilish eng og'ir jinoyat hisoblanadi."
     },
@@ -19564,6 +20516,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Yashash huquqi. Ushbu ta'rif 'Yashash huquqi'ga tegishli."
     },
@@ -19580,6 +20533,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas. Shaxsiy daxlsizlik huquqi - Hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi yoki qamoqda saqlanishi mumkin emas."
     },
@@ -19596,6 +20550,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Shaxsiy daxlsizlik huquqi. Ushbu ta'rif 'Shaxsiy daxlsizlik huquqi'ga tegishli."
     },
@@ -19612,6 +20567,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas. Turar joy daxlsizligi huquqi - Hech kim qonunda nazarda tutilgan hollardan va tartibdan tashqari turar joyga kirishi, tintuv o'tkazishi mumkin emas."
     },
@@ -19628,6 +20584,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Turar joy daxlsizligi huquqi. Ushbu ta'rif 'Turar joy daxlsizligi huquqi'ga tegishli."
     },
@@ -19644,6 +20601,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega. Vijdon va e'tiqod erkinligi - Har kim xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqiga ega."
     },
@@ -19660,6 +20618,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Vijdon va e'tiqod erkinligi. Ushbu ta'rif 'Vijdon va e'tiqod erkinligi'ga tegishli."
     },
@@ -19676,6 +20635,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi. Davlat ishlarini boshqarishda ishtirok etish huquqi - Fuqarolarning bevosita hamda o'z vakillari orqali davlat ishlarini boshqarishda qatnashishi."
     },
@@ -19692,6 +20652,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat ishlarini boshqarishda ishtirok etish huquqi. Ushbu ta'rif 'Davlat ishlarini boshqarishda ishtirok etish huquqi'ga tegishli."
     },
@@ -19708,6 +20669,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi. Saylash va saylanish huquqi - 18 yoshga to'lgan fuqarolarning davlat hokimiyati vakillik organlariga saylash va saylanish huquqi."
     },
@@ -19724,6 +20686,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Saylash va saylanish huquqi. Ushbu ta'rif 'Saylash va saylanish huquqi'ga tegishli."
     },
@@ -19740,6 +20703,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi. Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi - Fuqarolarning qonunchilikka muvofiq o'z ijtimoiy faolligini ommaviy tadbirlar orqali namoyon etishi."
     },
@@ -19756,6 +20720,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi. Ushbu ta'rif 'Mitinglar, yig'ilishlar va namoyishlar o'tkazish erkinligi'ga tegishli."
     },
@@ -19772,6 +20737,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi. Davlat organlariga murojaat qilish huquqi - Fuqarolarning davlat idoralari va mansabdor shaxslarga ariza, taklif va shikoyatlar bilan murojaat etishi."
     },
@@ -19788,6 +20754,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat organlariga murojaat qilish huquqi. Ushbu ta'rif 'Davlat organlariga murojaat qilish huquqi'ga tegishli."
     },
@@ -19804,6 +20771,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi. Mulkdor bo'lish huquqi - Har bir shaxsning mulkdor bo'lish, mulkiga egalik qilish, undan foydalanish va tasarruf etish huquqi."
     },
@@ -19820,6 +20788,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulkdor bo'lish huquqi. Ushbu ta'rif 'Mulkdor bo'lish huquqi'ga tegishli."
     },
@@ -19836,6 +20805,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi. Mehnat qilish va kasb tanlash erkinligi - Har kimning munosib mehnat qilish, erkin kasb tanlash va adolatli mehnat sharoitlariga ega bo'lish huquqi."
     },
@@ -19852,6 +20822,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mehnat qilish va kasb tanlash erkinligi. Ushbu ta'rif 'Mehnat qilish va kasb tanlash erkinligi'ga tegishli."
     },
@@ -19868,6 +20839,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi. Tibbiy yordam olish huquqi - Har bir insonning malakali tibbiy xizmatdan foydalanish va sog'lig'ini saqlash huquqi."
     },
@@ -19884,6 +20856,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tibbiy yordam olish huquqi. Ushbu ta'rif 'Tibbiy yordam olish huquqi'ga tegishli."
     },
@@ -19900,6 +20873,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi. Ijtimoiy ta'minot huquqi - Qariganda, mehnat qobiliyatini yo'qotganda, boquvchisidan mahrum bo'lganda davlatdan nafaqa va moddiy yordam olish huquqi."
     },
@@ -19916,6 +20890,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ijtimoiy ta'minot huquqi. Ushbu ta'rif 'Ijtimoiy ta'minot huquqi'ga tegishli."
     },
@@ -19932,6 +20907,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati. Bepul umumiy o'rta ta'lim olish huquqi - Davlat tomonidan har bir bolaga maktabda bepul ta'lim olish kafolati."
     },
@@ -19948,6 +20924,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bepul umumiy o'rta ta'lim olish huquqi. Ushbu ta'rif 'Bepul umumiy o'rta ta'lim olish huquqi'ga tegishli."
     },
@@ -19964,6 +20941,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi. Konstitutsiya va qonunlarga rioya etish majburiyati - Barcha fuqarolar, davlat organlari va mansabdor shaxslarning davlat qonunlariga so'zsiz bo'ysunishi."
     },
@@ -19980,6 +20958,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Konstitutsiya va qonunlarga rioya etish majburiyati. Ushbu ta'rif 'Konstitutsiya va qonunlarga rioya etish majburiyati'ga tegishli."
     },
@@ -19996,6 +20975,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati. O'zbekiston Respublikasini himoya qilish burchi - Har bir fuqaroning qonunda belgilangan tartibda harbiy yoki muqobil xizmatni o'tash majburiyati."
     },
@@ -20012,6 +20992,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston Respublikasini himoya qilish burchi. Ushbu ta'rif 'O'zbekiston Respublikasini himoya qilish burchi'ga tegishli."
     },
@@ -20028,6 +21009,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi. Qonun bilan belgilangan soliqlarni to'lash majburiyati - Har bir shaxsning o'z daromadidan davlat byudjetiga belgilangan soliqlarni o'z vaqtida to'lab borishi."
     },
@@ -20044,6 +21026,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Qonun bilan belgilangan soliqlarni to'lash majburiyati. Ushbu ta'rif 'Qonun bilan belgilangan soliqlarni to'lash majburiyati'ga tegishli."
     },
@@ -20060,6 +21043,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati. Tarixiy, ma'naviy va madaniy merosni asrab-avaylash - Xalqning o'tmish obidalari, qadriyatlari va milliy madaniyatini saqlash majburiyati."
     },
@@ -20076,6 +21060,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tarixiy, ma'naviy va madaniy merosni asrab-avaylash. Ushbu ta'rif 'Tarixiy, ma'naviy va madaniy merosni asrab-avaylash'ga tegishli."
     },
@@ -20092,6 +21077,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi. Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish - Tabiat boyliklarini, suv, yer, o'rmon va havoni ifloslantirmaslik, ekologiyani asrash burchi."
     },
@@ -20108,6 +21094,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish. Ushbu ta'rif 'Atrof-tabiiy muhitga ehtiyotkorona munosabatda bo'lish'ga tegishli."
     },
@@ -20124,6 +21111,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim. Oldi-sotdi shartnomasi - Bir taraf (sotuvchi) ashyoni ikkinchi taraf (oluvchi)ga topshirish, oluvchi esa pulni to'lash majburiyatini oladigan bitim."
     },
@@ -20140,6 +21128,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Oldi-sotdi shartnomasi. Ushbu ta'rif 'Oldi-sotdi shartnomasi'ga tegishli."
     },
@@ -20156,6 +21145,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim. Hadya shartnomasi - Bir taraf ikkinchi tarafga ashyoni tekinga, hech qanday haq talab qilmasdan mulk qilib beradigan tekin bitim."
     },
@@ -20172,6 +21162,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Hadya shartnomasi. Ushbu ta'rif 'Hadya shartnomasi'ga tegishli."
     },
@@ -20188,6 +21179,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui. Mulk huquqining uchta mezoni - Mulkka egalik qilish, undan foydalanish va uni tasarruf etish vakolatlari majmui."
     },
@@ -20204,6 +21196,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Mulk huquqining uchta mezoni. Ushbu ta'rif 'Mulk huquqining uchta mezoni'ga tegishli."
     },
@@ -20220,6 +21213,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar. Ko'chmas mulk - Yer, yer osti boyliklari, binolar, inshootlar va yer bilan uzviy bog'langan ob'ektlar."
     },
@@ -20236,6 +21230,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Ko'chmas mulk. Ushbu ta'rif 'Ko'chmas mulk'ga tegishli."
     },
@@ -20252,6 +21247,7 @@ const huquq = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish. Vasiylik - 14 yoshga to'lmagan ota-onasiz qolgan bolalarga yoki muomalaga layoqatsiz shaxslarga huquqiy g'amxo'rlik o'rnatish."
     },
@@ -20268,6 +21264,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Vasiylik. Ushbu ta'rif 'Vasiylik'ga tegishli."
     },
@@ -20284,6 +21281,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli. Homiylik - 14 yoshdan 18 yoshgacha bo'lgan voyaga yetmaganlarga hamda muomala layoqati cheklanganlarga yordam berish shakli."
     },
@@ -20300,6 +21298,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Homiylik. Ushbu ta'rif 'Homiylik'ga tegishli."
     },
@@ -20316,6 +21315,7 @@ const huquq = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik). Jinoyat tushunchasi - Jinoyat kodeksi bilan taqiqlangan, aybli ravishda sodir etilgan ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)."
     }

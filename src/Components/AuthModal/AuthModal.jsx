@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import Logo from '../Logo.jsx'
 import { CheckMark } from '../Marks.jsx'
-import { getLastEmail, isEmailRegistered, loginUser, registerUser, resetPassword } from '../../utils/authStore.js'
+import { getLastEmail, isRemoteAuth, loginUser, registerUser, resetPassword } from '../../utils/authStore.js'
 import { mergeGuestFavorites } from '../../utils/favorites.js'
 import { mergeGuestHistory } from '../../utils/quizHistory.js'
 import { useToast } from '../../context/useToast.js'
@@ -136,7 +136,11 @@ function PasswordStrength({ strength }) {
   )
 }
 
-const perks = ['Interaktiv test arenasi', 'Natijalar tarixi va analitika', 'Sevimli maskanlar']
+const perks = [
+  'Interaktiv test arenasi',
+  'Qurilmalararo sinxron natijalar',
+  'Sevimli maskanlar va progress',
+]
 
 export default function AuthModal({ onClose }) {
   const dialogRef = useRef(null)
@@ -202,8 +206,6 @@ export default function AuthModal({ onClose }) {
   const confirmValidation = validateConfirmPassword(form.password, form.confirmPassword)
   const passwordChecks = getPasswordChecks(form.password)
   const passwordStrength = getPasswordStrength(form.password)
-  const emailTaken =
-    isRegister && emailValidation.valid && isEmailRegistered(emailValidation.email)
 
   const resetEmailValidation = validateEmail(resetEmail)
   const resetPasswordValidation = validatePassword(resetPasswordValue)
@@ -217,7 +219,7 @@ export default function AuthModal({ onClose }) {
   const isTouched = (key) => touched[key] || submitted
 
   const showNameError = isRegister && isTouched('name') && !nameValidation.valid
-  const showEmailError = isTouched('email') && (!emailValidation.valid || emailTaken)
+  const showEmailError = isTouched('email') && !emailValidation.valid
   const showPasswordError = isTouched('password') && !passwordValidation.valid
   const showConfirmError =
     isRegister && isTouched('confirmPassword') && !confirmValidation.valid
@@ -232,9 +234,7 @@ export default function AuthModal({ onClose }) {
   const showResetConfirmError =
     (resetTouched.confirmPassword || resetSubmitted) && !resetConfirmValidation.valid
 
-  const emailErrorMessage = emailTaken
-    ? "Bu email allaqachon ro'yxatdan o'tgan"
-    : emailValidation.message
+  const emailErrorMessage = emailValidation.message
 
   const handleChange = (event) => {
     const { name, value, type, checked } = event.target
@@ -338,11 +338,6 @@ export default function AuthModal({ onClose }) {
       if (!passwordValidation.valid) return
     } else {
       if (!nameValidation.valid || !passwordValidation.valid || !confirmValidation.valid) return
-
-      if (emailTaken) {
-        setServerError("Bu email allaqachon ro'yxatdan o'tgan")
-        return
-      }
     }
 
     setPending(true)
@@ -411,22 +406,42 @@ export default function AuthModal({ onClose }) {
       if (!resetEmailValidation.valid) return
 
       setPending(true)
-      await wait(400)
 
-      if (!isEmailRegistered(resetEmailValidation.email)) {
+      try {
+        const [result] = await Promise.all([
+          resetPassword(resetEmailValidation.email),
+          wait(400),
+        ])
+
         setPending(false)
-        setResetError('Bunday email bilan akkaunt topilmadi')
-        return
+
+        if (!result.ok) {
+          setResetError(result.message)
+          return
+        }
+
+        setResetEmail(resetEmailValidation.email)
+        setResetSubmitted(false)
+        setResetTouched({ email: false, password: false, confirmPassword: false })
+        setShowResetPassword(false)
+        setShowResetConfirm(false)
+
+        if (isRemoteAuth) {
+          setResetStep('sent')
+          showToast('Parolni tiklash havolasi emailingizga yuborildi.', {
+            title: 'Email yuborildi',
+            variant: 'success',
+          })
+        } else {
+          setResetStep('password')
+        }
+
+        scrollToPanelTop()
+      } catch {
+        setPending(false)
+        setResetError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring")
       }
 
-      setPending(false)
-      setResetEmail(resetEmailValidation.email)
-      setResetStep('password')
-      setResetSubmitted(false)
-      setResetTouched({ email: false, password: false, confirmPassword: false })
-      setShowResetPassword(false)
-      setShowResetConfirm(false)
-      scrollToPanelTop()
       return
     }
 
@@ -505,7 +520,9 @@ export default function AuthModal({ onClose }) {
               Bilimni <span className="text-aurora">tizimga</span> aylantiring.
             </h2>
             <p className="mt-4 text-sm leading-6 text-muted">
-              Hisobingiz natijalar, tarix va sevimlilarni shu brauzerda bir joyda saqlaydi.
+              {isRemoteAuth
+                ? "Hisobingiz natijalar, tarix va sevimlilarni qurilmalararo sinxron saqlaydi."
+                : 'Hisobingiz natijalar, tarix va sevimlilarni shu brauzerda bir joyda saqlaydi.'}
             </p>
 
             <ul className="mt-7 space-y-3">
@@ -595,9 +612,11 @@ export default function AuthModal({ onClose }) {
                 ? 'Hisobingizga kirish uchun maʼlumotlarni kiriting'
                 : isRegister
                   ? 'Yangi hisob yaratish uchun maʼlumotlarni kiriting'
-                  : resetStep === 'email'
-                    ? 'Roʻyxatdan oʻtgan emailingizni kiriting'
-                    : 'Akkauntingiz uchun yangi parol oʻrnating'}
+                  : resetStep === 'sent'
+                    ? 'Pochta qutingizga yuborilgan havolani bosing'
+                    : resetStep === 'email'
+                      ? 'Roʻyxatdan oʻtgan emailingizni kiriting'
+                      : 'Akkauntingiz uchun yangi parol oʻrnating'}
             </p>
           </div>
 
@@ -608,7 +627,33 @@ export default function AuthModal({ onClose }) {
               className="zehnly-fade-in mt-5 flex flex-1 flex-col gap-4"
               noValidate
             >
-              {resetStep === 'email' ? (
+              {resetStep === 'sent' ? (
+                <div className="flex flex-col items-center rounded-xl border border-positive/25 bg-positive/[0.05] px-5 py-7 text-center">
+                  <span className="flex h-12 w-12 items-center justify-center rounded-xl bg-positive/10 text-positive">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className="h-5 w-5">
+                      <path d="M4 6h16v12H4z" />
+                      <path d="m4 7 8 6 8-6" />
+                    </svg>
+                  </span>
+                  <h3 className="mt-4 font-display text-lg font-semibold text-ink">
+                    Havola yuborildi
+                  </h3>
+                  <p className="mt-2 max-w-xs text-sm leading-6 text-muted">
+                    <span className="font-medium text-ink">{resetEmail}</span> manziliga parolni
+                    tiklash havolasini yubordik. Havolani bosib, yangi parol o&apos;rnating.
+                  </p>
+                  <p className="mt-3 font-mono text-[9px] uppercase tracking-[0.14em] text-muted">
+                    Havola 60 daqiqa amal qiladi
+                  </p>
+                  <button
+                    type="button"
+                    onClick={editResetEmail}
+                    className="mt-5 text-xs font-semibold text-ember transition-colors hover:text-cobalt hover:underline underline-offset-2"
+                  >
+                    Boshqa email kiritish
+                  </button>
+                </div>
+              ) : resetStep === 'email' ? (
                 <label className="flex flex-col gap-1.5">
                   <span className={labelClass}>Ro&apos;yxatdan o&apos;tgan email</span>
                   <input
@@ -658,7 +703,9 @@ export default function AuthModal({ onClose }) {
                   )}
 
                   <span className="text-xs leading-5 text-muted">
-                    Akkauntingizni tasdiqlash uchun ro&apos;yxatdan o&apos;tgan emailni kiriting.
+                    {isRemoteAuth
+                      ? "Emailingizga parolni tiklash havolasini yuboramiz."
+                      : "Akkauntingizni tasdiqlash uchun ro'yxatdan o'tgan emailni kiriting."}
                   </span>
                 </label>
               ) : (
@@ -800,23 +847,27 @@ export default function AuthModal({ onClose }) {
                 </>
               )}
 
-              <button type="submit" disabled={pending} className={`${ctaClass} mt-1`}>
-                {pending && (
-                  <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
-                    <path
-                      className="opacity-90"
-                      fill="currentColor"
-                      d="M12 2a10 10 0 0 1 10 10h-3A7 7 0 0 0 12 5V2Z"
-                    />
-                  </svg>
-                )}
-                {pending
-                  ? 'Tekshirilmoqda...'
-                  : resetStep === 'email'
-                    ? 'Emailni tekshirish'
-                    : 'Parolni yangilash'}
-              </button>
+              {resetStep !== 'sent' && (
+                <button type="submit" disabled={pending} className={`${ctaClass} mt-1`}>
+                  {pending && (
+                    <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
+                      <path
+                        className="opacity-90"
+                        fill="currentColor"
+                        d="M12 2a10 10 0 0 1 10 10h-3A7 7 0 0 0 12 5V2Z"
+                      />
+                    </svg>
+                  )}
+                  {pending
+                    ? 'Yuborilmoqda...'
+                    : resetStep === 'email'
+                      ? isRemoteAuth
+                        ? 'Havolani yuborish'
+                        : 'Emailni tekshirish'
+                      : 'Parolni yangilash'}
+                </button>
+              )}
 
               <div className="mt-auto flex flex-col gap-2 pt-1">
                 <p className="text-center text-xs text-muted">
@@ -831,7 +882,9 @@ export default function AuthModal({ onClose }) {
                 </p>
 
                 <p className="text-center text-[11px] leading-5 text-muted">
-                  Parol faqat shu qurilmada xavfsiz yangilanadi.
+                  {isRemoteAuth
+                    ? "Havola bir marta ishlaydi va 60 daqiqa amal qiladi."
+                    : 'Parol faqat shu qurilmada xavfsiz yangilanadi.'}
                 </p>
               </div>
             </form>
@@ -852,7 +905,9 @@ export default function AuthModal({ onClose }) {
                   />
                 </svg>
                 <p className="text-xs leading-5 text-muted">
-                  Natijalar, sevimlilar va statistikangiz shu brauzerda xavfsiz saqlanadi
+                  {isRemoteAuth
+                    ? "Natijalar, sevimlilar va statistika hisobingizga bog'lanadi va sinxronlanadi"
+                    : 'Natijalar, sevimlilar va statistikangiz shu brauzerda xavfsiz saqlanadi'}
                 </p>
               </div>
             ) : (
@@ -906,15 +961,6 @@ export default function AuthModal({ onClose }) {
                 <span id="email-error" className="flex items-center gap-1.5 text-xs font-medium text-negative">
                   <AlertIcon />
                   {emailErrorMessage}
-                  {emailTaken && (
-                    <button
-                      type="button"
-                      onClick={switchMode}
-                      className="font-semibold underline underline-offset-2 transition-colors hover:text-ink"
-                    >
-                      Kirish
-                    </button>
-                  )}
                 </span>
               )}
             </label>
@@ -1075,7 +1121,9 @@ export default function AuthModal({ onClose }) {
               </p>
 
               <p className="text-center text-[11px] leading-5 text-muted">
-                Hisob ma’lumotlari faqat shu qurilmada saqlanadi.
+                {isRemoteAuth
+                  ? "Hisobingiz Supabase orqali xavfsiz saqlanadi va qurilmalararo sinxronlanadi."
+                  : 'Hisob ma’lumotlari faqat shu qurilmada saqlanadi.'}
               </p>
             </div>
           </form>

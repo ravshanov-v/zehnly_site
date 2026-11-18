@@ -28,6 +28,7 @@ const nemisTili = {
           "text": "Rahmat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'g'ri javob: Salom."
     },
@@ -52,6 +53,7 @@ const nemisTili = {
           "text": "Xayr"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "To'g'ri javob: Rahmat."
     },
@@ -76,6 +78,7 @@ const nemisTili = {
           "text": "Kichik harf bilan"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "To'g'ri javob: Bosh harf bilan."
     },
@@ -100,6 +103,7 @@ const nemisTili = {
           "text": "bist"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "To'g'ri javob: bin."
     },
@@ -124,6 +128,7 @@ const nemisTili = {
           "text": "yomon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«hallo» so'zi o'zbek tilida «salom» deb tarjima qilinadi."
     },
@@ -148,6 +153,7 @@ const nemisTili = {
           "text": "Bauer"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«salom» so'zining nemischa tarjimasi — «hallo»."
     },
@@ -172,6 +178,7 @@ const nemisTili = {
           "text": "qum"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«guten Morgen» so'zi o'zbek tilida «xayrli tong» deb tarjima qilinadi."
     },
@@ -196,6 +203,7 @@ const nemisTili = {
           "text": "Schlange"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xayrli tong» so'zining nemischa tarjimasi — «guten Morgen»."
     },
@@ -220,6 +228,7 @@ const nemisTili = {
           "text": "oila"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«guten Abend» so'zi o'zbek tilida «xayrli kech» deb tarjima qilinadi."
     },
@@ -244,6 +253,7 @@ const nemisTili = {
           "text": "Tiger"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«xayrli kech» so'zining nemischa tarjimasi — «guten Abend»."
     },
@@ -268,6 +278,7 @@ const nemisTili = {
           "text": "kambag'al"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«willkommen» so'zi o'zbek tilida «xush kelibsiz» deb tarjima qilinadi."
     },
@@ -292,6 +303,7 @@ const nemisTili = {
           "text": "willkommen"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«xush kelibsiz» so'zining nemischa tarjimasi — «willkommen»."
     },
@@ -316,6 +328,7 @@ const nemisTili = {
           "text": "tovuq"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«danke» so'zi o'zbek tilida «rahmat» deb tarjima qilinadi."
     },
@@ -340,6 +353,7 @@ const nemisTili = {
           "text": "Bruder"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«rahmat» so'zining nemischa tarjimasi — «danke»."
     },
@@ -364,6 +378,7 @@ const nemisTili = {
           "text": "oy"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bitte» so'zi o'zbek tilida «iltimos» deb tarjima qilinadi."
     },
@@ -388,6 +403,7 @@ const nemisTili = {
           "text": "Blatt"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«iltimos» so'zining nemischa tarjimasi — «bitte»."
     },
@@ -412,6 +428,7 @@ const nemisTili = {
           "text": "maktab"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ja» so'zi o'zbek tilida «ha» deb tarjima qilinadi."
     },
@@ -436,6 +453,7 @@ const nemisTili = {
           "text": "Schüler"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ha» so'zining nemischa tarjimasi — «ja»."
     },
@@ -460,6 +478,7 @@ const nemisTili = {
           "text": "rahmat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«nein» so'zi o'zbek tilida «yo'q» deb tarjima qilinadi."
     },
@@ -484,6 +503,7 @@ const nemisTili = {
           "text": "Schnee"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yo'q» so'zining nemischa tarjimasi — «nein»."
     },
@@ -508,6 +528,7 @@ const nemisTili = {
           "text": "oson"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«vielleicht» so'zi o'zbek tilida «balki» deb tarjima qilinadi."
     },
@@ -532,6 +553,7 @@ const nemisTili = {
           "text": "arm"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«balki» so'zining nemischa tarjimasi — «vielleicht»."
     },
@@ -556,6 +578,7 @@ const nemisTili = {
           "text": "eshik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«okay» so'zi o'zbek tilida «yaxshi» deb tarjima qilinadi."
     },
@@ -580,6 +603,7 @@ const nemisTili = {
           "text": "heute"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yaxshi» so'zining nemischa tarjimasi — «okay»."
     },
@@ -604,6 +628,7 @@ const nemisTili = {
           "text": "qalaysan"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«wie geht's» so'zi o'zbek tilida «qalaysan» deb tarjima qilinadi."
     },
@@ -628,6 +653,7 @@ const nemisTili = {
           "text": "Erde"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qalaysan» so'zining nemischa tarjimasi — «wie geht's»."
     },
@@ -652,6 +678,7 @@ const nemisTili = {
           "text": "yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«mir geht es gut» so'zi o'zbek tilida «yaxshiman» deb tarjima qilinadi."
     },
@@ -676,6 +703,7 @@ const nemisTili = {
           "text": "mir geht es gut"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yaxshiman» so'zining nemischa tarjimasi — «mir geht es gut»."
     },
@@ -700,6 +728,7 @@ const nemisTili = {
           "text": "havo"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«wie heißt du» so'zi o'zbek tilida «isming nima» deb tarjima qilinadi."
     },
@@ -724,6 +753,7 @@ const nemisTili = {
           "text": "Straße"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«isming nima» so'zining nemischa tarjimasi — «wie heißt du»."
     },
@@ -748,6 +778,7 @@ const nemisTili = {
           "text": "boy"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ich heiße» so'zi o'zbek tilida «mening ismim» deb tarjima qilinadi."
     },
@@ -772,6 +803,7 @@ const nemisTili = {
           "text": "ja"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«mening ismim» so'zining nemischa tarjimasi — «ich heiße»."
     },
@@ -796,6 +828,7 @@ const nemisTili = {
           "text": "deraza"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«freut mich» so'zi o'zbek tilida «tanishganimdan xursandman» deb tarjima qilinadi."
     },
@@ -820,6 +853,7 @@ const nemisTili = {
           "text": "Jahr"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«tanishganimdan xursandman» so'zining nemischa tarjimasi — «freut mich»."
     },
@@ -844,6 +878,7 @@ const nemisTili = {
           "text": "bilmoq"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bis später» so'zi o'zbek tilida «keyinroq ko'rishguncha» deb tarjima qilinadi."
     },
@@ -868,6 +903,7 @@ const nemisTili = {
           "text": "bis später"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«keyinroq ko'rishguncha» so'zining nemischa tarjimasi — «bis später»."
     },
@@ -892,6 +928,7 @@ const nemisTili = {
           "text": "shahar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tschüss» so'zi o'zbek tilida «xayr» deb tarjima qilinadi."
     },
@@ -916,6 +953,7 @@ const nemisTili = {
           "text": "tschüss"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«xayr» so'zining nemischa tarjimasi — «tschüss»."
     },
@@ -940,6 +978,7 @@ const nemisTili = {
           "text": "do'kon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Entschuldigung» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -964,6 +1003,7 @@ const nemisTili = {
           "text": "eins"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kechirasiz» so'zining nemischa tarjimasi — «Entschuldigung»."
     },
@@ -988,6 +1028,7 @@ const nemisTili = {
           "text": "yarim"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«einen Moment» so'zi o'zbek tilida «bir daqiqa» deb tarjima qilinadi."
     },
@@ -1012,6 +1053,7 @@ const nemisTili = {
           "text": "halb"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bir daqiqa» so'zining nemischa tarjimasi — «einen Moment»."
     },
@@ -1036,6 +1078,7 @@ const nemisTili = {
           "text": "kun"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«guten Tag» so'zi o'zbek tilida «xayrli kun» deb tarjima qilinadi."
     },
@@ -1060,6 +1103,7 @@ const nemisTili = {
           "text": "Erde"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xayrli kun» so'zining nemischa tarjimasi — «guten Tag»."
     },
@@ -1084,6 +1128,7 @@ const nemisTili = {
           "text": "kapalak"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Mutter» so'zi o'zbek tilida «ona» deb tarjima qilinadi."
     },
@@ -1108,6 +1153,7 @@ const nemisTili = {
           "text": "Schwester"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ona» so'zining nemischa tarjimasi — «Mutter»."
     },
@@ -1132,6 +1178,7 @@ const nemisTili = {
           "text": "ona"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Vater» so'zi o'zbek tilida «ota» deb tarjima qilinadi."
     },
@@ -1156,6 +1203,7 @@ const nemisTili = {
           "text": "Hund"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ota» so'zining nemischa tarjimasi — «Vater»."
     },
@@ -1180,6 +1228,7 @@ const nemisTili = {
           "text": "krovat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bruder» so'zi o'zbek tilida «aka yoki uka» deb tarjima qilinadi."
     },
@@ -1204,6 +1253,7 @@ const nemisTili = {
           "text": "dreißig"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«aka yoki uka» so'zining nemischa tarjimasi — «Bruder»."
     },
@@ -1228,6 +1278,7 @@ const nemisTili = {
           "text": "eski"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Schwester» so'zi o'zbek tilida «opa yoki singil» deb tarjima qilinadi."
     },
@@ -1252,6 +1303,7 @@ const nemisTili = {
           "text": "neun"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«opa yoki singil» so'zining nemischa tarjimasi — «Schwester»."
     },
@@ -1276,6 +1328,7 @@ const nemisTili = {
           "text": "kambag'al"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Großvater» so'zi o'zbek tilida «bobo» deb tarjima qilinadi."
     },
@@ -1300,6 +1353,7 @@ const nemisTili = {
           "text": "Fuchs"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bobo» so'zining nemischa tarjimasi — «Großvater»."
     },
@@ -1324,6 +1378,7 @@ const nemisTili = {
           "text": "buvi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Großmutter» so'zi o'zbek tilida «buvi» deb tarjima qilinadi."
     },
@@ -1348,6 +1403,7 @@ const nemisTili = {
           "text": "Salat"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«buvi» so'zining nemischa tarjimasi — «Großmutter»."
     },
@@ -1372,6 +1428,7 @@ const nemisTili = {
           "text": "yaxshiman"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Sohn» so'zi o'zbek tilida «o'g'il» deb tarjima qilinadi."
     },
@@ -1396,6 +1453,7 @@ const nemisTili = {
           "text": "einen Moment"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'g'il» so'zining nemischa tarjimasi — «Sohn»."
     },
@@ -1420,6 +1478,7 @@ const nemisTili = {
           "text": "ot"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tochter» so'zi o'zbek tilida «qiz» deb tarjima qilinadi."
     },
@@ -1444,6 +1503,7 @@ const nemisTili = {
           "text": "Million"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qiz» so'zining nemischa tarjimasi — «Tochter»."
     },
@@ -1468,6 +1528,7 @@ const nemisTili = {
           "text": "sakkiz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kind» so'zi o'zbek tilida «bola» deb tarjima qilinadi."
     },
@@ -1492,6 +1553,7 @@ const nemisTili = {
           "text": "Arbeiter"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bola» so'zining nemischa tarjimasi — «Kind»."
     },
@@ -1516,6 +1578,7 @@ const nemisTili = {
           "text": "erkak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Mann» so'zi o'zbek tilida «erkak» deb tarjima qilinadi."
     },
@@ -1540,6 +1603,7 @@ const nemisTili = {
           "text": "Liebe"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«erkak» so'zining nemischa tarjimasi — «Mann»."
     },
@@ -1564,6 +1628,7 @@ const nemisTili = {
           "text": "ayol"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Frau» so'zi o'zbek tilida «ayol» deb tarjima qilinadi."
     },
@@ -1588,6 +1653,7 @@ const nemisTili = {
           "text": "Frau"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ayol» so'zining nemischa tarjimasi — «Frau»."
     },
@@ -1612,6 +1678,7 @@ const nemisTili = {
           "text": "do'st"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Freund» so'zi o'zbek tilida «do'st» deb tarjima qilinadi."
     },
@@ -1636,6 +1703,7 @@ const nemisTili = {
           "text": "Milch"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«do'st» so'zining nemischa tarjimasi — «Freund»."
     },
@@ -1660,6 +1728,7 @@ const nemisTili = {
           "text": "piyoz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Lehrer» so'zi o'zbek tilida «o'qituvchi» deb tarjima qilinadi."
     },
@@ -1684,6 +1753,7 @@ const nemisTili = {
           "text": "klein"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«o'qituvchi» so'zining nemischa tarjimasi — «Lehrer»."
     },
@@ -1708,6 +1778,7 @@ const nemisTili = {
           "text": "yomg'ir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Schüler» so'zi o'zbek tilida «o'quvchi» deb tarjima qilinadi."
     },
@@ -1732,6 +1803,7 @@ const nemisTili = {
           "text": "Luft"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«o'quvchi» so'zining nemischa tarjimasi — «Schüler»."
     },
@@ -1756,6 +1828,7 @@ const nemisTili = {
           "text": "shifokor"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Arzt» so'zi o'zbek tilida «shifokor» deb tarjima qilinadi."
     },
@@ -1780,6 +1853,7 @@ const nemisTili = {
           "text": "Baum"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«shifokor» so'zining nemischa tarjimasi — «Arzt»."
     },
@@ -1804,6 +1878,7 @@ const nemisTili = {
           "text": "kambag'al"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ingenieur» so'zi o'zbek tilida «muhandis» deb tarjima qilinadi."
     },
@@ -1828,6 +1903,7 @@ const nemisTili = {
           "text": "Auto"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«muhandis» so'zining nemischa tarjimasi — «Ingenieur»."
     },
@@ -1852,6 +1928,7 @@ const nemisTili = {
           "text": "kitob"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Arbeiter» so'zi o'zbek tilida «ishchi» deb tarjima qilinadi."
     },
@@ -1876,6 +1953,7 @@ const nemisTili = {
           "text": "Tisch"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ishchi» so'zining nemischa tarjimasi — «Arbeiter»."
     },
@@ -1900,6 +1978,7 @@ const nemisTili = {
           "text": "ona"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bauer» so'zi o'zbek tilida «dehqon» deb tarjima qilinadi."
     },
@@ -1924,6 +2003,7 @@ const nemisTili = {
           "text": "Schwester"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«dehqon» so'zining nemischa tarjimasi — «Bauer»."
     },
@@ -1948,6 +2028,7 @@ const nemisTili = {
           "text": "keyin"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Soldat» so'zi o'zbek tilida «askar» deb tarjima qilinadi."
     },
@@ -1972,6 +2053,7 @@ const nemisTili = {
           "text": "Computer"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«askar» so'zining nemischa tarjimasi — «Soldat»."
     },
@@ -1996,6 +2078,7 @@ const nemisTili = {
           "text": "mening ismim"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Familie» so'zi o'zbek tilida «oila» deb tarjima qilinadi."
     },
@@ -2020,6 +2103,7 @@ const nemisTili = {
           "text": "Familie"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«oila» so'zining nemischa tarjimasi — «Familie»."
     },
@@ -2044,6 +2128,7 @@ const nemisTili = {
           "text": "bir"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«eins» so'zi o'zbek tilida «bir» deb tarjima qilinadi."
     },
@@ -2068,6 +2153,7 @@ const nemisTili = {
           "text": "eins"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bir» so'zining nemischa tarjimasi — «eins»."
     },
@@ -2092,6 +2178,7 @@ const nemisTili = {
           "text": "inson"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«zwei» so'zi o'zbek tilida «ikki» deb tarjima qilinadi."
     },
@@ -2116,6 +2203,7 @@ const nemisTili = {
           "text": "Tomate"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ikki» so'zining nemischa tarjimasi — «zwei»."
     },
@@ -2140,6 +2228,7 @@ const nemisTili = {
           "text": "bo'ri"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«drei» so'zi o'zbek tilida «uch» deb tarjima qilinadi."
     },
@@ -2164,6 +2253,7 @@ const nemisTili = {
           "text": "drei"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«uch» so'zining nemischa tarjimasi — «drei»."
     },
@@ -2188,6 +2278,7 @@ const nemisTili = {
           "text": "to'rt"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«vier» so'zi o'zbek tilida «to'rt» deb tarjima qilinadi."
     },
@@ -2212,6 +2303,7 @@ const nemisTili = {
           "text": "Berg"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«to'rt» so'zining nemischa tarjimasi — «vier»."
     },
@@ -2236,6 +2328,7 @@ const nemisTili = {
           "text": "mashina"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«fünf» so'zi o'zbek tilida «besh» deb tarjima qilinadi."
     },
@@ -2260,6 +2353,7 @@ const nemisTili = {
           "text": "zehn"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«besh» so'zining nemischa tarjimasi — «fünf»."
     },
@@ -2284,6 +2378,7 @@ const nemisTili = {
           "text": "oldin"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sechs» so'zi o'zbek tilida «olti» deb tarjima qilinadi."
     },
@@ -2308,6 +2403,7 @@ const nemisTili = {
           "text": "drei"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«olti» so'zining nemischa tarjimasi — «sechs»."
     },
@@ -2332,6 +2428,7 @@ const nemisTili = {
           "text": "tuproq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sieben» so'zi o'zbek tilida «yetti» deb tarjima qilinadi."
     },
@@ -2356,6 +2453,7 @@ const nemisTili = {
           "text": "sieben"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yetti» so'zining nemischa tarjimasi — «sieben»."
     },
@@ -2380,6 +2478,7 @@ const nemisTili = {
           "text": "banan"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«acht» so'zi o'zbek tilida «sakkiz» deb tarjima qilinadi."
     },
@@ -2404,6 +2503,7 @@ const nemisTili = {
           "text": "Wald"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sakkiz» so'zining nemischa tarjimasi — «acht»."
     },
@@ -2428,6 +2528,7 @@ const nemisTili = {
           "text": "bilmoq"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«neun» so'zi o'zbek tilida «to'qqiz» deb tarjima qilinadi."
     },
@@ -2452,6 +2553,7 @@ const nemisTili = {
           "text": "Biene"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«to'qqiz» so'zining nemischa tarjimasi — «neun»."
     },
@@ -2476,6 +2578,7 @@ const nemisTili = {
           "text": "tez"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«zehn» so'zi o'zbek tilida «o'n» deb tarjima qilinadi."
     },
@@ -2500,6 +2603,7 @@ const nemisTili = {
           "text": "Markt"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'n» so'zining nemischa tarjimasi — «zehn»."
     },
@@ -2524,6 +2628,7 @@ const nemisTili = {
           "text": "to'qqiz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«zwanzig» so'zi o'zbek tilida «yigirma» deb tarjima qilinadi."
     },
@@ -2548,6 +2653,7 @@ const nemisTili = {
           "text": "Dorf"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yigirma» so'zining nemischa tarjimasi — «zwanzig»."
     },
@@ -2572,6 +2678,7 @@ const nemisTili = {
           "text": "oy"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dreißig» so'zi o'zbek tilida «o'ttiz» deb tarjima qilinadi."
     },
@@ -2596,6 +2703,7 @@ const nemisTili = {
           "text": "Stern"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'ttiz» so'zining nemischa tarjimasi — «dreißig»."
     },
@@ -2620,6 +2728,7 @@ const nemisTili = {
           "text": "qirq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«vierzig» so'zi o'zbek tilida «qirq» deb tarjima qilinadi."
     },
@@ -2644,6 +2753,7 @@ const nemisTili = {
           "text": "vierzig"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«qirq» so'zining nemischa tarjimasi — «vierzig»."
     },
@@ -2668,6 +2778,7 @@ const nemisTili = {
           "text": "kun"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«fünfzig» so'zi o'zbek tilida «ellik» deb tarjima qilinadi."
     },
@@ -2692,6 +2803,7 @@ const nemisTili = {
           "text": "Schlange"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ellik» so'zining nemischa tarjimasi — «fünfzig»."
     },
@@ -2716,6 +2828,7 @@ const nemisTili = {
           "text": "xunuk"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«hundert» so'zi o'zbek tilida «yuz» deb tarjima qilinadi."
     },
@@ -2740,6 +2853,7 @@ const nemisTili = {
           "text": "kalt"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yuz» so'zining nemischa tarjimasi — «hundert»."
     },
@@ -2764,6 +2878,7 @@ const nemisTili = {
           "text": "ming"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tausend» so'zi o'zbek tilida «ming» deb tarjima qilinadi."
     },
@@ -2788,6 +2903,7 @@ const nemisTili = {
           "text": "okay"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ming» so'zining nemischa tarjimasi — «tausend»."
     },
@@ -2812,6 +2928,7 @@ const nemisTili = {
           "text": "million"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Million» so'zi o'zbek tilida «million» deb tarjima qilinadi."
     },
@@ -2836,6 +2953,7 @@ const nemisTili = {
           "text": "klein"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«million» so'zining nemischa tarjimasi — «Million»."
     },
@@ -2860,6 +2978,7 @@ const nemisTili = {
           "text": "nol"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«null» so'zi o'zbek tilida «nol» deb tarjima qilinadi."
     },
@@ -2884,6 +3003,7 @@ const nemisTili = {
           "text": "gut"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«nol» so'zining nemischa tarjimasi — «null»."
     },
@@ -2908,6 +3028,7 @@ const nemisTili = {
           "text": "echki"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«halb» so'zi o'zbek tilida «yarim» deb tarjima qilinadi."
     },
@@ -2932,6 +3053,7 @@ const nemisTili = {
           "text": "Wolf"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yarim» so'zining nemischa tarjimasi — «halb»."
     },
@@ -2956,6 +3078,7 @@ const nemisTili = {
           "text": "chorak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Viertel» so'zi o'zbek tilida «chorak» deb tarjima qilinadi."
     },
@@ -2980,6 +3103,7 @@ const nemisTili = {
           "text": "Viertel"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«chorak» so'zining nemischa tarjimasi — «Viertel»."
     },
@@ -3004,6 +3128,7 @@ const nemisTili = {
           "text": "nol"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tag» so'zi o'zbek tilida «kun» deb tarjima qilinadi."
     },
@@ -3028,6 +3153,7 @@ const nemisTili = {
           "text": "Tag"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kun» so'zining nemischa tarjimasi — «Tag»."
     },
@@ -3052,6 +3178,7 @@ const nemisTili = {
           "text": "rahmat"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Woche» so'zi o'zbek tilida «hafta» deb tarjima qilinadi."
     },
@@ -3076,6 +3203,7 @@ const nemisTili = {
           "text": "Katze"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«hafta» so'zining nemischa tarjimasi — «Woche»."
     },
@@ -3100,6 +3228,7 @@ const nemisTili = {
           "text": "tuproq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Monat» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -3124,6 +3253,7 @@ const nemisTili = {
           "text": "Stift"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«oy» so'zining nemischa tarjimasi — «Monat»."
     },
@@ -3148,6 +3278,7 @@ const nemisTili = {
           "text": "telefon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Jahr» so'zi o'zbek tilida «yil» deb tarjima qilinadi."
     },
@@ -3172,6 +3303,7 @@ const nemisTili = {
           "text": "Katze"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yil» so'zining nemischa tarjimasi — «Jahr»."
     },
@@ -3196,6 +3328,7 @@ const nemisTili = {
           "text": "o'ttiz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Stunde» so'zi o'zbek tilida «soat» deb tarjima qilinadi."
     },
@@ -3220,6 +3353,7 @@ const nemisTili = {
           "text": "sechs"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«soat» so'zining nemischa tarjimasi — «Stunde»."
     },
@@ -3244,6 +3378,7 @@ const nemisTili = {
           "text": "barg"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Minute» so'zi o'zbek tilida «daqiqa» deb tarjima qilinadi."
     },
@@ -3268,6 +3403,7 @@ const nemisTili = {
           "text": "Haus"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«daqiqa» so'zining nemischa tarjimasi — «Minute»."
     },
@@ -3292,6 +3428,7 @@ const nemisTili = {
           "text": "apelsin"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Sekunde» so'zi o'zbek tilida «soniya» deb tarjima qilinadi."
     },
@@ -3316,6 +3453,7 @@ const nemisTili = {
           "text": "Obst"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«soniya» so'zining nemischa tarjimasi — «Sekunde»."
     },
@@ -3340,6 +3478,7 @@ const nemisTili = {
           "text": "ertalab"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Morgen» so'zi o'zbek tilida «ertalab» deb tarjima qilinadi."
     },
@@ -3364,6 +3503,7 @@ const nemisTili = {
           "text": "tausend"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ertalab» so'zining nemischa tarjimasi — «Morgen»."
     },
@@ -3388,6 +3528,7 @@ const nemisTili = {
           "text": "balki"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Mittag» so'zi o'zbek tilida «tushlik» deb tarjima qilinadi."
     },
@@ -3412,6 +3553,7 @@ const nemisTili = {
           "text": "willkommen"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«tushlik» so'zining nemischa tarjimasi — «Mittag»."
     },
@@ -3436,6 +3578,7 @@ const nemisTili = {
           "text": "kechqurun"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Abend» so'zi o'zbek tilida «kechqurun» deb tarjima qilinadi."
     },
@@ -3460,6 +3603,7 @@ const nemisTili = {
           "text": "Bett"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kechqurun» so'zining nemischa tarjimasi — «Abend»."
     },
@@ -3484,6 +3628,7 @@ const nemisTili = {
           "text": "krovat"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Nacht» so'zi o'zbek tilida «tun» deb tarjima qilinadi."
     },
@@ -3508,6 +3653,7 @@ const nemisTili = {
           "text": "Nacht"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tun» so'zining nemischa tarjimasi — «Nacht»."
     },
@@ -3532,6 +3678,7 @@ const nemisTili = {
           "text": "kasallikxona"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«heute» so'zi o'zbek tilida «bugun» deb tarjima qilinadi."
     },
@@ -3556,6 +3703,7 @@ const nemisTili = {
           "text": "Schüler"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bugun» so'zining nemischa tarjimasi — «heute»."
     },
@@ -3580,6 +3728,7 @@ const nemisTili = {
           "text": "xayrli kech"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«übermorgen» so'zi o'zbek tilida «indinga» deb tarjima qilinadi."
     },
@@ -3604,6 +3753,7 @@ const nemisTili = {
           "text": "Schule"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«indinga» so'zining nemischa tarjimasi — «übermorgen»."
     },
@@ -3628,6 +3778,7 @@ const nemisTili = {
           "text": "nol"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«gestern» so'zi o'zbek tilida «kecha» deb tarjima qilinadi."
     },
@@ -3652,6 +3803,7 @@ const nemisTili = {
           "text": "Computer"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kecha» so'zining nemischa tarjimasi — «gestern»."
     },
@@ -3676,6 +3828,7 @@ const nemisTili = {
           "text": "hozir"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«jetzt» so'zi o'zbek tilida «hozir» deb tarjima qilinadi."
     },
@@ -3700,6 +3853,7 @@ const nemisTili = {
           "text": "Schnee"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«hozir» so'zining nemischa tarjimasi — «jetzt»."
     },
@@ -3724,6 +3878,7 @@ const nemisTili = {
           "text": "kalit"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«später» so'zi o'zbek tilida «keyin» deb tarjima qilinadi."
     },
@@ -3748,6 +3903,7 @@ const nemisTili = {
           "text": "Wasser"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«keyin» so'zining nemischa tarjimasi — «später»."
     },
@@ -3772,6 +3928,7 @@ const nemisTili = {
           "text": "xursand"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«vorher» so'zi o'zbek tilida «oldin» deb tarjima qilinadi."
     },
@@ -3796,6 +3953,7 @@ const nemisTili = {
           "text": "Liebe"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«oldin» so'zining nemischa tarjimasi — «vorher»."
     },
@@ -3820,6 +3978,7 @@ const nemisTili = {
           "text": "erta"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«früh» so'zi o'zbek tilida «erta» deb tarjima qilinadi."
     },
@@ -3844,6 +4003,7 @@ const nemisTili = {
           "text": "einen Moment"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«erta» so'zining nemischa tarjimasi — «früh»."
     },
@@ -3868,6 +4028,7 @@ const nemisTili = {
           "text": "non"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«spät» so'zi o'zbek tilida «kech» deb tarjima qilinadi."
     },
@@ -3892,6 +4053,7 @@ const nemisTili = {
           "text": "Regen"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kech» so'zining nemischa tarjimasi — «spät»."
     },
@@ -3916,6 +4078,7 @@ const nemisTili = {
           "text": "daraxt"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«immer» so'zi o'zbek tilida «har doim» deb tarjima qilinadi."
     },
@@ -3940,6 +4103,7 @@ const nemisTili = {
           "text": "immer"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«har doim» so'zining nemischa tarjimasi — «immer»."
     },
@@ -3964,6 +4128,7 @@ const nemisTili = {
           "text": "ko'rmoq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Wasser» so'zi o'zbek tilida «suv» deb tarjima qilinadi."
     },
@@ -3988,6 +4153,7 @@ const nemisTili = {
           "text": "Wasser"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«suv» so'zining nemischa tarjimasi — «Wasser»."
     },
@@ -4012,6 +4178,7 @@ const nemisTili = {
           "text": "xayrli kun"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Feuer» so'zi o'zbek tilida «olov» deb tarjima qilinadi."
     },
@@ -4036,6 +4203,7 @@ const nemisTili = {
           "text": "Himmel"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«olov» so'zining nemischa tarjimasi — «Feuer»."
     },
@@ -4060,6 +4228,7 @@ const nemisTili = {
           "text": "tuproq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Erde» so'zi o'zbek tilida «tuproq» deb tarjima qilinadi."
     },
@@ -4084,6 +4253,7 @@ const nemisTili = {
           "text": "klein"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«tuproq» so'zining nemischa tarjimasi — «Erde»."
     },
@@ -4108,6 +4278,7 @@ const nemisTili = {
           "text": "yomon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Luft» so'zi o'zbek tilida «havo» deb tarjima qilinadi."
     },
@@ -4132,6 +4303,7 @@ const nemisTili = {
           "text": "wollen"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«havo» so'zining nemischa tarjimasi — «Luft»."
     },
@@ -4156,6 +4328,7 @@ const nemisTili = {
           "text": "quyosh"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Sonne» so'zi o'zbek tilida «quyosh» deb tarjima qilinadi."
     },
@@ -4180,6 +4353,7 @@ const nemisTili = {
           "text": "okay"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«quyosh» so'zining nemischa tarjimasi — «Sonne»."
     },
@@ -4204,6 +4378,7 @@ const nemisTili = {
           "text": "ellik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Mond» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -4228,6 +4403,7 @@ const nemisTili = {
           "text": "kichik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Stern» so'zi o'zbek tilida «yulduz» deb tarjima qilinadi."
     },
@@ -4252,6 +4428,7 @@ const nemisTili = {
           "text": "Tisch"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yulduz» so'zining nemischa tarjimasi — «Stern»."
     },
@@ -4276,6 +4453,7 @@ const nemisTili = {
           "text": "daryo"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Himmel» so'zi o'zbek tilida «osmon» deb tarjima qilinadi."
     },
@@ -4300,6 +4478,7 @@ const nemisTili = {
           "text": "Birne"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«osmon» so'zining nemischa tarjimasi — «Himmel»."
     },
@@ -4324,6 +4503,7 @@ const nemisTili = {
           "text": "uy"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Meer» so'zi o'zbek tilida «dengiz» deb tarjima qilinadi."
     },
@@ -4348,6 +4528,7 @@ const nemisTili = {
           "text": "Meer"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«dengiz» so'zining nemischa tarjimasi — «Meer»."
     },
@@ -4372,6 +4553,7 @@ const nemisTili = {
           "text": "indinga"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«See» so'zi o'zbek tilida «ko'l» deb tarjima qilinadi."
     },
@@ -4396,6 +4578,7 @@ const nemisTili = {
           "text": "See"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ko'l» so'zining nemischa tarjimasi — «See»."
     },
@@ -4420,6 +4603,7 @@ const nemisTili = {
           "text": "qalaysan"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fluss» so'zi o'zbek tilida «daryo» deb tarjima qilinadi."
     },
@@ -4444,6 +4628,7 @@ const nemisTili = {
           "text": "Arbeiter"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«daryo» so'zining nemischa tarjimasi — «Fluss»."
     },
@@ -4468,6 +4653,7 @@ const nemisTili = {
           "text": "tog'"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Berg» so'zi o'zbek tilida «tog'» deb tarjima qilinadi."
     },
@@ -4492,6 +4678,7 @@ const nemisTili = {
           "text": "halb"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tog'» so'zining nemischa tarjimasi — «Berg»."
     },
@@ -4516,6 +4703,7 @@ const nemisTili = {
           "text": "o'rmon"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Wald» so'zi o'zbek tilida «o'rmon» deb tarjima qilinadi."
     },
@@ -4540,6 +4728,7 @@ const nemisTili = {
           "text": "Wald"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«o'rmon» so'zining nemischa tarjimasi — «Wald»."
     },
@@ -4564,6 +4753,7 @@ const nemisTili = {
           "text": "o'qituvchi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Baum» so'zi o'zbek tilida «daraxt» deb tarjima qilinadi."
     },
@@ -4588,6 +4778,7 @@ const nemisTili = {
           "text": "offen"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«daraxt» so'zining nemischa tarjimasi — «Baum»."
     },
@@ -4612,6 +4803,7 @@ const nemisTili = {
           "text": "sog'lom"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Blume» so'zi o'zbek tilida «gul» deb tarjima qilinadi."
     },
@@ -4636,6 +4828,7 @@ const nemisTili = {
           "text": "Blume"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«gul» so'zining nemischa tarjimasi — «Blume»."
     },
@@ -4660,6 +4853,7 @@ const nemisTili = {
           "text": "barg"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Blatt» so'zi o'zbek tilida «barg» deb tarjima qilinadi."
     },
@@ -4684,6 +4878,7 @@ const nemisTili = {
           "text": "Blatt"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«barg» so'zining nemischa tarjimasi — «Blatt»."
     },
@@ -4708,6 +4903,7 @@ const nemisTili = {
           "text": "har doim"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Stein» so'zi o'zbek tilida «tosh» deb tarjima qilinadi."
     },
@@ -4732,6 +4928,7 @@ const nemisTili = {
           "text": "Stein"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tosh» so'zining nemischa tarjimasi — «Stein»."
     },
@@ -4756,6 +4953,7 @@ const nemisTili = {
           "text": "qum"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Sand» so'zi o'zbek tilida «qum» deb tarjima qilinadi."
     },
@@ -4780,6 +4978,7 @@ const nemisTili = {
           "text": "Schnee"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qum» so'zining nemischa tarjimasi — «Sand»."
     },
@@ -4804,6 +5003,7 @@ const nemisTili = {
           "text": "yomg'ir"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Regen» so'zi o'zbek tilida «yomg'ir» deb tarjima qilinadi."
     },
@@ -4828,6 +5028,7 @@ const nemisTili = {
           "text": "guten Morgen"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yomg'ir» so'zining nemischa tarjimasi — «Regen»."
     },
@@ -4852,6 +5053,7 @@ const nemisTili = {
           "text": "daryo"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Schnee» so'zi o'zbek tilida «qor» deb tarjima qilinadi."
     },
@@ -4876,6 +5078,7 @@ const nemisTili = {
           "text": "Vater"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qor» so'zining nemischa tarjimasi — «Schnee»."
     },
@@ -4900,6 +5103,7 @@ const nemisTili = {
           "text": "it"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Hund» so'zi o'zbek tilida «it» deb tarjima qilinadi."
     },
@@ -4924,6 +5128,7 @@ const nemisTili = {
           "text": "Tasche"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«it» so'zining nemischa tarjimasi — «Hund»."
     },
@@ -4948,6 +5153,7 @@ const nemisTili = {
           "text": "xayrli tong"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Katze» so'zi o'zbek tilida «mushuk» deb tarjima qilinadi."
     },
@@ -4972,6 +5178,7 @@ const nemisTili = {
           "text": "Katze"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«mushuk» so'zining nemischa tarjimasi — «Katze»."
     },
@@ -4996,6 +5203,7 @@ const nemisTili = {
           "text": "ot"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Pferd» so'zi o'zbek tilida «ot» deb tarjima qilinadi."
     },
@@ -5020,6 +5228,7 @@ const nemisTili = {
           "text": "langsam"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ot» so'zining nemischa tarjimasi — «Pferd»."
     },
@@ -5044,6 +5253,7 @@ const nemisTili = {
           "text": "xafa"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kuh» so'zi o'zbek tilida «sigir» deb tarjima qilinadi."
     },
@@ -5068,6 +5278,7 @@ const nemisTili = {
           "text": "Salat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sigir» so'zining nemischa tarjimasi — «Kuh»."
     },
@@ -5092,6 +5303,7 @@ const nemisTili = {
           "text": "inson"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Schaf» so'zi o'zbek tilida «qo'y» deb tarjima qilinadi."
     },
@@ -5116,6 +5328,7 @@ const nemisTili = {
           "text": "jung"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qo'y» so'zining nemischa tarjimasi — «Schaf»."
     },
@@ -5140,6 +5353,7 @@ const nemisTili = {
           "text": "tuproq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ziege» so'zi o'zbek tilida «echki» deb tarjima qilinadi."
     },
@@ -5164,6 +5378,7 @@ const nemisTili = {
           "text": "danke"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«echki» so'zining nemischa tarjimasi — «Ziege»."
     },
@@ -5188,6 +5403,7 @@ const nemisTili = {
           "text": "tovuq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Huhn» so'zi o'zbek tilida «tovuq» deb tarjima qilinadi."
     },
@@ -5212,6 +5428,7 @@ const nemisTili = {
           "text": "wie geht's"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«tovuq» so'zining nemischa tarjimasi — «Huhn»."
     },
@@ -5236,6 +5453,7 @@ const nemisTili = {
           "text": "nok"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Hahn» so'zi o'zbek tilida «xo'roz» deb tarjima qilinadi."
     },
@@ -5260,6 +5478,7 @@ const nemisTili = {
           "text": "Zucker"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xo'roz» so'zining nemischa tarjimasi — «Hahn»."
     },
@@ -5284,6 +5503,7 @@ const nemisTili = {
           "text": "kartoshka"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Vogel» so'zi o'zbek tilida «qush» deb tarjima qilinadi."
     },
@@ -5308,6 +5528,7 @@ const nemisTili = {
           "text": "Vogel"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«qush» so'zining nemischa tarjimasi — «Vogel»."
     },
@@ -5332,6 +5553,7 @@ const nemisTili = {
           "text": "baliq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fisch» so'zi o'zbek tilida «baliq» deb tarjima qilinadi."
     },
@@ -5356,6 +5578,7 @@ const nemisTili = {
           "text": "trinken"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«baliq» so'zining nemischa tarjimasi — «Fisch»."
     },
@@ -5380,6 +5603,7 @@ const nemisTili = {
           "text": "ko'rmoq"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Löwe» so'zi o'zbek tilida «sher» deb tarjima qilinadi."
     },
@@ -5404,6 +5628,7 @@ const nemisTili = {
           "text": "Sonne"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sher» so'zining nemischa tarjimasi — «Löwe»."
     },
@@ -5428,6 +5653,7 @@ const nemisTili = {
           "text": "kompyuter"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tiger» so'zi o'zbek tilida «yo'lbars» deb tarjima qilinadi."
     },
@@ -5452,6 +5678,7 @@ const nemisTili = {
           "text": "Schnee"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yo'lbars» so'zining nemischa tarjimasi — «Tiger»."
     },
@@ -5476,6 +5703,7 @@ const nemisTili = {
           "text": "fil"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Elefant» so'zi o'zbek tilida «fil» deb tarjima qilinadi."
     },
@@ -5500,6 +5728,7 @@ const nemisTili = {
           "text": "dreißig"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«fil» so'zining nemischa tarjimasi — «Elefant»."
     },
@@ -5524,6 +5753,7 @@ const nemisTili = {
           "text": "kuchli"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bär» so'zi o'zbek tilida «ayiq» deb tarjima qilinadi."
     },
@@ -5548,6 +5778,7 @@ const nemisTili = {
           "text": "Bär"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ayiq» so'zining nemischa tarjimasi — «Bär»."
     },
@@ -5572,6 +5803,7 @@ const nemisTili = {
           "text": "bo'ri"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Wolf» so'zi o'zbek tilida «bo'ri» deb tarjima qilinadi."
     },
@@ -5596,6 +5828,7 @@ const nemisTili = {
           "text": "Wolf"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bo'ri» so'zining nemischa tarjimasi — «Wolf»."
     },
@@ -5620,6 +5853,7 @@ const nemisTili = {
           "text": "meva"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Fuchs» so'zi o'zbek tilida «tulki» deb tarjima qilinadi."
     },
@@ -5644,6 +5878,7 @@ const nemisTili = {
           "text": "Fuchs"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tulki» so'zining nemischa tarjimasi — «Fuchs»."
     },
@@ -5668,6 +5903,7 @@ const nemisTili = {
           "text": "yangi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Hase» so'zi o'zbek tilida «quyon» deb tarjima qilinadi."
     },
@@ -5692,6 +5928,7 @@ const nemisTili = {
           "text": "sechs"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«quyon» so'zining nemischa tarjimasi — «Hase»."
     },
@@ -5716,6 +5953,7 @@ const nemisTili = {
           "text": "besh"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Schlange» so'zi o'zbek tilida «ilon» deb tarjima qilinadi."
     },
@@ -5740,6 +5978,7 @@ const nemisTili = {
           "text": "Fleisch"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ilon» so'zining nemischa tarjimasi — «Schlange»."
     },
@@ -5764,6 +6003,7 @@ const nemisTili = {
           "text": "qalaysan"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Biene» so'zi o'zbek tilida «ari» deb tarjima qilinadi."
     },
@@ -5788,6 +6028,7 @@ const nemisTili = {
           "text": "Biene"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ari» so'zining nemischa tarjimasi — «Biene»."
     },
@@ -5812,6 +6053,7 @@ const nemisTili = {
           "text": "kapalak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Schmetterling» so'zi o'zbek tilida «kapalak» deb tarjima qilinadi."
     },
@@ -5836,6 +6078,7 @@ const nemisTili = {
           "text": "gut"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kapalak» so'zining nemischa tarjimasi — «Schmetterling»."
     },
@@ -5860,6 +6103,7 @@ const nemisTili = {
           "text": "yaxshi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Brot» so'zi o'zbek tilida «non» deb tarjima qilinadi."
     },
@@ -5884,6 +6128,7 @@ const nemisTili = {
           "text": "fünf"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«non» so'zining nemischa tarjimasi — «Brot»."
     },
@@ -5908,6 +6153,7 @@ const nemisTili = {
           "text": "fil"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Milch» so'zi o'zbek tilida «sut» deb tarjima qilinadi."
     },
@@ -5932,6 +6178,7 @@ const nemisTili = {
           "text": "nein"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sut» so'zining nemischa tarjimasi — «Milch»."
     },
@@ -5956,6 +6203,7 @@ const nemisTili = {
           "text": "yaxshi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tee» so'zi o'zbek tilida «choy» deb tarjima qilinadi."
     },
@@ -5980,6 +6228,7 @@ const nemisTili = {
           "text": "Ingenieur"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«choy» so'zining nemischa tarjimasi — «Tee»."
     },
@@ -6004,6 +6253,7 @@ const nemisTili = {
           "text": "qahva"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kaffee» so'zi o'zbek tilida «qahva» deb tarjima qilinadi."
     },
@@ -6028,6 +6278,7 @@ const nemisTili = {
           "text": "richtig"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«qahva» so'zining nemischa tarjimasi — «Kaffee»."
     },
@@ -6052,6 +6303,7 @@ const nemisTili = {
           "text": "kecha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Fleisch» so'zi o'zbek tilida «go'sht» deb tarjima qilinadi."
     },
@@ -6076,6 +6328,7 @@ const nemisTili = {
           "text": "zwei"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«go'sht» so'zining nemischa tarjimasi — «Fleisch»."
     },
@@ -6100,6 +6353,7 @@ const nemisTili = {
           "text": "sher"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Reis» so'zi o'zbek tilida «guruch» deb tarjima qilinadi."
     },
@@ -6124,6 +6378,7 @@ const nemisTili = {
           "text": "Schwester"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«guruch» so'zining nemischa tarjimasi — «Reis»."
     },
@@ -6148,6 +6403,7 @@ const nemisTili = {
           "text": "sho'rva"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Suppe» so'zi o'zbek tilida «sho'rva» deb tarjima qilinadi."
     },
@@ -6172,6 +6428,7 @@ const nemisTili = {
           "text": "Morgen"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sho'rva» so'zining nemischa tarjimasi — «Suppe»."
     },
@@ -6196,6 +6453,7 @@ const nemisTili = {
           "text": "erta"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Salat» so'zi o'zbek tilida «salad» deb tarjima qilinadi."
     },
@@ -6220,6 +6478,7 @@ const nemisTili = {
           "text": "Salat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«salad» so'zining nemischa tarjimasi — «Salat»."
     },
@@ -6244,6 +6503,7 @@ const nemisTili = {
           "text": "salad"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Obst» so'zi o'zbek tilida «meva» deb tarjima qilinadi."
     },
@@ -6268,6 +6528,7 @@ const nemisTili = {
           "text": "Obst"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«meva» so'zining nemischa tarjimasi — «Obst»."
     },
@@ -6292,6 +6553,7 @@ const nemisTili = {
           "text": "olma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Apfel» so'zi o'zbek tilida «olma» deb tarjima qilinadi."
     },
@@ -6316,6 +6578,7 @@ const nemisTili = {
           "text": "falsch"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«olma» so'zining nemischa tarjimasi — «Apfel»."
     },
@@ -6340,6 +6603,7 @@ const nemisTili = {
           "text": "qirq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Birne» so'zi o'zbek tilida «nok» deb tarjima qilinadi."
     },
@@ -6364,6 +6628,7 @@ const nemisTili = {
           "text": "Telefon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«nok» so'zining nemischa tarjimasi — «Birne»."
     },
@@ -6388,6 +6653,7 @@ const nemisTili = {
           "text": "ertalab"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Traube» so'zi o'zbek tilida «uzum» deb tarjima qilinadi."
     },
@@ -6412,6 +6678,7 @@ const nemisTili = {
           "text": "Stadt"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«uzum» so'zining nemischa tarjimasi — «Traube»."
     },
@@ -6436,6 +6703,7 @@ const nemisTili = {
           "text": "o'qimoq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Orange» so'zi o'zbek tilida «apelsin» deb tarjima qilinadi."
     },
@@ -6460,6 +6728,7 @@ const nemisTili = {
           "text": "Nacht"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«apelsin» so'zining nemischa tarjimasi — «Orange»."
     },
@@ -6484,6 +6753,7 @@ const nemisTili = {
           "text": "qiyin"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Banane» so'zi o'zbek tilida «banan» deb tarjima qilinadi."
     },
@@ -6508,6 +6778,7 @@ const nemisTili = {
           "text": "okay"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«banan» so'zining nemischa tarjimasi — «Banane»."
     },
@@ -6532,6 +6803,7 @@ const nemisTili = {
           "text": "indinga"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tomate» so'zi o'zbek tilida «pomidor» deb tarjima qilinadi."
     },
@@ -6556,6 +6828,7 @@ const nemisTili = {
           "text": "mir geht es gut"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«pomidor» so'zining nemischa tarjimasi — «Tomate»."
     },
@@ -6580,6 +6853,7 @@ const nemisTili = {
           "text": "quyon"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kartoffel» so'zi o'zbek tilida «kartoshka» deb tarjima qilinadi."
     },
@@ -6604,6 +6878,7 @@ const nemisTili = {
           "text": "Stadt"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kartoshka» so'zining nemischa tarjimasi — «Kartoffel»."
     },
@@ -6628,6 +6903,7 @@ const nemisTili = {
           "text": "piyoz"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Zwiebel» so'zi o'zbek tilida «piyoz» deb tarjima qilinadi."
     },
@@ -6652,6 +6928,7 @@ const nemisTili = {
           "text": "offen"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«piyoz» so'zining nemischa tarjimasi — «Zwiebel»."
     },
@@ -6676,6 +6953,7 @@ const nemisTili = {
           "text": "quyon"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Zucker» so'zi o'zbek tilida «shakar» deb tarjima qilinadi."
     },
@@ -6700,6 +6978,7 @@ const nemisTili = {
           "text": "sehen"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«shakar» so'zining nemischa tarjimasi — «Zucker»."
     },
@@ -6724,6 +7003,7 @@ const nemisTili = {
           "text": "xafa"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Haus» so'zi o'zbek tilida «uy» deb tarjima qilinadi."
     },
@@ -6748,6 +7028,7 @@ const nemisTili = {
           "text": "Haus"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«uy» so'zining nemischa tarjimasi — «Haus»."
     },
@@ -6772,6 +7053,7 @@ const nemisTili = {
           "text": "besh"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tür» so'zi o'zbek tilida «eshik» deb tarjima qilinadi."
     },
@@ -6796,6 +7078,7 @@ const nemisTili = {
           "text": "kurz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«eshik» so'zining nemischa tarjimasi — «Tür»."
     },
@@ -6820,6 +7103,7 @@ const nemisTili = {
           "text": "deraza"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Fenster» so'zi o'zbek tilida «deraza» deb tarjima qilinadi."
     },
@@ -6844,6 +7128,7 @@ const nemisTili = {
           "text": "heute"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«deraza» so'zining nemischa tarjimasi — «Fenster»."
     },
@@ -6868,6 +7153,7 @@ const nemisTili = {
           "text": "xafa"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tisch» so'zi o'zbek tilida «stol» deb tarjima qilinadi."
     },
@@ -6892,6 +7178,7 @@ const nemisTili = {
           "text": "gut"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«stol» so'zining nemischa tarjimasi — «Tisch»."
     },
@@ -6916,6 +7203,7 @@ const nemisTili = {
           "text": "sho'rva"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Stuhl» so'zi o'zbek tilida «stul» deb tarjima qilinadi."
     },
@@ -6940,6 +7228,7 @@ const nemisTili = {
           "text": "Stuhl"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«stul» so'zining nemischa tarjimasi — «Stuhl»."
     },
@@ -6964,6 +7253,7 @@ const nemisTili = {
           "text": "bo'ri"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bett» so'zi o'zbek tilida «krovat» deb tarjima qilinadi."
     },
@@ -6988,6 +7278,7 @@ const nemisTili = {
           "text": "Banane"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«krovat» so'zining nemischa tarjimasi — «Bett»."
     },
@@ -7012,6 +7303,7 @@ const nemisTili = {
           "text": "kitob"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Buch» so'zi o'zbek tilida «kitob» deb tarjima qilinadi."
     },
@@ -7036,6 +7328,7 @@ const nemisTili = {
           "text": "Mensch"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kitob» so'zining nemischa tarjimasi — «Buch»."
     },
@@ -7060,6 +7353,7 @@ const nemisTili = {
           "text": "qalam"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Stift» so'zi o'zbek tilida «qalam» deb tarjima qilinadi."
     },
@@ -7084,6 +7378,7 @@ const nemisTili = {
           "text": "gehen"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qalam» so'zining nemischa tarjimasi — «Stift»."
     },
@@ -7108,6 +7403,7 @@ const nemisTili = {
           "text": "daftar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Heft» so'zi o'zbek tilida «daftar» deb tarjima qilinadi."
     },
@@ -7132,6 +7428,7 @@ const nemisTili = {
           "text": "Heft"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«daftar» so'zining nemischa tarjimasi — «Heft»."
     },
@@ -7156,6 +7453,7 @@ const nemisTili = {
           "text": "bilmoq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tasche» so'zi o'zbek tilida «sumka» deb tarjima qilinadi."
     },
@@ -7180,6 +7478,7 @@ const nemisTili = {
           "text": "einfach"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sumka» so'zining nemischa tarjimasi — «Tasche»."
     },
@@ -7204,6 +7503,7 @@ const nemisTili = {
           "text": "kalit"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Schlüssel» so'zi o'zbek tilida «kalit» deb tarjima qilinadi."
     },
@@ -7228,6 +7528,7 @@ const nemisTili = {
           "text": "groß"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kalit» so'zining nemischa tarjimasi — «Schlüssel»."
     },
@@ -7252,6 +7553,7 @@ const nemisTili = {
           "text": "kompyuter"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Telefon» so'zi o'zbek tilida «telefon» deb tarjima qilinadi."
     },
@@ -7276,6 +7578,7 @@ const nemisTili = {
           "text": "freut mich"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«telefon» so'zining nemischa tarjimasi — «Telefon»."
     },
@@ -7300,6 +7603,7 @@ const nemisTili = {
           "text": "inson"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Computer» so'zi o'zbek tilida «kompyuter» deb tarjima qilinadi."
     },
@@ -7324,6 +7628,7 @@ const nemisTili = {
           "text": "bis später"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kompyuter» so'zining nemischa tarjimasi — «Computer»."
     },
@@ -7348,6 +7653,7 @@ const nemisTili = {
           "text": "mashina"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Auto» so'zi o'zbek tilida «mashina» deb tarjima qilinadi."
     },
@@ -7372,6 +7678,7 @@ const nemisTili = {
           "text": "Auto"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«mashina» so'zining nemischa tarjimasi — «Auto»."
     },
@@ -7396,6 +7703,7 @@ const nemisTili = {
           "text": "yo'l"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Straße» so'zi o'zbek tilida «yo'l» deb tarjima qilinadi."
     },
@@ -7420,6 +7728,7 @@ const nemisTili = {
           "text": "neu"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yo'l» so'zining nemischa tarjimasi — «Straße»."
     },
@@ -7444,6 +7753,7 @@ const nemisTili = {
           "text": "tinchlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Stadt» so'zi o'zbek tilida «shahar» deb tarjima qilinadi."
     },
@@ -7468,6 +7778,7 @@ const nemisTili = {
           "text": "Meer"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«shahar» so'zining nemischa tarjimasi — «Stadt»."
     },
@@ -7492,6 +7803,7 @@ const nemisTili = {
           "text": "indinga"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Dorf» so'zi o'zbek tilida «qishloq» deb tarjima qilinadi."
     },
@@ -7516,6 +7828,7 @@ const nemisTili = {
           "text": "Dorf"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«qishloq» so'zining nemischa tarjimasi — «Dorf»."
     },
@@ -7540,6 +7853,7 @@ const nemisTili = {
           "text": "boy"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Schule» so'zi o'zbek tilida «maktab» deb tarjima qilinadi."
     },
@@ -7564,6 +7878,7 @@ const nemisTili = {
           "text": "Schule"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«maktab» so'zining nemischa tarjimasi — «Schule»."
     },
@@ -7588,6 +7903,7 @@ const nemisTili = {
           "text": "kun"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Krankenhaus» so'zi o'zbek tilida «kasallikxona» deb tarjima qilinadi."
     },
@@ -7612,6 +7928,7 @@ const nemisTili = {
           "text": "Krankenhaus"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kasallikxona» so'zining nemischa tarjimasi — «Krankenhaus»."
     },
@@ -7636,6 +7953,7 @@ const nemisTili = {
           "text": "ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Markt» so'zi o'zbek tilida «do'kon» deb tarjima qilinadi."
     },
@@ -7660,6 +7978,7 @@ const nemisTili = {
           "text": "Schule"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«do'kon» so'zining nemischa tarjimasi — «Markt»."
     },
@@ -7684,6 +8003,7 @@ const nemisTili = {
           "text": "mashina"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«gehen» so'zi o'zbek tilida «bormoq» deb tarjima qilinadi."
     },
@@ -7708,6 +8028,7 @@ const nemisTili = {
           "text": "gehen"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bormoq» so'zining nemischa tarjimasi — «gehen»."
     },
@@ -7732,6 +8053,7 @@ const nemisTili = {
           "text": "xursand"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kommen» so'zi o'zbek tilida «kelmoq» deb tarjima qilinadi."
     },
@@ -7756,6 +8078,7 @@ const nemisTili = {
           "text": "Obst"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kelmoq» so'zining nemischa tarjimasi — «kommen»."
     },
@@ -7780,6 +8103,7 @@ const nemisTili = {
           "text": "bugun"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«essen» so'zi o'zbek tilida «yemoq» deb tarjima qilinadi."
     },
@@ -7804,6 +8128,7 @@ const nemisTili = {
           "text": "Vater"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yemoq» so'zining nemischa tarjimasi — «essen»."
     },
@@ -7828,6 +8153,7 @@ const nemisTili = {
           "text": "ichmoq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«trinken» so'zi o'zbek tilida «ichmoq» deb tarjima qilinadi."
     },
@@ -7852,6 +8178,7 @@ const nemisTili = {
           "text": "alt"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ichmoq» so'zining nemischa tarjimasi — «trinken»."
     },
@@ -7876,6 +8203,7 @@ const nemisTili = {
           "text": "o'qimoq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«lesen» so'zi o'zbek tilida «o'qimoq» deb tarjima qilinadi."
     },
@@ -7900,6 +8228,7 @@ const nemisTili = {
           "text": "Computer"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«o'qimoq» so'zining nemischa tarjimasi — «lesen»."
     },
@@ -7924,6 +8253,7 @@ const nemisTili = {
           "text": "qirq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«schreiben» so'zi o'zbek tilida «yozmoq» deb tarjima qilinadi."
     },
@@ -7948,6 +8278,7 @@ const nemisTili = {
           "text": "schreiben"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yozmoq» so'zining nemischa tarjimasi — «schreiben»."
     },
@@ -7972,6 +8303,7 @@ const nemisTili = {
           "text": "ko'rmoq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sehen» so'zi o'zbek tilida «ko'rmoq» deb tarjima qilinadi."
     },
@@ -7996,6 +8328,7 @@ const nemisTili = {
           "text": "sehen"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ko'rmoq» so'zining nemischa tarjimasi — «sehen»."
     },
@@ -8020,6 +8353,7 @@ const nemisTili = {
           "text": "rahmat"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«wissen» so'zi o'zbek tilida «bilmoq» deb tarjima qilinadi."
     },
@@ -8044,6 +8378,7 @@ const nemisTili = {
           "text": "wissen"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bilmoq» so'zining nemischa tarjimasi — «wissen»."
     },
@@ -8068,6 +8403,7 @@ const nemisTili = {
           "text": "xohlamoq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«wollen» so'zi o'zbek tilida «xohlamoq» deb tarjima qilinadi."
     },
@@ -8092,6 +8428,7 @@ const nemisTili = {
           "text": "Stift"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«xohlamoq» so'zining nemischa tarjimasi — «wollen»."
     },
@@ -8116,6 +8453,7 @@ const nemisTili = {
           "text": "sevmoq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«lieben» so'zi o'zbek tilida «sevmoq» deb tarjima qilinadi."
     },
@@ -8140,6 +8478,7 @@ const nemisTili = {
           "text": "Freund"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sevmoq» so'zining nemischa tarjimasi — «lieben»."
     },
@@ -8164,6 +8503,7 @@ const nemisTili = {
           "text": "keyin"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«groß» so'zi o'zbek tilida «katta» deb tarjima qilinadi."
     },
@@ -8188,6 +8528,7 @@ const nemisTili = {
           "text": "groß"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«katta» so'zining nemischa tarjimasi — «groß»."
     },
@@ -8212,6 +8553,7 @@ const nemisTili = {
           "text": "daryo"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«klein» so'zi o'zbek tilida «kichik» deb tarjima qilinadi."
     },
@@ -8236,6 +8578,7 @@ const nemisTili = {
           "text": "lieben"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kichik» so'zining nemischa tarjimasi — «klein»."
     },
@@ -8260,6 +8603,7 @@ const nemisTili = {
           "text": "do'stlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«gut» so'zi o'zbek tilida «yaxshi» deb tarjima qilinadi."
     },
@@ -8284,6 +8628,7 @@ const nemisTili = {
           "text": "yangi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«schlecht» so'zi o'zbek tilida «yomon» deb tarjima qilinadi."
     },
@@ -8308,6 +8653,7 @@ const nemisTili = {
           "text": "Pferd"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yomon» so'zining nemischa tarjimasi — «schlecht»."
     },
@@ -8332,6 +8678,7 @@ const nemisTili = {
           "text": "yaxshiman"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«neu» so'zi o'zbek tilida «yangi» deb tarjima qilinadi."
     },
@@ -8356,6 +8703,7 @@ const nemisTili = {
           "text": "neu"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yangi» so'zining nemischa tarjimasi — «neu»."
     },
@@ -8380,6 +8728,7 @@ const nemisTili = {
           "text": "eski"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«alt» so'zi o'zbek tilida «eski» deb tarjima qilinadi."
     },
@@ -8404,6 +8753,7 @@ const nemisTili = {
           "text": "drei"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«eski» so'zining nemischa tarjimasi — «alt»."
     },
@@ -8428,6 +8778,7 @@ const nemisTili = {
           "text": "havo"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«schön» so'zi o'zbek tilida «chiroyli» deb tarjima qilinadi."
     },
@@ -8452,6 +8803,7 @@ const nemisTili = {
           "text": "richtig"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«chiroyli» so'zining nemischa tarjimasi — «schön»."
     },
@@ -8476,6 +8828,7 @@ const nemisTili = {
           "text": "xayr"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«hässlich» so'zi o'zbek tilida «xunuk» deb tarjima qilinadi."
     },
@@ -8500,6 +8853,7 @@ const nemisTili = {
           "text": "sehen"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xunuk» so'zining nemischa tarjimasi — «hässlich»."
     },
@@ -8524,6 +8878,7 @@ const nemisTili = {
           "text": "o'quvchi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«heiß» so'zi o'zbek tilida «issiq» deb tarjima qilinadi."
     },
@@ -8548,6 +8903,7 @@ const nemisTili = {
           "text": "tschüss"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«issiq» so'zining nemischa tarjimasi — «heiß»."
     },
@@ -8572,6 +8928,7 @@ const nemisTili = {
           "text": "oy"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kalt» so'zi o'zbek tilida «sovuq» deb tarjima qilinadi."
     },
@@ -8596,6 +8953,7 @@ const nemisTili = {
           "text": "alt"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sovuq» so'zining nemischa tarjimasi — «kalt»."
     },
@@ -8620,6 +8978,7 @@ const nemisTili = {
           "text": "tulki"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«offen» so'zi o'zbek tilida «ochiq» deb tarjima qilinadi."
     },
@@ -8644,6 +9003,7 @@ const nemisTili = {
           "text": "wollen"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ochiq» so'zining nemischa tarjimasi — «offen»."
     },
@@ -8668,6 +9028,7 @@ const nemisTili = {
           "text": "chorak"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«geschlossen» so'zi o'zbek tilida «yopiq» deb tarjima qilinadi."
     },
@@ -8692,6 +9053,7 @@ const nemisTili = {
           "text": "Fluss"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yopiq» so'zining nemischa tarjimasi — «geschlossen»."
     },
@@ -8716,6 +9078,7 @@ const nemisTili = {
           "text": "erta"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«lang» so'zi o'zbek tilida «uzun» deb tarjima qilinadi."
     },
@@ -8740,6 +9103,7 @@ const nemisTili = {
           "text": "Traube"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«uzun» so'zining nemischa tarjimasi — «lang»."
     },
@@ -8764,6 +9128,7 @@ const nemisTili = {
           "text": "mashina"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kurz» so'zi o'zbek tilida «qisqa» deb tarjima qilinadi."
     },
@@ -8788,6 +9153,7 @@ const nemisTili = {
           "text": "kurz"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«qisqa» so'zining nemischa tarjimasi — «kurz»."
     },
@@ -8812,6 +9178,7 @@ const nemisTili = {
           "text": "iltimos"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«schnell» so'zi o'zbek tilida «tez» deb tarjima qilinadi."
     },
@@ -8836,6 +9203,7 @@ const nemisTili = {
           "text": "Wolf"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tez» so'zining nemischa tarjimasi — «schnell»."
     },
@@ -8860,6 +9228,7 @@ const nemisTili = {
           "text": "yopiq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«langsam» so'zi o'zbek tilida «sekin» deb tarjima qilinadi."
     },
@@ -8884,6 +9253,7 @@ const nemisTili = {
           "text": "Biene"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sekin» so'zining nemischa tarjimasi — «langsam»."
     },
@@ -8908,6 +9278,7 @@ const nemisTili = {
           "text": "oson"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«einfach» so'zi o'zbek tilida «oson» deb tarjima qilinadi."
     },
@@ -8932,6 +9303,7 @@ const nemisTili = {
           "text": "Telefon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«oson» so'zining nemischa tarjimasi — «einfach»."
     },
@@ -8956,6 +9328,7 @@ const nemisTili = {
           "text": "katta"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«schwierig» so'zi o'zbek tilida «qiyin» deb tarjima qilinadi."
     },
@@ -8980,6 +9353,7 @@ const nemisTili = {
           "text": "Schmetterling"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qiyin» so'zining nemischa tarjimasi — «schwierig»."
     },
@@ -9004,6 +9378,7 @@ const nemisTili = {
           "text": "to'g'ri"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«richtig» so'zi o'zbek tilida «to'g'ri» deb tarjima qilinadi."
     },
@@ -9028,6 +9403,7 @@ const nemisTili = {
           "text": "richtig"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«to'g'ri» so'zining nemischa tarjimasi — «richtig»."
     },
@@ -9052,6 +9428,7 @@ const nemisTili = {
           "text": "quyon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«falsch» so'zi o'zbek tilida «noto'g'ri» deb tarjima qilinadi."
     },
@@ -9076,6 +9453,7 @@ const nemisTili = {
           "text": "arm"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«noto'g'ri» so'zining nemischa tarjimasi — «falsch»."
     },
@@ -9100,6 +9478,7 @@ const nemisTili = {
           "text": "kartoshka"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«glücklich» so'zi o'zbek tilida «xursand» deb tarjima qilinadi."
     },
@@ -9124,6 +9503,7 @@ const nemisTili = {
           "text": "richtig"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«xursand» so'zining nemischa tarjimasi — «glücklich»."
     },
@@ -9148,6 +9528,7 @@ const nemisTili = {
           "text": "sigir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«traurig» so'zi o'zbek tilida «xafa» deb tarjima qilinadi."
     },
@@ -9172,6 +9553,7 @@ const nemisTili = {
           "text": "Bruder"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«xafa» so'zining nemischa tarjimasi — «traurig»."
     },
@@ -9196,6 +9578,7 @@ const nemisTili = {
           "text": "shahar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«reich» so'zi o'zbek tilida «boy» deb tarjima qilinadi."
     },
@@ -9220,6 +9603,7 @@ const nemisTili = {
           "text": "Kartoffel"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«boy» so'zining nemischa tarjimasi — «reich»."
     },
@@ -9244,6 +9628,7 @@ const nemisTili = {
           "text": "nok"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«arm» so'zi o'zbek tilida «kambag'al» deb tarjima qilinadi."
     },
@@ -9268,6 +9653,7 @@ const nemisTili = {
           "text": "Salat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kambag'al» so'zining nemischa tarjimasi — «arm»."
     },
@@ -9292,6 +9678,7 @@ const nemisTili = {
           "text": "yosh"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«jung» so'zi o'zbek tilida «yosh» deb tarjima qilinadi."
     },
@@ -9316,6 +9703,7 @@ const nemisTili = {
           "text": "jung"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yosh» so'zining nemischa tarjimasi — «jung»."
     },
@@ -9340,6 +9728,7 @@ const nemisTili = {
           "text": "besh"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Mensch» so'zi o'zbek tilida «inson» deb tarjima qilinadi."
     },
@@ -9364,6 +9753,7 @@ const nemisTili = {
           "text": "Liebe"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«inson» so'zining nemischa tarjimasi — «Mensch»."
     },
@@ -9388,6 +9778,7 @@ const nemisTili = {
           "text": "o'g'il"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Freundschaft» so'zi o'zbek tilida «do'stlik» deb tarjima qilinadi."
     },
@@ -9412,6 +9803,7 @@ const nemisTili = {
           "text": "langsam"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«do'stlik» so'zining nemischa tarjimasi — «Freundschaft»."
     },
@@ -9436,6 +9828,7 @@ const nemisTili = {
           "text": "o'g'il"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Liebe» so'zi o'zbek tilida «sevgi» deb tarjima qilinadi."
     },
@@ -9460,6 +9853,7 @@ const nemisTili = {
           "text": "Banane"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sevgi» so'zining nemischa tarjimasi — «Liebe»."
     },
@@ -9484,6 +9878,7 @@ const nemisTili = {
           "text": "tinchlik"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Frieden» so'zi o'zbek tilida «tinchlik» deb tarjima qilinadi."
     },
@@ -9508,6 +9903,7 @@ const nemisTili = {
           "text": "gehen"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tinchlik» so'zining nemischa tarjimasi — «Frieden»."
     },
@@ -9532,6 +9928,7 @@ const nemisTili = {
           "text": "kichik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«gesund» so'zi o'zbek tilida «sog'lom» deb tarjima qilinadi."
     },
@@ -9556,6 +9953,7 @@ const nemisTili = {
           "text": "hässlich"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sog'lom» so'zining nemischa tarjimasi — «gesund»."
     },
@@ -9580,6 +9978,7 @@ const nemisTili = {
           "text": "kasal"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«krank» so'zi o'zbek tilida «kasal» deb tarjima qilinadi."
     },
@@ -9604,6 +10003,7 @@ const nemisTili = {
           "text": "Dorf"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kasal» so'zining nemischa tarjimasi — «krank»."
     },
@@ -9628,6 +10028,7 @@ const nemisTili = {
           "text": "barg"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«stark» so'zi o'zbek tilida «kuchli» deb tarjima qilinadi."
     },
@@ -9652,6 +10053,7 @@ const nemisTili = {
           "text": "Feuer"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kuchli» so'zining nemischa tarjimasi — «stark»."
     },
@@ -9676,6 +10078,7 @@ const nemisTili = {
           "text": "“Hallo” so‘zining o‘zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«“Hallo” so‘zining o‘zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — Salom. To'g'ri javob: Salom."
     },
@@ -9700,6 +10103,7 @@ const nemisTili = {
           "text": "«schön» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«“Danke” so‘zining o‘zbekcha tarjimasi nima?» savolining to'g'ri javobi — Rahmat. To'g'ri javob: Rahmat."
     },
@@ -9724,6 +10128,7 @@ const nemisTili = {
           "text": "Nemis tilida barcha otlar qanday yoziladi?"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "«Nemis tilida barcha otlar qanday yoziladi?» savolining to'g'ri javobi — Bosh harf bilan. To'g'ri javob: Bosh harf bilan."
     },
@@ -9748,6 +10153,7 @@ const nemisTili = {
           "text": "«ha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«“Ich ___ Student.” bo‘sh joyga mos fe’lni tanlang.» savolining to'g'ri javobi — bin. To'g'ri javob: bin."
     },
@@ -9772,6 +10178,7 @@ const nemisTili = {
           "text": "«quyosh» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««hallo» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — salom. «hallo» so'zi o'zbek tilida «salom» deb tarjima qilinadi."
     },
@@ -9796,6 +10203,7 @@ const nemisTili = {
           "text": "«salom» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««salom» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — hallo. «salom» so'zining nemischa tarjimasi — «hallo»."
     },
@@ -9820,6 +10228,7 @@ const nemisTili = {
           "text": "«Schlange» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««guten Morgen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xayrli tong. «guten Morgen» so'zi o'zbek tilida «xayrli tong» deb tarjima qilinadi."
     },
@@ -9844,6 +10253,7 @@ const nemisTili = {
           "text": "«Tiger» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xayrli tong» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — guten Morgen. «xayrli tong» so'zining nemischa tarjimasi — «guten Morgen»."
     },
@@ -9868,6 +10278,7 @@ const nemisTili = {
           "text": "«See» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««guten Abend» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xayrli kech. «guten Abend» so'zi o'zbek tilida «xayrli kech» deb tarjima qilinadi."
     },
@@ -9892,6 +10303,7 @@ const nemisTili = {
           "text": "«xayrli kun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««xayrli kech» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — guten Abend. «xayrli kech» so'zining nemischa tarjimasi — «guten Abend»."
     },
@@ -9916,6 +10328,7 @@ const nemisTili = {
           "text": "«yarim» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««willkommen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xush kelibsiz. «willkommen» so'zi o'zbek tilida «xush kelibsiz» deb tarjima qilinadi."
     },
@@ -9940,6 +10353,7 @@ const nemisTili = {
           "text": "«deraza» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xush kelibsiz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — willkommen. «xush kelibsiz» so'zining nemischa tarjimasi — «willkommen»."
     },
@@ -9964,6 +10378,7 @@ const nemisTili = {
           "text": "«danke» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««danke» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — rahmat. «danke» so'zi o'zbek tilida «rahmat» deb tarjima qilinadi."
     },
@@ -9988,6 +10403,7 @@ const nemisTili = {
           "text": "«groß» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««rahmat» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — danke. «rahmat» so'zining nemischa tarjimasi — «danke»."
     },
@@ -10012,6 +10428,7 @@ const nemisTili = {
           "text": "«bitte» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««bitte» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — iltimos. «bitte» so'zi o'zbek tilida «iltimos» deb tarjima qilinadi."
     },
@@ -10036,6 +10453,7 @@ const nemisTili = {
           "text": "«Suppe» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««iltimos» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — bitte. «iltimos» so'zining nemischa tarjimasi — «bitte»."
     },
@@ -10060,6 +10478,7 @@ const nemisTili = {
           "text": "«xayrli tong» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ja» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ha. «ja» so'zi o'zbek tilida «ha» deb tarjima qilinadi."
     },
@@ -10084,6 +10503,7 @@ const nemisTili = {
           "text": "«ha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ha» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — ja. «ha» so'zining nemischa tarjimasi — «ja»."
     },
@@ -10108,6 +10528,7 @@ const nemisTili = {
           "text": "«nein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««nein» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yo'q. «nein» so'zi o'zbek tilida «yo'q» deb tarjima qilinadi."
     },
@@ -10132,6 +10553,7 @@ const nemisTili = {
           "text": "«choy» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yo'q» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — nein. «yo'q» so'zining nemischa tarjimasi — «nein»."
     },
@@ -10156,6 +10578,7 @@ const nemisTili = {
           "text": "«Bauer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««vielleicht» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — balki. «vielleicht» so'zi o'zbek tilida «balki» deb tarjima qilinadi."
     },
@@ -10180,6 +10603,7 @@ const nemisTili = {
           "text": "«Wasser» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««balki» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — vielleicht. «balki» so'zining nemischa tarjimasi — «vielleicht»."
     },
@@ -10204,6 +10628,7 @@ const nemisTili = {
           "text": "«Fleisch» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««okay» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yaxshi. «okay» so'zi o'zbek tilida «yaxshi» deb tarjima qilinadi."
     },
@@ -10228,6 +10653,7 @@ const nemisTili = {
           "text": "«ikki» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yaxshi» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — okay. «yaxshi» so'zining nemischa tarjimasi — «okay»."
     },
@@ -10252,6 +10678,7 @@ const nemisTili = {
           "text": "«eins» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««wie geht's» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qalaysan. «wie geht's» so'zi o'zbek tilida «qalaysan» deb tarjima qilinadi."
     },
@@ -10276,6 +10703,7 @@ const nemisTili = {
           "text": "«vierzig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qalaysan» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — wie geht's. «qalaysan» so'zining nemischa tarjimasi — «wie geht's»."
     },
@@ -10300,6 +10728,7 @@ const nemisTili = {
           "text": "«Telefon» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««mir geht es gut» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yaxshiman. «mir geht es gut» so'zi o'zbek tilida «yaxshiman» deb tarjima qilinadi."
     },
@@ -10324,6 +10753,7 @@ const nemisTili = {
           "text": "«Straße» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yaxshiman» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — mir geht es gut. «yaxshiman» so'zining nemischa tarjimasi — «mir geht es gut»."
     },
@@ -10348,6 +10778,7 @@ const nemisTili = {
           "text": "«wie heißt du» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««wie heißt du» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — isming nima. «wie heißt du» so'zi o'zbek tilida «isming nima» deb tarjima qilinadi."
     },
@@ -10372,6 +10803,7 @@ const nemisTili = {
           "text": "«isming nima» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««isming nima» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — wie heißt du. «isming nima» so'zining nemischa tarjimasi — «wie heißt du»."
     },
@@ -10396,6 +10828,7 @@ const nemisTili = {
           "text": "«ilon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ich heiße» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — mening ismim. «ich heiße» so'zi o'zbek tilida «mening ismim» deb tarjima qilinadi."
     },
@@ -10420,6 +10853,7 @@ const nemisTili = {
           "text": "«yo'lbars» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««mening ismim» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — ich heiße. «mening ismim» so'zining nemischa tarjimasi — «ich heiße»."
     },
@@ -10444,6 +10878,7 @@ const nemisTili = {
           "text": "«schreiben» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««freut mich» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tanishganimdan xursandman. «freut mich» so'zi o'zbek tilida «tanishganimdan xursandman» deb tarjima qilinadi."
     },
@@ -10468,6 +10903,7 @@ const nemisTili = {
           "text": "«xayr» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tanishganimdan xursandman» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — freut mich. «tanishganimdan xursandman» so'zining nemischa tarjimasi — «freut mich»."
     },
@@ -10492,6 +10928,7 @@ const nemisTili = {
           "text": "«Arzt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««bis später» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — keyinroq ko'rishguncha. «bis später» so'zi o'zbek tilida «keyinroq ko'rishguncha» deb tarjima qilinadi."
     },
@@ -10516,6 +10953,7 @@ const nemisTili = {
           "text": "«keyinroq ko'rishguncha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««keyinroq ko'rishguncha» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — bis später. «keyinroq ko'rishguncha» so'zining nemischa tarjimasi — «bis später»."
     },
@@ -10540,6 +10978,7 @@ const nemisTili = {
           "text": "«Nacht» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tschüss» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xayr. «tschüss» so'zi o'zbek tilida «xayr» deb tarjima qilinadi."
     },
@@ -10564,6 +11003,7 @@ const nemisTili = {
           "text": "«Ingenieur» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xayr» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — tschüss. «xayr» so'zining nemischa tarjimasi — «tschüss»."
     },
@@ -10588,6 +11028,7 @@ const nemisTili = {
           "text": "«Haus» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Entschuldigung» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kechirasiz. «Entschuldigung» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -10612,6 +11053,7 @@ const nemisTili = {
           "text": "«gut» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kechirasiz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Entschuldigung. «kechirasiz» so'zining nemischa tarjimasi — «Entschuldigung»."
     },
@@ -10636,6 +11078,7 @@ const nemisTili = {
           "text": "«Birne» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««einen Moment» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bir daqiqa. «einen Moment» so'zi o'zbek tilida «bir daqiqa» deb tarjima qilinadi."
     },
@@ -10660,6 +11103,7 @@ const nemisTili = {
           "text": "«Schüler» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««bir daqiqa» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — einen Moment. «bir daqiqa» so'zining nemischa tarjimasi — «einen Moment»."
     },
@@ -10684,6 +11128,7 @@ const nemisTili = {
           "text": "“Danke” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««guten Tag» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xayrli kun. «guten Tag» so'zi o'zbek tilida «xayrli kun» deb tarjima qilinadi."
     },
@@ -10708,6 +11153,7 @@ const nemisTili = {
           "text": "«kasal» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««xayrli kun» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — guten Tag. «xayrli kun» so'zining nemischa tarjimasi — «guten Tag»."
     },
@@ -10732,6 +11178,7 @@ const nemisTili = {
           "text": "«Apfel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Mutter» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ona. «Mutter» so'zi o'zbek tilida «ona» deb tarjima qilinadi."
     },
@@ -10756,6 +11203,7 @@ const nemisTili = {
           "text": "«ona» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ona» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Mutter. «ona» so'zining nemischa tarjimasi — «Mutter»."
     },
@@ -10780,6 +11228,7 @@ const nemisTili = {
           "text": "«qirq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Vater» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ota. «Vater» so'zi o'zbek tilida «ota» deb tarjima qilinadi."
     },
@@ -10804,6 +11253,7 @@ const nemisTili = {
           "text": "«kecha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ota» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Vater. «ota» so'zining nemischa tarjimasi — «Vater»."
     },
@@ -10828,6 +11278,7 @@ const nemisTili = {
           "text": "«to'rt» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Bruder» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — aka yoki uka. «Bruder» so'zi o'zbek tilida «aka yoki uka» deb tarjima qilinadi."
     },
@@ -10852,6 +11303,7 @@ const nemisTili = {
           "text": "«aka yoki uka» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««aka yoki uka» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Bruder. «aka yoki uka» so'zining nemischa tarjimasi — «Bruder»."
     },
@@ -10876,6 +11328,7 @@ const nemisTili = {
           "text": "«Schwester» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Schwester» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — opa yoki singil. «Schwester» so'zi o'zbek tilida «opa yoki singil» deb tarjima qilinadi."
     },
@@ -10900,6 +11353,7 @@ const nemisTili = {
           "text": "«opa yoki singil» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««opa yoki singil» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schwester. «opa yoki singil» so'zining nemischa tarjimasi — «Schwester»."
     },
@@ -10924,6 +11378,7 @@ const nemisTili = {
           "text": "«Bett» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Großvater» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bobo. «Großvater» so'zi o'zbek tilida «bobo» deb tarjima qilinadi."
     },
@@ -10948,6 +11403,7 @@ const nemisTili = {
           "text": "«kasallikxona» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««bobo» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Großvater. «bobo» so'zining nemischa tarjimasi — «Großvater»."
     },
@@ -10972,6 +11428,7 @@ const nemisTili = {
           "text": "«xayr» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Großmutter» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — buvi. «Großmutter» so'zi o'zbek tilida «buvi» deb tarjima qilinadi."
     },
@@ -10996,6 +11453,7 @@ const nemisTili = {
           "text": "«buvi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««buvi» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Großmutter. «buvi» so'zining nemischa tarjimasi — «Großmutter»."
     },
@@ -11020,6 +11478,7 @@ const nemisTili = {
           "text": "«willkommen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Sohn» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'g'il. «Sohn» so'zi o'zbek tilida «o'g'il» deb tarjima qilinadi."
     },
@@ -11044,6 +11503,7 @@ const nemisTili = {
           "text": "«Kind» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««o'g'il» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Sohn. «o'g'il» so'zining nemischa tarjimasi — «Sohn»."
     },
@@ -11068,6 +11528,7 @@ const nemisTili = {
           "text": "«Tochter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Tochter» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qiz. «Tochter» so'zi o'zbek tilida «qiz» deb tarjima qilinadi."
     },
@@ -11092,6 +11553,7 @@ const nemisTili = {
           "text": "«ilon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qiz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tochter. «qiz» so'zining nemischa tarjimasi — «Tochter»."
     },
@@ -11116,6 +11578,7 @@ const nemisTili = {
           "text": "«wissen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Kind» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bola. «Kind» so'zi o'zbek tilida «bola» deb tarjima qilinadi."
     },
@@ -11140,6 +11603,7 @@ const nemisTili = {
           "text": "«wollen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««bola» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Kind. «bola» so'zining nemischa tarjimasi — «Kind»."
     },
@@ -11164,6 +11628,7 @@ const nemisTili = {
           "text": "«Tisch» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Mann» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — erkak. «Mann» so'zi o'zbek tilida «erkak» deb tarjima qilinadi."
     },
@@ -11188,6 +11653,7 @@ const nemisTili = {
           "text": "«yo'l» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««erkak» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Mann. «erkak» so'zining nemischa tarjimasi — «Mann»."
     },
@@ -11212,6 +11678,7 @@ const nemisTili = {
           "text": "«Stuhl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Frau» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ayol. «Frau» so'zi o'zbek tilida «ayol» deb tarjima qilinadi."
     },
@@ -11236,6 +11703,7 @@ const nemisTili = {
           "text": "«Erde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ayol» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Frau. «ayol» so'zining nemischa tarjimasi — «Frau»."
     },
@@ -11260,6 +11728,7 @@ const nemisTili = {
           "text": "«Freund» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Freund» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — do'st. «Freund» so'zi o'zbek tilida «do'st» deb tarjima qilinadi."
     },
@@ -11284,6 +11753,7 @@ const nemisTili = {
           "text": "«schreiben» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««do'st» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Freund. «do'st» so'zining nemischa tarjimasi — «Freund»."
     },
@@ -11308,6 +11778,7 @@ const nemisTili = {
           "text": "«Lehrer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Lehrer» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'qituvchi. «Lehrer» so'zi o'zbek tilida «o'qituvchi» deb tarjima qilinadi."
     },
@@ -11332,6 +11803,7 @@ const nemisTili = {
           "text": "«Tiger» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««o'qituvchi» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Lehrer. «o'qituvchi» so'zining nemischa tarjimasi — «Lehrer»."
     },
@@ -11356,6 +11828,7 @@ const nemisTili = {
           "text": "«Kartoffel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Schüler» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'quvchi. «Schüler» so'zi o'zbek tilida «o'quvchi» deb tarjima qilinadi."
     },
@@ -11380,6 +11853,7 @@ const nemisTili = {
           "text": "«wie geht's» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««o'quvchi» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schüler. «o'quvchi» so'zining nemischa tarjimasi — «Schüler»."
     },
@@ -11404,6 +11878,7 @@ const nemisTili = {
           "text": "«offen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Arzt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — shifokor. «Arzt» so'zi o'zbek tilida «shifokor» deb tarjima qilinadi."
     },
@@ -11428,6 +11903,7 @@ const nemisTili = {
           "text": "«hässlich» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««shifokor» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Arzt. «shifokor» so'zining nemischa tarjimasi — «Arzt»."
     },
@@ -11452,6 +11928,7 @@ const nemisTili = {
           "text": "«dehqon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Ingenieur» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — muhandis. «Ingenieur» so'zi o'zbek tilida «muhandis» deb tarjima qilinadi."
     },
@@ -11476,6 +11953,7 @@ const nemisTili = {
           "text": "«gesund» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««muhandis» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Ingenieur. «muhandis» so'zining nemischa tarjimasi — «Ingenieur»."
     },
@@ -11500,6 +11978,7 @@ const nemisTili = {
           "text": "«maktab» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Arbeiter» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ishchi. «Arbeiter» so'zi o'zbek tilida «ishchi» deb tarjima qilinadi."
     },
@@ -11524,6 +12003,7 @@ const nemisTili = {
           "text": "«qalam» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ishchi» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Arbeiter. «ishchi» so'zining nemischa tarjimasi — «Arbeiter»."
     },
@@ -11548,6 +12028,7 @@ const nemisTili = {
           "text": "«Bauer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Bauer» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — dehqon. «Bauer» so'zi o'zbek tilida «dehqon» deb tarjima qilinadi."
     },
@@ -11572,6 +12053,7 @@ const nemisTili = {
           "text": "«Pferd» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««dehqon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Bauer. «dehqon» so'zining nemischa tarjimasi — «Bauer»."
     },
@@ -11596,6 +12078,7 @@ const nemisTili = {
           "text": "«ikki» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Soldat» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — askar. «Soldat» so'zi o'zbek tilida «askar» deb tarjima qilinadi."
     },
@@ -11620,6 +12103,7 @@ const nemisTili = {
           "text": "«Fluss» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««askar» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Soldat. «askar» so'zining nemischa tarjimasi — «Soldat»."
     },
@@ -11644,6 +12128,7 @@ const nemisTili = {
           "text": "«Familie» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Familie» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oila. «Familie» so'zi o'zbek tilida «oila» deb tarjima qilinadi."
     },
@@ -11668,6 +12153,7 @@ const nemisTili = {
           "text": "«kalt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««oila» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Familie. «oila» so'zining nemischa tarjimasi — «Familie»."
     },
@@ -11692,6 +12178,7 @@ const nemisTili = {
           "text": "«dreißig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««eins» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bir. «eins» so'zi o'zbek tilida «bir» deb tarjima qilinadi."
     },
@@ -11716,6 +12203,7 @@ const nemisTili = {
           "text": "«Stift» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««bir» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — eins. «bir» so'zining nemischa tarjimasi — «eins»."
     },
@@ -11740,6 +12228,7 @@ const nemisTili = {
           "text": "«Wald» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««zwei» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ikki. «zwei» so'zi o'zbek tilida «ikki» deb tarjima qilinadi."
     },
@@ -11764,6 +12253,7 @@ const nemisTili = {
           "text": "«Auto» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ikki» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — zwei. «ikki» so'zining nemischa tarjimasi — «zwei»."
     },
@@ -11788,6 +12278,7 @@ const nemisTili = {
           "text": "«bola» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««drei» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uch. «drei» so'zi o'zbek tilida «uch» deb tarjima qilinadi."
     },
@@ -11812,6 +12303,7 @@ const nemisTili = {
           "text": "«okay» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««uch» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — drei. «uch» so'zining nemischa tarjimasi — «drei»."
     },
@@ -11836,6 +12328,7 @@ const nemisTili = {
           "text": "«vier» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««vier» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — to'rt. «vier» so'zi o'zbek tilida «to'rt» deb tarjima qilinadi."
     },
@@ -11860,6 +12353,7 @@ const nemisTili = {
           "text": "«okay» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««to'rt» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — vier. «to'rt» so'zining nemischa tarjimasi — «vier»."
     },
@@ -11884,6 +12378,7 @@ const nemisTili = {
           "text": "«fünf» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««fünf» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — besh. «fünf» so'zi o'zbek tilida «besh» deb tarjima qilinadi."
     },
@@ -11908,6 +12403,7 @@ const nemisTili = {
           "text": "«Stunde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««besh» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — fünf. «besh» so'zining nemischa tarjimasi — «fünf»."
     },
@@ -11932,6 +12428,7 @@ const nemisTili = {
           "text": "«sechs» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««sechs» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — olti. «sechs» so'zi o'zbek tilida «olti» deb tarjima qilinadi."
     },
@@ -11956,6 +12453,7 @@ const nemisTili = {
           "text": "«o'qimoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««olti» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — sechs. «olti» so'zining nemischa tarjimasi — «sechs»."
     },
@@ -11980,6 +12478,7 @@ const nemisTili = {
           "text": "«to'qqiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sieben» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yetti. «sieben» so'zi o'zbek tilida «yetti» deb tarjima qilinadi."
     },
@@ -12004,6 +12503,7 @@ const nemisTili = {
           "text": "«Schlüssel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yetti» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — sieben. «yetti» so'zining nemischa tarjimasi — «sieben»."
     },
@@ -12028,6 +12528,7 @@ const nemisTili = {
           "text": "«Mann» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««acht» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sakkiz. «acht» so'zi o'zbek tilida «sakkiz» deb tarjima qilinadi."
     },
@@ -12052,6 +12553,7 @@ const nemisTili = {
           "text": "«sakkiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««sakkiz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — acht. «sakkiz» so'zining nemischa tarjimasi — «acht»."
     },
@@ -12076,6 +12578,7 @@ const nemisTili = {
           "text": "«neun» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««neun» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — to'qqiz. «neun» so'zi o'zbek tilida «to'qqiz» deb tarjima qilinadi."
     },
@@ -12100,6 +12603,7 @@ const nemisTili = {
           "text": "«tuproq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««to'qqiz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — neun. «to'qqiz» so'zining nemischa tarjimasi — «neun»."
     },
@@ -12124,6 +12628,7 @@ const nemisTili = {
           "text": "«do'kon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««zehn» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'n. «zehn» so'zi o'zbek tilida «o'n» deb tarjima qilinadi."
     },
@@ -12148,6 +12653,7 @@ const nemisTili = {
           "text": "«Schlange» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««o'n» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — zehn. «o'n» so'zining nemischa tarjimasi — «zehn»."
     },
@@ -12172,6 +12678,7 @@ const nemisTili = {
           "text": "«yozmoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««zwanzig» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yigirma. «zwanzig» so'zi o'zbek tilida «yigirma» deb tarjima qilinadi."
     },
@@ -12196,6 +12703,7 @@ const nemisTili = {
           "text": "«traurig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yigirma» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — zwanzig. «yigirma» so'zining nemischa tarjimasi — «zwanzig»."
     },
@@ -12220,6 +12728,7 @@ const nemisTili = {
           "text": "«o'qimoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««dreißig» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'ttiz. «dreißig» so'zi o'zbek tilida «o'ttiz» deb tarjima qilinadi."
     },
@@ -12244,6 +12753,7 @@ const nemisTili = {
           "text": "«kartoshka» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««o'ttiz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — dreißig. «o'ttiz» so'zining nemischa tarjimasi — «dreißig»."
     },
@@ -12268,6 +12778,7 @@ const nemisTili = {
           "text": "«gestern» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««vierzig» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qirq. «vierzig» so'zi o'zbek tilida «qirq» deb tarjima qilinadi."
     },
@@ -12292,6 +12803,7 @@ const nemisTili = {
           "text": "«ko'l» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««qirq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — vierzig. «qirq» so'zining nemischa tarjimasi — «vierzig»."
     },
@@ -12316,6 +12828,7 @@ const nemisTili = {
           "text": "«tausend» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««fünfzig» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ellik. «fünfzig» so'zi o'zbek tilida «ellik» deb tarjima qilinadi."
     },
@@ -12340,6 +12853,7 @@ const nemisTili = {
           "text": "«tuproq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ellik» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — fünfzig. «ellik» so'zining nemischa tarjimasi — «fünfzig»."
     },
@@ -12364,6 +12878,7 @@ const nemisTili = {
           "text": "«Pferd» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««hundert» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yuz. «hundert» so'zi o'zbek tilida «yuz» deb tarjima qilinadi."
     },
@@ -12388,6 +12903,7 @@ const nemisTili = {
           "text": "«Schaf» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yuz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — hundert. «yuz» so'zining nemischa tarjimasi — «hundert»."
     },
@@ -12412,6 +12928,7 @@ const nemisTili = {
           "text": "«ellik» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tausend» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ming. «tausend» so'zi o'zbek tilida «ming» deb tarjima qilinadi."
     },
@@ -12436,6 +12953,7 @@ const nemisTili = {
           "text": "«gehen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ming» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — tausend. «ming» so'zining nemischa tarjimasi — «tausend»."
     },
@@ -12460,6 +12978,7 @@ const nemisTili = {
           "text": "«Stunde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Million» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — million. «Million» so'zi o'zbek tilida «million» deb tarjima qilinadi."
     },
@@ -12484,6 +13003,7 @@ const nemisTili = {
           "text": "«million» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««million» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Million. «million» so'zining nemischa tarjimasi — «Million»."
     },
@@ -12508,6 +13028,7 @@ const nemisTili = {
           "text": "«yarim» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««null» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — nol. «null» so'zi o'zbek tilida «nol» deb tarjima qilinadi."
     },
@@ -12532,6 +13053,7 @@ const nemisTili = {
           "text": "«nol» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««nol» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — null. «nol» so'zining nemischa tarjimasi — «null»."
     },
@@ -12556,6 +13078,7 @@ const nemisTili = {
           "text": "«kechqurun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««halb» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yarim. «halb» so'zi o'zbek tilida «yarim» deb tarjima qilinadi."
     },
@@ -12580,6 +13103,7 @@ const nemisTili = {
           "text": "«barg» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yarim» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — halb. «yarim» so'zining nemischa tarjimasi — «halb»."
     },
@@ -12604,6 +13128,7 @@ const nemisTili = {
           "text": "«tushlik» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Viertel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — chorak. «Viertel» so'zi o'zbek tilida «chorak» deb tarjima qilinadi."
     },
@@ -12628,6 +13153,7 @@ const nemisTili = {
           "text": "«hallo» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««chorak» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Viertel. «chorak» so'zining nemischa tarjimasi — «Viertel»."
     },
@@ -12652,6 +13178,7 @@ const nemisTili = {
           "text": "«Tag» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Tag» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kun. «Tag» so'zi o'zbek tilida «kun» deb tarjima qilinadi."
     },
@@ -12676,6 +13203,7 @@ const nemisTili = {
           "text": "«kun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kun» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tag. «kun» so'zining nemischa tarjimasi — «Tag»."
     },
@@ -12700,6 +13228,7 @@ const nemisTili = {
           "text": "«Woche» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Woche» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — hafta. «Woche» so'zi o'zbek tilida «hafta» deb tarjima qilinadi."
     },
@@ -12724,6 +13253,7 @@ const nemisTili = {
           "text": "«hafta» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««hafta» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Woche. «hafta» so'zining nemischa tarjimasi — «Woche»."
     },
@@ -12748,6 +13278,7 @@ const nemisTili = {
           "text": "«Monat» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Monat» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oy. «Monat» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -12772,6 +13303,7 @@ const nemisTili = {
           "text": "«alt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««oy» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Monat. «oy» so'zining nemischa tarjimasi — «Monat»."
     },
@@ -12796,6 +13328,7 @@ const nemisTili = {
           "text": "«kitob» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Jahr» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yil. «Jahr» so'zi o'zbek tilida «yil» deb tarjima qilinadi."
     },
@@ -12820,6 +13353,7 @@ const nemisTili = {
           "text": "«yil» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yil» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Jahr. «yil» so'zining nemischa tarjimasi — «Jahr»."
     },
@@ -12844,6 +13378,7 @@ const nemisTili = {
           "text": "«Birne» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Stunde» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — soat. «Stunde» so'zi o'zbek tilida «soat» deb tarjima qilinadi."
     },
@@ -12868,6 +13403,7 @@ const nemisTili = {
           "text": "«o'g'il» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««soat» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Stunde. «soat» so'zining nemischa tarjimasi — «Stunde»."
     },
@@ -12892,6 +13428,7 @@ const nemisTili = {
           "text": "«Elefant» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Minute» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daqiqa. «Minute» so'zi o'zbek tilida «daqiqa» deb tarjima qilinadi."
     },
@@ -12916,6 +13453,7 @@ const nemisTili = {
           "text": "«Stein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««daqiqa» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Minute. «daqiqa» so'zining nemischa tarjimasi — «Minute»."
     },
@@ -12940,6 +13478,7 @@ const nemisTili = {
           "text": "«ha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Sekunde» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — soniya. «Sekunde» so'zi o'zbek tilida «soniya» deb tarjima qilinadi."
     },
@@ -12964,6 +13503,7 @@ const nemisTili = {
           "text": "«soniya» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««soniya» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Sekunde. «soniya» so'zining nemischa tarjimasi — «Sekunde»."
     },
@@ -12988,6 +13528,7 @@ const nemisTili = {
           "text": "«Tasche» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Morgen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ertalab. «Morgen» so'zi o'zbek tilida «ertalab» deb tarjima qilinadi."
     },
@@ -13012,6 +13553,7 @@ const nemisTili = {
           "text": "«yemoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ertalab» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Morgen. «ertalab» so'zining nemischa tarjimasi — «Morgen»."
     },
@@ -13036,6 +13578,7 @@ const nemisTili = {
           "text": "«Mittag» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Mittag» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tushlik. «Mittag» so'zi o'zbek tilida «tushlik» deb tarjima qilinadi."
     },
@@ -13060,6 +13603,7 @@ const nemisTili = {
           "text": "«hallo» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tushlik» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Mittag. «tushlik» so'zining nemischa tarjimasi — «Mittag»."
     },
@@ -13084,6 +13628,7 @@ const nemisTili = {
           "text": "«qisqa» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Abend» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kechqurun. «Abend» so'zi o'zbek tilida «kechqurun» deb tarjima qilinadi."
     },
@@ -13108,6 +13653,7 @@ const nemisTili = {
           "text": "«sechs» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kechqurun» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Abend. «kechqurun» so'zining nemischa tarjimasi — «Abend»."
     },
@@ -13132,6 +13678,7 @@ const nemisTili = {
           "text": "«Apfel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Nacht» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tun. «Nacht» so'zi o'zbek tilida «tun» deb tarjima qilinadi."
     },
@@ -13156,6 +13703,7 @@ const nemisTili = {
           "text": "«sevgi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tun» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Nacht. «tun» so'zining nemischa tarjimasi — «Nacht»."
     },
@@ -13180,6 +13728,7 @@ const nemisTili = {
           "text": "«Stadt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««heute» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bugun. «heute» so'zi o'zbek tilida «bugun» deb tarjima qilinadi."
     },
@@ -13204,6 +13753,7 @@ const nemisTili = {
           "text": "«bugun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««bugun» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — heute. «bugun» so'zining nemischa tarjimasi — «heute»."
     },
@@ -13228,6 +13778,7 @@ const nemisTili = {
           "text": "«maktab» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««übermorgen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — indinga. «übermorgen» so'zi o'zbek tilida «indinga» deb tarjima qilinadi."
     },
@@ -13252,6 +13803,7 @@ const nemisTili = {
           "text": "«indinga» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««indinga» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — übermorgen. «indinga» so'zining nemischa tarjimasi — «übermorgen»."
     },
@@ -13276,6 +13828,7 @@ const nemisTili = {
           "text": "«xo'roz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««gestern» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kecha. «gestern» so'zi o'zbek tilida «kecha» deb tarjima qilinadi."
     },
@@ -13300,6 +13853,7 @@ const nemisTili = {
           "text": "«vier» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kecha» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — gestern. «kecha» so'zining nemischa tarjimasi — «gestern»."
     },
@@ -13324,6 +13878,7 @@ const nemisTili = {
           "text": "«xayrli kech» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««jetzt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — hozir. «jetzt» so'zi o'zbek tilida «hozir» deb tarjima qilinadi."
     },
@@ -13348,6 +13903,7 @@ const nemisTili = {
           "text": "«hozir» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««hozir» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — jetzt. «hozir» so'zining nemischa tarjimasi — «jetzt»."
     },
@@ -13372,6 +13928,7 @@ const nemisTili = {
           "text": "«daraxt» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««später» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — keyin. «später» so'zi o'zbek tilida «keyin» deb tarjima qilinadi."
     },
@@ -13396,6 +13953,7 @@ const nemisTili = {
           "text": "«shahar» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««keyin» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — später. «keyin» so'zining nemischa tarjimasi — «später»."
     },
@@ -13420,6 +13978,7 @@ const nemisTili = {
           "text": "«xayrli kech» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««vorher» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oldin. «vorher» so'zi o'zbek tilida «oldin» deb tarjima qilinadi."
     },
@@ -13444,6 +14003,7 @@ const nemisTili = {
           "text": "«tez» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««oldin» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — vorher. «oldin» so'zining nemischa tarjimasi — «vorher»."
     },
@@ -13468,6 +14028,7 @@ const nemisTili = {
           "text": "«osmon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««früh» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — erta. «früh» so'zi o'zbek tilida «erta» deb tarjima qilinadi."
     },
@@ -13492,6 +14053,7 @@ const nemisTili = {
           "text": "«fünfzig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««erta» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — früh. «erta» so'zining nemischa tarjimasi — «früh»."
     },
@@ -13516,6 +14078,7 @@ const nemisTili = {
           "text": "«spät» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««spät» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kech. «spät» so'zi o'zbek tilida «kech» deb tarjima qilinadi."
     },
@@ -13540,6 +14103,7 @@ const nemisTili = {
           "text": "«jung» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kech» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — spät. «kech» so'zining nemischa tarjimasi — «spät»."
     },
@@ -13564,6 +14128,7 @@ const nemisTili = {
           "text": "«immer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««immer» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — har doim. «immer» so'zi o'zbek tilida «har doim» deb tarjima qilinadi."
     },
@@ -13588,6 +14153,7 @@ const nemisTili = {
           "text": "«Heft» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««har doim» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — immer. «har doim» so'zining nemischa tarjimasi — «immer»."
     },
@@ -13612,6 +14178,7 @@ const nemisTili = {
           "text": "«Wasser» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Wasser» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — suv. «Wasser» so'zi o'zbek tilida «suv» deb tarjima qilinadi."
     },
@@ -13636,6 +14203,7 @@ const nemisTili = {
           "text": "«jetzt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««suv» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Wasser. «suv» so'zining nemischa tarjimasi — «Wasser»."
     },
@@ -13660,6 +14228,7 @@ const nemisTili = {
           "text": "«Mond» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Feuer» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — olov. «Feuer» so'zi o'zbek tilida «olov» deb tarjima qilinadi."
     },
@@ -13684,6 +14253,7 @@ const nemisTili = {
           "text": "«Sohn» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««olov» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Feuer. «olov» so'zining nemischa tarjimasi — «Feuer»."
     },
@@ -13708,6 +14278,7 @@ const nemisTili = {
           "text": "«Erde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Erde» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tuproq. «Erde» so'zi o'zbek tilida «tuproq» deb tarjima qilinadi."
     },
@@ -13732,6 +14303,7 @@ const nemisTili = {
           "text": "«go'sht» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tuproq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Erde. «tuproq» so'zining nemischa tarjimasi — «Erde»."
     },
@@ -13756,6 +14328,7 @@ const nemisTili = {
           "text": "«suv» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Luft» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — havo. «Luft» so'zi o'zbek tilida «havo» deb tarjima qilinadi."
     },
@@ -13780,6 +14353,7 @@ const nemisTili = {
           "text": "«xohlamoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««havo» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Luft. «havo» so'zining nemischa tarjimasi — «Luft»."
     },
@@ -13804,6 +14378,7 @@ const nemisTili = {
           "text": "«uch» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Sonne» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — quyosh. «Sonne» so'zi o'zbek tilida «quyosh» deb tarjima qilinadi."
     },
@@ -13828,6 +14403,7 @@ const nemisTili = {
           "text": "«See» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««quyosh» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Sonne. «quyosh» so'zining nemischa tarjimasi — «Sonne»."
     },
@@ -13852,6 +14428,7 @@ const nemisTili = {
           "text": "«hozir» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Mond» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oy. «Mond» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -13876,6 +14453,7 @@ const nemisTili = {
           "text": "«groß» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Stern» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yulduz. «Stern» so'zi o'zbek tilida «yulduz» deb tarjima qilinadi."
     },
@@ -13900,6 +14478,7 @@ const nemisTili = {
           "text": "«Ziege» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yulduz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Stern. «yulduz» so'zining nemischa tarjimasi — «Stern»."
     },
@@ -13924,6 +14503,7 @@ const nemisTili = {
           "text": "«o'rmon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Himmel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — osmon. «Himmel» so'zi o'zbek tilida «osmon» deb tarjima qilinadi."
     },
@@ -13948,6 +14528,7 @@ const nemisTili = {
           "text": "«spät» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««osmon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Himmel. «osmon» so'zining nemischa tarjimasi — «Himmel»."
     },
@@ -13972,6 +14553,7 @@ const nemisTili = {
           "text": "«tog'» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Meer» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — dengiz. «Meer» so'zi o'zbek tilida «dengiz» deb tarjima qilinadi."
     },
@@ -13996,6 +14578,7 @@ const nemisTili = {
           "text": "«gul» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««dengiz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Meer. «dengiz» so'zining nemischa tarjimasi — «Meer»."
     },
@@ -14020,6 +14603,7 @@ const nemisTili = {
           "text": "«gul» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««See» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ko'l. «See» so'zi o'zbek tilida «ko'l» deb tarjima qilinadi."
     },
@@ -14044,6 +14628,7 @@ const nemisTili = {
           "text": "«sog'lom» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ko'l» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — See. «ko'l» so'zining nemischa tarjimasi — «See»."
     },
@@ -14068,6 +14653,7 @@ const nemisTili = {
           "text": "«klein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Fluss» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daryo. «Fluss» so'zi o'zbek tilida «daryo» deb tarjima qilinadi."
     },
@@ -14092,6 +14678,7 @@ const nemisTili = {
           "text": "«daryo» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««daryo» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Fluss. «daryo» so'zining nemischa tarjimasi — «Fluss»."
     },
@@ -14116,6 +14703,7 @@ const nemisTili = {
           "text": "«Krankenhaus» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Berg» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tog'. «Berg» so'zi o'zbek tilida «tog'» deb tarjima qilinadi."
     },
@@ -14140,6 +14728,7 @@ const nemisTili = {
           "text": "«Vater» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tog'» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Berg. «tog'» so'zining nemischa tarjimasi — «Berg»."
     },
@@ -14164,6 +14753,7 @@ const nemisTili = {
           "text": "«Sekunde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Wald» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'rmon. «Wald» so'zi o'zbek tilida «o'rmon» deb tarjima qilinadi."
     },
@@ -14188,6 +14778,7 @@ const nemisTili = {
           "text": "«o'rmon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««o'rmon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Wald. «o'rmon» so'zining nemischa tarjimasi — «Wald»."
     },
@@ -14212,6 +14803,7 @@ const nemisTili = {
           "text": "«indinga» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Baum» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daraxt. «Baum» so'zi o'zbek tilida «daraxt» deb tarjima qilinadi."
     },
@@ -14236,6 +14828,7 @@ const nemisTili = {
           "text": "«wie heißt du» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««daraxt» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Baum. «daraxt» so'zining nemischa tarjimasi — «Baum»."
     },
@@ -14260,6 +14853,7 @@ const nemisTili = {
           "text": "«Brot» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Blume» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — gul. «Blume» so'zi o'zbek tilida «gul» deb tarjima qilinadi."
     },
@@ -14284,6 +14878,7 @@ const nemisTili = {
           "text": "«gul» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««gul» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Blume. «gul» so'zining nemischa tarjimasi — «Blume»."
     },
@@ -14308,6 +14903,7 @@ const nemisTili = {
           "text": "«Blatt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Blatt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — barg. «Blatt» so'zi o'zbek tilida «barg» deb tarjima qilinadi."
     },
@@ -14332,6 +14928,7 @@ const nemisTili = {
           "text": "«yulduz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««barg» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Blatt. «barg» so'zining nemischa tarjimasi — «Blatt»."
     },
@@ -14356,6 +14953,7 @@ const nemisTili = {
           "text": "«reich» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Stein» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tosh. «Stein» so'zi o'zbek tilida «tosh» deb tarjima qilinadi."
     },
@@ -14380,6 +14978,7 @@ const nemisTili = {
           "text": "«Schmetterling» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tosh» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Stein. «tosh» so'zining nemischa tarjimasi — «Stein»."
     },
@@ -14404,6 +15003,7 @@ const nemisTili = {
           "text": "«schwierig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Sand» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qum. «Sand» so'zi o'zbek tilida «qum» deb tarjima qilinadi."
     },
@@ -14428,6 +15028,7 @@ const nemisTili = {
           "text": "«langsam» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««qum» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Sand. «qum» so'zining nemischa tarjimasi — «Sand»."
     },
@@ -14452,6 +15053,7 @@ const nemisTili = {
           "text": "«Regen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Regen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yomg'ir. «Regen» so'zi o'zbek tilida «yomg'ir» deb tarjima qilinadi."
     },
@@ -14476,6 +15078,7 @@ const nemisTili = {
           "text": "«yomg'ir» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yomg'ir» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Regen. «yomg'ir» so'zining nemischa tarjimasi — «Regen»."
     },
@@ -14500,6 +15103,7 @@ const nemisTili = {
           "text": "«Schnee» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Schnee» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qor. «Schnee» so'zi o'zbek tilida «qor» deb tarjima qilinadi."
     },
@@ -14524,6 +15128,7 @@ const nemisTili = {
           "text": "«qishloq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««qor» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schnee. «qor» so'zining nemischa tarjimasi — «Schnee»."
     },
@@ -14548,6 +15153,7 @@ const nemisTili = {
           "text": "«vorher» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Hund» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — it. «Hund» so'zi o'zbek tilida «it» deb tarjima qilinadi."
     },
@@ -14572,6 +15178,7 @@ const nemisTili = {
           "text": "«gesund» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««it» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Hund. «it» so'zining nemischa tarjimasi — «Hund»."
     },
@@ -14596,6 +15203,7 @@ const nemisTili = {
           "text": "«Fenster» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Katze» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — mushuk. «Katze» so'zi o'zbek tilida «mushuk» deb tarjima qilinadi."
     },
@@ -14620,6 +15228,7 @@ const nemisTili = {
           "text": "«Nacht» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««mushuk» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Katze. «mushuk» so'zining nemischa tarjimasi — «Katze»."
     },
@@ -14644,6 +15253,7 @@ const nemisTili = {
           "text": "«früh» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Pferd» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ot. «Pferd» so'zi o'zbek tilida «ot» deb tarjima qilinadi."
     },
@@ -14668,6 +15278,7 @@ const nemisTili = {
           "text": "«boy» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ot» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Pferd. «ot» so'zining nemischa tarjimasi — «Pferd»."
     },
@@ -14692,6 +15303,7 @@ const nemisTili = {
           "text": "«sovuq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Kuh» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sigir. «Kuh» so'zi o'zbek tilida «sigir» deb tarjima qilinadi."
     },
@@ -14716,6 +15328,7 @@ const nemisTili = {
           "text": "«uy» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sigir» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Kuh. «sigir» so'zining nemischa tarjimasi — «Kuh»."
     },
@@ -14740,6 +15353,7 @@ const nemisTili = {
           "text": "«qahva» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Schaf» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qo'y. «Schaf» so'zi o'zbek tilida «qo'y» deb tarjima qilinadi."
     },
@@ -14764,6 +15378,7 @@ const nemisTili = {
           "text": "«qo'y» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««qo'y» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schaf. «qo'y» so'zining nemischa tarjimasi — «Schaf»."
     },
@@ -14788,6 +15403,7 @@ const nemisTili = {
           "text": "«echki» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Ziege» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — echki. «Ziege» so'zi o'zbek tilida «echki» deb tarjima qilinadi."
     },
@@ -14812,6 +15428,7 @@ const nemisTili = {
           "text": "«Vater» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««echki» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Ziege. «echki» so'zining nemischa tarjimasi — «Ziege»."
     },
@@ -14836,6 +15453,7 @@ const nemisTili = {
           "text": "«non» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Huhn» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tovuq. «Huhn» so'zi o'zbek tilida «tovuq» deb tarjima qilinadi."
     },
@@ -14860,6 +15478,7 @@ const nemisTili = {
           "text": "«qisqa» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tovuq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Huhn. «tovuq» so'zining nemischa tarjimasi — «Huhn»."
     },
@@ -14884,6 +15503,7 @@ const nemisTili = {
           "text": "«Hahn» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Hahn» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xo'roz. «Hahn» so'zi o'zbek tilida «xo'roz» deb tarjima qilinadi."
     },
@@ -14908,6 +15528,7 @@ const nemisTili = {
           "text": "«Mensch» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xo'roz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Hahn. «xo'roz» so'zining nemischa tarjimasi — «Hahn»."
     },
@@ -14932,6 +15553,7 @@ const nemisTili = {
           "text": "«indinga» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Vogel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qush. «Vogel» so'zi o'zbek tilida «qush» deb tarjima qilinadi."
     },
@@ -14956,6 +15578,7 @@ const nemisTili = {
           "text": "«einfach» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qush» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Vogel. «qush» so'zining nemischa tarjimasi — «Vogel»."
     },
@@ -14980,6 +15603,7 @@ const nemisTili = {
           "text": "«sovuq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Fisch» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — baliq. «Fisch» so'zi o'zbek tilida «baliq» deb tarjima qilinadi."
     },
@@ -15004,6 +15628,7 @@ const nemisTili = {
           "text": "«baliq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««baliq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Fisch. «baliq» so'zining nemischa tarjimasi — «Fisch»."
     },
@@ -15028,6 +15653,7 @@ const nemisTili = {
           "text": "«xush kelibsiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Löwe» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sher. «Löwe» so'zi o'zbek tilida «sher» deb tarjima qilinadi."
     },
@@ -15052,6 +15678,7 @@ const nemisTili = {
           "text": "«Fluss» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sher» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Löwe. «sher» so'zining nemischa tarjimasi — «Löwe»."
     },
@@ -15076,6 +15703,7 @@ const nemisTili = {
           "text": "«sher» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Tiger» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yo'lbars. «Tiger» so'zi o'zbek tilida «yo'lbars» deb tarjima qilinadi."
     },
@@ -15100,6 +15728,7 @@ const nemisTili = {
           "text": "«ko'rmoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yo'lbars» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tiger. «yo'lbars» so'zining nemischa tarjimasi — «Tiger»."
     },
@@ -15124,6 +15753,7 @@ const nemisTili = {
           "text": "«Elefant» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Elefant» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — fil. «Elefant» so'zi o'zbek tilida «fil» deb tarjima qilinadi."
     },
@@ -15148,6 +15778,7 @@ const nemisTili = {
           "text": "«fil» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««fil» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Elefant. «fil» so'zining nemischa tarjimasi — «Elefant»."
     },
@@ -15172,6 +15803,7 @@ const nemisTili = {
           "text": "«daryo» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Bär» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ayiq. «Bär» so'zi o'zbek tilida «ayiq» deb tarjima qilinadi."
     },
@@ -15196,6 +15828,7 @@ const nemisTili = {
           "text": "«isming nima» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ayiq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Bär. «ayiq» so'zining nemischa tarjimasi — «Bär»."
     },
@@ -15220,6 +15853,7 @@ const nemisTili = {
           "text": "«qush» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Wolf» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bo'ri. «Wolf» so'zi o'zbek tilida «bo'ri» deb tarjima qilinadi."
     },
@@ -15244,6 +15878,7 @@ const nemisTili = {
           "text": "«heiß» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««bo'ri» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Wolf. «bo'ri» so'zining nemischa tarjimasi — «Wolf»."
     },
@@ -15268,6 +15903,7 @@ const nemisTili = {
           "text": "«o'quvchi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Fuchs» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tulki. «Fuchs» so'zi o'zbek tilida «tulki» deb tarjima qilinadi."
     },
@@ -15292,6 +15928,7 @@ const nemisTili = {
           "text": "«Markt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tulki» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Fuchs. «tulki» so'zining nemischa tarjimasi — «Fuchs»."
     },
@@ -15316,6 +15953,7 @@ const nemisTili = {
           "text": "«Hase» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Hase» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — quyon. «Hase» so'zi o'zbek tilida «quyon» deb tarjima qilinadi."
     },
@@ -15340,6 +15978,7 @@ const nemisTili = {
           "text": "«stark» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««quyon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Hase. «quyon» so'zining nemischa tarjimasi — «Hase»."
     },
@@ -15364,6 +16003,7 @@ const nemisTili = {
           "text": "«Dorf» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Schlange» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ilon. «Schlange» so'zi o'zbek tilida «ilon» deb tarjima qilinadi."
     },
@@ -15388,6 +16028,7 @@ const nemisTili = {
           "text": "«ilon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ilon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schlange. «ilon» so'zining nemischa tarjimasi — «Schlange»."
     },
@@ -15412,6 +16053,7 @@ const nemisTili = {
           "text": "«Sonne» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Biene» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ari. «Biene» so'zi o'zbek tilida «ari» deb tarjima qilinadi."
     },
@@ -15436,6 +16078,7 @@ const nemisTili = {
           "text": "«rahmat» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ari» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Biene. «ari» so'zining nemischa tarjimasi — «Biene»."
     },
@@ -15460,6 +16103,7 @@ const nemisTili = {
           "text": "«Schmetterling» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Schmetterling» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kapalak. «Schmetterling» so'zi o'zbek tilida «kapalak» deb tarjima qilinadi."
     },
@@ -15484,6 +16128,7 @@ const nemisTili = {
           "text": "«Mann» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kapalak» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schmetterling. «kapalak» so'zining nemischa tarjimasi — «Schmetterling»."
     },
@@ -15508,6 +16153,7 @@ const nemisTili = {
           "text": "«Brot» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Brot» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — non. «Brot» so'zi o'zbek tilida «non» deb tarjima qilinadi."
     },
@@ -15532,6 +16178,7 @@ const nemisTili = {
           "text": "“Danke” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««non» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Brot. «non» so'zining nemischa tarjimasi — «Brot»."
     },
@@ -15556,6 +16203,7 @@ const nemisTili = {
           "text": "«Milch» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Milch» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sut. «Milch» so'zi o'zbek tilida «sut» deb tarjima qilinadi."
     },
@@ -15580,6 +16228,7 @@ const nemisTili = {
           "text": "«kasal» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««sut» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Milch. «sut» so'zining nemischa tarjimasi — «Milch»."
     },
@@ -15604,6 +16253,7 @@ const nemisTili = {
           "text": "«Tee» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Tee» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — choy. «Tee» so'zi o'zbek tilida «choy» deb tarjima qilinadi."
     },
@@ -15628,6 +16278,7 @@ const nemisTili = {
           "text": "«kalt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««choy» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tee. «choy» so'zining nemischa tarjimasi — «Tee»."
     },
@@ -15652,6 +16303,7 @@ const nemisTili = {
           "text": "«Schüler» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Kaffee» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qahva. «Kaffee» so'zi o'zbek tilida «qahva» deb tarjima qilinadi."
     },
@@ -15676,6 +16328,7 @@ const nemisTili = {
           "text": "“Ich ___ Student.” bo‘sh joyga mos fe’lni tanlang."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qahva» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Kaffee. «qahva» so'zining nemischa tarjimasi — «Kaffee»."
     },
@@ -15700,6 +16353,7 @@ const nemisTili = {
           "text": "«Fleisch» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Fleisch» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — go'sht. «Fleisch» so'zi o'zbek tilida «go'sht» deb tarjima qilinadi."
     },
@@ -15724,6 +16378,7 @@ const nemisTili = {
           "text": "«oson» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««go'sht» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Fleisch. «go'sht» so'zining nemischa tarjimasi — «Fleisch»."
     },
@@ -15748,6 +16403,7 @@ const nemisTili = {
           "text": "«Reis» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Reis» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — guruch. «Reis» so'zi o'zbek tilida «guruch» deb tarjima qilinadi."
     },
@@ -15772,6 +16428,7 @@ const nemisTili = {
           "text": "«nol» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««guruch» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Reis. «guruch» so'zining nemischa tarjimasi — «Reis»."
     },
@@ -15796,6 +16453,7 @@ const nemisTili = {
           "text": "«kasal» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Suppe» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sho'rva. «Suppe» so'zi o'zbek tilida «sho'rva» deb tarjima qilinadi."
     },
@@ -15820,6 +16478,7 @@ const nemisTili = {
           "text": "«stul» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sho'rva» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Suppe. «sho'rva» so'zining nemischa tarjimasi — «Suppe»."
     },
@@ -15844,6 +16503,7 @@ const nemisTili = {
           "text": "«Salat» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Salat» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — salad. «Salat» so'zi o'zbek tilida «salad» deb tarjima qilinadi."
     },
@@ -15868,6 +16528,7 @@ const nemisTili = {
           "text": "«salad» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««salad» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Salat. «salad» so'zining nemischa tarjimasi — «Salat»."
     },
@@ -15892,6 +16553,7 @@ const nemisTili = {
           "text": "«jung» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Obst» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — meva. «Obst» so'zi o'zbek tilida «meva» deb tarjima qilinadi."
     },
@@ -15916,6 +16578,7 @@ const nemisTili = {
           "text": "«kasallikxona» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««meva» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Obst. «meva» so'zining nemischa tarjimasi — «Obst»."
     },
@@ -15940,6 +16603,7 @@ const nemisTili = {
           "text": "«sevgi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Apfel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — olma. «Apfel» so'zi o'zbek tilida «olma» deb tarjima qilinadi."
     },
@@ -15964,6 +16628,7 @@ const nemisTili = {
           "text": "«olma» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««olma» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Apfel. «olma» so'zining nemischa tarjimasi — «Apfel»."
     },
@@ -15988,6 +16653,7 @@ const nemisTili = {
           "text": "«Birne» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Birne» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — nok. «Birne» so'zi o'zbek tilida «nok» deb tarjima qilinadi."
     },
@@ -16012,6 +16678,7 @@ const nemisTili = {
           "text": "«nok» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««nok» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Birne. «nok» so'zining nemischa tarjimasi — «Birne»."
     },
@@ -16036,6 +16703,7 @@ const nemisTili = {
           "text": "«Stuhl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Traube» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uzum. «Traube» so'zi o'zbek tilida «uzum» deb tarjima qilinadi."
     },
@@ -16060,6 +16728,7 @@ const nemisTili = {
           "text": "«ich heiße» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««uzum» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Traube. «uzum» so'zining nemischa tarjimasi — «Traube»."
     },
@@ -16084,6 +16753,7 @@ const nemisTili = {
           "text": "«kartoshka» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Orange» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — apelsin. «Orange» so'zi o'zbek tilida «apelsin» deb tarjima qilinadi."
     },
@@ -16108,6 +16778,7 @@ const nemisTili = {
           "text": "«apelsin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««apelsin» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Orange. «apelsin» so'zining nemischa tarjimasi — «Orange»."
     },
@@ -16132,6 +16803,7 @@ const nemisTili = {
           "text": "«Banane» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Banane» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — banan. «Banane» so'zi o'zbek tilida «banan» deb tarjima qilinadi."
     },
@@ -16156,6 +16828,7 @@ const nemisTili = {
           "text": "«banan» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««banan» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Banane. «banan» so'zining nemischa tarjimasi — «Banane»."
     },
@@ -16180,6 +16853,7 @@ const nemisTili = {
           "text": "«Mensch» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Tomate» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — pomidor. «Tomate» so'zi o'zbek tilida «pomidor» deb tarjima qilinadi."
     },
@@ -16204,6 +16878,7 @@ const nemisTili = {
           "text": "«Blatt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««pomidor» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tomate. «pomidor» so'zining nemischa tarjimasi — «Tomate»."
     },
@@ -16228,6 +16903,7 @@ const nemisTili = {
           "text": "«alt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Kartoffel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kartoshka. «Kartoffel» so'zi o'zbek tilida «kartoshka» deb tarjima qilinadi."
     },
@@ -16252,6 +16928,7 @@ const nemisTili = {
           "text": "«sevgi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kartoshka» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Kartoffel. «kartoshka» so'zining nemischa tarjimasi — «Kartoffel»."
     },
@@ -16276,6 +16953,7 @@ const nemisTili = {
           "text": "«shifokor» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Zwiebel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — piyoz. «Zwiebel» so'zi o'zbek tilida «piyoz» deb tarjima qilinadi."
     },
@@ -16300,6 +16978,7 @@ const nemisTili = {
           "text": "«sechs» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««piyoz» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Zwiebel. «piyoz» so'zining nemischa tarjimasi — «Zwiebel»."
     },
@@ -16324,6 +17003,7 @@ const nemisTili = {
           "text": "«Zucker» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Zucker» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — shakar. «Zucker» so'zi o'zbek tilida «shakar» deb tarjima qilinadi."
     },
@@ -16348,6 +17028,7 @@ const nemisTili = {
           "text": "«nol» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««shakar» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Zucker. «shakar» so'zining nemischa tarjimasi — «Zucker»."
     },
@@ -16372,6 +17053,7 @@ const nemisTili = {
           "text": "«Tür» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Haus» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uy. «Haus» so'zi o'zbek tilida «uy» deb tarjima qilinadi."
     },
@@ -16396,6 +17078,7 @@ const nemisTili = {
           "text": "«ilon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««uy» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Haus. «uy» so'zining nemischa tarjimasi — «Haus»."
     },
@@ -16420,6 +17103,7 @@ const nemisTili = {
           "text": "«Mittag» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Tür» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — eshik. «Tür» so'zi o'zbek tilida «eshik» deb tarjima qilinadi."
     },
@@ -16444,6 +17128,7 @@ const nemisTili = {
           "text": "Nemis tilida barcha otlar qanday yoziladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««eshik» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tür. «eshik» so'zining nemischa tarjimasi — «Tür»."
     },
@@ -16468,6 +17153,7 @@ const nemisTili = {
           "text": "«meva» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Fenster» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — deraza. «Fenster» so'zi o'zbek tilida «deraza» deb tarjima qilinadi."
     },
@@ -16492,6 +17178,7 @@ const nemisTili = {
           "text": "«Berg» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««deraza» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Fenster. «deraza» so'zining nemischa tarjimasi — «Fenster»."
     },
@@ -16516,6 +17203,7 @@ const nemisTili = {
           "text": "«lang» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Tisch» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — stol. «Tisch» so'zi o'zbek tilida «stol» deb tarjima qilinadi."
     },
@@ -16540,6 +17228,7 @@ const nemisTili = {
           "text": "«Blume» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««stol» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tisch. «stol» so'zining nemischa tarjimasi — «Tisch»."
     },
@@ -16564,6 +17253,7 @@ const nemisTili = {
           "text": "«Orange» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Stuhl» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — stul. «Stuhl» so'zi o'zbek tilida «stul» deb tarjima qilinadi."
     },
@@ -16588,6 +17278,7 @@ const nemisTili = {
           "text": "«stul» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««stul» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Stuhl. «stul» so'zining nemischa tarjimasi — «Stuhl»."
     },
@@ -16612,6 +17303,7 @@ const nemisTili = {
           "text": "«guten Abend» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Bett» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — krovat. «Bett» so'zi o'zbek tilida «krovat» deb tarjima qilinadi."
     },
@@ -16636,6 +17328,7 @@ const nemisTili = {
           "text": "«havo» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««krovat» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Bett. «krovat» so'zining nemischa tarjimasi — «Bett»."
     },
@@ -16660,6 +17353,7 @@ const nemisTili = {
           "text": "«xunuk» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Buch» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kitob. «Buch» so'zi o'zbek tilida «kitob» deb tarjima qilinadi."
     },
@@ -16684,6 +17378,7 @@ const nemisTili = {
           "text": "«Apfel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kitob» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Buch. «kitob» so'zining nemischa tarjimasi — «Buch»."
     },
@@ -16708,6 +17403,7 @@ const nemisTili = {
           "text": "«kasallikxona» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Stift» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qalam. «Stift» so'zi o'zbek tilida «qalam» deb tarjima qilinadi."
     },
@@ -16732,6 +17428,7 @@ const nemisTili = {
           "text": "«sog'lom» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qalam» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Stift. «qalam» so'zining nemischa tarjimasi — «Stift»."
     },
@@ -16756,6 +17453,7 @@ const nemisTili = {
           "text": "«Heft» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Heft» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daftar. «Heft» so'zi o'zbek tilida «daftar» deb tarjima qilinadi."
     },
@@ -16780,6 +17478,7 @@ const nemisTili = {
           "text": "«bis später» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««daftar» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Heft. «daftar» so'zining nemischa tarjimasi — «Heft»."
     },
@@ -16804,6 +17503,7 @@ const nemisTili = {
           "text": "«Tasche» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Tasche» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sumka. «Tasche» so'zi o'zbek tilida «sumka» deb tarjima qilinadi."
     },
@@ -16828,6 +17528,7 @@ const nemisTili = {
           "text": "«vier» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sumka» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Tasche. «sumka» so'zining nemischa tarjimasi — «Tasche»."
     },
@@ -16852,6 +17553,7 @@ const nemisTili = {
           "text": "«Markt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Schlüssel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kalit. «Schlüssel» so'zi o'zbek tilida «kalit» deb tarjima qilinadi."
     },
@@ -16876,6 +17578,7 @@ const nemisTili = {
           "text": "«kommen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kalit» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schlüssel. «kalit» so'zining nemischa tarjimasi — «Schlüssel»."
     },
@@ -16900,6 +17603,7 @@ const nemisTili = {
           "text": "«keyin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Telefon» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — telefon. «Telefon» so'zi o'zbek tilida «telefon» deb tarjima qilinadi."
     },
@@ -16924,6 +17628,7 @@ const nemisTili = {
           "text": "«telefon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««telefon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Telefon. «telefon» so'zining nemischa tarjimasi — «Telefon»."
     },
@@ -16948,6 +17653,7 @@ const nemisTili = {
           "text": "«tez» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Computer» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kompyuter. «Computer» so'zi o'zbek tilida «kompyuter» deb tarjima qilinadi."
     },
@@ -16972,6 +17678,7 @@ const nemisTili = {
           "text": "«Minute» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kompyuter» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Computer. «kompyuter» so'zining nemischa tarjimasi — «Computer»."
     },
@@ -16996,6 +17703,7 @@ const nemisTili = {
           "text": "«yarim» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Auto» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — mashina. «Auto» so'zi o'zbek tilida «mashina» deb tarjima qilinadi."
     },
@@ -17020,6 +17728,7 @@ const nemisTili = {
           "text": "«freut mich» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««mashina» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Auto. «mashina» so'zining nemischa tarjimasi — «Auto»."
     },
@@ -17044,6 +17753,7 @@ const nemisTili = {
           "text": "«xush kelibsiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««Straße» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yo'l. «Straße» so'zi o'zbek tilida «yo'l» deb tarjima qilinadi."
     },
@@ -17068,6 +17778,7 @@ const nemisTili = {
           "text": "«tschüss» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yo'l» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Straße. «yo'l» so'zining nemischa tarjimasi — «Straße»."
     },
@@ -17092,6 +17803,7 @@ const nemisTili = {
           "text": "«Stadt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Stadt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — shahar. «Stadt» so'zi o'zbek tilida «shahar» deb tarjima qilinadi."
     },
@@ -17116,6 +17828,7 @@ const nemisTili = {
           "text": "«yaxshi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««shahar» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Stadt. «shahar» so'zining nemischa tarjimasi — «Stadt»."
     },
@@ -17140,6 +17853,7 @@ const nemisTili = {
           "text": "«Dorf» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Dorf» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qishloq. «Dorf» so'zi o'zbek tilida «qishloq» deb tarjima qilinadi."
     },
@@ -17164,6 +17878,7 @@ const nemisTili = {
           "text": "«oila» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««qishloq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Dorf. «qishloq» so'zining nemischa tarjimasi — «Dorf»."
     },
@@ -17188,6 +17903,7 @@ const nemisTili = {
           "text": "«qiyin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Schule» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — maktab. «Schule» so'zi o'zbek tilida «maktab» deb tarjima qilinadi."
     },
@@ -17212,6 +17928,7 @@ const nemisTili = {
           "text": "«piyoz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««maktab» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Schule. «maktab» so'zining nemischa tarjimasi — «Schule»."
     },
@@ -17236,6 +17953,7 @@ const nemisTili = {
           "text": "«daryo» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Krankenhaus» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kasallikxona. «Krankenhaus» so'zi o'zbek tilida «kasallikxona» deb tarjima qilinadi."
     },
@@ -17260,6 +17978,7 @@ const nemisTili = {
           "text": "«Fluss» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kasallikxona» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Krankenhaus. «kasallikxona» so'zining nemischa tarjimasi — «Krankenhaus»."
     },
@@ -17284,6 +18003,7 @@ const nemisTili = {
           "text": "«yo'q» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Markt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — do'kon. «Markt» so'zi o'zbek tilida «do'kon» deb tarjima qilinadi."
     },
@@ -17308,6 +18028,7 @@ const nemisTili = {
           "text": "«dengiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««do'kon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Markt. «do'kon» so'zining nemischa tarjimasi — «Markt»."
     },
@@ -17332,6 +18053,7 @@ const nemisTili = {
           "text": "«soniya» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««gehen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bormoq. «gehen» so'zi o'zbek tilida «bormoq» deb tarjima qilinadi."
     },
@@ -17356,6 +18078,7 @@ const nemisTili = {
           "text": "«olma» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««bormoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — gehen. «bormoq» so'zining nemischa tarjimasi — «gehen»."
     },
@@ -17380,6 +18103,7 @@ const nemisTili = {
           "text": "«fünf» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kommen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kelmoq. «kommen» so'zi o'zbek tilida «kelmoq» deb tarjima qilinadi."
     },
@@ -17404,6 +18128,7 @@ const nemisTili = {
           "text": "«yaxshiman» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kelmoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — kommen. «kelmoq» so'zining nemischa tarjimasi — «kommen»."
     },
@@ -17428,6 +18153,7 @@ const nemisTili = {
           "text": "«immer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««essen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yemoq. «essen» so'zi o'zbek tilida «yemoq» deb tarjima qilinadi."
     },
@@ -17452,6 +18178,7 @@ const nemisTili = {
           "text": "«yemoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yemoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — essen. «yemoq» so'zining nemischa tarjimasi — «essen»."
     },
@@ -17476,6 +18203,7 @@ const nemisTili = {
           "text": "«tushlik» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««trinken» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ichmoq. «trinken» so'zi o'zbek tilida «ichmoq» deb tarjima qilinadi."
     },
@@ -17500,6 +18228,7 @@ const nemisTili = {
           "text": "«ichmoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ichmoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — trinken. «ichmoq» so'zining nemischa tarjimasi — «trinken»."
     },
@@ -17524,6 +18253,7 @@ const nemisTili = {
           "text": "«Banane» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««lesen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'qimoq. «lesen» so'zi o'zbek tilida «o'qimoq» deb tarjima qilinadi."
     },
@@ -17548,6 +18278,7 @@ const nemisTili = {
           "text": "«ona» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««o'qimoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — lesen. «o'qimoq» so'zining nemischa tarjimasi — «lesen»."
     },
@@ -17572,6 +18303,7 @@ const nemisTili = {
           "text": "«Schüler» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««schreiben» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yozmoq. «schreiben» so'zi o'zbek tilida «yozmoq» deb tarjima qilinadi."
     },
@@ -17596,6 +18328,7 @@ const nemisTili = {
           "text": "«Schlange» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yozmoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — schreiben. «yozmoq» so'zining nemischa tarjimasi — «schreiben»."
     },
@@ -17620,6 +18353,7 @@ const nemisTili = {
           "text": "«Hund» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sehen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ko'rmoq. «sehen» so'zi o'zbek tilida «ko'rmoq» deb tarjima qilinadi."
     },
@@ -17644,6 +18378,7 @@ const nemisTili = {
           "text": "«do'stlik» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ko'rmoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — sehen. «ko'rmoq» so'zining nemischa tarjimasi — «sehen»."
     },
@@ -17668,6 +18403,7 @@ const nemisTili = {
           "text": "«o'g'il» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««wissen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bilmoq. «wissen» so'zi o'zbek tilida «bilmoq» deb tarjima qilinadi."
     },
@@ -17692,6 +18428,7 @@ const nemisTili = {
           "text": "«bilmoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««bilmoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — wissen. «bilmoq» so'zining nemischa tarjimasi — «wissen»."
     },
@@ -17716,6 +18453,7 @@ const nemisTili = {
           "text": "«tuproq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««wollen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xohlamoq. «wollen» so'zi o'zbek tilida «xohlamoq» deb tarjima qilinadi."
     },
@@ -17740,6 +18478,7 @@ const nemisTili = {
           "text": "«xohlamoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««xohlamoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — wollen. «xohlamoq» so'zining nemischa tarjimasi — «wollen»."
     },
@@ -17764,6 +18503,7 @@ const nemisTili = {
           "text": "«keyin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««lieben» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sevmoq. «lieben» so'zi o'zbek tilida «sevmoq» deb tarjima qilinadi."
     },
@@ -17788,6 +18528,7 @@ const nemisTili = {
           "text": "«ich heiße» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sevmoq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — lieben. «sevmoq» so'zining nemischa tarjimasi — «lieben»."
     },
@@ -17812,6 +18553,7 @@ const nemisTili = {
           "text": "«groß» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««groß» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — katta. «groß» so'zi o'zbek tilida «katta» deb tarjima qilinadi."
     },
@@ -17836,6 +18578,7 @@ const nemisTili = {
           "text": "«nein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««katta» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — groß. «katta» so'zining nemischa tarjimasi — «groß»."
     },
@@ -17860,6 +18603,7 @@ const nemisTili = {
           "text": "«klein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««klein» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kichik. «klein» so'zi o'zbek tilida «kichik» deb tarjima qilinadi."
     },
@@ -17884,6 +18628,7 @@ const nemisTili = {
           "text": "«kichik» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kichik» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — klein. «kichik» so'zining nemischa tarjimasi — «klein»."
     },
@@ -17908,6 +18653,7 @@ const nemisTili = {
           "text": "«gut» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««gut» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yaxshi. «gut» so'zi o'zbek tilida «yaxshi» deb tarjima qilinadi."
     },
@@ -17932,6 +18678,7 @@ const nemisTili = {
           "text": "«schlecht» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««schlecht» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yomon. «schlecht» so'zi o'zbek tilida «yomon» deb tarjima qilinadi."
     },
@@ -17956,6 +18703,7 @@ const nemisTili = {
           "text": "«yomon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yomon» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — schlecht. «yomon» so'zining nemischa tarjimasi — «schlecht»."
     },
@@ -17980,6 +18728,7 @@ const nemisTili = {
           "text": "«ishchi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««neu» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yangi. «neu» so'zi o'zbek tilida «yangi» deb tarjima qilinadi."
     },
@@ -18004,6 +18753,7 @@ const nemisTili = {
           "text": "«yangi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yangi» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — neu. «yangi» so'zining nemischa tarjimasi — «neu»."
     },
@@ -18028,6 +18778,7 @@ const nemisTili = {
           "text": "«alt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««alt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — eski. «alt» so'zi o'zbek tilida «eski» deb tarjima qilinadi."
     },
@@ -18052,6 +18803,7 @@ const nemisTili = {
           "text": "«eski» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««eski» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — alt. «eski» so'zining nemischa tarjimasi — «alt»."
     },
@@ -18076,6 +18828,7 @@ const nemisTili = {
           "text": "«schön» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««schön» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — chiroyli. «schön» so'zi o'zbek tilida «chiroyli» deb tarjima qilinadi."
     },
@@ -18100,6 +18853,7 @@ const nemisTili = {
           "text": "«kalit» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««chiroyli» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — schön. «chiroyli» so'zining nemischa tarjimasi — «schön»."
     },
@@ -18124,6 +18878,7 @@ const nemisTili = {
           "text": "«kalt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««hässlich» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xunuk. «hässlich» so'zi o'zbek tilida «xunuk» deb tarjima qilinadi."
     },
@@ -18148,6 +18903,7 @@ const nemisTili = {
           "text": "«Suppe» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xunuk» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — hässlich. «xunuk» so'zining nemischa tarjimasi — «hässlich»."
     },
@@ -18172,6 +18928,7 @@ const nemisTili = {
           "text": "«yaxshi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««heiß» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — issiq. «heiß» so'zi o'zbek tilida «issiq» deb tarjima qilinadi."
     },
@@ -18196,6 +18953,7 @@ const nemisTili = {
           "text": "«kasal» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««issiq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — heiß. «issiq» so'zining nemischa tarjimasi — «heiß»."
     },
@@ -18220,6 +18978,7 @@ const nemisTili = {
           "text": "«Kaffee» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kalt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sovuq. «kalt» so'zi o'zbek tilida «sovuq» deb tarjima qilinadi."
     },
@@ -18244,6 +19003,7 @@ const nemisTili = {
           "text": "«muhandis» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sovuq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — kalt. «sovuq» so'zining nemischa tarjimasi — «kalt»."
     },
@@ -18268,6 +19028,7 @@ const nemisTili = {
           "text": "«Tochter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««offen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ochiq. «offen» so'zi o'zbek tilida «ochiq» deb tarjima qilinadi."
     },
@@ -18292,6 +19053,7 @@ const nemisTili = {
           "text": "«dehqon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ochiq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — offen. «ochiq» so'zining nemischa tarjimasi — «offen»."
     },
@@ -18316,6 +19078,7 @@ const nemisTili = {
           "text": "«geschlossen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««geschlossen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yopiq. «geschlossen» so'zi o'zbek tilida «yopiq» deb tarjima qilinadi."
     },
@@ -18340,6 +19103,7 @@ const nemisTili = {
           "text": "«yopiq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yopiq» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — geschlossen. «yopiq» so'zining nemischa tarjimasi — «geschlossen»."
     },
@@ -18364,6 +19128,7 @@ const nemisTili = {
           "text": "«schnell» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««lang» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uzun. «lang» so'zi o'zbek tilida «uzun» deb tarjima qilinadi."
     },
@@ -18388,6 +19153,7 @@ const nemisTili = {
           "text": "«yigirma» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««uzun» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — lang. «uzun» so'zining nemischa tarjimasi — «lang»."
     },
@@ -18412,6 +19178,7 @@ const nemisTili = {
           "text": "«Schnee» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kurz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qisqa. «kurz» so'zi o'zbek tilida «qisqa» deb tarjima qilinadi."
     },
@@ -18436,6 +19203,7 @@ const nemisTili = {
           "text": "“Ich ___ Student.” bo‘sh joyga mos fe’lni tanlang."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qisqa» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — kurz. «qisqa» so'zining nemischa tarjimasi — «kurz»."
     },
@@ -18460,6 +19228,7 @@ const nemisTili = {
           "text": "«schnell» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««schnell» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tez. «schnell» so'zi o'zbek tilida «tez» deb tarjima qilinadi."
     },
@@ -18484,6 +19253,7 @@ const nemisTili = {
           "text": "«Bett» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tez» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — schnell. «tez» so'zining nemischa tarjimasi — «schnell»."
     },
@@ -18508,6 +19278,7 @@ const nemisTili = {
           "text": "«ot» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««langsam» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sekin. «langsam» so'zi o'zbek tilida «sekin» deb tarjima qilinadi."
     },
@@ -18532,6 +19303,7 @@ const nemisTili = {
           "text": "«nein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sekin» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — langsam. «sekin» so'zining nemischa tarjimasi — «langsam»."
     },
@@ -18556,6 +19328,7 @@ const nemisTili = {
           "text": "«tuproq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««einfach» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oson. «einfach» so'zi o'zbek tilida «oson» deb tarjima qilinadi."
     },
@@ -18580,6 +19353,7 @@ const nemisTili = {
           "text": "«oson» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««oson» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — einfach. «oson» so'zining nemischa tarjimasi — «einfach»."
     },
@@ -18604,6 +19378,7 @@ const nemisTili = {
           "text": "«kechirasiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««schwierig» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qiyin. «schwierig» so'zi o'zbek tilida «qiyin» deb tarjima qilinadi."
     },
@@ -18628,6 +19403,7 @@ const nemisTili = {
           "text": "«Tasche» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««qiyin» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — schwierig. «qiyin» so'zining nemischa tarjimasi — «schwierig»."
     },
@@ -18652,6 +19428,7 @@ const nemisTili = {
           "text": "«schreiben» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««richtig» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — to'g'ri. «richtig» so'zi o'zbek tilida «to'g'ri» deb tarjima qilinadi."
     },
@@ -18676,6 +19453,7 @@ const nemisTili = {
           "text": "«xohlamoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««to'g'ri» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — richtig. «to'g'ri» so'zining nemischa tarjimasi — «richtig»."
     },
@@ -18700,6 +19478,7 @@ const nemisTili = {
           "text": "«Blume» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««falsch» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — noto'g'ri. «falsch» so'zi o'zbek tilida «noto'g'ri» deb tarjima qilinadi."
     },
@@ -18724,6 +19503,7 @@ const nemisTili = {
           "text": "«xush kelibsiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««noto'g'ri» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — falsch. «noto'g'ri» so'zining nemischa tarjimasi — «falsch»."
     },
@@ -18748,6 +19528,7 @@ const nemisTili = {
           "text": "«tausend» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««glücklich» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xursand. «glücklich» so'zi o'zbek tilida «xursand» deb tarjima qilinadi."
     },
@@ -18772,6 +19553,7 @@ const nemisTili = {
           "text": "«xursand» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««xursand» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — glücklich. «xursand» so'zining nemischa tarjimasi — «glücklich»."
     },
@@ -18796,6 +19578,7 @@ const nemisTili = {
           "text": "«xunuk» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««traurig» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xafa. «traurig» so'zi o'zbek tilida «xafa» deb tarjima qilinadi."
     },
@@ -18820,6 +19603,7 @@ const nemisTili = {
           "text": "«ich heiße» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««xafa» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — traurig. «xafa» so'zining nemischa tarjimasi — «traurig»."
     },
@@ -18844,6 +19628,7 @@ const nemisTili = {
           "text": "«Mond» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««reich» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — boy. «reich» so'zi o'zbek tilida «boy» deb tarjima qilinadi."
     },
@@ -18868,6 +19653,7 @@ const nemisTili = {
           "text": "«issiq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««boy» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — reich. «boy» so'zining nemischa tarjimasi — «reich»."
     },
@@ -18892,6 +19678,7 @@ const nemisTili = {
           "text": "«arm» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««arm» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kambag'al. «arm» so'zi o'zbek tilida «kambag'al» deb tarjima qilinadi."
     },
@@ -18916,6 +19703,7 @@ const nemisTili = {
           "text": "«kambag'al» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kambag'al» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — arm. «kambag'al» so'zining nemischa tarjimasi — «arm»."
     },
@@ -18940,6 +19728,7 @@ const nemisTili = {
           "text": "«kecha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««jung» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yosh. «jung» so'zi o'zbek tilida «yosh» deb tarjima qilinadi."
     },
@@ -18964,6 +19753,7 @@ const nemisTili = {
           "text": "«daqiqa» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yosh» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — jung. «yosh» so'zining nemischa tarjimasi — «jung»."
     },
@@ -18988,6 +19778,7 @@ const nemisTili = {
           "text": "«Tochter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««Mensch» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — inson. «Mensch» so'zi o'zbek tilida «inson» deb tarjima qilinadi."
     },
@@ -19012,6 +19803,7 @@ const nemisTili = {
           "text": "«go'sht» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««inson» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Mensch. «inson» so'zining nemischa tarjimasi — «Mensch»."
     },
@@ -19036,6 +19828,7 @@ const nemisTili = {
           "text": "«yosh» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Freundschaft» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — do'stlik. «Freundschaft» so'zi o'zbek tilida «do'stlik» deb tarjima qilinadi."
     },
@@ -19060,6 +19853,7 @@ const nemisTili = {
           "text": "«do'stlik» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««do'stlik» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Freundschaft. «do'stlik» so'zining nemischa tarjimasi — «Freundschaft»."
     },
@@ -19084,6 +19878,7 @@ const nemisTili = {
           "text": "«Erde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««Liebe» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sevgi. «Liebe» so'zi o'zbek tilida «sevgi» deb tarjima qilinadi."
     },
@@ -19108,6 +19903,7 @@ const nemisTili = {
           "text": "«nein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sevgi» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Liebe. «sevgi» so'zining nemischa tarjimasi — «Liebe»."
     },
@@ -19132,6 +19928,7 @@ const nemisTili = {
           "text": "«Frieden» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««Frieden» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tinchlik. «Frieden» so'zi o'zbek tilida «tinchlik» deb tarjima qilinadi."
     },
@@ -19156,6 +19953,7 @@ const nemisTili = {
           "text": "«kechirasiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tinchlik» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — Frieden. «tinchlik» so'zining nemischa tarjimasi — «Frieden»."
     },
@@ -19180,6 +19978,7 @@ const nemisTili = {
           "text": "«Liebe» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««gesund» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sog'lom. «gesund» so'zi o'zbek tilida «sog'lom» deb tarjima qilinadi."
     },
@@ -19204,6 +20003,7 @@ const nemisTili = {
           "text": "«Tomate» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««sog'lom» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — gesund. «sog'lom» so'zining nemischa tarjimasi — «gesund»."
     },
@@ -19228,6 +20028,7 @@ const nemisTili = {
           "text": "«Schule» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««krank» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kasal. «krank» so'zi o'zbek tilida «kasal» deb tarjima qilinadi."
     },
@@ -19252,6 +20053,7 @@ const nemisTili = {
           "text": "«kalit» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kasal» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — krank. «kasal» so'zining nemischa tarjimasi — «krank»."
     },
@@ -19276,6 +20078,7 @@ const nemisTili = {
           "text": "«erta» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««stark» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kuchli. «stark» so'zi o'zbek tilida «kuchli» deb tarjima qilinadi."
     },
@@ -19300,6 +20103,7 @@ const nemisTili = {
           "text": "«tschüss» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kuchli» so'zining nemischa tarjimasi qaysi?» savolining to'g'ri javobi — stark. «kuchli» so'zining nemischa tarjimasi — «stark»."
     },
@@ -19324,6 +20128,7 @@ const nemisTili = {
           "text": "«Morgen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "To'g'ri javob: Salom."
     },
@@ -19348,6 +20153,7 @@ const nemisTili = {
           "text": "“Danke” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'g'ri javob: Rahmat."
     },
@@ -19372,6 +20178,7 @@ const nemisTili = {
           "text": "Nemis tilida barcha otlar qanday yoziladi?"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "To'g'ri javob: Bosh harf bilan."
     },
@@ -19396,6 +20203,7 @@ const nemisTili = {
           "text": "“Ich ___ Student.” bo‘sh joyga mos fe’lni tanlang."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "To'g'ri javob: bin."
     },
@@ -19420,6 +20228,7 @@ const nemisTili = {
           "text": "«hallo» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«hallo» so'zi o'zbek tilida «salom» deb tarjima qilinadi."
     },
@@ -19444,6 +20253,7 @@ const nemisTili = {
           "text": "«Bauer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«salom» so'zining nemischa tarjimasi — «hallo»."
     },
@@ -19468,6 +20278,7 @@ const nemisTili = {
           "text": "«später» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«guten Morgen» so'zi o'zbek tilida «xayrli tong» deb tarjima qilinadi."
     },
@@ -19492,6 +20303,7 @@ const nemisTili = {
           "text": "«yemoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xayrli tong» so'zining nemischa tarjimasi — «guten Morgen»."
     },
@@ -19516,6 +20328,7 @@ const nemisTili = {
           "text": "«Obst» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«guten Abend» so'zi o'zbek tilida «xayrli kech» deb tarjima qilinadi."
     },
@@ -19540,6 +20353,7 @@ const nemisTili = {
           "text": "«offen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«xayrli kech» so'zining nemischa tarjimasi — «guten Abend»."
     },
@@ -19564,6 +20378,7 @@ const nemisTili = {
           "text": "«Fluss» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«willkommen» so'zi o'zbek tilida «xush kelibsiz» deb tarjima qilinadi."
     },
@@ -19588,6 +20403,7 @@ const nemisTili = {
           "text": "«Huhn» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«xush kelibsiz» so'zining nemischa tarjimasi — «willkommen»."
     },
@@ -19612,6 +20428,7 @@ const nemisTili = {
           "text": "«danke» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«danke» so'zi o'zbek tilida «rahmat» deb tarjima qilinadi."
     },
@@ -19636,6 +20453,7 @@ const nemisTili = {
           "text": "«rahmat» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«rahmat» so'zining nemischa tarjimasi — «danke»."
     },
@@ -19660,6 +20478,7 @@ const nemisTili = {
           "text": "«Tasche» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bitte» so'zi o'zbek tilida «iltimos» deb tarjima qilinadi."
     },
@@ -19684,6 +20503,7 @@ const nemisTili = {
           "text": "«iltimos» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«iltimos» so'zining nemischa tarjimasi — «bitte»."
     },
@@ -19708,6 +20528,7 @@ const nemisTili = {
           "text": "«sumka» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ja» so'zi o'zbek tilida «ha» deb tarjima qilinadi."
     },
@@ -19732,6 +20553,7 @@ const nemisTili = {
           "text": "«einen Moment» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ha» so'zining nemischa tarjimasi — «ja»."
     },
@@ -19756,6 +20578,7 @@ const nemisTili = {
           "text": "«qiyin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«nein» so'zi o'zbek tilida «yo'q» deb tarjima qilinadi."
     },
@@ -19780,6 +20603,7 @@ const nemisTili = {
           "text": "«einfach» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yo'q» so'zining nemischa tarjimasi — «nein»."
     },
@@ -19804,6 +20628,7 @@ const nemisTili = {
           "text": "«vielleicht» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«vielleicht» so'zi o'zbek tilida «balki» deb tarjima qilinadi."
     },
@@ -19828,6 +20653,7 @@ const nemisTili = {
           "text": "«yozmoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«balki» so'zining nemischa tarjimasi — «vielleicht»."
     },
@@ -19852,6 +20678,7 @@ const nemisTili = {
           "text": "«bitte» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«okay» so'zi o'zbek tilida «yaxshi» deb tarjima qilinadi."
     },
@@ -19876,6 +20703,7 @@ const nemisTili = {
           "text": "«qalam» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yaxshi» so'zining nemischa tarjimasi — «okay»."
     },
@@ -19900,6 +20728,7 @@ const nemisTili = {
           "text": "«Feuer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«wie geht's» so'zi o'zbek tilida «qalaysan» deb tarjima qilinadi."
     },
@@ -19924,6 +20753,7 @@ const nemisTili = {
           "text": "«Arzt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qalaysan» so'zining nemischa tarjimasi — «wie geht's»."
     },
@@ -19948,6 +20778,7 @@ const nemisTili = {
           "text": "«groß» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«mir geht es gut» so'zi o'zbek tilida «yaxshiman» deb tarjima qilinadi."
     },
@@ -19972,6 +20803,7 @@ const nemisTili = {
           "text": "«yaxshiman» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yaxshiman» so'zining nemischa tarjimasi — «mir geht es gut»."
     },
@@ -19996,6 +20828,7 @@ const nemisTili = {
           "text": "«bola» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«wie heißt du» so'zi o'zbek tilida «isming nima» deb tarjima qilinadi."
     },
@@ -20020,6 +20853,7 @@ const nemisTili = {
           "text": "«Stunde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«isming nima» so'zining nemischa tarjimasi — «wie heißt du»."
     },
@@ -20044,6 +20878,7 @@ const nemisTili = {
           "text": "«yopiq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ich heiße» so'zi o'zbek tilida «mening ismim» deb tarjima qilinadi."
     },
@@ -20068,6 +20903,7 @@ const nemisTili = {
           "text": "«mening ismim» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«mening ismim» so'zining nemischa tarjimasi — «ich heiße»."
     },
@@ -20092,6 +20928,7 @@ const nemisTili = {
           "text": "«daryo» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«freut mich» so'zi o'zbek tilida «tanishganimdan xursandman» deb tarjima qilinadi."
     },
@@ -20116,6 +20953,7 @@ const nemisTili = {
           "text": "«neun» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«tanishganimdan xursandman» so'zining nemischa tarjimasi — «freut mich»."
     },
@@ -20140,6 +20978,7 @@ const nemisTili = {
           "text": "«bis später» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bis später» so'zi o'zbek tilida «keyinroq ko'rishguncha» deb tarjima qilinadi."
     },
@@ -20164,6 +21003,7 @@ const nemisTili = {
           "text": "«keyinroq ko'rishguncha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«keyinroq ko'rishguncha» so'zining nemischa tarjimasi — «bis später»."
     },
@@ -20188,6 +21028,7 @@ const nemisTili = {
           "text": "«mashina» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tschüss» so'zi o'zbek tilida «xayr» deb tarjima qilinadi."
     },
@@ -20212,6 +21053,7 @@ const nemisTili = {
           "text": "«Großvater» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«xayr» so'zining nemischa tarjimasi — «tschüss»."
     },
@@ -20236,6 +21078,7 @@ const nemisTili = {
           "text": "«Markt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Entschuldigung» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -20260,6 +21103,7 @@ const nemisTili = {
           "text": "«Telefon» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kechirasiz» so'zining nemischa tarjimasi — «Entschuldigung»."
     },
@@ -20284,6 +21128,7 @@ const nemisTili = {
           "text": "«gestern» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«einen Moment» so'zi o'zbek tilida «bir daqiqa» deb tarjima qilinadi."
     },
@@ -20308,6 +21153,7 @@ const nemisTili = {
           "text": "«schwierig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bir daqiqa» so'zining nemischa tarjimasi — «einen Moment»."
     },
@@ -20332,6 +21178,7 @@ const nemisTili = {
           "text": "«guten Tag» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«guten Tag» so'zi o'zbek tilida «xayrli kun» deb tarjima qilinadi."
     },
@@ -20356,6 +21203,7 @@ const nemisTili = {
           "text": "«olti» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xayrli kun» so'zining nemischa tarjimasi — «guten Tag»."
     },
@@ -20380,6 +21228,7 @@ const nemisTili = {
           "text": "«Mutter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Mutter» so'zi o'zbek tilida «ona» deb tarjima qilinadi."
     },
@@ -20404,6 +21253,7 @@ const nemisTili = {
           "text": "«issiq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ona» so'zining nemischa tarjimasi — «Mutter»."
     },
@@ -20428,6 +21278,7 @@ const nemisTili = {
           "text": "“Hallo” so‘zining o‘zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Vater» so'zi o'zbek tilida «ota» deb tarjima qilinadi."
     },
@@ -20452,6 +21303,7 @@ const nemisTili = {
           "text": "«ot» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ota» so'zining nemischa tarjimasi — «Vater»."
     },
@@ -20476,6 +21328,7 @@ const nemisTili = {
           "text": "«Bruder» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Bruder» so'zi o'zbek tilida «aka yoki uka» deb tarjima qilinadi."
     },
@@ -20500,6 +21353,7 @@ const nemisTili = {
           "text": "«aka yoki uka» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«aka yoki uka» so'zining nemischa tarjimasi — «Bruder»."
     },
@@ -20524,6 +21378,7 @@ const nemisTili = {
           "text": "«Lehrer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Schwester» so'zi o'zbek tilida «opa yoki singil» deb tarjima qilinadi."
     },
@@ -20548,6 +21403,7 @@ const nemisTili = {
           "text": "«jung» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«opa yoki singil» so'zining nemischa tarjimasi — «Schwester»."
     },
@@ -20572,6 +21428,7 @@ const nemisTili = {
           "text": "«krovat» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Großvater» so'zi o'zbek tilida «bobo» deb tarjima qilinadi."
     },
@@ -20596,6 +21453,7 @@ const nemisTili = {
           "text": "«sumka» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bobo» so'zining nemischa tarjimasi — «Großvater»."
     },
@@ -20620,6 +21478,7 @@ const nemisTili = {
           "text": "«Großmutter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Großmutter» so'zi o'zbek tilida «buvi» deb tarjima qilinadi."
     },
@@ -20644,6 +21503,7 @@ const nemisTili = {
           "text": "«osmon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«buvi» so'zining nemischa tarjimasi — «Großmutter»."
     },
@@ -20668,6 +21528,7 @@ const nemisTili = {
           "text": "«Mittag» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Sohn» so'zi o'zbek tilida «o'g'il» deb tarjima qilinadi."
     },
@@ -20692,6 +21553,7 @@ const nemisTili = {
           "text": "«Arzt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«o'g'il» so'zining nemischa tarjimasi — «Sohn»."
     },
@@ -20716,6 +21578,7 @@ const nemisTili = {
           "text": "«fünf» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tochter» so'zi o'zbek tilida «qiz» deb tarjima qilinadi."
     },
@@ -20740,6 +21603,7 @@ const nemisTili = {
           "text": "«besh» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«qiz» so'zining nemischa tarjimasi — «Tochter»."
     },
@@ -20764,6 +21628,7 @@ const nemisTili = {
           "text": "«opa yoki singil» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kind» so'zi o'zbek tilida «bola» deb tarjima qilinadi."
     },
@@ -20788,6 +21653,7 @@ const nemisTili = {
           "text": "«Liebe» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bola» so'zining nemischa tarjimasi — «Kind»."
     },
@@ -20812,6 +21678,7 @@ const nemisTili = {
           "text": "«Baum» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Mann» so'zi o'zbek tilida «erkak» deb tarjima qilinadi."
     },
@@ -20836,6 +21703,7 @@ const nemisTili = {
           "text": "«erkak» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«erkak» so'zining nemischa tarjimasi — «Mann»."
     },
@@ -20860,6 +21728,7 @@ const nemisTili = {
           "text": "«oldin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Frau» so'zi o'zbek tilida «ayol» deb tarjima qilinadi."
     },
@@ -20884,6 +21753,7 @@ const nemisTili = {
           "text": "«ayol» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ayol» so'zining nemischa tarjimasi — «Frau»."
     },
@@ -20908,6 +21778,7 @@ const nemisTili = {
           "text": "«Freund» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Freund» so'zi o'zbek tilida «do'st» deb tarjima qilinadi."
     },
@@ -20932,6 +21803,7 @@ const nemisTili = {
           "text": "«do'st» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«do'st» so'zining nemischa tarjimasi — «Freund»."
     },
@@ -20956,6 +21828,7 @@ const nemisTili = {
           "text": "«oldin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Lehrer» so'zi o'zbek tilida «o'qituvchi» deb tarjima qilinadi."
     },
@@ -20980,6 +21853,7 @@ const nemisTili = {
           "text": "«vier» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'qituvchi» so'zining nemischa tarjimasi — «Lehrer»."
     },
@@ -21004,6 +21878,7 @@ const nemisTili = {
           "text": "«ha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Schüler» so'zi o'zbek tilida «o'quvchi» deb tarjima qilinadi."
     },
@@ -21028,6 +21903,7 @@ const nemisTili = {
           "text": "«Schlüssel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«o'quvchi» so'zining nemischa tarjimasi — «Schüler»."
     },
@@ -21052,6 +21928,7 @@ const nemisTili = {
           "text": "«issiq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Arzt» so'zi o'zbek tilida «shifokor» deb tarjima qilinadi."
     },
@@ -21076,6 +21953,7 @@ const nemisTili = {
           "text": "«gehen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«shifokor» so'zining nemischa tarjimasi — «Arzt»."
     },
@@ -21100,6 +21978,7 @@ const nemisTili = {
           "text": "«einfach» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ingenieur» so'zi o'zbek tilida «muhandis» deb tarjima qilinadi."
     },
@@ -21124,6 +22003,7 @@ const nemisTili = {
           "text": "«ichmoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«muhandis» so'zining nemischa tarjimasi — «Ingenieur»."
     },
@@ -21148,6 +22028,7 @@ const nemisTili = {
           "text": "«Arbeiter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Arbeiter» so'zi o'zbek tilida «ishchi» deb tarjima qilinadi."
     },
@@ -21172,6 +22053,7 @@ const nemisTili = {
           "text": "«maktab» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ishchi» so'zining nemischa tarjimasi — «Arbeiter»."
     },
@@ -21196,6 +22078,7 @@ const nemisTili = {
           "text": "«kapalak» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Bauer» so'zi o'zbek tilida «dehqon» deb tarjima qilinadi."
     },
@@ -21220,6 +22103,7 @@ const nemisTili = {
           "text": "«Schnee» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«dehqon» so'zining nemischa tarjimasi — «Bauer»."
     },
@@ -21244,6 +22128,7 @@ const nemisTili = {
           "text": "«Soldat» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Soldat» so'zi o'zbek tilida «askar» deb tarjima qilinadi."
     },
@@ -21268,6 +22153,7 @@ const nemisTili = {
           "text": "«o'quvchi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«askar» so'zining nemischa tarjimasi — «Soldat»."
     },
@@ -21292,6 +22178,7 @@ const nemisTili = {
           "text": "«stul» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Familie» so'zi o'zbek tilida «oila» deb tarjima qilinadi."
     },
@@ -21316,6 +22203,7 @@ const nemisTili = {
           "text": "«wollen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«oila» so'zining nemischa tarjimasi — «Familie»."
     },
@@ -21340,6 +22228,7 @@ const nemisTili = {
           "text": "«eins» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«eins» so'zi o'zbek tilida «bir» deb tarjima qilinadi."
     },
@@ -21364,6 +22253,7 @@ const nemisTili = {
           "text": "«guten Abend» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bir» so'zining nemischa tarjimasi — «eins»."
     },
@@ -21388,6 +22278,7 @@ const nemisTili = {
           "text": "«ilon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«zwei» so'zi o'zbek tilida «ikki» deb tarjima qilinadi."
     },
@@ -21412,6 +22303,7 @@ const nemisTili = {
           "text": "«ikki» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ikki» so'zining nemischa tarjimasi — «zwei»."
     },
@@ -21436,6 +22328,7 @@ const nemisTili = {
           "text": "«fil» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«drei» so'zi o'zbek tilida «uch» deb tarjima qilinadi."
     },
@@ -21460,6 +22353,7 @@ const nemisTili = {
           "text": "«sehen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«uch» so'zining nemischa tarjimasi — «drei»."
     },
@@ -21484,6 +22378,7 @@ const nemisTili = {
           "text": "«xush kelibsiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«vier» so'zi o'zbek tilida «to'rt» deb tarjima qilinadi."
     },
@@ -21508,6 +22403,7 @@ const nemisTili = {
           "text": "«to'rt» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«to'rt» so'zining nemischa tarjimasi — «vier»."
     },
@@ -21532,6 +22428,7 @@ const nemisTili = {
           "text": "«Ziege» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«fünf» so'zi o'zbek tilida «besh» deb tarjima qilinadi."
     },
@@ -21556,6 +22453,7 @@ const nemisTili = {
           "text": "«Blatt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«besh» so'zining nemischa tarjimasi — «fünf»."
     },
@@ -21580,6 +22478,7 @@ const nemisTili = {
           "text": "«piyoz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sechs» so'zi o'zbek tilida «olti» deb tarjima qilinadi."
     },
@@ -21604,6 +22503,7 @@ const nemisTili = {
           "text": "«ona» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«olti» so'zining nemischa tarjimasi — «sechs»."
     },
@@ -21628,6 +22528,7 @@ const nemisTili = {
           "text": "«sieben» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sieben» so'zi o'zbek tilida «yetti» deb tarjima qilinadi."
     },
@@ -21652,6 +22553,7 @@ const nemisTili = {
           "text": "«yetti» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yetti» so'zining nemischa tarjimasi — «sieben»."
     },
@@ -21676,6 +22578,7 @@ const nemisTili = {
           "text": "«essen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«acht» so'zi o'zbek tilida «sakkiz» deb tarjima qilinadi."
     },
@@ -21700,6 +22603,7 @@ const nemisTili = {
           "text": "«bis später» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sakkiz» so'zining nemischa tarjimasi — «acht»."
     },
@@ -21724,6 +22628,7 @@ const nemisTili = {
           "text": "«Fuchs» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«neun» so'zi o'zbek tilida «to'qqiz» deb tarjima qilinadi."
     },
@@ -21748,6 +22653,7 @@ const nemisTili = {
           "text": "«qalaysan» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«to'qqiz» so'zining nemischa tarjimasi — «neun»."
     },
@@ -21772,6 +22678,7 @@ const nemisTili = {
           "text": "«kapalak» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«zehn» so'zi o'zbek tilida «o'n» deb tarjima qilinadi."
     },
@@ -21796,6 +22703,7 @@ const nemisTili = {
           "text": "«o'n» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«o'n» so'zining nemischa tarjimasi — «zehn»."
     },
@@ -21820,6 +22728,7 @@ const nemisTili = {
           "text": "«bis später» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«zwanzig» so'zi o'zbek tilida «yigirma» deb tarjima qilinadi."
     },
@@ -21844,6 +22753,7 @@ const nemisTili = {
           "text": "«yigirma» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yigirma» so'zining nemischa tarjimasi — «zwanzig»."
     },
@@ -21868,6 +22778,7 @@ const nemisTili = {
           "text": "«keyin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«dreißig» so'zi o'zbek tilida «o'ttiz» deb tarjima qilinadi."
     },
@@ -21892,6 +22803,7 @@ const nemisTili = {
           "text": "«Apfel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«o'ttiz» so'zining nemischa tarjimasi — «dreißig»."
     },
@@ -21916,6 +22828,7 @@ const nemisTili = {
           "text": "«sehen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«vierzig» so'zi o'zbek tilida «qirq» deb tarjima qilinadi."
     },
@@ -21940,6 +22853,7 @@ const nemisTili = {
           "text": "«o'quvchi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qirq» so'zining nemischa tarjimasi — «vierzig»."
     },
@@ -21964,6 +22878,7 @@ const nemisTili = {
           "text": "«tez» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«fünfzig» so'zi o'zbek tilida «ellik» deb tarjima qilinadi."
     },
@@ -21988,6 +22903,7 @@ const nemisTili = {
           "text": "«krank» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ellik» so'zining nemischa tarjimasi — «fünfzig»."
     },
@@ -22012,6 +22928,7 @@ const nemisTili = {
           "text": "«hundert» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«hundert» so'zi o'zbek tilida «yuz» deb tarjima qilinadi."
     },
@@ -22036,6 +22953,7 @@ const nemisTili = {
           "text": "«shakar» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yuz» so'zining nemischa tarjimasi — «hundert»."
     },
@@ -22060,6 +22978,7 @@ const nemisTili = {
           "text": "«tausend» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tausend» so'zi o'zbek tilida «ming» deb tarjima qilinadi."
     },
@@ -22084,6 +23003,7 @@ const nemisTili = {
           "text": "«ot» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ming» so'zining nemischa tarjimasi — «tausend»."
     },
@@ -22108,6 +23028,7 @@ const nemisTili = {
           "text": "«suv» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Million» so'zi o'zbek tilida «million» deb tarjima qilinadi."
     },
@@ -22132,6 +23053,7 @@ const nemisTili = {
           "text": "«Auto» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«million» so'zining nemischa tarjimasi — «Million»."
     },
@@ -22156,6 +23078,7 @@ const nemisTili = {
           "text": "«traurig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«null» so'zi o'zbek tilida «nol» deb tarjima qilinadi."
     },
@@ -22180,6 +23103,7 @@ const nemisTili = {
           "text": "«xunuk» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«nol» so'zining nemischa tarjimasi — «null»."
     },
@@ -22204,6 +23128,7 @@ const nemisTili = {
           "text": "«bilmoq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«halb» so'zi o'zbek tilida «yarim» deb tarjima qilinadi."
     },
@@ -22228,6 +23153,7 @@ const nemisTili = {
           "text": "«yarim» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yarim» so'zining nemischa tarjimasi — «halb»."
     },
@@ -22252,6 +23178,7 @@ const nemisTili = {
           "text": "«Viertel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Viertel» so'zi o'zbek tilida «chorak» deb tarjima qilinadi."
     },
@@ -22276,6 +23203,7 @@ const nemisTili = {
           "text": "«heiß» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«chorak» so'zining nemischa tarjimasi — «Viertel»."
     },
@@ -22300,6 +23228,7 @@ const nemisTili = {
           "text": "«olov» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tag» so'zi o'zbek tilida «kun» deb tarjima qilinadi."
     },
@@ -22324,6 +23253,7 @@ const nemisTili = {
           "text": "«Baum» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kun» so'zining nemischa tarjimasi — «Tag»."
     },
@@ -22348,6 +23278,7 @@ const nemisTili = {
           "text": "«heiß» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Woche» so'zi o'zbek tilida «hafta» deb tarjima qilinadi."
     },
@@ -22372,6 +23303,7 @@ const nemisTili = {
           "text": "«quyon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«hafta» so'zining nemischa tarjimasi — «Woche»."
     },
@@ -22396,6 +23328,7 @@ const nemisTili = {
           "text": "«oson» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Monat» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -22420,6 +23353,7 @@ const nemisTili = {
           "text": "«oy» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«oy» so'zining nemischa tarjimasi — «Monat»."
     },
@@ -22444,6 +23378,7 @@ const nemisTili = {
           "text": "«Jahr» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Jahr» so'zi o'zbek tilida «yil» deb tarjima qilinadi."
     },
@@ -22468,6 +23403,7 @@ const nemisTili = {
           "text": "«apelsin» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yil» so'zining nemischa tarjimasi — «Jahr»."
     },
@@ -22492,6 +23428,7 @@ const nemisTili = {
           "text": "«soat» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Stunde» so'zi o'zbek tilida «soat» deb tarjima qilinadi."
     },
@@ -22516,6 +23453,7 @@ const nemisTili = {
           "text": "«ilon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«soat» so'zining nemischa tarjimasi — «Stunde»."
     },
@@ -22540,6 +23478,7 @@ const nemisTili = {
           "text": "«xayrli tong» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Minute» so'zi o'zbek tilida «daqiqa» deb tarjima qilinadi."
     },
@@ -22564,6 +23503,7 @@ const nemisTili = {
           "text": "«Kaffee» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«daqiqa» so'zining nemischa tarjimasi — «Minute»."
     },
@@ -22588,6 +23528,7 @@ const nemisTili = {
           "text": "«Sekunde» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Sekunde» so'zi o'zbek tilida «soniya» deb tarjima qilinadi."
     },
@@ -22612,6 +23553,7 @@ const nemisTili = {
           "text": "«oila» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«soniya» so'zining nemischa tarjimasi — «Sekunde»."
     },
@@ -22636,6 +23578,7 @@ const nemisTili = {
           "text": "«daftar» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Morgen» so'zi o'zbek tilida «ertalab» deb tarjima qilinadi."
     },
@@ -22660,6 +23603,7 @@ const nemisTili = {
           "text": "«yaxshi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ertalab» so'zining nemischa tarjimasi — «Morgen»."
     },
@@ -22684,6 +23628,7 @@ const nemisTili = {
           "text": "«eins» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Mittag» so'zi o'zbek tilida «tushlik» deb tarjima qilinadi."
     },
@@ -22708,6 +23653,7 @@ const nemisTili = {
           "text": "«balki» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tushlik» so'zining nemischa tarjimasi — «Mittag»."
     },
@@ -22732,6 +23678,7 @@ const nemisTili = {
           "text": "«uzun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Abend» so'zi o'zbek tilida «kechqurun» deb tarjima qilinadi."
     },
@@ -22756,6 +23703,7 @@ const nemisTili = {
           "text": "«kechqurun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kechqurun» so'zining nemischa tarjimasi — «Abend»."
     },
@@ -22780,6 +23728,7 @@ const nemisTili = {
           "text": "«Nacht» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Nacht» so'zi o'zbek tilida «tun» deb tarjima qilinadi."
     },
@@ -22804,6 +23753,7 @@ const nemisTili = {
           "text": "«jung» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tun» so'zining nemischa tarjimasi — «Nacht»."
     },
@@ -22828,6 +23778,7 @@ const nemisTili = {
           "text": "«piyoz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«heute» so'zi o'zbek tilida «bugun» deb tarjima qilinadi."
     },
@@ -22852,6 +23803,7 @@ const nemisTili = {
           "text": "«bugun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bugun» so'zining nemischa tarjimasi — «heute»."
     },
@@ -22876,6 +23828,7 @@ const nemisTili = {
           "text": "«Woche» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«übermorgen» so'zi o'zbek tilida «indinga» deb tarjima qilinadi."
     },
@@ -22900,6 +23853,7 @@ const nemisTili = {
           "text": "«indinga» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«indinga» so'zining nemischa tarjimasi — «übermorgen»."
     },
@@ -22924,6 +23878,7 @@ const nemisTili = {
           "text": "«gestern» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«gestern» so'zi o'zbek tilida «kecha» deb tarjima qilinadi."
     },
@@ -22948,6 +23903,7 @@ const nemisTili = {
           "text": "«Bruder» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kecha» so'zining nemischa tarjimasi — «gestern»."
     },
@@ -22972,6 +23928,7 @@ const nemisTili = {
           "text": "«banan» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«jetzt» so'zi o'zbek tilida «hozir» deb tarjima qilinadi."
     },
@@ -22996,6 +23953,7 @@ const nemisTili = {
           "text": "«hozir» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«hozir» so'zining nemischa tarjimasi — «jetzt»."
     },
@@ -23020,6 +23978,7 @@ const nemisTili = {
           "text": "«langsam» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«später» so'zi o'zbek tilida «keyin» deb tarjima qilinadi."
     },
@@ -23044,6 +24003,7 @@ const nemisTili = {
           "text": "«Tochter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«keyin» so'zining nemischa tarjimasi — «später»."
     },
@@ -23068,6 +24028,7 @@ const nemisTili = {
           "text": "«hässlich» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«vorher» so'zi o'zbek tilida «oldin» deb tarjima qilinadi."
     },
@@ -23092,6 +24053,7 @@ const nemisTili = {
           "text": "«nok» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«oldin» so'zining nemischa tarjimasi — «vorher»."
     },
@@ -23116,6 +24078,7 @@ const nemisTili = {
           "text": "«yopiq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«früh» so'zi o'zbek tilida «erta» deb tarjima qilinadi."
     },
@@ -23140,6 +24103,7 @@ const nemisTili = {
           "text": "«quyon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«erta» so'zining nemischa tarjimasi — «früh»."
     },
@@ -23164,6 +24128,7 @@ const nemisTili = {
           "text": "«spät» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«spät» so'zi o'zbek tilida «kech» deb tarjima qilinadi."
     },
@@ -23188,6 +24153,7 @@ const nemisTili = {
           "text": "«Jahr» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kech» so'zining nemischa tarjimasi — «spät»."
     },
@@ -23212,6 +24178,7 @@ const nemisTili = {
           "text": "«dehqon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«immer» so'zi o'zbek tilida «har doim» deb tarjima qilinadi."
     },
@@ -23236,6 +24203,7 @@ const nemisTili = {
           "text": "«har doim» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«har doim» so'zining nemischa tarjimasi — «immer»."
     },
@@ -23260,6 +24228,7 @@ const nemisTili = {
           "text": "«Soldat» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Wasser» so'zi o'zbek tilida «suv» deb tarjima qilinadi."
     },
@@ -23284,6 +24253,7 @@ const nemisTili = {
           "text": "«Wasser» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«suv» so'zining nemischa tarjimasi — «Wasser»."
     },
@@ -23308,6 +24278,7 @@ const nemisTili = {
           "text": "«kecha» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Feuer» so'zi o'zbek tilida «olov» deb tarjima qilinadi."
     },
@@ -23332,6 +24303,7 @@ const nemisTili = {
           "text": "«fil» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«olov» so'zining nemischa tarjimasi — «Feuer»."
     },
@@ -23356,6 +24328,7 @@ const nemisTili = {
           "text": "«immer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Erde» so'zi o'zbek tilida «tuproq» deb tarjima qilinadi."
     },
@@ -23380,6 +24353,7 @@ const nemisTili = {
           "text": "«tuproq» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tuproq» so'zining nemischa tarjimasi — «Erde»."
     },
@@ -23404,6 +24378,7 @@ const nemisTili = {
           "text": "«Luft» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Luft» so'zi o'zbek tilida «havo» deb tarjima qilinadi."
     },
@@ -23428,6 +24403,7 @@ const nemisTili = {
           "text": "«Banane» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«havo» so'zining nemischa tarjimasi — «Luft»."
     },
@@ -23452,6 +24428,7 @@ const nemisTili = {
           "text": "«Apfel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Sonne» so'zi o'zbek tilida «quyosh» deb tarjima qilinadi."
     },
@@ -23476,6 +24453,7 @@ const nemisTili = {
           "text": "«quyosh» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«quyosh» so'zining nemischa tarjimasi — «Sonne»."
     },
@@ -23500,6 +24478,7 @@ const nemisTili = {
           "text": "«trinken» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Mond» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -23524,6 +24503,7 @@ const nemisTili = {
           "text": "«Stern» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Stern» so'zi o'zbek tilida «yulduz» deb tarjima qilinadi."
     },
@@ -23548,6 +24528,7 @@ const nemisTili = {
           "text": "«einfach» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yulduz» so'zining nemischa tarjimasi — «Stern»."
     },
@@ -23572,6 +24553,7 @@ const nemisTili = {
           "text": "«bir» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Himmel» so'zi o'zbek tilida «osmon» deb tarjima qilinadi."
     },
@@ -23596,6 +24578,7 @@ const nemisTili = {
           "text": "«osmon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«osmon» so'zining nemischa tarjimasi — «Himmel»."
     },
@@ -23620,6 +24603,7 @@ const nemisTili = {
           "text": "«Meer» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Meer» so'zi o'zbek tilida «dengiz» deb tarjima qilinadi."
     },
@@ -23644,6 +24628,7 @@ const nemisTili = {
           "text": "«dehqon» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dengiz» so'zining nemischa tarjimasi — «Meer»."
     },
@@ -23668,6 +24653,7 @@ const nemisTili = {
           "text": "«bis später» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«See» so'zi o'zbek tilida «ko'l» deb tarjima qilinadi."
     },
@@ -23692,6 +24678,7 @@ const nemisTili = {
           "text": "«sakkiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ko'l» so'zining nemischa tarjimasi — «See»."
     },
@@ -23716,6 +24703,7 @@ const nemisTili = {
           "text": "«daraxt» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fluss» so'zi o'zbek tilida «daryo» deb tarjima qilinadi."
     },
@@ -23740,6 +24728,7 @@ const nemisTili = {
           "text": "«richtig» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«daryo» so'zining nemischa tarjimasi — «Fluss»."
     },
@@ -23764,6 +24753,7 @@ const nemisTili = {
           "text": "«Markt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Berg» so'zi o'zbek tilida «tog'» deb tarjima qilinadi."
     },
@@ -23788,6 +24778,7 @@ const nemisTili = {
           "text": "«to'qqiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tog'» so'zining nemischa tarjimasi — «Berg»."
     },
@@ -23812,6 +24803,7 @@ const nemisTili = {
           "text": "«Wald» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Wald» so'zi o'zbek tilida «o'rmon» deb tarjima qilinadi."
     },
@@ -23836,6 +24828,7 @@ const nemisTili = {
           "text": "«kechirasiz» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'rmon» so'zining nemischa tarjimasi — «Wald»."
     },
@@ -23860,6 +24853,7 @@ const nemisTili = {
           "text": "«Baum» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Baum» so'zi o'zbek tilida «daraxt» deb tarjima qilinadi."
     },
@@ -23884,6 +24878,7 @@ const nemisTili = {
           "text": "«guruch» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«daraxt» so'zining nemischa tarjimasi — «Baum»."
     },
@@ -23908,6 +24903,7 @@ const nemisTili = {
           "text": "«uzun» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Blume» so'zi o'zbek tilida «gul» deb tarjima qilinadi."
     },
@@ -23932,6 +24928,7 @@ const nemisTili = {
           "text": "«ko'l» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«gul» so'zining nemischa tarjimasi — «Blume»."
     },
@@ -23956,6 +24953,7 @@ const nemisTili = {
           "text": "«sevgi» so'zining nemischa tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Blatt» so'zi o'zbek tilida «barg» deb tarjima qilinadi."
     },
@@ -23980,6 +24978,7 @@ const nemisTili = {
           "text": "«Stadt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«barg» so'zining nemischa tarjimasi — «Blatt»."
     },
@@ -24004,6 +25003,7 @@ const nemisTili = {
           "text": "«Stein» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Stein» so'zi o'zbek tilida «tosh» deb tarjima qilinadi."
     }

@@ -28,6 +28,7 @@ const informatika = {
           "text": "32"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "1 bayt = 8 bit."
     },
@@ -52,6 +53,7 @@ const informatika = {
           "text": "Monitor"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
     },
@@ -76,6 +78,7 @@ const informatika = {
           "text": "Server tomonidagi logikani yozish"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
     },
@@ -100,6 +103,7 @@ const informatika = {
           "text": "8"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
     },
@@ -124,6 +128,7 @@ const informatika = {
           "text": "1000 bayt"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1 KB = 2¹⁰ bayt = 1024 bayt."
     },
@@ -148,6 +153,7 @@ const informatika = {
           "text": "1000 KB"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 MB = 1024 KB = 2²⁰ bayt."
     },
@@ -172,6 +178,7 @@ const informatika = {
           "text": "1000 MB"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 GB = 1024 MB."
     },
@@ -196,6 +203,7 @@ const informatika = {
           "text": "16 bit"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
     },
@@ -220,6 +228,7 @@ const informatika = {
           "text": "2 bayt (16 bit)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
     },
@@ -244,6 +253,7 @@ const informatika = {
           "text": "I = m · v"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit)."
     },
@@ -268,6 +278,7 @@ const informatika = {
           "text": "A, B, C, D, E, F"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
     },
@@ -292,6 +303,7 @@ const informatika = {
           "text": "14"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "8 + 4 + 2 + 1 = 15."
     },
@@ -316,6 +328,7 @@ const informatika = {
           "text": "1000"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "16 = 2⁴ = 10000₂."
     },
@@ -340,6 +353,7 @@ const informatika = {
           "text": "F"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi."
     },
@@ -364,6 +378,7 @@ const informatika = {
           "text": "10"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "1·16¹ + 10·16⁰ = 16 + 10 = 26."
     },
@@ -388,6 +403,7 @@ const informatika = {
           "text": "Operativ xotira (RAM)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "RAM - energiyaga bog'liq tezkor xotiradir."
     },
@@ -412,6 +428,7 @@ const informatika = {
           "text": "BIOS dasturlari va dastlabki yuklash ko'rsatmalari"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi."
     },
@@ -436,6 +453,7 @@ const informatika = {
           "text": "Grafik tasvirlarni chizadi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir."
     },
@@ -460,6 +478,7 @@ const informatika = {
           "text": "Operativ xotira (RAM)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "HDD magnit disklar asosida ishlaydi."
     },
@@ -484,6 +503,7 @@ const informatika = {
           "text": "CD-ROM"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi."
     },
@@ -508,6 +528,7 @@ const informatika = {
           "text": "Gers (Gs, MGs, GGs)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
     },
@@ -532,6 +553,7 @@ const informatika = {
           "text": "Plotter"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Skaner qog'ozdagi tasvirni kompyuterga kiritadi."
     },
@@ -556,6 +578,7 @@ const informatika = {
           "text": "Klaviatura"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Printer raqamli ma'lumotni qog'ozga chiqaradi."
     },
@@ -580,6 +603,7 @@ const informatika = {
           "text": "Plotter (grafik yasagich)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Plotter katta o'lchamli chizmalar uchun ishlatiladi."
     },
@@ -604,6 +628,7 @@ const informatika = {
           "text": "Ikkala mulohaza ham chin (1) bo'lganda"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "A AND B faqat 1 va 1 bo'lganda 1 bo'ladi."
     },
@@ -628,6 +653,7 @@ const informatika = {
           "text": "Hech qachon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "A OR B faqat 0 va 0 bo'lganda 0 ga teng."
     },
@@ -652,6 +678,7 @@ const informatika = {
           "text": "Unar amal bo'lib, chin qiymatni yolg'onga, yolg'onni chinga aylantiradi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "NOT 1 = 0, NOT 0 = 1."
     },
@@ -676,6 +703,7 @@ const informatika = {
           "text": "Diskretlik, tushunarlilik, aniqlik (determinallik), ommaviylik, natijaviylik"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Algoritm 5 ta asosiy xossaga ega."
     },
@@ -700,6 +728,7 @@ const informatika = {
           "text": "To'g'ri to'rtburchak"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Romb ichiga shart yoziladi (ha/yo'q)."
     },
@@ -724,6 +753,7 @@ const informatika = {
           "text": "Romb"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Parallelogramm kiritish-chiqarish blokidir."
     },
@@ -748,6 +778,7 @@ const informatika = {
           "text": "Romb"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Amal yoki hisoblash to'g'ri to'rtburchakda beriladi."
     },
@@ -772,6 +803,7 @@ const informatika = {
           "text": "Romb"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Boshlash va tamom oval ichiga yoziladi."
     },
@@ -796,6 +828,7 @@ const informatika = {
           "text": "//"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan: 7 // 2 = 3."
     },
@@ -820,6 +853,7 @@ const informatika = {
           "text": "/"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Masalan: 7 % 2 = 1."
     },
@@ -844,6 +878,7 @@ const informatika = {
           "text": "^"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Masalan: 2 ** 3 = 8."
     },
@@ -868,6 +903,7 @@ const informatika = {
           "text": "float"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "int - integer (butun son)."
     },
@@ -892,6 +928,7 @@ const informatika = {
           "text": "char"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "float - suzuvchi vergulli son."
     },
@@ -916,6 +953,7 @@ const informatika = {
           "text": "str (string)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "str - qo'shtirnoq ichidagi matn."
     },
@@ -940,6 +978,7 @@ const informatika = {
           "text": "<href>"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "<a href='...'>Havola matni</a>."
     },
@@ -964,6 +1003,7 @@ const informatika = {
           "text": "<img>"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "<img src='...' alt='...'>."
     },
@@ -988,6 +1028,7 @@ const informatika = {
           "text": "<h6>"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "h1 eng katta sarlavha, h6 eng kichigi."
     },
@@ -1012,6 +1053,7 @@ const informatika = {
           "text": "<ol>"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "ol - ordered list, ul - unordered list."
     },
@@ -1036,6 +1078,7 @@ const informatika = {
           "text": "Ma'lumotlar bazasini tuzish"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
     },
@@ -1060,6 +1103,7 @@ const informatika = {
           "text": "16 bayt"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir."
     },
@@ -1084,6 +1128,7 @@ const informatika = {
           "text": "Domen nomlarini (masalan, google.com) IP manzilga aylantirib berish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
     },
@@ -1108,6 +1153,7 @@ const informatika = {
           "text": "URL"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "MAC address 48 bitli unikal apparat manzilidir."
     },
@@ -1132,6 +1178,7 @@ const informatika = {
           "text": "FTP"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "FTP - File Transfer Protocol."
     },
@@ -1156,6 +1203,7 @@ const informatika = {
           "text": "IMAP"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "SMTP - Simple Mail Transfer Protocol."
     },
@@ -1180,6 +1228,7 @@ const informatika = {
           "text": "Faqat daraxtsimon shaklda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan."
     },
@@ -1204,6 +1253,7 @@ const informatika = {
           "text": "Indeks"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
     },
@@ -1228,6 +1278,7 @@ const informatika = {
           "text": "Jadval"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ustunlar ob'ektning xossasi yoki 'maydon'idir."
     },
@@ -1252,6 +1303,7 @@ const informatika = {
           "text": "Filtr"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi."
     },
@@ -1276,6 +1328,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish."
     },
@@ -1300,6 +1353,7 @@ const informatika = {
           "text": "Videokarta"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli."
     },
@@ -1324,6 +1378,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
     },
@@ -1348,6 +1403,7 @@ const informatika = {
           "text": "Operativ xotira (RAM)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli."
     },
@@ -1372,6 +1428,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash."
     },
@@ -1396,6 +1453,7 @@ const informatika = {
           "text": "Fleshka"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
     },
@@ -1420,6 +1478,7 @@ const informatika = {
           "text": "Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
     },
@@ -1444,6 +1503,7 @@ const informatika = {
           "text": "Magnit lenta"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
     },
@@ -1468,6 +1528,7 @@ const informatika = {
           "text": "Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish."
     },
@@ -1492,6 +1553,7 @@ const informatika = {
           "text": "Ovoz kartasi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Videokarta (GPU)'ga tegishli."
     },
@@ -1516,6 +1578,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
     },
@@ -1540,6 +1603,7 @@ const informatika = {
           "text": "Shina"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli."
     },
@@ -1564,6 +1628,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
     },
@@ -1588,6 +1653,7 @@ const informatika = {
           "text": "Invertor"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
     },
@@ -1612,6 +1678,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
     },
@@ -1636,6 +1703,7 @@ const informatika = {
           "text": "SMTP"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
     },
@@ -1660,6 +1728,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli."
     },
@@ -1684,6 +1753,7 @@ const informatika = {
           "text": "TELNET"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli."
     },
@@ -1708,6 +1778,7 @@ const informatika = {
           "text": "Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
     },
@@ -1732,6 +1803,7 @@ const informatika = {
           "text": "SMTP (Simple Mail Transfer Protocol)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli."
     },
@@ -1756,6 +1828,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
     },
@@ -1780,6 +1853,7 @@ const informatika = {
           "text": "HTTP"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'POP3 va IMAP'ga tegishli."
     },
@@ -1804,6 +1878,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
     },
@@ -1828,6 +1903,7 @@ const informatika = {
           "text": "ICMP"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
     },
@@ -1852,6 +1928,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
     },
@@ -1876,6 +1953,7 @@ const informatika = {
           "text": "Port"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'IP manzil'ga tegishli."
     },
@@ -1900,6 +1978,7 @@ const informatika = {
           "text": "Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili."
     },
@@ -1924,6 +2003,7 @@ const informatika = {
           "text": "IP manzil"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'MAC manzil'ga tegishli."
     },
@@ -1948,6 +2028,7 @@ const informatika = {
           "text": "Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma."
     },
@@ -1972,6 +2053,7 @@ const informatika = {
           "text": "Marshrutizator (Router)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
     },
@@ -1996,6 +2078,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
     },
@@ -2020,6 +2103,7 @@ const informatika = {
           "text": "Server"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kommutator (Switch)'ga tegishli."
     },
@@ -2044,6 +2128,7 @@ const informatika = {
           "text": "Microsoft Word matnli hujjati fayl kengaytmasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
     },
@@ -2068,6 +2153,7 @@ const informatika = {
           "text": ".accdb"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.docx / .doc'ga tegishli."
     },
@@ -2092,6 +2178,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": ".xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi."
     },
@@ -2116,6 +2203,7 @@ const informatika = {
           "text": ".pdf"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.xlsx / .xls'ga tegishli."
     },
@@ -2140,6 +2228,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
     },
@@ -2164,6 +2253,7 @@ const informatika = {
           "text": ".docx"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.pptx / .ppt'ga tegishli."
     },
@@ -2188,6 +2278,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": ".html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
     },
@@ -2212,6 +2303,7 @@ const informatika = {
           "text": ".html / .htm"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.html / .htm'ga tegishli."
     },
@@ -2236,6 +2328,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": ".mp3 / .wav - Raqamli audio (tovush) fayllari formati."
     },
@@ -2260,6 +2353,7 @@ const informatika = {
           "text": ".mp3 / .wav"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.mp3 / .wav'ga tegishli."
     },
@@ -2284,6 +2378,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": ".mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
     },
@@ -2308,6 +2403,7 @@ const informatika = {
           "text": ".mp3"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
     },
@@ -2332,6 +2428,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
     },
@@ -2356,6 +2453,7 @@ const informatika = {
           "text": ".zip"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
     },
@@ -2380,6 +2478,7 @@ const informatika = {
           "text": "Hajmni kichraytirish va arxivlash dasturlari fayli"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli."
     },
@@ -2404,6 +2503,7 @@ const informatika = {
           "text": ".bat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.zip / .rar / .7z'ga tegishli."
     },
@@ -2428,6 +2528,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": ".exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
     },
@@ -2452,6 +2553,7 @@ const informatika = {
           "text": ".sys"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.exe / .msi'ga tegishli."
     },
@@ -2476,6 +2578,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
     },
@@ -2500,6 +2603,7 @@ const informatika = {
           "text": "O'yinlar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli."
     },
@@ -2524,6 +2628,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
     },
@@ -2548,6 +2653,7 @@ const informatika = {
           "text": "Drayverlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
     },
@@ -2572,6 +2678,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur."
     },
@@ -2596,6 +2703,7 @@ const informatika = {
           "text": "Kompilyator"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Drayver'ga tegishli."
     },
@@ -2620,6 +2728,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim."
     },
@@ -2644,6 +2753,7 @@ const informatika = {
           "text": "Dasturlash muhiti"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli."
     },
@@ -2668,6 +2778,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi."
     },
@@ -2692,6 +2803,7 @@ const informatika = {
           "text": "Optimizator"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Antivirus dasturi'ga tegishli."
     },
@@ -2716,6 +2828,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha."
     },
@@ -2740,6 +2853,7 @@ const informatika = {
           "text": "O'zgarmas (Konstanta)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli."
     },
@@ -2764,6 +2878,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma."
     },
@@ -2788,6 +2903,7 @@ const informatika = {
           "text": "Massiv (Ro'yxat / List)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli."
     },
@@ -2812,6 +2928,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki."
     },
@@ -2836,6 +2953,7 @@ const informatika = {
           "text": "Shart operatori"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Funksiya (Function)'ga tegishli."
     },
@@ -2860,6 +2978,7 @@ const informatika = {
           "text": "Funksiyaning o'zini o'zi qayta chaqirishi hodisasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
     },
@@ -2884,6 +3003,7 @@ const informatika = {
           "text": "Dekrement"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Rekursiya'ga tegishli."
     },
@@ -2908,6 +3028,7 @@ const informatika = {
           "text": "Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita."
     },
@@ -2932,6 +3053,7 @@ const informatika = {
           "text": "Interpretator"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kompilyator'ga tegishli."
     },
@@ -2956,6 +3078,7 @@ const informatika = {
           "text": "Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
     },
@@ -2980,6 +3103,7 @@ const informatika = {
           "text": "Dizassembler"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Interpretator'ga tegishli."
     },
@@ -3004,6 +3128,7 @@ const informatika = {
           "text": "HTML tilida jadval yaratish uchun ochiladigan bosh teg"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg."
     },
@@ -3028,6 +3153,7 @@ const informatika = {
           "text": "<tr> tegi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<table> tegi'ga tegishli."
     },
@@ -3052,6 +3178,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
     },
@@ -3076,6 +3203,7 @@ const informatika = {
           "text": "<col> tegi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<tr> tegi'ga tegishli."
     },
@@ -3100,6 +3228,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
     },
@@ -3124,6 +3253,7 @@ const informatika = {
           "text": "<tr> tegi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<td> tegi'ga tegishli."
     },
@@ -3148,6 +3278,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
     },
@@ -3172,6 +3303,7 @@ const informatika = {
           "text": "<input> tegi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<form> tegi'ga tegishli."
     },
@@ -3196,6 +3328,7 @@ const informatika = {
           "text": "Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg."
     },
@@ -3220,6 +3353,7 @@ const informatika = {
           "text": "<input> tegi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<input> tegi'ga tegishli."
     },
@@ -3244,6 +3378,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili."
     },
@@ -3268,6 +3403,7 @@ const informatika = {
           "text": "CSS"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'JavaScript'ga tegishli."
     },
@@ -3292,6 +3428,7 @@ const informatika = {
           "text": "print()"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "print() orqali natija konsolga chiqariladi."
     },
@@ -3316,6 +3453,7 @@ const informatika = {
           "text": "input()"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "input() klaviaturadan satr ko'rinishida qabul qiladi."
     },
@@ -3340,6 +3478,7 @@ const informatika = {
           "text": "def"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "if shart: ... elif ... else."
     },
@@ -3364,6 +3503,7 @@ const informatika = {
           "text": "def"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "def funksiya_nomi(parametrlar): ..."
     },
@@ -3388,6 +3528,7 @@ const informatika = {
           "text": "if"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "for i in range(...): tsikli."
     },
@@ -3412,6 +3553,7 @@ const informatika = {
           "text": "for"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "while shart: ... tsikli."
     },
@@ -3436,6 +3578,7 @@ const informatika = {
           "text": "< > (burchakli qavslar)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ro'yxat: a = [1, 2, 3]."
     },
@@ -3460,6 +3603,7 @@ const informatika = {
           "text": "| |"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kortej: a = (1, 2, 3)."
     },
@@ -3484,6 +3628,7 @@ const informatika = {
           "text": "(kalit; qiymat)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Lug'at: d = {'ism': 'Ali', 'yosh': 16}."
     },
@@ -3508,6 +3653,7 @@ const informatika = {
           "text": "length()"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "len(a) ro'yxat yoki satr uzunligini qaytaradi."
     },
@@ -3532,6 +3678,7 @@ const informatika = {
           "text": "Geometrik formulalar va chiziqlarga"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG)."
     },
@@ -3556,6 +3703,7 @@ const informatika = {
           "text": "Hajmi doim juda katta bo'ladi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
     },
@@ -3580,6 +3728,7 @@ const informatika = {
           "text": "Red, Green, Black"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model."
     },
@@ -3604,6 +3753,7 @@ const informatika = {
           "text": "Grayscale"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "CMYK bo'yoqlar aralashuvi modelidir."
     },
@@ -3628,6 +3778,7 @@ const informatika = {
           "text": "Maxfiylik, yaxlitlik va foydalanish imkoniyati (barkamollik)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "CIA triad: Confidentiality, Integrity, Availability."
     },
@@ -3652,6 +3803,7 @@ const informatika = {
           "text": "Rangini o'zgartirish"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Arxivlash fayl hajmini kamaytiradi (ZIP, RAR)."
     },
@@ -3676,6 +3828,7 @@ const informatika = {
           "text": "Python, C++, Java"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir."
     },
@@ -3700,6 +3853,7 @@ const informatika = {
           "text": "Linus Torvalds (1991-yilda)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan."
     },
@@ -3724,6 +3878,7 @@ const informatika = {
           "text": "Stiv Jobs va Voznyak"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1975-yilda tashkil topgan."
     },
@@ -3748,6 +3903,7 @@ const informatika = {
           "text": "Bill Geyts"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1976-yilda Apple I kompyuterini yaratgan."
     },
@@ -3772,6 +3928,7 @@ const informatika = {
           "text": "Bill Geyts"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1998-yilda Stenford universiteti talabalari tomonidan yaratilgan."
     },
@@ -3796,6 +3953,7 @@ const informatika = {
           "text": "Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Bir baytda nechta bit bor?» savolining to'g'ri javobi — 8. 1 bayt = 8 bit."
     },
@@ -3820,6 +3978,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kompyuterning asosiy hisoblash qurilmasi qaysi?» savolining to'g'ri javobi — Protsessor. Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
     },
@@ -3844,6 +4003,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "«HTML tili asosan nima uchun ishlatiladi?» savolining to'g'ri javobi — Web sahifa tuzilmasini yaratish. HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
     },
@@ -3868,6 +4028,7 @@ const informatika = {
           "text": "Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "«Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?» savolining to'g'ri javobi — 10. 1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
     },
@@ -3892,6 +4053,7 @@ const informatika = {
           "text": "Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«1 Kilobayt (KB) necha baytga teng?» savolining to'g'ri javobi — 1024 bayt. 1 KB = 2¹⁰ bayt = 1024 bayt."
     },
@@ -3916,6 +4078,7 @@ const informatika = {
           "text": "Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«1 Megabayt (MB) necha Kilobaytga teng?» savolining to'g'ri javobi — 1024 KB. 1 MB = 1024 KB = 2²⁰ bayt."
     },
@@ -3940,6 +4103,7 @@ const informatika = {
           "text": "1 Gigabayt (GB) necha Megabaytga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«1 Gigabayt (GB) necha Megabaytga teng?» savolining to'g'ri javobi — 1024 MB. 1 GB = 1024 MB."
     },
@@ -3964,6 +4128,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?» savolining to'g'ri javobi — 1 bayt (8 bit). Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
     },
@@ -3988,6 +4153,7 @@ const informatika = {
           "text": "Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?» savolining to'g'ri javobi — 2 bayt (16 bit). Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
     },
@@ -4012,6 +4178,7 @@ const informatika = {
           "text": "Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?» savolining to'g'ri javobi — N = 2^i. N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit)."
     },
@@ -4036,6 +4203,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?» savolining to'g'ri javobi — A, B, C, D, E, F. O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
     },
@@ -4060,6 +4228,7 @@ const informatika = {
           "text": "Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?» savolining to'g'ri javobi — 15. 8 + 4 + 2 + 1 = 15."
     },
@@ -4084,6 +4253,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?» savolining to'g'ri javobi — 10000. 16 = 2⁴ = 10000₂."
     },
@@ -4108,6 +4278,7 @@ const informatika = {
           "text": "Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?» savolining to'g'ri javobi — 7. Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi."
     },
@@ -4132,6 +4303,7 @@ const informatika = {
           "text": "O'n oltilikdagi 1A soni o'nlikda nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«O'n oltilikdagi 1A soni o'nlikda nechaga teng?» savolining to'g'ri javobi — 26. 1·16¹ + 10·16⁰ = 16 + 10 = 26."
     },
@@ -4156,6 +4328,7 @@ const informatika = {
           "text": "Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?» savolining to'g'ri javobi — Operativ xotira (RAM). RAM - energiyaga bog'liq tezkor xotiradir."
     },
@@ -4180,6 +4353,7 @@ const informatika = {
           "text": "Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?» savolining to'g'ri javobi — BIOS dasturlari va dastlabki yuklash ko'rsatmalari. ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi."
     },
@@ -4204,6 +4378,7 @@ const informatika = {
           "text": "Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kesh-xotira (Cache memory) qanday vazifani bajaradi?» savolining to'g'ri javobi — Protsessor va operativ xotira o'rtasidagi ma'lumot almashinuvini tezlashtiradi. Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir."
     },
@@ -4228,6 +4403,7 @@ const informatika = {
           "text": "Microsoft kompaniyasining asoschisi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?» savolining to'g'ri javobi — Qattiq disk (HDD). HDD magnit disklar asosida ishlaydi."
     },
@@ -4252,6 +4428,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?» savolining to'g'ri javobi — SSD (Solid State Drive). SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi."
     },
@@ -4276,6 +4453,7 @@ const informatika = {
           "text": "1 Megabayt (MB) necha Kilobaytga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Taktli chastotaning o'lchov birligi nima?» savolining to'g'ri javobi — Gers (Gs, MGs, GGs). Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
     },
@@ -4300,6 +4478,7 @@ const informatika = {
           "text": "Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?» savolining to'g'ri javobi — Skaner. Skaner qog'ozdagi tasvirni kompyuterga kiritadi."
     },
@@ -4324,6 +4503,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?» savolining to'g'ri javobi — Printer. Printer raqamli ma'lumotni qog'ozga chiqaradi."
     },
@@ -4348,6 +4528,7 @@ const informatika = {
           "text": "Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?» savolining to'g'ri javobi — Plotter (grafik yasagich). Plotter katta o'lchamli chizmalar uchun ishlatiladi."
     },
@@ -4372,6 +4553,7 @@ const informatika = {
           "text": "Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?» savolining to'g'ri javobi — Ikkala mulohaza ham chin (1) bo'lganda. A AND B faqat 1 va 1 bo'lganda 1 bo'ladi."
     },
@@ -4396,6 +4578,7 @@ const informatika = {
           "text": "Kompyuterning asosiy hisoblash qurilmasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?» savolining to'g'ri javobi — Ikkala mulohaza ham yolg'on (0) bo'lganda. A OR B faqat 0 va 0 bo'lganda 0 ga teng."
     },
@@ -4420,6 +4603,7 @@ const informatika = {
           "text": "Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?» savolining to'g'ri javobi — Unar amal bo'lib, chin qiymatni yolg'onga, yolg'onni chinga aylantiradi. NOT 1 = 0, NOT 0 = 1."
     },
@@ -4444,6 +4628,7 @@ const informatika = {
           "text": "Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Algoritmning asosiy xossalari qaysilar?» savolining to'g'ri javobi — Diskretlik, tushunarlilik, aniqlik (determinallik), ommaviylik, natijaviylik. Algoritm 5 ta asosiy xossaga ega."
     },
@@ -4468,6 +4653,7 @@ const informatika = {
           "text": "HTML tili asosan nima uchun ishlatiladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?» savolining to'g'ri javobi — Romb. Romb ichiga shart yoziladi (ha/yo'q)."
     },
@@ -4492,6 +4678,7 @@ const informatika = {
           "text": "Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?» savolining to'g'ri javobi — Parallelogramm. Parallelogramm kiritish-chiqarish blokidir."
     },
@@ -4516,6 +4703,7 @@ const informatika = {
           "text": "Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?» savolining to'g'ri javobi — To'g'ri to'rtburchak. Amal yoki hisoblash to'g'ri to'rtburchakda beriladi."
     },
@@ -4540,6 +4728,7 @@ const informatika = {
           "text": "Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?» savolining to'g'ri javobi — Oval (ellips). Boshlash va tamom oval ichiga yoziladi."
     },
@@ -4564,6 +4753,7 @@ const informatika = {
           "text": "Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?» savolining to'g'ri javobi — //. Masalan: 7 // 2 = 3."
     },
@@ -4588,6 +4778,7 @@ const informatika = {
           "text": "Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?» savolining to'g'ri javobi — %. Masalan: 7 % 2 = 1."
     },
@@ -4612,6 +4803,7 @@ const informatika = {
           "text": "Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Python tilida darajaga ko'tarish operatori qanday belgilanadi?» savolining to'g'ri javobi — **. Masalan: 2 ** 3 = 8."
     },
@@ -4636,6 +4828,7 @@ const informatika = {
           "text": "Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?» savolining to'g'ri javobi — int. int - integer (butun son)."
     },
@@ -4660,6 +4853,7 @@ const informatika = {
           "text": "Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?» savolining to'g'ri javobi — float. float - suzuvchi vergulli son."
     },
@@ -4684,6 +4878,7 @@ const informatika = {
           "text": "Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Satrli (matnli) ma'lumot turi qanday ataladi?» savolining to'g'ri javobi — str (string). str - qo'shtirnoq ichidagi matn."
     },
@@ -4708,6 +4903,7 @@ const informatika = {
           "text": "Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?» savolining to'g'ri javobi — <a>. <a href='...'>Havola matni</a>."
     },
@@ -4732,6 +4928,7 @@ const informatika = {
           "text": "Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?» savolining to'g'ri javobi — <img>. <img src='...' alt='...'>."
     },
@@ -4756,6 +4953,7 @@ const informatika = {
           "text": "HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?» savolining to'g'ri javobi — <h1>. h1 eng katta sarlavha, h6 eng kichigi."
     },
@@ -4780,6 +4978,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?» savolining to'g'ri javobi — <ol>. ol - ordered list, ul - unordered list."
     },
@@ -4804,6 +5003,7 @@ const informatika = {
           "text": "Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?» savolining to'g'ri javobi — Web sahifaning tashqi ko'rinishi va dizaynini bezash. CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
     },
@@ -4828,6 +5028,7 @@ const informatika = {
           "text": "Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?» savolining to'g'ri javobi — 4 bayt (32 bit, masalan: 192.168.1.1). IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir."
     },
@@ -4852,6 +5053,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«DNS (Domain Name System) serverining asosiy vazifasi nima?» savolining to'g'ri javobi — Domen nomlarini (masalan, google.com) IP manzilga aylantirib berish. DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
     },
@@ -4876,6 +5078,7 @@ const informatika = {
           "text": "Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?» savolining to'g'ri javobi — MAC-manzil. MAC address 48 bitli unikal apparat manzilidir."
     },
@@ -4900,6 +5103,7 @@ const informatika = {
           "text": "Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Fayllarni internet orqali uzatishning klassik protokoli qaysi?» savolining to'g'ri javobi — FTP. FTP - File Transfer Protocol."
     },
@@ -4924,6 +5128,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?» savolining to'g'ri javobi — SMTP. SMTP - Simple Mail Transfer Protocol."
     },
@@ -4948,6 +5153,7 @@ const informatika = {
           "text": "Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?» savolining to'g'ri javobi — O'zaro bog'langan jadvallar ko'rinishida. Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan."
     },
@@ -4972,6 +5178,7 @@ const informatika = {
           "text": "Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?» savolining to'g'ri javobi — Yozuv (kortej / record). Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
     },
@@ -4996,6 +5203,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?» savolining to'g'ri javobi — Maydon (field / atribut). Ustunlar ob'ektning xossasi yoki 'maydon'idir."
     },
@@ -5020,6 +5228,7 @@ const informatika = {
           "text": "Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?» savolining to'g'ri javobi — Birlamchi kalit (Primary Key). Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi."
     },
@@ -5044,6 +5253,7 @@ const informatika = {
           "text": "O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish. Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish."
     },
@@ -5068,6 +5278,7 @@ const informatika = {
           "text": "Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?» savolining to'g'ri javobi — Markaziy protsessor (CPU). Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli."
     },
@@ -5092,6 +5303,7 @@ const informatika = {
           "text": "Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash. Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
     },
@@ -5116,6 +5328,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?» savolining to'g'ri javobi — Operativ xotira (RAM). Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli."
     },
@@ -5140,6 +5353,7 @@ const informatika = {
           "text": "Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash. Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash."
     },
@@ -5164,6 +5378,7 @@ const informatika = {
           "text": "Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?» savolining to'g'ri javobi — Doimiy xotira (ROM). Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
     },
@@ -5188,6 +5403,7 @@ const informatika = {
           "text": "Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish. Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
     },
@@ -5212,6 +5428,7 @@ const informatika = {
           "text": "Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?» savolining to'g'ri javobi — Kesh-xotira (Cache). Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
     },
@@ -5236,6 +5453,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish. Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish."
     },
@@ -5260,6 +5478,7 @@ const informatika = {
           "text": "Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?» savolining to'g'ri javobi — Videokarta (GPU). Ushbu ta'rif 'Videokarta (GPU)'ga tegishli."
     },
@@ -5284,6 +5503,7 @@ const informatika = {
           "text": "Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata. Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
     },
@@ -5308,6 +5528,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?» savolining to'g'ri javobi — Ona plata (Motherboard). Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli."
     },
@@ -5332,6 +5553,7 @@ const informatika = {
           "text": "Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish. Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
     },
@@ -5356,6 +5578,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?» savolining to'g'ri javobi — Quvvat bloki (Power Supply). Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
     },
@@ -5380,6 +5603,7 @@ const informatika = {
           "text": "Apple kompaniyasining asoschilari kimlar?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli. HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
     },
@@ -5404,6 +5628,7 @@ const informatika = {
           "text": "Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?» savolining to'g'ri javobi — HTTP / HTTPS. Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
     },
@@ -5428,6 +5653,7 @@ const informatika = {
           "text": "Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli. FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli."
     },
@@ -5452,6 +5678,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?» savolining to'g'ri javobi — FTP (File Transfer Protocol). Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli."
     },
@@ -5476,6 +5703,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli. SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
     },
@@ -5500,6 +5728,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?» savolining to'g'ri javobi — SMTP (Simple Mail Transfer Protocol). Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli."
     },
@@ -5524,6 +5753,7 @@ const informatika = {
           "text": "Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Elektron pochta serveridan xatlarni qabul qilib olish protokollari. POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
     },
@@ -5548,6 +5778,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?» savolining to'g'ri javobi — POP3 va IMAP. Ushbu ta'rif 'POP3 va IMAP'ga tegishli."
     },
@@ -5572,6 +5803,7 @@ const informatika = {
           "text": "Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish. DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
     },
@@ -5596,6 +5828,7 @@ const informatika = {
           "text": "Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?» savolining to'g'ri javobi — DHCP (Dynamic Host Configuration Protocol). Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
     },
@@ -5620,6 +5853,7 @@ const informatika = {
           "text": "Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili. IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
     },
@@ -5644,6 +5878,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?» savolining to'g'ri javobi — IP manzil. Ushbu ta'rif 'IP manzil'ga tegishli."
     },
@@ -5668,6 +5903,7 @@ const informatika = {
           "text": "Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili. MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili."
     },
@@ -5692,6 +5928,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?» savolining to'g'ri javobi — MAC manzil. Ushbu ta'rif 'MAC manzil'ga tegishli."
     },
@@ -5716,6 +5953,7 @@ const informatika = {
           "text": "Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma. Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma."
     },
@@ -5740,6 +5978,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?» savolining to'g'ri javobi — Marshrutizator (Router). Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
     },
@@ -5764,6 +6003,7 @@ const informatika = {
           "text": "Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma. Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
     },
@@ -5788,6 +6028,7 @@ const informatika = {
           "text": "Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?» savolining to'g'ri javobi — Kommutator (Switch). Ushbu ta'rif 'Kommutator (Switch)'ga tegishli."
     },
@@ -5812,6 +6053,7 @@ const informatika = {
           "text": "Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Microsoft Word matnli hujjati fayl kengaytmasi. .docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
     },
@@ -5836,6 +6078,7 @@ const informatika = {
           "text": "HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?» savolining to'g'ri javobi — .docx / .doc. Ushbu ta'rif '.docx / .doc'ga tegishli."
     },
@@ -5860,6 +6103,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Microsoft Excel elektron jadvali fayl kengaytmasi. .xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi."
     },
@@ -5884,6 +6128,7 @@ const informatika = {
           "text": "Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?» savolining to'g'ri javobi — .xlsx / .xls. Ushbu ta'rif '.xlsx / .xls'ga tegishli."
     },
@@ -5908,6 +6153,7 @@ const informatika = {
           "text": "Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Microsoft PowerPoint taqdimot fayli kengaytmasi. .pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
     },
@@ -5932,6 +6178,7 @@ const informatika = {
           "text": "Algoritmning asosiy xossalari qaysilar?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?» savolining to'g'ri javobi — .pptx / .ppt. Ushbu ta'rif '.pptx / .ppt'ga tegishli."
     },
@@ -5956,6 +6203,7 @@ const informatika = {
           "text": "Fayllarni internet orqali uzatishning klassik protokoli qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli. .html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
     },
@@ -5980,6 +6228,7 @@ const informatika = {
           "text": "Python tilida darajaga ko'tarish operatori qanday belgilanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?» savolining to'g'ri javobi — .html / .htm. Ushbu ta'rif '.html / .htm'ga tegishli."
     },
@@ -6004,6 +6253,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Raqamli audio (tovush) fayllari formati. .mp3 / .wav - Raqamli audio (tovush) fayllari formati."
     },
@@ -6028,6 +6278,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?» savolining to'g'ri javobi — .mp3 / .wav. Ushbu ta'rif '.mp3 / .wav'ga tegishli."
     },
@@ -6052,6 +6303,7 @@ const informatika = {
           "text": "Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Raqamli video fayllari kengaytmasi. .mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
     },
@@ -6076,6 +6328,7 @@ const informatika = {
           "text": "1 Megabayt (MB) necha Kilobaytga teng?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?» savolining to'g'ri javobi — .mp4 / .avi / .mkv. Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
     },
@@ -6100,6 +6353,7 @@ const informatika = {
           "text": "Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Raqamli rastrli va vektorli grafik tasvirlar formati. .jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
     },
@@ -6124,6 +6378,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?» savolining to'g'ri javobi — .jpg / .png / .svg. Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
     },
@@ -6148,6 +6403,7 @@ const informatika = {
           "text": "Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Hajmni kichraytirish va arxivlash dasturlari fayli. .zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli."
     },
@@ -6172,6 +6428,7 @@ const informatika = {
           "text": "DNS (Domain Name System) serverining asosiy vazifasi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?» savolining to'g'ri javobi — .zip / .rar / .7z. Ushbu ta'rif '.zip / .rar / .7z'ga tegishli."
     },
@@ -6196,6 +6453,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli. .exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
     },
@@ -6220,6 +6478,7 @@ const informatika = {
           "text": "HTML tili asosan nima uchun ishlatiladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?» savolining to'g'ri javobi — .exe / .msi. Ushbu ta'rif '.exe / .msi'ga tegishli."
     },
@@ -6244,6 +6503,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar. Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
     },
@@ -6268,6 +6528,7 @@ const informatika = {
           "text": "Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?» savolining to'g'ri javobi — Tizimli dasturiy ta'minot. Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli."
     },
@@ -6292,6 +6553,7 @@ const informatika = {
           "text": "Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop). Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
     },
@@ -6316,6 +6578,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?» savolining to'g'ri javobi — Amaliy dasturiy ta'minot. Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
     },
@@ -6340,6 +6603,7 @@ const informatika = {
           "text": "Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur. Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur."
     },
@@ -6364,6 +6628,7 @@ const informatika = {
           "text": "Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?» savolining to'g'ri javobi — Drayver. Ushbu ta'rif 'Drayver'ga tegishli."
     },
@@ -6388,6 +6653,7 @@ const informatika = {
           "text": "Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim. BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim."
     },
@@ -6412,6 +6678,7 @@ const informatika = {
           "text": "Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?» savolining to'g'ri javobi — BIOS (Basic Input/Output System). Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli."
     },
@@ -6436,6 +6703,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi. Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi."
     },
@@ -6460,6 +6728,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?» savolining to'g'ri javobi — Antivirus dasturi. Ushbu ta'rif 'Antivirus dasturi'ga tegishli."
     },
@@ -6484,6 +6753,7 @@ const informatika = {
           "text": "1 Megabayt (MB) necha Kilobaytga teng?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha. O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha."
     },
@@ -6508,6 +6778,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?» savolining to'g'ri javobi — O'zgaruvchi (Variable). Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli."
     },
@@ -6532,6 +6803,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma. Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma."
     },
@@ -6556,6 +6828,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?» savolining to'g'ri javobi — Massiv (Ro'yxat / List). Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli."
     },
@@ -6580,6 +6853,7 @@ const informatika = {
           "text": "Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki. Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki."
     },
@@ -6604,6 +6878,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?» savolining to'g'ri javobi — Funksiya (Function). Ushbu ta'rif 'Funksiya (Function)'ga tegishli."
     },
@@ -6628,6 +6903,7 @@ const informatika = {
           "text": "Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Funksiyaning o'zini o'zi qayta chaqirishi hodisasi. Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
     },
@@ -6652,6 +6928,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?» savolining to'g'ri javobi — Rekursiya. Ushbu ta'rif 'Rekursiya'ga tegishli."
     },
@@ -6676,6 +6953,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita. Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita."
     },
@@ -6700,6 +6978,7 @@ const informatika = {
           "text": "Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?» savolining to'g'ri javobi — Kompilyator. Ushbu ta'rif 'Kompilyator'ga tegishli."
     },
@@ -6724,6 +7003,7 @@ const informatika = {
           "text": "Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori). Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
     },
@@ -6748,6 +7028,7 @@ const informatika = {
           "text": "Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?» savolining to'g'ri javobi — Interpretator. Ushbu ta'rif 'Interpretator'ga tegishli."
     },
@@ -6772,6 +7053,7 @@ const informatika = {
           "text": "Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — HTML tilida jadval yaratish uchun ochiladigan bosh teg. <table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg."
     },
@@ -6796,6 +7078,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?» savolining to'g'ri javobi — <table> tegi. Ushbu ta'rif '<table> tegi'ga tegishli."
     },
@@ -6820,6 +7103,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — HTML jadvalida yangi satr (qator) hosil qiluvchi teg. <tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
     },
@@ -6844,6 +7128,7 @@ const informatika = {
           "text": "Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?» savolining to'g'ri javobi — <tr> tegi. Ushbu ta'rif '<tr> tegi'ga tegishli."
     },
@@ -6868,6 +7153,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg. <td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
     },
@@ -6892,6 +7178,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?» savolining to'g'ri javobi — <td> tegi. Ushbu ta'rif '<td> tegi'ga tegishli."
     },
@@ -6916,6 +7203,7 @@ const informatika = {
           "text": "Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi. <form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
     },
@@ -6940,6 +7228,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?» savolining to'g'ri javobi — <form> tegi. Ushbu ta'rif '<form> tegi'ga tegishli."
     },
@@ -6964,6 +7253,7 @@ const informatika = {
           "text": "Fayllarni siqish (arxivlash)dan asosiy maqsad nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg. <input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg."
     },
@@ -6988,6 +7278,7 @@ const informatika = {
           "text": "Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?» savolining to'g'ri javobi — <input> tegi. Ushbu ta'rif '<input> tegi'ga tegishli."
     },
@@ -7012,6 +7303,7 @@ const informatika = {
           "text": "Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili. JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili."
     },
@@ -7036,6 +7328,7 @@ const informatika = {
           "text": "Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?» savolining to'g'ri javobi — JavaScript. Ushbu ta'rif 'JavaScript'ga tegishli."
     },
@@ -7060,6 +7353,7 @@ const informatika = {
           "text": "Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Python tilida ekranga ma'lumot chiqarish funksiyasi qaysi?» savolining to'g'ri javobi — print(). print() orqali natija konsolga chiqariladi."
     },
@@ -7084,6 +7378,7 @@ const informatika = {
           "text": "Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?» savolining to'g'ri javobi — input(). input() klaviaturadan satr ko'rinishida qabul qiladi."
     },
@@ -7108,6 +7403,7 @@ const informatika = {
           "text": "Rastrli grafika nimaga asoslangan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Python tilida shart operatori qaysi kalit so'z bilan boshlanadi?» savolining to'g'ri javobi — if. if shart: ... elif ... else."
     },
@@ -7132,6 +7428,7 @@ const informatika = {
           "text": "Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?» savolining to'g'ri javobi — def. def funksiya_nomi(parametrlar): ..."
     },
@@ -7156,6 +7453,7 @@ const informatika = {
           "text": "Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Python tilida ma'lum qadamlar bilan cheklangan takrorlanish (tsikl) operatori qaysi?» savolining to'g'ri javobi — for. for i in range(...): tsikli."
     },
@@ -7180,6 +7478,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?» savolining to'g'ri javobi — while. while shart: ... tsikli."
     },
@@ -7204,6 +7503,7 @@ const informatika = {
           "text": "Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Python tilida ro'yxat (list) elementlari qaysi qavslar ichiga yoziladi?» savolining to'g'ri javobi — [ ] (to'rtburchak qavslar). Ro'yxat: a = [1, 2, 3]."
     },
@@ -7228,6 +7528,7 @@ const informatika = {
           "text": "Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?» savolining to'g'ri javobi — ( ) (oddiy qavslar). Kortej: a = (1, 2, 3)."
     },
@@ -7252,6 +7553,7 @@ const informatika = {
           "text": "Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?» savolining to'g'ri javobi — {kalit: qiymat}. Lug'at: d = {'ism': 'Ali', 'yosh': 16}."
     },
@@ -7276,6 +7578,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?» savolining to'g'ri javobi — len(). len(a) ro'yxat yoki satr uzunligini qaytaradi."
     },
@@ -7300,6 +7603,7 @@ const informatika = {
           "text": "Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Rastrli grafika nimaga asoslangan?» savolining to'g'ri javobi — Piksellar (nuqtalar) to'riga. Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG)."
     },
@@ -7324,6 +7628,7 @@ const informatika = {
           "text": "Axborot xavfsizligining uchta asosiy tamoyili qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?» savolining to'g'ri javobi — Kattalashtirilganda yoki kichraytirilganda sifatini yo'qotmaydi. Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
     },
@@ -7348,6 +7653,7 @@ const informatika = {
           "text": "Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«RGB rang modelida asosiy ranglar qaysilar?» savolining to'g'ri javobi — Red (Qizil), Green (Yashil), Blue (Ko'k). RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model."
     },
@@ -7372,6 +7678,7 @@ const informatika = {
           "text": "Kesh-xotira (Cache memory) qanday vazifani bajaradi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?» savolining to'g'ri javobi — CMYK (Cyan, Magenta, Yellow, blacK). CMYK bo'yoqlar aralashuvi modelidir."
     },
@@ -7396,6 +7703,7 @@ const informatika = {
           "text": "Axborot xavfsizligining uchta asosiy tamoyili qaysilar?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Axborot xavfsizligining uchta asosiy tamoyili qaysilar?» savolining to'g'ri javobi — Maxfiylik, yaxlitlik va foydalanish imkoniyati (barkamollik). CIA triad: Confidentiality, Integrity, Availability."
     },
@@ -7420,6 +7728,7 @@ const informatika = {
           "text": "Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Fayllarni siqish (arxivlash)dan asosiy maqsad nima?» savolining to'g'ri javobi — Xotiradagi hajmini kichraytirish va tarmoqda uzatishni tezlashtirish. Arxivlash fayl hajmini kamaytiradi (ZIP, RAR)."
     },
@@ -7444,6 +7753,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri operatsion sistema hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Quyidagilardan qaysi biri operatsion sistema hisoblanadi?» savolining to'g'ri javobi — Windows, Linux, macOS, Android. Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir."
     },
@@ -7468,6 +7778,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?» savolining to'g'ri javobi — Linus Torvalds (1991-yilda). Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan."
     },
@@ -7492,6 +7803,7 @@ const informatika = {
           "text": "Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Microsoft kompaniyasining asoschisi kim?» savolining to'g'ri javobi — Bill Geyts va Pol Allen. 1975-yilda tashkil topgan."
     },
@@ -7516,6 +7828,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Apple kompaniyasining asoschilari kimlar?» savolining to'g'ri javobi — Stiv Jobs va Stiv Voznyak. 1976-yilda Apple I kompyuterini yaratgan."
     },
@@ -7540,6 +7853,7 @@ const informatika = {
           "text": "Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?» savolining to'g'ri javobi — Larri Peyj va Sergey Brin. 1998-yilda Stenford universiteti talabalari tomonidan yaratilgan."
     },
@@ -7564,6 +7878,7 @@ const informatika = {
           "text": "Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1 bayt = 8 bit."
     },
@@ -7588,6 +7903,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
     },
@@ -7612,6 +7928,7 @@ const informatika = {
           "text": "Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
     },
@@ -7636,6 +7953,7 @@ const informatika = {
           "text": "Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
     },
@@ -7660,6 +7978,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 KB = 2¹⁰ bayt = 1024 bayt."
     },
@@ -7684,6 +8003,7 @@ const informatika = {
           "text": "1 Megabayt (MB) necha Kilobaytga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 MB = 1024 KB = 2²⁰ bayt."
     },
@@ -7708,6 +8028,7 @@ const informatika = {
           "text": "Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 GB = 1024 MB."
     },
@@ -7732,6 +8053,7 @@ const informatika = {
           "text": "ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
     },
@@ -7756,6 +8078,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
     },
@@ -7780,6 +8103,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit)."
     },
@@ -7804,6 +8128,7 @@ const informatika = {
           "text": "Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
     },
@@ -7828,6 +8153,7 @@ const informatika = {
           "text": "Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "8 + 4 + 2 + 1 = 15."
     },
@@ -7852,6 +8178,7 @@ const informatika = {
           "text": "IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "16 = 2⁴ = 10000₂."
     },
@@ -7876,6 +8203,7 @@ const informatika = {
           "text": "Algoritmning asosiy xossalari qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi."
     },
@@ -7900,6 +8228,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "1·16¹ + 10·16⁰ = 16 + 10 = 26."
     },
@@ -7924,6 +8253,7 @@ const informatika = {
           "text": "Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "RAM - energiyaga bog'liq tezkor xotiradir."
     },
@@ -7948,6 +8278,7 @@ const informatika = {
           "text": "Rastrli grafika nimaga asoslangan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi."
     },
@@ -7972,6 +8303,7 @@ const informatika = {
           "text": "Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir."
     },
@@ -7996,6 +8328,7 @@ const informatika = {
           "text": "Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "HDD magnit disklar asosida ishlaydi."
     },
@@ -8020,6 +8353,7 @@ const informatika = {
           "text": "Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi."
     },
@@ -8044,6 +8378,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
     },
@@ -8068,6 +8403,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Skaner qog'ozdagi tasvirni kompyuterga kiritadi."
     },
@@ -8092,6 +8428,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Printer raqamli ma'lumotni qog'ozga chiqaradi."
     },
@@ -8116,6 +8453,7 @@ const informatika = {
           "text": "Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Plotter katta o'lchamli chizmalar uchun ishlatiladi."
     },
@@ -8140,6 +8478,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "A AND B faqat 1 va 1 bo'lganda 1 bo'ladi."
     },
@@ -8164,6 +8503,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "A OR B faqat 0 va 0 bo'lganda 0 ga teng."
     },
@@ -8188,6 +8528,7 @@ const informatika = {
           "text": "Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "NOT 1 = 0, NOT 0 = 1."
     },
@@ -8212,6 +8553,7 @@ const informatika = {
           "text": "Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Algoritm 5 ta asosiy xossaga ega."
     },
@@ -8236,6 +8578,7 @@ const informatika = {
           "text": "Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Romb ichiga shart yoziladi (ha/yo'q)."
     },
@@ -8260,6 +8603,7 @@ const informatika = {
           "text": "Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Parallelogramm kiritish-chiqarish blokidir."
     },
@@ -8284,6 +8628,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Amal yoki hisoblash to'g'ri to'rtburchakda beriladi."
     },
@@ -8308,6 +8653,7 @@ const informatika = {
           "text": "Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Boshlash va tamom oval ichiga yoziladi."
     },
@@ -8332,6 +8678,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Masalan: 7 // 2 = 3."
     },
@@ -8356,6 +8703,7 @@ const informatika = {
           "text": "Rastrli grafika nimaga asoslangan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Masalan: 7 % 2 = 1."
     },
@@ -8380,6 +8728,7 @@ const informatika = {
           "text": "Python tilida darajaga ko'tarish operatori qanday belgilanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan: 2 ** 3 = 8."
     },
@@ -8404,6 +8753,7 @@ const informatika = {
           "text": "Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "int - integer (butun son)."
     },
@@ -8428,6 +8778,7 @@ const informatika = {
           "text": "Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "float - suzuvchi vergulli son."
     },
@@ -8452,6 +8803,7 @@ const informatika = {
           "text": "Algoritmning asosiy xossalari qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "str - qo'shtirnoq ichidagi matn."
     },
@@ -8476,6 +8828,7 @@ const informatika = {
           "text": "Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "<a href='...'>Havola matni</a>."
     },
@@ -8500,6 +8853,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "<img src='...' alt='...'>."
     },
@@ -8524,6 +8878,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri operatsion sistema hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "h1 eng katta sarlavha, h6 eng kichigi."
     },
@@ -8548,6 +8903,7 @@ const informatika = {
           "text": "Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "ol - ordered list, ul - unordered list."
     },
@@ -8572,6 +8928,7 @@ const informatika = {
           "text": "CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
     },
@@ -8596,6 +8953,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir."
     },
@@ -8620,6 +8978,7 @@ const informatika = {
           "text": "Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
     },
@@ -8644,6 +9003,7 @@ const informatika = {
           "text": "Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "MAC address 48 bitli unikal apparat manzilidir."
     },
@@ -8668,6 +9028,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "FTP - File Transfer Protocol."
     },
@@ -8692,6 +9053,7 @@ const informatika = {
           "text": "Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "SMTP - Simple Mail Transfer Protocol."
     },
@@ -8716,6 +9078,7 @@ const informatika = {
           "text": "Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan."
     },
@@ -8740,6 +9103,7 @@ const informatika = {
           "text": "Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
     },
@@ -8764,6 +9128,7 @@ const informatika = {
           "text": "Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ustunlar ob'ektning xossasi yoki 'maydon'idir."
     },
@@ -8788,6 +9153,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi."
     },
@@ -8812,6 +9178,7 @@ const informatika = {
           "text": "Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish."
     },
@@ -8836,6 +9203,7 @@ const informatika = {
           "text": "ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli."
     },
@@ -8860,6 +9228,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
     },
@@ -8884,6 +9253,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli."
     },
@@ -8908,6 +9278,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash."
     },
@@ -8932,6 +9303,7 @@ const informatika = {
           "text": "Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
     },
@@ -8956,6 +9328,7 @@ const informatika = {
           "text": "Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
     },
@@ -8980,6 +9353,7 @@ const informatika = {
           "text": "Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
     },
@@ -9004,6 +9378,7 @@ const informatika = {
           "text": "Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish."
     },
@@ -9028,6 +9403,7 @@ const informatika = {
           "text": "Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Videokarta (GPU)'ga tegishli."
     },
@@ -9052,6 +9428,7 @@ const informatika = {
           "text": "Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
     },
@@ -9076,6 +9453,7 @@ const informatika = {
           "text": "Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli."
     },
@@ -9100,6 +9478,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
     },
@@ -9124,6 +9503,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
     },
@@ -9148,6 +9528,7 @@ const informatika = {
           "text": "Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
     },
@@ -9172,6 +9553,7 @@ const informatika = {
           "text": "Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
     },
@@ -9196,6 +9578,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli."
     },
@@ -9220,6 +9603,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli."
     },
@@ -9244,6 +9628,7 @@ const informatika = {
           "text": "Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
     },
@@ -9268,6 +9653,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli."
     },
@@ -9292,6 +9678,7 @@ const informatika = {
           "text": "Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
     },
@@ -9316,6 +9703,7 @@ const informatika = {
           "text": "1 Kilobayt (KB) necha baytga teng?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'POP3 va IMAP'ga tegishli."
     },
@@ -9340,6 +9728,7 @@ const informatika = {
           "text": "Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
     },
@@ -9364,6 +9753,7 @@ const informatika = {
           "text": "Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
     },
@@ -9388,6 +9778,7 @@ const informatika = {
           "text": "O'n oltilikdagi 1A soni o'nlikda nechaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
     },
@@ -9412,6 +9803,7 @@ const informatika = {
           "text": "Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'IP manzil'ga tegishli."
     },
@@ -9436,6 +9828,7 @@ const informatika = {
           "text": "Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili."
     },
@@ -9460,6 +9853,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'MAC manzil'ga tegishli."
     },
@@ -9484,6 +9878,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma."
     },
@@ -9508,6 +9903,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
     },
@@ -9532,6 +9928,7 @@ const informatika = {
           "text": "Apple kompaniyasining asoschilari kimlar?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
     },
@@ -9556,6 +9953,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kommutator (Switch)'ga tegishli."
     },
@@ -9580,6 +9978,7 @@ const informatika = {
           "text": "Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
     },
@@ -9604,6 +10003,7 @@ const informatika = {
           "text": "Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.docx / .doc'ga tegishli."
     },
@@ -9628,6 +10028,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": ".xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi."
     },
@@ -9652,6 +10053,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.xlsx / .xls'ga tegishli."
     },
@@ -9676,6 +10078,7 @@ const informatika = {
           "text": "Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
     },
@@ -9700,6 +10103,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.pptx / .ppt'ga tegishli."
     },
@@ -9724,6 +10128,7 @@ const informatika = {
           "text": "Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": ".html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
     },
@@ -9748,6 +10153,7 @@ const informatika = {
           "text": "Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.html / .htm'ga tegishli."
     },
@@ -9772,6 +10178,7 @@ const informatika = {
           "text": "Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".mp3 / .wav - Raqamli audio (tovush) fayllari formati."
     },
@@ -9796,6 +10203,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.mp3 / .wav'ga tegishli."
     },
@@ -9820,6 +10228,7 @@ const informatika = {
           "text": "Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
     },
@@ -9844,6 +10253,7 @@ const informatika = {
           "text": "HTML tili asosan nima uchun ishlatiladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
     },
@@ -9868,6 +10278,7 @@ const informatika = {
           "text": "Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
     },
@@ -9892,6 +10303,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
     },
@@ -9916,6 +10328,7 @@ const informatika = {
           "text": "Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli."
     },
@@ -9940,6 +10353,7 @@ const informatika = {
           "text": "Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.zip / .rar / .7z'ga tegishli."
     },
@@ -9964,6 +10378,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": ".exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
     },
@@ -9988,6 +10403,7 @@ const informatika = {
           "text": "Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.exe / .msi'ga tegishli."
     },
@@ -10012,6 +10428,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
     },
@@ -10036,6 +10453,7 @@ const informatika = {
           "text": "O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli."
     },
@@ -10060,6 +10478,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
     },
@@ -10084,6 +10503,7 @@ const informatika = {
           "text": "Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
     },
@@ -10108,6 +10528,7 @@ const informatika = {
           "text": "Apple kompaniyasining asoschilari kimlar?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur."
     },
@@ -10132,6 +10553,7 @@ const informatika = {
           "text": "HTML tili asosan nima uchun ishlatiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Drayver'ga tegishli."
     },
@@ -10156,6 +10578,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim."
     },
@@ -10180,6 +10603,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli."
     },
@@ -10204,6 +10628,7 @@ const informatika = {
           "text": "Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi."
     },
@@ -10228,6 +10653,7 @@ const informatika = {
           "text": "Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Antivirus dasturi'ga tegishli."
     },
@@ -10252,6 +10678,7 @@ const informatika = {
           "text": "Axborot xavfsizligining uchta asosiy tamoyili qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha."
     },
@@ -10276,6 +10703,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli."
     },
@@ -10300,6 +10728,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma."
     },
@@ -10324,6 +10753,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli."
     },
@@ -10348,6 +10778,7 @@ const informatika = {
           "text": "Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki."
     },
@@ -10372,6 +10803,7 @@ const informatika = {
           "text": "Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Funksiya (Function)'ga tegishli."
     },
@@ -10396,6 +10828,7 @@ const informatika = {
           "text": "O'n oltilikdagi 1A soni o'nlikda nechaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
     },
@@ -10420,6 +10853,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Rekursiya'ga tegishli."
     },
@@ -10444,6 +10878,7 @@ const informatika = {
           "text": "Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita."
     },
@@ -10468,6 +10903,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kompilyator'ga tegishli."
     },
@@ -10492,6 +10928,7 @@ const informatika = {
           "text": "Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
     },
@@ -10516,6 +10953,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Interpretator'ga tegishli."
     },
@@ -10540,6 +10978,7 @@ const informatika = {
           "text": "Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg."
     },
@@ -10564,6 +11003,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<table> tegi'ga tegishli."
     },
@@ -10588,6 +11028,7 @@ const informatika = {
           "text": "Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
     },
@@ -10612,6 +11053,7 @@ const informatika = {
           "text": "Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<tr> tegi'ga tegishli."
     },
@@ -10636,6 +11078,7 @@ const informatika = {
           "text": "Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
     },
@@ -10660,6 +11103,7 @@ const informatika = {
           "text": "Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<td> tegi'ga tegishli."
     },
@@ -10684,6 +11128,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
     },
@@ -10708,6 +11153,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<form> tegi'ga tegishli."
     },
@@ -10732,6 +11178,7 @@ const informatika = {
           "text": "Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg."
     },
@@ -10756,6 +11203,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<input> tegi'ga tegishli."
     },
@@ -10780,6 +11228,7 @@ const informatika = {
           "text": "Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili."
     },
@@ -10804,6 +11253,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'JavaScript'ga tegishli."
     },
@@ -10828,6 +11278,7 @@ const informatika = {
           "text": "Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "print() orqali natija konsolga chiqariladi."
     },
@@ -10852,6 +11303,7 @@ const informatika = {
           "text": "Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "input() klaviaturadan satr ko'rinishida qabul qiladi."
     },
@@ -10876,6 +11328,7 @@ const informatika = {
           "text": "Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "if shart: ... elif ... else."
     },
@@ -10900,6 +11353,7 @@ const informatika = {
           "text": "Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "def funksiya_nomi(parametrlar): ..."
     },
@@ -10924,6 +11378,7 @@ const informatika = {
           "text": "Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "for i in range(...): tsikli."
     },
@@ -10948,6 +11403,7 @@ const informatika = {
           "text": "Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "while shart: ... tsikli."
     },
@@ -10972,6 +11428,7 @@ const informatika = {
           "text": "Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ro'yxat: a = [1, 2, 3]."
     },
@@ -10996,6 +11453,7 @@ const informatika = {
           "text": "Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kortej: a = (1, 2, 3)."
     },
@@ -11020,6 +11478,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lug'at: d = {'ism': 'Ali', 'yosh': 16}."
     },
@@ -11044,6 +11503,7 @@ const informatika = {
           "text": "Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "len(a) ro'yxat yoki satr uzunligini qaytaradi."
     },
@@ -11068,6 +11528,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG)."
     },
@@ -11092,6 +11553,7 @@ const informatika = {
           "text": "Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
     },
@@ -11116,6 +11578,7 @@ const informatika = {
           "text": "Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model."
     },
@@ -11140,6 +11603,7 @@ const informatika = {
           "text": "Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "CMYK bo'yoqlar aralashuvi modelidir."
     },
@@ -11164,6 +11628,7 @@ const informatika = {
           "text": "Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "CIA triad: Confidentiality, Integrity, Availability."
     },
@@ -11188,6 +11653,7 @@ const informatika = {
           "text": "Fayllarni siqish (arxivlash)dan asosiy maqsad nima?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Arxivlash fayl hajmini kamaytiradi (ZIP, RAR)."
     },
@@ -11212,6 +11678,7 @@ const informatika = {
           "text": "Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir."
     },
@@ -11236,6 +11703,7 @@ const informatika = {
           "text": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan."
     },
@@ -11260,6 +11728,7 @@ const informatika = {
           "text": "O'n oltilikdagi 1A soni o'nlikda nechaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1975-yilda tashkil topgan."
     },
@@ -11284,6 +11753,7 @@ const informatika = {
           "text": "Apple kompaniyasining asoschilari kimlar?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1976-yilda Apple I kompyuterini yaratgan."
     },
@@ -11308,6 +11778,7 @@ const informatika = {
           "text": "Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1998-yilda Stenford universiteti talabalari tomonidan yaratilgan."
     },
@@ -11332,6 +11803,7 @@ const informatika = {
           "text": "1 bayt = 8 bit."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "1 bayt = 8 bit."
     },
@@ -11356,6 +11828,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
     },
@@ -11380,6 +11853,7 @@ const informatika = {
           "text": "HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
     },
@@ -11404,6 +11878,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
     },
@@ -11428,6 +11903,7 @@ const informatika = {
           "text": "1 KB = 2¹⁰ bayt = 1024 bayt."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 KB = 2¹⁰ bayt = 1024 bayt."
     },
@@ -11452,6 +11928,7 @@ const informatika = {
           "text": "Ustunlar ob'ektning xossasi yoki 'maydon'idir."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 MB = 1024 KB = 2²⁰ bayt."
     },
@@ -11476,6 +11953,7 @@ const informatika = {
           "text": "Ushbu ta'rif '<form> tegi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 GB = 1024 MB."
     },
@@ -11500,6 +11978,7 @@ const informatika = {
           "text": "1·16¹ + 10·16⁰ = 16 + 10 = 26."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
     },
@@ -11524,6 +12003,7 @@ const informatika = {
           "text": "Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
     },
@@ -11548,6 +12028,7 @@ const informatika = {
           "text": "N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit)."
     },
@@ -11572,6 +12053,7 @@ const informatika = {
           "text": "DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
     },
@@ -11596,6 +12078,7 @@ const informatika = {
           "text": "8 + 4 + 2 + 1 = 15."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "8 + 4 + 2 + 1 = 15."
     },
@@ -11620,6 +12103,7 @@ const informatika = {
           "text": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "16 = 2⁴ = 10000₂."
     },
@@ -11644,6 +12128,7 @@ const informatika = {
           "text": "<img src='...' alt='...'>."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi."
     },
@@ -11668,6 +12153,7 @@ const informatika = {
           "text": "NOT 1 = 0, NOT 0 = 1."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "1·16¹ + 10·16⁰ = 16 + 10 = 26."
     },
@@ -11692,6 +12178,7 @@ const informatika = {
           "text": "Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "RAM - energiyaga bog'liq tezkor xotiradir."
     },
@@ -11716,6 +12203,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi."
     },
@@ -11740,6 +12228,7 @@ const informatika = {
           "text": ".html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir."
     },
@@ -11764,6 +12253,7 @@ const informatika = {
           "text": "Ushbu ta'rif '<td> tegi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "HDD magnit disklar asosida ishlaydi."
     },
@@ -11788,6 +12278,7 @@ const informatika = {
           "text": "HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi."
     },
@@ -11812,6 +12303,7 @@ const informatika = {
           "text": "Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
     },
@@ -11836,6 +12328,7 @@ const informatika = {
           "text": ".docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Skaner qog'ozdagi tasvirni kompyuterga kiritadi."
     },
@@ -11860,6 +12353,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Printer raqamli ma'lumotni qog'ozga chiqaradi."
     },
@@ -11884,6 +12378,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.html / .htm'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Plotter katta o'lchamli chizmalar uchun ishlatiladi."
     },
@@ -11908,6 +12403,7 @@ const informatika = {
           "text": "Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "A AND B faqat 1 va 1 bo'lganda 1 bo'ladi."
     },
@@ -11932,6 +12428,7 @@ const informatika = {
           "text": ".mp3 / .wav - Raqamli audio (tovush) fayllari formati."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "A OR B faqat 0 va 0 bo'lganda 0 ga teng."
     },
@@ -11956,6 +12453,7 @@ const informatika = {
           "text": "Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "NOT 1 = 0, NOT 0 = 1."
     },
@@ -11980,6 +12478,7 @@ const informatika = {
           "text": "SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Algoritm 5 ta asosiy xossaga ega."
     },
@@ -12004,6 +12503,7 @@ const informatika = {
           "text": "CIA triad: Confidentiality, Integrity, Availability."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Romb ichiga shart yoziladi (ha/yo'q)."
     },
@@ -12028,6 +12528,7 @@ const informatika = {
           "text": "Ushbu ta'rif '<input> tegi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Parallelogramm kiritish-chiqarish blokidir."
     },
@@ -12052,6 +12553,7 @@ const informatika = {
           "text": "RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Amal yoki hisoblash to'g'ri to'rtburchakda beriladi."
     },
@@ -12076,6 +12578,7 @@ const informatika = {
           "text": "Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Boshlash va tamom oval ichiga yoziladi."
     },
@@ -12100,6 +12603,7 @@ const informatika = {
           "text": "CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Masalan: 7 // 2 = 3."
     },
@@ -12124,6 +12628,7 @@ const informatika = {
           "text": "int - integer (butun son)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Masalan: 7 % 2 = 1."
     },
@@ -12148,6 +12653,7 @@ const informatika = {
           "text": "Masalan: 2 ** 3 = 8."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan: 2 ** 3 = 8."
     },
@@ -12172,6 +12678,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'MAC manzil'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "int - integer (butun son)."
     },
@@ -12196,6 +12703,7 @@ const informatika = {
           "text": "Arxivlash fayl hajmini kamaytiradi (ZIP, RAR)."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "float - suzuvchi vergulli son."
     },
@@ -12220,6 +12728,7 @@ const informatika = {
           "text": "str - qo'shtirnoq ichidagi matn."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "str - qo'shtirnoq ichidagi matn."
     },
@@ -12244,6 +12753,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "<a href='...'>Havola matni</a>."
     },
@@ -12268,6 +12778,7 @@ const informatika = {
           "text": "Masalan: 7 % 2 = 1."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "<img src='...' alt='...'>."
     },
@@ -12292,6 +12803,7 @@ const informatika = {
           "text": "if shart: ... elif ... else."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "h1 eng katta sarlavha, h6 eng kichigi."
     },
@@ -12316,6 +12828,7 @@ const informatika = {
           "text": "FTP - File Transfer Protocol."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "ol - ordered list, ul - unordered list."
     },
@@ -12340,6 +12853,7 @@ const informatika = {
           "text": "CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
     },
@@ -12364,6 +12878,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.mp3 / .wav'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir."
     },
@@ -12388,6 +12903,7 @@ const informatika = {
           "text": "CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
     },
@@ -12412,6 +12928,7 @@ const informatika = {
           "text": "MAC address 48 bitli unikal apparat manzilidir."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "MAC address 48 bitli unikal apparat manzilidir."
     },
@@ -12436,6 +12953,7 @@ const informatika = {
           "text": "1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "FTP - File Transfer Protocol."
     },
@@ -12460,6 +12978,7 @@ const informatika = {
           "text": "HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "SMTP - Simple Mail Transfer Protocol."
     },
@@ -12484,6 +13003,7 @@ const informatika = {
           "text": "Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan."
     },
@@ -12508,6 +13028,7 @@ const informatika = {
           "text": "Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
     },
@@ -12532,6 +13053,7 @@ const informatika = {
           "text": "O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ustunlar ob'ektning xossasi yoki 'maydon'idir."
     },
@@ -12556,6 +13078,7 @@ const informatika = {
           "text": "Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi."
     },
@@ -12580,6 +13103,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish."
     },
@@ -12604,6 +13128,7 @@ const informatika = {
           "text": "input() klaviaturadan satr ko'rinishida qabul qiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli."
     },
@@ -12628,6 +13153,7 @@ const informatika = {
           "text": "Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
     },
@@ -12652,6 +13178,7 @@ const informatika = {
           "text": "Printer raqamli ma'lumotni qog'ozga chiqaradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli."
     },
@@ -12676,6 +13203,7 @@ const informatika = {
           "text": "CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash."
     },
@@ -12700,6 +13228,7 @@ const informatika = {
           "text": "DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
     },
@@ -12724,6 +13253,7 @@ const informatika = {
           "text": "Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
     },
@@ -12748,6 +13278,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
     },
@@ -12772,6 +13303,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish."
     },
@@ -12796,6 +13328,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Videokarta (GPU)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Videokarta (GPU)'ga tegishli."
     },
@@ -12820,6 +13353,7 @@ const informatika = {
           "text": "Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
     },
@@ -12844,6 +13378,7 @@ const informatika = {
           "text": "Algoritm 5 ta asosiy xossaga ega."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli."
     },
@@ -12868,6 +13403,7 @@ const informatika = {
           "text": "SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
     },
@@ -12892,6 +13428,7 @@ const informatika = {
           "text": "ol - ordered list, ul - unordered list."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
     },
@@ -12916,6 +13453,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
     },
@@ -12940,6 +13478,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
     },
@@ -12964,6 +13503,7 @@ const informatika = {
           "text": "Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli."
     },
@@ -12988,6 +13528,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli."
     },
@@ -13012,6 +13553,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
     },
@@ -13036,6 +13578,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli."
     },
@@ -13060,6 +13603,7 @@ const informatika = {
           "text": "POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
     },
@@ -13084,6 +13628,7 @@ const informatika = {
           "text": "Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'POP3 va IMAP'ga tegishli."
     },
@@ -13108,6 +13653,7 @@ const informatika = {
           "text": "DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
     },
@@ -13132,6 +13678,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
     },
@@ -13156,6 +13703,7 @@ const informatika = {
           "text": "O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
     },
@@ -13180,6 +13728,7 @@ const informatika = {
           "text": "DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'IP manzil'ga tegishli."
     },
@@ -13204,6 +13753,7 @@ const informatika = {
           "text": "Ushbu ta'rif '<td> tegi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili."
     },
@@ -13228,6 +13778,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'MAC manzil'ga tegishli."
     },
@@ -13252,6 +13803,7 @@ const informatika = {
           "text": "CIA triad: Confidentiality, Integrity, Availability."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma."
     },
@@ -13276,6 +13828,7 @@ const informatika = {
           "text": "A OR B faqat 0 va 0 bo'lganda 0 ga teng."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
     },
@@ -13300,6 +13853,7 @@ const informatika = {
           "text": "Ushbu ta'rif '<table> tegi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
     },
@@ -13324,6 +13878,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Kommutator (Switch)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kommutator (Switch)'ga tegishli."
     },
@@ -13348,6 +13903,7 @@ const informatika = {
           "text": ".docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
     },
@@ -13372,6 +13928,7 @@ const informatika = {
           "text": ".jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.docx / .doc'ga tegishli."
     },
@@ -13396,6 +13953,7 @@ const informatika = {
           "text": "Masalan: 7 // 2 = 3."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi."
     },
@@ -13420,6 +13978,7 @@ const informatika = {
           "text": "Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.xlsx / .xls'ga tegishli."
     },
@@ -13444,6 +14003,7 @@ const informatika = {
           "text": ".pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
     },
@@ -13468,6 +14028,7 @@ const informatika = {
           "text": "while shart: ... tsikli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.pptx / .ppt'ga tegishli."
     },
@@ -13492,6 +14053,7 @@ const informatika = {
           "text": ".html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
     },
@@ -13516,6 +14078,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.html / .htm'ga tegishli."
     },
@@ -13540,6 +14103,7 @@ const informatika = {
           "text": "Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": ".mp3 / .wav - Raqamli audio (tovush) fayllari formati."
     },
@@ -13564,6 +14128,7 @@ const informatika = {
           "text": "Algoritm 5 ta asosiy xossaga ega."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.mp3 / .wav'ga tegishli."
     },
@@ -13588,6 +14153,7 @@ const informatika = {
           "text": ".mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
     },
@@ -13612,6 +14178,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
     },
@@ -13636,6 +14203,7 @@ const informatika = {
           "text": ".jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
     },
@@ -13660,6 +14228,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
     },
@@ -13684,6 +14253,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": ".zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli."
     },
@@ -13708,6 +14278,7 @@ const informatika = {
           "text": "Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.zip / .rar / .7z'ga tegishli."
     },
@@ -13732,6 +14303,7 @@ const informatika = {
           "text": ".exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
     },
@@ -13756,6 +14328,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.exe / .msi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif '.exe / .msi'ga tegishli."
     },
@@ -13780,6 +14353,7 @@ const informatika = {
           "text": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
     },
@@ -13804,6 +14378,7 @@ const informatika = {
           "text": "Masalan: 7 % 2 = 1."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli."
     },
@@ -13828,6 +14403,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
     },
@@ -13852,6 +14428,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
     },
@@ -13876,6 +14453,7 @@ const informatika = {
           "text": ".mp3 / .wav - Raqamli audio (tovush) fayllari formati."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur."
     },
@@ -13900,6 +14478,7 @@ const informatika = {
           "text": ".jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Drayver'ga tegishli."
     },
@@ -13924,6 +14503,7 @@ const informatika = {
           "text": "HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim."
     },
@@ -13948,6 +14528,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli."
     },
@@ -13972,6 +14553,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi."
     },
@@ -13996,6 +14578,7 @@ const informatika = {
           "text": "Romb ichiga shart yoziladi (ha/yo'q)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Antivirus dasturi'ga tegishli."
     },
@@ -14020,6 +14603,7 @@ const informatika = {
           "text": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha."
     },
@@ -14044,6 +14628,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli."
     },
@@ -14068,6 +14653,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.zip / .rar / .7z'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma."
     },
@@ -14092,6 +14678,7 @@ const informatika = {
           "text": "IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli."
     },
@@ -14116,6 +14703,7 @@ const informatika = {
           "text": "SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki."
     },
@@ -14140,6 +14728,7 @@ const informatika = {
           "text": "Arxivlash fayl hajmini kamaytiradi (ZIP, RAR)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Funksiya (Function)'ga tegishli."
     },
@@ -14164,6 +14753,7 @@ const informatika = {
           "text": "Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
     },
@@ -14188,6 +14778,7 @@ const informatika = {
           "text": "Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Rekursiya'ga tegishli."
     },
@@ -14212,6 +14803,7 @@ const informatika = {
           "text": "Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita."
     },
@@ -14236,6 +14828,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kompilyator'ga tegishli."
     },
@@ -14260,6 +14853,7 @@ const informatika = {
           "text": "Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
     },
@@ -14284,6 +14878,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Interpretator'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Interpretator'ga tegishli."
     },
@@ -14308,6 +14903,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg."
     },
@@ -14332,6 +14928,7 @@ const informatika = {
           "text": "Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<table> tegi'ga tegishli."
     },
@@ -14356,6 +14953,7 @@ const informatika = {
           "text": "1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
     },
@@ -14380,6 +14978,7 @@ const informatika = {
           "text": "1975-yilda tashkil topgan."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<tr> tegi'ga tegishli."
     },
@@ -14404,6 +15003,7 @@ const informatika = {
           "text": "<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
     },
@@ -14428,6 +15028,7 @@ const informatika = {
           "text": "<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<td> tegi'ga tegishli."
     },
@@ -14452,6 +15053,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
     },
@@ -14476,6 +15078,7 @@ const informatika = {
           "text": "Ushbu ta'rif '.pptx / .ppt'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<form> tegi'ga tegishli."
     },
@@ -14500,6 +15103,7 @@ const informatika = {
           "text": "ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg."
     },
@@ -14524,6 +15128,7 @@ const informatika = {
           "text": "Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif '<input> tegi'ga tegishli."
     },
@@ -14548,6 +15153,7 @@ const informatika = {
           "text": "Masalan: 7 // 2 = 3."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili."
     },
@@ -14572,6 +15178,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'JavaScript'ga tegishli."
     },
@@ -14596,6 +15203,7 @@ const informatika = {
           "text": "1976-yilda Apple I kompyuterini yaratgan."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "print() orqali natija konsolga chiqariladi."
     },
@@ -14620,6 +15228,7 @@ const informatika = {
           "text": "HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "input() klaviaturadan satr ko'rinishida qabul qiladi."
     },
@@ -14644,6 +15253,7 @@ const informatika = {
           "text": "if shart: ... elif ... else."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "if shart: ... elif ... else."
     },
@@ -14668,6 +15278,7 @@ const informatika = {
           "text": "<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "def funksiya_nomi(parametrlar): ..."
     },
@@ -14692,6 +15303,7 @@ const informatika = {
           "text": "for i in range(...): tsikli."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "for i in range(...): tsikli."
     },
@@ -14716,6 +15328,7 @@ const informatika = {
           "text": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "while shart: ... tsikli."
     },
@@ -14740,6 +15353,7 @@ const informatika = {
           "text": "Masalan: 7 % 2 = 1."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ro'yxat: a = [1, 2, 3]."
     },
@@ -14764,6 +15378,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'MAC manzil'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kortej: a = (1, 2, 3)."
     },
@@ -14788,6 +15403,7 @@ const informatika = {
           "text": "HDD magnit disklar asosida ishlaydi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Lug'at: d = {'ism': 'Ali', 'yosh': 16}."
     },
@@ -14812,6 +15428,7 @@ const informatika = {
           "text": "len(a) ro'yxat yoki satr uzunligini qaytaradi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "len(a) ro'yxat yoki satr uzunligini qaytaradi."
     },
@@ -14836,6 +15453,7 @@ const informatika = {
           "text": "Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG)."
     },
@@ -14860,6 +15478,7 @@ const informatika = {
           "text": "Algoritm 5 ta asosiy xossaga ega."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
     },
@@ -14884,6 +15503,7 @@ const informatika = {
           "text": "Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model."
     },
@@ -14908,6 +15528,7 @@ const informatika = {
           "text": "Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "CMYK bo'yoqlar aralashuvi modelidir."
     },
@@ -14932,6 +15553,7 @@ const informatika = {
           "text": "CIA triad: Confidentiality, Integrity, Availability."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "CIA triad: Confidentiality, Integrity, Availability."
     },
@@ -14956,6 +15578,7 @@ const informatika = {
           "text": "Plotter katta o'lchamli chizmalar uchun ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Arxivlash fayl hajmini kamaytiradi (ZIP, RAR)."
     },
@@ -14980,6 +15603,7 @@ const informatika = {
           "text": "Masalan: 7 % 2 = 1."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir."
     },
@@ -15004,6 +15628,7 @@ const informatika = {
           "text": "Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan."
     },
@@ -15028,6 +15653,7 @@ const informatika = {
           "text": "1975-yilda tashkil topgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1975-yilda tashkil topgan."
     },
@@ -15052,6 +15678,7 @@ const informatika = {
           "text": "Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1976-yilda Apple I kompyuterini yaratgan."
     },
@@ -15076,6 +15703,7 @@ const informatika = {
           "text": "print() orqali natija konsolga chiqariladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1998-yilda Stenford universiteti talabalari tomonidan yaratilgan."
     },
@@ -15100,6 +15728,7 @@ const informatika = {
           "text": "Protsessor"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
     },
@@ -15124,6 +15753,7 @@ const informatika = {
           "text": "9"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
     },
@@ -15148,6 +15778,7 @@ const informatika = {
           "text": "512 bayt"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 KB = 2¹⁰ bayt = 1024 bayt."
     },
@@ -15172,6 +15803,7 @@ const informatika = {
           "text": "1024 KB"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 MB = 1024 KB = 2²⁰ bayt."
     },
@@ -15196,6 +15828,7 @@ const informatika = {
           "text": "1024 MB"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1 GB = 1024 MB."
     },
@@ -15220,6 +15853,7 @@ const informatika = {
           "text": "16"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "8 + 4 + 2 + 1 = 15."
     },
@@ -15244,6 +15878,7 @@ const informatika = {
           "text": "1111"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "16 = 2⁴ = 10000₂."
     },
@@ -15268,6 +15903,7 @@ const informatika = {
           "text": "10"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "1·16¹ + 10·16⁰ = 16 + 10 = 26."
     },
@@ -15292,6 +15928,7 @@ const informatika = {
           "text": "Monitor"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Skaner qog'ozdagi tasvirni kompyuterga kiritadi."
     },
@@ -15316,6 +15953,7 @@ const informatika = {
           "text": "Klaviatura"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Printer raqamli ma'lumotni qog'ozga chiqaradi."
     },
@@ -15340,6 +15978,7 @@ const informatika = {
           "text": "Romb"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Romb ichiga shart yoziladi (ha/yo'q)."
     },
@@ -15364,6 +16003,7 @@ const informatika = {
           "text": "Doira"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Parallelogramm kiritish-chiqarish blokidir."
     },
@@ -15388,6 +16028,7 @@ const informatika = {
           "text": "Trapetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Amal yoki hisoblash to'g'ri to'rtburchakda beriladi."
     },
@@ -15412,6 +16053,7 @@ const informatika = {
           "text": "/"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Masalan: 7 // 2 = 3."
     },
@@ -15436,6 +16078,7 @@ const informatika = {
           "text": "//"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Masalan: 2 ** 3 = 8."
     },
@@ -15460,6 +16103,7 @@ const informatika = {
           "text": "str"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "int - integer (butun son)."
     },
@@ -15484,6 +16128,7 @@ const informatika = {
           "text": "char"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "float - suzuvchi vergulli son."
     },
@@ -15508,6 +16153,7 @@ const informatika = {
           "text": "POP3"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "FTP - File Transfer Protocol."
     },
@@ -15532,6 +16178,7 @@ const informatika = {
           "text": "SMTP"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "SMTP - Simple Mail Transfer Protocol."
     },
@@ -15556,6 +16203,7 @@ const informatika = {
           "text": "Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish."
     },
@@ -15580,6 +16228,7 @@ const informatika = {
           "text": "Qattiq disk"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli."
     },
@@ -15604,6 +16253,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
     },
@@ -15628,6 +16278,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash."
     },
@@ -15652,6 +16303,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
     },
@@ -15676,6 +16328,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish."
     },
@@ -15700,6 +16353,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
     },
@@ -15724,6 +16378,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
     },
@@ -15748,6 +16403,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
     },
@@ -15772,6 +16428,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli."
     },
@@ -15796,6 +16453,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
     },
@@ -15820,6 +16478,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
     },
@@ -15844,6 +16503,7 @@ const informatika = {
           "text": "Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
     },
@@ -15868,6 +16528,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
     },
@@ -15892,6 +16553,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili."
     },
@@ -15916,6 +16578,7 @@ const informatika = {
           "text": "Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma."
     },
@@ -15940,6 +16603,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
     },
@@ -15964,6 +16628,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": ".docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
     },
@@ -15988,6 +16653,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi."
     },
@@ -16012,6 +16678,7 @@ const informatika = {
           "text": "Microsoft PowerPoint taqdimot fayli kengaytmasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
     },
@@ -16036,6 +16703,7 @@ const informatika = {
           "text": "Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
     },
@@ -16060,6 +16728,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".mp3 / .wav - Raqamli audio (tovush) fayllari formati."
     },
@@ -16084,6 +16753,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": ".mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
     },
@@ -16108,6 +16778,7 @@ const informatika = {
           "text": "Raqamli rastrli va vektorli grafik tasvirlar formati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": ".jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
     },
@@ -16132,6 +16803,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": ".zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli."
     },
@@ -16156,6 +16828,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": ".exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
     },
@@ -16180,6 +16853,7 @@ const informatika = {
           "text": "Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
     },
@@ -16204,6 +16878,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
     },
@@ -16228,6 +16903,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur."
     },
@@ -16252,6 +16928,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim."
     },
@@ -16276,6 +16953,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi."
     },
@@ -16300,6 +16978,7 @@ const informatika = {
           "text": "Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha."
     },
@@ -16324,6 +17003,7 @@ const informatika = {
           "text": "Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma."
     },
@@ -16348,6 +17028,7 @@ const informatika = {
           "text": "Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki."
     },
@@ -16372,6 +17053,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
     },
@@ -16396,6 +17078,7 @@ const informatika = {
           "text": "Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita."
     },
@@ -16420,6 +17103,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
     },
@@ -16444,6 +17128,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg."
     },
@@ -16468,6 +17153,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
     },
@@ -16492,6 +17178,7 @@ const informatika = {
           "text": "HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
     },
@@ -16516,6 +17203,7 @@ const informatika = {
           "text": "Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
     },
@@ -16540,6 +17228,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg."
     },
@@ -16564,6 +17253,7 @@ const informatika = {
           "text": "Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili."
     },
@@ -16588,6 +17278,7 @@ const informatika = {
           "text": "echo()"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "print() orqali natija konsolga chiqariladi."
     },
@@ -16612,6 +17303,7 @@ const informatika = {
           "text": "print()"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "input() klaviaturadan satr ko'rinishida qabul qiladi."
     },
@@ -16636,6 +17328,7 @@ const informatika = {
           "text": "while"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "if shart: ... elif ... else."
     },
@@ -16660,6 +17353,7 @@ const informatika = {
           "text": "function"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "def funksiya_nomi(parametrlar): ..."
     },
@@ -16684,6 +17378,7 @@ const informatika = {
           "text": "def"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "for i in range(...): tsikli."
     },
@@ -16708,6 +17403,7 @@ const informatika = {
           "text": "for"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "while shart: ... tsikli."
     },
@@ -16724,6 +17420,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 1 bayt = 8 bit."
     },
@@ -16740,6 +17437,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
     },
@@ -16756,6 +17454,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
     },
@@ -16772,6 +17471,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Ha. 1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
     },
@@ -16788,6 +17488,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1 KB = 2¹⁰ bayt = 1024 bayt."
     },
@@ -16804,6 +17505,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1 MB = 1024 KB = 2²⁰ bayt."
     },
@@ -16820,6 +17522,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1 GB = 1024 MB."
     },
@@ -16836,6 +17539,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
     },
@@ -16852,6 +17556,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
     },
@@ -16868,6 +17573,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit)."
     },
@@ -16884,6 +17590,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
     },
@@ -16900,6 +17607,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 8 + 4 + 2 + 1 = 15."
     },
@@ -16916,6 +17624,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 16 = 2⁴ = 10000₂."
     },
@@ -16932,6 +17641,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi."
     },
@@ -16948,6 +17658,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. 1·16¹ + 10·16⁰ = 16 + 10 = 26."
     },
@@ -16964,6 +17675,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. RAM - energiyaga bog'liq tezkor xotiradir."
     },
@@ -16980,6 +17692,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi."
     },
@@ -16996,6 +17709,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir."
     },
@@ -17012,6 +17726,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. HDD magnit disklar asosida ishlaydi."
     },
@@ -17028,6 +17743,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi."
     },
@@ -17044,6 +17760,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
     },
@@ -17060,6 +17777,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Skaner qog'ozdagi tasvirni kompyuterga kiritadi."
     },
@@ -17076,6 +17794,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Printer raqamli ma'lumotni qog'ozga chiqaradi."
     },
@@ -17092,6 +17811,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Plotter katta o'lchamli chizmalar uchun ishlatiladi."
     },
@@ -17108,6 +17828,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. A AND B faqat 1 va 1 bo'lganda 1 bo'ladi."
     },
@@ -17124,6 +17845,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. A OR B faqat 0 va 0 bo'lganda 0 ga teng."
     },
@@ -17140,6 +17862,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. NOT 1 = 0, NOT 0 = 1."
     },
@@ -17156,6 +17879,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Algoritm 5 ta asosiy xossaga ega."
     },
@@ -17172,6 +17896,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Romb ichiga shart yoziladi (ha/yo'q)."
     },
@@ -17188,6 +17913,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Parallelogramm kiritish-chiqarish blokidir."
     },
@@ -17204,6 +17930,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Amal yoki hisoblash to'g'ri to'rtburchakda beriladi."
     },
@@ -17220,6 +17947,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Boshlash va tamom oval ichiga yoziladi."
     },
@@ -17236,6 +17964,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Masalan: 7 // 2 = 3."
     },
@@ -17252,6 +17981,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Masalan: 7 % 2 = 1."
     },
@@ -17268,6 +17998,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Masalan: 2 ** 3 = 8."
     },
@@ -17284,6 +18015,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. int - integer (butun son)."
     },
@@ -17300,6 +18032,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. float - suzuvchi vergulli son."
     },
@@ -17316,6 +18049,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. str - qo'shtirnoq ichidagi matn."
     },
@@ -17332,6 +18066,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. <a href='...'>Havola matni</a>."
     },
@@ -17348,6 +18083,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. <img src='...' alt='...'>."
     },
@@ -17364,6 +18100,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. h1 eng katta sarlavha, h6 eng kichigi."
     },
@@ -17380,6 +18117,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. ol - ordered list, ul - unordered list."
     },
@@ -17396,6 +18134,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
     },
@@ -17412,6 +18151,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir."
     },
@@ -17428,6 +18168,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
     },
@@ -17444,6 +18185,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. MAC address 48 bitli unikal apparat manzilidir."
     },
@@ -17460,6 +18202,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. FTP - File Transfer Protocol."
     },
@@ -17476,6 +18219,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. SMTP - Simple Mail Transfer Protocol."
     },
@@ -17492,6 +18236,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan."
     },
@@ -17508,6 +18253,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
     },
@@ -17524,6 +18270,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ustunlar ob'ektning xossasi yoki 'maydon'idir."
     },
@@ -17540,6 +18287,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi."
     },
@@ -17556,6 +18304,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish."
     },
@@ -17572,6 +18321,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli."
     },
@@ -17588,6 +18338,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
     },
@@ -17604,6 +18355,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli."
     },
@@ -17620,6 +18372,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash."
     },
@@ -17636,6 +18389,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
     },
@@ -17652,6 +18406,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
     },
@@ -17668,6 +18423,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
     },
@@ -17684,6 +18440,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish."
     },
@@ -17700,6 +18457,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Videokarta (GPU)'ga tegishli."
     },
@@ -17716,6 +18474,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
     },
@@ -17732,6 +18491,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli."
     },
@@ -17748,6 +18508,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
     },
@@ -17764,6 +18525,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
     },
@@ -17780,6 +18542,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
     },
@@ -17796,6 +18559,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
     },
@@ -17812,6 +18576,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli."
     },
@@ -17828,6 +18593,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli."
     },
@@ -17844,6 +18610,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
     },
@@ -17860,6 +18627,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli."
     },
@@ -17876,6 +18644,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
     },
@@ -17892,6 +18661,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'POP3 va IMAP'ga tegishli."
     },
@@ -17908,6 +18678,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
     },
@@ -17924,6 +18695,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
     },
@@ -17940,6 +18712,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
     },
@@ -17956,6 +18729,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'IP manzil'ga tegishli."
     },
@@ -17972,6 +18746,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili."
     },
@@ -17988,6 +18763,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'MAC manzil'ga tegishli."
     },
@@ -18004,6 +18780,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma."
     },
@@ -18020,6 +18797,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
     },
@@ -18036,6 +18814,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
     },
@@ -18052,6 +18831,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Kommutator (Switch)'ga tegishli."
     },
@@ -18068,6 +18848,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. .docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
     },
@@ -18084,6 +18865,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.docx / .doc'ga tegishli."
     },
@@ -18100,6 +18882,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. .xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi."
     },
@@ -18116,6 +18899,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.xlsx / .xls'ga tegishli."
     },
@@ -18132,6 +18916,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. .pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
     },
@@ -18148,6 +18933,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.pptx / .ppt'ga tegishli."
     },
@@ -18164,6 +18950,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. .html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
     },
@@ -18180,6 +18967,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.html / .htm'ga tegishli."
     },
@@ -18196,6 +18984,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. .mp3 / .wav - Raqamli audio (tovush) fayllari formati."
     },
@@ -18212,6 +19001,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.mp3 / .wav'ga tegishli."
     },
@@ -18228,6 +19018,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. .mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
     },
@@ -18244,6 +19035,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
     },
@@ -18260,6 +19052,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. .jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
     },
@@ -18276,6 +19069,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
     },
@@ -18292,6 +19086,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. .zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli."
     },
@@ -18308,6 +19103,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.zip / .rar / .7z'ga tegishli."
     },
@@ -18324,6 +19120,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. .exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
     },
@@ -18340,6 +19137,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '.exe / .msi'ga tegishli."
     },
@@ -18356,6 +19154,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
     },
@@ -18372,6 +19171,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli."
     },
@@ -18388,6 +19188,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
     },
@@ -18404,6 +19205,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
     },
@@ -18420,6 +19222,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur."
     },
@@ -18436,6 +19239,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Drayver'ga tegishli."
     },
@@ -18452,6 +19256,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim."
     },
@@ -18468,6 +19273,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli."
     },
@@ -18484,6 +19290,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi."
     },
@@ -18500,6 +19307,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Antivirus dasturi'ga tegishli."
     },
@@ -18516,6 +19324,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha."
     },
@@ -18532,6 +19341,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli."
     },
@@ -18548,6 +19358,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma."
     },
@@ -18564,6 +19375,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli."
     },
@@ -18580,6 +19392,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki."
     },
@@ -18596,6 +19409,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Funksiya (Function)'ga tegishli."
     },
@@ -18612,6 +19426,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
     },
@@ -18628,6 +19443,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Rekursiya'ga tegishli."
     },
@@ -18644,6 +19460,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita."
     },
@@ -18660,6 +19477,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Kompilyator'ga tegishli."
     },
@@ -18676,6 +19494,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
     },
@@ -18692,6 +19511,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Interpretator'ga tegishli."
     },
@@ -18708,6 +19528,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. <table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg."
     },
@@ -18724,6 +19545,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '<table> tegi'ga tegishli."
     },
@@ -18740,6 +19562,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. <tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
     },
@@ -18756,6 +19579,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '<tr> tegi'ga tegishli."
     },
@@ -18772,6 +19596,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. <td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
     },
@@ -18788,6 +19613,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '<td> tegi'ga tegishli."
     },
@@ -18804,6 +19630,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. <form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
     },
@@ -18820,6 +19647,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '<form> tegi'ga tegishli."
     },
@@ -18836,6 +19664,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. <input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg."
     },
@@ -18852,6 +19681,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif '<input> tegi'ga tegishli."
     },
@@ -18868,6 +19698,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili."
     },
@@ -18884,6 +19715,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'JavaScript'ga tegishli."
     },
@@ -18900,6 +19732,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. print() orqali natija konsolga chiqariladi."
     },
@@ -18916,6 +19749,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. input() klaviaturadan satr ko'rinishida qabul qiladi."
     },
@@ -18932,6 +19766,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. if shart: ... elif ... else."
     },
@@ -18948,6 +19783,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. def funksiya_nomi(parametrlar): ..."
     },
@@ -18964,6 +19800,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. for i in range(...): tsikli."
     },
@@ -18980,6 +19817,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. while shart: ... tsikli."
     },
@@ -18996,6 +19834,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ro'yxat: a = [1, 2, 3]."
     },
@@ -19012,6 +19851,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kortej: a = (1, 2, 3)."
     },
@@ -19028,6 +19868,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Lug'at: d = {'ism': 'Ali', 'yosh': 16}."
     },
@@ -19044,6 +19885,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. len(a) ro'yxat yoki satr uzunligini qaytaradi."
     },
@@ -19060,6 +19902,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG)."
     },
@@ -19076,6 +19919,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
     },
@@ -19092,6 +19936,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model."
     },
@@ -19108,6 +19953,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. CMYK bo'yoqlar aralashuvi modelidir."
     },
@@ -19124,6 +19970,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. CIA triad: Confidentiality, Integrity, Availability."
     },
@@ -19140,6 +19987,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Arxivlash fayl hajmini kamaytiradi (ZIP, RAR)."
     },
@@ -19156,6 +20004,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir."
     },
@@ -19172,6 +20021,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan."
     },
@@ -19188,6 +20038,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1975-yilda tashkil topgan."
     },
@@ -19204,6 +20055,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1976-yilda Apple I kompyuterini yaratgan."
     },
@@ -19220,6 +20072,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1998-yilda Stenford universiteti talabalari tomonidan yaratilgan."
     },
@@ -19236,6 +20089,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 8. 1 bayt = 8 bit."
     },
@@ -19252,6 +20106,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Protsessor. Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi."
     },
@@ -19268,6 +20123,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Web sahifa tuzilmasini yaratish. HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir."
     },
@@ -19284,6 +20140,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — 10. 1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10."
     },
@@ -19300,6 +20157,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1024 bayt. 1 KB = 2¹⁰ bayt = 1024 bayt."
     },
@@ -19316,6 +20174,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1024 KB. 1 MB = 1024 KB = 2²⁰ bayt."
     },
@@ -19332,6 +20191,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1024 MB. 1 GB = 1024 MB."
     },
@@ -19348,6 +20208,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1 bayt (8 bit). Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi."
     },
@@ -19364,6 +20225,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 2 bayt (16 bit). Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi."
     },
@@ -19380,6 +20242,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — N = 2^i. N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit)."
     },
@@ -19396,6 +20259,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — A, B, C, D, E, F. O'n oltilikda 10 dan 15 gacha harflar qo'llanadi."
     },
@@ -19412,6 +20276,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 15. 8 + 4 + 2 + 1 = 15."
     },
@@ -19428,6 +20293,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 10000. 16 = 2⁴ = 10000₂."
     },
@@ -19444,6 +20310,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 7. Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi."
     },
@@ -19460,6 +20327,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — 26. 1·16¹ + 10·16⁰ = 16 + 10 = 26."
     },
@@ -19476,6 +20344,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Operativ xotira (RAM). RAM - energiyaga bog'liq tezkor xotiradir."
     },
@@ -19492,6 +20361,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — BIOS dasturlari va dastlabki yuklash ko'rsatmalari. ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi."
     },
@@ -19508,6 +20378,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Protsessor va operativ xotira o'rtasidagi ma'lumot almashinuvini tezlashtiradi. Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir."
     },
@@ -19524,6 +20395,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qattiq disk (HDD). HDD magnit disklar asosida ishlaydi."
     },
@@ -19540,6 +20412,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — SSD (Solid State Drive). SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi."
     },
@@ -19556,6 +20429,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Gers (Gs, MGs, GGs). Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi."
     },
@@ -19572,6 +20446,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Skaner. Skaner qog'ozdagi tasvirni kompyuterga kiritadi."
     },
@@ -19588,6 +20463,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Printer. Printer raqamli ma'lumotni qog'ozga chiqaradi."
     },
@@ -19604,6 +20480,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Plotter (grafik yasagich). Plotter katta o'lchamli chizmalar uchun ishlatiladi."
     },
@@ -19620,6 +20497,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikkala mulohaza ham chin (1) bo'lganda. A AND B faqat 1 va 1 bo'lganda 1 bo'ladi."
     },
@@ -19636,6 +20514,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikkala mulohaza ham yolg'on (0) bo'lganda. A OR B faqat 0 va 0 bo'lganda 0 ga teng."
     },
@@ -19652,6 +20531,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Unar amal bo'lib, chin qiymatni yolg'onga, yolg'onni chinga aylantiradi. NOT 1 = 0, NOT 0 = 1."
     },
@@ -19668,6 +20548,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Diskretlik, tushunarlilik, aniqlik (determinallik), ommaviylik, natijaviylik. Algoritm 5 ta asosiy xossaga ega."
     },
@@ -19684,6 +20565,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Romb. Romb ichiga shart yoziladi (ha/yo'q)."
     },
@@ -19700,6 +20582,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Parallelogramm. Parallelogramm kiritish-chiqarish blokidir."
     },
@@ -19716,6 +20599,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — To'g'ri to'rtburchak. Amal yoki hisoblash to'g'ri to'rtburchakda beriladi."
     },
@@ -19732,6 +20616,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Oval (ellips). Boshlash va tamom oval ichiga yoziladi."
     },
@@ -19748,6 +20633,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — //. Masalan: 7 // 2 = 3."
     },
@@ -19764,6 +20650,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — %. Masalan: 7 % 2 = 1."
     },
@@ -19780,6 +20667,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — **. Masalan: 2 ** 3 = 8."
     },
@@ -19796,6 +20684,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — int. int - integer (butun son)."
     },
@@ -19812,6 +20701,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — float. float - suzuvchi vergulli son."
     },
@@ -19828,6 +20718,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — str (string). str - qo'shtirnoq ichidagi matn."
     },
@@ -19844,6 +20735,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — <a>. <a href='...'>Havola matni</a>."
     },
@@ -19860,6 +20752,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — <img>. <img src='...' alt='...'>."
     },
@@ -19876,6 +20769,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — <h1>. h1 eng katta sarlavha, h6 eng kichigi."
     },
@@ -19892,6 +20786,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — <ol>. ol - ordered list, ul - unordered list."
     },
@@ -19908,6 +20803,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Web sahifaning tashqi ko'rinishi va dizaynini bezash. CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi."
     },
@@ -19924,6 +20820,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 4 bayt (32 bit, masalan: 192.168.1.1). IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir."
     },
@@ -19940,6 +20837,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Domen nomlarini (masalan, google.com) IP manzilga aylantirib berish. DNS inson tushunadigan nomni kompyuter IP siga o'giradi."
     },
@@ -19956,6 +20854,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — MAC-manzil. MAC address 48 bitli unikal apparat manzilidir."
     },
@@ -19972,6 +20871,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — FTP. FTP - File Transfer Protocol."
     },
@@ -19988,6 +20888,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — SMTP. SMTP - Simple Mail Transfer Protocol."
     },
@@ -20004,6 +20905,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — O'zaro bog'langan jadvallar ko'rinishida. Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan."
     },
@@ -20020,6 +20922,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Yozuv (kortej / record). Jadval satri bitta ob'ektga tegishli 'yozuv'dir."
     },
@@ -20036,6 +20939,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Maydon (field / atribut). Ustunlar ob'ektning xossasi yoki 'maydon'idir."
     },
@@ -20052,6 +20956,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Birlamchi kalit (Primary Key). Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi."
     },
@@ -20068,6 +20973,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish. Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish."
     },
@@ -20084,6 +20990,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Markaziy protsessor (CPU). Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli."
     },
@@ -20100,6 +21007,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash. Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash."
     },
@@ -20116,6 +21024,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Operativ xotira (RAM). Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli."
     },
@@ -20132,6 +21041,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash. Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash."
     },
@@ -20148,6 +21058,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Doimiy xotira (ROM). Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli."
     },
@@ -20164,6 +21075,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish. Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish."
     },
@@ -20180,6 +21092,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kesh-xotira (Cache). Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli."
     },
@@ -20196,6 +21109,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish. Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish."
     },
@@ -20212,6 +21126,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Videokarta (GPU). Ushbu ta'rif 'Videokarta (GPU)'ga tegishli."
     },
@@ -20228,6 +21143,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata. Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata."
     },
@@ -20244,6 +21160,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ona plata (Motherboard). Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli."
     },
@@ -20260,6 +21177,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish. Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish."
     },
@@ -20276,6 +21194,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Quvvat bloki (Power Supply). Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli."
     },
@@ -20292,6 +21211,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli. HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli."
     },
@@ -20308,6 +21228,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — HTTP / HTTPS. Ushbu ta'rif 'HTTP / HTTPS'ga tegishli."
     },
@@ -20324,6 +21245,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli. FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli."
     },
@@ -20340,6 +21262,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — FTP (File Transfer Protocol). Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli."
     },
@@ -20356,6 +21279,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli. SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli."
     },
@@ -20372,6 +21296,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — SMTP (Simple Mail Transfer Protocol). Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli."
     },
@@ -20388,6 +21313,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Elektron pochta serveridan xatlarni qabul qilib olish protokollari. POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari."
     },
@@ -20404,6 +21330,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — POP3 va IMAP. Ushbu ta'rif 'POP3 va IMAP'ga tegishli."
     },
@@ -20420,6 +21347,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish. DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish."
     },
@@ -20436,6 +21364,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — DHCP (Dynamic Host Configuration Protocol). Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli."
     },
@@ -20452,6 +21381,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili. IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili."
     },
@@ -20468,6 +21398,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — IP manzil. Ushbu ta'rif 'IP manzil'ga tegishli."
     },
@@ -20484,6 +21415,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili. MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili."
     },
@@ -20500,6 +21432,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — MAC manzil. Ushbu ta'rif 'MAC manzil'ga tegishli."
     },
@@ -20516,6 +21449,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma. Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma."
     },
@@ -20532,6 +21466,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Marshrutizator (Router). Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli."
     },
@@ -20548,6 +21483,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma. Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma."
     },
@@ -20564,6 +21500,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kommutator (Switch). Ushbu ta'rif 'Kommutator (Switch)'ga tegishli."
     },
@@ -20580,6 +21517,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Microsoft Word matnli hujjati fayl kengaytmasi. .docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi."
     },
@@ -20596,6 +21534,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .docx / .doc. Ushbu ta'rif '.docx / .doc'ga tegishli."
     },
@@ -20612,6 +21551,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Microsoft Excel elektron jadvali fayl kengaytmasi. .xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi."
     },
@@ -20628,6 +21568,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .xlsx / .xls. Ushbu ta'rif '.xlsx / .xls'ga tegishli."
     },
@@ -20644,6 +21585,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Microsoft PowerPoint taqdimot fayli kengaytmasi. .pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi."
     },
@@ -20660,6 +21602,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .pptx / .ppt. Ushbu ta'rif '.pptx / .ppt'ga tegishli."
     },
@@ -20676,6 +21619,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli. .html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli."
     },
@@ -20692,6 +21636,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .html / .htm. Ushbu ta'rif '.html / .htm'ga tegishli."
     },
@@ -20708,6 +21653,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Raqamli audio (tovush) fayllari formati. .mp3 / .wav - Raqamli audio (tovush) fayllari formati."
     },
@@ -20724,6 +21670,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .mp3 / .wav. Ushbu ta'rif '.mp3 / .wav'ga tegishli."
     },
@@ -20740,6 +21687,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Raqamli video fayllari kengaytmasi. .mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi."
     },
@@ -20756,6 +21704,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .mp4 / .avi / .mkv. Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli."
     },
@@ -20772,6 +21721,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Raqamli rastrli va vektorli grafik tasvirlar formati. .jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati."
     },
@@ -20788,6 +21738,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .jpg / .png / .svg. Ushbu ta'rif '.jpg / .png / .svg'ga tegishli."
     },
@@ -20804,6 +21755,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hajmni kichraytirish va arxivlash dasturlari fayli. .zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli."
     },
@@ -20820,6 +21772,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .zip / .rar / .7z. Ushbu ta'rif '.zip / .rar / .7z'ga tegishli."
     },
@@ -20836,6 +21789,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli. .exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli."
     },
@@ -20852,6 +21806,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — .exe / .msi. Ushbu ta'rif '.exe / .msi'ga tegishli."
     },
@@ -20868,6 +21823,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar. Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar."
     },
@@ -20884,6 +21840,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tizimli dasturiy ta'minot. Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli."
     },
@@ -20900,6 +21857,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop). Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)."
     },
@@ -20916,6 +21874,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Amaliy dasturiy ta'minot. Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli."
     },
@@ -20932,6 +21891,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur. Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur."
     },
@@ -20948,6 +21908,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Drayver. Ushbu ta'rif 'Drayver'ga tegishli."
     },
@@ -20964,6 +21925,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim. BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim."
     },
@@ -20980,6 +21942,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — BIOS (Basic Input/Output System). Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli."
     },
@@ -20996,6 +21959,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi. Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi."
     },
@@ -21012,6 +21976,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Antivirus dasturi. Ushbu ta'rif 'Antivirus dasturi'ga tegishli."
     },
@@ -21028,6 +21993,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha. O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha."
     },
@@ -21044,6 +22010,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'zgaruvchi (Variable). Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli."
     },
@@ -21060,6 +22027,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma. Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma."
     },
@@ -21076,6 +22044,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Massiv (Ro'yxat / List). Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli."
     },
@@ -21092,6 +22061,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki. Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki."
     },
@@ -21108,6 +22078,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Funksiya (Function). Ushbu ta'rif 'Funksiya (Function)'ga tegishli."
     },
@@ -21124,6 +22095,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Funksiyaning o'zini o'zi qayta chaqirishi hodisasi. Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi."
     },
@@ -21140,6 +22112,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Rekursiya. Ushbu ta'rif 'Rekursiya'ga tegishli."
     },
@@ -21156,6 +22129,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita. Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita."
     },
@@ -21172,6 +22146,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kompilyator. Ushbu ta'rif 'Kompilyator'ga tegishli."
     },
@@ -21188,6 +22163,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori). Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)."
     },
@@ -21204,6 +22180,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Interpretator. Ushbu ta'rif 'Interpretator'ga tegishli."
     },
@@ -21220,6 +22197,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — HTML tilida jadval yaratish uchun ochiladigan bosh teg. <table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg."
     },
@@ -21236,6 +22214,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — <table> tegi. Ushbu ta'rif '<table> tegi'ga tegishli."
     },
@@ -21252,6 +22231,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — HTML jadvalida yangi satr (qator) hosil qiluvchi teg. <tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg."
     },
@@ -21268,6 +22248,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — <tr> tegi. Ushbu ta'rif '<tr> tegi'ga tegishli."
     },
@@ -21284,6 +22265,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg. <td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg."
     },
@@ -21300,6 +22282,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — <td> tegi. Ushbu ta'rif '<td> tegi'ga tegishli."
     },
@@ -21316,6 +22299,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi. <form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi."
     },
@@ -21332,6 +22316,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — <form> tegi. Ushbu ta'rif '<form> tegi'ga tegishli."
     },
@@ -21348,6 +22333,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg. <input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg."
     },
@@ -21364,6 +22350,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — <input> tegi. Ushbu ta'rif '<input> tegi'ga tegishli."
     },
@@ -21380,6 +22367,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili. JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili."
     },
@@ -21396,6 +22384,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — JavaScript. Ushbu ta'rif 'JavaScript'ga tegishli."
     },
@@ -21412,6 +22401,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — print(). print() orqali natija konsolga chiqariladi."
     },
@@ -21428,6 +22418,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — input(). input() klaviaturadan satr ko'rinishida qabul qiladi."
     },
@@ -21444,6 +22435,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — if. if shart: ... elif ... else."
     },
@@ -21460,6 +22452,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — def. def funksiya_nomi(parametrlar): ..."
     },
@@ -21476,6 +22469,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — for. for i in range(...): tsikli."
     },
@@ -21492,6 +22486,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — while. while shart: ... tsikli."
     },
@@ -21508,6 +22503,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — [ ] (to'rtburchak qavslar). Ro'yxat: a = [1, 2, 3]."
     },
@@ -21524,6 +22520,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — ( ) (oddiy qavslar). Kortej: a = (1, 2, 3)."
     },
@@ -21540,6 +22537,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — len(). len(a) ro'yxat yoki satr uzunligini qaytaradi."
     },
@@ -21556,6 +22554,7 @@ const informatika = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Piksellar (nuqtalar) to'riga. Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG)."
     },
@@ -21572,6 +22571,7 @@ const informatika = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kattalashtirilganda yoki kichraytirilganda sifatini yo'qotmaydi. Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR)."
     }

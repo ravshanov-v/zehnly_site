@@ -60,7 +60,7 @@ function CatalogCard({ center }) {
     <article className="group relative flex flex-col justify-between rounded-2xl border border-hairline bg-raised p-5 transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/40 hover:shadow-[var(--shadow-soft)]">
       <div className="flex items-start justify-between gap-3">
         <div className="flex min-w-0 items-center gap-3">
-          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-lg font-semibold text-white">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl gradient-brand font-display text-lg font-semibold text-white">
             {center.name.charAt(0).toUpperCase()}
           </span>
           <div className="min-w-0">
@@ -344,7 +344,7 @@ export default function OquvMaskanlari() {
                         key={index}
                         className="flex items-center gap-3 rounded-lg border border-hairline bg-raised p-3"
                       >
-                        <span className="h-8 w-8 shrink-0 rounded-lg bg-gradient-to-br from-[#3556f5]/60 to-[#8b5cf6]/60" />
+                        <span className="h-8 w-8 shrink-0 rounded-lg gradient-brand opacity-60" />
                         <div className="flex-1 space-y-1.5">
                           <span className="block h-2 w-2/5 rounded-full bg-ink/15" />
                           <span className="block h-2 w-3/5 rounded-full bg-ink/[0.07]" />

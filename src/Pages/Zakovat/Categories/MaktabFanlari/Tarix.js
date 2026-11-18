@@ -28,6 +28,7 @@ const tarix = {
           "text": "Obirahmat g'ori"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -52,6 +53,7 @@ const tarix = {
           "text": "Tripitaka"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -76,6 +78,7 @@ const tarix = {
           "text": "Kir II"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -100,6 +103,7 @@ const tarix = {
           "text": "Spitamen"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -124,6 +128,7 @@ const tarix = {
           "text": "Oxyart"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -148,6 +153,7 @@ const tarix = {
           "text": "Miloddan avvalgi II asrda (Chjan Tsyan elchiligi davrida)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -172,6 +178,7 @@ const tarix = {
           "text": "Kanishka I (Buddaviylik dini)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -196,6 +203,7 @@ const tarix = {
           "text": "Bobak"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -220,6 +228,7 @@ const tarix = {
           "text": "Ismoil Somoniy (892-907)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -244,6 +253,7 @@ const tarix = {
           "text": "Saljuqiylar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -268,6 +278,7 @@ const tarix = {
           "text": "Abu Nasr Forobiy"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -292,6 +303,7 @@ const tarix = {
           "text": "Abu Rayhon Beruniy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -316,6 +328,7 @@ const tarix = {
           "text": "Abu Ali ibn Sino (Avitsenna)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -340,6 +353,7 @@ const tarix = {
           "text": "Najmiddin Kubro"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -364,6 +378,7 @@ const tarix = {
           "text": "Muhammad Xorazmshoh"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -388,6 +403,7 @@ const tarix = {
           "text": "1335-yil Toshkentda"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -412,6 +428,7 @@ const tarix = {
           "text": "1380-yilda, Buxoro"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -436,6 +453,7 @@ const tarix = {
           "text": "Terek bo'yidagi jang"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -460,6 +478,7 @@ const tarix = {
           "text": "Mirzo Ulug'bek"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -484,6 +503,7 @@ const tarix = {
           "text": "Husayn Boyqaro (Hirot)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -508,6 +528,7 @@ const tarix = {
           "text": "Humoyun Mirzo"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -532,6 +553,7 @@ const tarix = {
           "text": "Mang'itlar sulolasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -556,6 +578,7 @@ const tarix = {
           "text": "Shohruxbiy (Minglar sulolasi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -580,6 +603,7 @@ const tarix = {
           "text": "Mang'itlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -604,6 +628,7 @@ const tarix = {
           "text": "1868-yil"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -628,6 +653,7 @@ const tarix = {
           "text": "Buxoro amirligi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -652,6 +678,7 @@ const tarix = {
           "text": "Mahmudxo'ja Behbudiy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -676,6 +703,7 @@ const tarix = {
           "text": "Alash O'rda"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -700,6 +728,7 @@ const tarix = {
           "text": "1990-yil 20-iyunda"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -724,6 +753,7 @@ const tarix = {
           "text": "1992-yil 2-iyulda"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -748,6 +778,7 @@ const tarix = {
           "text": "1991-yil 31-avgustda"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -772,6 +803,7 @@ const tarix = {
           "text": "1991-yil 18-noyabrda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -796,6 +828,7 @@ const tarix = {
           "text": "1994-yil 1-iyulda"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -820,6 +853,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -844,6 +878,7 @@ const tarix = {
           "text": "Teshiktosh"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -868,6 +903,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -892,6 +928,7 @@ const tarix = {
           "text": "Zamonbobo"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -916,6 +953,7 @@ const tarix = {
           "text": "Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -940,6 +978,7 @@ const tarix = {
           "text": "Kaltaminor"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -964,6 +1003,7 @@ const tarix = {
           "text": "Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -988,6 +1028,7 @@ const tarix = {
           "text": "Afrosiyob"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -1012,6 +1053,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -1036,6 +1078,7 @@ const tarix = {
           "text": "Dovon davlati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -1060,6 +1103,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -1084,6 +1128,7 @@ const tarix = {
           "text": "Kang' davlati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -1108,6 +1153,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -1132,6 +1178,7 @@ const tarix = {
           "text": "Dovon davlati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -1156,6 +1203,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -1180,6 +1228,7 @@ const tarix = {
           "text": "Xioniylar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -1204,6 +1253,7 @@ const tarix = {
           "text": "552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -1228,6 +1278,7 @@ const tarix = {
           "text": "Turk xoqonligi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -1252,6 +1303,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -1276,6 +1328,7 @@ const tarix = {
           "text": "Somoniylar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -1300,6 +1353,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -1324,6 +1378,7 @@ const tarix = {
           "text": "Usmoniylar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -1348,6 +1403,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -1372,6 +1428,7 @@ const tarix = {
           "text": "Qoraxitoylar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -1396,6 +1453,7 @@ const tarix = {
           "text": "Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -1420,6 +1478,7 @@ const tarix = {
           "text": "Zevs haykali"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -1444,6 +1503,7 @@ const tarix = {
           "text": "Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -1468,6 +1528,7 @@ const tarix = {
           "text": "Xammurapi qonunlari"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -1492,6 +1553,7 @@ const tarix = {
           "text": "Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -1516,6 +1578,7 @@ const tarix = {
           "text": "Gretsiya-Fors urushlari"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -1540,6 +1603,7 @@ const tarix = {
           "text": "Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -1564,6 +1628,7 @@ const tarix = {
           "text": "Puni urushlari"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -1588,6 +1653,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -1612,6 +1678,7 @@ const tarix = {
           "text": "1492-yil (Xristofor Kolumb)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -1636,6 +1703,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -1660,6 +1728,7 @@ const tarix = {
           "text": "1870-1871-yillar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -1684,6 +1753,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -1708,6 +1778,7 @@ const tarix = {
           "text": "1939-1945-yillar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -1732,6 +1803,7 @@ const tarix = {
           "text": "1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -1756,6 +1828,7 @@ const tarix = {
           "text": "1945-yil 24-oktabr"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -1780,6 +1853,7 @@ const tarix = {
           "text": "Iss jangi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -1804,6 +1878,7 @@ const tarix = {
           "text": "Trayan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -1828,6 +1903,7 @@ const tarix = {
           "text": "Milodiy 395-yilda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -1852,6 +1928,7 @@ const tarix = {
           "text": "1453-yilda Sulton Mehmed II Fotih tomonidan"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -1876,6 +1953,7 @@ const tarix = {
           "text": "Amerigo Vespuchchi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -1900,6 +1978,7 @@ const tarix = {
           "text": "Angliya burjua inqilobi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -1924,6 +2003,7 @@ const tarix = {
           "text": "1776-yil 4-iyulda (Tomas Jefferson muallifligida)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -1948,6 +2028,7 @@ const tarix = {
           "text": "1899-yilda (Toshkent — Krasnovodsk)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -1972,6 +2053,7 @@ const tarix = {
           "text": "Diniy cheklovlar tufayli"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -1996,6 +2078,7 @@ const tarix = {
           "text": "Turkiston ASSR"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -2020,6 +2103,7 @@ const tarix = {
           "text": "O'zbekiston hududidagi ilk paleolit davriga oid eng mashhur neandertal odami qoldiqlari qaysi g'ordan topilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston hududidagi ilk paleolit davriga oid eng mashhur neandertal odami qoldiqlari qaysi g'ordan topilgan?» savolining to'g'ri javobi — Teshiktosh g'ori (Surxondaryo). 1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -2044,6 +2128,7 @@ const tarix = {
           "text": "O'zbekiston Respublikasining milliy valyutasi — so'm qachon muomalaga kiritilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Zardushtiylik dinining muqaddas kitobi qaysi?» savolining to'g'ri javobi — Avesto. Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -2068,6 +2153,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Miloddan avvalgi 530-yilda massagetlar malikasi To'maris qaysi axamoniylar shohini jangda mag'lub etgan?» savolining to'g'ri javobi — Kir II. To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -2092,6 +2178,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Turk xoqonligi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Miloddan avvalgi 522-yilda axamoniylar shohi Doro I ga qarshi jasorat ko'rsatib, cho'lda dushman qo'shinini adashtirgan so'g'dlik cho'pon kim edi?» savolining to'g'ri javobi — Shiroq. Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -2116,6 +2203,7 @@ const tarix = {
           "text": "Miloddan avvalgi 329-327-yillarda Aleksandr Makedonskiy (Iskandar Zulqarnayn) bosqiniga qarshi So'g'diyona va Baqtriyada ko'tarilgan xalq qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Miloddan avvalgi 329-327-yillarda Aleksandr Makedonskiy (Iskandar Zulqarnayn) bosqiniga qarshi So'g'diyona va Baqtriyada ko'tarilgan xalq qo'zg'oloniga kim boshchilik qilgan?» savolining to'g'ri javobi — Spitamen. Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -2140,6 +2228,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Ikkinchi jahon urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Buyuk Ipak yo'li qaysi asrda qat'iy tizim sifatida shakllangan?» savolining to'g'ri javobi — Miloddan avvalgi II asrda (Chjan Tsyan elchiligi davrida). Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -2164,6 +2253,7 @@ const tarix = {
           "text": "1916-yilgi O'rta Osiyo xalq qo'zg'oloni qanday sabab bilan boshlangan edi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kushon podsholigining eng qudratli hukmdori kim bo'lgan va qaysi din davlat darajasiga ko'tarilgan?» savolining to'g'ri javobi — Kanishka I (Buddaviylik dini). Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -2188,6 +2278,7 @@ const tarix = {
           "text": "O'rta Osiyoda arab bosqinchilariga qarshi VIII asrning 70-80-yillarida 'Oq kiyimlilar' qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'rta Osiyoda arab bosqinchilariga qarshi VIII asrning 70-80-yillarida 'Oq kiyimlilar' qo'zg'oloniga kim boshchilik qilgan?» savolining to'g'ri javobi — Muqanna (Hoshim ibn Hakim). Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -2212,6 +2303,7 @@ const tarix = {
           "text": "999-yilda Somoniylar davlatini tugatib, Movarounnahrda o'z hukmronligini o'rnatgan turkiy sulola qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Somoniylar davlatining asoschisi va mustaqil davlatga aylantirgan hukmdor kim?» savolining to'g'ri javobi — Ismoil Somoniy (892-907). Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -2236,6 +2328,7 @@ const tarix = {
           "text": "Miloddan avvalgi 530-yilda massagetlar malikasi To'maris qaysi axamoniylar shohini jangda mag'lub etgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«999-yilda Somoniylar davlatini tugatib, Movarounnahrda o'z hukmronligini o'rnatgan turkiy sulola qaysi?» savolining to'g'ri javobi — Qoraxoniylar. Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -2260,6 +2353,7 @@ const tarix = {
           "text": "'Sharq Arastusi' (Al-Muallim as-soniy - Ikkinchi muallim) faxriy unvoniga sazovor bo'lgan buyuk alloma kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«'Sharq Arastusi' (Al-Muallim as-soniy - Ikkinchi muallim) faxriy unvoniga sazovor bo'lgan buyuk alloma kim?» savolining to'g'ri javobi — Abu Nasr Forobiy. Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -2284,6 +2378,7 @@ const tarix = {
           "text": "Kushon podsholigining eng qudratli hukmdori kim bo'lgan va qaysi din davlat darajasiga ko'tarilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Algebra faniga asos solgan va 'Al-jabr val-muqobala' asari muallifi bo'lgan alloma kim?» savolining to'g'ri javobi — Muhammad al-Xorazmiy. Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -2308,6 +2403,7 @@ const tarix = {
           "text": "Somoniylar davlatining asoschisi va mustaqil davlatga aylantirgan hukmdor kim?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Tibbiyot ensiklopediyasi bo'lgan 'Tib qonunlari' ('Al-Qonun fit-tibb') asarining muallifi kim?» savolining to'g'ri javobi — Abu Ali ibn Sino (Avitsenna). Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -2332,6 +2428,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Zarautsoy qoyatosh rasmlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Mo'g'ullarga qarshi kurashda Xo'jand mudofaasida mislsiz mardlik ko'rsatgan sarkarda kim?» savolining to'g'ri javobi — Temur Malik. Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -2356,6 +2453,7 @@ const tarix = {
           "text": "Amir Temur qachon Movarounnahrning oliy hukmdori deb e'lon qilindi va poytaxt etib qaysi shahar tanlandi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Chingizxon qo'shinlariga qarshi 11 yil davomida (Sind daryosi bo'yidagi jang va boshqalar) mardonavor kurashgan buyuk sarkarda kim?» savolining to'g'ri javobi — Jaloliddin Manguberdi. Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -2380,6 +2478,7 @@ const tarix = {
           "text": "Sohibqiron Amir Temur qachon va qayerda tavallud topgan?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Sohibqiron Amir Temur qachon va qayerda tavallud topgan?» savolining to'g'ri javobi — 1336-yil 9-aprelda Xo'ja Ilg'or qishlog'ida (Kesh/Shahrisabz). Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -2404,6 +2503,7 @@ const tarix = {
           "text": "Miloddan avvalgi 530-yilda massagetlar malikasi To'maris qaysi axamoniylar shohini jangda mag'lub etgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Amir Temur qachon Movarounnahrning oliy hukmdori deb e'lon qilindi va poytaxt etib qaysi shahar tanlandi?» savolining to'g'ri javobi — 1370-yilda (Balg' qurultoyi), Samarqand. 1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -2428,6 +2528,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«1402-yil 20-iyulda Amir Temur va Usmonli turk sultoni Boyazid Yildirim o'rtasida qaysi mashhur jang bo'lib o'tdi?» savolining to'g'ri javobi — Anqara jangi. Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -2452,6 +2553,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Zarautsoy qoyatosh rasmlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Samarqandda mashhur rasadxona qurdirgan va 1018 ta yulduz jadvalini ('Ziji jadidi Ko'ragoniy') yaratgan temuriy hukmdor va olim kim?» savolining to'g'ri javobi — Mirzo Ulug'bek. Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -2476,6 +2578,7 @@ const tarix = {
           "text": "Xiva xonligida 1770-yildan 1920-yilgacha qaysi sulola boshqargan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbek mumtoz adabiyotining asoschisi, buyuk shoir va davlat arbobi Alisher Navoiy qaysi temuriy hukmdor davrida bosh vazir darajasida faoliyat yuritgan?» savolining to'g'ri javobi — Husayn Boyqaro (Hirot). Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -2500,6 +2603,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Chust madaniyati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Boburiylar sulolasiga va 'Boburnoma' asari muallifi bo'lgan shoh va shoir kim?» savolining to'g'ri javobi — Zahiriddin Muhammad Bobur. Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -2524,6 +2628,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Buxoro amirligida 1756-yildan 1920-yilgacha qaysi sulola hukmronlik qildi?» savolining to'g'ri javobi — Mang'itlar sulolasi. Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -2548,6 +2653,7 @@ const tarix = {
           "text": "Turkistonda 'Usuli jadid' (yangi usul) maktablarining asoschisi va 'Padarkush' birinchi o'zbek dramasining muallifi kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qo'qon xonligiga XVIII asr boshlarida (1709-yilda) kim tomonidan asos solingan?» savolining to'g'ri javobi — Shohruxbiy (Minglar sulolasi). 1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -2572,6 +2678,7 @@ const tarix = {
           "text": "O'zbekiston Respublikasining Davlat bayrog'i qachon qabul qilingan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Xiva xonligida 1770-yildan 1920-yilgacha qaysi sulola boshqargan?» savolining to'g'ri javobi — Qo'ng'irotlar sulolasi. Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -2596,6 +2703,7 @@ const tarix = {
           "text": "Chor Rossiyasi qo'shinlari Toshkentni general Chernyayev boshchiligida qachon bosib oldi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Chor Rossiyasi qo'shinlari Toshkentni general Chernyayev boshchiligida qachon bosib oldi?» savolining to'g'ri javobi — 1865-yil iyun oyida. 1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -2620,6 +2728,7 @@ const tarix = {
           "text": "1876-yilda Chor Rossiyasi tomonidan qaysi o'zbek xonligi butunlay tugatilib, Farg'ona viloyatiga aylantirildi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«1876-yilda Chor Rossiyasi tomonidan qaysi o'zbek xonligi butunlay tugatilib, Farg'ona viloyatiga aylantirildi?» savolining to'g'ri javobi — Qo'qon xonligi. Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -2644,6 +2753,7 @@ const tarix = {
           "text": "1402-yil 20-iyulda Amir Temur va Usmonli turk sultoni Boyazid Yildirim o'rtasida qaysi mashhur jang bo'lib o'tdi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Turkistonda 'Usuli jadid' (yangi usul) maktablarining asoschisi va 'Padarkush' birinchi o'zbek dramasining muallifi kim?» savolining to'g'ri javobi — Mahmudxo'ja Behbudiy. Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -2668,6 +2778,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«1917-yil 27-noyabrda Qo'qon shahrida e'lon qilingan va 1918-yil fevralida bolsheviklar tomonidan qonga botirilgan mustaqil davlat qaysi?» savolining to'g'ri javobi — Turkiston Muxtoriyati (Qo'qon muxtoriyati). Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -2692,6 +2803,7 @@ const tarix = {
           "text": "O'zbekiston Respublikasining davlat mustaqilligi qachon e'lon qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«O'zbekiston Respublikasining davlat mustaqilligi qachon e'lon qilingan?» savolining to'g'ri javobi — 1991-yil 31-avgustda (1-sentabr — Mustaqillik kuni). 1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -2716,6 +2828,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Puni urushlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«O'zbekiston Respublikasining Davlat bayrog'i qachon qabul qilingan?» savolining to'g'ri javobi — 1991-yil 18-noyabrda. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -2740,6 +2853,7 @@ const tarix = {
           "text": "O'zbekiston Respublikasining milliy valyutasi — so'm qachon muomalaga kiritilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«O'zbekiston Respublikasi Konstitutsiyasi qachon qabul qilingan?» savolining to'g'ri javobi — 1992-yil 8-dekabrda. O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -2764,6 +2878,7 @@ const tarix = {
           "text": "999-yilda Somoniylar davlatini tugatib, Movarounnahrda o'z hukmronligini o'rnatgan turkiy sulola qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zbekiston Birlashgan Millatlar Tashkilotiga (BMT) qachon to'laqonli a'zo bo'lib qabul qilindi?» savolining to'g'ri javobi — 1992-yil 2-martda. 1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -2788,6 +2903,7 @@ const tarix = {
           "text": "O'zbekiston hududidagi ilk paleolit davriga oid eng mashhur neandertal odami qoldiqlari qaysi g'ordan topilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasining milliy valyutasi — so'm qachon muomalaga kiritilgan?» savolining to'g'ri javobi — 1994-yil 1-iyulda. 1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -2812,6 +2928,7 @@ const tarix = {
           "text": "Buxoro amirligida 1756-yildan 1920-yilgacha qaysi sulola hukmronlik qildi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Zarautsoy qoyatosh rasmlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik. Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -2836,6 +2953,7 @@ const tarix = {
           "text": "Chingizxon qo'shinlariga qarshi 11 yil davomida (Sind daryosi bo'yidagi jang va boshqalar) mardonavor kurashgan buyuk sarkarda kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik'?» savolining to'g'ri javobi — Zarautsoy. Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -2860,6 +2978,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Sopollitepa va Jarqo'ton yodgorliklari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Sopollitepa va Jarqo'ton yodgorliklari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik. Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -2884,6 +3003,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Puni urushlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik'?» savolining to'g'ri javobi — Sopollitepa va Jarqo'ton. Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -2908,6 +3028,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Kang' (Qang'uy) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Chust madaniyati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati. Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -2932,6 +3053,7 @@ const tarix = {
           "text": "O'zbekiston hududida ilk bor temir yo'l qachon va qaysi yo'nalishda qurilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati'?» savolining to'g'ri javobi — Chust madaniyati. Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -2956,6 +3078,7 @@ const tarix = {
           "text": "Qo'qon xonligiga XVIII asr boshlarida (1709-yilda) kim tomonidan asos solingan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Afrosiyob (Qadimgi Samarqand)' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi. Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -2980,6 +3103,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi'?» savolining to'g'ri javobi — Afrosiyob. Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -3004,6 +3128,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Qadimgi Baqtriya davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat. Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -3028,6 +3153,7 @@ const tarix = {
           "text": "Boburiylar sulolasiga va 'Boburnoma' asari muallifi bo'lgan shoh va shoir kim?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat'?» savolining to'g'ri javobi — Qadimgi Baqtriya. Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -3052,6 +3178,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Dovon (Farg'ona) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat. Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -3076,6 +3203,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat'?» savolining to'g'ri javobi — Dovon davlati. Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -3100,6 +3228,7 @@ const tarix = {
           "text": "Miloddan avvalgi 329-327-yillarda Aleksandr Makedonskiy (Iskandar Zulqarnayn) bosqiniga qarshi So'g'diyona va Baqtriyada ko'tarilgan xalq qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Kang' (Qang'uy) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi. Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -3124,6 +3253,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi'?» savolining to'g'ri javobi — Kang' davlati. Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -3148,6 +3278,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Eftaliylar (Oq hunlar) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat. Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -3172,6 +3303,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat'?» savolining to'g'ri javobi — Eftaliylar davlati. Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -3196,6 +3328,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Turk xoqonligi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya. Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -3220,6 +3353,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya'?» savolining to'g'ri javobi — Turk xoqonligi. Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -3244,6 +3378,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'G'aznaviylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'G'aznaviylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat. G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -3268,6 +3403,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Ikkinchi jahon urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat'?» savolining to'g'ri javobi — G'aznaviylar davlati. Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -3292,6 +3428,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Saljuqiylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi. Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -3316,6 +3453,7 @@ const tarix = {
           "text": "Xiva xonligida 1770-yildan 1920-yilgacha qaysi sulola boshqargan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi'?» savolining to'g'ri javobi — Saljuqiylar davlati. Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -3340,6 +3478,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Buyuk Xorazmshohlar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Buyuk Xorazmshohlar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat. Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -3364,6 +3503,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Qadimgi Baqtriya davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat'?» savolining to'g'ri javobi — Xorazmshohlar davlati. Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -3388,6 +3528,7 @@ const tarix = {
           "text": "O'zbekiston Respublikasining Davlat bayrog'i qachon qabul qilingan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Qadimgi Misr piramidalari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri. Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -3412,6 +3553,7 @@ const tarix = {
           "text": "1917-yil 27-noyabrda Qo'qon shahrida e'lon qilingan va 1918-yil fevralida bolsheviklar tomonidan qonga botirilgan mustaqil davlat qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri'?» savolining to'g'ri javobi — Xeops piramidasi. Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -3436,6 +3578,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Saljuqiylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Xammurapi qonunlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi. Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -3460,6 +3603,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Saljuqiylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi'?» savolining to'g'ri javobi — Xammurapi qonunlari. Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -3484,6 +3628,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Peloponnes urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush. Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -3508,6 +3653,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush'?» savolining to'g'ri javobi — Peloponnes urushi. Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -3532,6 +3678,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Dovon (Farg'ona) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Puni urushlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush. Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -3556,6 +3703,7 @@ const tarix = {
           "text": "Amir Temur qachon Movarounnahrning oliy hukmdori deb e'lon qilindi va poytaxt etib qaysi shahar tanlandi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush'?» savolining to'g'ri javobi — Puni urushlari. Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -3580,6 +3728,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Amerikaning kashf etilishi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi. Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -3604,6 +3753,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi'?» savolining to'g'ri javobi — 1492-yil (Xristofor Kolumb). Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -3628,6 +3778,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Birinchi jahon urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush. Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -3652,6 +3803,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush'?» savolining to'g'ri javobi — 1914-1918-yillar. Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -3676,6 +3828,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Eftaliylar (Oq hunlar) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Ikkinchi jahon urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi. Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -3700,6 +3853,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi'?» savolining to'g'ri javobi — 1939-1945-yillar. Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -3724,6 +3878,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot. Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -3748,6 +3903,7 @@ const tarix = {
           "text": "O'zbekiston hududidagi ilk paleolit davriga oid eng mashhur neandertal odami qoldiqlari qaysi g'ordan topilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot'?» savolining to'g'ri javobi — 1945-yil 24-oktabr. Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -3772,6 +3928,7 @@ const tarix = {
           "text": "Miloddan avvalgi 331-yilda Aleksandr Makedonskiy Doro III qo'shinini qaysi mashhur jangda mag'lub etib, Axamoniylar saltanatiga butunlay barham bergan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Miloddan avvalgi 331-yilda Aleksandr Makedonskiy Doro III qo'shinini qaysi mashhur jangda mag'lub etib, Axamoniylar saltanatiga butunlay barham bergan?» savolining to'g'ri javobi — Gavgamela jangi. Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -3796,6 +3953,7 @@ const tarix = {
           "text": "Qo'qon xonligiga XVIII asr boshlarida (1709-yilda) kim tomonidan asos solingan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Rim imperiyasining birinchi imperatori kim bo'lgan?» savolining to'g'ri javobi — Oktavian Avgust. Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -3820,6 +3978,7 @@ const tarix = {
           "text": "G'arbiy Rim imperiyasi qaysi yilda qulagan va shu bilan Qadimgi dunyo tarixi yakunlangan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«G'arbiy Rim imperiyasi qaysi yilda qulagan va shu bilan Qadimgi dunyo tarixi yakunlangan?» savolining to'g'ri javobi — Milodiy 476-yilda (Odoakr tomonidan). 476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -3844,6 +4003,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Konstantinopol (Vizantiya poytaxti) qachon va kim tomonidan zabt etilib, Istanbul deb nomlandi?» savolining to'g'ri javobi — 1453-yilda Sulton Mehmed II Fotih tomonidan. 1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -3868,6 +4028,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Yer sharini ilk bor aylanib chiqqan dengiz sayyohi kim?» savolining to'g'ri javobi — Fernan Magellan (1519-1522). Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -3892,6 +4053,7 @@ const tarix = {
           "text": "Miloddan avvalgi 331-yilda Aleksandr Makedonskiy Doro III qo'shinini qaysi mashhur jangda mag'lub etib, Axamoniylar saltanatiga butunlay barham bergan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«1789-yil 14-iyulda Bastiliya qal'asining ishg'ol qilinishi bilan qaysi buyuk inqilob boshlangan?» savolining to'g'ri javobi — Buyuk Fransuz inqilobi. Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -3916,6 +4078,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«AQSh Mustaqillik deklaratsiyasi qachon qabul qilingan?» savolining to'g'ri javobi — 1776-yil 4-iyulda (Tomas Jefferson muallifligida). 1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -3940,6 +4103,7 @@ const tarix = {
           "text": "O'zbekiston hududida ilk bor temir yo'l qachon va qaysi yo'nalishda qurilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«O'zbekiston hududida ilk bor temir yo'l qachon va qaysi yo'nalishda qurilgan?» savolining to'g'ri javobi — 1888-yilda (Merv — Chorjo'y — Samarqand). 1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -3964,6 +4128,7 @@ const tarix = {
           "text": "1916-yilgi O'rta Osiyo xalq qo'zg'oloni qanday sabab bilan boshlangan edi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«1916-yilgi O'rta Osiyo xalq qo'zg'oloni qanday sabab bilan boshlangan edi?» savolining to'g'ri javobi — Chor hukumatining mardikorlikka olish to'g'risidagi 25-iyun farmoni tufayli. Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -3988,6 +4153,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'G'aznaviylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«1924-yilda O'rta Osiyoda amalga oshirilgan 'Milliy-hududiy chegaralanish' natijasida qaysi respublika tashkil topdi?» savolining to'g'ri javobi — O'zbekiston SSR (poytaxti dastlab Samarqand bo'lgan). 1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -4012,6 +4178,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -4036,6 +4203,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -4060,6 +4228,7 @@ const tarix = {
           "text": "Miloddan avvalgi 530-yilda massagetlar malikasi To'maris qaysi axamoniylar shohini jangda mag'lub etgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -4084,6 +4253,7 @@ const tarix = {
           "text": "1917-yil 27-noyabrda Qo'qon shahrida e'lon qilingan va 1918-yil fevralida bolsheviklar tomonidan qonga botirilgan mustaqil davlat qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -4108,6 +4278,7 @@ const tarix = {
           "text": "Miloddan avvalgi 329-327-yillarda Aleksandr Makedonskiy (Iskandar Zulqarnayn) bosqiniga qarshi So'g'diyona va Baqtriyada ko'tarilgan xalq qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -4132,6 +4303,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Peloponnes urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -4156,6 +4328,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Dovon (Farg'ona) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -4180,6 +4353,7 @@ const tarix = {
           "text": "Boburiylar sulolasiga va 'Boburnoma' asari muallifi bo'lgan shoh va shoir kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -4204,6 +4378,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -4228,6 +4403,7 @@ const tarix = {
           "text": "Chor Rossiyasi qo'shinlari Toshkentni general Chernyayev boshchiligida qachon bosib oldi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -4252,6 +4428,7 @@ const tarix = {
           "text": "'Sharq Arastusi' (Al-Muallim as-soniy - Ikkinchi muallim) faxriy unvoniga sazovor bo'lgan buyuk alloma kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -4276,6 +4453,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'G'aznaviylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -4300,6 +4478,7 @@ const tarix = {
           "text": "Buxoro amirligida 1756-yildan 1920-yilgacha qaysi sulola hukmronlik qildi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -4324,6 +4503,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Xammurapi qonunlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -4348,6 +4528,7 @@ const tarix = {
           "text": "Qo'qon xonligiga XVIII asr boshlarida (1709-yilda) kim tomonidan asos solingan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -4372,6 +4553,7 @@ const tarix = {
           "text": "Sohibqiron Amir Temur qachon va qayerda tavallud topgan?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -4396,6 +4578,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Saljuqiylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -4420,6 +4603,7 @@ const tarix = {
           "text": "Miloddan avvalgi 522-yilda axamoniylar shohi Doro I ga qarshi jasorat ko'rsatib, cho'lda dushman qo'shinini adashtirgan so'g'dlik cho'pon kim edi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -4444,6 +4628,7 @@ const tarix = {
           "text": "Samarqandda mashhur rasadxona qurdirgan va 1018 ta yulduz jadvalini ('Ziji jadidi Ko'ragoniy') yaratgan temuriy hukmdor va olim kim?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -4468,6 +4653,7 @@ const tarix = {
           "text": "O'zbek mumtoz adabiyotining asoschisi, buyuk shoir va davlat arbobi Alisher Navoiy qaysi temuriy hukmdor davrida bosh vazir darajasida faoliyat yuritgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -4492,6 +4678,7 @@ const tarix = {
           "text": "Algebra faniga asos solgan va 'Al-jabr val-muqobala' asari muallifi bo'lgan alloma kim?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -4516,6 +4703,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -4540,6 +4728,7 @@ const tarix = {
           "text": "1876-yilda Chor Rossiyasi tomonidan qaysi o'zbek xonligi butunlay tugatilib, Farg'ona viloyatiga aylantirildi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -4564,6 +4753,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -4588,6 +4778,7 @@ const tarix = {
           "text": "Chor Rossiyasi qo'shinlari Toshkentni general Chernyayev boshchiligida qachon bosib oldi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -4612,6 +4803,7 @@ const tarix = {
           "text": "Sohibqiron Amir Temur qachon va qayerda tavallud topgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -4636,6 +4828,7 @@ const tarix = {
           "text": "Turkistonda 'Usuli jadid' (yangi usul) maktablarining asoschisi va 'Padarkush' birinchi o'zbek dramasining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -4660,6 +4853,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Eftaliylar (Oq hunlar) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -4684,6 +4878,7 @@ const tarix = {
           "text": "O'zbekiston Respublikasining davlat mustaqilligi qachon e'lon qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -4708,6 +4903,7 @@ const tarix = {
           "text": "G'arbiy Rim imperiyasi qaysi yilda qulagan va shu bilan Qadimgi dunyo tarixi yakunlangan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -4732,6 +4928,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Puni urushlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -4756,6 +4953,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Chust madaniyati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -4780,6 +4978,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Birinchi jahon urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -4804,6 +5003,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -4828,6 +5028,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -4852,6 +5053,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -4876,6 +5078,7 @@ const tarix = {
           "text": "1402-yil 20-iyulda Amir Temur va Usmonli turk sultoni Boyazid Yildirim o'rtasida qaysi mashhur jang bo'lib o'tdi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -4900,6 +5103,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Chust madaniyati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -4924,6 +5128,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -4948,6 +5153,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -4972,6 +5178,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -4996,6 +5203,7 @@ const tarix = {
           "text": "1916-yilgi O'rta Osiyo xalq qo'zg'oloni qanday sabab bilan boshlangan edi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -5020,6 +5228,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -5044,6 +5253,7 @@ const tarix = {
           "text": "Sohibqiron Amir Temur qachon va qayerda tavallud topgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -5068,6 +5278,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -5092,6 +5303,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Kang' (Qang'uy) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -5116,6 +5328,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -5140,6 +5353,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Eftaliylar (Oq hunlar) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -5164,6 +5378,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -5188,6 +5403,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Turk xoqonligi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -5212,6 +5428,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -5236,6 +5453,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Xammurapi qonunlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -5260,6 +5478,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -5284,6 +5503,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Turk xoqonligi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -5308,6 +5528,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Buyuk Xorazmshohlar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -5332,6 +5553,7 @@ const tarix = {
           "text": "Buyuk Ipak yo'li qaysi asrda qat'iy tizim sifatida shakllangan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -5356,6 +5578,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Afrosiyob (Qadimgi Samarqand)' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -5380,6 +5603,7 @@ const tarix = {
           "text": "Somoniylar davlatining asoschisi va mustaqil davlatga aylantirgan hukmdor kim?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -5404,6 +5628,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -5428,6 +5653,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Xammurapi qonunlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -5452,6 +5678,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -5476,6 +5703,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Peloponnes urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -5500,6 +5728,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -5524,6 +5753,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Puni urushlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -5548,6 +5778,7 @@ const tarix = {
           "text": "Somoniylar davlatining asoschisi va mustaqil davlatga aylantirgan hukmdor kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -5572,6 +5803,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Amerikaning kashf etilishi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -5596,6 +5828,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Qadimgi Misr piramidalari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -5620,6 +5853,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -5644,6 +5878,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -5668,6 +5903,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Ikkinchi jahon urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -5692,6 +5928,7 @@ const tarix = {
           "text": "Miloddan avvalgi 530-yilda massagetlar malikasi To'maris qaysi axamoniylar shohini jangda mag'lub etgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -5716,6 +5953,7 @@ const tarix = {
           "text": "O'rta Osiyoda arab bosqinchilariga qarshi VIII asrning 70-80-yillarida 'Oq kiyimlilar' qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -5740,6 +5978,7 @@ const tarix = {
           "text": "Somoniylar davlatining asoschisi va mustaqil davlatga aylantirgan hukmdor kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -5764,6 +6003,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -5788,6 +6028,7 @@ const tarix = {
           "text": "Rim imperiyasining birinchi imperatori kim bo'lgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -5812,6 +6053,7 @@ const tarix = {
           "text": "Miloddan avvalgi 331-yilda Aleksandr Makedonskiy Doro III qo'shinini qaysi mashhur jangda mag'lub etib, Axamoniylar saltanatiga butunlay barham bergan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -5836,6 +6078,7 @@ const tarix = {
           "text": "Miloddan avvalgi 329-327-yillarda Aleksandr Makedonskiy (Iskandar Zulqarnayn) bosqiniga qarshi So'g'diyona va Baqtriyada ko'tarilgan xalq qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -5860,6 +6103,7 @@ const tarix = {
           "text": "Miloddan avvalgi 522-yilda axamoniylar shohi Doro I ga qarshi jasorat ko'rsatib, cho'lda dushman qo'shinini adashtirgan so'g'dlik cho'pon kim edi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -5884,6 +6128,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'G'aznaviylar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -5908,6 +6153,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -5932,6 +6178,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Qadimgi Misr piramidalari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -5956,6 +6203,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Xammurapi qonunlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -5980,6 +6228,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -6004,6 +6253,7 @@ const tarix = {
           "text": "1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -6028,6 +6278,7 @@ const tarix = {
           "text": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -6052,6 +6303,7 @@ const tarix = {
           "text": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -6076,6 +6328,7 @@ const tarix = {
           "text": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -6100,6 +6353,7 @@ const tarix = {
           "text": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -6124,6 +6378,7 @@ const tarix = {
           "text": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -6148,6 +6403,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -6172,6 +6428,7 @@ const tarix = {
           "text": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -6196,6 +6453,7 @@ const tarix = {
           "text": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -6220,6 +6478,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -6244,6 +6503,7 @@ const tarix = {
           "text": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -6268,6 +6528,7 @@ const tarix = {
           "text": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -6292,6 +6553,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -6316,6 +6578,7 @@ const tarix = {
           "text": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -6340,6 +6603,7 @@ const tarix = {
           "text": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -6364,6 +6628,7 @@ const tarix = {
           "text": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -6388,6 +6653,7 @@ const tarix = {
           "text": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -6412,6 +6678,7 @@ const tarix = {
           "text": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -6436,6 +6703,7 @@ const tarix = {
           "text": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -6460,6 +6728,7 @@ const tarix = {
           "text": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -6484,6 +6753,7 @@ const tarix = {
           "text": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -6508,6 +6778,7 @@ const tarix = {
           "text": "Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -6532,6 +6803,7 @@ const tarix = {
           "text": "1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -6556,6 +6828,7 @@ const tarix = {
           "text": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -6580,6 +6853,7 @@ const tarix = {
           "text": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -6604,6 +6878,7 @@ const tarix = {
           "text": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -6628,6 +6903,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -6652,6 +6928,7 @@ const tarix = {
           "text": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -6676,6 +6953,7 @@ const tarix = {
           "text": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -6700,6 +6978,7 @@ const tarix = {
           "text": "1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -6724,6 +7003,7 @@ const tarix = {
           "text": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -6748,6 +7028,7 @@ const tarix = {
           "text": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -6772,6 +7053,7 @@ const tarix = {
           "text": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -6796,6 +7078,7 @@ const tarix = {
           "text": "Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -6820,6 +7103,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -6844,6 +7128,7 @@ const tarix = {
           "text": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -6868,6 +7153,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -6892,6 +7178,7 @@ const tarix = {
           "text": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -6916,6 +7203,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -6940,6 +7228,7 @@ const tarix = {
           "text": "Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -6964,6 +7253,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -6988,6 +7278,7 @@ const tarix = {
           "text": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -7012,6 +7303,7 @@ const tarix = {
           "text": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -7036,6 +7328,7 @@ const tarix = {
           "text": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -7060,6 +7353,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -7084,6 +7378,7 @@ const tarix = {
           "text": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -7108,6 +7403,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -7132,6 +7428,7 @@ const tarix = {
           "text": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -7156,6 +7453,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -7180,6 +7478,7 @@ const tarix = {
           "text": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -7204,6 +7503,7 @@ const tarix = {
           "text": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -7228,6 +7528,7 @@ const tarix = {
           "text": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -7252,6 +7553,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -7276,6 +7578,7 @@ const tarix = {
           "text": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -7300,6 +7603,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -7324,6 +7628,7 @@ const tarix = {
           "text": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -7348,6 +7653,7 @@ const tarix = {
           "text": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -7372,6 +7678,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -7396,6 +7703,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -7420,6 +7728,7 @@ const tarix = {
           "text": "Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -7444,6 +7753,7 @@ const tarix = {
           "text": "1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -7468,6 +7778,7 @@ const tarix = {
           "text": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -7492,6 +7803,7 @@ const tarix = {
           "text": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -7516,6 +7828,7 @@ const tarix = {
           "text": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -7540,6 +7853,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -7564,6 +7878,7 @@ const tarix = {
           "text": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -7588,6 +7903,7 @@ const tarix = {
           "text": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -7612,6 +7928,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -7636,6 +7953,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -7660,6 +7978,7 @@ const tarix = {
           "text": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -7684,6 +8003,7 @@ const tarix = {
           "text": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -7708,6 +8028,7 @@ const tarix = {
           "text": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -7732,6 +8053,7 @@ const tarix = {
           "text": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -7756,6 +8078,7 @@ const tarix = {
           "text": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -7780,6 +8103,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -7804,6 +8128,7 @@ const tarix = {
           "text": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -7828,6 +8153,7 @@ const tarix = {
           "text": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -7852,6 +8178,7 @@ const tarix = {
           "text": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -7876,6 +8203,7 @@ const tarix = {
           "text": "1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -7900,6 +8228,7 @@ const tarix = {
           "text": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -7924,6 +8253,7 @@ const tarix = {
           "text": "Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -7948,6 +8278,7 @@ const tarix = {
           "text": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -7972,6 +8303,7 @@ const tarix = {
           "text": "Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -7996,6 +8328,7 @@ const tarix = {
           "text": "Tripitaka"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -8020,6 +8353,7 @@ const tarix = {
           "text": "Kir II"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -8044,6 +8378,7 @@ const tarix = {
           "text": "Frada"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -8068,6 +8403,7 @@ const tarix = {
           "text": "Spitamen"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -8092,6 +8428,7 @@ const tarix = {
           "text": "Qoraxoniylar"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -8116,6 +8453,7 @@ const tarix = {
           "text": "Temur Malik"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -8140,6 +8478,7 @@ const tarix = {
           "text": "Muhammad Xorazmshoh"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -8164,6 +8503,7 @@ const tarix = {
           "text": "Terek bo'yidagi jang"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -8188,6 +8528,7 @@ const tarix = {
           "text": "Shohruh Mirzo"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -8212,6 +8553,7 @@ const tarix = {
           "text": "Shayboniylar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -8236,6 +8578,7 @@ const tarix = {
           "text": "Shayboniylar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -8260,6 +8603,7 @@ const tarix = {
           "text": "Xiva xonligi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -8284,6 +8628,7 @@ const tarix = {
           "text": "1991-yil 18-noyabrda"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -8308,6 +8653,7 @@ const tarix = {
           "text": "1993-yil 8-dekabrda"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -8332,6 +8678,7 @@ const tarix = {
           "text": "1993-yil 5-mayda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -8356,6 +8703,7 @@ const tarix = {
           "text": "1994-yil 1-iyulda"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -8380,6 +8728,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -8404,6 +8753,7 @@ const tarix = {
           "text": "Sarmishsoy"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -8428,6 +8778,7 @@ const tarix = {
           "text": "Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -8452,6 +8803,7 @@ const tarix = {
           "text": "Chust madaniyati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -8476,6 +8828,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -8500,6 +8853,7 @@ const tarix = {
           "text": "Tozabog'yob"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -8524,6 +8878,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -8548,6 +8903,7 @@ const tarix = {
           "text": "Poykend"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -8572,6 +8928,7 @@ const tarix = {
           "text": "Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -8596,6 +8953,7 @@ const tarix = {
           "text": "Dovon davlati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -8620,6 +8978,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -8644,6 +9003,7 @@ const tarix = {
           "text": "Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -8668,6 +9028,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -8692,6 +9053,7 @@ const tarix = {
           "text": "552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -8716,6 +9078,7 @@ const tarix = {
           "text": "X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -8740,6 +9103,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -8764,6 +9128,7 @@ const tarix = {
           "text": "Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -8788,6 +9153,7 @@ const tarix = {
           "text": "Qoraxoniylar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -8812,6 +9178,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -8836,6 +9203,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -8860,6 +9228,7 @@ const tarix = {
           "text": "Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -8884,6 +9253,7 @@ const tarix = {
           "text": "Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -8908,6 +9278,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -8932,6 +9303,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -8956,6 +9328,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -8980,6 +9353,7 @@ const tarix = {
           "text": "1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -9004,6 +9378,7 @@ const tarix = {
           "text": "Iss jangi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -9020,6 +9395,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -9036,6 +9412,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -9052,6 +9429,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -9068,6 +9446,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -9084,6 +9463,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -9100,6 +9480,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -9116,6 +9497,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -9132,6 +9514,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -9148,6 +9531,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -9164,6 +9548,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -9180,6 +9565,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -9196,6 +9582,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -9212,6 +9599,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -9228,6 +9616,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -9244,6 +9633,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -9260,6 +9650,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -9276,6 +9667,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -9292,6 +9684,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -9308,6 +9701,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -9324,6 +9718,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -9340,6 +9735,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -9356,6 +9752,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -9372,6 +9769,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -9388,6 +9786,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -9404,6 +9803,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -9420,6 +9820,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -9436,6 +9837,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -9452,6 +9854,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -9468,6 +9871,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. 1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -9484,6 +9888,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -9500,6 +9905,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -9516,6 +9922,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -9532,6 +9939,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -9548,6 +9956,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -9564,6 +9973,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -9580,6 +9990,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -9596,6 +10007,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -9612,6 +10024,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -9628,6 +10041,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -9644,6 +10058,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -9660,6 +10075,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -9676,6 +10092,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -9692,6 +10109,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -9708,6 +10126,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -9724,6 +10143,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -9740,6 +10160,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -9756,6 +10177,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -9772,6 +10194,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -9788,6 +10211,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -9804,6 +10228,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -9820,6 +10245,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -9836,6 +10262,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -9852,6 +10279,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -9868,6 +10296,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -9884,6 +10313,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -9900,6 +10330,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -9916,6 +10347,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -9932,6 +10364,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -9948,6 +10381,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -9964,6 +10398,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -9980,6 +10415,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -9996,6 +10432,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -10012,6 +10449,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -10028,6 +10466,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -10044,6 +10483,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -10060,6 +10500,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -10076,6 +10517,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -10092,6 +10534,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -10108,6 +10551,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -10124,6 +10568,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -10140,6 +10585,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -10156,6 +10602,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -10172,6 +10619,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -10188,6 +10636,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -10204,6 +10653,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -10220,6 +10670,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -10236,6 +10687,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -10252,6 +10704,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -10268,6 +10721,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -10284,6 +10738,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -10300,6 +10755,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -10316,6 +10772,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -10332,6 +10789,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -10348,6 +10806,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Teshiktosh g'ori (Surxondaryo). 1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -10364,6 +10823,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Avesto. Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -10380,6 +10840,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Kir II. To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -10396,6 +10857,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shiroq. Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -10412,6 +10874,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Spitamen. Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -10428,6 +10891,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi II asrda (Chjan Tsyan elchiligi davrida). Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -10444,6 +10908,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kanishka I (Buddaviylik dini). Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -10460,6 +10925,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Muqanna (Hoshim ibn Hakim). Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -10476,6 +10942,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ismoil Somoniy (892-907). Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -10492,6 +10959,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qoraxoniylar. Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -10508,6 +10976,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Abu Nasr Forobiy. Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -10524,6 +10993,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Muhammad al-Xorazmiy. Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -10540,6 +11010,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Abu Ali ibn Sino (Avitsenna). Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -10556,6 +11027,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Temur Malik. Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -10572,6 +11044,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Jaloliddin Manguberdi. Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -10588,6 +11061,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1336-yil 9-aprelda Xo'ja Ilg'or qishlog'ida (Kesh/Shahrisabz). Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -10604,6 +11078,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1370-yilda (Balg' qurultoyi), Samarqand. 1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -10620,6 +11095,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Anqara jangi. Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -10636,6 +11112,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mirzo Ulug'bek. Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -10652,6 +11129,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Husayn Boyqaro (Hirot). Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -10668,6 +11146,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Zahiriddin Muhammad Bobur. Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -10684,6 +11163,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mang'itlar sulolasi. Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -10700,6 +11180,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shohruxbiy (Minglar sulolasi). 1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -10716,6 +11197,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qo'ng'irotlar sulolasi. Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -10732,6 +11214,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1865-yil iyun oyida. 1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -10748,6 +11231,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qo'qon xonligi. Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -10764,6 +11248,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mahmudxo'ja Behbudiy. Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -10780,6 +11265,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Turkiston Muxtoriyati (Qo'qon muxtoriyati). Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -10796,6 +11282,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 31-avgustda (1-sentabr — Mustaqillik kuni). 1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -10812,6 +11299,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 18-noyabrda. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -10828,6 +11316,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 8-dekabrda. O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -10844,6 +11333,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 2-martda. 1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -10860,6 +11350,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1994-yil 1-iyulda. 1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -10876,6 +11367,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik. Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -10892,6 +11384,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zarautsoy. Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -10908,6 +11401,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik. Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -10924,6 +11418,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sopollitepa va Jarqo'ton. Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -10940,6 +11435,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati. Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -10956,6 +11452,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Chust madaniyati. Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -10972,6 +11469,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi. Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -10988,6 +11486,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Afrosiyob. Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -11004,6 +11503,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat. Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -11020,6 +11520,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Qadimgi Baqtriya. Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -11036,6 +11537,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat. Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -11052,6 +11554,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dovon davlati. Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -11068,6 +11571,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi. Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -11084,6 +11588,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kang' davlati. Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -11100,6 +11605,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat. Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -11116,6 +11622,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Eftaliylar davlati. Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -11132,6 +11639,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya. Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -11148,6 +11656,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Turk xoqonligi. Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -11164,6 +11673,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat. G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -11180,6 +11690,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — G'aznaviylar davlati. Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -11196,6 +11707,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi. Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -11212,6 +11724,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Saljuqiylar davlati. Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -11228,6 +11741,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat. Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -11244,6 +11758,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xorazmshohlar davlati. Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -11260,6 +11775,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri. Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -11276,6 +11792,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xeops piramidasi. Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -11292,6 +11809,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi. Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -11308,6 +11826,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xammurapi qonunlari. Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -11324,6 +11843,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush. Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -11340,6 +11860,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Peloponnes urushi. Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -11356,6 +11877,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush. Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -11372,6 +11894,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Puni urushlari. Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -11388,6 +11911,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi. Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -11404,6 +11928,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1492-yil (Xristofor Kolumb). Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -11420,6 +11945,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush. Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -11436,6 +11962,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1914-1918-yillar. Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -11452,6 +11979,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi. Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -11468,6 +11996,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1939-1945-yillar. Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -11484,6 +12013,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot. Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -11500,6 +12030,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1945-yil 24-oktabr. Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -11516,6 +12047,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gavgamela jangi. Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -11532,6 +12064,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Oktavian Avgust. Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -11548,6 +12081,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Milodiy 476-yilda (Odoakr tomonidan). 476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -11564,6 +12098,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1453-yilda Sulton Mehmed II Fotih tomonidan. 1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -11580,6 +12115,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Fernan Magellan (1519-1522). Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -11596,6 +12132,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Buyuk Fransuz inqilobi. Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -11612,6 +12149,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1776-yil 4-iyulda (Tomas Jefferson muallifligida). 1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -11628,6 +12166,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1888-yilda (Merv — Chorjo'y — Samarqand). 1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -11644,6 +12183,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Chor hukumatining mardikorlikka olish to'g'risidagi 25-iyun farmoni tufayli. Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -11660,6 +12200,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston SSR (poytaxti dastlab Samarqand bo'lgan). 1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -11676,6 +12217,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Teshiktosh g'ori (Surxondaryo). 1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -11692,6 +12234,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Avesto. Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -11708,6 +12251,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Kir II. To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -11724,6 +12268,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shiroq. Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -11740,6 +12285,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Spitamen. Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -11756,6 +12302,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi II asrda (Chjan Tsyan elchiligi davrida). Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -11772,6 +12319,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kanishka I (Buddaviylik dini). Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -11788,6 +12336,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Muqanna (Hoshim ibn Hakim). Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -11804,6 +12353,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ismoil Somoniy (892-907). Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -11820,6 +12370,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qoraxoniylar. Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -11836,6 +12387,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Abu Nasr Forobiy. Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -11852,6 +12404,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Muhammad al-Xorazmiy. Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -11868,6 +12421,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Abu Ali ibn Sino (Avitsenna). Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -11884,6 +12438,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Temur Malik. Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -11900,6 +12455,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Jaloliddin Manguberdi. Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -11916,6 +12472,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1336-yil 9-aprelda Xo'ja Ilg'or qishlog'ida (Kesh/Shahrisabz). Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -11932,6 +12489,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1370-yilda (Balg' qurultoyi), Samarqand. 1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -11948,6 +12506,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Anqara jangi. Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -11964,6 +12523,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mirzo Ulug'bek. Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -11980,6 +12540,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Husayn Boyqaro (Hirot). Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -11996,6 +12557,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Zahiriddin Muhammad Bobur. Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -12012,6 +12574,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mang'itlar sulolasi. Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -12028,6 +12591,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shohruxbiy (Minglar sulolasi). 1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -12044,6 +12608,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qo'ng'irotlar sulolasi. Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -12060,6 +12625,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1865-yil iyun oyida. 1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -12076,6 +12642,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qo'qon xonligi. Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -12092,6 +12659,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mahmudxo'ja Behbudiy. Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -12108,6 +12676,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Turkiston Muxtoriyati (Qo'qon muxtoriyati). Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -12124,6 +12693,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 31-avgustda (1-sentabr — Mustaqillik kuni). 1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -12140,6 +12710,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 18-noyabrda. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -12156,6 +12727,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 8-dekabrda. O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -12172,6 +12744,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 2-martda. 1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -12188,6 +12761,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1994-yil 1-iyulda. 1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -12204,6 +12778,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik. Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -12220,6 +12795,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zarautsoy. Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -12236,6 +12812,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik. Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -12252,6 +12829,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sopollitepa va Jarqo'ton. Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -12268,6 +12846,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati. Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -12284,6 +12863,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Chust madaniyati. Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -12300,6 +12880,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi. Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -12316,6 +12897,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Afrosiyob. Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -12332,6 +12914,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat. Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -12348,6 +12931,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Qadimgi Baqtriya. Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -12364,6 +12948,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat. Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -12380,6 +12965,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dovon davlati. Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -12396,6 +12982,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi. Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -12412,6 +12999,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kang' davlati. Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -12428,6 +13016,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat. Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -12444,6 +13033,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Eftaliylar davlati. Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -12460,6 +13050,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya. Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -12476,6 +13067,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Turk xoqonligi. Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -12492,6 +13084,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat. G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -12508,6 +13101,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — G'aznaviylar davlati. Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -12524,6 +13118,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi. Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -12540,6 +13135,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Saljuqiylar davlati. Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -12556,6 +13152,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat. Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -12572,6 +13169,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xorazmshohlar davlati. Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -12588,6 +13186,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri. Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -12604,6 +13203,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xeops piramidasi. Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -12620,6 +13220,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi. Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -12636,6 +13237,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xammurapi qonunlari. Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -12652,6 +13254,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush. Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -12668,6 +13271,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Peloponnes urushi. Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -12684,6 +13288,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush. Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -12700,6 +13305,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Puni urushlari. Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -12716,6 +13322,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi. Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -12732,6 +13339,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1492-yil (Xristofor Kolumb). Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -12748,6 +13356,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush. Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -12764,6 +13373,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1914-1918-yillar. Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -12780,6 +13390,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi. Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -12796,6 +13407,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1939-1945-yillar. Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -12812,6 +13424,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot. Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -12828,6 +13441,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1945-yil 24-oktabr. Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -12844,6 +13458,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gavgamela jangi. Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -12860,6 +13475,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Oktavian Avgust. Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -12876,6 +13492,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Milodiy 476-yilda (Odoakr tomonidan). 476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -12892,6 +13509,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1453-yilda Sulton Mehmed II Fotih tomonidan. 1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -12908,6 +13526,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Fernan Magellan (1519-1522). Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -12924,6 +13543,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Buyuk Fransuz inqilobi. Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -12940,6 +13560,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1776-yil 4-iyulda (Tomas Jefferson muallifligida). 1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -12956,6 +13577,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1888-yilda (Merv — Chorjo'y — Samarqand). 1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -12972,6 +13594,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Chor hukumatining mardikorlikka olish to'g'risidagi 25-iyun farmoni tufayli. Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -12988,6 +13611,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston SSR (poytaxti dastlab Samarqand bo'lgan). 1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -13004,6 +13628,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Teshiktosh g'ori (Surxondaryo). 1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -13020,6 +13645,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Avesto. Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -13036,6 +13662,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Kir II. To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -13052,6 +13679,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shiroq. Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -13068,6 +13696,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Spitamen. Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -13084,6 +13713,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi II asrda (Chjan Tsyan elchiligi davrida). Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -13100,6 +13730,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kanishka I (Buddaviylik dini). Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -13116,6 +13747,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Muqanna (Hoshim ibn Hakim). Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -13132,6 +13764,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ismoil Somoniy (892-907). Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -13148,6 +13781,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qoraxoniylar. Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -13164,6 +13798,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Abu Nasr Forobiy. Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -13180,6 +13815,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Muhammad al-Xorazmiy. Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -13196,6 +13832,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Abu Ali ibn Sino (Avitsenna). Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -13212,6 +13849,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Temur Malik. Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -13228,6 +13866,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Jaloliddin Manguberdi. Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -13244,6 +13883,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1336-yil 9-aprelda Xo'ja Ilg'or qishlog'ida (Kesh/Shahrisabz). Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -13260,6 +13900,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1370-yilda (Balg' qurultoyi), Samarqand. 1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -13276,6 +13917,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Anqara jangi. Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -13292,6 +13934,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mirzo Ulug'bek. Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -13308,6 +13951,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Husayn Boyqaro (Hirot). Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -13324,6 +13968,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Zahiriddin Muhammad Bobur. Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -13340,6 +13985,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mang'itlar sulolasi. Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -13356,6 +14002,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shohruxbiy (Minglar sulolasi). 1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -13372,6 +14019,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qo'ng'irotlar sulolasi. Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -13388,6 +14036,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1865-yil iyun oyida. 1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -13404,6 +14053,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qo'qon xonligi. Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -13420,6 +14070,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mahmudxo'ja Behbudiy. Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -13436,6 +14087,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Turkiston Muxtoriyati (Qo'qon muxtoriyati). Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -13452,6 +14104,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 31-avgustda (1-sentabr — Mustaqillik kuni). 1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -13468,6 +14121,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1991-yil 18-noyabrda. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -13484,6 +14138,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 8-dekabrda. O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -13500,6 +14155,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1992-yil 2-martda. 1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -13516,6 +14172,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1994-yil 1-iyulda. 1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -13532,6 +14189,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik. Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -13548,6 +14206,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zarautsoy. Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -13564,6 +14223,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik. Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -13580,6 +14240,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sopollitepa va Jarqo'ton. Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -13596,6 +14257,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati. Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -13612,6 +14274,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Chust madaniyati. Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -13628,6 +14291,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi. Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -13644,6 +14308,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Afrosiyob. Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -13660,6 +14325,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat. Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -13676,6 +14342,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Qadimgi Baqtriya. Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -13692,6 +14359,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat. Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -13708,6 +14376,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dovon davlati. Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -13724,6 +14393,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi. Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -13740,6 +14410,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kang' davlati. Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -13756,6 +14427,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat. Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -13772,6 +14444,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Eftaliylar davlati. Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -13788,6 +14461,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya. Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -13804,6 +14478,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Turk xoqonligi. Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -13820,6 +14495,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat. G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -13836,6 +14512,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — G'aznaviylar davlati. Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -13852,6 +14529,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi. Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -13868,6 +14546,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Saljuqiylar davlati. Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -13884,6 +14563,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat. Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -13900,6 +14580,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xorazmshohlar davlati. Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -13916,6 +14597,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri. Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -13932,6 +14614,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xeops piramidasi. Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -13948,6 +14631,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi. Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -13964,6 +14648,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xammurapi qonunlari. Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -13980,6 +14665,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush. Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -13996,6 +14682,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Peloponnes urushi. Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -14012,6 +14699,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush. Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -14028,6 +14716,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Puni urushlari. Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -14044,6 +14733,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi. Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -14060,6 +14750,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1492-yil (Xristofor Kolumb). Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -14076,6 +14767,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush. Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -14092,6 +14784,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1914-1918-yillar. Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -14108,6 +14801,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi. Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -14124,6 +14818,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1939-1945-yillar. Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -14140,6 +14835,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot. Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -14156,6 +14852,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1945-yil 24-oktabr. Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -14172,6 +14869,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gavgamela jangi. Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -14188,6 +14886,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Oktavian Avgust. Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -14204,6 +14903,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Milodiy 476-yilda (Odoakr tomonidan). 476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -14220,6 +14920,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1453-yilda Sulton Mehmed II Fotih tomonidan. 1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -14236,6 +14937,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Fernan Magellan (1519-1522). Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -14252,6 +14954,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Buyuk Fransuz inqilobi. Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -14268,6 +14971,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 1776-yil 4-iyulda (Tomas Jefferson muallifligida). 1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -14284,6 +14988,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — 1888-yilda (Merv — Chorjo'y — Samarqand). 1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -14300,6 +15005,7 @@ const tarix = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Chor hukumatining mardikorlikka olish to'g'risidagi 25-iyun farmoni tufayli. Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -14316,6 +15022,7 @@ const tarix = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — O'zbekiston SSR (poytaxti dastlab Samarqand bo'lgan). 1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -14340,6 +15047,7 @@ const tarix = {
           "text": "Obirahmat g'ori"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -14364,6 +15072,7 @@ const tarix = {
           "text": "Avesto"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -14388,6 +15097,7 @@ const tarix = {
           "text": "Kir II"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -14412,6 +15122,7 @@ const tarix = {
           "text": "Frada"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -14436,6 +15147,7 @@ const tarix = {
           "text": "Bess"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -14460,6 +15172,7 @@ const tarix = {
           "text": "Miloddan avvalgi II asrda (Chjan Tsyan elchiligi davrida)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -14484,6 +15197,7 @@ const tarix = {
           "text": "Kanishka I (Buddaviylik dini)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -14508,6 +15222,7 @@ const tarix = {
           "text": "Muqanna va Abu Muslim"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -14532,6 +15247,7 @@ const tarix = {
           "text": "Ahmad ibn Asad"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -14556,6 +15272,7 @@ const tarix = {
           "text": "Xorazmshohlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -14580,6 +15297,7 @@ const tarix = {
           "text": "Ahmad Farg'oniy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -14604,6 +15322,7 @@ const tarix = {
           "text": "Mirzo Ulug'bek"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -14628,6 +15347,7 @@ const tarix = {
           "text": "Abu Ali ibn Sino (Avitsenna)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -14652,6 +15372,7 @@ const tarix = {
           "text": "Temur Malik"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -14676,6 +15397,7 @@ const tarix = {
           "text": "Muhammad Xorazmshoh"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -14700,6 +15422,7 @@ const tarix = {
           "text": "1335-yil Toshkentda"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -14724,6 +15447,7 @@ const tarix = {
           "text": "1380-yilda, Buxoro"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -14748,6 +15472,7 @@ const tarix = {
           "text": "Qunduzcha jangi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -14772,6 +15497,7 @@ const tarix = {
           "text": "Mirzo Ulug'bek"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -14796,6 +15522,7 @@ const tarix = {
           "text": "Shohruh Mirzo"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -14820,6 +15547,7 @@ const tarix = {
           "text": "Humoyun Mirzo"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -14844,6 +15572,7 @@ const tarix = {
           "text": "Shayboniylar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -14868,6 +15597,7 @@ const tarix = {
           "text": "Shohruxbiy (Minglar sulolasi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -14892,6 +15622,7 @@ const tarix = {
           "text": "Shayboniylar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -14916,6 +15647,7 @@ const tarix = {
           "text": "1865-yil iyun oyida"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -14940,6 +15672,7 @@ const tarix = {
           "text": "Toshkent bekligi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -14964,6 +15697,7 @@ const tarix = {
           "text": "Mahmudxo'ja Behbudiy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -14988,6 +15722,7 @@ const tarix = {
           "text": "Turkiston Muxtoriyati (Qo'qon muxtoriyati)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -15012,6 +15747,7 @@ const tarix = {
           "text": "1991-yil 1-dekabrda"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -15036,6 +15772,7 @@ const tarix = {
           "text": "1991-yil 31-avgustda"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -15060,6 +15797,7 @@ const tarix = {
           "text": "1993-yil 8-dekabrda"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -15084,6 +15822,7 @@ const tarix = {
           "text": "1991-yil 18-noyabrda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -15108,6 +15847,7 @@ const tarix = {
           "text": "1995-yil 1-yanvarda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -15132,6 +15872,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -15156,6 +15897,7 @@ const tarix = {
           "text": "Sarmishsoy"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -15180,6 +15922,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -15204,6 +15947,7 @@ const tarix = {
           "text": "Chust madaniyati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -15228,6 +15972,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -15252,6 +15997,7 @@ const tarix = {
           "text": "Tozabog'yob"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -15276,6 +16022,7 @@ const tarix = {
           "text": "Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -15300,6 +16047,7 @@ const tarix = {
           "text": "Bolaliktepa"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -15324,6 +16072,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -15348,6 +16097,7 @@ const tarix = {
           "text": "Kang' davlati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -15372,6 +16122,7 @@ const tarix = {
           "text": "Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -15396,6 +16147,7 @@ const tarix = {
           "text": "Kushon davlati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -15420,6 +16172,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -15444,6 +16197,7 @@ const tarix = {
           "text": "Kushon podsholigi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -15468,6 +16222,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -15492,6 +16247,7 @@ const tarix = {
           "text": "Xioniylar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -15516,6 +16272,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -15540,6 +16297,7 @@ const tarix = {
           "text": "Turk xoqonligi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -15564,6 +16322,7 @@ const tarix = {
           "text": "X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -15588,6 +16347,7 @@ const tarix = {
           "text": "G'aznaviylar davlati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -15612,6 +16372,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -15636,6 +16397,7 @@ const tarix = {
           "text": "Temuriylar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -15660,6 +16422,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -15684,6 +16447,7 @@ const tarix = {
           "text": "Qoraxitoylar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -15708,6 +16472,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -15732,6 +16497,7 @@ const tarix = {
           "text": "Zevs haykali"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -15756,6 +16522,7 @@ const tarix = {
           "text": "Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -15780,6 +16547,7 @@ const tarix = {
           "text": "Yustinian kodeksi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -15804,6 +16572,7 @@ const tarix = {
           "text": "Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -15828,6 +16597,7 @@ const tarix = {
           "text": "Troya urushi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -15852,6 +16622,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -15876,6 +16647,7 @@ const tarix = {
           "text": "Peloponnes urushi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -15900,6 +16672,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -15924,6 +16697,7 @@ const tarix = {
           "text": "1498-yil (Vasko da Gama)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -15948,6 +16722,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -15972,6 +16747,7 @@ const tarix = {
           "text": "1914-1918-yillar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -15996,6 +16772,7 @@ const tarix = {
           "text": "1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -16020,6 +16797,7 @@ const tarix = {
           "text": "1914-1918-yillar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -16044,6 +16822,7 @@ const tarix = {
           "text": "1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -16068,6 +16847,7 @@ const tarix = {
           "text": "1948-yil 10-dekabr"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -16092,6 +16872,7 @@ const tarix = {
           "text": "Gavgamela jangi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -16116,6 +16897,7 @@ const tarix = {
           "text": "Neron"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -16140,6 +16922,7 @@ const tarix = {
           "text": "Milodiy 476-yilda (Odoakr tomonidan)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -16164,6 +16947,7 @@ const tarix = {
           "text": "1453-yilda Sulton Mehmed II Fotih tomonidan"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -16188,6 +16972,7 @@ const tarix = {
           "text": "Xristofor Kolumb"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -16212,6 +16997,7 @@ const tarix = {
           "text": "Buyuk Fransuz inqilobi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -16236,6 +17022,7 @@ const tarix = {
           "text": "1787-yilda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -16260,6 +17047,7 @@ const tarix = {
           "text": "1906-yilda (Toshkent — Orenburg)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -16284,6 +17072,7 @@ const tarix = {
           "text": "Diniy cheklovlar tufayli"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -16308,6 +17097,7 @@ const tarix = {
           "text": "Buxoro Xalq Respublikasi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -16332,6 +17122,7 @@ const tarix = {
           "text": "Zarautsoy"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -16356,6 +17147,7 @@ const tarix = {
           "text": "Veda"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -16380,6 +17172,7 @@ const tarix = {
           "text": "Kir II"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -16404,6 +17197,7 @@ const tarix = {
           "text": "Spitamen"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -16428,6 +17222,7 @@ const tarix = {
           "text": "Oxyart"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -16452,6 +17247,7 @@ const tarix = {
           "text": "Miloddan avvalgi VI asrda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -16476,6 +17272,7 @@ const tarix = {
           "text": "Vasudeva"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -16500,6 +17297,7 @@ const tarix = {
           "text": "Muqanna (Hoshim ibn Hakim)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -16524,6 +17322,7 @@ const tarix = {
           "text": "Nasr I"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -16548,6 +17347,7 @@ const tarix = {
           "text": "G'aznaviylar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -16572,6 +17372,7 @@ const tarix = {
           "text": "Al-Xorazmiy"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -16596,6 +17397,7 @@ const tarix = {
           "text": "Mirzo Ulug'bek"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -16620,6 +17422,7 @@ const tarix = {
           "text": "Al-Marg'inoniy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -16644,6 +17447,7 @@ const tarix = {
           "text": "Najmiddin Kubro"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -16668,6 +17472,7 @@ const tarix = {
           "text": "Temur Malik"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -16692,6 +17497,7 @@ const tarix = {
           "text": "1336-yil Samarqandda"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -16716,6 +17522,7 @@ const tarix = {
           "text": "1380-yilda, Buxoro"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -16740,6 +17547,7 @@ const tarix = {
           "text": "Terek bo'yidagi jang"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -16764,6 +17572,7 @@ const tarix = {
           "text": "Shohruh Mirzo"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -16788,6 +17597,7 @@ const tarix = {
           "text": "Mirzo Ulug'bek"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -16812,6 +17622,7 @@ const tarix = {
           "text": "Zahiriddin Muhammad Bobur"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -16836,6 +17647,7 @@ const tarix = {
           "text": "Shayboniylar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -16860,6 +17672,7 @@ const tarix = {
           "text": "Shohruxbiy (Minglar sulolasi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -16884,6 +17697,7 @@ const tarix = {
           "text": "Arabshohiylar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -16908,6 +17722,7 @@ const tarix = {
           "text": "1873-yil"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -16932,6 +17747,7 @@ const tarix = {
           "text": "Xiva xonligi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -16956,6 +17772,7 @@ const tarix = {
           "text": "Fitrat"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -16980,6 +17797,7 @@ const tarix = {
           "text": "Alash O'rda"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -17004,6 +17822,7 @@ const tarix = {
           "text": "1992-yil 8-dekabrda"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -17028,6 +17847,7 @@ const tarix = {
           "text": "1992-yil 10-dekabrda"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -17052,6 +17872,7 @@ const tarix = {
           "text": "1992-yil 2-iyulda"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -17076,6 +17897,7 @@ const tarix = {
           "text": "1991-yil 18-noyabrda"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -17100,6 +17922,7 @@ const tarix = {
           "text": "1991-yil 1-sentabrda"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -17124,6 +17947,7 @@ const tarix = {
           "text": "Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -17148,6 +17972,7 @@ const tarix = {
           "text": "Teshiktosh"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -17172,6 +17997,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -17196,6 +18022,7 @@ const tarix = {
           "text": "Afrosiyob"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -17220,6 +18047,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -17244,6 +18072,7 @@ const tarix = {
           "text": "Zamonbobo madaniyati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -17268,6 +18097,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -17292,6 +18122,7 @@ const tarix = {
           "text": "Afrosiyob"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -17316,6 +18147,7 @@ const tarix = {
           "text": "Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -17340,6 +18172,7 @@ const tarix = {
           "text": "Kang' davlati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -17364,6 +18197,7 @@ const tarix = {
           "text": "Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -17388,6 +18222,7 @@ const tarix = {
           "text": "Baqtriya"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -17412,6 +18247,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -17436,6 +18272,7 @@ const tarix = {
           "text": "Kushon podsholigi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -17460,6 +18297,7 @@ const tarix = {
           "text": "V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -17484,6 +18322,7 @@ const tarix = {
           "text": "Eftaliylar davlati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -17508,6 +18347,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -17532,6 +18372,7 @@ const tarix = {
           "text": "Uyg'ur xoqonligi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -17556,6 +18397,7 @@ const tarix = {
           "text": "X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -17580,6 +18422,7 @@ const tarix = {
           "text": "Xorazmshohlar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -17604,6 +18447,7 @@ const tarix = {
           "text": "1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -17628,6 +18472,7 @@ const tarix = {
           "text": "Temuriylar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -17652,6 +18497,7 @@ const tarix = {
           "text": "Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -17676,6 +18522,7 @@ const tarix = {
           "text": "Qoraxitoylar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -17700,6 +18547,7 @@ const tarix = {
           "text": "Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -17724,6 +18572,7 @@ const tarix = {
           "text": "Zevs haykali"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -17748,6 +18597,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -17772,6 +18622,7 @@ const tarix = {
           "text": "O'n ikki jadval qonunlari"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -17796,6 +18647,7 @@ const tarix = {
           "text": "Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -17820,6 +18672,7 @@ const tarix = {
           "text": "Peloponnes urushi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -17844,6 +18697,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -17868,6 +18722,7 @@ const tarix = {
           "text": "Galliya urushlari"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -17892,6 +18747,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -17916,6 +18772,7 @@ const tarix = {
           "text": "1498-yil (Vasko da Gama)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -17940,6 +18797,7 @@ const tarix = {
           "text": "1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -17964,6 +18822,7 @@ const tarix = {
           "text": "1870-1871-yillar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -17988,6 +18847,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -18012,6 +18872,7 @@ const tarix = {
           "text": "1939-1945-yillar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -18036,6 +18897,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -18060,6 +18922,7 @@ const tarix = {
           "text": "1949-yil 4-aprel"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -18084,6 +18947,7 @@ const tarix = {
           "text": "Marafon jangi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -18108,6 +18972,7 @@ const tarix = {
           "text": "Yuliy Sezar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -18132,6 +18997,7 @@ const tarix = {
           "text": "Milodiy 395-yilda"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -18156,6 +19022,7 @@ const tarix = {
           "text": "1402-yilda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -18180,6 +19047,7 @@ const tarix = {
           "text": "Jeyms Kuk"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -18204,6 +19072,7 @@ const tarix = {
           "text": "Niderlandiya inqilobi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -18228,6 +19097,7 @@ const tarix = {
           "text": "1787-yilda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -18252,6 +19122,7 @@ const tarix = {
           "text": "1899-yilda (Toshkent — Krasnovodsk)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -18276,6 +19147,7 @@ const tarix = {
           "text": "Paxta narxi tushgani sababli"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -18300,6 +19172,7 @@ const tarix = {
           "text": "O'zbekiston SSR (poytaxti dastlab Samarqand bo'lgan)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -18324,6 +19197,7 @@ const tarix = {
           "text": "Teshiktosh g'ori (Surxondaryo)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -18348,6 +19222,7 @@ const tarix = {
           "text": "Veda"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -18372,6 +19247,7 @@ const tarix = {
           "text": "Kir II"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -18396,6 +19272,7 @@ const tarix = {
           "text": "Shiroq"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -18420,6 +19297,7 @@ const tarix = {
           "text": "Shiroq"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -18444,6 +19322,7 @@ const tarix = {
           "text": "Milodiy V asrda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -18468,6 +19347,7 @@ const tarix = {
           "text": "Vasudeva"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -18492,6 +19372,7 @@ const tarix = {
           "text": "Muqanna va Abu Muslim"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -18516,6 +19397,7 @@ const tarix = {
           "text": "Nasr I"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -18540,6 +19422,7 @@ const tarix = {
           "text": "Saljuqiylar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -18564,6 +19447,7 @@ const tarix = {
           "text": "Abu Ali ibn Sino"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -18588,6 +19472,7 @@ const tarix = {
           "text": "Abu Rayhon Beruniy"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -18612,6 +19497,7 @@ const tarix = {
           "text": "Abu Ali ibn Sino (Avitsenna)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -18636,6 +19522,7 @@ const tarix = {
           "text": "Jaloliddin Manguberdi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -18660,6 +19547,7 @@ const tarix = {
           "text": "Jaloliddin Manguberdi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -18684,6 +19572,7 @@ const tarix = {
           "text": "1336-yil 9-aprelda Xo'ja Ilg'or qishlog'ida (Kesh/Shahrisabz)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -18708,6 +19597,7 @@ const tarix = {
           "text": "1365-yilda, Kesh"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -18732,6 +19622,7 @@ const tarix = {
           "text": "Terek bo'yidagi jang"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -18756,6 +19647,7 @@ const tarix = {
           "text": "Bobur Mirzo"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -18780,6 +19672,7 @@ const tarix = {
           "text": "Shohruh Mirzo"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -18804,6 +19697,7 @@ const tarix = {
           "text": "Zahiriddin Muhammad Bobur"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -18828,6 +19722,7 @@ const tarix = {
           "text": "Ashtarxoniylar (Joniylar)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -18852,6 +19747,7 @@ const tarix = {
           "text": "Norbo'tabiy"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -18876,6 +19772,7 @@ const tarix = {
           "text": "Arabshohiylar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -18900,6 +19797,7 @@ const tarix = {
           "text": "1873-yil"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -18924,6 +19822,7 @@ const tarix = {
           "text": "Qo'qon xonligi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -18948,6 +19847,7 @@ const tarix = {
           "text": "Fitrat"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -18972,6 +19872,7 @@ const tarix = {
           "text": "Buxoro Xalq Sovet Respublikasi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -18996,6 +19897,7 @@ const tarix = {
           "text": "1991-yil 1-dekabrda"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -19020,6 +19922,7 @@ const tarix = {
           "text": "1991-yil 31-avgustda"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -19044,6 +19947,7 @@ const tarix = {
           "text": "1991-yil 31-avgustda"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -19068,6 +19972,7 @@ const tarix = {
           "text": "1991-yil 18-noyabrda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -19092,6 +19997,7 @@ const tarix = {
           "text": "1995-yil 1-yanvarda"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -19116,6 +20022,7 @@ const tarix = {
           "text": "Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -19140,6 +20047,7 @@ const tarix = {
           "text": "Teshiktosh"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -19164,6 +20072,7 @@ const tarix = {
           "text": "Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -19188,6 +20097,7 @@ const tarix = {
           "text": "Zamonbobo"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -19212,6 +20122,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -19236,6 +20147,7 @@ const tarix = {
           "text": "Kaltaminor"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -19260,6 +20172,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -19284,6 +20197,7 @@ const tarix = {
           "text": "Bolaliktepa"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -19308,6 +20222,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -19332,6 +20247,7 @@ const tarix = {
           "text": "So'g'diyona"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -19356,6 +20272,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     },
@@ -19380,6 +20297,7 @@ const tarix = {
           "text": "Kushon davlati"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Dovon (Farg'ona) davlati'ga tegishli."
     },
@@ -19404,6 +20322,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kang' (Qang'uy) davlati - Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi."
     },
@@ -19428,6 +20347,7 @@ const tarix = {
           "text": "Kushon podsholigi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Kang' (Qang'uy) davlati'ga tegishli."
     },
@@ -19452,6 +20372,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eftaliylar (Oq hunlar) davlati - V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat."
     },
@@ -19476,6 +20397,7 @@ const tarix = {
           "text": "Kidariylar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Eftaliylar (Oq hunlar) davlati'ga tegishli."
     },
@@ -19500,6 +20422,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Turk xoqonligi - 552-yilda Bumin xoqon tomonidan asos solingan, Oltoy va butun Markaziy Osiyoni birlashtirgan ulkan imperiya."
     },
@@ -19524,6 +20447,7 @@ const tarix = {
           "text": "Qoraxoniylar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Turk xoqonligi'ga tegishli."
     },
@@ -19548,6 +20472,7 @@ const tarix = {
           "text": "X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "G'aznaviylar davlati - X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat."
     },
@@ -19572,6 +20497,7 @@ const tarix = {
           "text": "Somoniylar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'G'aznaviylar davlati'ga tegishli."
     },
@@ -19596,6 +20522,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Saljuqiylar davlati - 1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi."
     },
@@ -19620,6 +20547,7 @@ const tarix = {
           "text": "G'aznaviylar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Saljuqiylar davlati'ga tegishli."
     },
@@ -19644,6 +20572,7 @@ const tarix = {
           "text": "Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Buyuk Xorazmshohlar davlati - Anushteginiylar sulolasi boshqargan, Alovuddin Takash va Alovuddin Muhammad davrida poytaxti Ko'hna Urganch bo'lgan ulkan saltanat."
     },
@@ -19668,6 +20597,7 @@ const tarix = {
           "text": "Qoraxitoylar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Buyuk Xorazmshohlar davlati'ga tegishli."
     },
@@ -19692,6 +20622,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qadimgi Misr piramidalari - Fir'avn Xufu (Xeops) davrida Gizadagi miloddan avvalgi III ming yillikda barpo etilgan dunyoning yetti mo''jizasidan biri."
     },
@@ -19716,6 +20647,7 @@ const tarix = {
           "text": "Semiramida osma bog'lari"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Qadimgi Misr piramidalari'ga tegishli."
     },
@@ -19740,6 +20672,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Xammurapi qonunlari - Miloddan avvalgi XVIII asrda Bobil podsholigida tosh ustunlarga mixxat bilan o'yib yozilgan eng qadimgi qonunlar majmuasi."
     },
@@ -19764,6 +20697,7 @@ const tarix = {
           "text": "Xammurapi qonunlari"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Xammurapi qonunlari'ga tegishli."
     },
@@ -19788,6 +20722,7 @@ const tarix = {
           "text": "Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Peloponnes urushi - Miloddan avvalgi 431-404-yillarda Qadimgi Yunonistonda Afina va Sparta ittifoqlari o'rtasida gegemonlik uchun bo'lgan urush."
     },
@@ -19812,6 +20747,7 @@ const tarix = {
           "text": "Gretsiya-Fors urushlari"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Peloponnes urushi'ga tegishli."
     },
@@ -19836,6 +20772,7 @@ const tarix = {
           "text": "Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Puni urushlari - Miloddan avvalgi III-II asrlarda O'rtayer dengizida hukmronlik uchun Rim va Karfagen (Gannibal) o'rtasida olib borilgan 3 ta yirik urush."
     },
@@ -19860,6 +20797,7 @@ const tarix = {
           "text": "Yuz yillik urush"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Puni urushlari'ga tegishli."
     },
@@ -19884,6 +20822,7 @@ const tarix = {
           "text": "1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Amerikaning kashf etilishi - 1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi."
     },
@@ -19908,6 +20847,7 @@ const tarix = {
           "text": "1492-yil (Xristofor Kolumb)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Amerikaning kashf etilishi'ga tegishli."
     },
@@ -19932,6 +20872,7 @@ const tarix = {
           "text": "Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Birinchi jahon urushi - 1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush."
     },
@@ -19956,6 +20897,7 @@ const tarix = {
           "text": "1904-1905-yillar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birinchi jahon urushi'ga tegishli."
     },
@@ -19980,6 +20922,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ikkinchi jahon urushi - 1939-1945-yillarda fashizm va agressiv blokga qarshi xalqaro koalitsiya o'rtasida kechgan eng qonli jahon urushi."
     },
@@ -20004,6 +20947,7 @@ const tarix = {
           "text": "1914-1918-yillar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Ikkinchi jahon urushi'ga tegishli."
     },
@@ -20028,6 +20972,7 @@ const tarix = {
           "text": "Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi - 1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot."
     },
@@ -20052,6 +20997,7 @@ const tarix = {
           "text": "1945-yil 24-oktabr"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ma'lumot 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi'ga tegishli."
     },
@@ -20076,6 +21022,7 @@ const tarix = {
           "text": "Marafon jangi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gavgamela jangidan so'ng Doro III qochdi va Axamoniylar davlati quladi."
     },
@@ -20100,6 +21047,7 @@ const tarix = {
           "text": "Yuliy Sezar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Miloddan avvalgi 27-yilda Senat Oktavianga 'Avgust' unvonini berdi va imperiya boshlandi."
     },
@@ -20124,6 +21072,7 @@ const tarix = {
           "text": "Milodiy 410-yilda"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "476-yilda so'nggi Rim imperatori Romul Avgustul taxtdan ag'darildi."
     },
@@ -20148,6 +21097,7 @@ const tarix = {
           "text": "1389-yilda"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1453-yilda Usmonli turklar Vizantiyani tugatdi va o'rta asrlar yakunlandi."
     },
@@ -20172,6 +21122,7 @@ const tarix = {
           "text": "Amerigo Vespuchchi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Magellan ekspeditsiyasi Yerning shar shaklida ekanini amalda to'liq isbotladi."
     },
@@ -20196,6 +21147,7 @@ const tarix = {
           "text": "AQSh mustaqillik urushi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bastiliyaning olinishi Fransiyada mutlaq monarxiyaning ag'darilishiga yo'l ochdi."
     },
@@ -20220,6 +21172,7 @@ const tarix = {
           "text": "1787-yilda"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1776-yil 4-iyulda 13 ta shtat Buyuk Britaniyadan mustaqilligini e'lon qildi."
     },
@@ -20244,6 +21197,7 @@ const tarix = {
           "text": "1888-yilda (Merv — Chorjo'y — Samarqand)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "1888-yilda Kaspiyorti temir yo'li Samarqandgacha yetib keldi."
     },
@@ -20268,6 +21222,7 @@ const tarix = {
           "text": "Diniy cheklovlar tufayli"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Birinchi jahon urushi front orti ishlariga mardikorlikka chaqirish xalq g'azabini keltirib chiqardi."
     },
@@ -20292,6 +21247,7 @@ const tarix = {
           "text": "Xorazm Xalq Respublikasi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1924-yil 27-oktabrda O'zbekiston SSR tuzildi, 1930-yilda poytaxt Toshkentga ko'chirildi."
     },
@@ -20316,6 +21272,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zbekiston hududidagi ilk paleolit davriga oid eng mashhur neandertal odami qoldiqlari qaysi g'ordan topilgan?» savolining to'g'ri javobi — Teshiktosh g'ori (Surxondaryo). 1938-yilda A.P. Okladnikov tomonidan Teshiktosh g'oridan 8-9 yoshli neandertal bola suyagi topilgan."
     },
@@ -20340,6 +21297,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Puni urushlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Zardushtiylik dinining muqaddas kitobi qaysi?» savolining to'g'ri javobi — Avesto. Zardushtiylikning muqaddas manbasi 'Avesto' bo'lib, uning vatani qadimgi Xorazm hisoblanadi."
     },
@@ -20364,6 +21322,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Birinchi jahon urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Miloddan avvalgi 530-yilda massagetlar malikasi To'maris qaysi axamoniylar shohini jangda mag'lub etgan?» savolining to'g'ri javobi — Kir II. To'maris bosqinchi Eron podshosi Kir II qo'shinini tor-mor etgan va uni o'ldirgan."
     },
@@ -20388,6 +21347,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Afrosiyob (Qadimgi Samarqand)' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Miloddan avvalgi 522-yilda axamoniylar shohi Doro I ga qarshi jasorat ko'rsatib, cho'lda dushman qo'shinini adashtirgan so'g'dlik cho'pon kim edi?» savolining to'g'ri javobi — Shiroq. Shiroq o'z jonini qurbon qilib Doro I qo'shinini aldab sahroga olib kirgan."
     },
@@ -20412,6 +21372,7 @@ const tarix = {
           "text": "Sohibqiron Amir Temur qachon va qayerda tavallud topgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Miloddan avvalgi 329-327-yillarda Aleksandr Makedonskiy (Iskandar Zulqarnayn) bosqiniga qarshi So'g'diyona va Baqtriyada ko'tarilgan xalq qo'zg'oloniga kim boshchilik qilgan?» savolining to'g'ri javobi — Spitamen. Spitamen Iskandar Makedonskiyga qarshi 3 yil davomida mardonavor partizanlik kurashini olib borgan."
     },
@@ -20436,6 +21397,7 @@ const tarix = {
           "text": "Miloddan avvalgi 329-327-yillarda Aleksandr Makedonskiy (Iskandar Zulqarnayn) bosqiniga qarshi So'g'diyona va Baqtriyada ko'tarilgan xalq qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Buyuk Ipak yo'li qaysi asrda qat'iy tizim sifatida shakllangan?» savolining to'g'ri javobi — Miloddan avvalgi II asrda (Chjan Tsyan elchiligi davrida). Xitoydan O'rta Osiyo orqali O'rtayer dengiziga tomon m.a. II asrda shakllandi."
     },
@@ -20460,6 +21422,7 @@ const tarix = {
           "text": "Kushon podsholigining eng qudratli hukmdori kim bo'lgan va qaysi din davlat darajasiga ko'tarilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kushon podsholigining eng qudratli hukmdori kim bo'lgan va qaysi din davlat darajasiga ko'tarilgan?» savolining to'g'ri javobi — Kanishka I (Buddaviylik dini). Kanishka I davrida Kushon davlati gullab-yashnagan va buddaviylik keng tarqalgan."
     },
@@ -20484,6 +21447,7 @@ const tarix = {
           "text": "O'rta Osiyoda arab bosqinchilariga qarshi VIII asrning 70-80-yillarida 'Oq kiyimlilar' qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'rta Osiyoda arab bosqinchilariga qarshi VIII asrning 70-80-yillarida 'Oq kiyimlilar' qo'zg'oloniga kim boshchilik qilgan?» savolining to'g'ri javobi — Muqanna (Hoshim ibn Hakim). Muqanna 776-783-yillarda arab xalifaligiga qarshi kurashgan."
     },
@@ -20508,6 +21472,7 @@ const tarix = {
           "text": "O'rta Osiyoda arab bosqinchilariga qarshi VIII asrning 70-80-yillarida 'Oq kiyimlilar' qo'zg'oloniga kim boshchilik qilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Somoniylar davlatining asoschisi va mustaqil davlatga aylantirgan hukmdor kim?» savolining to'g'ri javobi — Ismoil Somoniy (892-907). Ismoil Somoniy 892-yilda butun Movarounnahrni yagona markazlashgan davlatga birlashtirdi."
     },
@@ -20532,6 +21497,7 @@ const tarix = {
           "text": "999-yilda Somoniylar davlatini tugatib, Movarounnahrda o'z hukmronligini o'rnatgan turkiy sulola qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«999-yilda Somoniylar davlatini tugatib, Movarounnahrda o'z hukmronligini o'rnatgan turkiy sulola qaysi?» savolining to'g'ri javobi — Qoraxoniylar. Qoraxoniylar 999-yilda Buxoroni egallab Somoniylar sulolasiga chek qo'ydi."
     },
@@ -20556,6 +21522,7 @@ const tarix = {
           "text": "Buxoro amirligida 1756-yildan 1920-yilgacha qaysi sulola hukmronlik qildi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«'Sharq Arastusi' (Al-Muallim as-soniy - Ikkinchi muallim) faxriy unvoniga sazovor bo'lgan buyuk alloma kim?» savolining to'g'ri javobi — Abu Nasr Forobiy. Forobiy qomusiy olim bo'lib, falsafa va mantiq bo'yicha Aristoteldan keyingi 2-o'rinda e'tirof etilgan."
     },
@@ -20580,6 +21547,7 @@ const tarix = {
           "text": "Qo'qon xonligiga XVIII asr boshlarida (1709-yilda) kim tomonidan asos solingan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Algebra faniga asos solgan va 'Al-jabr val-muqobala' asari muallifi bo'lgan alloma kim?» savolining to'g'ri javobi — Muhammad al-Xorazmiy. Al-Xorazmiy dunyo ilm-fanida algebra asoschisi va algoritmlar kashfiyotchisi."
     },
@@ -20604,6 +21572,7 @@ const tarix = {
           "text": "Tibbiyot ensiklopediyasi bo'lgan 'Tib qonunlari' ('Al-Qonun fit-tibb') asarining muallifi kim?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Tibbiyot ensiklopediyasi bo'lgan 'Tib qonunlari' ('Al-Qonun fit-tibb') asarining muallifi kim?» savolining to'g'ri javobi — Abu Ali ibn Sino (Avitsenna). Ibn Sino G'arbda Avitsenna nomi bilan mashhur tibbiyot sultoni hisoblanadi."
     },
@@ -20628,6 +21597,7 @@ const tarix = {
           "text": "Mo'g'ullarga qarshi kurashda Xo'jand mudofaasida mislsiz mardlik ko'rsatgan sarkarda kim?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Mo'g'ullarga qarshi kurashda Xo'jand mudofaasida mislsiz mardlik ko'rsatgan sarkarda kim?» savolining to'g'ri javobi — Temur Malik. Temur Malik Xo'jand qal'asini Sirdaryo orqali mardona mudofaa qilgan."
     },
@@ -20652,6 +21622,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'X-XI asrlarda poytaxti G'azna shahri bo'lgan, Mahmud G'aznaviy davrida Hindistonga 17 marta yurish qilgan qudratli saltanat'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Chingizxon qo'shinlariga qarshi 11 yil davomida (Sind daryosi bo'yidagi jang va boshqalar) mardonavor kurashgan buyuk sarkarda kim?» savolining to'g'ri javobi — Jaloliddin Manguberdi. Jaloliddin Manguberdi Xorazmshohlarning so'nggi va eng jasur hukmdori edi."
     },
@@ -20676,6 +21647,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Sohibqiron Amir Temur qachon va qayerda tavallud topgan?» savolining to'g'ri javobi — 1336-yil 9-aprelda Xo'ja Ilg'or qishlog'ida (Kesh/Shahrisabz). Amir Temur 1336-yil 9-aprelda Shahrisabz yaqinidagi Xo'ja Ilg'or qishlog'ida tavallud topgan."
     },
@@ -20700,6 +21672,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1492-yilda Xristofor Kolumb boshchiligidagi Ispaniya ekspeditsiyasining Yangi Dunyo (Amerika) qit'asiga yetib borishi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Amir Temur qachon Movarounnahrning oliy hukmdori deb e'lon qilindi va poytaxt etib qaysi shahar tanlandi?» savolining to'g'ri javobi — 1370-yilda (Balg' qurultoyi), Samarqand. 1370-yil aprel qurultoyida Amir Temur buyuk amir etib saylandi va Samarqand poytaxt qilindi."
     },
@@ -20724,6 +21697,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Peloponnes urushi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«1402-yil 20-iyulda Amir Temur va Usmonli turk sultoni Boyazid Yildirim o'rtasida qaysi mashhur jang bo'lib o'tdi?» savolining to'g'ri javobi — Anqara jangi. Anqara jangida Amir Temur Boyazid ustidan to'la g'alaba qozondi."
     },
@@ -20748,6 +21722,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Buyuk Xorazmshohlar davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Samarqandda mashhur rasadxona qurdirgan va 1018 ta yulduz jadvalini ('Ziji jadidi Ko'ragoniy') yaratgan temuriy hukmdor va olim kim?» savolining to'g'ri javobi — Mirzo Ulug'bek. Mirzo Ulug'bek 1424-1428-yillarda Samarqandda rasadxona barpo etgan."
     },
@@ -20772,6 +21747,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1040-yil Dandonqon jangidagi g'alabadan so'ng vujudga kelgan, To'g'rulbek va Alp Arslon boshchiligidagi yirik turk imperiyasi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbek mumtoz adabiyotining asoschisi, buyuk shoir va davlat arbobi Alisher Navoiy qaysi temuriy hukmdor davrida bosh vazir darajasida faoliyat yuritgan?» savolining to'g'ri javobi — Husayn Boyqaro (Hirot). Alisher Navoiy va Sulton Husayn Boyqaro maktabdosh do'st bo'lib, Hirotda ma'naviyatni yuksaltirgan."
     },
@@ -20796,6 +21772,7 @@ const tarix = {
           "text": "Rim imperiyasining birinchi imperatori kim bo'lgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Boburiylar sulolasiga va 'Boburnoma' asari muallifi bo'lgan shoh va shoir kim?» savolining to'g'ri javobi — Zahiriddin Muhammad Bobur. Bobur Mirzo 1526-yilda Panipat jangidagi g'alabadan so'ng Hindistonda Boburiylar saltanatiga asos soldi."
     },
@@ -20820,6 +21797,7 @@ const tarix = {
           "text": "Mo'g'ullarga qarshi kurashda Xo'jand mudofaasida mislsiz mardlik ko'rsatgan sarkarda kim?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Buxoro amirligida 1756-yildan 1920-yilgacha qaysi sulola hukmronlik qildi?» savolining to'g'ri javobi — Mang'itlar sulolasi. Mang'itlar sulolasining birinchi hukmdori Muhammad Rahimxon bo'lgan."
     },
@@ -20844,6 +21822,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Qadimgi Baqtriya davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Qo'qon xonligiga XVIII asr boshlarida (1709-yilda) kim tomonidan asos solingan?» savolining to'g'ri javobi — Shohruxbiy (Minglar sulolasi). 1709-yilda Shohruxbiy Farg'ona vodiysida mustaqil Qo'qon xonligini tashkil etdi."
     },
@@ -20868,6 +21847,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Xiva xonligida 1770-yildan 1920-yilgacha qaysi sulola boshqargan?» savolining to'g'ri javobi — Qo'ng'irotlar sulolasi. Muhammad Amin inoq asos solgan Qo'ng'irotlar sulolasi Xivani boshqargan."
     },
@@ -20892,6 +21872,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Birlashgan Millatlar Tashkiloti (BMT) ning tashkil etilishi' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Chor Rossiyasi qo'shinlari Toshkentni general Chernyayev boshchiligida qachon bosib oldi?» savolining to'g'ri javobi — 1865-yil iyun oyida. 1865-yilda 3 kunlik qamaldan so'ng general Chernyayev Toshkentni egalladi."
     },
@@ -20916,6 +21897,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1945-yil 24-oktabrda San-Fransisko konferensiyasida xalqaro tinchlik va xavfsizlikni ta'minlash maqsadida tuzilgan xalqaro tashkilot'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«1876-yilda Chor Rossiyasi tomonidan qaysi o'zbek xonligi butunlay tugatilib, Farg'ona viloyatiga aylantirildi?» savolining to'g'ri javobi — Qo'qon xonligi. Po'latxon qo'zg'oloni bostirilgach, Qo'qon xonligi rasman tugatildi."
     },
@@ -20940,6 +21922,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Turkistonda 'Usuli jadid' (yangi usul) maktablarining asoschisi va 'Padarkush' birinchi o'zbek dramasining muallifi kim?» savolining to'g'ri javobi — Mahmudxo'ja Behbudiy. Behbudiy jadidchilik harakatining yetakchisi va g'oyaviy rahnamosi bo'lgan."
     },
@@ -20964,6 +21947,7 @@ const tarix = {
           "text": "1917-yil 27-noyabrda Qo'qon shahrida e'lon qilingan va 1918-yil fevralida bolsheviklar tomonidan qonga botirilgan mustaqil davlat qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«1917-yil 27-noyabrda Qo'qon shahrida e'lon qilingan va 1918-yil fevralida bolsheviklar tomonidan qonga botirilgan mustaqil davlat qaysi?» savolining to'g'ri javobi — Turkiston Muxtoriyati (Qo'qon muxtoriyati). Turkiston Muxtoriyati 72 kun yashadi (bosh vazirlari: M. Tinishpayev, M. Cho'qayev)."
     },
@@ -20988,6 +21972,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: '1914-1918-yillarda Antanta va Uchlar ittifoqi (Markaziy davlatlar) bloklari o'rtasida bo'lib o'tgan global urush'?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«O'zbekiston Respublikasining davlat mustaqilligi qachon e'lon qilingan?» savolining to'g'ri javobi — 1991-yil 31-avgustda (1-sentabr — Mustaqillik kuni). 1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari sessiyasida mustaqillik e'lon qilindi."
     },
@@ -21012,6 +21997,7 @@ const tarix = {
           "text": "O'zbekiston Respublikasining Davlat bayrog'i qachon qabul qilingan?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«O'zbekiston Respublikasining Davlat bayrog'i qachon qabul qilingan?» savolining to'g'ri javobi — 1991-yil 18-noyabrda. Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan."
     },
@@ -21036,6 +22022,7 @@ const tarix = {
           "text": "O'zbekiston hududida ilk bor temir yo'l qachon va qaysi yo'nalishda qurilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«O'zbekiston Respublikasi Konstitutsiyasi qachon qabul qilingan?» savolining to'g'ri javobi — 1992-yil 8-dekabrda. O'zbekiston Konstitutsiyasi 1992-yil 8-dekabrda XII chaqiriq Oliy Kengashning XI sessiyasida qabul qilingan."
     },
@@ -21060,6 +22047,7 @@ const tarix = {
           "text": "O'zbekiston Birlashgan Millatlar Tashkilotiga (BMT) qachon to'laqonli a'zo bo'lib qabul qilindi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekiston Birlashgan Millatlar Tashkilotiga (BMT) qachon to'laqonli a'zo bo'lib qabul qilindi?» savolining to'g'ri javobi — 1992-yil 2-martda. 1992-yil 2-martda Nyu-Yorkdagi BMT Bosh Assambleyasida O'zbekiston BMTga qabul qilindi."
     },
@@ -21084,6 +22072,7 @@ const tarix = {
           "text": "Miloddan avvalgi 522-yilda axamoniylar shohi Doro I ga qarshi jasorat ko'rsatib, cho'lda dushman qo'shinini adashtirgan so'g'dlik cho'pon kim edi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasining milliy valyutasi — so'm qachon muomalaga kiritilgan?» savolining to'g'ri javobi — 1994-yil 1-iyulda. 1994-yil 1-iyuldan O'zbekistonning milliy valyutasi 'so'm' kiritildi."
     },
@@ -21108,6 +22097,7 @@ const tarix = {
           "text": "O'zbekiston hududida ilk bor temir yo'l qachon va qaysi yo'nalishda qurilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Zarautsoy qoyatosh rasmlari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik. Zarautsoy qoyatosh rasmlari - Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik."
     },
@@ -21132,6 +22122,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik'?» savolining to'g'ri javobi — Zarautsoy. Ushbu ma'lumot 'Zarautsoy qoyatosh rasmlari'ga tegishli."
     },
@@ -21156,6 +22147,7 @@ const tarix = {
           "text": "Boburiylar sulolasiga va 'Boburnoma' asari muallifi bo'lgan shoh va shoir kim?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Sopollitepa va Jarqo'ton yodgorliklari' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik. Sopollitepa va Jarqo'ton yodgorliklari - Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik."
     },
@@ -21180,6 +22172,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'V-VI asrlarda O'rta Osiyoda hukm surgan, Sosoniylar Eronini o'lpon to'lashga majbur qilgan qudratli davlat'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryoda joylashgan, bronza davriga oid ilk shahar madaniyati va O'zbekiston hududidagi birinchi ibodatxona topilgan arxeologik yodgorlik'?» savolining to'g'ri javobi — Sopollitepa va Jarqo'ton. Ushbu ma'lumot 'Sopollitepa va Jarqo'ton yodgorliklari'ga tegishli."
     },
@@ -21204,6 +22197,7 @@ const tarix = {
           "text": "1917-yil 27-noyabrda Qo'qon shahrida e'lon qilingan va 1918-yil fevralida bolsheviklar tomonidan qonga botirilgan mustaqil davlat qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Chust madaniyati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati. Chust madaniyati - Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati."
     },
@@ -21228,6 +22222,7 @@ const tarix = {
           "text": "Zardushtiylik dinining muqaddas kitobi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Farg'ona vodiysida miloddan avvalgi II ming yillik oxiri - I ming yillik boshlariga oid dehqonchilik va metall quyish madaniyati'?» savolining to'g'ri javobi — Chust madaniyati. Ushbu ma'lumot 'Chust madaniyati'ga tegishli."
     },
@@ -21252,6 +22247,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Afrosiyob (Qadimgi Samarqand)' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Afrosiyob (Qadimgi Samarqand)' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi. Afrosiyob (Qadimgi Samarqand) - Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi."
     },
@@ -21276,6 +22272,7 @@ const tarix = {
           "text": "Tarix darsliklarida 'Qadimgi Baqtriya davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Miloddan avvalgi VIII-VII asrlarda vujudga kelgan, So'g'diyona poytaxti bo'lgan mashhur qadimiy shahar xarobasi'?» savolining to'g'ri javobi — Afrosiyob. Ushbu ma'lumot 'Afrosiyob (Qadimgi Samarqand)'ga tegishli."
     },
@@ -21300,6 +22297,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Surxondaryo viloyatida joylashgan, mezolit va neolit davriga oid itlar yordamida yovvoyi buqalarni ov qilish tasvirlangan jahonga mashhur yodgorlik'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Qadimgi Baqtriya davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat. Qadimgi Baqtriya davlati - Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat."
     },
@@ -21324,6 +22322,7 @@ const tarix = {
           "text": "Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Sirdaryoning o'rta oqimi va Toshkent vohasida joylashgan, poytaxti Bityan shahri bo'lgan yirik qadimgi davlat birlashmasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi tarixiy ta'rif qaysi voqea, davlat yoki yodgorlikka tegishli: 'Janubiy O'zbekiston, Tojikiston va Shimoliy Afg'oniston hududlarini o'z ichiga olgan, 'Ming shahar mamlakati' deb atalgan qadimiy davlat'?» savolining to'g'ri javobi — Qadimgi Baqtriya. Ushbu ma'lumot 'Qadimgi Baqtriya davlati'ga tegishli."
     },
@@ -21348,6 +22347,7 @@ const tarix = {
           "text": "1402-yil 20-iyulda Amir Temur va Usmonli turk sultoni Boyazid Yildirim o'rtasida qaysi mashhur jang bo'lib o'tdi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Tarix darsliklarida 'Dovon (Farg'ona) davlati' voqeasi yoki yodgorligining tavsifi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat. Dovon (Farg'ona) davlati - Miloddan avvalgi I ming yillikda Farg'ona vodiysida gullab-yashnagan, o'zining 'samoviy tulporlari' (arg'umoqlari) bilan mashhur bo'lgan davlat."
     }

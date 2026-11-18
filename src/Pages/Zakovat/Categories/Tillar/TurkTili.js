@@ -28,6 +28,7 @@ const turkTili = {
           "text": "Rahmat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'g'ri javob: Salom."
     },
@@ -52,6 +53,7 @@ const turkTili = {
           "text": "Rahmat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'g'ri javob: Rahmat."
     },
@@ -76,6 +78,7 @@ const turkTili = {
           "text": "26"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "To'g'ri javob: 29."
     },
@@ -100,6 +103,7 @@ const turkTili = {
           "text": "Qalam"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "To'g'ri javob: Kitob."
     },
@@ -124,6 +128,7 @@ const turkTili = {
           "text": "xafa"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«merhaba» so'zi o'zbek tilida «salom» deb tarjima qilinadi."
     },
@@ -148,6 +153,7 @@ const turkTili = {
           "text": "ateş"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«salom» so'zining turkcha tarjimasi — «merhaba»."
     },
@@ -172,6 +178,7 @@ const turkTili = {
           "text": "ayiq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«günaydın» so'zi o'zbek tilida «xayrli tong» deb tarjima qilinadi."
     },
@@ -196,6 +203,7 @@ const turkTili = {
           "text": "inek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xayrli tong» so'zining turkcha tarjimasi — «günaydın»."
     },
@@ -220,6 +228,7 @@ const turkTili = {
           "text": "xayrli kech"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«iyi akşamlar» so'zi o'zbek tilida «xayrli kech» deb tarjima qilinadi."
     },
@@ -244,6 +253,7 @@ const turkTili = {
           "text": "dağ"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«xayrli kech» so'zining turkcha tarjimasi — «iyi akşamlar»."
     },
@@ -268,6 +278,7 @@ const turkTili = {
           "text": "isming nima"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«hoş geldiniz» so'zi o'zbek tilida «xush kelibsiz» deb tarjima qilinadi."
     },
@@ -292,6 +303,7 @@ const turkTili = {
           "text": "belki"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xush kelibsiz» so'zining turkcha tarjimasi — «hoş geldiniz»."
     },
@@ -316,6 +328,7 @@ const turkTili = {
           "text": "rahmat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«teşekkür ederim» so'zi o'zbek tilida «rahmat» deb tarjima qilinadi."
     },
@@ -340,6 +353,7 @@ const turkTili = {
           "text": "tavuk"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«rahmat» so'zining turkcha tarjimasi — «teşekkür ederim»."
     },
@@ -364,6 +378,7 @@ const turkTili = {
           "text": "issiq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«lütfen» so'zi o'zbek tilida «iltimos» deb tarjima qilinadi."
     },
@@ -388,6 +403,7 @@ const turkTili = {
           "text": "taş"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«iltimos» so'zining turkcha tarjimasi — «lütfen»."
     },
@@ -412,6 +428,7 @@ const turkTili = {
           "text": "sigir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«evet» so'zi o'zbek tilida «ha» deb tarjima qilinadi."
     },
@@ -436,6 +453,7 @@ const turkTili = {
           "text": "evet"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ha» so'zining turkcha tarjimasi — «evet»."
     },
@@ -460,6 +478,7 @@ const turkTili = {
           "text": "yo'q"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«hayır» so'zi o'zbek tilida «yo'q» deb tarjima qilinadi."
     },
@@ -484,6 +503,7 @@ const turkTili = {
           "text": "toprak"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yo'q» so'zining turkcha tarjimasi — «hayır»."
     },
@@ -508,6 +528,7 @@ const turkTili = {
           "text": "balki"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«belki» so'zi o'zbek tilida «balki» deb tarjima qilinadi."
     },
@@ -532,6 +553,7 @@ const turkTili = {
           "text": "dün"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«balki» so'zining turkcha tarjimasi — «belki»."
     },
@@ -556,6 +578,7 @@ const turkTili = {
           "text": "qalam"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tamam» so'zi o'zbek tilida «tayyor» deb tarjima qilinadi."
     },
@@ -580,6 +603,7 @@ const turkTili = {
           "text": "tamam"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tayyor» so'zining turkcha tarjimasi — «tamam»."
     },
@@ -604,6 +628,7 @@ const turkTili = {
           "text": "kalit"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«nasılsın» so'zi o'zbek tilida «qalaysan» deb tarjima qilinadi."
     },
@@ -628,6 +653,7 @@ const turkTili = {
           "text": "yıl"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qalaysan» so'zining turkcha tarjimasi — «nasılsın»."
     },
@@ -652,6 +678,7 @@ const turkTili = {
           "text": "o'n"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«iyiyim» so'zi o'zbek tilida «yaxshiman» deb tarjima qilinadi."
     },
@@ -676,6 +703,7 @@ const turkTili = {
           "text": "özür dilerim"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yaxshiman» so'zining turkcha tarjimasi — «iyiyim»."
     },
@@ -700,6 +728,7 @@ const turkTili = {
           "text": "ot"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«adın ne» so'zi o'zbek tilida «isming nima» deb tarjima qilinadi."
     },
@@ -724,6 +753,7 @@ const turkTili = {
           "text": "şehir"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«isming nima» so'zining turkcha tarjimasi — «adın ne»."
     },
@@ -748,6 +778,7 @@ const turkTili = {
           "text": "ko'rmoq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«benim adım» so'zi o'zbek tilida «mening ismim» deb tarjima qilinadi."
     },
@@ -772,6 +803,7 @@ const turkTili = {
           "text": "benim adım"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«mening ismim» so'zining turkcha tarjimasi — «benim adım»."
     },
@@ -796,6 +828,7 @@ const turkTili = {
           "text": "bola"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«memnun oldum» so'zi o'zbek tilida «tanishganimdan xursandman» deb tarjima qilinadi."
     },
@@ -820,6 +853,7 @@ const turkTili = {
           "text": "yıl"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tanishganimdan xursandman» so'zining turkcha tarjimasi — «memnun oldum»."
     },
@@ -844,6 +878,7 @@ const turkTili = {
           "text": "kelishguncha"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«görüşürüz» so'zi o'zbek tilida «kelishguncha» deb tarjima qilinadi."
     },
@@ -868,6 +903,7 @@ const turkTili = {
           "text": "adın ne"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kelishguncha» so'zining turkcha tarjimasi — «görüşürüz»."
     },
@@ -892,6 +928,7 @@ const turkTili = {
           "text": "qari"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«güle güle» so'zi o'zbek tilida «xayr» deb tarjima qilinadi."
     },
@@ -916,6 +953,7 @@ const turkTili = {
           "text": "bin"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«xayr» so'zining turkcha tarjimasi — «güle güle»."
     },
@@ -940,6 +978,7 @@ const turkTili = {
           "text": "kechirasiz"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«özür dilerim» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -964,6 +1003,7 @@ const turkTili = {
           "text": "on"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kechirasiz» so'zining turkcha tarjimasi — «özür dilerim»."
     },
@@ -988,6 +1028,7 @@ const turkTili = {
           "text": "qiz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«affedersiniz» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -1012,6 +1053,7 @@ const turkTili = {
           "text": "eshik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bir dakika» so'zi o'zbek tilida «bir daqiqa» deb tarjima qilinadi."
     },
@@ -1036,6 +1078,7 @@ const turkTili = {
           "text": "yarım"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bir daqiqa» so'zining turkcha tarjimasi — «bir dakika»."
     },
@@ -1060,6 +1103,7 @@ const turkTili = {
           "text": "ona"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«anne» so'zi o'zbek tilida «ona» deb tarjima qilinadi."
     },
@@ -1084,6 +1128,7 @@ const turkTili = {
           "text": "abla"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ona» so'zining turkcha tarjimasi — «anne»."
     },
@@ -1108,6 +1153,7 @@ const turkTili = {
           "text": "bola"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«baba» so'zi o'zbek tilida «ota» deb tarjima qilinadi."
     },
@@ -1132,6 +1178,7 @@ const turkTili = {
           "text": "hafta"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ota» so'zining turkcha tarjimasi — «baba»."
     },
@@ -1156,6 +1203,7 @@ const turkTili = {
           "text": "soat"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kardeş» so'zi o'zbek tilida «aka yoki uka» deb tarjima qilinadi."
     },
@@ -1180,6 +1228,7 @@ const turkTili = {
           "text": "tamam"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«aka yoki uka» so'zining turkcha tarjimasi — «kardeş»."
     },
@@ -1204,6 +1253,7 @@ const turkTili = {
           "text": "yemoq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«abla» so'zi o'zbek tilida «opa» deb tarjima qilinadi."
     },
@@ -1228,6 +1278,7 @@ const turkTili = {
           "text": "affedersiniz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«opa» so'zining turkcha tarjimasi — «abla»."
     },
@@ -1252,6 +1303,7 @@ const turkTili = {
           "text": "to'qqiz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ağabey» so'zi o'zbek tilida «aka» deb tarjima qilinadi."
     },
@@ -1276,6 +1328,7 @@ const turkTili = {
           "text": "yedi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«aka» so'zining turkcha tarjimasi — «ağabey»."
     },
@@ -1300,6 +1353,7 @@ const turkTili = {
           "text": "o'ttiz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dede» so'zi o'zbek tilida «bobo» deb tarjima qilinadi."
     },
@@ -1324,6 +1378,7 @@ const turkTili = {
           "text": "fakir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bobo» so'zining turkcha tarjimasi — «dede»."
     },
@@ -1348,6 +1403,7 @@ const turkTili = {
           "text": "xafa"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«nine» so'zi o'zbek tilida «buvi» deb tarjima qilinadi."
     },
@@ -1372,6 +1428,7 @@ const turkTili = {
           "text": "meyve"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«buvi» so'zining turkcha tarjimasi — «nine»."
     },
@@ -1396,6 +1453,7 @@ const turkTili = {
           "text": "o'g'il"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«oğul» so'zi o'zbek tilida «o'g'il» deb tarjima qilinadi."
     },
@@ -1420,6 +1478,7 @@ const turkTili = {
           "text": "on"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«o'g'il» so'zining turkcha tarjimasi — «oğul»."
     },
@@ -1444,6 +1503,7 @@ const turkTili = {
           "text": "daqiqa"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kız» so'zi o'zbek tilida «qiz» deb tarjima qilinadi."
     },
@@ -1468,6 +1528,7 @@ const turkTili = {
           "text": "sonra"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qiz» so'zining turkcha tarjimasi — «kız»."
     },
@@ -1492,6 +1553,7 @@ const turkTili = {
           "text": "yil"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«çocuk» so'zi o'zbek tilida «bola» deb tarjima qilinadi."
     },
@@ -1516,6 +1578,7 @@ const turkTili = {
           "text": "mühendis"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bola» so'zining turkcha tarjimasi — «çocuk»."
     },
@@ -1540,6 +1603,7 @@ const turkTili = {
           "text": "tanishganimdan xursandman"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«adam» so'zi o'zbek tilida «erkak» deb tarjima qilinadi."
     },
@@ -1564,6 +1628,7 @@ const turkTili = {
           "text": "sevmek"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«erkak» so'zining turkcha tarjimasi — «adam»."
     },
@@ -1588,6 +1653,7 @@ const turkTili = {
           "text": "ayol"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kadın» so'zi o'zbek tilida «ayol» deb tarjima qilinadi."
     },
@@ -1612,6 +1678,7 @@ const turkTili = {
           "text": "iyi akşamlar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ayol» so'zining turkcha tarjimasi — «kadın»."
     },
@@ -1636,6 +1703,7 @@ const turkTili = {
           "text": "bugun"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«arkadaş» so'zi o'zbek tilida «do'st» deb tarjima qilinadi."
     },
@@ -1660,6 +1728,7 @@ const turkTili = {
           "text": "arkadaş"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«do'st» so'zining turkcha tarjimasi — «arkadaş»."
     },
@@ -1684,6 +1753,7 @@ const turkTili = {
           "text": "eshik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«öğretmen» so'zi o'zbek tilida «o'qituvchi» deb tarjima qilinadi."
     },
@@ -1708,6 +1778,7 @@ const turkTili = {
           "text": "öğretmen"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«o'qituvchi» so'zining turkcha tarjimasi — «öğretmen»."
     },
@@ -1732,6 +1803,7 @@ const turkTili = {
           "text": "tanishganimdan xursandman"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«öğrenci» so'zi o'zbek tilida «o'quvchi» deb tarjima qilinadi."
     },
@@ -1756,6 +1828,7 @@ const turkTili = {
           "text": "öğrenci"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«o'quvchi» so'zining turkcha tarjimasi — «öğrenci»."
     },
@@ -1780,6 +1853,7 @@ const turkTili = {
           "text": "ichmoq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«doktor» so'zi o'zbek tilida «shifokor» deb tarjima qilinadi."
     },
@@ -1804,6 +1878,7 @@ const turkTili = {
           "text": "çiçek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«shifokor» so'zining turkcha tarjimasi — «doktor»."
     },
@@ -1828,6 +1903,7 @@ const turkTili = {
           "text": "eshik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«mühendis» so'zi o'zbek tilida «muhandis» deb tarjima qilinadi."
     },
@@ -1852,6 +1928,7 @@ const turkTili = {
           "text": "mühendis"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«muhandis» so'zining turkcha tarjimasi — «mühendis»."
     },
@@ -1876,6 +1953,7 @@ const turkTili = {
           "text": "ishchi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«işçi» so'zi o'zbek tilida «ishchi» deb tarjima qilinadi."
     },
@@ -1900,6 +1978,7 @@ const turkTili = {
           "text": "kaplan"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ishchi» so'zining turkcha tarjimasi — «işçi»."
     },
@@ -1924,6 +2003,7 @@ const turkTili = {
           "text": "olti"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«çiftçi» so'zi o'zbek tilida «dehqon» deb tarjima qilinadi."
     },
@@ -1948,6 +2028,7 @@ const turkTili = {
           "text": "abla"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«dehqon» so'zining turkcha tarjimasi — «çiftçi»."
     },
@@ -1972,6 +2053,7 @@ const turkTili = {
           "text": "askar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«asker» so'zi o'zbek tilida «askar» deb tarjima qilinadi."
     },
@@ -1996,6 +2078,7 @@ const turkTili = {
           "text": "araba"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«askar» so'zining turkcha tarjimasi — «asker»."
     },
@@ -2020,6 +2103,7 @@ const turkTili = {
           "text": "o'quvchi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bir» so'zi o'zbek tilida «bir» deb tarjima qilinadi."
     },
@@ -2044,6 +2128,7 @@ const turkTili = {
           "text": "bir"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bir» so'zining turkcha tarjimasi — «bir»."
     },
@@ -2068,6 +2153,7 @@ const turkTili = {
           "text": "ayiq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«iki» so'zi o'zbek tilida «ikki» deb tarjima qilinadi."
     },
@@ -2092,6 +2178,7 @@ const turkTili = {
           "text": "açık"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ikki» so'zining turkcha tarjimasi — «iki»."
     },
@@ -2116,6 +2203,7 @@ const turkTili = {
           "text": "ona"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«üç» so'zi o'zbek tilida «uch» deb tarjima qilinadi."
     },
@@ -2140,6 +2228,7 @@ const turkTili = {
           "text": "benim adım"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«uch» so'zining turkcha tarjimasi — «üç»."
     },
@@ -2164,6 +2253,7 @@ const turkTili = {
           "text": "banan"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«dört» so'zi o'zbek tilida «to'rt» deb tarjima qilinadi."
     },
@@ -2188,6 +2278,7 @@ const turkTili = {
           "text": "orman"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«to'rt» so'zining turkcha tarjimasi — «dört»."
     },
@@ -2212,6 +2303,7 @@ const turkTili = {
           "text": "besh"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«beş» so'zi o'zbek tilida «besh» deb tarjima qilinadi."
     },
@@ -2236,6 +2328,7 @@ const turkTili = {
           "text": "beş"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«besh» so'zining turkcha tarjimasi — «beş»."
     },
@@ -2260,6 +2353,7 @@ const turkTili = {
           "text": "yomg'ir"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«altı» so'zi o'zbek tilida «olti» deb tarjima qilinadi."
     },
@@ -2284,6 +2378,7 @@ const turkTili = {
           "text": "üç"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«olti» so'zining turkcha tarjimasi — «altı»."
     },
@@ -2308,6 +2403,7 @@ const turkTili = {
           "text": "deraza"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yedi» so'zi o'zbek tilida «yetti» deb tarjima qilinadi."
     },
@@ -2332,6 +2428,7 @@ const turkTili = {
           "text": "inek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yetti» so'zining turkcha tarjimasi — «yedi»."
     },
@@ -2356,6 +2453,7 @@ const turkTili = {
           "text": "xursand"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sekiz» so'zi o'zbek tilida «sakkiz» deb tarjima qilinadi."
     },
@@ -2380,6 +2478,7 @@ const turkTili = {
           "text": "sekiz"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sakkiz» so'zining turkcha tarjimasi — «sekiz»."
     },
@@ -2404,6 +2503,7 @@ const turkTili = {
           "text": "ellik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dokuz» so'zi o'zbek tilida «to'qqiz» deb tarjima qilinadi."
     },
@@ -2428,6 +2528,7 @@ const turkTili = {
           "text": "dokuz"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«to'qqiz» so'zining turkcha tarjimasi — «dokuz»."
     },
@@ -2452,6 +2553,7 @@ const turkTili = {
           "text": "hozir"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«on» so'zi o'zbek tilida «o'n» deb tarjima qilinadi."
     },
@@ -2476,6 +2578,7 @@ const turkTili = {
           "text": "gitmek"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'n» so'zining turkcha tarjimasi — «on»."
     },
@@ -2500,6 +2603,7 @@ const turkTili = {
           "text": "barg"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yirmi» so'zi o'zbek tilida «yigirma» deb tarjima qilinadi."
     },
@@ -2524,6 +2628,7 @@ const turkTili = {
           "text": "okul"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yigirma» so'zining turkcha tarjimasi — «yirmi»."
     },
@@ -2548,6 +2653,7 @@ const turkTili = {
           "text": "banan"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«otuz» so'zi o'zbek tilida «o'ttiz» deb tarjima qilinadi."
     },
@@ -2572,6 +2678,7 @@ const turkTili = {
           "text": "altı"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«o'ttiz» so'zining turkcha tarjimasi — «otuz»."
     },
@@ -2596,6 +2703,7 @@ const turkTili = {
           "text": "tanishganimdan xursandman"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kırk» so'zi o'zbek tilida «qirq» deb tarjima qilinadi."
     },
@@ -2620,6 +2728,7 @@ const turkTili = {
           "text": "kahve"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qirq» so'zining turkcha tarjimasi — «kırk»."
     },
@@ -2644,6 +2753,7 @@ const turkTili = {
           "text": "hozir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«elli» so'zi o'zbek tilida «ellik» deb tarjima qilinadi."
     },
@@ -2668,6 +2778,7 @@ const turkTili = {
           "text": "elli"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ellik» so'zining turkcha tarjimasi — «elli»."
     },
@@ -2692,6 +2803,7 @@ const turkTili = {
           "text": "o'qimoq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yüz» so'zi o'zbek tilida «yuz» deb tarjima qilinadi."
     },
@@ -2716,6 +2828,7 @@ const turkTili = {
           "text": "erken"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yuz» so'zining turkcha tarjimasi — «yüz»."
     },
@@ -2740,6 +2853,7 @@ const turkTili = {
           "text": "sevgi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bin» so'zi o'zbek tilida «ming» deb tarjima qilinadi."
     },
@@ -2764,6 +2878,7 @@ const turkTili = {
           "text": "dağ"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ming» so'zining turkcha tarjimasi — «bin»."
     },
@@ -2788,6 +2903,7 @@ const turkTili = {
           "text": "deraza"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«milyon» so'zi o'zbek tilida «million» deb tarjima qilinadi."
     },
@@ -2812,6 +2928,7 @@ const turkTili = {
           "text": "iyi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«million» so'zining turkcha tarjimasi — «milyon»."
     },
@@ -2836,6 +2953,7 @@ const turkTili = {
           "text": "dehqon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sıfır» so'zi o'zbek tilida «nol» deb tarjima qilinadi."
     },
@@ -2860,6 +2978,7 @@ const turkTili = {
           "text": "üzgün"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«nol» so'zining turkcha tarjimasi — «sıfır»."
     },
@@ -2884,6 +3003,7 @@ const turkTili = {
           "text": "sakkiz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yarım» so'zi o'zbek tilida «yarim» deb tarjima qilinadi."
     },
@@ -2908,6 +3028,7 @@ const turkTili = {
           "text": "kar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yarim» so'zining turkcha tarjimasi — «yarım»."
     },
@@ -2932,6 +3053,7 @@ const turkTili = {
           "text": "oson"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«çeyrek» so'zi o'zbek tilida «chorak» deb tarjima qilinadi."
     },
@@ -2956,6 +3078,7 @@ const turkTili = {
           "text": "lütfen"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«chorak» so'zining turkcha tarjimasi — «çeyrek»."
     },
@@ -2980,6 +3103,7 @@ const turkTili = {
           "text": "kambag'al"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«gün» so'zi o'zbek tilida «kun» deb tarjima qilinadi."
     },
@@ -3004,6 +3128,7 @@ const turkTili = {
           "text": "işçi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kun» so'zining turkcha tarjimasi — «gün»."
     },
@@ -3028,6 +3153,7 @@ const turkTili = {
           "text": "ochiq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«hafta» so'zi o'zbek tilida «hafta» deb tarjima qilinadi."
     },
@@ -3052,6 +3178,7 @@ const turkTili = {
           "text": "hafta"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«hafta» so'zining turkcha tarjimasi — «hafta»."
     },
@@ -3076,6 +3203,7 @@ const turkTili = {
           "text": "oy"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ay» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -3100,6 +3228,7 @@ const turkTili = {
           "text": "ay"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«oy» so'zining turkcha tarjimasi — «ay»."
     },
@@ -3124,6 +3253,7 @@ const turkTili = {
           "text": "yulduz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yıl» so'zi o'zbek tilida «yil» deb tarjima qilinadi."
     },
@@ -3148,6 +3278,7 @@ const turkTili = {
           "text": "günaydın"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yil» so'zining turkcha tarjimasi — «yıl»."
     },
@@ -3172,6 +3303,7 @@ const turkTili = {
           "text": "ayiq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«saat» so'zi o'zbek tilida «soat» deb tarjima qilinadi."
     },
@@ -3196,6 +3328,7 @@ const turkTili = {
           "text": "tamam"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«soat» so'zining turkcha tarjimasi — «saat»."
     },
@@ -3220,6 +3353,7 @@ const turkTili = {
           "text": "ayiq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dakika» so'zi o'zbek tilida «daqiqa» deb tarjima qilinadi."
     },
@@ -3244,6 +3378,7 @@ const turkTili = {
           "text": "kapı"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«daqiqa» so'zining turkcha tarjimasi — «dakika»."
     },
@@ -3268,6 +3403,7 @@ const turkTili = {
           "text": "yil"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«saniye» so'zi o'zbek tilida «soniya» deb tarjima qilinadi."
     },
@@ -3292,6 +3428,7 @@ const turkTili = {
           "text": "hastane"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«soniya» so'zining turkcha tarjimasi — «saniye»."
     },
@@ -3316,6 +3453,7 @@ const turkTili = {
           "text": "olov"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sabah» so'zi o'zbek tilida «ertalab» deb tarjima qilinadi."
     },
@@ -3340,6 +3478,7 @@ const turkTili = {
           "text": "gelmek"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ertalab» so'zining turkcha tarjimasi — «sabah»."
     },
@@ -3364,6 +3503,7 @@ const turkTili = {
           "text": "bir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«öğle» so'zi o'zbek tilida «tushlik» deb tarjima qilinadi."
     },
@@ -3388,6 +3528,7 @@ const turkTili = {
           "text": "hoş geldiniz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tushlik» so'zining turkcha tarjimasi — «öğle»."
     },
@@ -3412,6 +3553,7 @@ const turkTili = {
           "text": "ishchi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«akşam» so'zi o'zbek tilida «kechqurun» deb tarjima qilinadi."
     },
@@ -3436,6 +3578,7 @@ const turkTili = {
           "text": "üç"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kechqurun» so'zining turkcha tarjimasi — «akşam»."
     },
@@ -3460,6 +3603,7 @@ const turkTili = {
           "text": "stol"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«gece» so'zi o'zbek tilida «tun» deb tarjima qilinadi."
     },
@@ -3484,6 +3628,7 @@ const turkTili = {
           "text": "sağlık"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tun» so'zining turkcha tarjimasi — «gece»."
     },
@@ -3508,6 +3653,7 @@ const turkTili = {
           "text": "qalam"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bugün» so'zi o'zbek tilida «bugun» deb tarjima qilinadi."
     },
@@ -3532,6 +3678,7 @@ const turkTili = {
           "text": "nine"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bugun» so'zining turkcha tarjimasi — «bugün»."
     },
@@ -3556,6 +3703,7 @@ const turkTili = {
           "text": "ertaga"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yarın» so'zi o'zbek tilida «ertaga» deb tarjima qilinadi."
     },
@@ -3580,6 +3728,7 @@ const turkTili = {
           "text": "yarın"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ertaga» so'zining turkcha tarjimasi — «yarın»."
     },
@@ -3604,6 +3753,7 @@ const turkTili = {
           "text": "gul"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dün» so'zi o'zbek tilida «kecha» deb tarjima qilinadi."
     },
@@ -3628,6 +3778,7 @@ const turkTili = {
           "text": "araba"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kecha» so'zining turkcha tarjimasi — «dün»."
     },
@@ -3652,6 +3803,7 @@ const turkTili = {
           "text": "osmon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«şimdi» so'zi o'zbek tilida «hozir» deb tarjima qilinadi."
     },
@@ -3676,6 +3828,7 @@ const turkTili = {
           "text": "köpek"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«hozir» so'zining turkcha tarjimasi — «şimdi»."
     },
@@ -3700,6 +3853,7 @@ const turkTili = {
           "text": "qum"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sonra» so'zi o'zbek tilida «keyin» deb tarjima qilinadi."
     },
@@ -3724,6 +3878,7 @@ const turkTili = {
           "text": "koyun"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«keyin» so'zining turkcha tarjimasi — «sonra»."
     },
@@ -3748,6 +3903,7 @@ const turkTili = {
           "text": "oldin"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«önce» so'zi o'zbek tilida «oldin» deb tarjima qilinadi."
     },
@@ -3772,6 +3928,7 @@ const turkTili = {
           "text": "gelmek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«oldin» so'zining turkcha tarjimasi — «önce»."
     },
@@ -3796,6 +3953,7 @@ const turkTili = {
           "text": "piyoz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«erken» so'zi o'zbek tilida «erta» deb tarjima qilinadi."
     },
@@ -3820,6 +3978,7 @@ const turkTili = {
           "text": "üzüm"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«erta» so'zining turkcha tarjimasi — «erken»."
     },
@@ -3844,6 +4003,7 @@ const turkTili = {
           "text": "tez"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«geç» so'zi o'zbek tilida «kech» deb tarjima qilinadi."
     },
@@ -3868,6 +4028,7 @@ const turkTili = {
           "text": "geç"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kech» so'zining turkcha tarjimasi — «geç»."
     },
@@ -3892,6 +4053,7 @@ const turkTili = {
           "text": "har doim"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«her zaman» so'zi o'zbek tilida «har doim» deb tarjima qilinadi."
     },
@@ -3916,6 +4078,7 @@ const turkTili = {
           "text": "her zaman"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«har doim» so'zining turkcha tarjimasi — «her zaman»."
     },
@@ -3940,6 +4103,7 @@ const turkTili = {
           "text": "xo'roz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«su» so'zi o'zbek tilida «suv» deb tarjima qilinadi."
     },
@@ -3964,6 +4128,7 @@ const turkTili = {
           "text": "saniye"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«suv» so'zining turkcha tarjimasi — «su»."
     },
@@ -3988,6 +4153,7 @@ const turkTili = {
           "text": "pomidor"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ateş» so'zi o'zbek tilida «olov» deb tarjima qilinadi."
     },
@@ -4012,6 +4178,7 @@ const turkTili = {
           "text": "ateş"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«olov» so'zining turkcha tarjimasi — «ateş»."
     },
@@ -4036,6 +4203,7 @@ const turkTili = {
           "text": "telefon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«toprak» so'zi o'zbek tilida «tuproq» deb tarjima qilinadi."
     },
@@ -4060,6 +4228,7 @@ const turkTili = {
           "text": "toprak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tuproq» so'zining turkcha tarjimasi — «toprak»."
     },
@@ -4084,6 +4253,7 @@ const turkTili = {
           "text": "yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«hava» so'zi o'zbek tilida «havo» deb tarjima qilinadi."
     },
@@ -4108,6 +4278,7 @@ const turkTili = {
           "text": "hava"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«havo» so'zining turkcha tarjimasi — «hava»."
     },
@@ -4132,6 +4303,7 @@ const turkTili = {
           "text": "sigir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«güneş» so'zi o'zbek tilida «quyosh» deb tarjima qilinadi."
     },
@@ -4156,6 +4328,7 @@ const turkTili = {
           "text": "domates"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«quyosh» so'zining turkcha tarjimasi — «güneş»."
     },
@@ -4180,6 +4353,7 @@ const turkTili = {
           "text": "tovuq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yıldız» so'zi o'zbek tilida «yulduz» deb tarjima qilinadi."
     },
@@ -4204,6 +4378,7 @@ const turkTili = {
           "text": "bilmek"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yulduz» so'zining turkcha tarjimasi — «yıldız»."
     },
@@ -4228,6 +4403,7 @@ const turkTili = {
           "text": "ertalab"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«gökyüzü» so'zi o'zbek tilida «osmon» deb tarjima qilinadi."
     },
@@ -4252,6 +4428,7 @@ const turkTili = {
           "text": "üzüm"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«osmon» so'zining turkcha tarjimasi — «gökyüzü»."
     },
@@ -4276,6 +4453,7 @@ const turkTili = {
           "text": "tun"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«deniz» so'zi o'zbek tilida «dengiz» deb tarjima qilinadi."
     },
@@ -4300,6 +4478,7 @@ const turkTili = {
           "text": "okumak"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«dengiz» so'zining turkcha tarjimasi — «deniz»."
     },
@@ -4324,6 +4503,7 @@ const turkTili = {
           "text": "tushlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«göl» so'zi o'zbek tilida «ko'l» deb tarjima qilinadi."
     },
@@ -4348,6 +4528,7 @@ const turkTili = {
           "text": "on"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ko'l» so'zining turkcha tarjimasi — «göl»."
     },
@@ -4372,6 +4553,7 @@ const turkTili = {
           "text": "million"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«nehir» so'zi o'zbek tilida «daryo» deb tarjima qilinadi."
     },
@@ -4396,6 +4578,7 @@ const turkTili = {
           "text": "yedi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«daryo» so'zining turkcha tarjimasi — «nehir»."
     },
@@ -4420,6 +4603,7 @@ const turkTili = {
           "text": "tog'"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«dağ» so'zi o'zbek tilida «tog'» deb tarjima qilinadi."
     },
@@ -4444,6 +4628,7 @@ const turkTili = {
           "text": "dağ"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tog'» so'zining turkcha tarjimasi — «dağ»."
     },
@@ -4468,6 +4653,7 @@ const turkTili = {
           "text": "meva"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«orman» so'zi o'zbek tilida «o'rmon» deb tarjima qilinadi."
     },
@@ -4492,6 +4678,7 @@ const turkTili = {
           "text": "orman"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«o'rmon» so'zining turkcha tarjimasi — «orman»."
     },
@@ -4516,6 +4703,7 @@ const turkTili = {
           "text": "daraxt"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ağaç» so'zi o'zbek tilida «daraxt» deb tarjima qilinadi."
     },
@@ -4540,6 +4728,7 @@ const turkTili = {
           "text": "kapalı"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«daraxt» so'zining turkcha tarjimasi — «ağaç»."
     },
@@ -4564,6 +4753,7 @@ const turkTili = {
           "text": "aka"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«çiçek» so'zi o'zbek tilida «gul» deb tarjima qilinadi."
     },
@@ -4588,6 +4778,7 @@ const turkTili = {
           "text": "fakir"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«gul» so'zining turkcha tarjimasi — «çiçek»."
     },
@@ -4612,6 +4803,7 @@ const turkTili = {
           "text": "sigir"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yaprak» so'zi o'zbek tilida «barg» deb tarjima qilinadi."
     },
@@ -4636,6 +4828,7 @@ const turkTili = {
           "text": "yaprak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«barg» so'zining turkcha tarjimasi — «yaprak»."
     },
@@ -4660,6 +4853,7 @@ const turkTili = {
           "text": "tosh"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«taş» so'zi o'zbek tilida «tosh» deb tarjima qilinadi."
     },
@@ -4684,6 +4878,7 @@ const turkTili = {
           "text": "taş"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tosh» so'zining turkcha tarjimasi — «taş»."
     },
@@ -4708,6 +4903,7 @@ const turkTili = {
           "text": "qum"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kum» so'zi o'zbek tilida «qum» deb tarjima qilinadi."
     },
@@ -4732,6 +4928,7 @@ const turkTili = {
           "text": "zor"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qum» so'zining turkcha tarjimasi — «kum»."
     },
@@ -4756,6 +4953,7 @@ const turkTili = {
           "text": "kecha"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yağmur» so'zi o'zbek tilida «yomg'ir» deb tarjima qilinadi."
     },
@@ -4780,6 +4978,7 @@ const turkTili = {
           "text": "üzüm"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yomg'ir» so'zining turkcha tarjimasi — «yağmur»."
     },
@@ -4804,6 +5003,7 @@ const turkTili = {
           "text": "yopiq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kar» so'zi o'zbek tilida «qor» deb tarjima qilinadi."
     },
@@ -4828,6 +5028,7 @@ const turkTili = {
           "text": "sandalye"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qor» so'zining turkcha tarjimasi — «kar»."
     },
@@ -4852,6 +5053,7 @@ const turkTili = {
           "text": "kelmoq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«köpek» so'zi o'zbek tilida «it» deb tarjima qilinadi."
     },
@@ -4876,6 +5078,7 @@ const turkTili = {
           "text": "oğul"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«it» so'zining turkcha tarjimasi — «köpek»."
     },
@@ -4900,6 +5103,7 @@ const turkTili = {
           "text": "hozir"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kedi» so'zi o'zbek tilida «mushuk» deb tarjima qilinadi."
     },
@@ -4924,6 +5128,7 @@ const turkTili = {
           "text": "barış"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«mushuk» so'zining turkcha tarjimasi — «kedi»."
     },
@@ -4948,6 +5153,7 @@ const turkTili = {
           "text": "daryo"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«at» so'zi o'zbek tilida «ot» deb tarjima qilinadi."
     },
@@ -4972,6 +5178,7 @@ const turkTili = {
           "text": "çirkin"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ot» so'zining turkcha tarjimasi — «at»."
     },
@@ -4996,6 +5203,7 @@ const turkTili = {
           "text": "sigir"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«inek» so'zi o'zbek tilida «sigir» deb tarjima qilinadi."
     },
@@ -5020,6 +5228,7 @@ const turkTili = {
           "text": "inek"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sigir» so'zining turkcha tarjimasi — «inek»."
     },
@@ -5044,6 +5253,7 @@ const turkTili = {
           "text": "balki"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«koyun» so'zi o'zbek tilida «qo'y» deb tarjima qilinadi."
     },
@@ -5068,6 +5278,7 @@ const turkTili = {
           "text": "yaşlı"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«qo'y» so'zining turkcha tarjimasi — «koyun»."
     },
@@ -5092,6 +5303,7 @@ const turkTili = {
           "text": "echki"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«keçi» so'zi o'zbek tilida «echki» deb tarjima qilinadi."
     },
@@ -5116,6 +5328,7 @@ const turkTili = {
           "text": "tavuk"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«echki» so'zining turkcha tarjimasi — «keçi»."
     },
@@ -5140,6 +5353,7 @@ const turkTili = {
           "text": "ot"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tavuk» so'zi o'zbek tilida «tovuq» deb tarjima qilinadi."
     },
@@ -5164,6 +5378,7 @@ const turkTili = {
           "text": "tavuk"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tovuq» so'zining turkcha tarjimasi — «tavuk»."
     },
@@ -5188,6 +5403,7 @@ const turkTili = {
           "text": "qum"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«horoz» so'zi o'zbek tilida «xo'roz» deb tarjima qilinadi."
     },
@@ -5212,6 +5428,7 @@ const turkTili = {
           "text": "görmek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xo'roz» so'zining turkcha tarjimasi — «horoz»."
     },
@@ -5236,6 +5453,7 @@ const turkTili = {
           "text": "dehqon"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kuş» so'zi o'zbek tilida «qush» deb tarjima qilinadi."
     },
@@ -5260,6 +5478,7 @@ const turkTili = {
           "text": "pencere"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qush» so'zining turkcha tarjimasi — «kuş»."
     },
@@ -5284,6 +5503,7 @@ const turkTili = {
           "text": "yaxshi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«balık» so'zi o'zbek tilida «baliq» deb tarjima qilinadi."
     },
@@ -5308,6 +5528,7 @@ const turkTili = {
           "text": "okumak"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«baliq» so'zining turkcha tarjimasi — «balık»."
     },
@@ -5332,6 +5553,7 @@ const turkTili = {
           "text": "keyin"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«aslan» so'zi o'zbek tilida «sher» deb tarjima qilinadi."
     },
@@ -5356,6 +5578,7 @@ const turkTili = {
           "text": "güneş"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sher» so'zining turkcha tarjimasi — «aslan»."
     },
@@ -5380,6 +5603,7 @@ const turkTili = {
           "text": "isming nima"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kaplan» so'zi o'zbek tilida «yo'lbars» deb tarjima qilinadi."
     },
@@ -5404,6 +5628,7 @@ const turkTili = {
           "text": "yüz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yo'lbars» so'zining turkcha tarjimasi — «kaplan»."
     },
@@ -5428,6 +5653,7 @@ const turkTili = {
           "text": "ot"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«fil» so'zi o'zbek tilida «fil» deb tarjima qilinadi."
     },
@@ -5452,6 +5678,7 @@ const turkTili = {
           "text": "hastane"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«fil» so'zining turkcha tarjimasi — «fil»."
     },
@@ -5476,6 +5703,7 @@ const turkTili = {
           "text": "kambag'al"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ayı» so'zi o'zbek tilida «ayiq» deb tarjima qilinadi."
     },
@@ -5500,6 +5728,7 @@ const turkTili = {
           "text": "ayı"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ayiq» so'zining turkcha tarjimasi — «ayı»."
     },
@@ -5524,6 +5753,7 @@ const turkTili = {
           "text": "noto'g'ri"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kurt» so'zi o'zbek tilida «bo'ri» deb tarjima qilinadi."
     },
@@ -5548,6 +5778,7 @@ const turkTili = {
           "text": "tavuk"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bo'ri» so'zining turkcha tarjimasi — «kurt»."
     },
@@ -5572,6 +5803,7 @@ const turkTili = {
           "text": "choy"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tilki» so'zi o'zbek tilida «tulki» deb tarjima qilinadi."
     },
@@ -5596,6 +5828,7 @@ const turkTili = {
           "text": "tilki"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tulki» so'zining turkcha tarjimasi — «tilki»."
     },
@@ -5620,6 +5853,7 @@ const turkTili = {
           "text": "quyon"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tavşan» so'zi o'zbek tilida «quyon» deb tarjima qilinadi."
     },
@@ -5644,6 +5878,7 @@ const turkTili = {
           "text": "altı"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«quyon» so'zining turkcha tarjimasi — «tavşan»."
     },
@@ -5668,6 +5903,7 @@ const turkTili = {
           "text": "shifokor"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yılan» so'zi o'zbek tilida «ilon» deb tarjima qilinadi."
     },
@@ -5692,6 +5928,7 @@ const turkTili = {
           "text": "önce"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ilon» so'zining turkcha tarjimasi — «yılan»."
     },
@@ -5716,6 +5953,7 @@ const turkTili = {
           "text": "erta"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«arı» so'zi o'zbek tilida «ari» deb tarjima qilinadi."
     },
@@ -5740,6 +5978,7 @@ const turkTili = {
           "text": "adın ne"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ari» so'zining turkcha tarjimasi — «arı»."
     },
@@ -5764,6 +6003,7 @@ const turkTili = {
           "text": "quyosh"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kelebek» so'zi o'zbek tilida «kapalak» deb tarjima qilinadi."
     },
@@ -5788,6 +6028,7 @@ const turkTili = {
           "text": "kötü"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kapalak» so'zining turkcha tarjimasi — «kelebek»."
     },
@@ -5812,6 +6053,7 @@ const turkTili = {
           "text": "qum"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ekmek» so'zi o'zbek tilida «non» deb tarjima qilinadi."
     },
@@ -5836,6 +6078,7 @@ const turkTili = {
           "text": "ekmek"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«non» so'zining turkcha tarjimasi — «ekmek»."
     },
@@ -5860,6 +6103,7 @@ const turkTili = {
           "text": "ertaga"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«süt» so'zi o'zbek tilida «sut» deb tarjima qilinadi."
     },
@@ -5884,6 +6128,7 @@ const turkTili = {
           "text": "elma"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sut» so'zining turkcha tarjimasi — «süt»."
     },
@@ -5908,6 +6153,7 @@ const turkTili = {
           "text": "o'quvchi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«çay» so'zi o'zbek tilida «choy» deb tarjima qilinadi."
     },
@@ -5932,6 +6178,7 @@ const turkTili = {
           "text": "doktor"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«choy» so'zining turkcha tarjimasi — «çay»."
     },
@@ -5956,6 +6203,7 @@ const turkTili = {
           "text": "ming"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kahve» so'zi o'zbek tilida «qahva» deb tarjima qilinadi."
     },
@@ -5980,6 +6228,7 @@ const turkTili = {
           "text": "hafta"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«qahva» so'zining turkcha tarjimasi — «kahve»."
     },
@@ -6004,6 +6253,7 @@ const turkTili = {
           "text": "oson"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«et» so'zi o'zbek tilida «go'sht» deb tarjima qilinadi."
     },
@@ -6028,6 +6278,7 @@ const turkTili = {
           "text": "et"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«go'sht» so'zining turkcha tarjimasi — «et»."
     },
@@ -6052,6 +6303,7 @@ const turkTili = {
           "text": "palov"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«pilav» so'zi o'zbek tilida «palov» deb tarjima qilinadi."
     },
@@ -6076,6 +6328,7 @@ const turkTili = {
           "text": "et"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«palov» so'zining turkcha tarjimasi — «pilav»."
     },
@@ -6100,6 +6353,7 @@ const turkTili = {
           "text": "pomidor"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«çorba» so'zi o'zbek tilida «sho'rva» deb tarjima qilinadi."
     },
@@ -6124,6 +6378,7 @@ const turkTili = {
           "text": "sabah"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sho'rva» so'zining turkcha tarjimasi — «çorba»."
     },
@@ -6148,6 +6403,7 @@ const turkTili = {
           "text": "salad"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«salata» so'zi o'zbek tilida «salad» deb tarjima qilinadi."
     },
@@ -6172,6 +6428,7 @@ const turkTili = {
           "text": "kapı"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«salad» so'zining turkcha tarjimasi — «salata»."
     },
@@ -6196,6 +6453,7 @@ const turkTili = {
           "text": "sher"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«meyve» so'zi o'zbek tilida «meva» deb tarjima qilinadi."
     },
@@ -6220,6 +6478,7 @@ const turkTili = {
           "text": "meyve"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«meva» so'zining turkcha tarjimasi — «meyve»."
     },
@@ -6244,6 +6503,7 @@ const turkTili = {
           "text": "olma"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«elma» so'zi o'zbek tilida «olma» deb tarjima qilinadi."
     },
@@ -6268,6 +6528,7 @@ const turkTili = {
           "text": "mutlu"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«olma» so'zining turkcha tarjimasi — «elma»."
     },
@@ -6292,6 +6553,7 @@ const turkTili = {
           "text": "ellik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«armut» so'zi o'zbek tilida «nok» deb tarjima qilinadi."
     },
@@ -6316,6 +6578,7 @@ const turkTili = {
           "text": "armut"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«nok» so'zining turkcha tarjimasi — «armut»."
     },
@@ -6340,6 +6603,7 @@ const turkTili = {
           "text": "ertalab"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«üzüm» so'zi o'zbek tilida «uzum» deb tarjima qilinadi."
     },
@@ -6364,6 +6628,7 @@ const turkTili = {
           "text": "kardeş"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«uzum» so'zining turkcha tarjimasi — «üzüm»."
     },
@@ -6388,6 +6653,7 @@ const turkTili = {
           "text": "salad"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«portakal» so'zi o'zbek tilida «apelsin» deb tarjima qilinadi."
     },
@@ -6412,6 +6678,7 @@ const turkTili = {
           "text": "gece"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«apelsin» so'zining turkcha tarjimasi — «portakal»."
     },
@@ -6436,6 +6703,7 @@ const turkTili = {
           "text": "banan"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«muz» so'zi o'zbek tilida «banan» deb tarjima qilinadi."
     },
@@ -6460,6 +6728,7 @@ const turkTili = {
           "text": "iyi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«banan» so'zining turkcha tarjimasi — «muz»."
     },
@@ -6484,6 +6753,7 @@ const turkTili = {
           "text": "kelmoq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«domates» so'zi o'zbek tilida «pomidor» deb tarjima qilinadi."
     },
@@ -6508,6 +6778,7 @@ const turkTili = {
           "text": "iyiyim"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«pomidor» so'zining turkcha tarjimasi — «domates»."
     },
@@ -6532,6 +6803,7 @@ const turkTili = {
           "text": "kechirasiz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«patates» so'zi o'zbek tilida «kartoshka» deb tarjima qilinadi."
     },
@@ -6556,6 +6828,7 @@ const turkTili = {
           "text": "köy"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kartoshka» so'zining turkcha tarjimasi — «patates»."
     },
@@ -6580,6 +6853,7 @@ const turkTili = {
           "text": "balki"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«soğan» so'zi o'zbek tilida «piyoz» deb tarjima qilinadi."
     },
@@ -6604,6 +6878,7 @@ const turkTili = {
           "text": "araba"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«piyoz» so'zining turkcha tarjimasi — «soğan»."
     },
@@ -6628,6 +6903,7 @@ const turkTili = {
           "text": "shakar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«şeker» so'zi o'zbek tilida «shakar» deb tarjima qilinadi."
     },
@@ -6652,6 +6928,7 @@ const turkTili = {
           "text": "bilmek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«shakar» so'zining turkcha tarjimasi — «şeker»."
     },
@@ -6676,6 +6953,7 @@ const turkTili = {
           "text": "kechqurun"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ev» so'zi o'zbek tilida «uy» deb tarjima qilinadi."
     },
@@ -6700,6 +6978,7 @@ const turkTili = {
           "text": "kelebek"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«uy» so'zining turkcha tarjimasi — «ev»."
     },
@@ -6724,6 +7003,7 @@ const turkTili = {
           "text": "yuz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kapı» so'zi o'zbek tilida «eshik» deb tarjima qilinadi."
     },
@@ -6748,6 +7028,7 @@ const turkTili = {
           "text": "dağ"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«eshik» so'zining turkcha tarjimasi — «kapı»."
     },
@@ -6772,6 +7053,7 @@ const turkTili = {
           "text": "oy"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«pencere» so'zi o'zbek tilida «deraza» deb tarjima qilinadi."
     },
@@ -6796,6 +7078,7 @@ const turkTili = {
           "text": "pencere"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«deraza» so'zining turkcha tarjimasi — «pencere»."
     },
@@ -6820,6 +7103,7 @@ const turkTili = {
           "text": "xo'roz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«masa» so'zi o'zbek tilida «stol» deb tarjima qilinadi."
     },
@@ -6844,6 +7128,7 @@ const turkTili = {
           "text": "masa"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«stol» so'zining turkcha tarjimasi — «masa»."
     },
@@ -6868,6 +7153,7 @@ const turkTili = {
           "text": "stul"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sandalye» so'zi o'zbek tilida «stul» deb tarjima qilinadi."
     },
@@ -6892,6 +7178,7 @@ const turkTili = {
           "text": "kısa"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«stul» so'zining turkcha tarjimasi — «sandalye»."
     },
@@ -6916,6 +7203,7 @@ const turkTili = {
           "text": "yo'l"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yatak» so'zi o'zbek tilida «krovat» deb tarjima qilinadi."
     },
@@ -6940,6 +7228,7 @@ const turkTili = {
           "text": "domates"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«krovat» so'zining turkcha tarjimasi — «yatak»."
     },
@@ -6964,6 +7253,7 @@ const turkTili = {
           "text": "kitob"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kitap» so'zi o'zbek tilida «kitob» deb tarjima qilinadi."
     },
@@ -6988,6 +7278,7 @@ const turkTili = {
           "text": "tamam"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kitob» so'zining turkcha tarjimasi — «kitap»."
     },
@@ -7012,6 +7303,7 @@ const turkTili = {
           "text": "qalam"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kalem» so'zi o'zbek tilida «qalam» deb tarjima qilinadi."
     },
@@ -7036,6 +7328,7 @@ const turkTili = {
           "text": "kalem"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«qalam» so'zining turkcha tarjimasi — «kalem»."
     },
@@ -7060,6 +7353,7 @@ const turkTili = {
           "text": "daftar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«defter» so'zi o'zbek tilida «daftar» deb tarjima qilinadi."
     },
@@ -7084,6 +7378,7 @@ const turkTili = {
           "text": "büyük"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«daftar» so'zining turkcha tarjimasi — «defter»."
     },
@@ -7108,6 +7403,7 @@ const turkTili = {
           "text": "telefon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«çanta» so'zi o'zbek tilida «sumka» deb tarjima qilinadi."
     },
@@ -7132,6 +7428,7 @@ const turkTili = {
           "text": "zor"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sumka» so'zining turkcha tarjimasi — «çanta»."
     },
@@ -7156,6 +7453,7 @@ const turkTili = {
           "text": "oson"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«anahtar» so'zi o'zbek tilida «kalit» deb tarjima qilinadi."
     },
@@ -7180,6 +7478,7 @@ const turkTili = {
           "text": "yol"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kalit» so'zining turkcha tarjimasi — «anahtar»."
     },
@@ -7204,6 +7503,7 @@ const turkTili = {
           "text": "to'g'ri"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«telefon» so'zi o'zbek tilida «telefon» deb tarjima qilinadi."
     },
@@ -7228,6 +7528,7 @@ const turkTili = {
           "text": "ağabey"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«telefon» so'zining turkcha tarjimasi — «telefon»."
     },
@@ -7252,6 +7553,7 @@ const turkTili = {
           "text": "ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bilgisayar» so'zi o'zbek tilida «kompyuter» deb tarjima qilinadi."
     },
@@ -7276,6 +7578,7 @@ const turkTili = {
           "text": "büyük"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kompyuter» so'zining turkcha tarjimasi — «bilgisayar»."
     },
@@ -7300,6 +7603,7 @@ const turkTili = {
           "text": "balki"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«araba» so'zi o'zbek tilida «mashina» deb tarjima qilinadi."
     },
@@ -7324,6 +7628,7 @@ const turkTili = {
           "text": "araba"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«mashina» so'zining turkcha tarjimasi — «araba»."
     },
@@ -7348,6 +7653,7 @@ const turkTili = {
           "text": "qisqa"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yol» so'zi o'zbek tilida «yo'l» deb tarjima qilinadi."
     },
@@ -7372,6 +7678,7 @@ const turkTili = {
           "text": "yol"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yo'l» so'zining turkcha tarjimasi — «yol»."
     },
@@ -7396,6 +7703,7 @@ const turkTili = {
           "text": "banan"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«şehir» so'zi o'zbek tilida «shahar» deb tarjima qilinadi."
     },
@@ -7420,6 +7728,7 @@ const turkTili = {
           "text": "şehir"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«shahar» so'zining turkcha tarjimasi — «şehir»."
     },
@@ -7444,6 +7753,7 @@ const turkTili = {
           "text": "isming nima"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«köy» so'zi o'zbek tilida «qishloq» deb tarjima qilinadi."
     },
@@ -7468,6 +7778,7 @@ const turkTili = {
           "text": "uzun"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«qishloq» so'zining turkcha tarjimasi — «köy»."
     },
@@ -7492,6 +7803,7 @@ const turkTili = {
           "text": "osmon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«okul» so'zi o'zbek tilida «maktab» deb tarjima qilinadi."
     },
@@ -7516,6 +7828,7 @@ const turkTili = {
           "text": "kapalı"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«maktab» so'zining turkcha tarjimasi — «okul»."
     },
@@ -7540,6 +7853,7 @@ const turkTili = {
           "text": "kitob"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«hastane» so'zi o'zbek tilida «kasallikxona» deb tarjima qilinadi."
     },
@@ -7564,6 +7878,7 @@ const turkTili = {
           "text": "yemek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kasallikxona» so'zining turkcha tarjimasi — «hastane»."
     },
@@ -7588,6 +7903,7 @@ const turkTili = {
           "text": "sakkiz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«market» so'zi o'zbek tilida «do'kon» deb tarjima qilinadi."
     },
@@ -7612,6 +7928,7 @@ const turkTili = {
           "text": "patates"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«do'kon» so'zining turkcha tarjimasi — «market»."
     },
@@ -7636,6 +7953,7 @@ const turkTili = {
           "text": "shakar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«gitmek» so'zi o'zbek tilida «bormoq» deb tarjima qilinadi."
     },
@@ -7660,6 +7978,7 @@ const turkTili = {
           "text": "gün"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bormoq» so'zining turkcha tarjimasi — «gitmek»."
     },
@@ -7684,6 +8003,7 @@ const turkTili = {
           "text": "yo'l"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«gelmek» so'zi o'zbek tilida «kelmoq» deb tarjima qilinadi."
     },
@@ -7708,6 +8028,7 @@ const turkTili = {
           "text": "elma"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kelmoq» so'zining turkcha tarjimasi — «gelmek»."
     },
@@ -7732,6 +8053,7 @@ const turkTili = {
           "text": "yemoq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yemek» so'zi o'zbek tilida «yemoq» deb tarjima qilinadi."
     },
@@ -7756,6 +8078,7 @@ const turkTili = {
           "text": "yavaş"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yemoq» so'zining turkcha tarjimasi — «yemek»."
     },
@@ -7780,6 +8103,7 @@ const turkTili = {
           "text": "yarim"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«içmek» so'zi o'zbek tilida «ichmoq» deb tarjima qilinadi."
     },
@@ -7804,6 +8128,7 @@ const turkTili = {
           "text": "içmek"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ichmoq» so'zining turkcha tarjimasi — «içmek»."
     },
@@ -7828,6 +8153,7 @@ const turkTili = {
           "text": "askar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«okumak» so'zi o'zbek tilida «o'qimoq» deb tarjima qilinadi."
     },
@@ -7852,6 +8178,7 @@ const turkTili = {
           "text": "görüşürüz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'qimoq» so'zining turkcha tarjimasi — «okumak»."
     },
@@ -7876,6 +8203,7 @@ const turkTili = {
           "text": "o'n"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yazmak» so'zi o'zbek tilida «yozmoq» deb tarjima qilinadi."
     },
@@ -7900,6 +8228,7 @@ const turkTili = {
           "text": "yazmak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yozmoq» so'zining turkcha tarjimasi — «yazmak»."
     },
@@ -7924,6 +8253,7 @@ const turkTili = {
           "text": "non"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«görmek» so'zi o'zbek tilida «ko'rmoq» deb tarjima qilinadi."
     },
@@ -7948,6 +8278,7 @@ const turkTili = {
           "text": "görmek"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ko'rmoq» so'zining turkcha tarjimasi — «görmek»."
     },
@@ -7972,6 +8303,7 @@ const turkTili = {
           "text": "besh"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bilmek» so'zi o'zbek tilida «bilmoq» deb tarjima qilinadi."
     },
@@ -7996,6 +8328,7 @@ const turkTili = {
           "text": "ateş"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bilmoq» so'zining turkcha tarjimasi — «bilmek»."
     },
@@ -8020,6 +8353,7 @@ const turkTili = {
           "text": "kalit"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«istemek» so'zi o'zbek tilida «xohlamoq» deb tarjima qilinadi."
     },
@@ -8044,6 +8378,7 @@ const turkTili = {
           "text": "milyon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«xohlamoq» so'zining turkcha tarjimasi — «istemek»."
     },
@@ -8068,6 +8403,7 @@ const turkTili = {
           "text": "kechirasiz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sevmek» so'zi o'zbek tilida «sevmoq» deb tarjima qilinadi."
     },
@@ -8092,6 +8428,7 @@ const turkTili = {
           "text": "pencere"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sevmoq» so'zining turkcha tarjimasi — «sevmek»."
     },
@@ -8116,6 +8453,7 @@ const turkTili = {
           "text": "har doim"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«büyük» so'zi o'zbek tilida «katta» deb tarjima qilinadi."
     },
@@ -8140,6 +8478,7 @@ const turkTili = {
           "text": "meyve"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«katta» so'zining turkcha tarjimasi — «büyük»."
     },
@@ -8164,6 +8503,7 @@ const turkTili = {
           "text": "besh"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«küçük» so'zi o'zbek tilida «kichik» deb tarjima qilinadi."
     },
@@ -8188,6 +8528,7 @@ const turkTili = {
           "text": "küçük"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kichik» so'zining turkcha tarjimasi — «küçük»."
     },
@@ -8212,6 +8553,7 @@ const turkTili = {
           "text": "ot"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«iyi» so'zi o'zbek tilida «yaxshi» deb tarjima qilinadi."
     },
@@ -8236,6 +8578,7 @@ const turkTili = {
           "text": "gece"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yaxshi» so'zining turkcha tarjimasi — «iyi»."
     },
@@ -8260,6 +8603,7 @@ const turkTili = {
           "text": "yomon"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kötü» so'zi o'zbek tilida «yomon» deb tarjima qilinadi."
     },
@@ -8284,6 +8628,7 @@ const turkTili = {
           "text": "inek"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yomon» so'zining turkcha tarjimasi — «kötü»."
     },
@@ -8308,6 +8653,7 @@ const turkTili = {
           "text": "shifokor"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yeni» so'zi o'zbek tilida «yangi» deb tarjima qilinadi."
     },
@@ -8332,6 +8678,7 @@ const turkTili = {
           "text": "kahve"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yangi» so'zining turkcha tarjimasi — «yeni»."
     },
@@ -8356,6 +8703,7 @@ const turkTili = {
           "text": "eski"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«eski» so'zi o'zbek tilida «eski» deb tarjima qilinadi."
     },
@@ -8380,6 +8728,7 @@ const turkTili = {
           "text": "hoş geldiniz"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«eski» so'zining turkcha tarjimasi — «eski»."
     },
@@ -8404,6 +8753,7 @@ const turkTili = {
           "text": "xush kelibsiz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«güzel» so'zi o'zbek tilida «chiroyli» deb tarjima qilinadi."
     },
@@ -8428,6 +8778,7 @@ const turkTili = {
           "text": "yanlış"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«chiroyli» so'zining turkcha tarjimasi — «güzel»."
     },
@@ -8452,6 +8803,7 @@ const turkTili = {
           "text": "xursand"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«çirkin» so'zi o'zbek tilida «xunuk» deb tarjima qilinadi."
     },
@@ -8476,6 +8828,7 @@ const turkTili = {
           "text": "orman"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xunuk» so'zining turkcha tarjimasi — «çirkin»."
     },
@@ -8500,6 +8853,7 @@ const turkTili = {
           "text": "issiq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sıcak» so'zi o'zbek tilida «issiq» deb tarjima qilinadi."
     },
@@ -8524,6 +8878,7 @@ const turkTili = {
           "text": "tamam"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«issiq» so'zining turkcha tarjimasi — «sıcak»."
     },
@@ -8548,6 +8903,7 @@ const turkTili = {
           "text": "ilon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«soğuk» so'zi o'zbek tilida «sovuq» deb tarjima qilinadi."
     },
@@ -8572,6 +8928,7 @@ const turkTili = {
           "text": "güzel"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sovuq» so'zining turkcha tarjimasi — «soğuk»."
     },
@@ -8596,6 +8953,7 @@ const turkTili = {
           "text": "ochiq"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«açık» so'zi o'zbek tilida «ochiq» deb tarjima qilinadi."
     },
@@ -8620,6 +8978,7 @@ const turkTili = {
           "text": "yedi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ochiq» so'zining turkcha tarjimasi — «açık»."
     },
@@ -8644,6 +9003,7 @@ const turkTili = {
           "text": "do'kon"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kapalı» so'zi o'zbek tilida «yopiq» deb tarjima qilinadi."
     },
@@ -8668,6 +9028,7 @@ const turkTili = {
           "text": "kapalı"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yopiq» so'zining turkcha tarjimasi — «kapalı»."
     },
@@ -8692,6 +9053,7 @@ const turkTili = {
           "text": "qirq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«uzun» so'zi o'zbek tilida «uzun» deb tarjima qilinadi."
     },
@@ -8716,6 +9078,7 @@ const turkTili = {
           "text": "uzun"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«uzun» so'zining turkcha tarjimasi — «uzun»."
     },
@@ -8740,6 +9103,7 @@ const turkTili = {
           "text": "qisqa"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kısa» so'zi o'zbek tilida «qisqa» deb tarjima qilinadi."
     },
@@ -8764,6 +9128,7 @@ const turkTili = {
           "text": "kız"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qisqa» so'zining turkcha tarjimasi — «kısa»."
     },
@@ -8788,6 +9153,7 @@ const turkTili = {
           "text": "olti"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«hızlı» so'zi o'zbek tilida «tez» deb tarjima qilinadi."
     },
@@ -8812,6 +9178,7 @@ const turkTili = {
           "text": "dört"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tez» so'zining turkcha tarjimasi — «hızlı»."
     },
@@ -8836,6 +9203,7 @@ const turkTili = {
           "text": "tinchlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yavaş» so'zi o'zbek tilida «sekin» deb tarjima qilinadi."
     },
@@ -8860,6 +9228,7 @@ const turkTili = {
           "text": "kelebek"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sekin» so'zining turkcha tarjimasi — «yavaş»."
     },
@@ -8884,6 +9253,7 @@ const turkTili = {
           "text": "keyin"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kolay» so'zi o'zbek tilida «oson» deb tarjima qilinadi."
     },
@@ -8908,6 +9278,7 @@ const turkTili = {
           "text": "kolay"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«oson» so'zining turkcha tarjimasi — «kolay»."
     },
@@ -8932,6 +9303,7 @@ const turkTili = {
           "text": "tayyor"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«zor» so'zi o'zbek tilida «qiyin» deb tarjima qilinadi."
     },
@@ -8956,6 +9328,7 @@ const turkTili = {
           "text": "ekmek"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qiyin» so'zining turkcha tarjimasi — «zor»."
     },
@@ -8980,6 +9353,7 @@ const turkTili = {
           "text": "eshik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«doğru» so'zi o'zbek tilida «to'g'ri» deb tarjima qilinadi."
     },
@@ -9004,6 +9378,7 @@ const turkTili = {
           "text": "pilav"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«to'g'ri» so'zining turkcha tarjimasi — «doğru»."
     },
@@ -9028,6 +9403,7 @@ const turkTili = {
           "text": "do'stlik"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yanlış» so'zi o'zbek tilida «noto'g'ri» deb tarjima qilinadi."
     },
@@ -9052,6 +9428,7 @@ const turkTili = {
           "text": "genç"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«noto'g'ri» so'zining turkcha tarjimasi — «yanlış»."
     },
@@ -9076,6 +9453,7 @@ const turkTili = {
           "text": "xursand"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«mutlu» so'zi o'zbek tilida «xursand» deb tarjima qilinadi."
     },
@@ -9100,6 +9478,7 @@ const turkTili = {
           "text": "mutlu"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«xursand» so'zining turkcha tarjimasi — «mutlu»."
     },
@@ -9124,6 +9503,7 @@ const turkTili = {
           "text": "kelmoq"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«üzgün» so'zi o'zbek tilida «xafa» deb tarjima qilinadi."
     },
@@ -9148,6 +9528,7 @@ const turkTili = {
           "text": "hızlı"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«xafa» so'zining turkcha tarjimasi — «üzgün»."
     },
@@ -9172,6 +9553,7 @@ const turkTili = {
           "text": "deraza"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«zengin» so'zi o'zbek tilida «boy» deb tarjima qilinadi."
     },
@@ -9196,6 +9578,7 @@ const turkTili = {
           "text": "zengin"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«boy» so'zining turkcha tarjimasi — «zengin»."
     },
@@ -9220,6 +9603,7 @@ const turkTili = {
           "text": "kambag'al"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«fakir» so'zi o'zbek tilida «kambag'al» deb tarjima qilinadi."
     },
@@ -9244,6 +9628,7 @@ const turkTili = {
           "text": "üzgün"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kambag'al» so'zining turkcha tarjimasi — «fakir»."
     },
@@ -9268,6 +9653,7 @@ const turkTili = {
           "text": "aka yoki uka"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«genç» so'zi o'zbek tilida «yosh» deb tarjima qilinadi."
     },
@@ -9292,6 +9678,7 @@ const turkTili = {
           "text": "genç"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yosh» so'zining turkcha tarjimasi — «genç»."
     },
@@ -9316,6 +9703,7 @@ const turkTili = {
           "text": "ilon"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yaşlı» so'zi o'zbek tilida «qari» deb tarjima qilinadi."
     },
@@ -9340,6 +9728,7 @@ const turkTili = {
           "text": "armut"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«qari» so'zining turkcha tarjimasi — «yaşlı»."
     },
@@ -9364,6 +9753,7 @@ const turkTili = {
           "text": "uch"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«insan» so'zi o'zbek tilida «inson» deb tarjima qilinadi."
     },
@@ -9388,6 +9778,7 @@ const turkTili = {
           "text": "görmek"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«inson» so'zining turkcha tarjimasi — «insan»."
     },
@@ -9412,6 +9803,7 @@ const turkTili = {
           "text": "do'stlik"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«dostluk» so'zi o'zbek tilida «do'stlik» deb tarjima qilinadi."
     },
@@ -9436,6 +9828,7 @@ const turkTili = {
           "text": "yüz"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«do'stlik» so'zining turkcha tarjimasi — «dostluk»."
     },
@@ -9460,6 +9853,7 @@ const turkTili = {
           "text": "sevgi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sevgi» so'zi o'zbek tilida «sevgi» deb tarjima qilinadi."
     },
@@ -9484,6 +9878,7 @@ const turkTili = {
           "text": "yedi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«sevgi» so'zining turkcha tarjimasi — «sevgi»."
     },
@@ -9508,6 +9903,7 @@ const turkTili = {
           "text": "har doim"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«barış» so'zi o'zbek tilida «tinchlik» deb tarjima qilinadi."
     },
@@ -9532,6 +9928,7 @@ const turkTili = {
           "text": "dağ"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«tinchlik» so'zining turkcha tarjimasi — «barış»."
     },
@@ -9556,6 +9953,7 @@ const turkTili = {
           "text": "kechirasiz"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sağlık» so'zi o'zbek tilida «sog'liq» deb tarjima qilinadi."
     },
@@ -9580,6 +9978,7 @@ const turkTili = {
           "text": "su"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«sog'liq» so'zining turkcha tarjimasi — «sağlık»."
     },
@@ -9604,6 +10003,7 @@ const turkTili = {
           "text": "issiq"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«hasta» so'zi o'zbek tilida «kasal» deb tarjima qilinadi."
     },
@@ -9628,6 +10028,7 @@ const turkTili = {
           "text": "okul"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kasal» so'zining turkcha tarjimasi — «hasta»."
     },
@@ -9652,6 +10053,7 @@ const turkTili = {
           "text": "kuchli"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«güçlü» so'zi o'zbek tilida «kuchli» deb tarjima qilinadi."
     },
@@ -9676,6 +10078,7 @@ const turkTili = {
           "text": "bugün"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kuchli» so'zining turkcha tarjimasi — «güçlü»."
     },
@@ -9700,6 +10103,7 @@ const turkTili = {
           "text": "«defter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«“Merhaba” so‘zining o‘zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — Salom. To'g'ri javob: Salom."
     },
@@ -9724,6 +10128,7 @@ const turkTili = {
           "text": "«tog'» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«“Teşekkür ederim” iborasining tarjimasi nima?» savolining to'g'ri javobi — Rahmat. To'g'ri javob: Rahmat."
     },
@@ -9748,6 +10153,7 @@ const turkTili = {
           "text": "«rahmat» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "«Zamonaviy turk alifbosida nechta harf bor?» savolining to'g'ri javobi — 29. To'g'ri javob: 29."
     },
@@ -9772,6 +10178,7 @@ const turkTili = {
           "text": "“Kitap” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«“Kitap” so‘zining o‘zbekcha tarjimasi nima?» savolining to'g'ri javobi — Kitob. To'g'ri javob: Kitob."
     },
@@ -9796,6 +10203,7 @@ const turkTili = {
           "text": "«merhaba» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««merhaba» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — salom. «merhaba» so'zi o'zbek tilida «salom» deb tarjima qilinadi."
     },
@@ -9820,6 +10228,7 @@ const turkTili = {
           "text": "«güzel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««salom» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — merhaba. «salom» so'zining turkcha tarjimasi — «merhaba»."
     },
@@ -9844,6 +10253,7 @@ const turkTili = {
           "text": "«günaydın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««günaydın» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xayrli tong. «günaydın» so'zi o'zbek tilida «xayrli tong» deb tarjima qilinadi."
     },
@@ -9868,6 +10278,7 @@ const turkTili = {
           "text": "«sevmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xayrli tong» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — günaydın. «xayrli tong» so'zining turkcha tarjimasi — «günaydın»."
     },
@@ -9892,6 +10303,7 @@ const turkTili = {
           "text": "«yangi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««iyi akşamlar» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xayrli kech. «iyi akşamlar» so'zi o'zbek tilida «xayrli kech» deb tarjima qilinadi."
     },
@@ -9916,6 +10328,7 @@ const turkTili = {
           "text": "«har doim» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««xayrli kech» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — iyi akşamlar. «xayrli kech» so'zining turkcha tarjimasi — «iyi akşamlar»."
     },
@@ -9940,6 +10353,7 @@ const turkTili = {
           "text": "«aslan» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««hoş geldiniz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xush kelibsiz. «hoş geldiniz» so'zi o'zbek tilida «xush kelibsiz» deb tarjima qilinadi."
     },
@@ -9964,6 +10378,7 @@ const turkTili = {
           "text": "«dakika» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xush kelibsiz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — hoş geldiniz. «xush kelibsiz» so'zining turkcha tarjimasi — «hoş geldiniz»."
     },
@@ -9988,6 +10403,7 @@ const turkTili = {
           "text": "«hafta» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««teşekkür ederim» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — rahmat. «teşekkür ederim» so'zi o'zbek tilida «rahmat» deb tarjima qilinadi."
     },
@@ -10012,6 +10428,7 @@ const turkTili = {
           "text": "«rahmat» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««rahmat» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — teşekkür ederim. «rahmat» so'zining turkcha tarjimasi — «teşekkür ederim»."
     },
@@ -10036,6 +10453,7 @@ const turkTili = {
           "text": "«otuz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««lütfen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — iltimos. «lütfen» so'zi o'zbek tilida «iltimos» deb tarjima qilinadi."
     },
@@ -10060,6 +10478,7 @@ const turkTili = {
           "text": "«dakika» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««iltimos» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — lütfen. «iltimos» so'zining turkcha tarjimasi — «lütfen»."
     },
@@ -10084,6 +10503,7 @@ const turkTili = {
           "text": "«bormoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««evet» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ha. «evet» so'zi o'zbek tilida «ha» deb tarjima qilinadi."
     },
@@ -10108,6 +10528,7 @@ const turkTili = {
           "text": "«kapalak» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ha» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — evet. «ha» so'zining turkcha tarjimasi — «evet»."
     },
@@ -10132,6 +10553,7 @@ const turkTili = {
           "text": "«pencere» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««hayır» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yo'q. «hayır» so'zi o'zbek tilida «yo'q» deb tarjima qilinadi."
     },
@@ -10156,6 +10578,7 @@ const turkTili = {
           "text": "«qush» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yo'q» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — hayır. «yo'q» so'zining turkcha tarjimasi — «hayır»."
     },
@@ -10180,6 +10603,7 @@ const turkTili = {
           "text": "«genç» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««belki» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — balki. «belki» so'zi o'zbek tilida «balki» deb tarjima qilinadi."
     },
@@ -10204,6 +10628,7 @@ const turkTili = {
           "text": "«kapalak» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««balki» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — belki. «balki» so'zining turkcha tarjimasi — «belki»."
     },
@@ -10228,6 +10653,7 @@ const turkTili = {
           "text": "«güle güle» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tamam» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tayyor. «tamam» so'zi o'zbek tilida «tayyor» deb tarjima qilinadi."
     },
@@ -10252,6 +10678,7 @@ const turkTili = {
           "text": "«ertalab» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tayyor» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — tamam. «tayyor» so'zining turkcha tarjimasi — «tamam»."
     },
@@ -10276,6 +10703,7 @@ const turkTili = {
           "text": "«nasılsın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««nasılsın» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qalaysan. «nasılsın» so'zi o'zbek tilida «qalaysan» deb tarjima qilinadi."
     },
@@ -10300,6 +10728,7 @@ const turkTili = {
           "text": "«her zaman» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qalaysan» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — nasılsın. «qalaysan» so'zining turkcha tarjimasi — «nasılsın»."
     },
@@ -10324,6 +10753,7 @@ const turkTili = {
           "text": "«iyiyim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««iyiyim» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yaxshiman. «iyiyim» so'zi o'zbek tilida «yaxshiman» deb tarjima qilinadi."
     },
@@ -10348,6 +10778,7 @@ const turkTili = {
           "text": "«kolay» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yaxshiman» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — iyiyim. «yaxshiman» so'zining turkcha tarjimasi — «iyiyim»."
     },
@@ -10372,6 +10803,7 @@ const turkTili = {
           "text": "«yıl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««adın ne» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — isming nima. «adın ne» so'zi o'zbek tilida «isming nima» deb tarjima qilinadi."
     },
@@ -10396,6 +10828,7 @@ const turkTili = {
           "text": "«do'kon» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««isming nima» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — adın ne. «isming nima» so'zining turkcha tarjimasi — «adın ne»."
     },
@@ -10420,6 +10853,7 @@ const turkTili = {
           "text": "«kelebek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««benim adım» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — mening ismim. «benim adım» so'zi o'zbek tilida «mening ismim» deb tarjima qilinadi."
     },
@@ -10444,6 +10878,7 @@ const turkTili = {
           "text": "«yol» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««mening ismim» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — benim adım. «mening ismim» so'zining turkcha tarjimasi — «benim adım»."
     },
@@ -10468,6 +10903,7 @@ const turkTili = {
           "text": "«memnun oldum» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««memnun oldum» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tanishganimdan xursandman. «memnun oldum» so'zi o'zbek tilida «tanishganimdan xursandman» deb tarjima qilinadi."
     },
@@ -10492,6 +10928,7 @@ const turkTili = {
           "text": "«telefon» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tanishganimdan xursandman» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — memnun oldum. «tanishganimdan xursandman» so'zining turkcha tarjimasi — «memnun oldum»."
     },
@@ -10516,6 +10953,7 @@ const turkTili = {
           "text": "«pomidor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««görüşürüz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kelishguncha. «görüşürüz» so'zi o'zbek tilida «kelishguncha» deb tarjima qilinadi."
     },
@@ -10540,6 +10978,7 @@ const turkTili = {
           "text": "«kelishguncha» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kelishguncha» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — görüşürüz. «kelishguncha» so'zining turkcha tarjimasi — «görüşürüz»."
     },
@@ -10564,6 +11003,7 @@ const turkTili = {
           "text": "«qor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««güle güle» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xayr. «güle güle» so'zi o'zbek tilida «xayr» deb tarjima qilinadi."
     },
@@ -10588,6 +11028,7 @@ const turkTili = {
           "text": "«do'stlik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««xayr» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — güle güle. «xayr» so'zining turkcha tarjimasi — «güle güle»."
     },
@@ -10612,6 +11053,7 @@ const turkTili = {
           "text": "«özür dilerim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««özür dilerim» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kechirasiz. «özür dilerim» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -10636,6 +11078,7 @@ const turkTili = {
           "text": "«yıl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kechirasiz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — özür dilerim. «kechirasiz» so'zining turkcha tarjimasi — «özür dilerim»."
     },
@@ -10660,6 +11103,7 @@ const turkTili = {
           "text": "«iltimos» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««affedersiniz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kechirasiz. «affedersiniz» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -10684,6 +11128,7 @@ const turkTili = {
           "text": "«gökyüzü» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««bir dakika» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bir daqiqa. «bir dakika» so'zi o'zbek tilida «bir daqiqa» deb tarjima qilinadi."
     },
@@ -10708,6 +11153,7 @@ const turkTili = {
           "text": "«palov» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««bir daqiqa» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — bir dakika. «bir daqiqa» so'zining turkcha tarjimasi — «bir dakika»."
     },
@@ -10732,6 +11178,7 @@ const turkTili = {
           "text": "«quyosh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««anne» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ona. «anne» so'zi o'zbek tilida «ona» deb tarjima qilinadi."
     },
@@ -10756,6 +11203,7 @@ const turkTili = {
           "text": "“Kitap” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ona» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — anne. «ona» so'zining turkcha tarjimasi — «anne»."
     },
@@ -10780,6 +11228,7 @@ const turkTili = {
           "text": "«yosh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««baba» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ota. «baba» so'zi o'zbek tilida «ota» deb tarjima qilinadi."
     },
@@ -10804,6 +11253,7 @@ const turkTili = {
           "text": "«ota» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ota» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — baba. «ota» so'zining turkcha tarjimasi — «baba»."
     },
@@ -10828,6 +11278,7 @@ const turkTili = {
           "text": "«pomidor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kardeş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — aka yoki uka. «kardeş» so'zi o'zbek tilida «aka yoki uka» deb tarjima qilinadi."
     },
@@ -10852,6 +11303,7 @@ const turkTili = {
           "text": "«aka yoki uka» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««aka yoki uka» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kardeş. «aka yoki uka» so'zining turkcha tarjimasi — «kardeş»."
     },
@@ -10876,6 +11328,7 @@ const turkTili = {
           "text": "«ağaç» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««abla» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — opa. «abla» so'zi o'zbek tilida «opa» deb tarjima qilinadi."
     },
@@ -10900,6 +11353,7 @@ const turkTili = {
           "text": "«ko'rmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««opa» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — abla. «opa» so'zining turkcha tarjimasi — «abla»."
     },
@@ -10924,6 +11378,7 @@ const turkTili = {
           "text": "«kichik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ağabey» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — aka. «ağabey» so'zi o'zbek tilida «aka» deb tarjima qilinadi."
     },
@@ -10948,6 +11403,7 @@ const turkTili = {
           "text": "«yosh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««aka» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — ağabey. «aka» so'zining turkcha tarjimasi — «ağabey»."
     },
@@ -10972,6 +11428,7 @@ const turkTili = {
           "text": "«kompyuter» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««dede» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bobo. «dede» so'zi o'zbek tilida «bobo» deb tarjima qilinadi."
     },
@@ -10996,6 +11453,7 @@ const turkTili = {
           "text": "«maktab» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««bobo» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — dede. «bobo» so'zining turkcha tarjimasi — «dede»."
     },
@@ -11020,6 +11478,7 @@ const turkTili = {
           "text": "«yil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««nine» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — buvi. «nine» so'zi o'zbek tilida «buvi» deb tarjima qilinadi."
     },
@@ -11044,6 +11503,7 @@ const turkTili = {
           "text": "«buvi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««buvi» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — nine. «buvi» so'zining turkcha tarjimasi — «nine»."
     },
@@ -11068,6 +11528,7 @@ const turkTili = {
           "text": "«oğul» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««oğul» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'g'il. «oğul» so'zi o'zbek tilida «o'g'il» deb tarjima qilinadi."
     },
@@ -11092,6 +11553,7 @@ const turkTili = {
           "text": "«o'g'il» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««o'g'il» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — oğul. «o'g'il» so'zining turkcha tarjimasi — «oğul»."
     },
@@ -11116,6 +11578,7 @@ const turkTili = {
           "text": "«bir daqiqa» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kız» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qiz. «kız» so'zi o'zbek tilida «qiz» deb tarjima qilinadi."
     },
@@ -11140,6 +11603,7 @@ const turkTili = {
           "text": "«erken» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««qiz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kız. «qiz» so'zining turkcha tarjimasi — «kız»."
     },
@@ -11164,6 +11628,7 @@ const turkTili = {
           "text": "«tovuq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««çocuk» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bola. «çocuk» so'zi o'zbek tilida «bola» deb tarjima qilinadi."
     },
@@ -11188,6 +11653,7 @@ const turkTili = {
           "text": "«önce» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««bola» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çocuk. «bola» so'zining turkcha tarjimasi — «çocuk»."
     },
@@ -11212,6 +11678,7 @@ const turkTili = {
           "text": "«adam» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««adam» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — erkak. «adam» so'zi o'zbek tilida «erkak» deb tarjima qilinadi."
     },
@@ -11236,6 +11703,7 @@ const turkTili = {
           "text": "«erkak» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««erkak» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — adam. «erkak» so'zining turkcha tarjimasi — «adam»."
     },
@@ -11260,6 +11728,7 @@ const turkTili = {
           "text": "«bo'ri» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kadın» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ayol. «kadın» so'zi o'zbek tilida «ayol» deb tarjima qilinadi."
     },
@@ -11284,6 +11753,7 @@ const turkTili = {
           "text": "«sovuq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ayol» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kadın. «ayol» so'zining turkcha tarjimasi — «kadın»."
     },
@@ -11308,6 +11778,7 @@ const turkTili = {
           "text": "«arkadaş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««arkadaş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — do'st. «arkadaş» so'zi o'zbek tilida «do'st» deb tarjima qilinadi."
     },
@@ -11332,6 +11803,7 @@ const turkTili = {
           "text": "«memnun oldum» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««do'st» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — arkadaş. «do'st» so'zining turkcha tarjimasi — «arkadaş»."
     },
@@ -11356,6 +11828,7 @@ const turkTili = {
           "text": "«öğretmen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««öğretmen» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'qituvchi. «öğretmen» so'zi o'zbek tilida «o'qituvchi» deb tarjima qilinadi."
     },
@@ -11380,6 +11853,7 @@ const turkTili = {
           "text": "«bir» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««o'qituvchi» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — öğretmen. «o'qituvchi» so'zining turkcha tarjimasi — «öğretmen»."
     },
@@ -11404,6 +11878,7 @@ const turkTili = {
           "text": "«bugun» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««öğrenci» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'quvchi. «öğrenci» so'zi o'zbek tilida «o'quvchi» deb tarjima qilinadi."
     },
@@ -11428,6 +11903,7 @@ const turkTili = {
           "text": "«adın ne» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««o'quvchi» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — öğrenci. «o'quvchi» so'zining turkcha tarjimasi — «öğrenci»."
     },
@@ -11452,6 +11928,7 @@ const turkTili = {
           "text": "«doktor» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««doktor» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — shifokor. «doktor» so'zi o'zbek tilida «shifokor» deb tarjima qilinadi."
     },
@@ -11476,6 +11953,7 @@ const turkTili = {
           "text": "«öğretmen» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««shifokor» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — doktor. «shifokor» so'zining turkcha tarjimasi — «doktor»."
     },
@@ -11500,6 +11978,7 @@ const turkTili = {
           "text": "«mühendis» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««mühendis» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — muhandis. «mühendis» so'zi o'zbek tilida «muhandis» deb tarjima qilinadi."
     },
@@ -11524,6 +12003,7 @@ const turkTili = {
           "text": "«olma» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««muhandis» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — mühendis. «muhandis» so'zining turkcha tarjimasi — «mühendis»."
     },
@@ -11548,6 +12028,7 @@ const turkTili = {
           "text": "«taş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««işçi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ishchi. «işçi» so'zi o'zbek tilida «ishchi» deb tarjima qilinadi."
     },
@@ -11572,6 +12053,7 @@ const turkTili = {
           "text": "«ishchi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ishchi» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — işçi. «ishchi» so'zining turkcha tarjimasi — «işçi»."
     },
@@ -11596,6 +12078,7 @@ const turkTili = {
           "text": "«güzel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««çiftçi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — dehqon. «çiftçi» so'zi o'zbek tilida «dehqon» deb tarjima qilinadi."
     },
@@ -11620,6 +12103,7 @@ const turkTili = {
           "text": "«akşam» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««dehqon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çiftçi. «dehqon» so'zining turkcha tarjimasi — «çiftçi»."
     },
@@ -11644,6 +12128,7 @@ const turkTili = {
           "text": "«asker» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««asker» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — askar. «asker» so'zi o'zbek tilida «askar» deb tarjima qilinadi."
     },
@@ -11668,6 +12153,7 @@ const turkTili = {
           "text": "«qor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««askar» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — asker. «askar» so'zining turkcha tarjimasi — «asker»."
     },
@@ -11692,6 +12178,7 @@ const turkTili = {
           "text": "«bir» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««bir» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bir. «bir» so'zi o'zbek tilida «bir» deb tarjima qilinadi."
     },
@@ -11716,6 +12203,7 @@ const turkTili = {
           "text": "«milyon» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««bir» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — bir. «bir» so'zining turkcha tarjimasi — «bir»."
     },
@@ -11740,6 +12228,7 @@ const turkTili = {
           "text": "«palov» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««iki» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ikki. «iki» so'zi o'zbek tilida «ikki» deb tarjima qilinadi."
     },
@@ -11764,6 +12253,7 @@ const turkTili = {
           "text": "«doğru» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ikki» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — iki. «ikki» so'zining turkcha tarjimasi — «iki»."
     },
@@ -11788,6 +12278,7 @@ const turkTili = {
           "text": "«her zaman» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««üç» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uch. «üç» so'zi o'zbek tilida «uch» deb tarjima qilinadi."
     },
@@ -11812,6 +12303,7 @@ const turkTili = {
           "text": "«altı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««uch» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — üç. «uch» so'zining turkcha tarjimasi — «üç»."
     },
@@ -11836,6 +12328,7 @@ const turkTili = {
           "text": "«et» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««dört» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — to'rt. «dört» so'zi o'zbek tilida «to'rt» deb tarjima qilinadi."
     },
@@ -11860,6 +12353,7 @@ const turkTili = {
           "text": "«telefon» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««to'rt» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — dört. «to'rt» so'zining turkcha tarjimasi — «dört»."
     },
@@ -11884,6 +12378,7 @@ const turkTili = {
           "text": "«nehir» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««beş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — besh. «beş» so'zi o'zbek tilida «besh» deb tarjima qilinadi."
     },
@@ -11908,6 +12403,7 @@ const turkTili = {
           "text": "«besh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««besh» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — beş. «besh» so'zining turkcha tarjimasi — «beş»."
     },
@@ -11932,6 +12428,7 @@ const turkTili = {
           "text": "«qalam» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««altı» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — olti. «altı» so'zi o'zbek tilida «olti» deb tarjima qilinadi."
     },
@@ -11956,6 +12453,7 @@ const turkTili = {
           "text": "«iyi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««olti» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — altı. «olti» so'zining turkcha tarjimasi — «altı»."
     },
@@ -11980,6 +12478,7 @@ const turkTili = {
           "text": "«opa» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yedi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yetti. «yedi» so'zi o'zbek tilida «yetti» deb tarjima qilinadi."
     },
@@ -12004,6 +12503,7 @@ const turkTili = {
           "text": "«tog'» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yetti» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yedi. «yetti» so'zining turkcha tarjimasi — «yedi»."
     },
@@ -12028,6 +12528,7 @@ const turkTili = {
           "text": "«aslan» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««sekiz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sakkiz. «sekiz» so'zi o'zbek tilida «sakkiz» deb tarjima qilinadi."
     },
@@ -12052,6 +12553,7 @@ const turkTili = {
           "text": "«salata» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««sakkiz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sekiz. «sakkiz» so'zining turkcha tarjimasi — «sekiz»."
     },
@@ -12076,6 +12578,7 @@ const turkTili = {
           "text": "«noto'g'ri» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««dokuz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — to'qqiz. «dokuz» so'zi o'zbek tilida «to'qqiz» deb tarjima qilinadi."
     },
@@ -12100,6 +12603,7 @@ const turkTili = {
           "text": "«iyi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««to'qqiz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — dokuz. «to'qqiz» so'zining turkcha tarjimasi — «dokuz»."
     },
@@ -12124,6 +12628,7 @@ const turkTili = {
           "text": "«ona» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««on» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'n. «on» so'zi o'zbek tilida «o'n» deb tarjima qilinadi."
     },
@@ -12148,6 +12653,7 @@ const turkTili = {
           "text": "«bilmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««o'n» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — on. «o'n» so'zining turkcha tarjimasi — «on»."
     },
@@ -12172,6 +12678,7 @@ const turkTili = {
           "text": "«oson» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yirmi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yigirma. «yirmi» so'zi o'zbek tilida «yigirma» deb tarjima qilinadi."
     },
@@ -12196,6 +12703,7 @@ const turkTili = {
           "text": "«yil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yigirma» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yirmi. «yigirma» so'zining turkcha tarjimasi — «yirmi»."
     },
@@ -12220,6 +12728,7 @@ const turkTili = {
           "text": "«otuz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««otuz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'ttiz. «otuz» so'zi o'zbek tilida «o'ttiz» deb tarjima qilinadi."
     },
@@ -12244,6 +12753,7 @@ const turkTili = {
           "text": "«nehir» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««o'ttiz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — otuz. «o'ttiz» so'zining turkcha tarjimasi — «otuz»."
     },
@@ -12268,6 +12778,7 @@ const turkTili = {
           "text": "«kırk» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kırk» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qirq. «kırk» so'zi o'zbek tilida «qirq» deb tarjima qilinadi."
     },
@@ -12292,6 +12803,7 @@ const turkTili = {
           "text": "«horoz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qirq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kırk. «qirq» so'zining turkcha tarjimasi — «kırk»."
     },
@@ -12316,6 +12828,7 @@ const turkTili = {
           "text": "«hafta» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««elli» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ellik. «elli» so'zi o'zbek tilida «ellik» deb tarjima qilinadi."
     },
@@ -12340,6 +12853,7 @@ const turkTili = {
           "text": "«yo'l» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ellik» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — elli. «ellik» so'zining turkcha tarjimasi — «elli»."
     },
@@ -12364,6 +12878,7 @@ const turkTili = {
           "text": "«deraza» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yüz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yuz. «yüz» so'zi o'zbek tilida «yuz» deb tarjima qilinadi."
     },
@@ -12388,6 +12903,7 @@ const turkTili = {
           "text": "«çocuk» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yuz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yüz. «yuz» so'zining turkcha tarjimasi — «yüz»."
     },
@@ -12412,6 +12928,7 @@ const turkTili = {
           "text": "«balki» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««bin» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ming. «bin» so'zi o'zbek tilida «ming» deb tarjima qilinadi."
     },
@@ -12436,6 +12953,7 @@ const turkTili = {
           "text": "«sekin» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ming» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — bin. «ming» so'zining turkcha tarjimasi — «bin»."
     },
@@ -12460,6 +12978,7 @@ const turkTili = {
           "text": "«sonra» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««milyon» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — million. «milyon» so'zi o'zbek tilida «million» deb tarjima qilinadi."
     },
@@ -12484,6 +13003,7 @@ const turkTili = {
           "text": "«gitmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««million» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — milyon. «million» so'zining turkcha tarjimasi — «milyon»."
     },
@@ -12508,6 +13028,7 @@ const turkTili = {
           "text": "«dede» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««sıfır» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — nol. «sıfır» so'zi o'zbek tilida «nol» deb tarjima qilinadi."
     },
@@ -12532,6 +13053,7 @@ const turkTili = {
           "text": "«apelsin» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««nol» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sıfır. «nol» so'zining turkcha tarjimasi — «sıfır»."
     },
@@ -12556,6 +13078,7 @@ const turkTili = {
           "text": "«yarım» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yarım» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yarim. «yarım» so'zi o'zbek tilida «yarim» deb tarjima qilinadi."
     },
@@ -12580,6 +13103,7 @@ const turkTili = {
           "text": "«yarim» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yarim» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yarım. «yarim» so'zining turkcha tarjimasi — «yarım»."
     },
@@ -12604,6 +13128,7 @@ const turkTili = {
           "text": "«çeyrek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««çeyrek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — chorak. «çeyrek» so'zi o'zbek tilida «chorak» deb tarjima qilinadi."
     },
@@ -12628,6 +13153,7 @@ const turkTili = {
           "text": "«yaprak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««chorak» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çeyrek. «chorak» so'zining turkcha tarjimasi — «çeyrek»."
     },
@@ -12652,6 +13178,7 @@ const turkTili = {
           "text": "«dede» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««gün» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kun. «gün» so'zi o'zbek tilida «kun» deb tarjima qilinadi."
     },
@@ -12676,6 +13203,7 @@ const turkTili = {
           "text": "«besh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kun» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — gün. «kun» so'zining turkcha tarjimasi — «gün»."
     },
@@ -12700,6 +13228,7 @@ const turkTili = {
           "text": "«hafta» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««hafta» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — hafta. «hafta» so'zi o'zbek tilida «hafta» deb tarjima qilinadi."
     },
@@ -12724,6 +13253,7 @@ const turkTili = {
           "text": "«kadın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««hafta» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — hafta. «hafta» so'zining turkcha tarjimasi — «hafta»."
     },
@@ -12748,6 +13278,7 @@ const turkTili = {
           "text": "«bobo» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««ay» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oy. «ay» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -12772,6 +13303,7 @@ const turkTili = {
           "text": "«xo'roz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««oy» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — ay. «oy» so'zining turkcha tarjimasi — «ay»."
     },
@@ -12796,6 +13328,7 @@ const turkTili = {
           "text": "«et» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yıl» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yil. «yıl» so'zi o'zbek tilida «yil» deb tarjima qilinadi."
     },
@@ -12820,6 +13353,7 @@ const turkTili = {
           "text": "«yil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yil» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yıl. «yil» so'zining turkcha tarjimasi — «yıl»."
     },
@@ -12844,6 +13378,7 @@ const turkTili = {
           "text": "«su» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««saat» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — soat. «saat» so'zi o'zbek tilida «soat» deb tarjima qilinadi."
     },
@@ -12868,6 +13403,7 @@ const turkTili = {
           "text": "«inek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««soat» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — saat. «soat» so'zining turkcha tarjimasi — «saat»."
     },
@@ -12892,6 +13428,7 @@ const turkTili = {
           "text": "«gece» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««dakika» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daqiqa. «dakika» so'zi o'zbek tilida «daqiqa» deb tarjima qilinadi."
     },
@@ -12916,6 +13453,7 @@ const turkTili = {
           "text": "«pomidor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««daqiqa» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — dakika. «daqiqa» so'zining turkcha tarjimasi — «dakika»."
     },
@@ -12940,6 +13478,7 @@ const turkTili = {
           "text": "«deraza» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««saniye» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — soniya. «saniye» so'zi o'zbek tilida «soniya» deb tarjima qilinadi."
     },
@@ -12964,6 +13503,7 @@ const turkTili = {
           "text": "«palov» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««soniya» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — saniye. «soniya» so'zining turkcha tarjimasi — «saniye»."
     },
@@ -12988,6 +13528,7 @@ const turkTili = {
           "text": "«bormoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sabah» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ertalab. «sabah» so'zi o'zbek tilida «ertalab» deb tarjima qilinadi."
     },
@@ -13012,6 +13553,7 @@ const turkTili = {
           "text": "«ertalab» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ertalab» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sabah. «ertalab» so'zining turkcha tarjimasi — «sabah»."
     },
@@ -13036,6 +13578,7 @@ const turkTili = {
           "text": "«kichik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««öğle» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tushlik. «öğle» so'zi o'zbek tilida «tushlik» deb tarjima qilinadi."
     },
@@ -13060,6 +13603,7 @@ const turkTili = {
           "text": "«altı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tushlik» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — öğle. «tushlik» so'zining turkcha tarjimasi — «öğle»."
     },
@@ -13084,6 +13628,7 @@ const turkTili = {
           "text": "«ona» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««akşam» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kechqurun. «akşam» so'zi o'zbek tilida «kechqurun» deb tarjima qilinadi."
     },
@@ -13108,6 +13653,7 @@ const turkTili = {
           "text": "«kechqurun» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kechqurun» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — akşam. «kechqurun» so'zining turkcha tarjimasi — «akşam»."
     },
@@ -13132,6 +13678,7 @@ const turkTili = {
           "text": "«pencere» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««gece» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tun. «gece» so'zi o'zbek tilida «tun» deb tarjima qilinadi."
     },
@@ -13156,6 +13703,7 @@ const turkTili = {
           "text": "«yaxshi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««tun» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — gece. «tun» so'zining turkcha tarjimasi — «gece»."
     },
@@ -13180,6 +13728,7 @@ const turkTili = {
           "text": "«memnun oldum» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««bugün» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bugun. «bugün» so'zi o'zbek tilida «bugun» deb tarjima qilinadi."
     },
@@ -13204,6 +13753,7 @@ const turkTili = {
           "text": "«abla» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««bugun» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — bugün. «bugun» so'zining turkcha tarjimasi — «bugün»."
     },
@@ -13228,6 +13778,7 @@ const turkTili = {
           "text": "«qari» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yarın» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ertaga. «yarın» so'zi o'zbek tilida «ertaga» deb tarjima qilinadi."
     },
@@ -13252,6 +13803,7 @@ const turkTili = {
           "text": "«ertaga» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ertaga» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yarın. «ertaga» so'zining turkcha tarjimasi — «yarın»."
     },
@@ -13276,6 +13828,7 @@ const turkTili = {
           "text": "«kedi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««dün» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kecha. «dün» so'zi o'zbek tilida «kecha» deb tarjima qilinadi."
     },
@@ -13300,6 +13853,7 @@ const turkTili = {
           "text": "«kecha» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kecha» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — dün. «kecha» so'zining turkcha tarjimasi — «dün»."
     },
@@ -13324,6 +13878,7 @@ const turkTili = {
           "text": "«olma» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««şimdi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — hozir. «şimdi» so'zi o'zbek tilida «hozir» deb tarjima qilinadi."
     },
@@ -13348,6 +13903,7 @@ const turkTili = {
           "text": "«yavaş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««hozir» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — şimdi. «hozir» so'zining turkcha tarjimasi — «şimdi»."
     },
@@ -13372,6 +13928,7 @@ const turkTili = {
           "text": "«köpek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sonra» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — keyin. «sonra» so'zi o'zbek tilida «keyin» deb tarjima qilinadi."
     },
@@ -13396,6 +13953,7 @@ const turkTili = {
           "text": "«büyük» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««keyin» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sonra. «keyin» so'zining turkcha tarjimasi — «sonra»."
     },
@@ -13420,6 +13978,7 @@ const turkTili = {
           "text": "«on» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««önce» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oldin. «önce» so'zi o'zbek tilida «oldin» deb tarjima qilinadi."
     },
@@ -13444,6 +14003,7 @@ const turkTili = {
           "text": "«sekin» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««oldin» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — önce. «oldin» so'zining turkcha tarjimasi — «önce»."
     },
@@ -13468,6 +14028,7 @@ const turkTili = {
           "text": "«tavşan» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««erken» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — erta. «erken» so'zi o'zbek tilida «erta» deb tarjima qilinadi."
     },
@@ -13492,6 +14053,7 @@ const turkTili = {
           "text": "«tulki» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««erta» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — erken. «erta» so'zining turkcha tarjimasi — «erken»."
     },
@@ -13516,6 +14078,7 @@ const turkTili = {
           "text": "«shakar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««geç» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kech. «geç» so'zi o'zbek tilida «kech» deb tarjima qilinadi."
     },
@@ -13540,6 +14103,7 @@ const turkTili = {
           "text": "«kech» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kech» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — geç. «kech» so'zining turkcha tarjimasi — «geç»."
     },
@@ -13564,6 +14128,7 @@ const turkTili = {
           "text": "«do'stlik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««her zaman» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — har doim. «her zaman» so'zi o'zbek tilida «har doim» deb tarjima qilinadi."
     },
@@ -13588,6 +14153,7 @@ const turkTili = {
           "text": "«xayr» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««har doim» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — her zaman. «har doim» so'zining turkcha tarjimasi — «her zaman»."
     },
@@ -13612,6 +14178,7 @@ const turkTili = {
           "text": "«chiroyli» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««su» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — suv. «su» so'zi o'zbek tilida «suv» deb tarjima qilinadi."
     },
@@ -13636,6 +14203,7 @@ const turkTili = {
           "text": "«aslan» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««suv» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — su. «suv» so'zining turkcha tarjimasi — «su»."
     },
@@ -13660,6 +14228,7 @@ const turkTili = {
           "text": "«ateş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ateş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — olov. «ateş» so'zi o'zbek tilida «olov» deb tarjima qilinadi."
     },
@@ -13684,6 +14253,7 @@ const turkTili = {
           "text": "«sog'liq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««olov» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — ateş. «olov» so'zining turkcha tarjimasi — «ateş»."
     },
@@ -13708,6 +14278,7 @@ const turkTili = {
           "text": "«ayı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««toprak» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tuproq. «toprak» so'zi o'zbek tilida «tuproq» deb tarjima qilinadi."
     },
@@ -13732,6 +14303,7 @@ const turkTili = {
           "text": "«kapı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tuproq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — toprak. «tuproq» so'zining turkcha tarjimasi — «toprak»."
     },
@@ -13756,6 +14328,7 @@ const turkTili = {
           "text": "«anne» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««hava» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — havo. «hava» so'zi o'zbek tilida «havo» deb tarjima qilinadi."
     },
@@ -13780,6 +14353,7 @@ const turkTili = {
           "text": "«hasta» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««havo» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — hava. «havo» so'zining turkcha tarjimasi — «hava»."
     },
@@ -13804,6 +14378,7 @@ const turkTili = {
           "text": "«katta» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««güneş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — quyosh. «güneş» so'zi o'zbek tilida «quyosh» deb tarjima qilinadi."
     },
@@ -13828,6 +14403,7 @@ const turkTili = {
           "text": "«soğan» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««quyosh» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — güneş. «quyosh» so'zining turkcha tarjimasi — «güneş»."
     },
@@ -13852,6 +14428,7 @@ const turkTili = {
           "text": "«soğuk» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yıldız» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yulduz. «yıldız» so'zi o'zbek tilida «yulduz» deb tarjima qilinadi."
     },
@@ -13876,6 +14453,7 @@ const turkTili = {
           "text": "«yulduz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yulduz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yıldız. «yulduz» so'zining turkcha tarjimasi — «yıldız»."
     },
@@ -13900,6 +14478,7 @@ const turkTili = {
           "text": "«soniya» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««gökyüzü» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — osmon. «gökyüzü» so'zi o'zbek tilida «osmon» deb tarjima qilinadi."
     },
@@ -13924,6 +14503,7 @@ const turkTili = {
           "text": "«göl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««osmon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — gökyüzü. «osmon» so'zining turkcha tarjimasi — «gökyüzü»."
     },
@@ -13948,6 +14528,7 @@ const turkTili = {
           "text": "«inson» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««deniz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — dengiz. «deniz» so'zi o'zbek tilida «dengiz» deb tarjima qilinadi."
     },
@@ -13972,6 +14553,7 @@ const turkTili = {
           "text": "«içmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««dengiz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — deniz. «dengiz» so'zining turkcha tarjimasi — «deniz»."
     },
@@ -13996,6 +14578,7 @@ const turkTili = {
           "text": "«göl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««göl» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ko'l. «göl» so'zi o'zbek tilida «ko'l» deb tarjima qilinadi."
     },
@@ -14020,6 +14603,7 @@ const turkTili = {
           "text": "«chiroyli» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ko'l» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — göl. «ko'l» so'zining turkcha tarjimasi — «göl»."
     },
@@ -14044,6 +14628,7 @@ const turkTili = {
           "text": "«okul» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««nehir» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daryo. «nehir» so'zi o'zbek tilida «daryo» deb tarjima qilinadi."
     },
@@ -14068,6 +14653,7 @@ const turkTili = {
           "text": "«sandalye» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««daryo» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — nehir. «daryo» so'zining turkcha tarjimasi — «nehir»."
     },
@@ -14092,6 +14678,7 @@ const turkTili = {
           "text": "«sıcak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««dağ» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tog'. «dağ» so'zi o'zbek tilida «tog'» deb tarjima qilinadi."
     },
@@ -14116,6 +14703,7 @@ const turkTili = {
           "text": "«tog'» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««tog'» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — dağ. «tog'» so'zining turkcha tarjimasi — «dağ»."
     },
@@ -14140,6 +14728,7 @@ const turkTili = {
           "text": "«apelsin» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««orman» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'rmon. «orman» so'zi o'zbek tilida «o'rmon» deb tarjima qilinadi."
     },
@@ -14164,6 +14753,7 @@ const turkTili = {
           "text": "«gitmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««o'rmon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — orman. «o'rmon» so'zining turkcha tarjimasi — «orman»."
     },
@@ -14188,6 +14778,7 @@ const turkTili = {
           "text": "«kalem» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ağaç» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daraxt. «ağaç» so'zi o'zbek tilida «daraxt» deb tarjima qilinadi."
     },
@@ -14212,6 +14803,7 @@ const turkTili = {
           "text": "«shahar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««daraxt» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — ağaç. «daraxt» so'zining turkcha tarjimasi — «ağaç»."
     },
@@ -14236,6 +14828,7 @@ const turkTili = {
           "text": "«yomg'ir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««çiçek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — gul. «çiçek» so'zi o'zbek tilida «gul» deb tarjima qilinadi."
     },
@@ -14260,6 +14853,7 @@ const turkTili = {
           "text": "«bugün» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««gul» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çiçek. «gul» so'zining turkcha tarjimasi — «çiçek»."
     },
@@ -14284,6 +14878,7 @@ const turkTili = {
           "text": "«kun» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yaprak» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — barg. «yaprak» so'zi o'zbek tilida «barg» deb tarjima qilinadi."
     },
@@ -14308,6 +14903,7 @@ const turkTili = {
           "text": "«yedi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««barg» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yaprak. «barg» so'zining turkcha tarjimasi — «yaprak»."
     },
@@ -14332,6 +14928,7 @@ const turkTili = {
           "text": "«yüz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««taş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tosh. «taş» so'zi o'zbek tilida «tosh» deb tarjima qilinadi."
     },
@@ -14356,6 +14953,7 @@ const turkTili = {
           "text": "«xohlamoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««tosh» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — taş. «tosh» so'zining turkcha tarjimasi — «taş»."
     },
@@ -14380,6 +14978,7 @@ const turkTili = {
           "text": "«yıldız» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kum» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qum. «kum» so'zi o'zbek tilida «qum» deb tarjima qilinadi."
     },
@@ -14404,6 +15003,7 @@ const turkTili = {
           "text": "«qum» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««qum» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kum. «qum» so'zining turkcha tarjimasi — «kum»."
     },
@@ -14428,6 +15028,7 @@ const turkTili = {
           "text": "«yazmak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yağmur» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yomg'ir. «yağmur» so'zi o'zbek tilida «yomg'ir» deb tarjima qilinadi."
     },
@@ -14452,6 +15053,7 @@ const turkTili = {
           "text": "«sabah» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yomg'ir» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yağmur. «yomg'ir» so'zining turkcha tarjimasi — «yağmur»."
     },
@@ -14476,6 +15078,7 @@ const turkTili = {
           "text": "«do'kon» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kar» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qor. «kar» so'zi o'zbek tilida «qor» deb tarjima qilinadi."
     },
@@ -14500,6 +15103,7 @@ const turkTili = {
           "text": "«yo'lbars» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««qor» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kar. «qor» so'zining turkcha tarjimasi — «kar»."
     },
@@ -14524,6 +15128,7 @@ const turkTili = {
           "text": "«saniye» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««köpek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — it. «köpek» so'zi o'zbek tilida «it» deb tarjima qilinadi."
     },
@@ -14548,6 +15153,7 @@ const turkTili = {
           "text": "«iyiyim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««it» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — köpek. «it» so'zining turkcha tarjimasi — «köpek»."
     },
@@ -14572,6 +15178,7 @@ const turkTili = {
           "text": "«üzüm» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kedi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — mushuk. «kedi» so'zi o'zbek tilida «mushuk» deb tarjima qilinadi."
     },
@@ -14596,6 +15203,7 @@ const turkTili = {
           "text": "«ha» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««mushuk» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kedi. «mushuk» so'zining turkcha tarjimasi — «kedi»."
     },
@@ -14620,6 +15228,7 @@ const turkTili = {
           "text": "«günaydın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««at» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ot. «at» so'zi o'zbek tilida «ot» deb tarjima qilinadi."
     },
@@ -14644,6 +15253,7 @@ const turkTili = {
           "text": "«ot» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ot» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — at. «ot» so'zining turkcha tarjimasi — «at»."
     },
@@ -14668,6 +15278,7 @@ const turkTili = {
           "text": "«görmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««inek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sigir. «inek» so'zi o'zbek tilida «sigir» deb tarjima qilinadi."
     },
@@ -14692,6 +15303,7 @@ const turkTili = {
           "text": "«sigir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««sigir» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — inek. «sigir» so'zining turkcha tarjimasi — «inek»."
     },
@@ -14716,6 +15328,7 @@ const turkTili = {
           "text": "«tilki» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««koyun» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qo'y. «koyun» so'zi o'zbek tilida «qo'y» deb tarjima qilinadi."
     },
@@ -14740,6 +15353,7 @@ const turkTili = {
           "text": "«qo'y» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««qo'y» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — koyun. «qo'y» so'zining turkcha tarjimasi — «koyun»."
     },
@@ -14764,6 +15378,7 @@ const turkTili = {
           "text": "«uzun» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««keçi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — echki. «keçi» so'zi o'zbek tilida «echki» deb tarjima qilinadi."
     },
@@ -14788,6 +15403,7 @@ const turkTili = {
           "text": "«echki» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««echki» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — keçi. «echki» so'zining turkcha tarjimasi — «keçi»."
     },
@@ -14812,6 +15428,7 @@ const turkTili = {
           "text": "«noto'g'ri» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««tavuk» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tovuq. «tavuk» so'zi o'zbek tilida «tovuq» deb tarjima qilinadi."
     },
@@ -14836,6 +15453,7 @@ const turkTili = {
           "text": "«baba» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tovuq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — tavuk. «tovuq» so'zining turkcha tarjimasi — «tavuk»."
     },
@@ -14860,6 +15478,7 @@ const turkTili = {
           "text": "«açık» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««horoz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xo'roz. «horoz» so'zi o'zbek tilida «xo'roz» deb tarjima qilinadi."
     },
@@ -14884,6 +15503,7 @@ const turkTili = {
           "text": "«xo'roz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««xo'roz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — horoz. «xo'roz» so'zining turkcha tarjimasi — «horoz»."
     },
@@ -14908,6 +15528,7 @@ const turkTili = {
           "text": "«ayol» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kuş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qush. «kuş» so'zi o'zbek tilida «qush» deb tarjima qilinadi."
     },
@@ -14932,6 +15553,7 @@ const turkTili = {
           "text": "«qush» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««qush» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kuş. «qush» so'zining turkcha tarjimasi — «kuş»."
     },
@@ -14956,6 +15578,7 @@ const turkTili = {
           "text": "«ko'rmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««balık» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — baliq. «balık» so'zi o'zbek tilida «baliq» deb tarjima qilinadi."
     },
@@ -14980,6 +15603,7 @@ const turkTili = {
           "text": "«ayol» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««baliq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — balık. «baliq» so'zining turkcha tarjimasi — «balık»."
     },
@@ -15004,6 +15628,7 @@ const turkTili = {
           "text": "«askar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««aslan» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sher. «aslan» so'zi o'zbek tilida «sher» deb tarjima qilinadi."
     },
@@ -15028,6 +15653,7 @@ const turkTili = {
           "text": "«sher» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««sher» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — aslan. «sher» so'zining turkcha tarjimasi — «aslan»."
     },
@@ -15052,6 +15678,7 @@ const turkTili = {
           "text": "«yangi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kaplan» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yo'lbars. «kaplan» so'zi o'zbek tilida «yo'lbars» deb tarjima qilinadi."
     },
@@ -15076,6 +15703,7 @@ const turkTili = {
           "text": "«şeker» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yo'lbars» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kaplan. «yo'lbars» so'zining turkcha tarjimasi — «kaplan»."
     },
@@ -15100,6 +15728,7 @@ const turkTili = {
           "text": "«masa» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««fil» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — fil. «fil» so'zi o'zbek tilida «fil» deb tarjima qilinadi."
     },
@@ -15124,6 +15753,7 @@ const turkTili = {
           "text": "«fil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««fil» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — fil. «fil» so'zining turkcha tarjimasi — «fil»."
     },
@@ -15148,6 +15778,7 @@ const turkTili = {
           "text": "«çanta» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ayı» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ayiq. «ayı» so'zi o'zbek tilida «ayiq» deb tarjima qilinadi."
     },
@@ -15172,6 +15803,7 @@ const turkTili = {
           "text": "«non» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ayiq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — ayı. «ayiq» so'zining turkcha tarjimasi — «ayı»."
     },
@@ -15196,6 +15828,7 @@ const turkTili = {
           "text": "«go'sht» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kurt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bo'ri. «kurt» so'zi o'zbek tilida «bo'ri» deb tarjima qilinadi."
     },
@@ -15220,6 +15853,7 @@ const turkTili = {
           "text": "«qor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««bo'ri» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kurt. «bo'ri» so'zining turkcha tarjimasi — «kurt»."
     },
@@ -15244,6 +15878,7 @@ const turkTili = {
           "text": "“Kitap” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tilki» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tulki. «tilki» so'zi o'zbek tilida «tulki» deb tarjima qilinadi."
     },
@@ -15268,6 +15903,7 @@ const turkTili = {
           "text": "«ko'l» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tulki» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — tilki. «tulki» so'zining turkcha tarjimasi — «tilki»."
     },
@@ -15292,6 +15928,7 @@ const turkTili = {
           "text": "«sonra» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tavşan» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — quyon. «tavşan» so'zi o'zbek tilida «quyon» deb tarjima qilinadi."
     },
@@ -15316,6 +15953,7 @@ const turkTili = {
           "text": "«salad» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««quyon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — tavşan. «quyon» so'zining turkcha tarjimasi — «tavşan»."
     },
@@ -15340,6 +15978,7 @@ const turkTili = {
           "text": "«anahtar» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yılan» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ilon. «yılan» so'zi o'zbek tilida «ilon» deb tarjima qilinadi."
     },
@@ -15364,6 +16003,7 @@ const turkTili = {
           "text": "«shakar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ilon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yılan. «ilon» so'zining turkcha tarjimasi — «yılan»."
     },
@@ -15388,6 +16028,7 @@ const turkTili = {
           "text": "«tanishganimdan xursandman» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««arı» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ari. «arı» so'zi o'zbek tilida «ari» deb tarjima qilinadi."
     },
@@ -15412,6 +16053,7 @@ const turkTili = {
           "text": "«göl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ari» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — arı. «ari» so'zining turkcha tarjimasi — «arı»."
     },
@@ -15436,6 +16078,7 @@ const turkTili = {
           "text": "«kelebek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kelebek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kapalak. «kelebek» so'zi o'zbek tilida «kapalak» deb tarjima qilinadi."
     },
@@ -15460,6 +16103,7 @@ const turkTili = {
           "text": "«bin» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kapalak» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kelebek. «kapalak» so'zining turkcha tarjimasi — «kelebek»."
     },
@@ -15484,6 +16128,7 @@ const turkTili = {
           "text": "«ekmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ekmek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — non. «ekmek» so'zi o'zbek tilida «non» deb tarjima qilinadi."
     },
@@ -15508,6 +16153,7 @@ const turkTili = {
           "text": "«non» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««non» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — ekmek. «non» so'zining turkcha tarjimasi — «ekmek»."
     },
@@ -15532,6 +16178,7 @@ const turkTili = {
           "text": "«yarın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««süt» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sut. «süt» so'zi o'zbek tilida «sut» deb tarjima qilinadi."
     },
@@ -15556,6 +16203,7 @@ const turkTili = {
           "text": "«orman» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sut» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — süt. «sut» so'zining turkcha tarjimasi — «süt»."
     },
@@ -15580,6 +16228,7 @@ const turkTili = {
           "text": "«elma» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««çay» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — choy. «çay» so'zi o'zbek tilida «choy» deb tarjima qilinadi."
     },
@@ -15604,6 +16253,7 @@ const turkTili = {
           "text": "«hızlı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««choy» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çay. «choy» so'zining turkcha tarjimasi — «çay»."
     },
@@ -15628,6 +16278,7 @@ const turkTili = {
           "text": "«tuproq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kahve» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qahva. «kahve» so'zi o'zbek tilida «qahva» deb tarjima qilinadi."
     },
@@ -15652,6 +16303,7 @@ const turkTili = {
           "text": "“Kitap” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««qahva» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kahve. «qahva» so'zining turkcha tarjimasi — «kahve»."
     },
@@ -15676,6 +16328,7 @@ const turkTili = {
           "text": "«daftar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««et» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — go'sht. «et» so'zi o'zbek tilida «go'sht» deb tarjima qilinadi."
     },
@@ -15700,6 +16353,7 @@ const turkTili = {
           "text": "«go'sht» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««go'sht» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — et. «go'sht» so'zining turkcha tarjimasi — «et»."
     },
@@ -15724,6 +16378,7 @@ const turkTili = {
           "text": "«tinchlik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««pilav» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — palov. «pilav» so'zi o'zbek tilida «palov» deb tarjima qilinadi."
     },
@@ -15748,6 +16403,7 @@ const turkTili = {
           "text": "«güneş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««palov» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — pilav. «palov» so'zining turkcha tarjimasi — «pilav»."
     },
@@ -15772,6 +16428,7 @@ const turkTili = {
           "text": "«nok» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««çorba» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sho'rva. «çorba» so'zi o'zbek tilida «sho'rva» deb tarjima qilinadi."
     },
@@ -15796,6 +16453,7 @@ const turkTili = {
           "text": "«daqiqa» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««sho'rva» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çorba. «sho'rva» so'zining turkcha tarjimasi — «çorba»."
     },
@@ -15820,6 +16478,7 @@ const turkTili = {
           "text": "«öğle» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««salata» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — salad. «salata» so'zi o'zbek tilida «salad» deb tarjima qilinadi."
     },
@@ -15844,6 +16503,7 @@ const turkTili = {
           "text": "«ayı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««salad» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — salata. «salad» so'zining turkcha tarjimasi — «salata»."
     },
@@ -15868,6 +16528,7 @@ const turkTili = {
           "text": "«kitob» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««meyve» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — meva. «meyve» so'zi o'zbek tilida «meva» deb tarjima qilinadi."
     },
@@ -15892,6 +16553,7 @@ const turkTili = {
           "text": "«it» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««meva» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — meyve. «meva» so'zining turkcha tarjimasi — «meyve»."
     },
@@ -15916,6 +16578,7 @@ const turkTili = {
           "text": "«su» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««elma» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — olma. «elma» so'zi o'zbek tilida «olma» deb tarjima qilinadi."
     },
@@ -15940,6 +16603,7 @@ const turkTili = {
           "text": "«iltimos» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««olma» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — elma. «olma» so'zining turkcha tarjimasi — «elma»."
     },
@@ -15964,6 +16628,7 @@ const turkTili = {
           "text": "«armut» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««armut» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — nok. «armut» so'zi o'zbek tilida «nok» deb tarjima qilinadi."
     },
@@ -15988,6 +16653,7 @@ const turkTili = {
           "text": "«nok» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««nok» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — armut. «nok» so'zining turkcha tarjimasi — «armut»."
     },
@@ -16012,6 +16678,7 @@ const turkTili = {
           "text": "«tuproq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««üzüm» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uzum. «üzüm» so'zi o'zbek tilida «uzum» deb tarjima qilinadi."
     },
@@ -16036,6 +16703,7 @@ const turkTili = {
           "text": "«tog'» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««uzum» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — üzüm. «uzum» so'zining turkcha tarjimasi — «üzüm»."
     },
@@ -16060,6 +16728,7 @@ const turkTili = {
           "text": "«kardeş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««portakal» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — apelsin. «portakal» so'zi o'zbek tilida «apelsin» deb tarjima qilinadi."
     },
@@ -16084,6 +16753,7 @@ const turkTili = {
           "text": "«hayır» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««apelsin» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — portakal. «apelsin» so'zining turkcha tarjimasi — «portakal»."
     },
@@ -16108,6 +16778,7 @@ const turkTili = {
           "text": "«ha» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««muz» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — banan. «muz» so'zi o'zbek tilida «banan» deb tarjima qilinadi."
     },
@@ -16132,6 +16803,7 @@ const turkTili = {
           "text": "«banan» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««banan» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — muz. «banan» so'zining turkcha tarjimasi — «muz»."
     },
@@ -16156,6 +16828,7 @@ const turkTili = {
           "text": "«domates» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««domates» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — pomidor. «domates» so'zi o'zbek tilida «pomidor» deb tarjima qilinadi."
     },
@@ -16180,6 +16853,7 @@ const turkTili = {
           "text": "«pomidor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««pomidor» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — domates. «pomidor» so'zining turkcha tarjimasi — «domates»."
     },
@@ -16204,6 +16878,7 @@ const turkTili = {
           "text": "«patates» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««patates» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kartoshka. «patates» so'zi o'zbek tilida «kartoshka» deb tarjima qilinadi."
     },
@@ -16228,6 +16903,7 @@ const turkTili = {
           "text": "«kartoshka» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kartoshka» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — patates. «kartoshka» so'zining turkcha tarjimasi — «patates»."
     },
@@ -16252,6 +16928,7 @@ const turkTili = {
           "text": "«sho'rva» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««soğan» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — piyoz. «soğan» so'zi o'zbek tilida «piyoz» deb tarjima qilinadi."
     },
@@ -16276,6 +16953,7 @@ const turkTili = {
           "text": "«defter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««piyoz» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — soğan. «piyoz» so'zining turkcha tarjimasi — «soğan»."
     },
@@ -16300,6 +16978,7 @@ const turkTili = {
           "text": "«sevmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««şeker» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — shakar. «şeker» so'zi o'zbek tilida «shakar» deb tarjima qilinadi."
     },
@@ -16324,6 +17003,7 @@ const turkTili = {
           "text": "«toprak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««shakar» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — şeker. «shakar» so'zining turkcha tarjimasi — «şeker»."
     },
@@ -16348,6 +17028,7 @@ const turkTili = {
           "text": "«ev» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ev» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uy. «ev» so'zi o'zbek tilida «uy» deb tarjima qilinadi."
     },
@@ -16372,6 +17053,7 @@ const turkTili = {
           "text": "«istemek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««uy» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — ev. «uy» so'zining turkcha tarjimasi — «ev»."
     },
@@ -16396,6 +17078,7 @@ const turkTili = {
           "text": "«pilav» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kapı» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — eshik. «kapı» so'zi o'zbek tilida «eshik» deb tarjima qilinadi."
     },
@@ -16420,6 +17103,7 @@ const turkTili = {
           "text": "«shakar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««eshik» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kapı. «eshik» so'zining turkcha tarjimasi — «kapı»."
     },
@@ -16444,6 +17128,7 @@ const turkTili = {
           "text": "«pencere» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««pencere» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — deraza. «pencere» so'zi o'zbek tilida «deraza» deb tarjima qilinadi."
     },
@@ -16468,6 +17153,7 @@ const turkTili = {
           "text": "«güle güle» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««deraza» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — pencere. «deraza» so'zining turkcha tarjimasi — «pencere»."
     },
@@ -16492,6 +17178,7 @@ const turkTili = {
           "text": "«bobo» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««masa» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — stol. «masa» so'zi o'zbek tilida «stol» deb tarjima qilinadi."
     },
@@ -16516,6 +17203,7 @@ const turkTili = {
           "text": "«hoş geldiniz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««stol» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — masa. «stol» so'zining turkcha tarjimasi — «masa»."
     },
@@ -16540,6 +17228,7 @@ const turkTili = {
           "text": "«kız» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sandalye» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — stul. «sandalye» so'zi o'zbek tilida «stul» deb tarjima qilinadi."
     },
@@ -16564,6 +17253,7 @@ const turkTili = {
           "text": "«on» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««stul» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sandalye. «stul» so'zining turkcha tarjimasi — «sandalye»."
     },
@@ -16588,6 +17278,7 @@ const turkTili = {
           "text": "«dört» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yatak» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — krovat. «yatak» so'zi o'zbek tilida «krovat» deb tarjima qilinadi."
     },
@@ -16612,6 +17303,7 @@ const turkTili = {
           "text": "«krovat» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««krovat» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yatak. «krovat» so'zining turkcha tarjimasi — «yatak»."
     },
@@ -16636,6 +17328,7 @@ const turkTili = {
           "text": "«salom» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kitap» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kitob. «kitap» so'zi o'zbek tilida «kitob» deb tarjima qilinadi."
     },
@@ -16660,6 +17353,7 @@ const turkTili = {
           "text": "«erkak» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kitob» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kitap. «kitob» so'zining turkcha tarjimasi — «kitap»."
     },
@@ -16684,6 +17378,7 @@ const turkTili = {
           "text": "«to'qqiz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kalem» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qalam. «kalem» so'zi o'zbek tilida «qalam» deb tarjima qilinadi."
     },
@@ -16708,6 +17403,7 @@ const turkTili = {
           "text": "«dostluk» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qalam» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kalem. «qalam» so'zining turkcha tarjimasi — «kalem»."
     },
@@ -16732,6 +17428,7 @@ const turkTili = {
           "text": "«hafta» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««defter» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — daftar. «defter» so'zi o'zbek tilida «daftar» deb tarjima qilinadi."
     },
@@ -16756,6 +17453,7 @@ const turkTili = {
           "text": "«barış» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««daftar» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — defter. «daftar» so'zining turkcha tarjimasi — «defter»."
     },
@@ -16780,6 +17478,7 @@ const turkTili = {
           "text": "«çanta» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««çanta» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sumka. «çanta» so'zi o'zbek tilida «sumka» deb tarjima qilinadi."
     },
@@ -16804,6 +17503,7 @@ const turkTili = {
           "text": "«yil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sumka» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çanta. «sumka» so'zining turkcha tarjimasi — «çanta»."
     },
@@ -16828,6 +17528,7 @@ const turkTili = {
           "text": "«bir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««anahtar» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kalit. «anahtar» so'zi o'zbek tilida «kalit» deb tarjima qilinadi."
     },
@@ -16852,6 +17553,7 @@ const turkTili = {
           "text": "«baliq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kalit» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — anahtar. «kalit» so'zining turkcha tarjimasi — «anahtar»."
     },
@@ -16876,6 +17578,7 @@ const turkTili = {
           "text": "«kambag'al» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««telefon» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — telefon. «telefon» so'zi o'zbek tilida «telefon» deb tarjima qilinadi."
     },
@@ -16900,6 +17603,7 @@ const turkTili = {
           "text": "«memnun oldum» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««telefon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — telefon. «telefon» so'zining turkcha tarjimasi — «telefon»."
     },
@@ -16924,6 +17628,7 @@ const turkTili = {
           "text": "«bilgisayar» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««bilgisayar» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kompyuter. «bilgisayar» so'zi o'zbek tilida «kompyuter» deb tarjima qilinadi."
     },
@@ -16948,6 +17653,7 @@ const turkTili = {
           "text": "«erken» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kompyuter» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — bilgisayar. «kompyuter» so'zining turkcha tarjimasi — «bilgisayar»."
     },
@@ -16972,6 +17678,7 @@ const turkTili = {
           "text": "«araba» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««araba» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — mashina. «araba» so'zi o'zbek tilida «mashina» deb tarjima qilinadi."
     },
@@ -16996,6 +17703,7 @@ const turkTili = {
           "text": "«yaxshi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««mashina» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — araba. «mashina» so'zining turkcha tarjimasi — «araba»."
     },
@@ -17020,6 +17728,7 @@ const turkTili = {
           "text": "«şehir» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yol» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yo'l. «yol» so'zi o'zbek tilida «yo'l» deb tarjima qilinadi."
     },
@@ -17044,6 +17753,7 @@ const turkTili = {
           "text": "«mühendis» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yo'l» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yol. «yo'l» so'zining turkcha tarjimasi — «yol»."
     },
@@ -17068,6 +17778,7 @@ const turkTili = {
           "text": "«toprak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««şehir» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — shahar. «şehir» so'zi o'zbek tilida «shahar» deb tarjima qilinadi."
     },
@@ -17092,6 +17803,7 @@ const turkTili = {
           "text": "«shahar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««shahar» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — şehir. «shahar» so'zining turkcha tarjimasi — «şehir»."
     },
@@ -17116,6 +17828,7 @@ const turkTili = {
           "text": "«üzgün» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««köy» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qishloq. «köy» so'zi o'zbek tilida «qishloq» deb tarjima qilinadi."
     },
@@ -17140,6 +17853,7 @@ const turkTili = {
           "text": "«besh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««qishloq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — köy. «qishloq» so'zining turkcha tarjimasi — «köy»."
     },
@@ -17164,6 +17878,7 @@ const turkTili = {
           "text": "«qiyin» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««okul» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — maktab. «okul» so'zi o'zbek tilida «maktab» deb tarjima qilinadi."
     },
@@ -17188,6 +17903,7 @@ const turkTili = {
           "text": "«süt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««maktab» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — okul. «maktab» so'zining turkcha tarjimasi — «okul»."
     },
@@ -17212,6 +17928,7 @@ const turkTili = {
           "text": "«kırk» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««hastane» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kasallikxona. «hastane» so'zi o'zbek tilida «kasallikxona» deb tarjima qilinadi."
     },
@@ -17236,6 +17953,7 @@ const turkTili = {
           "text": "«sevmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««kasallikxona» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — hastane. «kasallikxona» so'zining turkcha tarjimasi — «hastane»."
     },
@@ -17260,6 +17978,7 @@ const turkTili = {
           "text": "«kadın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««market» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — do'kon. «market» so'zi o'zbek tilida «do'kon» deb tarjima qilinadi."
     },
@@ -17284,6 +18003,7 @@ const turkTili = {
           "text": "«yo'lbars» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««do'kon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — market. «do'kon» so'zining turkcha tarjimasi — «market»."
     },
@@ -17308,6 +18028,7 @@ const turkTili = {
           "text": "«içmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««gitmek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bormoq. «gitmek» so'zi o'zbek tilida «bormoq» deb tarjima qilinadi."
     },
@@ -17332,6 +18053,7 @@ const turkTili = {
           "text": "«salom» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««bormoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — gitmek. «bormoq» so'zining turkcha tarjimasi — «gitmek»."
     },
@@ -17356,6 +18078,7 @@ const turkTili = {
           "text": "«echki» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««gelmek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kelmoq. «gelmek» so'zi o'zbek tilida «kelmoq» deb tarjima qilinadi."
     },
@@ -17380,6 +18103,7 @@ const turkTili = {
           "text": "«bir dakika» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kelmoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — gelmek. «kelmoq» so'zining turkcha tarjimasi — «gelmek»."
     },
@@ -17404,6 +18128,7 @@ const turkTili = {
           "text": "«kardeş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yemek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yemoq. «yemek» so'zi o'zbek tilida «yemoq» deb tarjima qilinadi."
     },
@@ -17428,6 +18153,7 @@ const turkTili = {
           "text": "«yemoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yemoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yemek. «yemoq» so'zining turkcha tarjimasi — «yemek»."
     },
@@ -17452,6 +18178,7 @@ const turkTili = {
           "text": "«elma» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««içmek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ichmoq. «içmek» so'zi o'zbek tilida «ichmoq» deb tarjima qilinadi."
     },
@@ -17476,6 +18203,7 @@ const turkTili = {
           "text": "«ichmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««ichmoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — içmek. «ichmoq» so'zining turkcha tarjimasi — «içmek»."
     },
@@ -17500,6 +18228,7 @@ const turkTili = {
           "text": "«bugun» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««okumak» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — o'qimoq. «okumak» so'zi o'zbek tilida «o'qimoq» deb tarjima qilinadi."
     },
@@ -17524,6 +18253,7 @@ const turkTili = {
           "text": "«o'qimoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««o'qimoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — okumak. «o'qimoq» so'zining turkcha tarjimasi — «okumak»."
     },
@@ -17548,6 +18278,7 @@ const turkTili = {
           "text": "«xo'roz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yazmak» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yozmoq. «yazmak» so'zi o'zbek tilida «yozmoq» deb tarjima qilinadi."
     },
@@ -17572,6 +18303,7 @@ const turkTili = {
           "text": "«sevgi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yozmoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yazmak. «yozmoq» so'zining turkcha tarjimasi — «yazmak»."
     },
@@ -17596,6 +18328,7 @@ const turkTili = {
           "text": "«aka yoki uka» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««görmek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ko'rmoq. «görmek» so'zi o'zbek tilida «ko'rmoq» deb tarjima qilinadi."
     },
@@ -17620,6 +18353,7 @@ const turkTili = {
           "text": "«olov» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««ko'rmoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — görmek. «ko'rmoq» so'zining turkcha tarjimasi — «görmek»."
     },
@@ -17644,6 +18378,7 @@ const turkTili = {
           "text": "«keçi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««bilmek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — bilmoq. «bilmek» so'zi o'zbek tilida «bilmoq» deb tarjima qilinadi."
     },
@@ -17668,6 +18403,7 @@ const turkTili = {
           "text": "«bilmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««bilmoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — bilmek. «bilmoq» so'zining turkcha tarjimasi — «bilmek»."
     },
@@ -17692,6 +18428,7 @@ const turkTili = {
           "text": "«günaydın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««istemek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xohlamoq. «istemek» so'zi o'zbek tilida «xohlamoq» deb tarjima qilinadi."
     },
@@ -17716,6 +18453,7 @@ const turkTili = {
           "text": "«dört» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««xohlamoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — istemek. «xohlamoq» so'zining turkcha tarjimasi — «istemek»."
     },
@@ -17740,6 +18478,7 @@ const turkTili = {
           "text": "«kız» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sevmek» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sevmoq. «sevmek» so'zi o'zbek tilida «sevmoq» deb tarjima qilinadi."
     },
@@ -17764,6 +18503,7 @@ const turkTili = {
           "text": "«fil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sevmoq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sevmek. «sevmoq» so'zining turkcha tarjimasi — «sevmek»."
     },
@@ -17788,6 +18528,7 @@ const turkTili = {
           "text": "«büyük» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««büyük» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — katta. «büyük» so'zi o'zbek tilida «katta» deb tarjima qilinadi."
     },
@@ -17812,6 +18553,7 @@ const turkTili = {
           "text": "«xayrli tong» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««katta» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — büyük. «katta» so'zining turkcha tarjimasi — «büyük»."
     },
@@ -17836,6 +18578,7 @@ const turkTili = {
           "text": "«küçük» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««küçük» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kichik. «küçük» so'zi o'zbek tilida «kichik» deb tarjima qilinadi."
     },
@@ -17860,6 +18603,7 @@ const turkTili = {
           "text": "«adam» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kichik» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — küçük. «kichik» so'zining turkcha tarjimasi — «küçük»."
     },
@@ -17884,6 +18628,7 @@ const turkTili = {
           "text": "«daraxt» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««iyi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yaxshi. «iyi» so'zi o'zbek tilida «yaxshi» deb tarjima qilinadi."
     },
@@ -17908,6 +18653,7 @@ const turkTili = {
           "text": "«yaxshi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yaxshi» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — iyi. «yaxshi» so'zining turkcha tarjimasi — «iyi»."
     },
@@ -17932,6 +18678,7 @@ const turkTili = {
           "text": "«kötü» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kötü» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yomon. «kötü» so'zi o'zbek tilida «yomon» deb tarjima qilinadi."
     },
@@ -17956,6 +18703,7 @@ const turkTili = {
           "text": "«genç» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yomon» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kötü. «yomon» so'zining turkcha tarjimasi — «kötü»."
     },
@@ -17980,6 +18728,7 @@ const turkTili = {
           "text": "«inek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yeni» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yangi. «yeni» so'zi o'zbek tilida «yangi» deb tarjima qilinadi."
     },
@@ -18004,6 +18753,7 @@ const turkTili = {
           "text": "«tulki» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««yangi» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yeni. «yangi» so'zining turkcha tarjimasi — «yeni»."
     },
@@ -18028,6 +18778,7 @@ const turkTili = {
           "text": "«yetti» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««eski» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — eski. «eski» so'zi o'zbek tilida «eski» deb tarjima qilinadi."
     },
@@ -18052,6 +18803,7 @@ const turkTili = {
           "text": "«market» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««eski» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — eski. «eski» so'zining turkcha tarjimasi — «eski»."
     },
@@ -18076,6 +18828,7 @@ const turkTili = {
           "text": "«güzel» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««güzel» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — chiroyli. «güzel» so'zi o'zbek tilida «chiroyli» deb tarjima qilinadi."
     },
@@ -18100,6 +18853,7 @@ const turkTili = {
           "text": "«bir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««chiroyli» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — güzel. «chiroyli» so'zining turkcha tarjimasi — «güzel»."
     },
@@ -18124,6 +18878,7 @@ const turkTili = {
           "text": "«çirkin» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««çirkin» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xunuk. «çirkin» so'zi o'zbek tilida «xunuk» deb tarjima qilinadi."
     },
@@ -18148,6 +18903,7 @@ const turkTili = {
           "text": "«inson» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««xunuk» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — çirkin. «xunuk» so'zining turkcha tarjimasi — «çirkin»."
     },
@@ -18172,6 +18928,7 @@ const turkTili = {
           "text": "«to'qqiz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««sıcak» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — issiq. «sıcak» so'zi o'zbek tilida «issiq» deb tarjima qilinadi."
     },
@@ -18196,6 +18953,7 @@ const turkTili = {
           "text": "«hastane» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««issiq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sıcak. «issiq» so'zining turkcha tarjimasi — «sıcak»."
     },
@@ -18220,6 +18978,7 @@ const turkTili = {
           "text": "«teşekkür ederim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««soğuk» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sovuq. «soğuk» so'zi o'zbek tilida «sovuq» deb tarjima qilinadi."
     },
@@ -18244,6 +19003,7 @@ const turkTili = {
           "text": "«sovuq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««sovuq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — soğuk. «sovuq» so'zining turkcha tarjimasi — «soğuk»."
     },
@@ -18268,6 +19028,7 @@ const turkTili = {
           "text": "«açık» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««açık» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — ochiq. «açık» so'zi o'zbek tilida «ochiq» deb tarjima qilinadi."
     },
@@ -18292,6 +19053,7 @@ const turkTili = {
           "text": "«otuz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««ochiq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — açık. «ochiq» so'zining turkcha tarjimasi — «açık»."
     },
@@ -18316,6 +19078,7 @@ const turkTili = {
           "text": "«bilgisayar» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kapalı» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yopiq. «kapalı» so'zi o'zbek tilida «yopiq» deb tarjima qilinadi."
     },
@@ -18340,6 +19103,7 @@ const turkTili = {
           "text": "«yopiq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yopiq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kapalı. «yopiq» so'zining turkcha tarjimasi — «kapalı»."
     },
@@ -18364,6 +19128,7 @@ const turkTili = {
           "text": "«kuchli» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««uzun» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — uzun. «uzun» so'zi o'zbek tilida «uzun» deb tarjima qilinadi."
     },
@@ -18388,6 +19153,7 @@ const turkTili = {
           "text": "«eshik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««uzun» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — uzun. «uzun» so'zining turkcha tarjimasi — «uzun»."
     },
@@ -18412,6 +19178,7 @@ const turkTili = {
           "text": "«elma» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kısa» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qisqa. «kısa» so'zi o'zbek tilida «qisqa» deb tarjima qilinadi."
     },
@@ -18436,6 +19203,7 @@ const turkTili = {
           "text": "«arkadaş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««qisqa» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kısa. «qisqa» so'zining turkcha tarjimasi — «kısa»."
     },
@@ -18460,6 +19228,7 @@ const turkTili = {
           "text": "«hızlı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««hızlı» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tez. «hızlı» so'zi o'zbek tilida «tez» deb tarjima qilinadi."
     },
@@ -18484,6 +19253,7 @@ const turkTili = {
           "text": "«okul» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««tez» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — hızlı. «tez» so'zining turkcha tarjimasi — «hızlı»."
     },
@@ -18508,6 +19278,7 @@ const turkTili = {
           "text": "«yavaş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««yavaş» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sekin. «yavaş» so'zi o'zbek tilida «sekin» deb tarjima qilinadi."
     },
@@ -18532,6 +19303,7 @@ const turkTili = {
           "text": "«günaydın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sekin» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yavaş. «sekin» so'zining turkcha tarjimasi — «yavaş»."
     },
@@ -18556,6 +19328,7 @@ const turkTili = {
           "text": "«kolay» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kolay» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — oson. «kolay» so'zi o'zbek tilida «oson» deb tarjima qilinadi."
     },
@@ -18580,6 +19353,7 @@ const turkTili = {
           "text": "«oson» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««oson» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — kolay. «oson» so'zining turkcha tarjimasi — «kolay»."
     },
@@ -18604,6 +19378,7 @@ const turkTili = {
           "text": "«zor» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««zor» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qiyin. «zor» so'zi o'zbek tilida «qiyin» deb tarjima qilinadi."
     },
@@ -18628,6 +19403,7 @@ const turkTili = {
           "text": "«yatak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««qiyin» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — zor. «qiyin» so'zining turkcha tarjimasi — «zor»."
     },
@@ -18652,6 +19428,7 @@ const turkTili = {
           "text": "«o'quvchi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««doğru» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — to'g'ri. «doğru» so'zi o'zbek tilida «to'g'ri» deb tarjima qilinadi."
     },
@@ -18676,6 +19453,7 @@ const turkTili = {
           "text": "«salom» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««to'g'ri» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — doğru. «to'g'ri» so'zining turkcha tarjimasi — «doğru»."
     },
@@ -18700,6 +19478,7 @@ const turkTili = {
           "text": "«akşam» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««yanlış» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — noto'g'ri. «yanlış» so'zi o'zbek tilida «noto'g'ri» deb tarjima qilinadi."
     },
@@ -18724,6 +19503,7 @@ const turkTili = {
           "text": "«çiçek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««noto'g'ri» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yanlış. «noto'g'ri» so'zining turkcha tarjimasi — «yanlış»."
     },
@@ -18748,6 +19528,7 @@ const turkTili = {
           "text": "«mutlu» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««mutlu» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xursand. «mutlu» so'zi o'zbek tilida «xursand» deb tarjima qilinadi."
     },
@@ -18772,6 +19553,7 @@ const turkTili = {
           "text": "«eshik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««xursand» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — mutlu. «xursand» so'zining turkcha tarjimasi — «mutlu»."
     },
@@ -18796,6 +19578,7 @@ const turkTili = {
           "text": "«kız» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««üzgün» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — xafa. «üzgün» so'zi o'zbek tilida «xafa» deb tarjima qilinadi."
     },
@@ -18820,6 +19603,7 @@ const turkTili = {
           "text": "«xafa» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««xafa» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — üzgün. «xafa» so'zining turkcha tarjimasi — «üzgün»."
     },
@@ -18844,6 +19628,7 @@ const turkTili = {
           "text": "«üzgün» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««zengin» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — boy. «zengin» so'zi o'zbek tilida «boy» deb tarjima qilinadi."
     },
@@ -18868,6 +19653,7 @@ const turkTili = {
           "text": "«balık» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««boy» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — zengin. «boy» so'zining turkcha tarjimasi — «zengin»."
     },
@@ -18892,6 +19678,7 @@ const turkTili = {
           "text": "«fakir» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««fakir» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kambag'al. «fakir» so'zi o'zbek tilida «kambag'al» deb tarjima qilinadi."
     },
@@ -18916,6 +19703,7 @@ const turkTili = {
           "text": "«kambag'al» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««kambag'al» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — fakir. «kambag'al» so'zining turkcha tarjimasi — «fakir»."
     },
@@ -18940,6 +19728,7 @@ const turkTili = {
           "text": "«o'n» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««genç» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — yosh. «genç» so'zi o'zbek tilida «yosh» deb tarjima qilinadi."
     },
@@ -18964,6 +19753,7 @@ const turkTili = {
           "text": "Zamonaviy turk alifbosida nechta harf bor?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yosh» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — genç. «yosh» so'zining turkcha tarjimasi — «genç»."
     },
@@ -18988,6 +19778,7 @@ const turkTili = {
           "text": "«o'g'il» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««yaşlı» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — qari. «yaşlı» so'zi o'zbek tilida «qari» deb tarjima qilinadi."
     },
@@ -19012,6 +19803,7 @@ const turkTili = {
           "text": "«rahmat» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««qari» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — yaşlı. «qari» so'zining turkcha tarjimasi — «yaşlı»."
     },
@@ -19036,6 +19828,7 @@ const turkTili = {
           "text": "«dokuz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««insan» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — inson. «insan» so'zi o'zbek tilida «inson» deb tarjima qilinadi."
     },
@@ -19060,6 +19853,7 @@ const turkTili = {
           "text": "«boy» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««inson» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — insan. «inson» so'zining turkcha tarjimasi — «insan»."
     },
@@ -19084,6 +19878,7 @@ const turkTili = {
           "text": "«bilmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "««dostluk» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — do'stlik. «dostluk» so'zi o'zbek tilida «do'stlik» deb tarjima qilinadi."
     },
@@ -19108,6 +19903,7 @@ const turkTili = {
           "text": "«bin» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««do'stlik» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — dostluk. «do'stlik» so'zining turkcha tarjimasi — «dostluk»."
     },
@@ -19132,6 +19928,7 @@ const turkTili = {
           "text": "«sevgi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««sevgi» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sevgi. «sevgi» so'zi o'zbek tilida «sevgi» deb tarjima qilinadi."
     },
@@ -19156,6 +19953,7 @@ const turkTili = {
           "text": "«barış» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««sevgi» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sevgi. «sevgi» so'zining turkcha tarjimasi — «sevgi»."
     },
@@ -19180,6 +19978,7 @@ const turkTili = {
           "text": "«barış» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««barış» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — tinchlik. «barış» so'zi o'zbek tilida «tinchlik» deb tarjima qilinadi."
     },
@@ -19204,6 +20003,7 @@ const turkTili = {
           "text": "«bir daqiqa» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««tinchlik» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — barış. «tinchlik» so'zining turkcha tarjimasi — «barış»."
     },
@@ -19228,6 +20028,7 @@ const turkTili = {
           "text": "«sağlık» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««sağlık» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — sog'liq. «sağlık» so'zi o'zbek tilida «sog'liq» deb tarjima qilinadi."
     },
@@ -19252,6 +20053,7 @@ const turkTili = {
           "text": "«özür dilerim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««sog'liq» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — sağlık. «sog'liq» so'zining turkcha tarjimasi — «sağlık»."
     },
@@ -19276,6 +20078,7 @@ const turkTili = {
           "text": "«hasta» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««hasta» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kasal. «hasta» so'zi o'zbek tilida «kasal» deb tarjima qilinadi."
     },
@@ -19300,6 +20103,7 @@ const turkTili = {
           "text": "«isming nima» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "««kasal» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — hasta. «kasal» so'zining turkcha tarjimasi — «hasta»."
     },
@@ -19324,6 +20128,7 @@ const turkTili = {
           "text": "«güçlü» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "««güçlü» so'zining o'zbekcha tarjimasi qaysi?» savolining to'g'ri javobi — kuchli. «güçlü» so'zi o'zbek tilida «kuchli» deb tarjima qilinadi."
     },
@@ -19348,6 +20153,7 @@ const turkTili = {
           "text": "«isming nima» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "««kuchli» so'zining turkcha tarjimasi qaysi?» savolining to'g'ri javobi — güçlü. «kuchli» so'zining turkcha tarjimasi — «güçlü»."
     },
@@ -19372,6 +20178,7 @@ const turkTili = {
           "text": "«iltimos» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "To'g'ri javob: Salom."
     },
@@ -19396,6 +20203,7 @@ const turkTili = {
           "text": "«sevgi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "To'g'ri javob: Rahmat."
     },
@@ -19420,6 +20228,7 @@ const turkTili = {
           "text": "«ayiq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "To'g'ri javob: 29."
     },
@@ -19444,6 +20253,7 @@ const turkTili = {
           "text": "«domates» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "To'g'ri javob: Kitob."
     },
@@ -19468,6 +20278,7 @@ const turkTili = {
           "text": "«bilmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«merhaba» so'zi o'zbek tilida «salom» deb tarjima qilinadi."
     },
@@ -19492,6 +20303,7 @@ const turkTili = {
           "text": "«mushuk» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«salom» so'zining turkcha tarjimasi — «merhaba»."
     },
@@ -19516,6 +20328,7 @@ const turkTili = {
           "text": "«günaydın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«günaydın» so'zi o'zbek tilida «xayrli tong» deb tarjima qilinadi."
     },
@@ -19540,6 +20353,7 @@ const turkTili = {
           "text": "«o'g'il» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xayrli tong» so'zining turkcha tarjimasi — «günaydın»."
     },
@@ -19564,6 +20378,7 @@ const turkTili = {
           "text": "«iyi akşamlar» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«iyi akşamlar» so'zi o'zbek tilida «xayrli kech» deb tarjima qilinadi."
     },
@@ -19588,6 +20403,7 @@ const turkTili = {
           "text": "«xayrli kech» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«xayrli kech» so'zining turkcha tarjimasi — «iyi akşamlar»."
     },
@@ -19612,6 +20428,7 @@ const turkTili = {
           "text": "«soniya» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«hoş geldiniz» so'zi o'zbek tilida «xush kelibsiz» deb tarjima qilinadi."
     },
@@ -19636,6 +20453,7 @@ const turkTili = {
           "text": "«ona» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«xush kelibsiz» so'zining turkcha tarjimasi — «hoş geldiniz»."
     },
@@ -19660,6 +20478,7 @@ const turkTili = {
           "text": "«üzgün» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«teşekkür ederim» so'zi o'zbek tilida «rahmat» deb tarjima qilinadi."
     },
@@ -19684,6 +20503,7 @@ const turkTili = {
           "text": "«eski» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«rahmat» so'zining turkcha tarjimasi — «teşekkür ederim»."
     },
@@ -19708,6 +20528,7 @@ const turkTili = {
           "text": "«uch» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«lütfen» so'zi o'zbek tilida «iltimos» deb tarjima qilinadi."
     },
@@ -19732,6 +20553,7 @@ const turkTili = {
           "text": "«zengin» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«iltimos» so'zining turkcha tarjimasi — «lütfen»."
     },
@@ -19756,6 +20578,7 @@ const turkTili = {
           "text": "«evet» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«evet» so'zi o'zbek tilida «ha» deb tarjima qilinadi."
     },
@@ -19780,6 +20603,7 @@ const turkTili = {
           "text": "«sevgi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ha» so'zining turkcha tarjimasi — «evet»."
     },
@@ -19804,6 +20628,7 @@ const turkTili = {
           "text": "«yil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«hayır» so'zi o'zbek tilida «yo'q» deb tarjima qilinadi."
     },
@@ -19828,6 +20653,7 @@ const turkTili = {
           "text": "«stol» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yo'q» so'zining turkcha tarjimasi — «hayır»."
     },
@@ -19852,6 +20678,7 @@ const turkTili = {
           "text": "«gitmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«belki» so'zi o'zbek tilida «balki» deb tarjima qilinadi."
     },
@@ -19876,6 +20703,7 @@ const turkTili = {
           "text": "«uch» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«balki» so'zining turkcha tarjimasi — «belki»."
     },
@@ -19900,6 +20728,7 @@ const turkTili = {
           "text": "«kardeş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tamam» so'zi o'zbek tilida «tayyor» deb tarjima qilinadi."
     },
@@ -19924,6 +20753,7 @@ const turkTili = {
           "text": "«tez» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«tayyor» so'zining turkcha tarjimasi — «tamam»."
     },
@@ -19948,6 +20778,7 @@ const turkTili = {
           "text": "«soniya» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«nasılsın» so'zi o'zbek tilida «qalaysan» deb tarjima qilinadi."
     },
@@ -19972,6 +20803,7 @@ const turkTili = {
           "text": "«tovuq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«qalaysan» so'zining turkcha tarjimasi — «nasılsın»."
     },
@@ -19996,6 +20828,7 @@ const turkTili = {
           "text": "«iyiyim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«iyiyim» so'zi o'zbek tilida «yaxshiman» deb tarjima qilinadi."
     },
@@ -20020,6 +20853,7 @@ const turkTili = {
           "text": "«salata» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yaxshiman» so'zining turkcha tarjimasi — «iyiyim»."
     },
@@ -20044,6 +20878,7 @@ const turkTili = {
           "text": "«dengiz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«adın ne» so'zi o'zbek tilida «isming nima» deb tarjima qilinadi."
     },
@@ -20068,6 +20903,7 @@ const turkTili = {
           "text": "«chorak» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«isming nima» so'zining turkcha tarjimasi — «adın ne»."
     },
@@ -20092,6 +20928,7 @@ const turkTili = {
           "text": "«köy» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«benim adım» so'zi o'zbek tilida «mening ismim» deb tarjima qilinadi."
     },
@@ -20116,6 +20953,7 @@ const turkTili = {
           "text": "«telefon» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«mening ismim» so'zining turkcha tarjimasi — «benim adım»."
     },
@@ -20140,6 +20978,7 @@ const turkTili = {
           "text": "«shakar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«memnun oldum» so'zi o'zbek tilida «tanishganimdan xursandman» deb tarjima qilinadi."
     },
@@ -20164,6 +21003,7 @@ const turkTili = {
           "text": "«tanishganimdan xursandman» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tanishganimdan xursandman» so'zining turkcha tarjimasi — «memnun oldum»."
     },
@@ -20188,6 +21028,7 @@ const turkTili = {
           "text": "«piyoz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«görüşürüz» so'zi o'zbek tilida «kelishguncha» deb tarjima qilinadi."
     },
@@ -20212,6 +21053,7 @@ const turkTili = {
           "text": "«toprak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kelishguncha» so'zining turkcha tarjimasi — «görüşürüz»."
     },
@@ -20236,6 +21078,7 @@ const turkTili = {
           "text": "«qiyin» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«güle güle» so'zi o'zbek tilida «xayr» deb tarjima qilinadi."
     },
@@ -20260,6 +21103,7 @@ const turkTili = {
           "text": "«kedi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«xayr» so'zining turkcha tarjimasi — «güle güle»."
     },
@@ -20284,6 +21128,7 @@ const turkTili = {
           "text": "«kurt» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«özür dilerim» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -20308,6 +21153,7 @@ const turkTili = {
           "text": "«araba» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kechirasiz» so'zining turkcha tarjimasi — «özür dilerim»."
     },
@@ -20332,6 +21178,7 @@ const turkTili = {
           "text": "«deraza» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«affedersiniz» so'zi o'zbek tilida «kechirasiz» deb tarjima qilinadi."
     },
@@ -20356,6 +21203,7 @@ const turkTili = {
           "text": "«asker» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bir dakika» so'zi o'zbek tilida «bir daqiqa» deb tarjima qilinadi."
     },
@@ -20380,6 +21228,7 @@ const turkTili = {
           "text": "«erta» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bir daqiqa» so'zining turkcha tarjimasi — «bir dakika»."
     },
@@ -20404,6 +21253,7 @@ const turkTili = {
           "text": "«xayrli kech» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«anne» so'zi o'zbek tilida «ona» deb tarjima qilinadi."
     },
@@ -20428,6 +21278,7 @@ const turkTili = {
           "text": "«tovuq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ona» so'zining turkcha tarjimasi — «anne»."
     },
@@ -20452,6 +21303,7 @@ const turkTili = {
           "text": "«kitob» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«baba» so'zi o'zbek tilida «ota» deb tarjima qilinadi."
     },
@@ -20476,6 +21328,7 @@ const turkTili = {
           "text": "«do'stlik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ota» so'zining turkcha tarjimasi — «baba»."
     },
@@ -20500,6 +21353,7 @@ const turkTili = {
           "text": "«eshik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kardeş» so'zi o'zbek tilida «aka yoki uka» deb tarjima qilinadi."
     },
@@ -20524,6 +21378,7 @@ const turkTili = {
           "text": "«aka yoki uka» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«aka yoki uka» so'zining turkcha tarjimasi — «kardeş»."
     },
@@ -20548,6 +21403,7 @@ const turkTili = {
           "text": "«oson» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«abla» so'zi o'zbek tilida «opa» deb tarjima qilinadi."
     },
@@ -20572,6 +21428,7 @@ const turkTili = {
           "text": "«opa» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«opa» so'zining turkcha tarjimasi — «abla»."
     },
@@ -20596,6 +21453,7 @@ const turkTili = {
           "text": "«istemek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ağabey» so'zi o'zbek tilida «aka» deb tarjima qilinadi."
     },
@@ -20620,6 +21478,7 @@ const turkTili = {
           "text": "«aka» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«aka» so'zining turkcha tarjimasi — «ağabey»."
     },
@@ -20644,6 +21503,7 @@ const turkTili = {
           "text": "«pencere» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dede» so'zi o'zbek tilida «bobo» deb tarjima qilinadi."
     },
@@ -20668,6 +21528,7 @@ const turkTili = {
           "text": "«bobo» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bobo» so'zining turkcha tarjimasi — «dede»."
     },
@@ -20692,6 +21553,7 @@ const turkTili = {
           "text": "«önce» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«nine» so'zi o'zbek tilida «buvi» deb tarjima qilinadi."
     },
@@ -20716,6 +21578,7 @@ const turkTili = {
           "text": "«ot» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«buvi» so'zining turkcha tarjimasi — «nine»."
     },
@@ -20740,6 +21603,7 @@ const turkTili = {
           "text": "«yatak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«oğul» so'zi o'zbek tilida «o'g'il» deb tarjima qilinadi."
     },
@@ -20764,6 +21628,7 @@ const turkTili = {
           "text": "«ha» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«o'g'il» so'zining turkcha tarjimasi — «oğul»."
     },
@@ -20788,6 +21653,7 @@ const turkTili = {
           "text": "«yil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kız» so'zi o'zbek tilida «qiz» deb tarjima qilinadi."
     },
@@ -20812,6 +21678,7 @@ const turkTili = {
           "text": "«kapı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«qiz» so'zining turkcha tarjimasi — «kız»."
     },
@@ -20836,6 +21703,7 @@ const turkTili = {
           "text": "«uy» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«çocuk» so'zi o'zbek tilida «bola» deb tarjima qilinadi."
     },
@@ -20860,6 +21728,7 @@ const turkTili = {
           "text": "«teşekkür ederim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bola» so'zining turkcha tarjimasi — «çocuk»."
     },
@@ -20884,6 +21753,7 @@ const turkTili = {
           "text": "«tun» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«adam» so'zi o'zbek tilida «erkak» deb tarjima qilinadi."
     },
@@ -20908,6 +21778,7 @@ const turkTili = {
           "text": "«uzum» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«erkak» so'zining turkcha tarjimasi — «adam»."
     },
@@ -20932,6 +21803,7 @@ const turkTili = {
           "text": "«bir daqiqa» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kadın» so'zi o'zbek tilida «ayol» deb tarjima qilinadi."
     },
@@ -20956,6 +21828,7 @@ const turkTili = {
           "text": "«ayol» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ayol» so'zining turkcha tarjimasi — «kadın»."
     },
@@ -20980,6 +21853,7 @@ const turkTili = {
           "text": "«doğru» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«arkadaş» so'zi o'zbek tilida «do'st» deb tarjima qilinadi."
     },
@@ -21004,6 +21878,7 @@ const turkTili = {
           "text": "«muhandis» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«do'st» so'zining turkcha tarjimasi — «arkadaş»."
     },
@@ -21028,6 +21903,7 @@ const turkTili = {
           "text": "«köpek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«öğretmen» so'zi o'zbek tilida «o'qituvchi» deb tarjima qilinadi."
     },
@@ -21052,6 +21928,7 @@ const turkTili = {
           "text": "«özür dilerim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«o'qituvchi» so'zining turkcha tarjimasi — «öğretmen»."
     },
@@ -21076,6 +21953,7 @@ const turkTili = {
           "text": "«arı» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«öğrenci» so'zi o'zbek tilida «o'quvchi» deb tarjima qilinadi."
     },
@@ -21100,6 +21978,7 @@ const turkTili = {
           "text": "«yosh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«o'quvchi» so'zining turkcha tarjimasi — «öğrenci»."
     },
@@ -21124,6 +22003,7 @@ const turkTili = {
           "text": "«doktor» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«doktor» so'zi o'zbek tilida «shifokor» deb tarjima qilinadi."
     },
@@ -21148,6 +22028,7 @@ const turkTili = {
           "text": "«shifokor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«shifokor» so'zining turkcha tarjimasi — «doktor»."
     },
@@ -21172,6 +22053,7 @@ const turkTili = {
           "text": "«qo'y» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«mühendis» so'zi o'zbek tilida «muhandis» deb tarjima qilinadi."
     },
@@ -21196,6 +22078,7 @@ const turkTili = {
           "text": "«tovuq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«muhandis» so'zining turkcha tarjimasi — «mühendis»."
     },
@@ -21220,6 +22103,7 @@ const turkTili = {
           "text": "«bilgisayar» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«işçi» so'zi o'zbek tilida «ishchi» deb tarjima qilinadi."
     },
@@ -21244,6 +22128,7 @@ const turkTili = {
           "text": "«ishchi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ishchi» so'zining turkcha tarjimasi — «işçi»."
     },
@@ -21268,6 +22153,7 @@ const turkTili = {
           "text": "«okumak» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«çiftçi» so'zi o'zbek tilida «dehqon» deb tarjima qilinadi."
     },
@@ -21292,6 +22178,7 @@ const turkTili = {
           "text": "«hozir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dehqon» so'zining turkcha tarjimasi — «çiftçi»."
     },
@@ -21316,6 +22203,7 @@ const turkTili = {
           "text": "«elli» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«asker» so'zi o'zbek tilida «askar» deb tarjima qilinadi."
     },
@@ -21340,6 +22228,7 @@ const turkTili = {
           "text": "«yanlış» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«askar» so'zining turkcha tarjimasi — «asker»."
     },
@@ -21364,6 +22253,7 @@ const turkTili = {
           "text": "«şehir» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«bir» so'zi o'zbek tilida «bir» deb tarjima qilinadi."
     },
@@ -21388,6 +22278,7 @@ const turkTili = {
           "text": "«bir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bir» so'zining turkcha tarjimasi — «bir»."
     },
@@ -21412,6 +22303,7 @@ const turkTili = {
           "text": "«ateş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«iki» so'zi o'zbek tilida «ikki» deb tarjima qilinadi."
     },
@@ -21436,6 +22328,7 @@ const turkTili = {
           "text": "«to'g'ri» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ikki» so'zining turkcha tarjimasi — «iki»."
     },
@@ -21460,6 +22353,7 @@ const turkTili = {
           "text": "«üç» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«üç» so'zi o'zbek tilida «uch» deb tarjima qilinadi."
     },
@@ -21484,6 +22378,7 @@ const turkTili = {
           "text": "«xunuk» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«uch» so'zining turkcha tarjimasi — «üç»."
     },
@@ -21508,6 +22403,7 @@ const turkTili = {
           "text": "«dört» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«dört» so'zi o'zbek tilida «to'rt» deb tarjima qilinadi."
     },
@@ -21532,6 +22428,7 @@ const turkTili = {
           "text": "«çorba» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«to'rt» so'zining turkcha tarjimasi — «dört»."
     },
@@ -21556,6 +22453,7 @@ const turkTili = {
           "text": "«gitmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«beş» so'zi o'zbek tilida «besh» deb tarjima qilinadi."
     },
@@ -21580,6 +22478,7 @@ const turkTili = {
           "text": "«tinchlik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«besh» so'zining turkcha tarjimasi — «beş»."
     },
@@ -21604,6 +22503,7 @@ const turkTili = {
           "text": "«do'kon» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«altı» so'zi o'zbek tilida «olti» deb tarjima qilinadi."
     },
@@ -21628,6 +22528,7 @@ const turkTili = {
           "text": "«yılan» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«olti» so'zining turkcha tarjimasi — «altı»."
     },
@@ -21652,6 +22553,7 @@ const turkTili = {
           "text": "«tosh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yedi» so'zi o'zbek tilida «yetti» deb tarjima qilinadi."
     },
@@ -21676,6 +22578,7 @@ const turkTili = {
           "text": "«güle güle» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yetti» so'zining turkcha tarjimasi — «yedi»."
     },
@@ -21700,6 +22603,7 @@ const turkTili = {
           "text": "«köy» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sekiz» so'zi o'zbek tilida «sakkiz» deb tarjima qilinadi."
     },
@@ -21724,6 +22628,7 @@ const turkTili = {
           "text": "«inek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sakkiz» so'zining turkcha tarjimasi — «sekiz»."
     },
@@ -21748,6 +22653,7 @@ const turkTili = {
           "text": "«kedi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dokuz» so'zi o'zbek tilida «to'qqiz» deb tarjima qilinadi."
     },
@@ -21772,6 +22678,7 @@ const turkTili = {
           "text": "«chiroyli» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«to'qqiz» so'zining turkcha tarjimasi — «dokuz»."
     },
@@ -21796,6 +22703,7 @@ const turkTili = {
           "text": "«okul» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«on» so'zi o'zbek tilida «o'n» deb tarjima qilinadi."
     },
@@ -21820,6 +22728,7 @@ const turkTili = {
           "text": "«saniye» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«o'n» so'zining turkcha tarjimasi — «on»."
     },
@@ -21844,6 +22753,7 @@ const turkTili = {
           "text": "«uzum» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yirmi» so'zi o'zbek tilida «yigirma» deb tarjima qilinadi."
     },
@@ -21868,6 +22778,7 @@ const turkTili = {
           "text": "«üzüm» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yigirma» so'zining turkcha tarjimasi — «yirmi»."
     },
@@ -21892,6 +22803,7 @@ const turkTili = {
           "text": "«otuz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«otuz» so'zi o'zbek tilida «o'ttiz» deb tarjima qilinadi."
     },
@@ -21916,6 +22828,7 @@ const turkTili = {
           "text": "«bin» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«o'ttiz» so'zining turkcha tarjimasi — «otuz»."
     },
@@ -21940,6 +22853,7 @@ const turkTili = {
           "text": "«masa» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«kırk» so'zi o'zbek tilida «qirq» deb tarjima qilinadi."
     },
@@ -21964,6 +22878,7 @@ const turkTili = {
           "text": "«qalaysan» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«qirq» so'zining turkcha tarjimasi — «kırk»."
     },
@@ -21988,6 +22903,7 @@ const turkTili = {
           "text": "«kambag'al» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«elli» so'zi o'zbek tilida «ellik» deb tarjima qilinadi."
     },
@@ -22012,6 +22928,7 @@ const turkTili = {
           "text": "«katta» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ellik» so'zining turkcha tarjimasi — «elli»."
     },
@@ -22036,6 +22953,7 @@ const turkTili = {
           "text": "«doktor» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yüz» so'zi o'zbek tilida «yuz» deb tarjima qilinadi."
     },
@@ -22060,6 +22978,7 @@ const turkTili = {
           "text": "«yuz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yuz» so'zining turkcha tarjimasi — «yüz»."
     },
@@ -22084,6 +23003,7 @@ const turkTili = {
           "text": "«mushuk» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«bin» so'zi o'zbek tilida «ming» deb tarjima qilinadi."
     },
@@ -22108,6 +23028,7 @@ const turkTili = {
           "text": "«patates» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ming» so'zining turkcha tarjimasi — «bin»."
     },
@@ -22132,6 +23053,7 @@ const turkTili = {
           "text": "«bilgisayar» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«milyon» so'zi o'zbek tilida «million» deb tarjima qilinadi."
     },
@@ -22156,6 +23078,7 @@ const turkTili = {
           "text": "«million» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«million» so'zining turkcha tarjimasi — «milyon»."
     },
@@ -22180,6 +23103,7 @@ const turkTili = {
           "text": "«havo» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sıfır» so'zi o'zbek tilida «nol» deb tarjima qilinadi."
     },
@@ -22204,6 +23128,7 @@ const turkTili = {
           "text": "«nol» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«nol» so'zining turkcha tarjimasi — «sıfır»."
     },
@@ -22228,6 +23153,7 @@ const turkTili = {
           "text": "«ağaç» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yarım» so'zi o'zbek tilida «yarim» deb tarjima qilinadi."
     },
@@ -22252,6 +23178,7 @@ const turkTili = {
           "text": "«güneş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«yarim» so'zining turkcha tarjimasi — «yarım»."
     },
@@ -22276,6 +23203,7 @@ const turkTili = {
           "text": "«içmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«çeyrek» so'zi o'zbek tilida «chorak» deb tarjima qilinadi."
     },
@@ -22300,6 +23228,7 @@ const turkTili = {
           "text": "«barg» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«chorak» so'zining turkcha tarjimasi — «çeyrek»."
     },
@@ -22324,6 +23253,7 @@ const turkTili = {
           "text": "«bormoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«gün» so'zi o'zbek tilida «kun» deb tarjima qilinadi."
     },
@@ -22348,6 +23278,7 @@ const turkTili = {
           "text": "«keçi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«kun» so'zining turkcha tarjimasi — «gün»."
     },
@@ -22372,6 +23303,7 @@ const turkTili = {
           "text": "«o'ttiz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«hafta» so'zi o'zbek tilida «hafta» deb tarjima qilinadi."
     },
@@ -22396,6 +23328,7 @@ const turkTili = {
           "text": "«hafta» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«hafta» so'zining turkcha tarjimasi — «hafta»."
     },
@@ -22420,6 +23353,7 @@ const turkTili = {
           "text": "«ay» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«ay» so'zi o'zbek tilida «oy» deb tarjima qilinadi."
     },
@@ -22444,6 +23378,7 @@ const turkTili = {
           "text": "«oy» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«oy» so'zining turkcha tarjimasi — «ay»."
     },
@@ -22468,6 +23403,7 @@ const turkTili = {
           "text": "«yıl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yıl» so'zi o'zbek tilida «yil» deb tarjima qilinadi."
     },
@@ -22492,6 +23428,7 @@ const turkTili = {
           "text": "«ichmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yil» so'zining turkcha tarjimasi — «yıl»."
     },
@@ -22516,6 +23453,7 @@ const turkTili = {
           "text": "«yil» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«saat» so'zi o'zbek tilida «soat» deb tarjima qilinadi."
     },
@@ -22540,6 +23478,7 @@ const turkTili = {
           "text": "«stol» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«soat» so'zining turkcha tarjimasi — «saat»."
     },
@@ -22564,6 +23503,7 @@ const turkTili = {
           "text": "«sekiz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«dakika» so'zi o'zbek tilida «daqiqa» deb tarjima qilinadi."
     },
@@ -22588,6 +23528,7 @@ const turkTili = {
           "text": "«ko'rmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«daqiqa» so'zining turkcha tarjimasi — «dakika»."
     },
@@ -22612,6 +23553,7 @@ const turkTili = {
           "text": "«saniye» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«saniye» so'zi o'zbek tilida «soniya» deb tarjima qilinadi."
     },
@@ -22636,6 +23578,7 @@ const turkTili = {
           "text": "«tayyor» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«soniya» so'zining turkcha tarjimasi — «saniye»."
     },
@@ -22660,6 +23603,7 @@ const turkTili = {
           "text": "«sabah» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«sabah» so'zi o'zbek tilida «ertalab» deb tarjima qilinadi."
     },
@@ -22684,6 +23628,7 @@ const turkTili = {
           "text": "«uy» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ertalab» so'zining turkcha tarjimasi — «sabah»."
     },
@@ -22708,6 +23653,7 @@ const turkTili = {
           "text": "«havo» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«öğle» so'zi o'zbek tilida «tushlik» deb tarjima qilinadi."
     },
@@ -22732,6 +23678,7 @@ const turkTili = {
           "text": "«güneş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tushlik» so'zining turkcha tarjimasi — «öğle»."
     },
@@ -22756,6 +23703,7 @@ const turkTili = {
           "text": "«defter» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«akşam» so'zi o'zbek tilida «kechqurun» deb tarjima qilinadi."
     },
@@ -22780,6 +23728,7 @@ const turkTili = {
           "text": "«deniz» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kechqurun» so'zining turkcha tarjimasi — «akşam»."
     },
@@ -22804,6 +23753,7 @@ const turkTili = {
           "text": "«gece» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«gece» so'zi o'zbek tilida «tun» deb tarjima qilinadi."
     },
@@ -22828,6 +23778,7 @@ const turkTili = {
           "text": "«ko'rmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tun» so'zining turkcha tarjimasi — «gece»."
     },
@@ -22852,6 +23803,7 @@ const turkTili = {
           "text": "«bugün» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«bugün» so'zi o'zbek tilida «bugun» deb tarjima qilinadi."
     },
@@ -22876,6 +23828,7 @@ const turkTili = {
           "text": "«asker» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«bugun» so'zining turkcha tarjimasi — «bugün»."
     },
@@ -22900,6 +23853,7 @@ const turkTili = {
           "text": "«gitmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«yarın» so'zi o'zbek tilida «ertaga» deb tarjima qilinadi."
     },
@@ -22924,6 +23878,7 @@ const turkTili = {
           "text": "«sevmoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«ertaga» so'zining turkcha tarjimasi — «yarın»."
     },
@@ -22948,6 +23903,7 @@ const turkTili = {
           "text": "«kahve» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«dün» so'zi o'zbek tilida «kecha» deb tarjima qilinadi."
     },
@@ -22972,6 +23928,7 @@ const turkTili = {
           "text": "«şeker» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«kecha» so'zining turkcha tarjimasi — «dün»."
     },
@@ -22996,6 +23953,7 @@ const turkTili = {
           "text": "«barg» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«şimdi» so'zi o'zbek tilida «hozir» deb tarjima qilinadi."
     },
@@ -23020,6 +23978,7 @@ const turkTili = {
           "text": "«hozir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«hozir» so'zining turkcha tarjimasi — «şimdi»."
     },
@@ -23044,6 +24003,7 @@ const turkTili = {
           "text": "«sho'rva» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«sonra» so'zi o'zbek tilida «keyin» deb tarjima qilinadi."
     },
@@ -23068,6 +24028,7 @@ const turkTili = {
           "text": "«qishloq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«keyin» so'zining turkcha tarjimasi — «sonra»."
     },
@@ -23092,6 +24053,7 @@ const turkTili = {
           "text": "«ayiq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«önce» so'zi o'zbek tilida «oldin» deb tarjima qilinadi."
     },
@@ -23116,6 +24078,7 @@ const turkTili = {
           "text": "“Kitap” so‘zining o‘zbekcha tarjimasi nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«oldin» so'zining turkcha tarjimasi — «önce»."
     },
@@ -23140,6 +24103,7 @@ const turkTili = {
           "text": "«shahar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«erken» so'zi o'zbek tilida «erta» deb tarjima qilinadi."
     },
@@ -23164,6 +24128,7 @@ const turkTili = {
           "text": "«qari» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«erta» so'zining turkcha tarjimasi — «erken»."
     },
@@ -23188,6 +24153,7 @@ const turkTili = {
           "text": "«o'qimoq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«geç» so'zi o'zbek tilida «kech» deb tarjima qilinadi."
     },
@@ -23212,6 +24178,7 @@ const turkTili = {
           "text": "«kech» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«kech» so'zining turkcha tarjimasi — «geç»."
     },
@@ -23236,6 +24203,7 @@ const turkTili = {
           "text": "«kechqurun» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«her zaman» so'zi o'zbek tilida «har doim» deb tarjima qilinadi."
     },
@@ -23260,6 +24228,7 @@ const turkTili = {
           "text": "«har doim» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«har doim» so'zining turkcha tarjimasi — «her zaman»."
     },
@@ -23284,6 +24253,7 @@ const turkTili = {
           "text": "«shahar» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«su» so'zi o'zbek tilida «suv» deb tarjima qilinadi."
     },
@@ -23308,6 +24278,7 @@ const turkTili = {
           "text": "«yıl» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«suv» so'zining turkcha tarjimasi — «su»."
     },
@@ -23332,6 +24303,7 @@ const turkTili = {
           "text": "“Teşekkür ederim” iborasining tarjimasi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ateş» so'zi o'zbek tilida «olov» deb tarjima qilinadi."
     },
@@ -23356,6 +24328,7 @@ const turkTili = {
           "text": "«osmon» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«olov» so'zining turkcha tarjimasi — «ateş»."
     },
@@ -23380,6 +24353,7 @@ const turkTili = {
           "text": "«ishchi» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«toprak» so'zi o'zbek tilida «tuproq» deb tarjima qilinadi."
     },
@@ -23404,6 +24378,7 @@ const turkTili = {
           "text": "«iyiyim» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«tuproq» so'zining turkcha tarjimasi — «toprak»."
     },
@@ -23428,6 +24403,7 @@ const turkTili = {
           "text": "«saniye» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«hava» so'zi o'zbek tilida «havo» deb tarjima qilinadi."
     },
@@ -23452,6 +24428,7 @@ const turkTili = {
           "text": "«osmon» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«havo» so'zining turkcha tarjimasi — «hava»."
     },
@@ -23476,6 +24453,7 @@ const turkTili = {
           "text": "«güneş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«güneş» so'zi o'zbek tilida «quyosh» deb tarjima qilinadi."
     },
@@ -23500,6 +24478,7 @@ const turkTili = {
           "text": "«quyosh» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«quyosh» so'zining turkcha tarjimasi — «güneş»."
     },
@@ -23524,6 +24503,7 @@ const turkTili = {
           "text": "«tushlik» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yıldız» so'zi o'zbek tilida «yulduz» deb tarjima qilinadi."
     },
@@ -23548,6 +24528,7 @@ const turkTili = {
           "text": "«yulduz» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«yulduz» so'zining turkcha tarjimasi — «yıldız»."
     },
@@ -23572,6 +24553,7 @@ const turkTili = {
           "text": "«gökyüzü» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«gökyüzü» so'zi o'zbek tilida «osmon» deb tarjima qilinadi."
     },
@@ -23596,6 +24578,7 @@ const turkTili = {
           "text": "«kadın» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«osmon» so'zining turkcha tarjimasi — «gökyüzü»."
     },
@@ -23620,6 +24603,7 @@ const turkTili = {
           "text": "«ateş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«deniz» so'zi o'zbek tilida «dengiz» deb tarjima qilinadi."
     },
@@ -23644,6 +24628,7 @@ const turkTili = {
           "text": "«arkadaş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«dengiz» so'zining turkcha tarjimasi — «deniz»."
     },
@@ -23668,6 +24653,7 @@ const turkTili = {
           "text": "«köpek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«göl» so'zi o'zbek tilida «ko'l» deb tarjima qilinadi."
     },
@@ -23692,6 +24678,7 @@ const turkTili = {
           "text": "«baliq» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«ko'l» so'zining turkcha tarjimasi — «göl»."
     },
@@ -23716,6 +24703,7 @@ const turkTili = {
           "text": "«masa» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«nehir» so'zi o'zbek tilida «daryo» deb tarjima qilinadi."
     },
@@ -23740,6 +24728,7 @@ const turkTili = {
           "text": "«kız» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«daryo» so'zining turkcha tarjimasi — «nehir»."
     },
@@ -23764,6 +24753,7 @@ const turkTili = {
           "text": "«ekmek» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«dağ» so'zi o'zbek tilida «tog'» deb tarjima qilinadi."
     },
@@ -23788,6 +24778,7 @@ const turkTili = {
           "text": "«tog'» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«tog'» so'zining turkcha tarjimasi — «dağ»."
     },
@@ -23812,6 +24803,7 @@ const turkTili = {
           "text": "«araba» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«orman» so'zi o'zbek tilida «o'rmon» deb tarjima qilinadi."
     },
@@ -23836,6 +24828,7 @@ const turkTili = {
           "text": "«o'rmon» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«o'rmon» so'zining turkcha tarjimasi — «orman»."
     },
@@ -23860,6 +24853,7 @@ const turkTili = {
           "text": "«hozir» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«ağaç» so'zi o'zbek tilida «daraxt» deb tarjima qilinadi."
     },
@@ -23884,6 +24878,7 @@ const turkTili = {
           "text": "«non» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«daraxt» so'zining turkcha tarjimasi — «ağaç»."
     },
@@ -23908,6 +24903,7 @@ const turkTili = {
           "text": "«olov» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«çiçek» so'zi o'zbek tilida «gul» deb tarjima qilinadi."
     },
@@ -23932,6 +24928,7 @@ const turkTili = {
           "text": "«gul» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«gul» so'zining turkcha tarjimasi — «çiçek»."
     },
@@ -23956,6 +24953,7 @@ const turkTili = {
           "text": "«işçi» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«yaprak» so'zi o'zbek tilida «barg» deb tarjima qilinadi."
     },
@@ -23980,6 +24978,7 @@ const turkTili = {
           "text": "«oy» so'zining turkcha tarjimasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«barg» so'zining turkcha tarjimasi — «yaprak»."
     },
@@ -24004,6 +25003,7 @@ const turkTili = {
           "text": "«taş» so'zining o'zbekcha tarjimasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«taş» so'zi o'zbek tilida «tosh» deb tarjima qilinadi."
     }

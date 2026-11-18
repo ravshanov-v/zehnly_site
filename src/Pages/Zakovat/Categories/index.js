@@ -45,8 +45,37 @@ function cleanQuestionText(value) {
   return cleaned || text
 }
 
+function resolveCorrectId(question, options) {
+  const raw = question?.correct ?? question?.answer
+  if (raw === null || raw === undefined || raw === '') return null
+
+  const value = normalizeText(raw)
+  const byId = options.find((option) => normalizeText(option?.id) === value)
+  if (byId) return byId.id
+
+  const byText = options.find(
+    (option) => normalizeText(option?.text).toLowerCase() === value.toLowerCase()
+  )
+  if (byText) return byText.id
+
+  if (/^\d+$/.test(value)) {
+    const index = Number(value)
+    const byIndex = options[index] ?? options[index - 1]
+    if (byIndex) return byIndex.id
+  }
+
+  return null
+}
+
 function sanitizeQuestion(question) {
-  return { ...question, question: cleanQuestionText(question.question) }
+  const options = Array.isArray(question?.options) ? question.options : []
+
+  return {
+    ...question,
+    options,
+    question: cleanQuestionText(question.question),
+    correct: resolveCorrectId(question, options),
+  }
 }
 
 function questionSignature(question) {

@@ -1,7 +1,43 @@
 import { NavLink } from 'react-router-dom'
-import routes from '../../routes.jsx'
+import { navRoutes } from '../../routes.jsx'
 import Logo from '../Logo.jsx'
 import { ArrowUpRight } from '../Marks.jsx'
+
+const socialLinks = [
+  {
+    id: 'telegram',
+    label: 'Telegram',
+    handle: 'Komron Ravshanov',
+    href: 'https://t.me/komron_ravshanov',
+    icon: (
+      <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" className="h-3.5 w-3.5">
+        <path d="M21.94 4.3 18.9 19.1c-.23 1.01-.83 1.26-1.68.78l-4.64-3.42-2.24 2.16c-.25.25-.46.46-.94.46l.33-4.73 8.62-7.79c.37-.33-.08-.52-.58-.19L7.13 12.94 2.6 11.52c-.99-.31-1-.99.2-1.46L20.5 3.1c.82-.3 1.53.2 1.44 1.2Z" />
+      </svg>
+    ),
+  },
+  {
+    id: 'instagram',
+    label: 'Instagram',
+    handle: 'Komron Ravshanov',
+    href: 'https://instagram.com/ravshanov_web7',
+    icon: (
+      <svg
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="1.7"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        aria-hidden="true"
+        className="h-3.5 w-3.5"
+      >
+        <rect x="3.5" y="3.5" width="17" height="17" rx="4.5" />
+        <circle cx="12" cy="12" r="3.8" />
+        <circle cx="17.1" cy="6.9" r="0.9" fill="currentColor" stroke="none" />
+      </svg>
+    ),
+  },
+]
 
 export default function Footer() {
   const year = new Date().getFullYear()
@@ -14,7 +50,7 @@ export default function Footer() {
       />
       <div className="dot-grid pointer-events-none absolute inset-0 opacity-60 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]" />
 
-      <div className="relative mx-auto max-w-[1240px] px-5 sm:px-8">
+      <div className="relative z-10 mx-auto max-w-[1240px] px-5 sm:px-8">
         <div className="grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr]">
           <div className="flex flex-col gap-5">
             <NavLink to="/" aria-label="Zehnly bosh sahifa" className="w-fit">
@@ -25,7 +61,7 @@ export default function Footer() {
               tizimga jamlagan platforma.
             </p>
             <p className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
-              Toshkent, O&apos;zbekiston
+              O&apos;zbekiston
             </p>
           </div>
 
@@ -34,7 +70,7 @@ export default function Footer() {
               Bo&apos;limlar
             </h3>
             <ul className="flex flex-col items-start gap-3">
-              {routes.map((route) => (
+              {navRoutes.map((route) => (
                 <li key={route.path}>
                   <NavLink
                     to={route.path}
@@ -53,13 +89,24 @@ export default function Footer() {
               Aloqa
             </h3>
             <p className="text-sm leading-6 text-muted">Savollaringiz bo&apos;lsa yozing:</p>
-            <a
-              href="mailto:support@zehnly.uz"
-              className="link-underline flex w-fit items-center gap-1.5 font-mono text-sm font-medium text-ink transition-colors hover:text-ember"
-            >
-              support@zehnly.uz
-              <ArrowUpRight className="h-3.5 w-3.5" />
-            </a>
+            <ul className="flex flex-col items-start gap-3">
+              {socialLinks.map((link) => (
+                <li key={link.id}>
+                  <a
+                    href={link.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="link-underline group flex w-fit items-center gap-2 text-sm font-medium text-ink-soft transition-colors hover:text-cobalt"
+                  >
+                    <span className="text-muted transition-colors group-hover:text-cobalt">
+                      {link.icon}
+                    </span>
+                    <span>{link.label}</span>
+                    <ArrowUpRight className="h-3.5 w-3.5 opacity-70 transition-colors group-hover:text-cobalt group-hover:opacity-100" />
+                  </a>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
 

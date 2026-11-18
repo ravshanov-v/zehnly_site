@@ -28,6 +28,7 @@ const onaTili = {
           "text": "6 ta (a, o, i, u, o', e)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -52,6 +53,7 @@ const onaTili = {
           "text": "b, p, d, t, z, s"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -76,6 +78,7 @@ const onaTili = {
           "text": "p, t, k, s, sh, ch, f, x, q, h"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -100,6 +103,7 @@ const onaTili = {
           "text": "Tovush qisqarishi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -124,6 +128,7 @@ const onaTili = {
           "text": "Tovush almashishi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -148,6 +153,7 @@ const onaTili = {
           "text": "Tovush ortishi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -172,6 +178,7 @@ const onaTili = {
           "text": "Paronimlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Omonimlar shakldosh so'zlardir."
     },
@@ -196,6 +203,7 @@ const onaTili = {
           "text": "Paronimlar (masalan: asr - axr, adib -传送- adib)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -220,6 +228,7 @@ const onaTili = {
           "text": "Paronimlar"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Antonimlar ziddiyatni bildiradi."
     },
@@ -244,6 +253,7 @@ const onaTili = {
           "text": "Saxiy inson"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -268,6 +278,7 @@ const onaTili = {
           "text": "Xursand bo'ldi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -292,6 +303,7 @@ const onaTili = {
           "text": "-lar, -da, -dan, -ni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -316,6 +328,7 @@ const onaTili = {
           "text": "-bop, -namo"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -340,6 +353,7 @@ const onaTili = {
           "text": "Kichraytish va erkalash qo'shimchalari"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -364,6 +378,7 @@ const onaTili = {
           "text": "5 ta"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kelishiklar tizimi 6 ta."
     },
@@ -388,6 +403,7 @@ const onaTili = {
           "text": "-ga (kimga? nimaga?)"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -412,6 +428,7 @@ const onaTili = {
           "text": "-ga"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -436,6 +453,7 @@ const onaTili = {
           "text": "Bosh va ergash"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sifat darajalari 4 ta."
     },
@@ -460,6 +478,7 @@ const onaTili = {
           "text": "Beshovlon, oltovlon"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "-ta qo'shimchasi dona son yasaydi."
     },
@@ -484,6 +503,7 @@ const onaTili = {
           "text": "Ikkala, uchovlon, to'rtov"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -508,6 +528,7 @@ const onaTili = {
           "text": "O'z (o'zim, o'zing, o'zi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -532,6 +553,7 @@ const onaTili = {
           "text": "-gan, -kan, -qan"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -556,6 +578,7 @@ const onaTili = {
           "text": "-day, -dek"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -580,6 +603,7 @@ const onaTili = {
           "text": "-gan, -yotgan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -604,6 +628,7 @@ const onaTili = {
           "text": "O'zlik nisbat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -628,6 +653,7 @@ const onaTili = {
           "text": "Ish-harakat boshqa birovga bajartirilganini bildiradi (-dir, -tir, -t, -ir, -sat: o'qitdi, yozdirdi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -652,6 +678,7 @@ const onaTili = {
           "text": "Ega va kesim"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -676,6 +703,7 @@ const onaTili = {
           "text": "Qanday? qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Hol ikkinchi darajali bo'lakdir."
     },
@@ -700,6 +728,7 @@ const onaTili = {
           "text": "Tarkibidagi sodda gaplar bog'lovchisiz, faqat ohang (intonatsiya) orqali bog'langan qo'shma gap"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -724,6 +753,7 @@ const onaTili = {
           "text": "Faqat fe'llardan iborat bo'laklar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -748,6 +778,7 @@ const onaTili = {
           "text": "\"Ko'chirma gap\", - dedi muallif."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -772,6 +803,7 @@ const onaTili = {
           "text": "Tire (-)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -796,6 +828,7 @@ const onaTili = {
           "text": "Qavs"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -820,6 +853,7 @@ const onaTili = {
           "text": "Katta-kichik, asta-sekin, bugun-erta, do'st-dushman"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -844,6 +878,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -868,6 +903,7 @@ const onaTili = {
           "text": "Ot"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -892,6 +928,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -916,6 +953,7 @@ const onaTili = {
           "text": "Ot"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -940,6 +978,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -964,6 +1003,7 @@ const onaTili = {
           "text": "Sifat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -988,6 +1028,7 @@ const onaTili = {
           "text": "Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -1012,6 +1053,7 @@ const onaTili = {
           "text": "Ko'makchi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -1036,6 +1078,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -1060,6 +1103,7 @@ const onaTili = {
           "text": "Ravish"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -1084,6 +1128,7 @@ const onaTili = {
           "text": "Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -1108,6 +1153,7 @@ const onaTili = {
           "text": "Fe'l"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -1132,6 +1178,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -1156,6 +1203,7 @@ const onaTili = {
           "text": "Modal"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -1180,6 +1228,7 @@ const onaTili = {
           "text": "Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -1204,6 +1253,7 @@ const onaTili = {
           "text": "Undov"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -1228,6 +1278,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -1252,6 +1303,7 @@ const onaTili = {
           "text": "Yuklama"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -1276,6 +1328,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -1300,6 +1353,7 @@ const onaTili = {
           "text": "Taqlid so'zlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -1324,6 +1378,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -1348,6 +1403,7 @@ const onaTili = {
           "text": "Undov so'zlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -1372,6 +1428,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -1396,6 +1453,7 @@ const onaTili = {
           "text": "Undov so'zlar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -1420,6 +1478,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -1444,6 +1503,7 @@ const onaTili = {
           "text": "Kesim"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -1468,6 +1528,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -1492,6 +1553,7 @@ const onaTili = {
           "text": "Hol"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -1516,6 +1578,7 @@ const onaTili = {
           "text": "Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -1540,6 +1603,7 @@ const onaTili = {
           "text": "Ega"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -1564,6 +1628,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -1588,6 +1653,7 @@ const onaTili = {
           "text": "Aniqlovchi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -1612,6 +1678,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -1636,6 +1703,7 @@ const onaTili = {
           "text": "Boshqaruv"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -1660,6 +1728,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -1684,6 +1753,7 @@ const onaTili = {
           "text": "Boshqaruv"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -1708,6 +1778,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -1732,6 +1803,7 @@ const onaTili = {
           "text": "Boshqaruv"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -1756,6 +1828,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -1780,6 +1853,7 @@ const onaTili = {
           "text": "Ikki sostavli gap"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -1804,6 +1878,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -1828,6 +1903,7 @@ const onaTili = {
           "text": "Atov gap"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -1852,6 +1928,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -1876,6 +1953,7 @@ const onaTili = {
           "text": "To'liqsiz gap"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -1900,6 +1978,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -1924,6 +2003,7 @@ const onaTili = {
           "text": "Atov gap"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -1948,6 +2028,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -1972,6 +2053,7 @@ const onaTili = {
           "text": "Ergashgan qo'shma gap"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -1996,6 +2078,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -2020,6 +2103,7 @@ const onaTili = {
           "text": "Bog'lovchisiz qo'shma gap"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -2044,6 +2128,7 @@ const onaTili = {
           "text": "Keldi, yozdi, o'qidi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "-kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -2068,6 +2153,7 @@ const onaTili = {
           "text": "Aqlli, serhosil, mazali, bo'yoqdor"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "-li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -2092,6 +2178,7 @@ const onaTili = {
           "text": "-dosh, -zor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "-cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -2116,6 +2203,7 @@ const onaTili = {
           "text": "4 ta"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -2140,6 +2228,7 @@ const onaTili = {
           "text": "O'tgan, hozirgi, kelasi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -2164,6 +2253,7 @@ const onaTili = {
           "text": "Gap bo'laklari bilan grammatik bog'lanmaydi, fikrga munosabat bildiradi va vergul bilan ajratiladi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -2188,6 +2278,7 @@ const onaTili = {
           "text": "Qo'shma gap qismi"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Undalma gap a'zosi hisoblanmaydi."
     },
@@ -2212,6 +2303,7 @@ const onaTili = {
           "text": "Faqat qavsga olinadi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -2236,6 +2328,7 @@ const onaTili = {
           "text": "Ustozimiz: 'Bilim — kuchdir', — deb uqtirdilar."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -2260,6 +2353,7 @@ const onaTili = {
           "text": "Mubolag'a san'ati"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -2284,6 +2378,7 @@ const onaTili = {
           "text": "Qat'iy qoliplar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -2308,6 +2403,7 @@ const onaTili = {
           "text": "Kirish so'zlar va kiritmalar gapda qanday vazifa bajaradi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zbek adabiy tilida nechta unli fonema mavjud?» savolining to'g'ri javobi — 6 ta (a, o, i, u, o', e). O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -2332,6 +2428,7 @@ const onaTili = {
           "text": "Qaysi qatordagi barcha undoshlar jarangli hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Qaysi qatordagi barcha undoshlar jarangli hisoblanadi?» savolining to'g'ri javobi — b, d, z, g, v, j. Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -2356,6 +2453,7 @@ const onaTili = {
           "text": "Qaysi qatorda faqat jarangsiz undoshlar berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Qaysi qatorda faqat jarangsiz undoshlar berilgan?» savolining to'g'ri javobi — p, t, k, s, sh, ch, f, x, q, h. Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -2380,6 +2478,7 @@ const onaTili = {
           "text": "'Baqir' so'ziga '-a' qo'shimchasi qo'shilganda ('baqirdi' emas, 'baqirmoq' / 'baqir' -> 'baqir-baqir') yoki 'past' -> 'pasaymoq' so'zida qanday tovush o'zgarishi bor?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Burun' so'ziga egalik qo'shimchasi qo'shilganda ('burni') qanday tovush hodisasi yuz beradi?» savolining to'g'ri javobi — Tovush tushishi. Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -2404,6 +2503,7 @@ const onaTili = {
           "text": "'Baqir' so'ziga '-a' qo'shimchasi qo'shilganda ('baqirdi' emas, 'baqirmoq' / 'baqir' -> 'baqir-baqir') yoki 'past' -> 'pasaymoq' so'zida qanday tovush o'zgarishi bor?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«'Baqir' so'ziga '-a' qo'shimchasi qo'shilganda ('baqirdi' emas, 'baqirmoq' / 'baqir' -> 'baqir-baqir') yoki 'past' -> 'pasaymoq' so'zida qanday tovush o'zgarishi bor?» savolining to'g'ri javobi — Tovush tushishi ('t' tushgan). Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -2428,6 +2528,7 @@ const onaTili = {
           "text": "Undalma nima?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Katta' so'ziga '-roq' qo'shilganda yoki 'yurak' + '-im' -> 'yuragim' so'zida qanday tovush hodisasi yuz bergan?» savolining to'g'ri javobi — Tovush almashishi (k -> g). So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -2452,6 +2553,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Shaxsi noaniq gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Shakli bir xil, ammo ma'nolari mutlaqo boshqa-boshqa bo'lgan so'zlar nima deyiladi?» savolining to'g'ri javobi — Omonimlar (masalan: o't, olma, yoz). Omonimlar shakldosh so'zlardir."
     },
@@ -2476,6 +2578,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Talaffuzi va yozilishi yaqin, ammo ma'nosi butunlay farq qiluvchi so'zlar juftligi qanday ataladi?» savolining to'g'ri javobi — Paronimlar (masalan: asr - axr, adib -传送- adib). Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -2500,6 +2603,7 @@ const onaTili = {
           "text": "Harakat nomi qo'shimchalari qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Qarama-qarshi ma'noli so'zlar guruhi nima deyiladi?» savolining to'g'ri javobi — Antonimlar (masalan: oq - qora, baland - past). Antonimlar ziddiyatni bildiradi."
     },
@@ -2524,6 +2628,7 @@ const onaTili = {
           "text": "'Qo'li gul' iborasining ma'nosi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Qo'li gul' iborasining ma'nosi nima?» savolining to'g'ri javobi — Mohir, usta, chaqqon hunarmand. Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -2548,6 +2653,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Moslashuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Yuragi orqasiga tortib ketdi' iborasi qanday ma'noni bildiradi?» savolining to'g'ri javobi — Qattiq qo'rqib ketdi. Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -2572,6 +2678,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qaysi qatorda so'z yasovchi qo'shimchalar berilgan?» savolining to'g'ri javobi — -chi, -kor, -dosh, -zor. So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -2596,6 +2703,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Fe'l so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Qaysi qatorda faqat shakl yasovchi (lug'aviy shakl) qo'shimchalar berilgan?» savolining to'g'ri javobi — -roq, -gina, -lar, -cha. Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -2620,6 +2728,7 @@ const onaTili = {
           "text": "Rasmiy-idoraviy uslubning asosiy xususiyati nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Qaysi qatorda munosabat shakl yasovchi (sintaktik aloqaga kirishuvchi) qo'shimchalar berilgan?» savolining to'g'ri javobi — Kelishik va egalik qo'shimchalari. Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -2644,6 +2753,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«O'zbek tilida nechta kelishik mavjud?» savolining to'g'ri javobi — 6 ta (Bosh, Qaratqich, Tushum, Jo'nalish, O'rin-payt, Chiqish). Kelishiklar tizimi 6 ta."
     },
@@ -2668,6 +2778,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bitishuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Qaratqich kelishigining qo'shimchasi va so'rog'i qaysi?» savolining to'g'ri javobi — -ning (kimning? nimaning?). Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -2692,6 +2803,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Kesim' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Tushum kelishigining qo'shimchasi qaysi?» savolining to'g'ri javobi — -ni (kimni? nimani?). Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -2716,6 +2828,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Sifatning qanday darajalari bor?» savolining to'g'ri javobi — Oddiy, qiyosiy, orttirma, ozaytirma. Sifat darajalari 4 ta."
     },
@@ -2740,6 +2853,7 @@ const onaTili = {
           "text": "Qaysi qatorda sanoq sonning 'dona son' turi berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Qaysi qatorda sanoq sonning 'dona son' turi berilgan?» savolining to'g'ri javobi — Beshta, o'nta, yuzta. -ta qo'shimchasi dona son yasaydi."
     },
@@ -2764,6 +2878,7 @@ const onaTili = {
           "text": "Qaysi qatorda jamlovchi sonlar berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Qaysi qatorda jamlovchi sonlar berilgan?» savolining to'g'ri javobi — Ikkala, uchovlon, to'rtov. Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -2788,6 +2903,7 @@ const onaTili = {
           "text": "O'zlik olmoshi qaysi so'z hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zlik olmoshi qaysi so'z hisoblanadi?» savolining to'g'ri javobi — O'z (o'zim, o'zing, o'zi). 'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -2812,6 +2928,7 @@ const onaTili = {
           "text": "'Yuragi orqasiga tortib ketdi' iborasi qanday ma'noni bildiradi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Harakat nomi qo'shimchalari qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — -sh, -ish, -v, -uv, -moq (o'qish, boruv, yozmoq). Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -2836,6 +2953,7 @@ const onaTili = {
           "text": "O'zlik olmoshi qaysi so'z hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Sifatdosh yasovchi asosiy qo'shimchalar qaysilar?» savolining to'g'ri javobi — -gan/-kan/-qan, -yotgan, -ar/-mas, -digan (kelgan bola, o'qiyotgan talaba). Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -2860,6 +2978,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Fe'l so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ravishdosh yasovchi qo'shimchalar qaysi qatorda berilgan?» savolining to'g'ri javobi — -b, -ib, -a, -y, -gach, -guncha, -gani (kelib aytdi, kulgach ketdi). Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -2884,6 +3003,7 @@ const onaTili = {
           "text": "O'zbek adabiy tilida nechta unli fonema mavjud?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Bajaruvchisi noma'lum bo'lgan yoki harakat o'z-o'zidan bajarilgandek ifodalangan fe'l nisbati qaysi?» savolining to'g'ri javobi — Majhul nisbat (-il, -in: xat yozildi, eshik ochildi). Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -2908,6 +3028,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Fe'lning orttirma nisbati qanday ma'no bildiradi?» savolining to'g'ri javobi — Ish-harakat boshqa birovga bajartirilganini bildiradi (-dir, -tir, -t, -ir, -sat: o'qitdi, yozdirdi). Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -2932,6 +3053,7 @@ const onaTili = {
           "text": "Gapning qaysi bo'laklari bosh bo'laklar hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Gapning qaysi bo'laklari bosh bo'laklar hisoblanadi?» savolining to'g'ri javobi — Ega va kesim. Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -2956,6 +3078,7 @@ const onaTili = {
           "text": "Tushum kelishigining qo'shimchasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Hol gapda nimani bildiradi va qaysi so'roqlarga javob bo'ladi?» savolining to'g'ri javobi — Harakatning o'rni, payti, sababi, maqsadi, darajasi va tarzini (qayerda? qachon? nega? qanday?). Hol ikkinchi darajali bo'lakdir."
     },
@@ -2980,6 +3103,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Moslashuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Bog'lovchisiz qo'shma gap nima?» savolining to'g'ri javobi — Tarkibidagi sodda gaplar bog'lovchisiz, faqat ohang (intonatsiya) orqali bog'langan qo'shma gap. Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -3004,6 +3128,7 @@ const onaTili = {
           "text": "O'zlik olmoshi qaysi so'z hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Uyushiq bo'laklar nima?» savolining to'g'ri javobi — Bir xil so'roqqa javob bo'lib, bir xil sintaktik vazifa bajaradigan va bir so'zga bog'langan bo'laklar. Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -3028,6 +3153,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Aniqlovchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ko'chirma gap muallif gapidan oldin kelsa, qanday tinish belgisi qo'yiladi?» savolining to'g'ri javobi — \"Ko'chirma gap\", - dedi muallif.. Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -3052,6 +3178,7 @@ const onaTili = {
           "text": "Rasmiy-idoraviy uslubning asosiy xususiyati nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Umumlashtiruvchi so'z uyushiq bo'laklardan oldin kelsa, undan keyin qanday tinish belgisi qo'yiladi?» savolining to'g'ri javobi — Ikki nuqta (:). Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -3076,6 +3203,7 @@ const onaTili = {
           "text": "Tushum kelishigining qo'shimchasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Umumlashtiruvchi so'z uyushiq bo'laklardan keyin kelsa, qanday tinish belgisi qo'yiladi?» savolining to'g'ri javobi — Tire (-). Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -3100,6 +3228,7 @@ const onaTili = {
           "text": "Harakat nomi qo'shimchalari qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Qaysi qatordagi so'zlar chiziqcha (defis) bilan yoziladi?» savolining to'g'ri javobi — Katta-kichik, asta-sekin, bugun-erta, do'st-dushman. Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -3124,6 +3253,7 @@ const onaTili = {
           "text": "Talaffuzi va yozilishi yaqin, ammo ma'nosi butunlay farq qiluvchi so'zlar juftligi qanday ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Ot so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi. Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -3148,6 +3278,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi'?» savolining to'g'ri javobi — Ot. Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -3172,6 +3303,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Sifat so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Sifat so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi. Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -3196,6 +3328,7 @@ const onaTili = {
           "text": "Qaysi qatorda jamlovchi sonlar berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi'?» savolining to'g'ri javobi — Sifat. Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -3220,6 +3353,7 @@ const onaTili = {
           "text": "O'zbek tilida nechta kelishik mavjud?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Son so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi. Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -3244,6 +3378,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Sifat so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi'?» savolining to'g'ri javobi — Son. Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -3268,6 +3403,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Olmosh so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Olmosh so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar. Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -3292,6 +3428,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar'?» savolining to'g'ri javobi — Olmosh. Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -3316,6 +3453,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Ravish so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Ravish so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi. Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -3340,6 +3478,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Olmosh so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi'?» savolining to'g'ri javobi — Ravish. Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -3364,6 +3503,7 @@ const onaTili = {
           "text": "Qaysi qatorda tinish belgilari to'g'ri qo'llangan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Fe'l so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum. Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -3388,6 +3528,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Taqlid so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum'?» savolining to'g'ri javobi — Fe'l. Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -3412,6 +3553,7 @@ const onaTili = {
           "text": "Uyushiq bo'laklar nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Ko'makchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari). Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -3436,6 +3578,7 @@ const onaTili = {
           "text": "'Qo'li gul' iborasining ma'nosi nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)'?» savolining to'g'ri javobi — Ko'makchi. Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -3460,6 +3603,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bog'lovchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Bog'lovchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki). Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -3484,6 +3628,7 @@ const onaTili = {
           "text": "O'zlik olmoshi qaysi so'z hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)'?» savolining to'g'ri javobi — Bog'lovchi. Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -3508,6 +3653,7 @@ const onaTili = {
           "text": "Tushum kelishigining qo'shimchasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Yuklama' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto). Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -3532,6 +3678,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)'?» savolining to'g'ri javobi — Yuklama. Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -3556,6 +3703,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Modal so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Modal so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski). Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -3580,6 +3728,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)'?» savolining to'g'ri javobi — Modal so'zlar. Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -3604,6 +3753,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Taqlid so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Undov so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht). Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -3628,6 +3778,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)'?» savolining to'g'ri javobi — Undov so'zlar. Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -3652,6 +3803,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Taqlid so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Taqlid so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt). Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -3676,6 +3828,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bitishuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)'?» savolining to'g'ri javobi — Taqlid so'zlar. Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -3700,6 +3853,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Ega' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?). Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -3724,6 +3878,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)'?» savolining to'g'ri javobi — Ega. Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -3748,6 +3903,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Undov so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Kesim' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak. Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -3772,6 +3928,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Ergashgan qo'shma gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak'?» savolining to'g'ri javobi — Kesim. Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -3796,6 +3953,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'To'ldiruvchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'To'ldiruvchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?). To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -3820,6 +3978,7 @@ const onaTili = {
           "text": "Qaysi qatorda jamlovchi sonlar berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)'?» savolining to'g'ri javobi — To'ldiruvchi. Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -3844,6 +4003,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Aniqlovchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Aniqlovchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?). Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -3868,6 +4028,7 @@ const onaTili = {
           "text": "O'zbek tilida nechta kelishik mavjud?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)'?» savolining to'g'ri javobi — Aniqlovchi. Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -3892,6 +4053,7 @@ const onaTili = {
           "text": "Shakli bir xil, ammo ma'nolari mutlaqo boshqa-boshqa bo'lgan so'zlar nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Moslashuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim). Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -3916,6 +4078,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)'?» savolining to'g'ri javobi — Moslashuv. Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -3940,6 +4103,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Boshqaruv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Boshqaruv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat). Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -3964,6 +4128,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)'?» savolining to'g'ri javobi — Boshqaruv. Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -3988,6 +4153,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bitishuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Bitishuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam). Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -4012,6 +4178,7 @@ const onaTili = {
           "text": "Qaysi qatorda jamlovchi sonlar berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)'?» savolining to'g'ri javobi — Bitishuv. Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -4036,6 +4203,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bog'langan qo'shma gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Bir sostavli (bir tarkibli) gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap. Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -4060,6 +4228,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap'?» savolining to'g'ri javobi — Bir sostavli gap. Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -4084,6 +4253,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bitishuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Shaxsi noaniq gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi). Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -4108,6 +4278,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)'?» savolining to'g'ri javobi — Shaxsi noaniq gap. Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -4132,6 +4303,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Ravish so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Shaxssiz gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi). Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -4156,6 +4328,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)'?» savolining to'g'ri javobi — Shaxssiz gap. Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -4180,6 +4353,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Atov gap (nominativ gap)' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Atov gap (nominativ gap)' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.). Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -4204,6 +4378,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)'?» savolining to'g'ri javobi — Atov gap. Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -4228,6 +4403,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Bog'langan qo'shma gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap. Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -4252,6 +4428,7 @@ const onaTili = {
           "text": "Ko'chirma gap muallif gapidan oldin kelsa, qanday tinish belgisi qo'yiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap'?» savolining to'g'ri javobi — Bog'langan qo'shma gap. Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -4276,6 +4453,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Ona tili darsliklarida 'Ergashgan qo'shma gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap. Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -4300,6 +4478,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap'?» savolining to'g'ri javobi — Ergashgan qo'shma gap. Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -4324,6 +4503,7 @@ const onaTili = {
           "text": "'Katta' so'ziga '-roq' qo'shilganda yoki 'yurak' + '-im' -> 'yuragim' so'zida qanday tovush hodisasi yuz bergan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Qaysi qatorda faqat yasama otlar berilgan?» savolining to'g'ri javobi — Tadbirkor, paxtakor, gulzor, terimchi. -kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -4348,6 +4528,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Olmosh so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Qaysi qatorda yasama sifatlar berilgan?» savolining to'g'ri javobi — Aqlli, serhosil, mazali, bo'yoqdor. -li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -4372,6 +4553,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Atov gap (nominativ gap)' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Ravish yasovchi qo'shimchalar qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — -cha, -chasiga, -ona, -an (o'zbekcha, do'stona, qasddan). -cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -4396,6 +4578,7 @@ const onaTili = {
           "text": "'Qo'li gul' iborasining ma'nosi nima?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Fe'lning zamonlari nechta?» savolining to'g'ri javobi — 3 ta (O'tgan zamon, Hozirgi zamon, Kelasi zamon). Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -4420,6 +4603,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Yuklama' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Fe'lning mayl shakllari qaysi qatorda to'g'ri berilgan?» savolining to'g'ri javobi — Ijro mayli, Buyruq-istak mayli, Shart mayli, Maqsad mayli. Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -4444,6 +4628,7 @@ const onaTili = {
           "text": "'Burun' so'ziga egalik qo'shimchasi qo'shilganda ('burni') qanday tovush hodisasi yuz beradi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Kirish so'zlar va kiritmalar gapda qanday vazifa bajaradi?» savolining to'g'ri javobi — Gap bo'laklari bilan grammatik bog'lanmaydi, fikrga munosabat bildiradi va vergul bilan ajratiladi. Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -4468,6 +4653,7 @@ const onaTili = {
           "text": "Undalma nima?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Undalma nima?» savolining to'g'ri javobi — Nutq qaratilgan shaxs yoki narsa-buyumni bildiruvchi, vergul yoki undov bilan ajratiladigan so'z. Undalma gap a'zosi hisoblanmaydi."
     },
@@ -4492,6 +4678,7 @@ const onaTili = {
           "text": "'Katta' so'ziga '-roq' qo'shilganda yoki 'yurak' + '-im' -> 'yuragim' so'zida qanday tovush hodisasi yuz bergan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ajratilgan bo'laklar qanday belgilanadi?» savolining to'g'ri javobi — Ohang jihatidan ajralib, yozuvda vergul yoki tire bilan belgilanadi. Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -4516,6 +4703,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Qaysi qatorda tinish belgilari to'g'ri qo'llangan?» savolining to'g'ri javobi — Ustozimiz: 'Bilim — kuchdir', — deb uqtirdilar.. Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -4540,6 +4728,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Rasmiy-idoraviy uslubning asosiy xususiyati nima?» savolining to'g'ri javobi — Aniq, qat'iy standart shakllarga ega bo'lishi, his-tuyg'ularning ifodalanmasligi (qonunlar, arizalar). Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -4564,6 +4753,7 @@ const onaTili = {
           "text": "'Qo'li gul' iborasining ma'nosi nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Badiiy uslubning asosiy belgisi nima?» savolining to'g'ri javobi — Obrazlilik, emotsionallik, tasviriy vositalar (tashbeh, metafora, sifatlash)ning keng qo'llanishi. Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -4588,6 +4778,7 @@ const onaTili = {
           "text": "O'zlik olmoshi qaysi so'z hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -4612,6 +4803,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -4636,6 +4828,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -4660,6 +4853,7 @@ const onaTili = {
           "text": "'Burun' so'ziga egalik qo'shimchasi qo'shilganda ('burni') qanday tovush hodisasi yuz beradi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -4684,6 +4878,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bir sostavli (bir tarkibli) gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -4708,6 +4903,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -4732,6 +4928,7 @@ const onaTili = {
           "text": "Qarama-qarshi ma'noli so'zlar guruhi nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Omonimlar shakldosh so'zlardir."
     },
@@ -4756,6 +4953,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Yuklama' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -4780,6 +4978,7 @@ const onaTili = {
           "text": "Uyushiq bo'laklar nima?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Antonimlar ziddiyatni bildiradi."
     },
@@ -4804,6 +5003,7 @@ const onaTili = {
           "text": "'Qo'li gul' iborasining ma'nosi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -4828,6 +5028,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Aniqlovchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -4852,6 +5053,7 @@ const onaTili = {
           "text": "Hol gapda nimani bildiradi va qaysi so'roqlarga javob bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -4876,6 +5078,7 @@ const onaTili = {
           "text": "Qaysi qatorda faqat shakl yasovchi (lug'aviy shakl) qo'shimchalar berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -4900,6 +5103,7 @@ const onaTili = {
           "text": "Qaysi qatorda munosabat shakl yasovchi (sintaktik aloqaga kirishuvchi) qo'shimchalar berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -4924,6 +5128,7 @@ const onaTili = {
           "text": "O'zbek tilida nechta kelishik mavjud?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Kelishiklar tizimi 6 ta."
     },
@@ -4948,6 +5153,7 @@ const onaTili = {
           "text": "Ko'chirma gap muallif gapidan oldin kelsa, qanday tinish belgisi qo'yiladi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -4972,6 +5178,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -4996,6 +5203,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Ega' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sifat darajalari 4 ta."
     },
@@ -5020,6 +5228,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Sifat so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "-ta qo'shimchasi dona son yasaydi."
     },
@@ -5044,6 +5253,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -5068,6 +5278,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Shaxssiz gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -5092,6 +5303,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -5116,6 +5328,7 @@ const onaTili = {
           "text": "Qaysi qatorda so'z yasovchi qo'shimchalar berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -5140,6 +5353,7 @@ const onaTili = {
           "text": "Qaysi qatorda munosabat shakl yasovchi (sintaktik aloqaga kirishuvchi) qo'shimchalar berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -5164,6 +5378,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Sifat so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -5188,6 +5403,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -5212,6 +5428,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Sifat so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -5236,6 +5453,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Hol ikkinchi darajali bo'lakdir."
     },
@@ -5260,6 +5478,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Sifat so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -5284,6 +5503,7 @@ const onaTili = {
           "text": "Uyushiq bo'laklar nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -5308,6 +5528,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Boshqaruv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -5332,6 +5553,7 @@ const onaTili = {
           "text": "Ravish yasovchi qo'shimchalar qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -5356,6 +5578,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Moslashuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -5380,6 +5603,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Olmosh so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -5404,6 +5628,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Atov gap (nominativ gap)' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -5428,6 +5653,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -5452,6 +5678,7 @@ const onaTili = {
           "text": "Badiiy uslubning asosiy belgisi nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -5476,6 +5703,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Undov so'zlar' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -5500,6 +5728,7 @@ const onaTili = {
           "text": "Ravish yasovchi qo'shimchalar qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -5524,6 +5753,7 @@ const onaTili = {
           "text": "Rasmiy-idoraviy uslubning asosiy xususiyati nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -5548,6 +5778,7 @@ const onaTili = {
           "text": "Qarama-qarshi ma'noli so'zlar guruhi nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -5572,6 +5803,7 @@ const onaTili = {
           "text": "Undalma nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -5596,6 +5828,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -5620,6 +5853,7 @@ const onaTili = {
           "text": "Talaffuzi va yozilishi yaqin, ammo ma'nosi butunlay farq qiluvchi so'zlar juftligi qanday ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -5644,6 +5878,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -5668,6 +5903,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -5692,6 +5928,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Ko'makchi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -5716,6 +5953,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -5740,6 +5978,7 @@ const onaTili = {
           "text": "Qaysi qatordagi so'zlar chiziqcha (defis) bilan yoziladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -5764,6 +6003,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -5788,6 +6028,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Yuklama' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -5812,6 +6053,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -5836,6 +6078,7 @@ const onaTili = {
           "text": "Undalma nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -5860,6 +6103,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -5884,6 +6128,7 @@ const onaTili = {
           "text": "O'zbek tilida nechta kelishik mavjud?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -5908,6 +6153,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -5932,6 +6178,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -5956,6 +6203,7 @@ const onaTili = {
           "text": "Hol gapda nimani bildiradi va qaysi so'roqlarga javob bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -5980,6 +6228,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Ega' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -6004,6 +6253,7 @@ const onaTili = {
           "text": "Fe'lning zamonlari nechta?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -6028,6 +6278,7 @@ const onaTili = {
           "text": "Qaysi qatorda faqat jarangsiz undoshlar berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -6052,6 +6303,7 @@ const onaTili = {
           "text": "O'zlik olmoshi qaysi so'z hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -6076,6 +6328,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bitishuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -6100,6 +6353,7 @@ const onaTili = {
           "text": "Badiiy uslubning asosiy belgisi nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -6124,6 +6378,7 @@ const onaTili = {
           "text": "Undalma nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -6148,6 +6403,7 @@ const onaTili = {
           "text": "Qaysi qatorda faqat yasama otlar berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -6172,6 +6428,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Moslashuv bog'lanishi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -6196,6 +6453,7 @@ const onaTili = {
           "text": "Qarama-qarshi ma'noli so'zlar guruhi nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -6220,6 +6478,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Olmosh so'z turkumi' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -6244,6 +6503,7 @@ const onaTili = {
           "text": "Rasmiy-idoraviy uslubning asosiy xususiyati nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -6268,6 +6528,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -6292,6 +6553,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -6316,6 +6578,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -6340,6 +6603,7 @@ const onaTili = {
           "text": "Undalma nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -6364,6 +6628,7 @@ const onaTili = {
           "text": "'Yuragi orqasiga tortib ketdi' iborasi qanday ma'noni bildiradi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -6388,6 +6653,7 @@ const onaTili = {
           "text": "Bog'lovchisiz qo'shma gap nima?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -6412,6 +6678,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bog'langan qo'shma gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -6436,6 +6703,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -6460,6 +6728,7 @@ const onaTili = {
           "text": "Qaysi qatordagi barcha undoshlar jarangli hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -6484,6 +6753,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -6508,6 +6778,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bog'langan qo'shma gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -6532,6 +6803,7 @@ const onaTili = {
           "text": "Bog'lovchisiz qo'shma gap nima?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -6556,6 +6828,7 @@ const onaTili = {
           "text": "Qaysi qatorda tinish belgilari to'g'ri qo'llangan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -6580,6 +6853,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Bir sostavli (bir tarkibli) gap' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -6604,6 +6878,7 @@ const onaTili = {
           "text": "Fe'lning mayl shakllari qaysi qatorda to'g'ri berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "-kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -6628,6 +6903,7 @@ const onaTili = {
           "text": "Qaysi qatorda yasama sifatlar berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "-li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -6652,6 +6928,7 @@ const onaTili = {
           "text": "Ravish yasovchi qo'shimchalar qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "-cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -6676,6 +6953,7 @@ const onaTili = {
           "text": "O'zlik olmoshi qaysi so'z hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -6700,6 +6978,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -6724,6 +7003,7 @@ const onaTili = {
           "text": "Kirish so'zlar va kiritmalar gapda qanday vazifa bajaradi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -6748,6 +7028,7 @@ const onaTili = {
           "text": "Ona tili darsliklarida 'Ega' tushunchasining ilmiy ta'rifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Undalma gap a'zosi hisoblanmaydi."
     },
@@ -6772,6 +7053,7 @@ const onaTili = {
           "text": "Qaysi qatorda sanoq sonning 'dona son' turi berilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -6796,6 +7078,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -6820,6 +7103,7 @@ const onaTili = {
           "text": "Quyidagi ta'rif qaysi grammatik birlik, so'z turkumi yoki sintaktik hodisaga tegishli: 'Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -6844,6 +7128,7 @@ const onaTili = {
           "text": "Sifatning qanday darajalari bor?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -6868,6 +7153,7 @@ const onaTili = {
           "text": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -6892,6 +7178,7 @@ const onaTili = {
           "text": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -6916,6 +7203,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -6940,6 +7228,7 @@ const onaTili = {
           "text": "Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -6964,6 +7253,7 @@ const onaTili = {
           "text": "Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -6988,6 +7278,7 @@ const onaTili = {
           "text": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -7012,6 +7303,7 @@ const onaTili = {
           "text": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Omonimlar shakldosh so'zlardir."
     },
@@ -7036,6 +7328,7 @@ const onaTili = {
           "text": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -7060,6 +7353,7 @@ const onaTili = {
           "text": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Antonimlar ziddiyatni bildiradi."
     },
@@ -7084,6 +7378,7 @@ const onaTili = {
           "text": "O'zbek alifbosida 6 ta unli tovush mavjud."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -7108,6 +7403,7 @@ const onaTili = {
           "text": "Muallif gapi va ko'chirma gap qoidasi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -7132,6 +7428,7 @@ const onaTili = {
           "text": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -7156,6 +7453,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -7180,6 +7478,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Kesim'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -7204,6 +7503,7 @@ const onaTili = {
           "text": "Kirish so'zlar gap bo'lagi bo'la olmaydi."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Kelishiklar tizimi 6 ta."
     },
@@ -7228,6 +7528,7 @@ const onaTili = {
           "text": "Harakat nomi fe'lning otlashgan shaklidir."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -7252,6 +7553,7 @@ const onaTili = {
           "text": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -7276,6 +7578,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Sifat darajalari 4 ta."
     },
@@ -7300,6 +7603,7 @@ const onaTili = {
           "text": "-ta qo'shimchasi dona son yasaydi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "-ta qo'shimchasi dona son yasaydi."
     },
@@ -7324,6 +7628,7 @@ const onaTili = {
           "text": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -7348,6 +7653,7 @@ const onaTili = {
           "text": "'O'z' olmoshi o'zlikni bildiradi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -7372,6 +7678,7 @@ const onaTili = {
           "text": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -7396,6 +7703,7 @@ const onaTili = {
           "text": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -7420,6 +7728,7 @@ const onaTili = {
           "text": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -7444,6 +7753,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -7468,6 +7778,7 @@ const onaTili = {
           "text": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -7492,6 +7803,7 @@ const onaTili = {
           "text": "Ega va kesim gapning grammatik asosini tashkil qiladi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -7516,6 +7828,7 @@ const onaTili = {
           "text": "Hol ikkinchi darajali bo'lakdir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Hol ikkinchi darajali bo'lakdir."
     },
@@ -7540,6 +7853,7 @@ const onaTili = {
           "text": "Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -7564,6 +7878,7 @@ const onaTili = {
           "text": "Uyushiq bo'laklar o'zaro teng bog'lanadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -7588,6 +7903,7 @@ const onaTili = {
           "text": "O'zbek alifbosida 6 ta unli tovush mavjud."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -7612,6 +7928,7 @@ const onaTili = {
           "text": "Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -7636,6 +7953,7 @@ const onaTili = {
           "text": "Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -7660,6 +7978,7 @@ const onaTili = {
           "text": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -7684,6 +8003,7 @@ const onaTili = {
           "text": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -7708,6 +8028,7 @@ const onaTili = {
           "text": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -7732,6 +8053,7 @@ const onaTili = {
           "text": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -7756,6 +8078,7 @@ const onaTili = {
           "text": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -7780,6 +8103,7 @@ const onaTili = {
           "text": "Sifat darajalari 4 ta."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -7804,6 +8128,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -7828,6 +8153,7 @@ const onaTili = {
           "text": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -7852,6 +8178,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -7876,6 +8203,7 @@ const onaTili = {
           "text": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -7900,6 +8228,7 @@ const onaTili = {
           "text": "Kelishiklar tizimi 6 ta."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -7924,6 +8253,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -7948,6 +8278,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -7972,6 +8303,7 @@ const onaTili = {
           "text": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -7996,6 +8328,7 @@ const onaTili = {
           "text": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -8020,6 +8353,7 @@ const onaTili = {
           "text": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -8044,6 +8378,7 @@ const onaTili = {
           "text": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -8068,6 +8403,7 @@ const onaTili = {
           "text": "Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -8092,6 +8428,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Yuklama'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -8116,6 +8453,7 @@ const onaTili = {
           "text": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -8140,6 +8478,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -8164,6 +8503,7 @@ const onaTili = {
           "text": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -8188,6 +8528,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Bog'lovchi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -8212,6 +8553,7 @@ const onaTili = {
           "text": "Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -8236,6 +8578,7 @@ const onaTili = {
           "text": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -8260,6 +8603,7 @@ const onaTili = {
           "text": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -8284,6 +8628,7 @@ const onaTili = {
           "text": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -8308,6 +8653,7 @@ const onaTili = {
           "text": "Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -8332,6 +8678,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -8356,6 +8703,7 @@ const onaTili = {
           "text": "To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -8380,6 +8728,7 @@ const onaTili = {
           "text": "Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -8404,6 +8753,7 @@ const onaTili = {
           "text": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -8428,6 +8778,7 @@ const onaTili = {
           "text": "Hol ikkinchi darajali bo'lakdir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -8452,6 +8803,7 @@ const onaTili = {
           "text": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -8476,6 +8828,7 @@ const onaTili = {
           "text": "Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -8500,6 +8853,7 @@ const onaTili = {
           "text": "Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -8524,6 +8878,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -8548,6 +8903,7 @@ const onaTili = {
           "text": "Ega va kesim gapning grammatik asosini tashkil qiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -8572,6 +8928,7 @@ const onaTili = {
           "text": "Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -8596,6 +8953,7 @@ const onaTili = {
           "text": "Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -8620,6 +8978,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -8644,6 +9003,7 @@ const onaTili = {
           "text": "Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -8668,6 +9028,7 @@ const onaTili = {
           "text": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -8692,6 +9053,7 @@ const onaTili = {
           "text": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -8716,6 +9078,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -8740,6 +9103,7 @@ const onaTili = {
           "text": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -8764,6 +9128,7 @@ const onaTili = {
           "text": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -8788,6 +9153,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -8812,6 +9178,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -8836,6 +9203,7 @@ const onaTili = {
           "text": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -8860,6 +9228,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -8884,6 +9253,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "-kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -8908,6 +9278,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "-li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -8932,6 +9303,7 @@ const onaTili = {
           "text": "Fe'l zamoni 3 ta asosiy turga bo'linadi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "-cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -8956,6 +9328,7 @@ const onaTili = {
           "text": "Fe'l zamoni 3 ta asosiy turga bo'linadi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -8980,6 +9353,7 @@ const onaTili = {
           "text": "Hol ikkinchi darajali bo'lakdir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -9004,6 +9378,7 @@ const onaTili = {
           "text": "Kirish so'zlar gap bo'lagi bo'la olmaydi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -9028,6 +9403,7 @@ const onaTili = {
           "text": "Undalma gap a'zosi hisoblanmaydi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Undalma gap a'zosi hisoblanmaydi."
     },
@@ -9052,6 +9428,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -9076,6 +9453,7 @@ const onaTili = {
           "text": "Ushbu ta'rif 'Aniqlovchi'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -9100,6 +9478,7 @@ const onaTili = {
           "text": "O'zbek alifbosida 6 ta unli tovush mavjud."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -9124,6 +9503,7 @@ const onaTili = {
           "text": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -9148,6 +9528,7 @@ const onaTili = {
           "text": "Kesim va hol"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -9172,6 +9553,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -9196,6 +9578,7 @@ const onaTili = {
           "text": "Sifat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -9220,6 +9603,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -9244,6 +9628,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -9268,6 +9653,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -9292,6 +9678,7 @@ const onaTili = {
           "text": "Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -9316,6 +9703,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -9340,6 +9728,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -9364,6 +9753,7 @@ const onaTili = {
           "text": "Modal"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -9388,6 +9778,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -9412,6 +9803,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -9436,6 +9828,7 @@ const onaTili = {
           "text": "So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -9460,6 +9853,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -9484,6 +9878,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -9508,6 +9903,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -9532,6 +9928,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -9556,6 +9953,7 @@ const onaTili = {
           "text": "Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -9580,6 +9978,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -9604,6 +10003,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -9628,6 +10028,7 @@ const onaTili = {
           "text": "Bitishuv"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -9652,6 +10053,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -9676,6 +10078,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -9700,6 +10103,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -9724,6 +10128,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -9748,6 +10153,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -9772,6 +10178,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -9796,6 +10203,7 @@ const onaTili = {
           "text": "Atov gap"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -9820,6 +10228,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -9844,6 +10253,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -9860,6 +10270,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -9876,6 +10287,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -9892,6 +10304,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -9908,6 +10321,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -9924,6 +10338,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -9940,6 +10355,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -9956,6 +10372,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Omonimlar shakldosh so'zlardir."
     },
@@ -9972,6 +10389,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -9988,6 +10406,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Antonimlar ziddiyatni bildiradi."
     },
@@ -10004,6 +10423,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -10020,6 +10440,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -10036,6 +10457,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -10052,6 +10474,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -10068,6 +10491,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -10084,6 +10508,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Kelishiklar tizimi 6 ta."
     },
@@ -10100,6 +10525,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -10116,6 +10542,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -10132,6 +10559,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Sifat darajalari 4 ta."
     },
@@ -10148,6 +10576,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. -ta qo'shimchasi dona son yasaydi."
     },
@@ -10164,6 +10593,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -10180,6 +10610,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -10196,6 +10627,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -10212,6 +10644,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -10228,6 +10661,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -10244,6 +10678,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -10260,6 +10695,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -10276,6 +10712,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -10292,6 +10729,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Hol ikkinchi darajali bo'lakdir."
     },
@@ -10308,6 +10746,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -10324,6 +10763,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -10340,6 +10780,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -10356,6 +10797,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -10372,6 +10814,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -10388,6 +10831,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -10404,6 +10848,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -10420,6 +10865,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -10436,6 +10882,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -10452,6 +10899,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -10468,6 +10916,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -10484,6 +10933,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -10500,6 +10950,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -10516,6 +10967,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -10532,6 +10984,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -10548,6 +11001,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -10564,6 +11018,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -10580,6 +11035,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -10596,6 +11052,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -10612,6 +11069,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -10628,6 +11086,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -10644,6 +11103,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -10660,6 +11120,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -10676,6 +11137,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -10692,6 +11154,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -10708,6 +11171,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -10724,6 +11188,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -10740,6 +11205,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -10756,6 +11222,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -10772,6 +11239,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -10788,6 +11256,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -10804,6 +11273,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -10820,6 +11290,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -10836,6 +11307,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -10852,6 +11324,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -10868,6 +11341,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -10884,6 +11358,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -10900,6 +11375,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -10916,6 +11392,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -10932,6 +11409,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -10948,6 +11426,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -10964,6 +11443,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -10980,6 +11460,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -10996,6 +11477,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -11012,6 +11494,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -11028,6 +11511,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -11044,6 +11528,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -11060,6 +11545,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -11076,6 +11562,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -11092,6 +11579,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -11108,6 +11596,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -11124,6 +11613,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -11140,6 +11630,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -11156,6 +11647,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -11172,6 +11664,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -11188,6 +11681,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -11204,6 +11698,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. -kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -11220,6 +11715,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. -li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -11236,6 +11732,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. -cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -11252,6 +11749,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -11268,6 +11766,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -11284,6 +11783,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -11300,6 +11800,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Undalma gap a'zosi hisoblanmaydi."
     },
@@ -11316,6 +11817,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -11332,6 +11834,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -11348,6 +11851,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -11364,6 +11868,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -11380,6 +11885,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6 ta (a, o, i, u, o', e). O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -11396,6 +11902,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — b, d, z, g, v, j. Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -11412,6 +11919,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — p, t, k, s, sh, ch, f, x, q, h. Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -11428,6 +11936,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tovush tushishi. Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -11444,6 +11953,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tovush tushishi ('t' tushgan). Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -11460,6 +11970,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tovush almashishi (k -> g). So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -11476,6 +11987,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Omonimlar (masalan: o't, olma, yoz). Omonimlar shakldosh so'zlardir."
     },
@@ -11492,6 +12004,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Paronimlar (masalan: asr - axr, adib -传送- adib). Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -11508,6 +12021,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Antonimlar (masalan: oq - qora, baland - past). Antonimlar ziddiyatni bildiradi."
     },
@@ -11524,6 +12038,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mohir, usta, chaqqon hunarmand. Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -11540,6 +12055,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qattiq qo'rqib ketdi. Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -11556,6 +12072,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -chi, -kor, -dosh, -zor. So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -11572,6 +12089,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -roq, -gina, -lar, -cha. Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -11588,6 +12106,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kelishik va egalik qo'shimchalari. Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -11604,6 +12123,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 6 ta (Bosh, Qaratqich, Tushum, Jo'nalish, O'rin-payt, Chiqish). Kelishiklar tizimi 6 ta."
     },
@@ -11620,6 +12140,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -ning (kimning? nimaning?). Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -11636,6 +12157,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -ni (kimni? nimani?). Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -11652,6 +12174,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Oddiy, qiyosiy, orttirma, ozaytirma. Sifat darajalari 4 ta."
     },
@@ -11668,6 +12191,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Beshta, o'nta, yuzta. -ta qo'shimchasi dona son yasaydi."
     },
@@ -11684,6 +12208,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikkala, uchovlon, to'rtov. Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -11700,6 +12225,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — O'z (o'zim, o'zing, o'zi). 'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -11716,6 +12242,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -sh, -ish, -v, -uv, -moq (o'qish, boruv, yozmoq). Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -11732,6 +12259,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -gan/-kan/-qan, -yotgan, -ar/-mas, -digan (kelgan bola, o'qiyotgan talaba). Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -11748,6 +12276,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -b, -ib, -a, -y, -gach, -guncha, -gani (kelib aytdi, kulgach ketdi). Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -11764,6 +12293,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Majhul nisbat (-il, -in: xat yozildi, eshik ochildi). Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -11780,6 +12310,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ish-harakat boshqa birovga bajartirilganini bildiradi (-dir, -tir, -t, -ir, -sat: o'qitdi, yozdirdi). Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -11796,6 +12327,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Ega va kesim. Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -11812,6 +12344,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Harakatning o'rni, payti, sababi, maqsadi, darajasi va tarzini (qayerda? qachon? nega? qanday?). Hol ikkinchi darajali bo'lakdir."
     },
@@ -11828,6 +12361,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tarkibidagi sodda gaplar bog'lovchisiz, faqat ohang (intonatsiya) orqali bog'langan qo'shma gap. Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -11844,6 +12378,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Bir xil so'roqqa javob bo'lib, bir xil sintaktik vazifa bajaradigan va bir so'zga bog'langan bo'laklar. Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -11860,6 +12395,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikki nuqta (:). Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -11876,6 +12412,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tire (-). Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -11892,6 +12429,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Katta-kichik, asta-sekin, bugun-erta, do'st-dushman. Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -11908,6 +12446,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi. Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -11924,6 +12463,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot. Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -11940,6 +12480,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi. Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -11956,6 +12497,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sifat. Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -11972,6 +12514,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi. Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -11988,6 +12531,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Son. Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -12004,6 +12548,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar. Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -12020,6 +12565,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Olmosh. Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -12036,6 +12582,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi. Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -12052,6 +12599,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ravish. Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -12068,6 +12616,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum. Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -12084,6 +12633,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe'l. Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -12100,6 +12650,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari). Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -12116,6 +12667,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ko'makchi. Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -12132,6 +12684,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki). Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -12148,6 +12701,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bog'lovchi. Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -12164,6 +12718,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto). Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -12180,6 +12735,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Yuklama. Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -12196,6 +12752,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski). Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -12212,6 +12769,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Modal so'zlar. Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -12228,6 +12786,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht). Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -12244,6 +12803,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Undov so'zlar. Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -12260,6 +12820,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt). Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -12276,6 +12837,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Taqlid so'zlar. Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -12292,6 +12854,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?). Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -12308,6 +12871,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ega. Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -12324,6 +12888,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak. Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -12340,6 +12905,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kesim. Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -12356,6 +12922,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?). To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -12372,6 +12939,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — To'ldiruvchi. Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -12388,6 +12956,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?). Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -12404,6 +12973,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aniqlovchi. Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -12420,6 +12990,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim). Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -12436,6 +13007,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Moslashuv. Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -12452,6 +13024,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat). Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -12468,6 +13041,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Boshqaruv. Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -12484,6 +13058,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam). Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -12500,6 +13075,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bitishuv. Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -12516,6 +13092,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap. Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -12532,6 +13109,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bir sostavli gap. Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -12548,6 +13126,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi). Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -12564,6 +13143,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxsi noaniq gap. Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -12580,6 +13160,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi). Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -12596,6 +13177,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxssiz gap. Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -12612,6 +13194,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.). Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -12628,6 +13211,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Atov gap. Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -12644,6 +13228,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap. Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -12660,6 +13245,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bog'langan qo'shma gap. Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -12676,6 +13262,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap. Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -12692,6 +13279,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ergashgan qo'shma gap. Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -12708,6 +13296,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tadbirkor, paxtakor, gulzor, terimchi. -kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -12724,6 +13313,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Aqlli, serhosil, mazali, bo'yoqdor. -li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -12740,6 +13330,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -cha, -chasiga, -ona, -an (o'zbekcha, do'stona, qasddan). -cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -12756,6 +13347,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 3 ta (O'tgan zamon, Hozirgi zamon, Kelasi zamon). Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -12772,6 +13364,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ijro mayli, Buyruq-istak mayli, Shart mayli, Maqsad mayli. Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -12788,6 +13381,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Gap bo'laklari bilan grammatik bog'lanmaydi, fikrga munosabat bildiradi va vergul bilan ajratiladi. Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -12804,6 +13398,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Nutq qaratilgan shaxs yoki narsa-buyumni bildiruvchi, vergul yoki undov bilan ajratiladigan so'z. Undalma gap a'zosi hisoblanmaydi."
     },
@@ -12820,6 +13415,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ohang jihatidan ajralib, yozuvda vergul yoki tire bilan belgilanadi. Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -12836,6 +13432,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ustozimiz: 'Bilim — kuchdir', — deb uqtirdilar.. Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -12852,6 +13449,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Aniq, qat'iy standart shakllarga ega bo'lishi, his-tuyg'ularning ifodalanmasligi (qonunlar, arizalar). Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -12868,6 +13466,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Obrazlilik, emotsionallik, tasviriy vositalar (tashbeh, metafora, sifatlash)ning keng qo'llanishi. Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -12884,6 +13483,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6 ta (a, o, i, u, o', e). O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -12900,6 +13500,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — b, d, z, g, v, j. Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -12916,6 +13517,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — p, t, k, s, sh, ch, f, x, q, h. Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -12932,6 +13534,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tovush tushishi. Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -12948,6 +13551,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tovush tushishi ('t' tushgan). Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -12964,6 +13568,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tovush almashishi (k -> g). So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -12980,6 +13585,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Omonimlar (masalan: o't, olma, yoz). Omonimlar shakldosh so'zlardir."
     },
@@ -12996,6 +13602,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Paronimlar (masalan: asr - axr, adib -传送- adib). Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -13012,6 +13619,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Antonimlar (masalan: oq - qora, baland - past). Antonimlar ziddiyatni bildiradi."
     },
@@ -13028,6 +13636,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mohir, usta, chaqqon hunarmand. Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -13044,6 +13653,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qattiq qo'rqib ketdi. Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -13060,6 +13670,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -chi, -kor, -dosh, -zor. So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -13076,6 +13687,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -roq, -gina, -lar, -cha. Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -13092,6 +13704,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kelishik va egalik qo'shimchalari. Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -13108,6 +13721,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 6 ta (Bosh, Qaratqich, Tushum, Jo'nalish, O'rin-payt, Chiqish). Kelishiklar tizimi 6 ta."
     },
@@ -13124,6 +13738,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -ning (kimning? nimaning?). Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -13140,6 +13755,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -ni (kimni? nimani?). Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -13156,6 +13772,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Oddiy, qiyosiy, orttirma, ozaytirma. Sifat darajalari 4 ta."
     },
@@ -13172,6 +13789,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Beshta, o'nta, yuzta. -ta qo'shimchasi dona son yasaydi."
     },
@@ -13188,6 +13806,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikkala, uchovlon, to'rtov. Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -13204,6 +13823,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — O'z (o'zim, o'zing, o'zi). 'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -13220,6 +13840,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -sh, -ish, -v, -uv, -moq (o'qish, boruv, yozmoq). Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -13236,6 +13857,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -gan/-kan/-qan, -yotgan, -ar/-mas, -digan (kelgan bola, o'qiyotgan talaba). Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -13252,6 +13874,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -b, -ib, -a, -y, -gach, -guncha, -gani (kelib aytdi, kulgach ketdi). Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -13268,6 +13891,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Majhul nisbat (-il, -in: xat yozildi, eshik ochildi). Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -13284,6 +13908,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ish-harakat boshqa birovga bajartirilganini bildiradi (-dir, -tir, -t, -ir, -sat: o'qitdi, yozdirdi). Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -13300,6 +13925,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Ega va kesim. Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -13316,6 +13942,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Harakatning o'rni, payti, sababi, maqsadi, darajasi va tarzini (qayerda? qachon? nega? qanday?). Hol ikkinchi darajali bo'lakdir."
     },
@@ -13332,6 +13959,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tarkibidagi sodda gaplar bog'lovchisiz, faqat ohang (intonatsiya) orqali bog'langan qo'shma gap. Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -13348,6 +13976,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Bir xil so'roqqa javob bo'lib, bir xil sintaktik vazifa bajaradigan va bir so'zga bog'langan bo'laklar. Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -13364,6 +13993,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — \"Ko'chirma gap\", - dedi muallif.. Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -13380,6 +14010,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikki nuqta (:). Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -13396,6 +14027,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tire (-). Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -13412,6 +14044,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Katta-kichik, asta-sekin, bugun-erta, do'st-dushman. Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -13428,6 +14061,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi. Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -13444,6 +14078,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot. Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -13460,6 +14095,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi. Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -13476,6 +14112,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sifat. Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -13492,6 +14129,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi. Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -13508,6 +14146,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Son. Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -13524,6 +14163,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar. Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -13540,6 +14180,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Olmosh. Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -13556,6 +14197,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi. Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -13572,6 +14214,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ravish. Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -13588,6 +14231,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum. Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -13604,6 +14248,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe'l. Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -13620,6 +14265,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari). Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -13636,6 +14282,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ko'makchi. Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -13652,6 +14299,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki). Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -13668,6 +14316,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bog'lovchi. Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -13684,6 +14333,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto). Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -13700,6 +14350,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Yuklama. Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -13716,6 +14367,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski). Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -13732,6 +14384,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Modal so'zlar. Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -13748,6 +14401,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht). Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -13764,6 +14418,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Undov so'zlar. Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -13780,6 +14435,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt). Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -13796,6 +14452,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Taqlid so'zlar. Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -13812,6 +14469,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?). Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -13828,6 +14486,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ega. Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -13844,6 +14503,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak. Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -13860,6 +14520,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kesim. Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -13876,6 +14537,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?). To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -13892,6 +14554,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — To'ldiruvchi. Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -13908,6 +14571,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?). Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -13924,6 +14588,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aniqlovchi. Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -13940,6 +14605,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim). Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -13956,6 +14622,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Moslashuv. Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -13972,6 +14639,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat). Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -13988,6 +14656,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Boshqaruv. Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -14004,6 +14673,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam). Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -14020,6 +14690,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bitishuv. Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -14036,6 +14707,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap. Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -14052,6 +14724,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bir sostavli gap. Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -14068,6 +14741,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi). Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -14084,6 +14758,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxsi noaniq gap. Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -14100,6 +14775,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi). Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -14116,6 +14792,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxssiz gap. Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -14132,6 +14809,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.). Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -14148,6 +14826,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Atov gap. Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -14164,6 +14843,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap. Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -14180,6 +14860,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bog'langan qo'shma gap. Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -14196,6 +14877,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap. Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -14212,6 +14894,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ergashgan qo'shma gap. Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -14228,6 +14911,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tadbirkor, paxtakor, gulzor, terimchi. -kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -14244,6 +14928,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Aqlli, serhosil, mazali, bo'yoqdor. -li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -14260,6 +14945,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -cha, -chasiga, -ona, -an (o'zbekcha, do'stona, qasddan). -cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -14276,6 +14962,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 3 ta (O'tgan zamon, Hozirgi zamon, Kelasi zamon). Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -14292,6 +14979,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ijro mayli, Buyruq-istak mayli, Shart mayli, Maqsad mayli. Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -14308,6 +14996,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Gap bo'laklari bilan grammatik bog'lanmaydi, fikrga munosabat bildiradi va vergul bilan ajratiladi. Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -14324,6 +15013,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Nutq qaratilgan shaxs yoki narsa-buyumni bildiruvchi, vergul yoki undov bilan ajratiladigan so'z. Undalma gap a'zosi hisoblanmaydi."
     },
@@ -14340,6 +15030,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ohang jihatidan ajralib, yozuvda vergul yoki tire bilan belgilanadi. Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -14356,6 +15047,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ustozimiz: 'Bilim — kuchdir', — deb uqtirdilar.. Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -14372,6 +15064,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Aniq, qat'iy standart shakllarga ega bo'lishi, his-tuyg'ularning ifodalanmasligi (qonunlar, arizalar). Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -14388,6 +15081,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Obrazlilik, emotsionallik, tasviriy vositalar (tashbeh, metafora, sifatlash)ning keng qo'llanishi. Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -14404,6 +15098,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6 ta (a, o, i, u, o', e). O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -14420,6 +15115,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — b, d, z, g, v, j. Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -14436,6 +15132,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — p, t, k, s, sh, ch, f, x, q, h. Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -14452,6 +15149,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tovush tushishi. Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -14468,6 +15166,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tovush tushishi ('t' tushgan). Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -14484,6 +15183,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tovush almashishi (k -> g). So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -14500,6 +15200,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Omonimlar (masalan: o't, olma, yoz). Omonimlar shakldosh so'zlardir."
     },
@@ -14516,6 +15217,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Paronimlar (masalan: asr - axr, adib -传送- adib). Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -14532,6 +15234,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Antonimlar (masalan: oq - qora, baland - past). Antonimlar ziddiyatni bildiradi."
     },
@@ -14548,6 +15251,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Mohir, usta, chaqqon hunarmand. Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -14564,6 +15268,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qattiq qo'rqib ketdi. Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -14580,6 +15285,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -chi, -kor, -dosh, -zor. So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -14596,6 +15302,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -roq, -gina, -lar, -cha. Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -14612,6 +15319,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kelishik va egalik qo'shimchalari. Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -14628,6 +15336,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 6 ta (Bosh, Qaratqich, Tushum, Jo'nalish, O'rin-payt, Chiqish). Kelishiklar tizimi 6 ta."
     },
@@ -14644,6 +15353,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -ning (kimning? nimaning?). Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -14660,6 +15370,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — -ni (kimni? nimani?). Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -14676,6 +15387,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Oddiy, qiyosiy, orttirma, ozaytirma. Sifat darajalari 4 ta."
     },
@@ -14692,6 +15404,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Beshta, o'nta, yuzta. -ta qo'shimchasi dona son yasaydi."
     },
@@ -14708,6 +15421,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikkala, uchovlon, to'rtov. Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -14724,6 +15438,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — O'z (o'zim, o'zing, o'zi). 'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -14740,6 +15455,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -sh, -ish, -v, -uv, -moq (o'qish, boruv, yozmoq). Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -14756,6 +15472,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -gan/-kan/-qan, -yotgan, -ar/-mas, -digan (kelgan bola, o'qiyotgan talaba). Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -14772,6 +15489,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -b, -ib, -a, -y, -gach, -guncha, -gani (kelib aytdi, kulgach ketdi). Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -14788,6 +15506,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Majhul nisbat (-il, -in: xat yozildi, eshik ochildi). Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -14804,6 +15523,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ish-harakat boshqa birovga bajartirilganini bildiradi (-dir, -tir, -t, -ir, -sat: o'qitdi, yozdirdi). Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -14820,6 +15540,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Ega va kesim. Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -14836,6 +15557,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Harakatning o'rni, payti, sababi, maqsadi, darajasi va tarzini (qayerda? qachon? nega? qanday?). Hol ikkinchi darajali bo'lakdir."
     },
@@ -14852,6 +15574,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tarkibidagi sodda gaplar bog'lovchisiz, faqat ohang (intonatsiya) orqali bog'langan qo'shma gap. Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -14868,6 +15591,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Bir xil so'roqqa javob bo'lib, bir xil sintaktik vazifa bajaradigan va bir so'zga bog'langan bo'laklar. Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -14884,6 +15608,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — \"Ko'chirma gap\", - dedi muallif.. Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -14900,6 +15625,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ikki nuqta (:). Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -14916,6 +15642,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tire (-). Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -14932,6 +15659,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Katta-kichik, asta-sekin, bugun-erta, do'st-dushman. Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -14948,6 +15676,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi. Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -14964,6 +15693,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot. Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -14980,6 +15710,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi. Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -14996,6 +15727,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sifat. Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -15012,6 +15744,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi. Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -15028,6 +15761,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Son. Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -15044,6 +15778,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar. Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -15060,6 +15795,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Olmosh. Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -15076,6 +15812,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi. Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -15092,6 +15829,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ravish. Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -15108,6 +15846,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum. Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -15124,6 +15863,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe'l. Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -15140,6 +15880,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari). Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -15156,6 +15897,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ko'makchi. Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -15172,6 +15914,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki). Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -15188,6 +15931,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bog'lovchi. Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -15204,6 +15948,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto). Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -15220,6 +15965,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Yuklama. Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -15236,6 +15982,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski). Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -15252,6 +15999,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Modal so'zlar. Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -15268,6 +16016,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht). Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -15284,6 +16033,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Undov so'zlar. Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -15300,6 +16050,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt). Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -15316,6 +16067,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Taqlid so'zlar. Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -15332,6 +16084,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?). Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -15348,6 +16101,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ega. Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -15364,6 +16118,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak. Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -15380,6 +16135,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kesim. Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -15396,6 +16152,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?). To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -15412,6 +16169,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — To'ldiruvchi. Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -15428,6 +16186,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?). Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -15444,6 +16203,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aniqlovchi. Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -15460,6 +16220,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim). Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -15476,6 +16237,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Moslashuv. Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -15492,6 +16254,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat). Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -15508,6 +16271,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Boshqaruv. Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -15524,6 +16288,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam). Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -15540,6 +16305,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bitishuv. Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -15556,6 +16322,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap. Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -15572,6 +16339,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bir sostavli gap. Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -15588,6 +16356,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi). Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -15604,6 +16373,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxsi noaniq gap. Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -15620,6 +16390,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi). Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -15636,6 +16407,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Shaxssiz gap. Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -15652,6 +16424,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.). Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -15668,6 +16441,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Atov gap. Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -15684,6 +16458,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap. Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -15700,6 +16475,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Bog'langan qo'shma gap. Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -15716,6 +16492,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap. Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -15732,6 +16509,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ergashgan qo'shma gap. Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -15748,6 +16526,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Tadbirkor, paxtakor, gulzor, terimchi. -kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -15764,6 +16543,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Aqlli, serhosil, mazali, bo'yoqdor. -li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -15780,6 +16560,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — -cha, -chasiga, -ona, -an (o'zbekcha, do'stona, qasddan). -cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -15796,6 +16577,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 3 ta (O'tgan zamon, Hozirgi zamon, Kelasi zamon). Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -15812,6 +16594,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ijro mayli, Buyruq-istak mayli, Shart mayli, Maqsad mayli. Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -15828,6 +16611,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Gap bo'laklari bilan grammatik bog'lanmaydi, fikrga munosabat bildiradi va vergul bilan ajratiladi. Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -15844,6 +16628,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Nutq qaratilgan shaxs yoki narsa-buyumni bildiruvchi, vergul yoki undov bilan ajratiladigan so'z. Undalma gap a'zosi hisoblanmaydi."
     },
@@ -15860,6 +16645,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ohang jihatidan ajralib, yozuvda vergul yoki tire bilan belgilanadi. Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -15876,6 +16662,7 @@ const onaTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ustozimiz: 'Bilim — kuchdir', — deb uqtirdilar.. Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -15892,6 +16679,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Aniq, qat'iy standart shakllarga ega bo'lishi, his-tuyg'ularning ifodalanmasligi (qonunlar, arizalar). Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -15908,6 +16696,7 @@ const onaTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Obrazlilik, emotsionallik, tasviriy vositalar (tashbeh, metafora, sifatlash)ning keng qo'llanishi. Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -15932,6 +16721,7 @@ const onaTili = {
           "text": "5 ta"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -15956,6 +16746,7 @@ const onaTili = {
           "text": "b, p, d, t, z, s"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -15980,6 +16771,7 @@ const onaTili = {
           "text": "b, d, g, z, j, v"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -16004,6 +16796,7 @@ const onaTili = {
           "text": "Tovush qisqarishi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -16028,6 +16821,7 @@ const onaTili = {
           "text": "Hech qanday o'zgarish yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -16052,6 +16846,7 @@ const onaTili = {
           "text": "Qorishiq tovush"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -16076,6 +16871,7 @@ const onaTili = {
           "text": "Omonimlar (masalan: o't, olma, yoz)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Omonimlar shakldosh so'zlardir."
     },
@@ -16100,6 +16896,7 @@ const onaTili = {
           "text": "Sinonimlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -16124,6 +16921,7 @@ const onaTili = {
           "text": "Omonimlar"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Antonimlar ziddiyatni bildiradi."
     },
@@ -16148,6 +16946,7 @@ const onaTili = {
           "text": "Saxiy inson"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -16172,6 +16971,7 @@ const onaTili = {
           "text": "Xursand bo'ldi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -16196,6 +16996,7 @@ const onaTili = {
           "text": "-roq, -gina, -choq"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -16220,6 +17021,7 @@ const onaTili = {
           "text": "-chi, -dosh, -zor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -16244,6 +17046,7 @@ const onaTili = {
           "text": "Kichraytish va erkalash qo'shimchalari"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -16268,6 +17071,7 @@ const onaTili = {
           "text": "7 ta"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Kelishiklar tizimi 6 ta."
     },
@@ -16292,6 +17096,7 @@ const onaTili = {
           "text": "-ning (kimning? nimaning?)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -16316,6 +17121,7 @@ const onaTili = {
           "text": "-ni (kimni? nimani?)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -16340,6 +17146,7 @@ const onaTili = {
           "text": "Oddiy, qiyosiy, orttirma, ozaytirma"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sifat darajalari 4 ta."
     },
@@ -16364,6 +17171,7 @@ const onaTili = {
           "text": "Beshovlon, oltovlon"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "-ta qo'shimchasi dona son yasaydi."
     },
@@ -16388,6 +17196,7 @@ const onaTili = {
           "text": "Ikkittadan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -16412,6 +17221,7 @@ const onaTili = {
           "text": "Men, sen, u"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -16436,6 +17246,7 @@ const onaTili = {
           "text": "-yotgan, -ar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -16460,6 +17271,7 @@ const onaTili = {
           "text": "-gan/-kan/-qan, -yotgan, -ar/-mas, -digan (kelgan bola, o'qiyotgan talaba)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -16484,6 +17296,7 @@ const onaTili = {
           "text": "-gan, -yotgan"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -16508,6 +17321,7 @@ const onaTili = {
           "text": "Aniq nisbat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -16532,6 +17346,7 @@ const onaTili = {
           "text": "Birlashib bajarganini"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -16556,6 +17371,7 @@ const onaTili = {
           "text": "Ega va kesim"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -16580,6 +17396,7 @@ const onaTili = {
           "text": "Harakatning o'rni, payti, sababi, maqsadi, darajasi va tarzini (qayerda? qachon? nega? qanday?)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Hol ikkinchi darajali bo'lakdir."
     },
@@ -16604,6 +17421,7 @@ const onaTili = {
           "text": "Bitta egasi bo'lgan gap"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -16628,6 +17446,7 @@ const onaTili = {
           "text": "Faqat fe'llardan iborat bo'laklar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -16652,6 +17471,7 @@ const onaTili = {
           "text": "\"Ko'chirma gap\": dedi muallif."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -16676,6 +17496,7 @@ const onaTili = {
           "text": "Nuqtali vergul (;)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -16700,6 +17521,7 @@ const onaTili = {
           "text": "Undov belgisi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -16724,6 +17546,7 @@ const onaTili = {
           "text": "O'n besh, yigirma besh"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -16748,6 +17571,7 @@ const onaTili = {
           "text": "Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -16772,6 +17596,7 @@ const onaTili = {
           "text": "Son"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -16796,6 +17621,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -16820,6 +17646,7 @@ const onaTili = {
           "text": "Fe'l"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -16844,6 +17671,7 @@ const onaTili = {
           "text": "Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -16868,6 +17696,7 @@ const onaTili = {
           "text": "Olmosh"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -16892,6 +17721,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -16916,6 +17746,7 @@ const onaTili = {
           "text": "Olmosh"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -16940,6 +17771,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -16964,6 +17796,7 @@ const onaTili = {
           "text": "Fe'l"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -16988,6 +17821,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -17012,6 +17846,7 @@ const onaTili = {
           "text": "Fe'l"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -17036,6 +17871,7 @@ const onaTili = {
           "text": "Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -17060,6 +17896,7 @@ const onaTili = {
           "text": "Modal"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -17084,6 +17921,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -17108,6 +17946,7 @@ const onaTili = {
           "text": "Ko'makchi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -17132,6 +17971,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -17156,6 +17996,7 @@ const onaTili = {
           "text": "Modal"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -17180,6 +18021,7 @@ const onaTili = {
           "text": "So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -17204,6 +18046,7 @@ const onaTili = {
           "text": "Taqlid so'zlar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -17228,6 +18071,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -17252,6 +18096,7 @@ const onaTili = {
           "text": "Yuklamalar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -17276,6 +18121,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -17300,6 +18146,7 @@ const onaTili = {
           "text": "Taqlid so'zlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -17324,6 +18171,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -17348,6 +18196,7 @@ const onaTili = {
           "text": "Ega"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -17372,6 +18221,7 @@ const onaTili = {
           "text": "Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -17396,6 +18246,7 @@ const onaTili = {
           "text": "Kesim"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -17420,6 +18271,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -17444,6 +18296,7 @@ const onaTili = {
           "text": "To'ldiruvchi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -17468,6 +18321,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -17492,6 +18346,7 @@ const onaTili = {
           "text": "Aniqlovchi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -17516,6 +18371,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -17540,6 +18396,7 @@ const onaTili = {
           "text": "Bitishuv"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -17564,6 +18421,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -17588,6 +18446,7 @@ const onaTili = {
           "text": "Boshqaruv"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -17612,6 +18471,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -17636,6 +18496,7 @@ const onaTili = {
           "text": "Kirituv"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -17660,6 +18521,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -17684,6 +18546,7 @@ const onaTili = {
           "text": "Ikki sostavli gap"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -17708,6 +18571,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -17732,6 +18596,7 @@ const onaTili = {
           "text": "Atov gap"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -17756,6 +18621,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -17780,6 +18646,7 @@ const onaTili = {
           "text": "Atov gap"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -17804,6 +18671,7 @@ const onaTili = {
           "text": "Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -17828,6 +18696,7 @@ const onaTili = {
           "text": "Shaxssiz gap"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -17852,6 +18721,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -17876,6 +18746,7 @@ const onaTili = {
           "text": "Bog'langan qo'shma gap"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -17900,6 +18771,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -17924,6 +18796,7 @@ const onaTili = {
           "text": "Bog'lovchisiz qo'shma gap"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -17948,6 +18821,7 @@ const onaTili = {
           "text": "Keldi, yozdi, o'qidi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "-kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -17972,6 +18846,7 @@ const onaTili = {
           "text": "Besh-olti, o'n-o'n besh"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "-li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -17996,6 +18871,7 @@ const onaTili = {
           "text": "-roq, -gina"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "-cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -18020,6 +18896,7 @@ const onaTili = {
           "text": "3 ta (O'tgan zamon, Hozirgi zamon, Kelasi zamon)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -18044,6 +18921,7 @@ const onaTili = {
           "text": "Aniq, majhul, o'zlik"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -18068,6 +18946,7 @@ const onaTili = {
           "text": "Faqat so'roq beradi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -18092,6 +18971,7 @@ const onaTili = {
           "text": "Harakat bajaruvchisi"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Undalma gap a'zosi hisoblanmaydi."
     },
@@ -18116,6 +18996,7 @@ const onaTili = {
           "text": "Qo'shtirnoqqa olinadi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -18140,6 +19021,7 @@ const onaTili = {
           "text": "Ustozimiz: Bilim - kuchdir dedi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -18164,6 +19046,7 @@ const onaTili = {
           "text": "Mubolag'a san'ati"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -18188,6 +19071,7 @@ const onaTili = {
           "text": "Faqat atamalar qo'llanishi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -18212,6 +19096,7 @@ const onaTili = {
           "text": "10 ta"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -18236,6 +19121,7 @@ const onaTili = {
           "text": "b, p, d, t, z, s"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -18260,6 +19146,7 @@ const onaTili = {
           "text": "p, t, k, s, sh, ch, f, x, q, h"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -18284,6 +19171,7 @@ const onaTili = {
           "text": "Tovush almashishi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -18308,6 +19196,7 @@ const onaTili = {
           "text": "Hech qanday o'zgarish yo'q"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -18332,6 +19221,7 @@ const onaTili = {
           "text": "Tovush almashishi (k -> g)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -18356,6 +19246,7 @@ const onaTili = {
           "text": "Antonimlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Omonimlar shakldosh so'zlardir."
     },
@@ -18380,6 +19271,7 @@ const onaTili = {
           "text": "Antonimlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -18404,6 +19296,7 @@ const onaTili = {
           "text": "Antonimlar (masalan: oq - qora, baland - past)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Antonimlar ziddiyatni bildiradi."
     },
@@ -18428,6 +19321,7 @@ const onaTili = {
           "text": "Mohir, usta, chaqqon hunarmand"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -18452,6 +19346,7 @@ const onaTili = {
           "text": "Xursand bo'ldi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -18476,6 +19371,7 @@ const onaTili = {
           "text": "-lar, -da, -dan, -ni"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -18500,6 +19396,7 @@ const onaTili = {
           "text": "-iy, -viy, -lik"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -18524,6 +19421,7 @@ const onaTili = {
           "text": "Kichraytish va erkalash qo'shimchalari"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -18548,6 +19446,7 @@ const onaTili = {
           "text": "6 ta (Bosh, Qaratqich, Tushum, Jo'nalish, O'rin-payt, Chiqish)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Kelishiklar tizimi 6 ta."
     },
@@ -18572,6 +19471,7 @@ const onaTili = {
           "text": "-da (kimda? nimada?)"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -18596,6 +19496,7 @@ const onaTili = {
           "text": "-ni (kimni? nimani?)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -18620,6 +19521,7 @@ const onaTili = {
           "text": "Oddiy, qiyosiy, orttirma, ozaytirma"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sifat darajalari 4 ta."
     },
@@ -18644,6 +19546,7 @@ const onaTili = {
           "text": "Beshinchi, o'ninchi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "-ta qo'shimchasi dona son yasaydi."
     },
@@ -18668,6 +19571,7 @@ const onaTili = {
           "text": "Ikkittadan"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -18692,6 +19596,7 @@ const onaTili = {
           "text": "O'z (o'zim, o'zing, o'zi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'O'z' olmoshi o'zlikni bildiradi."
     },
@@ -18716,6 +19621,7 @@ const onaTili = {
           "text": "-sh, -ish, -v, -uv, -moq (o'qish, boruv, yozmoq)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Harakat nomi fe'lning otlashgan shaklidir."
     },
@@ -18740,6 +19646,7 @@ const onaTili = {
           "text": "-b, -ib, -gach"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sifatdosh narsa-buyumning harakat belgisini bildiradi."
     },
@@ -18764,6 +19671,7 @@ const onaTili = {
           "text": "-b, -ib, -a, -y, -gach, -guncha, -gani (kelib aytdi, kulgach ketdi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ravishdosh fe'lga bog'lanib harakat holatini bildiradi."
     },
@@ -18788,6 +19696,7 @@ const onaTili = {
           "text": "Ortirma nisbat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Majhul nisbatda mantiqiy sub'ekt grammatik to'ldiruvchi bo'ladi."
     },
@@ -18812,6 +19721,7 @@ const onaTili = {
           "text": "Ish-harakat boshqa birovga bajartirilganini bildiradi (-dir, -tir, -t, -ir, -sat: o'qitdi, yozdirdi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ortirma nisbat buyurish yoki vositachilik ma'nosini beradi."
     },
@@ -18836,6 +19746,7 @@ const onaTili = {
           "text": "Ega va kesim"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Ega va kesim gapning grammatik asosini tashkil qiladi."
     },
@@ -18860,6 +19771,7 @@ const onaTili = {
           "text": "Kimni? nimani?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Hol ikkinchi darajali bo'lakdir."
     },
@@ -18884,6 +19796,7 @@ const onaTili = {
           "text": "Tarkibidagi sodda gaplar bog'lovchisiz, faqat ohang (intonatsiya) orqali bog'langan qo'shma gap"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tarkibiy qismlari vergul, ikki nuqta yoki tire bilan ajraladi."
     },
@@ -18908,6 +19821,7 @@ const onaTili = {
           "text": "Bir xil so'roqqa javob bo'lib, bir xil sintaktik vazifa bajaradigan va bir so'zga bog'langan bo'laklar"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Uyushiq bo'laklar o'zaro teng bog'lanadi."
     },
@@ -18932,6 +19846,7 @@ const onaTili = {
           "text": "\"Ko'chirma gap\": dedi muallif."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Qo'shtirnoq, vergul va tire qo'yiladi."
     },
@@ -18956,6 +19871,7 @@ const onaTili = {
           "text": "Nuqtali vergul (;)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Masalan: Do'konda hamma narsa bor edi: daftar, qalam, kitob."
     },
@@ -18980,6 +19896,7 @@ const onaTili = {
           "text": "Tire (-)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan: Daftar, qalam, kitob — hammasi xarid qilindi."
     },
@@ -19004,6 +19921,7 @@ const onaTili = {
           "text": "Katta-kichik, asta-sekin, bugun-erta, do'st-dushman"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Juft va takroriy so'zlar chiziqcha bilan yoziladi."
     },
@@ -19028,6 +19946,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ot so'z turkumi - Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi."
     },
@@ -19052,6 +19971,7 @@ const onaTili = {
           "text": "Ot"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ot so'z turkumi'ga tegishli."
     },
@@ -19076,6 +19996,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sifat so'z turkumi - Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi."
     },
@@ -19100,6 +20021,7 @@ const onaTili = {
           "text": "Sifat"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Sifat so'z turkumi'ga tegishli."
     },
@@ -19124,6 +20046,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Son so'z turkumi - Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi."
     },
@@ -19148,6 +20071,7 @@ const onaTili = {
           "text": "Olmosh"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Son so'z turkumi'ga tegishli."
     },
@@ -19172,6 +20096,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Olmosh so'z turkumi - Ot, sifat, son va ravish o'rnida qo'llanib, ularga ishora qiluvchi yoki o'rnini bosuvchi so'zlar."
     },
@@ -19196,6 +20121,7 @@ const onaTili = {
           "text": "Olmosh"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Olmosh so'z turkumi'ga tegishli."
     },
@@ -19220,6 +20146,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ravish so'z turkumi - Harakat va holatning belgisi, payti, o'rni, sababi va darajasini bildiruvchi mustaqil so'z turkumi."
     },
@@ -19244,6 +20171,7 @@ const onaTili = {
           "text": "Sifat"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ravish so'z turkumi'ga tegishli."
     },
@@ -19268,6 +20196,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Fe'l so'z turkumi - Shaxs va narsaning harakati, holatini bildirib, nima qildi? nima qilyapti? nima qiladi? so'roqlariga javob bo'ladigan turkum."
     },
@@ -19292,6 +20221,7 @@ const onaTili = {
           "text": "Fe'l"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Fe'l so'z turkumi'ga tegishli."
     },
@@ -19316,6 +20246,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ko'makchi - Mustaqil ma'noga ega bo'lmay, ot yoki otlashgan so'zdan keyin kelib, uni boshqa so'zga bog'laydigan yordamchi so'z (uchun, bilan, kabi, sari)."
     },
@@ -19340,6 +20271,7 @@ const onaTili = {
           "text": "Ko'makchi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ko'makchi'ga tegishli."
     },
@@ -19364,6 +20296,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bog'lovchi - Uyushiq bo'laklarni yoki qo'shma gap tarkibidagi sodda gaplarni o'zaro bog'lash uchun xizmat qiladigan yordamchi so'z (va, ammo, lekin, biroq, chunki)."
     },
@@ -19388,6 +20321,7 @@ const onaTili = {
           "text": "Ko'makchi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'lovchi'ga tegishli."
     },
@@ -19412,6 +20346,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yuklama - So'z yoki gapga qo'shimcha ma'no ottenkasi (ta'kid, so'roq, cheklov, ayiruv, gumon) beruvchi yordamchi so'z (-mi, -chi, -oq, faqat, hatto)."
     },
@@ -19436,6 +20371,7 @@ const onaTili = {
           "text": "Bog'lovchi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Yuklama'ga tegishli."
     },
@@ -19460,6 +20396,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Modal so'zlar - So'zlovchining o'z fikriga munosabatini (ishonch, gumon, tasdiq, afsus) bildiruvchi so'zlar (albatta, ehtimol, darhaqiqat, afsuski)."
     },
@@ -19484,6 +20421,7 @@ const onaTili = {
           "text": "Bog'lovchilar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Modal so'zlar'ga tegishli."
     },
@@ -19508,6 +20446,7 @@ const onaTili = {
           "text": "Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Undov so'zlar - Insonning his-tuyg'ularini (quvonch, g'am, hayrat, nafrat) yoki haydash-chaqirishni ifodalovchi so'zlar (oh, voy, ura, hoy, pisht)."
     },
@@ -19532,6 +20471,7 @@ const onaTili = {
           "text": "Undov so'zlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Undov so'zlar'ga tegishli."
     },
@@ -19556,6 +20496,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Taqlid so'zlar - Tovushga yoki holat-manzaraga taqlidni bildiruvchi so'zlar (taq-tuq, gurs-gurs, yilt-yilt, milt-milt)."
     },
@@ -19580,6 +20521,7 @@ const onaTili = {
           "text": "Ravishlar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Taqlid so'zlar'ga tegishli."
     },
@@ -19604,6 +20546,7 @@ const onaTili = {
           "text": "Shaxs, narsa-buyum, joy va tushunchalarni bildirib, kim? nima? qayer? so'rog'iga javob bo'ladigan mustaqil so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ega - Gapda kesim bilan ifodalangan harakat va belgining bajaruvchisini yoki egasini ko'rsatuvchi bosh bo'lak (kim? nima? qayer?)."
     },
@@ -19628,6 +20571,7 @@ const onaTili = {
           "text": "Kesim"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ega'ga tegishli."
     },
@@ -19652,6 +20596,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kesim - Eganing harakati, holati, kim yoki nima ekanini bildirib, gapni shakllantiruvchi bosh bo'lak."
     },
@@ -19676,6 +20621,7 @@ const onaTili = {
           "text": "Aniqlovchi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Kesim'ga tegishli."
     },
@@ -19700,6 +20646,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "To'ldiruvchi - Fe'l-kesimga yoki boshqa bo'lakka bog'lanib, harakat qaratilgan ob'ektni bildiruvchi ikkinchi darajali bo'lak (kimni? nimani? kimga? kimdan?)."
     },
@@ -19724,6 +20671,7 @@ const onaTili = {
           "text": "Ega"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'To'ldiruvchi'ga tegishli."
     },
@@ -19748,6 +20696,7 @@ const onaTili = {
           "text": "Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Aniqlovchi - Ot yoki otlashgan so'zga bog'lanib, uning belgisini, miqdorini yoki qarashliligini bildiruvchi ikkinchi darajali bo'lak (qanday? qaysi? kimning?)."
     },
@@ -19772,6 +20721,7 @@ const onaTili = {
           "text": "Aniqlovchi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Aniqlovchi'ga tegishli."
     },
@@ -19796,6 +20746,7 @@ const onaTili = {
           "text": "Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Moslashuv bog'lanishi - Hokim va tobe so'zning shaxs-sonda yoki kelishik-egalikda o'zaro moslashishi (bizning maktabimiz, men bordim)."
     },
@@ -19820,6 +20771,7 @@ const onaTili = {
           "text": "Boshqaruv"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Moslashuv bog'lanishi'ga tegishli."
     },
@@ -19844,6 +20796,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Boshqaruv bog'lanishi - Hokim so'z tobe so'zdan ma'lum bir kelishik shaklida yoki ko'makchi bilan kelishni talab qilishi (kitobni o'qidi, do'st bilan suhbat)."
     },
@@ -19868,6 +20821,7 @@ const onaTili = {
           "text": "Boshqaruv"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Boshqaruv bog'lanishi'ga tegishli."
     },
@@ -19892,6 +20846,7 @@ const onaTili = {
           "text": "Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bitishuv bog'lanishi - Tobe so'z hokim so'zga hech qanday qo'shimchasiz, faqat ma'no va o'rin tartibi orqali bog'lanishi (katta bino, tez yurdi, beshta qalam)."
     },
@@ -19916,6 +20871,7 @@ const onaTili = {
           "text": "Bitishuv"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bitishuv bog'lanishi'ga tegishli."
     },
@@ -19940,6 +20896,7 @@ const onaTili = {
           "text": "Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bir sostavli (bir tarkibli) gap - Faqat bitta bosh bo'lak (yoki ega, yoki kesim) asosida shakllangan gap."
     },
@@ -19964,6 +20921,7 @@ const onaTili = {
           "text": "Ikki sostavli gap"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bir sostavli (bir tarkibli) gap'ga tegishli."
     },
@@ -19988,6 +20946,7 @@ const onaTili = {
           "text": "Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Shaxsi noaniq gap - Kesimi III shaxs ko'plikda bo'lib, harakatni bajaruvchi shaxs aniq ko'rsatilmagan bir tarkibli gap (Masalan: Ertaga yangi film namoyish qilishadi)."
     },
@@ -20012,6 +20971,7 @@ const onaTili = {
           "text": "Shaxssiz gap"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxsi noaniq gap'ga tegishli."
     },
@@ -20036,6 +20996,7 @@ const onaTili = {
           "text": "Narsa-buyumning belgisini (rangi, shakli, xususiyati, mazasi) bildirib, qanday? qaysi? so'rog'iga javob bo'luvchi so'z turkumi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Shaxssiz gap - Harakat bajaruvchisini eganing so'rog'i bilan topib bo'lmaydigan, egasi umuman qatnashmaydigan bir tarkibli gap (Masalan: Bugun sovuq bo'ldi, o'qishga to'g'ri keladi)."
     },
@@ -20060,6 +21021,7 @@ const onaTili = {
           "text": "Shaxssiz gap"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Shaxssiz gap'ga tegishli."
     },
@@ -20084,6 +21046,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Atov gap (nominativ gap) - Faqat bosh kelishikdagi ot (ega)dan iborat bo'lib, narsa-hodisaning mavjudligini tasdiqlovchi bir tarkibli gap (Masalan: Bahor. Tiniq osmon. Gulzor.)."
     },
@@ -20108,6 +21071,7 @@ const onaTili = {
           "text": "Shaxssiz gap"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Atov gap (nominativ gap)'ga tegishli."
     },
@@ -20132,6 +21096,7 @@ const onaTili = {
           "text": "Narsa-buyumning miqdori, sanog'i va tartibini bildirib, qancha? nechta? nechanchi? so'rog'iga javob bo'ladigan so'z turkumi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bog'langan qo'shma gap - Tarkibidagi sodda gaplar teng bog'lovchilar yordamida bog'langan qo'shma gap."
     },
@@ -20156,6 +21121,7 @@ const onaTili = {
           "text": "Bog'lovchisiz qo'shma gap"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Bog'langan qo'shma gap'ga tegishli."
     },
@@ -20180,6 +21146,7 @@ const onaTili = {
           "text": "Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ergashgan qo'shma gap - Tarkibida bitta bosh gap va unga tobe bo'lgan, ergashtiruvchi vositalar orqali bog'langan ergash gapdan iborat qo'shma gap."
     },
@@ -20204,6 +21171,7 @@ const onaTili = {
           "text": "Bog'langan qo'shma gap"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ushbu ta'rif 'Ergashgan qo'shma gap'ga tegishli."
     },
@@ -20228,6 +21196,7 @@ const onaTili = {
           "text": "Daraxt, kitob, qalam, daftar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "-kor, -zor, -chi qo'shimchalari orqali yangi ot yasalgan."
     },
@@ -20252,6 +21221,7 @@ const onaTili = {
           "text": "Aqlli, serhosil, mazali, bo'yoqdor"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "-li, ser-, -dor sifat yasovchi qo'shimchalardir."
     },
@@ -20276,6 +21246,7 @@ const onaTili = {
           "text": "-cha, -chasiga, -ona, -an (o'zbekcha, do'stona, qasddan)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "-cha, -ona, -an qo'shimchalari ravish yasaydi."
     },
@@ -20300,6 +21271,7 @@ const onaTili = {
           "text": "4 ta"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Fe'l zamoni 3 ta asosiy turga bo'linadi."
     },
@@ -20324,6 +21296,7 @@ const onaTili = {
           "text": "Aniq, majhul, o'zlik"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fe'l mayllari so'zlovchining ish-harakatga munosabatini bildiradi."
     },
@@ -20348,6 +21321,7 @@ const onaTili = {
           "text": "Faqat so'roq beradi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kirish so'zlar gap bo'lagi bo'la olmaydi."
     },
@@ -20372,6 +21346,7 @@ const onaTili = {
           "text": "Vositasiz ob'ekt"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Undalma gap a'zosi hisoblanmaydi."
     },
@@ -20396,6 +21371,7 @@ const onaTili = {
           "text": "Belgisiz qoladi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ajratilgan bo'lak ma'noni aniqlashtirish uchun xizmat qiladi."
     },
@@ -20420,6 +21396,7 @@ const onaTili = {
           "text": "Ustozimiz: Bilim - kuchdir dedi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Muallif gapi va ko'chirma gap qoidasi."
     },
@@ -20444,6 +21421,7 @@ const onaTili = {
           "text": "Ko'chma ma'noli so'zlar ko'pligi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Arizalar, shartnomalar, buyruqlar rasmiy uslubda yoziladi."
     },
@@ -20468,6 +21446,7 @@ const onaTili = {
           "text": "Qat'iy qoliplar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Badiiy asarlar his-tuyg'u va obrazli ifodalarga boy bo'ladi."
     },
@@ -20492,6 +21471,7 @@ const onaTili = {
           "text": "5 ta"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbek alifbosida 6 ta unli tovush mavjud."
     },
@@ -20516,6 +21496,7 @@ const onaTili = {
           "text": "b, p, d, t, z, s"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Jarangli undoshlar hosil bo'lishida ovoz va shovqin ishtirok etadi."
     },
@@ -20540,6 +21521,7 @@ const onaTili = {
           "text": "t, d, s, z, k, g"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Jarangsiz undoshlar faqat shovqindan iborat bo'ladi."
     },
@@ -20564,6 +21546,7 @@ const onaTili = {
           "text": "Tovush qisqarishi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Burun + i = burni (tor unli 'u' tushib qoladi)."
     },
@@ -20588,6 +21571,7 @@ const onaTili = {
           "text": "Tovush almashishi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Past + ay = pasaymoq so'zida 't' tovushi tushib qolgan."
     },
@@ -20612,6 +21596,7 @@ const onaTili = {
           "text": "Qorishiq tovush"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "So'z oxiridagi jarangsiz 'k' unli bilan boshlanuvchi qo'shimcha olganda jarangli 'g' ga almashadi."
     },
@@ -20636,6 +21621,7 @@ const onaTili = {
           "text": "Omonimlar (masalan: o't, olma, yoz)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Omonimlar shakldosh so'zlardir."
     },
@@ -20660,6 +21646,7 @@ const onaTili = {
           "text": "Omonimlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Paronimlar ohangdosh, chalkashish ehtimoli bo'lgan so'zlardir."
     },
@@ -20684,6 +21671,7 @@ const onaTili = {
           "text": "Paronimlar"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Antonimlar ziddiyatni bildiradi."
     },
@@ -20708,6 +21696,7 @@ const onaTili = {
           "text": "Gul teruvchi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ko'chma ma'noli turg'un birikma (frazeologizm)."
     },
@@ -20732,6 +21721,7 @@ const onaTili = {
           "text": "G'azablandi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qattiq qo'rquv holatini ifodalaydi."
     },
@@ -20756,6 +21746,7 @@ const onaTili = {
           "text": "-roq, -gina, -choq"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "So'z yasovchi qo'shimchalar yangi leksik ma'no hosil qiladi."
     },
@@ -20780,6 +21771,7 @@ const onaTili = {
           "text": "-chi, -dosh, -zor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Lug'aviy shakl yasovchilar so'z ma'nosiga qo'shimcha ma'no ottenkasi beradi."
     },
@@ -20804,6 +21796,7 @@ const onaTili = {
           "text": "Kelishik va egalik qo'shimchalari"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kelishik va egalik so'zlarni o'zaro bog'laydi."
     },
@@ -20828,6 +21821,7 @@ const onaTili = {
           "text": "6 ta (Bosh, Qaratqich, Tushum, Jo'nalish, O'rin-payt, Chiqish)"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Kelishiklar tizimi 6 ta."
     },
@@ -20852,6 +21846,7 @@ const onaTili = {
           "text": "-da (kimda? nimada?)"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Qaratqich kelishigi qaratuvchi bo'lakni bildiradi."
     },
@@ -20876,6 +21871,7 @@ const onaTili = {
           "text": "-ga"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Vositasiz to'ldiruvchi hosil qiladi."
     },
@@ -20900,6 +21896,7 @@ const onaTili = {
           "text": "Shaxsiy va noaniq"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sifat darajalari 4 ta."
     },
@@ -20924,6 +21921,7 @@ const onaTili = {
           "text": "Beshovlon, oltovlon"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "-ta qo'shimchasi dona son yasaydi."
     },
@@ -20948,6 +21946,7 @@ const onaTili = {
           "text": "Ikkittadan"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Jamlovchi sonlar -ov, -ala, -ovlon bilan yasaladi."
     },
@@ -20972,6 +21971,7 @@ const onaTili = {
           "text": "O'z (o'zim, o'zing, o'zi)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'O'z' olmoshi o'zlikni bildiradi."
     }

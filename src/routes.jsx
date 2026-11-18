@@ -1,4 +1,4 @@
-import { AiYordamchi, BoshSahifa, OquvMaskanlari, Zakovat } from './lazyPages.jsx'
+import { AiYordamchi, BoshSahifa, OquvMaskanlari, RecoverPassword, Zakovat } from './lazyPages.jsx'
 
 const routes = [
   { path: '/', label: 'Bosh sahifa', element: <BoshSahifa /> },
@@ -10,6 +10,15 @@ const routes = [
     element: <AiYordamchi />,
     standalone: true,
   },
+  {
+    path: '/auth/recover',
+    label: 'Parolni tiklash',
+    element: <RecoverPassword />,
+    standalone: true,
+    hidden: true,
+  },
 ]
+
+export const navRoutes = routes.filter((route) => !route.hidden)
 
 export default routes

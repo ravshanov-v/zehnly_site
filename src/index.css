@@ -21,6 +21,8 @@
   --aurora-1: #3556f5;
   --aurora-2: #7c5cff;
   --aurora-3: #3556f5;
+  --ambient-1: rgb(53 86 245 / 0.2);
+  --ambient-2: rgb(124 92 255 / 0.16);
   --scrim: rgb(8 10 15 / 0.42);
   --grain-opacity: 0.16;
   --shadow-soft: 0 1px 0 rgb(255 255 255 / 0.6) inset, 0 18px 50px -32px rgb(8 10 15 / 0.35);
@@ -47,6 +49,8 @@
   --aurora-1: #7d95ff;
   --aurora-2: #dbe2ff;
   --aurora-3: #b49cff;
+  --ambient-1: rgb(125 149 255 / 0.18);
+  --ambient-2: rgb(180 156 255 / 0.12);
   --scrim: rgb(2 3 6 / 0.78);
   --grain-opacity: 0.12;
   --shadow-soft: 0 1px 0 rgb(255 255 255 / 0.04) inset, 0 24px 70px -40px rgb(0 0 0 / 0.9);
@@ -269,6 +273,10 @@ body {
   backdrop-filter: blur(18px);
 }
 
+.gradient-brand {
+  background-image: linear-gradient(135deg, var(--ember) 0%, var(--cobalt) 100%);
+}
+
 /* ---------- motion ---------- */
 
 @keyframes zehnly-fade-in {
@@ -328,6 +336,244 @@ body {
   animation: shimmer 6s linear infinite;
 }
 
+/* ---------- seasonal atmosphere ---------- */
+
+.seasonal-atmosphere {
+  contain: layout paint;
+}
+
+.seasonal-particles-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.seasonal-navbar-frost {
+  background: color-mix(in srgb, var(--paper) 70%, #dbeafe 30%);
+  border-bottom-color: rgba(191, 219, 254, 0.55);
+  backdrop-filter: blur(26px) saturate(135%);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.72),
+    inset 0 -1px 0 rgba(191, 219, 254, 0.55),
+    0 18px 44px -34px rgba(126, 166, 226, 0.65);
+}
+
+.dark .seasonal-navbar-frost {
+  background: color-mix(in srgb, var(--paper) 76%, #20344f 24%);
+  border-bottom-color: rgba(148, 197, 255, 0.28);
+  box-shadow:
+    inset 0 1px 0 rgba(219, 234, 254, 0.22),
+    inset 0 -1px 0 rgba(148, 197, 255, 0.24),
+    0 18px 44px -34px rgba(0, 0, 0, 0.85);
+}
+
+.seasonal-glass-frost {
+  backdrop-filter: blur(28px) saturate(138%);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.72),
+    inset 0 0 30px rgba(191, 219, 254, 0.18),
+    var(--shadow-lift);
+}
+
+.dark .seasonal-glass-frost {
+  box-shadow:
+    inset 0 1px 0 rgba(219, 234, 254, 0.16),
+    inset 0 0 34px rgba(96, 165, 250, 0.12),
+    var(--shadow-lift);
+}
+
+.seasonal-glass-frost::after {
+  content: '';
+  position: absolute;
+  inset-inline: 14%;
+  top: 0;
+  z-index: 20;
+  height: 1px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.92), transparent);
+  pointer-events: none;
+}
+
+.dark .seasonal-glass-frost::after {
+  background: linear-gradient(90deg, transparent, rgba(219, 234, 254, 0.55), transparent);
+}
+
+html[data-season='autumn'] {
+  --paper: #f7f2e8;
+  --paper-raised: #fffaf2;
+  --paper-sunken: #efe6d7;
+  --ink: #211509;
+  --ink-soft: #4a382a;
+  --muted: #77624e;
+  --hairline: rgb(74 45 16 / 0.1);
+  --hairline-strong: rgb(74 45 16 / 0.22);
+  --ember: #b45309;
+  --ember-ink: #fff8ed;
+  --cobalt: #9a3412;
+  --positive: #3f7d3a;
+  --negative: #dc2626;
+  --grid: rgb(74 45 16 / 0.06);
+  --halo: rgb(217 119 6 / 0.17);
+  --aurora-1: #b45309;
+  --aurora-2: #92400e;
+  --aurora-3: #c2410c;
+  --ambient-1: rgb(245 158 11 / 0.16);
+  --ambient-2: rgb(194 65 12 / 0.12);
+  --scrim: rgb(33 21 9 / 0.46);
+  --grain-opacity: 0.18;
+  --shadow-soft: 0 1px 0 rgb(255 255 255 / 0.55) inset, 0 18px 50px -32px rgb(74 45 16 / 0.4);
+  --shadow-lift: 0 32px 90px -46px rgb(74 45 16 / 0.55);
+  --glow: 0 0 0 1px rgb(180 83 9 / 0.12), 0 26px 80px -32px rgb(180 83 9 / 0.42);
+}
+
+html[data-season='autumn'].dark {
+  --paper: #0e0905;
+  --paper-raised: #17100a;
+  --paper-sunken: #070402;
+  --ink: #faf1e2;
+  --ink-soft: #d7c3a7;
+  --muted: #a1876b;
+  --hairline: rgb(250 241 226 / 0.08);
+  --hairline-strong: rgb(250 241 226 / 0.2);
+  --ember: #f0a63c;
+  --ember-ink: #1c1206;
+  --cobalt: #e2754d;
+  --positive: #5ad39a;
+  --negative: #ff8a72;
+  --grid: rgb(250 241 226 / 0.05);
+  --halo: rgb(240 166 60 / 0.16);
+  --aurora-1: #f0a63c;
+  --aurora-2: #ffe1a8;
+  --aurora-3: #e2754d;
+  --ambient-1: rgb(240 166 60 / 0.14);
+  --ambient-2: rgb(226 117 77 / 0.1);
+  --scrim: rgb(5 3 1 / 0.8);
+  --grain-opacity: 0.13;
+  --shadow-soft: 0 1px 0 rgb(255 255 255 / 0.04) inset, 0 24px 70px -40px rgb(0 0 0 / 0.9);
+  --shadow-lift: 0 44px 110px -54px rgb(0 0 0 / 1);
+  --glow: 0 0 0 1px rgb(240 166 60 / 0.14), 0 30px 90px -30px rgb(240 166 60 / 0.26);
+}
+
+.autumn-sun-glow {
+  background: radial-gradient(
+    circle,
+    rgb(251 191 36 / 0.24),
+    rgb(245 158 11 / 0.08) 44%,
+    transparent 70%
+  );
+  filter: blur(42px);
+  animation: autumn-glow-breathe 11s ease-in-out infinite alternate;
+}
+
+.dark .autumn-sun-glow {
+  background: radial-gradient(
+    circle,
+    rgb(251 191 36 / 0.2),
+    rgb(194 65 12 / 0.1) 46%,
+    transparent 72%
+  );
+}
+
+@keyframes autumn-glow-breathe {
+  from {
+    opacity: 0.6;
+    transform: scale(0.95) translate3d(0, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1.08) translate3d(-2%, 3%, 0);
+  }
+}
+
+.autumn-rays {
+  background: repeating-conic-gradient(
+    from 192deg at 86% -8%,
+    rgb(253 224 71 / 0.1) 0deg 2.6deg,
+    transparent 2.6deg 12deg
+  );
+  -webkit-mask-image: radial-gradient(
+    ellipse 85% 95% at 88% -2%,
+    black 0%,
+    rgb(0 0 0 / 0.55) 42%,
+    transparent 72%
+  );
+  mask-image: radial-gradient(
+    ellipse 85% 95% at 88% -2%,
+    black 0%,
+    rgb(0 0 0 / 0.55) 42%,
+    transparent 72%
+  );
+  filter: blur(7px);
+  opacity: 0.85;
+  animation: autumn-rays-shift 14s ease-in-out infinite alternate;
+  transform-origin: 88% 0%;
+  will-change: transform, opacity;
+}
+
+.autumn-rays-soft {
+  background: repeating-conic-gradient(
+    from 198deg at 80% -6%,
+    rgb(251 146 60 / 0.08) 0deg 1.6deg,
+    transparent 1.6deg 9deg
+  );
+  animation-name: autumn-rays-shift-soft;
+  animation-duration: 19s;
+  animation-direction: alternate-reverse;
+}
+
+.dark .autumn-rays {
+  opacity: 0.78;
+}
+
+@keyframes autumn-rays-shift {
+  from {
+    opacity: 0.5;
+    transform: rotate(-1.2deg) scale(1);
+  }
+  to {
+    opacity: 0.95;
+    transform: rotate(1.4deg) scale(1.04);
+  }
+}
+
+@keyframes autumn-rays-shift-soft {
+  from {
+    opacity: 0.4;
+    transform: rotate(1.5deg) scale(1.02);
+  }
+  to {
+    opacity: 0.8;
+    transform: rotate(-1deg) scale(1.06);
+  }
+}
+
+.autumn-ground {
+  contain: layout paint;
+}
+
+.autumn-card-glow {
+  box-shadow:
+    inset 0 1px 0 rgb(255 248 226 / 0.45),
+    inset 0 0 0 1px rgb(245 158 11 / 0.08),
+    inset 0 0 46px rgb(245 158 11 / 0.16),
+    inset 0 -16px 38px -26px rgb(194 65 12 / 0.3);
+  background:
+    radial-gradient(120% 90% at 82% 0%, rgb(251 191 36 / 0.13), transparent 58%),
+    radial-gradient(90% 80% at 12% 100%, rgb(217 119 6 / 0.08), transparent 62%);
+}
+
+.dark .autumn-card-glow {
+  box-shadow:
+    inset 0 1px 0 rgb(255 255 255 / 0.06),
+    inset 0 0 0 1px rgb(240 166 60 / 0.12),
+    inset 0 0 54px rgb(240 166 60 / 0.13),
+    inset 0 -18px 44px -30px rgb(0 0 0 / 0.55);
+  background:
+    radial-gradient(120% 90% at 82% 0%, rgb(251 191 36 / 0.16), transparent 58%),
+    radial-gradient(90% 80% at 12% 100%, rgb(194 65 12 / 0.1), transparent 62%);
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
@@ -343,5 +589,9 @@ body {
   .animate-pulse-soft,
   .shimmer {
     animation: none;
+  }
+
+  .seasonal-atmosphere {
+    display: none;
   }
 }

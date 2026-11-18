@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Spark } from '../../Components/Marks.jsx'
+import { useTheme } from '../../context/useTheme.js'
 import { generateGeminiReply } from '../../utils/geminiClient.js'
 
 const starterPrompts = [
@@ -224,7 +225,7 @@ function renderInline(text) {
   return parts.map((part, index) => {
     if (part.startsWith('**') && part.endsWith('**') && part.length > 4) {
       return (
-        <strong key={index} className="font-semibold text-white">
+        <strong key={index} className="font-semibold text-ink">
           {part.slice(2, -2)}
         </strong>
       )
@@ -234,7 +235,7 @@ function renderInline(text) {
       return (
         <code
           key={index}
-          className="rounded-md border border-white/10 bg-[#0b0f19] px-1.5 py-0.5 font-mono text-[0.82em] text-[#b9c6ff]"
+          className="rounded-md border border-hairline bg-sunken px-1.5 py-0.5 font-mono text-[0.82em] text-ember"
         >
           {part.slice(1, -1)}
         </code>
@@ -260,7 +261,7 @@ function TextLines({ text }) {
             return (
               <div key={index} className="flex gap-2.5">
                 <span
-                  className="mt-[10px] h-1 w-1 shrink-0 rounded-full bg-[#7890ff]"
+                  className="mt-[10px] h-1 w-1 shrink-0 rounded-full bg-ember"
                   aria-hidden="true"
                 />
                 <p>{renderInline(bullet[1])}</p>
@@ -272,7 +273,7 @@ function TextLines({ text }) {
           if (numbered) {
             return (
               <div key={index} className="flex gap-2.5">
-                <span className="shrink-0 font-mono text-[11px] text-[#8da0ff]">
+                <span className="shrink-0 font-mono text-[11px] text-ember">
                   {numbered[1]}.
                 </span>
                 <p>{renderInline(numbered[2])}</p>
@@ -281,13 +282,13 @@ function TextLines({ text }) {
           }
 
           if (/^-{3,}$/.test(trimmed)) {
-            return <hr key={index} className="my-2 border-white/10" />
+            return <hr key={index} className="my-2 border-hairline" />
           }
 
           const heading = trimmed.match(/^#{1,3}\s+(.*)$/)
           if (heading) {
             return (
-              <p key={index} className="font-semibold text-white">
+              <p key={index} className="font-semibold text-ink">
                 {renderInline(heading[1])}
               </p>
             )
@@ -317,14 +318,14 @@ function MessageBody({ text }) {
         return (
           <div
             key={index}
-            className="my-2 overflow-hidden rounded-xl border border-white/10 bg-[#0b0f19]"
+            className="my-2 overflow-hidden rounded-xl border border-hairline bg-sunken"
           >
             {language && (
-              <div className="border-b border-white/10 px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.16em] text-slate-500">
+              <div className="border-b border-hairline px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
                 {language}
               </div>
             )}
-            <pre className="overflow-x-auto p-3 font-mono text-[12px] leading-6 text-slate-200">
+            <pre className="overflow-x-auto p-3 font-mono text-[12px] leading-6 text-ink-soft">
               <code>{code}</code>
             </pre>
           </div>
@@ -336,7 +337,7 @@ function MessageBody({ text }) {
 
 function AiAvatar() {
   return (
-    <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl border border-[#5b7cfa]/25 bg-gradient-to-br from-[#3556f5] to-[#7c5cff] text-white shadow-[0_0_24px_-8px_rgba(91,124,250,0.9)]">
+    <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl border border-[#5b7cfa]/25 gradient-brand text-white shadow-[0_0_24px_-8px_rgba(91,124,250,0.9)]">
       <Spark className="h-4 w-4" />
     </span>
   )
@@ -365,7 +366,7 @@ function CopyButton({ text }) {
     <button
       type="button"
       onClick={handleCopy}
-      className="inline-flex h-7 items-center gap-1.5 rounded-lg px-1.5 text-[10px] font-medium text-slate-500 transition-colors hover:bg-white/[0.05] hover:text-slate-300"
+      className="inline-flex h-7 items-center gap-1.5 rounded-lg px-1.5 text-[10px] font-medium text-muted transition-colors hover:bg-ink/[0.05] hover:text-ink"
       aria-label={copied ? 'Javob nusxalandi' : 'Javobni nusxalash'}
     >
       {copied ? <CheckIcon /> : <CopyIcon />}
@@ -378,7 +379,7 @@ function ChatMessage({ message }) {
   if (message.role === 'user') {
     return (
       <div className="flex justify-end">
-        <div className="max-w-[85%] rounded-3xl rounded-br-lg bg-gradient-to-br from-[#3556f5] to-[#6d5cff] px-4 py-3 text-sm leading-6 text-white shadow-[0_18px_40px_-24px_rgba(53,86,245,0.9)] sm:max-w-[75%]">
+        <div className="max-w-[85%] rounded-3xl rounded-br-lg gradient-brand px-4 py-3 text-sm leading-6 text-white shadow-[0_18px_40px_-24px_rgba(53,86,245,0.9)] sm:max-w-[75%]">
           <p className="whitespace-pre-wrap">{message.text}</p>
         </div>
       </div>
@@ -389,7 +390,7 @@ function ChatMessage({ message }) {
     <div className="flex items-start gap-3">
       <AiAvatar />
       <div className="min-w-0 flex-1">
-        <div className="rounded-2xl rounded-tl-md border border-white/[0.08] bg-[#111827]/80 px-4 py-3 text-sm leading-7 text-slate-200 shadow-[0_18px_40px_-30px_rgba(0,0,0,0.9)] backdrop-blur">
+        <div className="rounded-2xl rounded-tl-md border border-hairline bg-raised/80 px-4 py-3 text-sm leading-7 text-ink-soft shadow-[var(--shadow-soft)] backdrop-blur">
           <MessageBody text={message.text} />
         </div>
         <CopyButton text={message.text} />
@@ -402,13 +403,13 @@ function TypingIndicator() {
   return (
     <div className="flex items-start gap-3" role="status" aria-live="polite">
       <AiAvatar />
-      <div className="flex items-center gap-3 rounded-2xl rounded-tl-md border border-white/[0.08] bg-[#111827]/80 px-4 py-3.5 backdrop-blur">
+      <div className="flex items-center gap-3 rounded-2xl rounded-tl-md border border-hairline bg-raised/80 px-4 py-3.5 backdrop-blur">
         <span className="flex items-center gap-1" aria-hidden="true">
-          <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[#8da0ff] [animation-delay:-0.25s]" />
-          <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[#8da0ff] [animation-delay:-0.12s]" />
-          <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-[#8da0ff]" />
+          <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember [animation-delay:-0.25s]" />
+          <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember [animation-delay:-0.12s]" />
+          <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember" />
         </span>
-        <span className="text-xs text-slate-400">Zehnly AI o‘ylamoqda...</span>
+        <span className="text-xs text-muted">Zehnly AI o‘ylamoqda...</span>
       </div>
     </div>
   )
@@ -418,12 +419,12 @@ function ErrorMessage({ text }) {
   return (
     <div
       role="alert"
-      className="flex items-start gap-2.5 rounded-2xl border border-red-400/25 bg-red-500/[0.08] px-4 py-3 text-sm text-red-200"
+      className="flex items-start gap-2.5 rounded-2xl border border-negative/25 bg-negative/[0.07] px-4 py-3 text-sm text-negative"
     >
       <ErrorIcon />
       <div>
-        <p className="font-semibold text-red-100">Javob olinmadi</p>
-        <p className="mt-0.5 text-xs leading-6 text-red-200/85">{text}</p>
+        <p className="font-semibold text-negative">Javob olinmadi</p>
+        <p className="mt-0.5 text-xs leading-6 text-negative/80">{text}</p>
       </div>
     </div>
   )
@@ -432,13 +433,13 @@ function ErrorMessage({ text }) {
 function EmptyState({ onPrompt }) {
   return (
     <div className="flex flex-1 flex-col items-center justify-center py-6 text-center animate-fadeIn sm:py-8">
-      <span className="flex h-12 w-12 items-center justify-center rounded-2xl border border-[#7d95ff]/25 bg-gradient-to-br from-[#3556f5] to-[#7c5cff] text-white shadow-[0_0_48px_-14px_rgba(91,124,250,0.85)] sm:h-14 sm:w-14">
+      <span className="flex h-12 w-12 items-center justify-center rounded-2xl border border-[#7d95ff]/25 gradient-brand text-white shadow-[0_0_48px_-14px_rgba(91,124,250,0.85)] sm:h-14 sm:w-14">
         <Spark className="h-5 w-5 sm:h-6 sm:w-6" />
       </span>
-      <h1 className="mt-4 font-display text-[clamp(1.8rem,4vw,2.65rem)] font-semibold tracking-[-0.04em] text-white sm:mt-5">
+      <h1 className="mt-4 font-display text-[clamp(1.8rem,4vw,2.65rem)] font-semibold tracking-[-0.04em] text-ink sm:mt-5">
         Qanday yordam bera olaman?
       </h1>
-      <p className="mt-2 max-w-md text-[13px] leading-6 text-slate-400 sm:text-sm">
+      <p className="mt-2 max-w-md text-[13px] leading-6 text-muted sm:text-sm">
         Savol yozing yoki tayyor mavzulardan birini tanlang. Zehnly AI tushuntiradi,
         mashq qildiradi va reja tuzishga yordam beradi.
       </p>
@@ -449,16 +450,16 @@ function EmptyState({ onPrompt }) {
             key={starter.label}
             type="button"
             onClick={() => onPrompt(starter.prompt)}
-            className="group flex items-start gap-3 rounded-2xl border border-white/[0.08] bg-[#111827]/65 p-3.5 text-left backdrop-blur transition-all duration-200 hover:-translate-y-0.5 hover:border-[#6d8bff]/40 hover:bg-[#1e293b]/80 sm:p-4"
+            className="group flex items-start gap-3 rounded-2xl border border-hairline bg-raised/65 p-3.5 text-left backdrop-blur transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/40 hover:bg-raised sm:p-4"
           >
-            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg border border-white/10 bg-white/[0.04] text-[#9eb0ff] transition-colors group-hover:border-[#6d8bff]/30 group-hover:text-white">
+            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg border border-hairline bg-ink/[0.04] text-ember transition-colors group-hover:border-ember/30 group-hover:text-ink">
               {starter.icon}
             </span>
             <span className="min-w-0">
-              <span className="block text-[13px] font-medium leading-5 text-slate-200">
+              <span className="block text-[13px] font-medium leading-5 text-ink">
                 {starter.label}
               </span>
-              <span className="mt-1 block text-[11px] leading-5 text-slate-500">
+              <span className="mt-1 block text-[11px] leading-5 text-muted">
                 {starter.description}
               </span>
             </span>
@@ -470,6 +471,8 @@ function EmptyState({ onPrompt }) {
 }
 
 export default function AiYordamchi() {
+  const { theme, toggleTheme } = useTheme()
+  const isDark = theme === 'dark'
   const [messages, setMessages] = useState([])
   const [input, setInput] = useState('')
   const [status, setStatus] = useState('idle')
@@ -580,18 +583,25 @@ export default function AiYordamchi() {
   }
 
   return (
-    <div className="relative flex h-dvh flex-col overflow-hidden overscroll-none bg-[#0b0f19] text-slate-100">
+    <div className="relative flex h-dvh flex-col overflow-hidden overscroll-none bg-paper text-ink transition-colors duration-300">
       <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden="true">
-        <div className="absolute -top-64 left-1/2 h-[38rem] w-[64rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,rgba(53,86,245,0.2),transparent_66%)] blur-3xl" />
-        <div className="absolute -bottom-48 -right-32 h-[30rem] w-[30rem] rounded-full bg-[radial-gradient(circle,rgba(124,92,255,0.15),transparent_68%)] blur-3xl" />
-        <div className="absolute inset-0 opacity-[0.035] [background-image:linear-gradient(to_right,white_1px,transparent_1px),linear-gradient(to_bottom,white_1px,transparent_1px)] [background-size:64px_64px]" />
+        <div className="absolute -top-64 left-1/2 h-[38rem] w-[64rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,rgba(53,86,245,0.12),transparent_66%)] blur-3xl dark:bg-[radial-gradient(circle,rgba(53,86,245,0.2),transparent_66%)]" />
+        <div className="absolute -bottom-48 -right-32 h-[30rem] w-[30rem] rounded-full bg-[radial-gradient(circle,rgba(124,92,255,0.1),transparent_68%)] blur-3xl dark:bg-[radial-gradient(circle,rgba(124,92,255,0.15),transparent_68%)]" />
+        <div
+          className="absolute inset-0"
+          style={{
+            backgroundImage:
+              'linear-gradient(to right, var(--grid) 1px, transparent 1px), linear-gradient(to bottom, var(--grid) 1px, transparent 1px)',
+            backgroundSize: '64px 64px',
+          }}
+        />
       </div>
 
-      <header className="relative z-20 shrink-0 border-b border-white/[0.07] bg-[#0b0f19]/80 backdrop-blur-xl">
+      <header className="relative z-20 shrink-0 border-b border-hairline bg-paper/80 backdrop-blur-xl">
         <div className="mx-auto flex h-16 w-full max-w-[1040px] items-center justify-between gap-3 px-4 sm:px-6">
           <Link
             to="/"
-            className="inline-flex h-9 items-center gap-2 rounded-xl border border-white/[0.08] bg-white/[0.035] px-3 text-[12px] font-medium text-slate-300 transition-colors hover:border-white/[0.16] hover:bg-white/[0.06] hover:text-white"
+            className="inline-flex h-9 items-center gap-2 rounded-xl border border-hairline bg-ink/[0.03] px-3 text-[12px] font-medium text-muted transition-colors hover:border-hairline-strong hover:bg-ink/[0.06] hover:text-ink"
           >
             <span className="text-base leading-none" aria-hidden="true">
               ←
@@ -602,25 +612,62 @@ export default function AiYordamchi() {
 
           <div className="flex items-center gap-2.5 sm:gap-3">
             <div className="flex items-center gap-2">
-              <span className="flex h-8 w-8 items-center justify-center rounded-lg border border-[#7d95ff]/25 bg-gradient-to-br from-[#3556f5] to-[#7c5cff] text-white shadow-[0_0_24px_-8px_rgba(91,124,250,0.9)]">
+              <span className="flex h-8 w-8 items-center justify-center rounded-lg border border-[#7d95ff]/25 gradient-brand text-white shadow-[0_0_24px_-8px_rgba(91,124,250,0.9)]">
                 <Spark className="h-4 w-4" />
               </span>
-              <span className="font-display text-[13px] font-semibold tracking-tight text-white sm:text-sm">
-                Zehnly <span className="text-[#9db1ff]">AI</span>
+              <span className="hidden font-display text-[13px] font-semibold tracking-tight text-ink sm:inline sm:text-sm">
+                Zehnly <span className="text-ember">AI</span>
               </span>
             </div>
 
-            <span className="h-5 w-px bg-white/10" aria-hidden="true" />
+            <span className="h-5 w-px bg-hairline" aria-hidden="true" />
 
             <button
               type="button"
               onClick={resetChat}
               aria-label="Yangi suhbat boshlash"
               title="Yangi suhbat"
-              className="inline-flex h-9 items-center gap-2 rounded-xl border border-white/[0.08] bg-white/[0.035] px-2.5 text-[12px] font-medium text-slate-300 transition-colors hover:border-white/[0.16] hover:bg-white/[0.06] hover:text-white sm:px-3"
+              className="inline-flex h-9 items-center gap-2 rounded-xl border border-hairline bg-ink/[0.03] px-2.5 text-[12px] font-medium text-muted transition-colors hover:border-hairline-strong hover:bg-ink/[0.06] hover:text-ink sm:px-3"
             >
               <PlusIcon />
               <span className="hidden sm:inline">Yangi suhbat</span>
+            </button>
+
+            <button
+              type="button"
+              onClick={toggleTheme}
+              role="switch"
+              aria-checked={isDark}
+              aria-label={isDark ? 'Yorugʻ rejimga oʻtish' : 'Tund rejimga oʻtish'}
+              title={isDark ? 'Yorugʻ rejim' : 'Tund rejim'}
+              className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-hairline bg-transparent text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] active:scale-95"
+            >
+              {isDark ? (
+                <svg
+                  className="h-4 w-4 text-ember"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.7"
+                  strokeLinecap="round"
+                  aria-hidden="true"
+                >
+                  <circle cx="12" cy="12" r="4" />
+                  <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
+                </svg>
+              ) : (
+                <svg
+                  className="h-4 w-4 text-ember"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.7"
+                  strokeLinejoin="round"
+                  aria-hidden="true"
+                >
+                  <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z" />
+                </svg>
+              )}
             </button>
           </div>
         </div>
@@ -649,10 +696,10 @@ export default function AiYordamchi() {
           </div>
         </div>
 
-        <div className="relative shrink-0 border-t border-white/[0.06] bg-[#0b0f19]/90 px-4 pb-[max(0.875rem,env(safe-area-inset-bottom))] pt-3 backdrop-blur-xl sm:px-6">
+        <div className="relative shrink-0 border-t border-hairline bg-paper/90 px-4 pb-[max(0.875rem,env(safe-area-inset-bottom))] pt-3 backdrop-blur-xl sm:px-6">
           <div className="mx-auto w-full max-w-[800px]">
             <form onSubmit={handleSubmit}>
-              <div className="rounded-2xl border border-white/[0.1] bg-[#111827]/90 p-2 shadow-[0_22px_70px_-28px_rgba(0,0,0,0.95)] backdrop-blur-xl transition-all focus-within:border-[#6d8bff]/50 focus-within:ring-4 focus-within:ring-[#3556f5]/10">
+              <div className="rounded-2xl border border-hairline-strong bg-raised/90 p-2 shadow-[var(--shadow-lift)] backdrop-blur-xl transition-all focus-within:border-ember/50 focus-within:ring-4 focus-within:ring-ember/10">
                 <label htmlFor="ai-chat-input" className="sr-only">
                   Savolingiz
                 </label>
@@ -664,7 +711,7 @@ export default function AiYordamchi() {
                   onChange={(event) => setInput(event.target.value)}
                   onKeyDown={handleKeyDown}
                   placeholder="Zehnly AI’dan biror narsa so‘rang..."
-                  className="min-h-12 max-h-40 w-full resize-none bg-transparent px-2.5 py-2 text-sm leading-6 text-slate-100 outline-none placeholder:text-slate-500"
+                  className="min-h-12 max-h-40 w-full resize-none bg-transparent px-2.5 py-2 text-sm leading-6 text-ink outline-none placeholder:text-muted"
                 />
 
                 <div className="flex items-center justify-end gap-3 px-1 pb-0.5">
@@ -673,7 +720,7 @@ export default function AiYordamchi() {
                     disabled={!input.trim() || isLoading}
                     aria-label="Xabar yuborish"
                     title="Yuborish"
-                    className="ml-auto flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-[#3556f5] to-[#7c5cff] text-white shadow-[0_10px_30px_-12px_rgba(53,86,245,0.9)] transition-all hover:brightness-110 disabled:pointer-events-none disabled:opacity-40"
+                    className="ml-auto flex h-9 w-9 items-center justify-center rounded-xl gradient-brand text-white shadow-[0_10px_30px_-12px_rgba(53,86,245,0.9)] transition-all hover:brightness-110 disabled:pointer-events-none disabled:opacity-40"
                   >
                     {isLoading ? (
                       <span className="h-4 w-4 animate-spin rounded-full border-2 border-white/80 border-t-transparent" />
@@ -685,7 +732,7 @@ export default function AiYordamchi() {
               </div>
             </form>
 
-            <p className="mt-2 text-center text-[10px] leading-4 text-slate-600">
+            <p className="mt-2 text-center text-[10px] leading-4 text-muted">
               Enter — yuborish · Shift + Enter — yangi qator · AI xato qilishi mumkin
             </p>
           </div>

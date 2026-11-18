@@ -1,10 +1,13 @@
 import { Suspense, useLayoutEffect } from 'react';
 import { BrowserRouter, Routes, Route, Outlet, Navigate, useLocation } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
+import { AtmosphereProvider } from './context/AtmosphereContext.jsx';
 import ToastProvider from './context/ToastProvider.jsx';
 import Navbar from './Components/Navbar/Navbar.jsx';
 import Footer from './Components/Footer/Footer.jsx';
 import AuroraField from './Components/AuroraField.jsx';
+import SeasonalGlow from './Components/SeasonalGlow.jsx';
+import AutumnGround from './Components/Autumn/AutumnGround.jsx';
 import routes from './routes.jsx';
 
 const layoutRoutes = routes.filter((route) => !route.standalone);
@@ -55,12 +58,14 @@ function Layout() {
         Asosiy kontentga o&apos;tish
       </a>
       <AuroraField />
+      <SeasonalGlow />
       <Navbar />
       <main id="main-content" className="mx-auto w-full max-w-[1240px] flex-1 px-5 py-8 sm:px-8 sm:py-10">
         <Suspense fallback={<RouteFallback />}>
           <Outlet />
         </Suspense>
       </main>
+      <AutumnGround />
       <Footer />
     </div>
   );
@@ -69,26 +74,28 @@ function Layout() {
 export default function App() {
   return (
     <ThemeProvider>
-      <ToastProvider>
-        <BrowserRouter>
-          <ScrollToTop />
-          <Routes>
-            {standaloneRoutes.map((route) => (
-              <Route
-                key={route.path}
-                path={route.path}
-                element={<Suspense fallback={<StandaloneFallback />}>{route.element}</Suspense>}
-              />
-            ))}
-            <Route element={<Layout />}>
-              {layoutRoutes.map((route) => (
-                <Route key={route.path} path={route.path} element={route.element} />
+      <BrowserRouter>
+        <AtmosphereProvider>
+          <ToastProvider>
+            <ScrollToTop />
+            <Routes>
+              {standaloneRoutes.map((route) => (
+                <Route
+                  key={route.path}
+                  path={route.path}
+                  element={<Suspense fallback={<StandaloneFallback />}>{route.element}</Suspense>}
+                />
               ))}
-              <Route path="*" element={<Navigate to="/" replace />} />
-            </Route>
-          </Routes>
-        </BrowserRouter>
-      </ToastProvider>
+              <Route element={<Layout />}>
+                {layoutRoutes.map((route) => (
+                  <Route key={route.path} path={route.path} element={route.element} />
+                ))}
+                <Route path="*" element={<Navigate to="/" replace />} />
+              </Route>
+            </Routes>
+          </ToastProvider>
+        </AtmosphereProvider>
+      </BrowserRouter>
     </ThemeProvider>
   );
 }

@@ -28,6 +28,7 @@ const geografiya = {
           "text": "Tinch okeani"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tinch okeani maydoni va chuqurligi bo'yicha dunyoda birinchi o'rinda turadi."
     },
@@ -52,6 +53,7 @@ const geografiya = {
           "text": "Sirdaryo"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Amudaryo Markaziy Osiyo va O'zbekistondagi eng sersuv va uzun daryodir (2540 km)."
     },
@@ -76,6 +78,7 @@ const geografiya = {
           "text": "Everest (Jomolungma)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Himoloy tog'laridagi Everest cho'qqisi dengiz sathidan 8848 metr balandlikda joylashgan."
     },
@@ -100,6 +103,7 @@ const geografiya = {
           "text": "O'zbekiston va Turkmaniston"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Orol dengizi O'zbekiston (Qoraqalpog'iston) va Qozog'iston chegarasida joylashgan."
     },
@@ -124,6 +128,7 @@ const geografiya = {
           "text": "6371 km"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yer ekvatorining aylana uzunligi taxminan 40 075 km ni tashkil etadi."
     },
@@ -148,6 +153,7 @@ const geografiya = {
           "text": "12 742 km"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yer sharining o'rtacha radiusi taxminan 6371 km."
     },
@@ -172,6 +178,7 @@ const geografiya = {
           "text": "10 km"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "100 000 sm = 1000 m = 1 km."
     },
@@ -196,6 +203,7 @@ const geografiya = {
           "text": "Izotermalar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gorizontallar (izogipslar) relyef balandligini ko'rsatadi."
     },
@@ -220,6 +228,7 @@ const geografiya = {
           "text": "Izobatalar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Izobatalar chuqurlik chiziqlaridir."
     },
@@ -244,6 +253,7 @@ const geografiya = {
           "text": "Pulkova (Sankt-Peterburg)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Xalqaro kelishuvga ko'ra Grinvich nolinchi meridian hisoblanadi."
     },
@@ -268,6 +278,7 @@ const geografiya = {
           "text": "24 soat 30 daqiqa"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yulduz sutkasi 23 soat 56 daqiqa 4 soniyaga teng."
     },
@@ -292,6 +303,7 @@ const geografiya = {
           "text": "300 kun"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Shu ortiqcha 6 soat hisobiga har 4 yilda kabisa yili (366 kun) bo'ladi."
     },
@@ -316,6 +328,7 @@ const geografiya = {
           "text": "45°"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yer o'qining qiyaligi sababli fasllar almashinadi."
     },
@@ -340,6 +353,7 @@ const geografiya = {
           "text": "22-dekabr"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "22-iyunda quyosh shimoliy tropikda zenitda bo'ladi."
     },
@@ -364,6 +378,7 @@ const geografiya = {
           "text": "22-iyun"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
     },
@@ -388,6 +403,7 @@ const geografiya = {
           "text": "1-yanvar va 1-iyul"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bu kunlarda Quyosh ekvatorda zenitda turadi."
     },
@@ -412,6 +428,7 @@ const geografiya = {
           "text": "Yevrosiyo"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
     },
@@ -436,6 +453,7 @@ const geografiya = {
           "text": "Janubiy Amerika"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Avstraliyaning maydoni taxminan 7.7 mln km²."
     },
@@ -460,6 +478,7 @@ const geografiya = {
           "text": "Antarktida"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
     },
@@ -484,6 +503,7 @@ const geografiya = {
           "text": "Ural tog'lari"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "And tog'lari 9000 km ga cho'zilgan."
     },
@@ -508,6 +528,7 @@ const geografiya = {
           "text": "Amazonka (Janubiy Amerika)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Amazonka dunyodagi eng sersuv daryodir."
     },
@@ -532,6 +553,7 @@ const geografiya = {
           "text": "Yanszi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Nil daryosining uzunligi qariyb 6670 km."
     },
@@ -556,6 +578,7 @@ const geografiya = {
           "text": "Baykal ko'li (Rossiya)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Baykal ko'lining chuqurligi 1642 metr."
     },
@@ -580,6 +603,7 @@ const geografiya = {
           "text": "Yuqori ko'l"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kaspiy ko'l bo'lsa-da, kattaligi sababli dengiz deyiladi."
     },
@@ -604,6 +628,7 @@ const geografiya = {
           "text": "Iguasu sharsharasi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Anxel sharsharasi Janubiy Amerikada Churun daryosida joylashgan."
     },
@@ -628,6 +653,7 @@ const geografiya = {
           "text": "Sahroi Kabir (Afrika)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sahroi Kabir maydoni taxminan 9 mln km²."
     },
@@ -652,6 +678,7 @@ const geografiya = {
           "text": "Yava botig'i"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mariana botig'i dunyo okeanining eng chuqur nuqtasi hisoblanadi."
     },
@@ -676,6 +703,7 @@ const geografiya = {
           "text": "Madagaskar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Grenlandiya orolining maydoni 2.1 mln km²."
     },
@@ -700,6 +728,7 @@ const geografiya = {
           "text": "500 ming km²"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekiston maydoni 448.9 ming km² ni tashkil etadi."
     },
@@ -724,6 +753,7 @@ const geografiya = {
           "text": "4 ta"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekiston 5 ta davlat bilan chegaradosh."
     },
@@ -748,6 +778,7 @@ const geografiya = {
           "text": "Hazrati Sulton cho'qqisi (Hisor tizmasi, 4643 m)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Surxondaryo viloyati hududidagi Hazrati Sulton cho'qqisi."
     },
@@ -772,6 +803,7 @@ const geografiya = {
           "text": "Sariqamish ko'li"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qizilqumdagi Mingbuloq botig'i dengiz sathidan -12.8 m pastda."
     },
@@ -796,6 +828,7 @@ const geografiya = {
           "text": "Charvoq"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aydarko'l sun'iy-tabiiy eng yirik suv havzasidir."
     },
@@ -820,6 +853,7 @@ const geografiya = {
           "text": "Kattaqo'rg'on suv ombori"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Suv sig'imi bo'yicha To'polong va Chorvoq eng yiriklaridan."
     },
@@ -844,6 +878,7 @@ const geografiya = {
           "text": "20%"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekistonning qariyb 80% maydoni tekisliklardan iborat."
     },
@@ -868,6 +903,7 @@ const geografiya = {
           "text": "Qizilqum cho'li"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qizilqum Amudaryo va Sirdaryo oralig'ida joylashgan."
     },
@@ -892,6 +928,7 @@ const geografiya = {
           "text": "Xondiza"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Muruntov dunyodagi eng yirik ochiq oltin konlaridan biridir."
     },
@@ -916,6 +953,7 @@ const geografiya = {
           "text": "Zarafshon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Olmaliq kon-metallurgiya kombinati."
     },
@@ -940,6 +978,7 @@ const geografiya = {
           "text": "Olmaliq"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bekoboddagi O'zbekiston metallurgiya zavodi."
     },
@@ -964,6 +1003,7 @@ const geografiya = {
           "text": "Sho'rtan va Qandim majmualari (Qashqadaryo va Buxoro)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Sho'rtan gaz-kimyo majmuasi polietilen ishlab chiqaradi."
     },
@@ -988,6 +1028,7 @@ const geografiya = {
           "text": "Asaka shahrida (Andijon)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1996-yilda Asaka shahrida UzDaewooAuto ishga tushgan."
     },
@@ -1012,6 +1053,7 @@ const geografiya = {
           "text": "AQSH va Indoneziya"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Hindiston va Xitoy dunyo aholisining 35% dan ortig'ini tashkil etadi."
     },
@@ -1036,6 +1078,7 @@ const geografiya = {
           "text": "Xitoy"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Rossiya Federatsiyasi maydoni bo'yicha 1-o'rinda."
     },
@@ -1060,6 +1103,7 @@ const geografiya = {
           "text": "Monako"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Rim shahri ichida joylashgan Vatikan."
     },
@@ -1084,6 +1128,7 @@ const geografiya = {
           "text": "Kolumbiya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Braziliya Janubiy Amerika qit'asining qariyb yarmini egallaydi."
     },
@@ -1108,6 +1153,7 @@ const geografiya = {
           "text": "JAR"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Nigeriya Afrikada aholi soni bo'yicha yaqqol yetakchidir."
     },
@@ -1132,6 +1178,7 @@ const geografiya = {
           "text": "Rossiya va Xitoy"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Venesuela va Fors ko'rfazi davlatlari."
     },
@@ -1156,6 +1203,7 @@ const geografiya = {
           "text": "Janubiy Koreya, Avstraliya, Ispaniya"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
     },
@@ -1180,6 +1228,7 @@ const geografiya = {
           "text": "Avtomobil ishlab chiqaruvchilarni"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Neft qazib oluvchi va eksport qiluvchi mamlakatlar tashkiloti."
     },
@@ -1204,6 +1253,7 @@ const geografiya = {
           "text": "Jeneva"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
     },
@@ -1228,6 +1278,7 @@ const geografiya = {
           "text": "Melburn"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Avstraliya poytaxti - Kanberra."
     },
@@ -1252,6 +1303,7 @@ const geografiya = {
           "text": "Avstraliya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kanberra - Avstraliya poytaxti."
     },
@@ -1276,6 +1328,7 @@ const geografiya = {
           "text": "Monreal"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kanada poytaxti - Ottava."
     },
@@ -1300,6 +1353,7 @@ const geografiya = {
           "text": "Kanada"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ottava - Kanada poytaxti."
     },
@@ -1324,6 +1378,7 @@ const geografiya = {
           "text": "Rio-de-Janeyro"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Braziliya poytaxti - Brazilia."
     },
@@ -1348,6 +1403,7 @@ const geografiya = {
           "text": "Braziliya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Brazilia - Braziliya poytaxti."
     },
@@ -1372,6 +1428,7 @@ const geografiya = {
           "text": "Los-Anjeles"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "AQSH poytaxti - Vashington."
     },
@@ -1396,6 +1453,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Vashington - AQSH poytaxti."
     },
@@ -1420,6 +1478,7 @@ const geografiya = {
           "text": "Anqara"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Turkiya poytaxti - Anqara."
     },
@@ -1444,6 +1503,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Anqara - Turkiya poytaxti."
     },
@@ -1468,6 +1528,7 @@ const geografiya = {
           "text": "Shanxay"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xitoy poytaxti - Pekin."
     },
@@ -1492,6 +1553,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Pekin - Xitoy poytaxti."
     },
@@ -1516,6 +1578,7 @@ const geografiya = {
           "text": "Bangalor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Hindiston poytaxti - Nyu-Dehli."
     },
@@ -1540,6 +1603,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Nyu-Dehli - Hindiston poytaxti."
     },
@@ -1564,6 +1628,7 @@ const geografiya = {
           "text": "Yokogama"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yaponiya poytaxti - Tokio."
     },
@@ -1588,6 +1653,7 @@ const geografiya = {
           "text": "Yaponiya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tokio - Yaponiya poytaxti."
     },
@@ -1612,6 +1678,7 @@ const geografiya = {
           "text": "Frankfurt"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Germaniya poytaxti - Berlin."
     },
@@ -1636,6 +1703,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Berlin - Germaniya poytaxti."
     },
@@ -1660,6 +1728,7 @@ const geografiya = {
           "text": "Nitssa"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Fransiya poytaxti - Parij."
     },
@@ -1684,6 +1753,7 @@ const geografiya = {
           "text": "Fransiya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Parij - Fransiya poytaxti."
     },
@@ -1708,6 +1778,7 @@ const geografiya = {
           "text": "Rim"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Italiya poytaxti - Rim."
     },
@@ -1732,6 +1803,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Rim - Italiya poytaxti."
     },
@@ -1756,6 +1828,7 @@ const geografiya = {
           "text": "Sevilya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ispaniya poytaxti - Madrid."
     },
@@ -1780,6 +1853,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Madrid - Ispaniya poytaxti."
     },
@@ -1804,6 +1878,7 @@ const geografiya = {
           "text": "Qohira"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Misr poytaxti - Qohira."
     },
@@ -1828,6 +1903,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qohira - Misr poytaxti."
     },
@@ -1852,6 +1928,7 @@ const geografiya = {
           "text": "Yoxannesburg"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
     },
@@ -1876,6 +1953,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Pretoriya (ma'muriy) / Keyptaun - Janubiy Afrika Respublikasi (JAR) poytaxti."
     },
@@ -1900,6 +1978,7 @@ const geografiya = {
           "text": "Ar-Riyod"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Saudiya Arabistoni poytaxti - Ar-Riyod."
     },
@@ -1924,6 +2003,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ar-Riyod - Saudiya Arabistoni poytaxti."
     },
@@ -1948,6 +2028,7 @@ const geografiya = {
           "text": "Ostona"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qozog'iston poytaxti - Ostona."
     },
@@ -1972,6 +2053,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ostona - Qozog'iston poytaxti."
     },
@@ -1996,6 +2078,7 @@ const geografiya = {
           "text": "Bishkek"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qirg'iziston poytaxti - Bishkek."
     },
@@ -2020,6 +2103,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bishkek - Qirg'iziston poytaxti."
     },
@@ -2044,6 +2128,7 @@ const geografiya = {
           "text": "Ko'lob"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Tojikiston poytaxti - Dushanbe."
     },
@@ -2068,6 +2153,7 @@ const geografiya = {
           "text": "Tojikiston"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dushanbe - Tojikiston poytaxti."
     },
@@ -2092,6 +2178,7 @@ const geografiya = {
           "text": "Ashxobod"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Turkmaniston poytaxti - Ashxobod."
     },
@@ -2116,6 +2203,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ashxobod - Turkmaniston poytaxti."
     },
@@ -2140,6 +2228,7 @@ const geografiya = {
           "text": "Hirot"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Afg'oniston poytaxti - Qobul."
     },
@@ -2164,6 +2253,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qobul - Afg'oniston poytaxti."
     },
@@ -2188,6 +2278,7 @@ const geografiya = {
           "text": "Dardanell bo'g'ozi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
     },
@@ -2212,6 +2303,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz - Gibraltar bo'g'ozi poytaxti."
     },
@@ -2236,6 +2328,7 @@ const geografiya = {
           "text": "Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
     },
@@ -2260,6 +2353,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar - Bosfor va Dardanell bo'g'ozlari poytaxti."
     },
@@ -2284,6 +2378,7 @@ const geografiya = {
           "text": "Panama kanali"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Suvaysh kanali poytaxti - O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li."
     },
@@ -2308,6 +2403,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
     },
@@ -2332,6 +2428,7 @@ const geografiya = {
           "text": "Dreyk bo'g'ozi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Panama kanali poytaxti - Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal."
     },
@@ -2356,6 +2453,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal - Panama kanali poytaxti."
     },
@@ -2380,6 +2478,7 @@ const geografiya = {
           "text": "Laperuz bo'g'ozi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
     },
@@ -2404,6 +2503,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
     },
@@ -2428,6 +2528,7 @@ const geografiya = {
           "text": "Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dreyk bo'g'ozi poytaxti - Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz."
     },
@@ -2452,6 +2553,7 @@ const geografiya = {
           "text": "Dreyk bo'g'ozi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz - Dreyk bo'g'ozi poytaxti."
     },
@@ -2476,6 +2578,7 @@ const geografiya = {
           "text": "Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Malakka bo'g'ozi poytaxti - Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li."
     },
@@ -2500,6 +2603,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
     },
@@ -2524,6 +2628,7 @@ const geografiya = {
           "text": "Bosfor"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ormuz bo'g'ozi poytaxti - Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi."
     },
@@ -2548,6 +2653,7 @@ const geografiya = {
           "text": "Ormuz bo'g'ozi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi - Ormuz bo'g'ozi poytaxti."
     },
@@ -2572,6 +2678,7 @@ const geografiya = {
           "text": "And tog'lari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Himoloy tog'lari poytaxti - Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega."
     },
@@ -2596,6 +2703,7 @@ const geografiya = {
           "text": "Himoloy tog'lari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega - Himoloy tog'lari poytaxti."
     },
@@ -2620,6 +2728,7 @@ const geografiya = {
           "text": "Pomir tog'lari"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tyanshan tog'lari poytaxti - Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)."
     },
@@ -2644,6 +2753,7 @@ const geografiya = {
           "text": "Tyanshan tog'lari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
     },
@@ -2668,6 +2778,7 @@ const geografiya = {
           "text": "Kavkaz"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Pomir tog'lari poytaxti - O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)."
     },
@@ -2692,6 +2803,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
     },
@@ -2716,6 +2828,7 @@ const geografiya = {
           "text": "Alp tog'lari"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kavkaz tog'lari poytaxti - Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)."
     },
@@ -2740,6 +2853,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m) - Kavkaz tog'lari poytaxti."
     },
@@ -2764,6 +2878,7 @@ const geografiya = {
           "text": "And"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
     },
@@ -2788,6 +2903,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
     },
@@ -2812,6 +2928,7 @@ const geografiya = {
           "text": "Oltoy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ural tog'lari poytaxti - Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar."
     },
@@ -2836,6 +2953,7 @@ const geografiya = {
           "text": "Ural tog'lari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar - Ural tog'lari poytaxti."
     },
@@ -2860,6 +2978,7 @@ const geografiya = {
           "text": "Ruvenzori"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kilimanjaro poytaxti - Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)."
     },
@@ -2884,6 +3003,7 @@ const geografiya = {
           "text": "Kilimanjaro"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m) - Kilimanjaro poytaxti."
     },
@@ -2908,6 +3028,7 @@ const geografiya = {
           "text": "O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qashqadaryo viloyati poytaxti - O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat."
     },
@@ -2932,6 +3053,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat - Qashqadaryo viloyati poytaxti."
     },
@@ -2956,6 +3078,7 @@ const geografiya = {
           "text": "Navoiy viloyati"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Navoiy viloyati poytaxti - O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati."
     },
@@ -2980,6 +3103,7 @@ const geografiya = {
           "text": "Navoiy viloyati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati - Navoiy viloyati poytaxti."
     },
@@ -3004,6 +3128,7 @@ const geografiya = {
           "text": "Quyi Amudaryo"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
     },
@@ -3028,6 +3153,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi - Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti."
     },
@@ -3052,6 +3178,7 @@ const geografiya = {
           "text": "Surxondaryo"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Buxoro viloyati poytaxti - Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat."
     },
@@ -3076,6 +3203,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat - Buxoro viloyati poytaxti."
     },
@@ -3100,6 +3228,7 @@ const geografiya = {
           "text": "Sirdaryo"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
     },
@@ -3124,6 +3253,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati - Surxondaryo viloyati poytaxti."
     },
@@ -3148,6 +3278,7 @@ const geografiya = {
           "text": "Xorazm viloyati"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xorazm viloyati poytaxti - Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati."
     },
@@ -3172,6 +3303,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
     },
@@ -3196,6 +3328,7 @@ const geografiya = {
           "text": "Navoiy viloyati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qoraqalpog'iston Respublikasi poytaxti - O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)."
     },
@@ -3220,6 +3353,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus) - Qoraqalpog'iston Respublikasi poytaxti."
     },
@@ -3244,6 +3378,7 @@ const geografiya = {
           "text": "Farg'ona"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
     },
@@ -3268,6 +3403,7 @@ const geografiya = {
           "text": "Toshkent shahri va viloyati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi - Toshkent shahri va viloyati poytaxti."
     },
@@ -3292,6 +3428,7 @@ const geografiya = {
           "text": "Amerigo Vespuchchi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
     },
@@ -3316,6 +3453,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
     },
@@ -3340,6 +3478,7 @@ const geografiya = {
           "text": "Jeyms Kuk"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
     },
@@ -3364,6 +3503,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi - Vasko da Gama poytaxti."
     },
@@ -3388,6 +3528,7 @@ const geografiya = {
           "text": "Jeyms Kuk"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Fernan Magellan poytaxti - 1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan."
     },
@@ -3412,6 +3553,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan - Fernan Magellan poytaxti."
     },
@@ -3436,6 +3578,7 @@ const geografiya = {
           "text": "Gudson"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
     },
@@ -3460,6 +3603,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan - Amerigo Vespuchchi poytaxti."
     },
@@ -3484,6 +3628,7 @@ const geografiya = {
           "text": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "F. Bellinsgauzen va M. Lazarev poytaxti - 1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari."
     },
@@ -3508,6 +3653,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
     },
@@ -3532,6 +3678,7 @@ const geografiya = {
           "text": "Rual Amundsen"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Rual Amundsen poytaxti - 1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh."
     },
@@ -3556,6 +3703,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh - Rual Amundsen poytaxti."
     },
@@ -3580,6 +3728,7 @@ const geografiya = {
           "text": "Kuk"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Robert Piri poytaxti - 1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh."
     },
@@ -3604,6 +3753,7 @@ const geografiya = {
           "text": "Robert Piri"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh - Robert Piri poytaxti."
     },
@@ -3628,6 +3778,7 @@ const geografiya = {
           "text": "Stratosfera"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Troposfera qalinligi ekvatorda 18 km gacha bo'lib, atmosferaning 80% massasini oladi."
     },
@@ -3652,6 +3803,7 @@ const geografiya = {
           "text": "Stratosferada (20-25 km balandlikda)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ozon qatlami stratosferada to'plangan."
     },
@@ -3676,6 +3828,7 @@ const geografiya = {
           "text": "Barometr"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Barometr bosimni o'lchaydi (simobli va aneroid)."
     },
@@ -3700,6 +3853,7 @@ const geografiya = {
           "text": "Gigrometr (psixrometr)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Gigrometr havodagi suv bug'i miqdorini aniqlaydi."
     },
@@ -3724,6 +3878,7 @@ const geografiya = {
           "text": "Seysmograf"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Anemometr shamol tezligini, flyuger esa yo'nalishini ko'rsatadi."
     },
@@ -3748,6 +3903,7 @@ const geografiya = {
           "text": "Barograf"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Seysmograf yer qimirlash to'lqinlarini qayd qiladi."
     },
@@ -3772,6 +3928,7 @@ const geografiya = {
           "text": "Rift"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Epitsentr yer silkinishining eng kuchli seziladigan yuza qismidir."
     },
@@ -3796,6 +3953,7 @@ const geografiya = {
           "text": "Tekisliklar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Masalan, Hindiston plitasi Yevrosiyoga urilib Himoloy tog'larini ko'targan."
     },
@@ -3820,6 +3978,7 @@ const geografiya = {
           "text": "Obduksiya"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Atlantika okeani tubida o'rta okean tizmasi hosil bo'ladi."
     },
@@ -3844,6 +4003,7 @@ const geografiya = {
           "text": "Musson shamollari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Musson yozda okeandan quruqlikka, qishda quruqlikdan okeanga esadi."
     },
@@ -3868,6 +4028,7 @@ const geografiya = {
           "text": "Mussonlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Passat shamollari tropiklardan ekvatorga tomon esadi."
     },
@@ -3892,6 +4053,7 @@ const geografiya = {
           "text": "Fyon"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kunduzgi briz dengizdan quruqlikka, tungi briz quruqlikdan dengizga esadi."
     },
@@ -3916,6 +4078,7 @@ const geografiya = {
           "text": "Kurosio"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Golfstrim Yevropa qit'asining iqlimini yumshatuvchi 'isitgich' hisoblanadi."
     },
@@ -3940,6 +4103,7 @@ const geografiya = {
           "text": "Labrador"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Antarktida atrofida aylanuvchi eng kuchli oqim."
     },
@@ -3964,6 +4128,7 @@ const geografiya = {
           "text": "Yopiq havzalar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ichki dengizlar materiklar ichida bo'ladi."
     },
@@ -3988,6 +4153,7 @@ const geografiya = {
           "text": "Fors ko'rfazi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bengal ko'rfazi maydoni 2.1 mln km²."
     },
@@ -4012,6 +4178,7 @@ const geografiya = {
           "text": "Hindiston"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Arabiston yarimoroli eng yirik yarimoroldir."
     },
@@ -4036,6 +4203,7 @@ const geografiya = {
           "text": "Toshkentda"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ustyurtda qish juda qahraton va ayozli bo'ladi."
     },
@@ -4060,6 +4228,7 @@ const geografiya = {
           "text": "Termiz va Qizilqum hududida (+50 °C gacha)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Termizda +50 °C gacha issiq qayd etilgan."
     },
@@ -4084,6 +4253,7 @@ const geografiya = {
           "text": "Mirzacho'l"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Nam havo massalari tog'larga urilib mo'l yog'in qoldiradi."
     },
@@ -4108,6 +4278,7 @@ const geografiya = {
           "text": "Toshkent vohasi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Orolbo'yi va Qoraqalpog'istonning ayrim joylarida yog'in juda kam."
     },
@@ -4132,6 +4303,7 @@ const geografiya = {
           "text": "Zarafshon"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Chirchiq daryosi Chotqol va Pskem daryolaridan boshlanadi."
     },
@@ -4156,6 +4328,7 @@ const geografiya = {
           "text": "Tyanshanning G'alaba cho'qqisidan"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Zarafshon Amudaryoga yetmasdan sug'orishga sarflanib tugaydi."
     },
@@ -4180,6 +4353,7 @@ const geografiya = {
           "text": "Surxondaryo va Kofarnihon"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Panj va Vaxsh birlashib Amudaryoni tashkil qiladi."
     },
@@ -4204,6 +4378,7 @@ const geografiya = {
           "text": "Chirchiq va Keles"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Farg'ona vodiysida Norin va Qoradaryo qo'shilib Sirdaryo deb ataladi."
     },
@@ -4228,6 +4403,7 @@ const geografiya = {
           "text": "Sharg'un"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Angren koni ochiq usulda ko'mir qazib oladi."
     },
@@ -4252,6 +4428,7 @@ const geografiya = {
           "text": "Muruntov"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sharg'un va Boysunda yuqori kaloriyali toshko'mir bor."
     },
@@ -4276,6 +4453,7 @@ const geografiya = {
           "text": "Angren"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "G'ozg'on o'zining rang-barang marmari bilan dunyoga mashhur."
     },
@@ -4300,6 +4478,7 @@ const geografiya = {
           "text": "Vyetnam"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Nippon (Yaponiya) nomi kunchiqar degan ma'noni beradi."
     },
@@ -4324,6 +4503,7 @@ const geografiya = {
           "text": "Pekin - Lxasa"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Transsibir temir yo'li 9288 km uzunlikka ega."
     },
@@ -4348,6 +4528,7 @@ const geografiya = {
           "text": "Qora dengiz"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "O'rta dengiz Yevropa, Osiyo va Afrika oralig'ida."
     },
@@ -4372,6 +4553,7 @@ const geografiya = {
           "text": "Puerto-Riko"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Yava botig'i Hind okeanining eng chuqur joyidir."
     },
@@ -4396,6 +4578,7 @@ const geografiya = {
           "text": "Romanish"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Puerto-Riko novi Atlantika okeanida joylashgan."
     },
@@ -4420,6 +4603,7 @@ const geografiya = {
           "text": "Kaspiy"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Shimoliy Muz okeanining eng chuqur nuqtasi 5527 m."
     },
@@ -4444,6 +4628,7 @@ const geografiya = {
           "text": "360 ta"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yer shari har biri 15 gradusdan 24 ta soat mintaqasiga bo'lingan."
     },
@@ -4468,6 +4653,7 @@ const geografiya = {
           "text": "90° sharqiy meridian"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "180-meridain orqali xalqaro sana o'zgarish chizig'i o'tkazilgan."
     },
@@ -4492,6 +4678,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xristofor Kolumb'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Dunyodagi eng katta okean qaysi?» savolining to'g'ri javobi — Tinch okeani. Tinch okeani maydoni va chuqurligi bo'yicha dunyoda birinchi o'rinda turadi."
     },
@@ -4516,6 +4703,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun temir yo'l magistrali qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«O'zbekiston hududidagi eng uzun daryo qaysi?» savolining to'g'ri javobi — Amudaryo. Amudaryo Markaziy Osiyo va O'zbekistondagi eng sersuv va uzun daryodir (2540 km)."
     },
@@ -4540,6 +4728,7 @@ const geografiya = {
           "text": "'1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Dunyodagi eng baland cho'qqi qaysi?» savolining to'g'ri javobi — Everest (Jomolungma). Himoloy tog'laridagi Everest cho'qqisi dengiz sathidan 8848 metr balandlikda joylashgan."
     },
@@ -4564,6 +4753,7 @@ const geografiya = {
           "text": "Orol dengizi qaysi davlatlar hududida joylashgan?"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "«Orol dengizi qaysi davlatlar hududida joylashgan?» savolining to'g'ri javobi — O'zbekiston va Qozog'iston. Orol dengizi O'zbekiston (Qoraqalpog'iston) va Qozog'iston chegarasida joylashgan."
     },
@@ -4588,6 +4778,7 @@ const geografiya = {
           "text": "'O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ekvator chizig'ining umumiy uzunligi taxminan qancha?» savolining to'g'ri javobi — 40 075 km. Yer ekvatorining aylana uzunligi taxminan 40 075 km ni tashkil etadi."
     },
@@ -4612,6 +4803,7 @@ const geografiya = {
           "text": "Yerning o'rtacha radiusi qanchaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Yerning o'rtacha radiusi qanchaga teng?» savolining to'g'ri javobi — 6371 km. Yer sharining o'rtacha radiusi taxminan 6371 km."
     },
@@ -4636,6 +4828,7 @@ const geografiya = {
           "text": "O'zbekiston hududining necha foizini tekisliklar (cho'l va adirlar) egallaydi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Xaritadagi masshtab 1:100 000 bo'lsa, xaritadagi 1 sm joyda qancha masofaga to'g'ri keladi?» savolining to'g'ri javobi — 1 km. 100 000 sm = 1000 m = 1 km."
     },
@@ -4660,6 +4853,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qirg'iziston'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Mutlaq balandliklari bir xil bo'lgan nuqtalarni tutashtiruvchi chiziqlar nima deyiladi?» savolining to'g'ri javobi — Izogipslar (gorizontallar). Gorizontallar (izogipslar) relyef balandligini ko'rsatadi."
     },
@@ -4684,6 +4878,7 @@ const geografiya = {
           "text": "Atmosfera bosimini o'lchaydigan asbob nima deb ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Okean va dengizlarda bir xil chuqurlikdagi nuqtalarni tutashtiruvchi chiziqlar qanday ataladi?» savolining to'g'ri javobi — Izobatalar. Izobatalar chuqurlik chiziqlaridir."
     },
@@ -4708,6 +4903,7 @@ const geografiya = {
           "text": "Janubiy Amerikaning maydoni va aholisi bo'yicha eng yirik davlati qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Bosh (nolchi) meridian qaysi rasadxona orqali o'tadi?» savolining to'g'ri javobi — Grinvich (London). Xalqaro kelishuvga ko'ra Grinvich nolinchi meridian hisoblanadi."
     },
@@ -4732,6 +4928,7 @@ const geografiya = {
           "text": "Yer o'z o'qi atrofida to'liq bir marta aylanishi uchun qancha vaqt ketadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Yer o'z o'qi atrofida to'liq bir marta aylanishi uchun qancha vaqt ketadi?» savolining to'g'ri javobi — 23 soat 56 daqiqa 4 soniya (1 sutka). Yulduz sutkasi 23 soat 56 daqiqa 4 soniyaga teng."
     },
@@ -4756,6 +4953,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xorazm viloyati'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Yer Quyosh atrofida to'liq bir marta necha kunda aylanadi?» savolining to'g'ri javobi — 365 kun 6 soat (1 yil). Shu ortiqcha 6 soat hisobiga har 4 yilda kabisa yili (366 kun) bo'ladi."
     },
@@ -4780,6 +4978,7 @@ const geografiya = {
           "text": "Amudaryo qaysi ikki yirik daryoning qo'shilishidan hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Yer o'qining orbita tekisligiga qiyaligi necha darajani tashkil etadi?» savolining to'g'ri javobi — 66.5° (perpendikulyarga nisbatan 23.5°). Yer o'qining qiyaligi sababli fasllar almashinadi."
     },
@@ -4804,6 +5003,7 @@ const geografiya = {
           "text": "Yer o'z o'qi atrofida to'liq bir marta aylanishi uchun qancha vaqt ketadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yozgi quyosh turishi (Shimoliy yarimsharda eng uzun kun) qaysi sanaga to'g'ri keladi?» savolining to'g'ri javobi — 22-iyun. 22-iyunda quyosh shimoliy tropikda zenitda bo'ladi."
     },
@@ -4828,6 +5028,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Vasko da Gama'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Qishki quyosh turishi (Shimoliy yarimsharda eng qisqa kun) qaysi kunga to'g'ri keladi?» savolining to'g'ri javobi — 22-dekabr. 22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
     },
@@ -4852,6 +5053,7 @@ const geografiya = {
           "text": "Maydoni bo'yicha dunyodagi eng katta ko'rfaz qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Bahorgi va kuzgi tengkunlik kunlari qaysilar?» savolining to'g'ri javobi — 21-mart va 23-sentyabr. Bu kunlarda Quyosh ekvatorda zenitda turadi."
     },
@@ -4876,6 +5078,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta materik qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Dunyodagi eng katta materik qaysi?» savolining to'g'ri javobi — Yevrosiyo. Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
     },
@@ -4900,6 +5103,7 @@ const geografiya = {
           "text": "'O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Dunyodagi eng kichik materik qaysi?» savolining to'g'ri javobi — Avstraliya. Avstraliyaning maydoni taxminan 7.7 mln km²."
     },
@@ -4924,6 +5128,7 @@ const geografiya = {
           "text": "Amudaryo qaysi ikki yirik daryoning qo'shilishidan hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Yer yuzidagi eng sovuq va muz bilan qoplangan materik qaysi?» savolining to'g'ri javobi — Antarktida. Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
     },
@@ -4948,6 +5153,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun tog' tizmasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Dunyodagi eng uzun tog' tizmasi qaysi?» savolining to'g'ri javobi — And tog'lari (Janubiy Amerika). And tog'lari 9000 km ga cho'zilgan."
     },
@@ -4972,6 +5178,7 @@ const geografiya = {
           "text": "Bahorgi va kuzgi tengkunlik kunlari qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Dunyodagi eng sersuv va havzasi eng katta bo'lgan daryo qaysi?» savolining to'g'ri javobi — Amazonka (Janubiy Amerika). Amazonka dunyodagi eng sersuv daryodir."
     },
@@ -4996,6 +5203,7 @@ const geografiya = {
           "text": "O'zbekiston hududining necha foizini tekisliklar (cho'l va adirlar) egallaydi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Dunyodagi eng uzun daryo qaysi?» savolining to'g'ri javobi — Nil daryosi (Afrika). Nil daryosining uzunligi qariyb 6670 km."
     },
@@ -5020,6 +5228,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Saudiya Arabistoni'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Dunyodagi eng chuqur ko'l qaysi?» savolining to'g'ri javobi — Baykal ko'li (Rossiya). Baykal ko'lining chuqurligi 1642 metr."
     },
@@ -5044,6 +5253,7 @@ const geografiya = {
           "text": "'O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Maydoni bo'yicha dunyodagi eng katta ko'l (yopiq havza) qaysi?» savolining to'g'ri javobi — Kaspiy dengizi. Kaspiy ko'l bo'lsa-da, kattaligi sababli dengiz deyiladi."
     },
@@ -5068,6 +5278,7 @@ const geografiya = {
           "text": "'1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Dunyodagi eng baland sharshara qaysi?» savolining to'g'ri javobi — Anxel sharsharasi (Venesuela, 979 m). Anxel sharsharasi Janubiy Amerikada Churun daryosida joylashgan."
     },
@@ -5092,6 +5303,7 @@ const geografiya = {
           "text": "Afrika qit'asining aholisi eng ko'p bo'lgan mamlakati qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Dunyodagi eng katta cho'l qaysi?» savolining to'g'ri javobi — Sahroi Kabir (Afrika). Sahroi Kabir maydoni taxminan 9 mln km²."
     },
@@ -5116,6 +5328,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Alp tog'lari'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Dunyodagi eng chuqur okean botig'i qaysi?» savolining to'g'ri javobi — Mariana botig'i (Tinch okeani, 11 022 m). Mariana botig'i dunyo okeanining eng chuqur nuqtasi hisoblanadi."
     },
@@ -5140,6 +5353,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta cho'l qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Dunyodagi eng katta orol qaysi?» savolining to'g'ri javobi — Grenlandiya. Grenlandiya orolining maydoni 2.1 mln km²."
     },
@@ -5164,6 +5378,7 @@ const geografiya = {
           "text": "'Qohira' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'zbekiston Respublikasining umumiy yer maydoni qancha?» savolining to'g'ri javobi — 448.9 ming km². O'zbekiston maydoni 448.9 ming km² ni tashkil etadi."
     },
@@ -5188,6 +5403,7 @@ const geografiya = {
           "text": "'Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zbekiston chegaradosh bo'lgan davlatlar soni nechta?» savolining to'g'ri javobi — 5 ta (Qozog'iston, Qirg'iziston, Tojikiston, Afg'oniston, Turkmaniston). O'zbekiston 5 ta davlat bilan chegaradosh."
     },
@@ -5212,6 +5428,7 @@ const geografiya = {
           "text": "'Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«O'zbekistonning eng baland nuqtasi qaysi?» savolining to'g'ri javobi — Hazrati Sulton cho'qqisi (Hisor tizmasi, 4643 m). Surxondaryo viloyati hududidagi Hazrati Sulton cho'qqisi."
     },
@@ -5236,6 +5453,7 @@ const geografiya = {
           "text": "'Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«O'zbekistonning eng past nuqtasi qayerda joylashgan?» savolining to'g'ri javobi — Mingtov / Mingbuloq botig'i (Qizilqum, -12.8 m). Qizilqumdagi Mingbuloq botig'i dengiz sathidan -12.8 m pastda."
     },
@@ -5260,6 +5478,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xitoy'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«O'zbekistondagi eng katta tabiiy ko'l qaysi (Orol qurigach)?» savolining to'g'ri javobi — Aydarko'l (Aydar-Arnasoy ko'llar tizimi). Aydarko'l sun'iy-tabiiy eng yirik suv havzasidir."
     },
@@ -5284,6 +5503,7 @@ const geografiya = {
           "text": "'Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«O'zbekistondagi eng katta suv ombori qaysi?» savolining to'g'ri javobi — To'xtag'ul / Chorvoq / To'palang. Suv sig'imi bo'yicha To'polong va Chorvoq eng yiriklaridan."
     },
@@ -5308,6 +5528,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Germaniya'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekiston hududining necha foizini tekisliklar (cho'l va adirlar) egallaydi?» savolining to'g'ri javobi — Taxminan 78-80% qismini. O'zbekistonning qariyb 80% maydoni tekisliklardan iborat."
     },
@@ -5332,6 +5553,7 @@ const geografiya = {
           "text": "Havoning nisbiy namligini o'lchaydigan asbob qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekistondagi eng yirik cho'l qaysi?» savolining to'g'ri javobi — Qizilqum cho'li. Qizilqum Amudaryo va Sirdaryo oralig'ida joylashgan."
     },
@@ -5356,6 +5578,7 @@ const geografiya = {
           "text": "O'zbekistonning oltin qazib olinadigan eng yirik koni qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«O'zbekistonning oltin qazib olinadigan eng yirik koni qaysi?» savolining to'g'ri javobi — Muruntov koni (Zarafshon). Muruntov dunyodagi eng yirik ochiq oltin konlaridan biridir."
     },
@@ -5380,6 +5603,7 @@ const geografiya = {
           "text": "O'zbekistonning yirik mis va polimetall koni qaysi shaharda joylashgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekistonning yirik mis va polimetall koni qaysi shaharda joylashgan?» savolining to'g'ri javobi — Olmaliq shahrida (Qalmoqqir koni). Olmaliq kon-metallurgiya kombinati."
     },
@@ -5404,6 +5628,7 @@ const geografiya = {
           "text": "Toshkent viloyatidagi toshko'mir koni qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zbekistonning qora metallurgiya (po'lat quyish) markazi qaysi shahar?» savolining to'g'ri javobi — Bekobod shahri. Bekoboddagi O'zbekiston metallurgiya zavodi."
     },
@@ -5428,6 +5653,7 @@ const geografiya = {
           "text": "Orol dengizi qaysi davlatlar hududida joylashgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«O'zbekistonning gaz kimyo majmuasi joylashgan yirik hudud qaysi?» savolining to'g'ri javobi — Sho'rtan va Qandim majmualari (Qashqadaryo va Buxoro). Sho'rtan gaz-kimyo majmuasi polietilen ishlab chiqaradi."
     },
@@ -5452,6 +5678,7 @@ const geografiya = {
           "text": "O'zbekistonning avtomobilsozlik sanoati dastlab qaysi shaharda tashkil etilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«O'zbekistonning avtomobilsozlik sanoati dastlab qaysi shaharda tashkil etilgan?» savolining to'g'ri javobi — Asaka shahrida (Andijon). 1996-yilda Asaka shahrida UzDaewooAuto ishga tushgan."
     },
@@ -5476,6 +5703,7 @@ const geografiya = {
           "text": "Yer yuzida aholisi eng ko'p bo'lgan davlatlar qaysilar?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Yer yuzida aholisi eng ko'p bo'lgan davlatlar qaysilar?» savolining to'g'ri javobi — Hindiston va Xitoy (har biri 1.4 mlrd dan ortiq). Hindiston va Xitoy dunyo aholisining 35% dan ortig'ini tashkil etadi."
     },
@@ -5500,6 +5728,7 @@ const geografiya = {
           "text": "Maydoni bo'yicha dunyodagi eng katta davlat qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Maydoni bo'yicha dunyodagi eng katta davlat qaysi?» savolining to'g'ri javobi — Rossiya (17.1 mln km²). Rossiya Federatsiyasi maydoni bo'yicha 1-o'rinda."
     },
@@ -5524,6 +5753,7 @@ const geografiya = {
           "text": "Dunyodagi eng kichik mustaqil davlat (mitti davlat) qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Dunyodagi eng kichik mustaqil davlat (mitti davlat) qaysi?» savolining to'g'ri javobi — Vatikan (0.44 km²). Rim shahri ichida joylashgan Vatikan."
     },
@@ -5548,6 +5778,7 @@ const geografiya = {
           "text": "Janubiy Amerikaning maydoni va aholisi bo'yicha eng yirik davlati qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Janubiy Amerikaning maydoni va aholisi bo'yicha eng yirik davlati qaysi?» savolining to'g'ri javobi — Braziliya. Braziliya Janubiy Amerika qit'asining qariyb yarmini egallaydi."
     },
@@ -5572,6 +5803,7 @@ const geografiya = {
           "text": "Yevropa Ittifoqining ma'muriy poytaxti hisoblangan shahar qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Afrika qit'asining aholisi eng ko'p bo'lgan mamlakati qaysi?» savolining to'g'ri javobi — Nigeriya (220 mln dan ortiq). Nigeriya Afrikada aholi soni bo'yicha yaqqol yetakchidir."
     },
@@ -5596,6 +5828,7 @@ const geografiya = {
           "text": "Dunyoda neft zaxirasi bo'yicha yetakchi mamlakatlar qaysilar?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Dunyoda neft zaxirasi bo'yicha yetakchi mamlakatlar qaysilar?» savolining to'g'ri javobi — Venesuela va Saudiya Arabistoni. Venesuela va Fors ko'rfazi davlatlari."
     },
@@ -5620,6 +5853,7 @@ const geografiya = {
           "text": "Atlantika okeanining eng chuqur joyi qayer?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Xalqaro 'Katta yettilik' (G7) davlatlari qaysi qatorda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — AQSH, Yaponiya, Germaniya, Buyuk Britaniya, Fransiya, Italiya, Kanada. Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
     },
@@ -5644,6 +5878,7 @@ const geografiya = {
           "text": "OPEC tashkiloti qanday mamlakatlarni birlashtiradi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«OPEC tashkiloti qanday mamlakatlarni birlashtiradi?» savolining to'g'ri javobi — Neft eksport qiluvchi mamlakatlarni. Neft qazib oluvchi va eksport qiluvchi mamlakatlar tashkiloti."
     },
@@ -5668,6 +5903,7 @@ const geografiya = {
           "text": "'Pekin' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yevropa Ittifoqining ma'muriy poytaxti hisoblangan shahar qaysi?» savolining to'g'ri javobi — Bryussel (Belgiya). Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
     },
@@ -5692,6 +5928,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ispaniya'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Avstraliya'?» savolining to'g'ri javobi — Kanberra. Avstraliya poytaxti - Kanberra."
     },
@@ -5716,6 +5953,7 @@ const geografiya = {
           "text": "'Kanberra' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Kanberra' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Avstraliya. Kanberra - Avstraliya poytaxti."
     },
@@ -5740,6 +5978,7 @@ const geografiya = {
           "text": "Atlantika okeanining eng chuqur joyi qayer?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Kanada'?» savolining to'g'ri javobi — Ottava. Kanada poytaxti - Ottava."
     },
@@ -5764,6 +6003,7 @@ const geografiya = {
           "text": "'Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Ottava' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Kanada. Ottava - Kanada poytaxti."
     },
@@ -5788,6 +6028,7 @@ const geografiya = {
           "text": "O'zbekistonning avtomobilsozlik sanoati dastlab qaysi shaharda tashkil etilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Braziliya'?» savolining to'g'ri javobi — Brazilia. Braziliya poytaxti - Brazilia."
     },
@@ -5812,6 +6053,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qashqadaryo viloyati'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Brazilia' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Braziliya. Brazilia - Braziliya poytaxti."
     },
@@ -5836,6 +6078,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Dreyk bo'g'ozi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'AQSH'?» savolining to'g'ri javobi — Vashington. AQSH poytaxti - Vashington."
     },
@@ -5860,6 +6103,7 @@ const geografiya = {
           "text": "'Vashington' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Vashington' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — AQSH. Vashington - AQSH poytaxti."
     },
@@ -5884,6 +6128,7 @@ const geografiya = {
           "text": "Kun davomida yo'nalishini ikki marta o'zgartiruvchi mahalliy dengiz-quruqlik shamoli nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Turkiya'?» savolining to'g'ri javobi — Anqara. Turkiya poytaxti - Anqara."
     },
@@ -5908,6 +6153,7 @@ const geografiya = {
           "text": "'Anqara' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Anqara' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Turkiya. Anqara - Turkiya poytaxti."
     },
@@ -5932,6 +6178,7 @@ const geografiya = {
           "text": "'Pekin' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Xitoy'?» savolining to'g'ri javobi — Pekin. Xitoy poytaxti - Pekin."
     },
@@ -5956,6 +6203,7 @@ const geografiya = {
           "text": "'Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Pekin' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Xitoy. Pekin - Xitoy poytaxti."
     },
@@ -5980,6 +6228,7 @@ const geografiya = {
           "text": "Maydoni bo'yicha dunyodagi eng katta ko'l (yopiq havza) qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Hindiston'?» savolining to'g'ri javobi — Nyu-Dehli. Hindiston poytaxti - Nyu-Dehli."
     },
@@ -6004,6 +6253,7 @@ const geografiya = {
           "text": "'Nyu-Dehli' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Nyu-Dehli' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Hindiston. Nyu-Dehli - Hindiston poytaxti."
     },
@@ -6028,6 +6278,7 @@ const geografiya = {
           "text": "Ekvatorga qarab yil bo'yi bir yo'nalishda esuvchi doimiy shamollar qanday ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Yaponiya'?» savolining to'g'ri javobi — Tokio. Yaponiya poytaxti - Tokio."
     },
@@ -6052,6 +6303,7 @@ const geografiya = {
           "text": "'Tokio' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Tokio' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Yaponiya. Tokio - Yaponiya poytaxti."
     },
@@ -6076,6 +6328,7 @@ const geografiya = {
           "text": "'Vashington' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Germaniya'?» savolining to'g'ri javobi — Berlin. Germaniya poytaxti - Berlin."
     },
@@ -6100,6 +6353,7 @@ const geografiya = {
           "text": "'Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Berlin' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Germaniya. Berlin - Germaniya poytaxti."
     },
@@ -6124,6 +6378,7 @@ const geografiya = {
           "text": "'Madrid' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Fransiya'?» savolining to'g'ri javobi — Parij. Fransiya poytaxti - Parij."
     },
@@ -6148,6 +6403,7 @@ const geografiya = {
           "text": "Shimoliy Muz okeanining eng chuqur botig'i qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Parij' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Fransiya. Parij - Fransiya poytaxti."
     },
@@ -6172,6 +6428,7 @@ const geografiya = {
           "text": "Dunyodagi eng chuqur okean botig'i qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Italiya'?» savolining to'g'ri javobi — Rim. Italiya poytaxti - Rim."
     },
@@ -6196,6 +6453,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xitoy'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Rim' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Italiya. Rim - Italiya poytaxti."
     },
@@ -6220,6 +6478,7 @@ const geografiya = {
           "text": "O'zbekistonning eng baland nuqtasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Ispaniya'?» savolining to'g'ri javobi — Madrid. Ispaniya poytaxti - Madrid."
     },
@@ -6244,6 +6503,7 @@ const geografiya = {
           "text": "'Madrid' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Madrid' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Ispaniya. Madrid - Ispaniya poytaxti."
     },
@@ -6268,6 +6528,7 @@ const geografiya = {
           "text": "'Brazilia' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Misr'?» savolining to'g'ri javobi — Qohira. Misr poytaxti - Qohira."
     },
@@ -6292,6 +6553,7 @@ const geografiya = {
           "text": "'1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Qohira' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Misr. Qohira - Misr poytaxti."
     },
@@ -6316,6 +6578,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Janubiy Afrika Respublikasi (JAR)'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Janubiy Afrika Respublikasi (JAR)'?» savolining to'g'ri javobi — Pretoriya (ma'muriy) / Keyptaun. Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
     },
@@ -6340,6 +6603,7 @@ const geografiya = {
           "text": "O'zbekistonda yog'in eng ko'p tushadigan joy qayer?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Pretoriya (ma'muriy) / Keyptaun' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Janubiy Afrika Respublikasi (JAR). Pretoriya (ma'muriy) / Keyptaun - Janubiy Afrika Respublikasi (JAR) poytaxti."
     },
@@ -6364,6 +6628,7 @@ const geografiya = {
           "text": "Yer o'z o'qi atrofida to'liq bir marta aylanishi uchun qancha vaqt ketadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Saudiya Arabistoni'?» savolining to'g'ri javobi — Ar-Riyod. Saudiya Arabistoni poytaxti - Ar-Riyod."
     },
@@ -6388,6 +6653,7 @@ const geografiya = {
           "text": "'Ostona' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Ar-Riyod' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Saudiya Arabistoni. Ar-Riyod - Saudiya Arabistoni poytaxti."
     },
@@ -6412,6 +6678,7 @@ const geografiya = {
           "text": "O'zbekistonda yog'in eng kam tushadigan qurg'oqchil hudud qayer?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Qozog'iston'?» savolining to'g'ri javobi — Ostona. Qozog'iston poytaxti - Ostona."
     },
@@ -6436,6 +6703,7 @@ const geografiya = {
           "text": "O'zbekistonning eng past nuqtasi qayerda joylashgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Ostona' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Qozog'iston. Ostona - Qozog'iston poytaxti."
     },
@@ -6460,6 +6728,7 @@ const geografiya = {
           "text": "'Qohira' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Qirg'iziston'?» savolining to'g'ri javobi — Bishkek. Qirg'iziston poytaxti - Bishkek."
     },
@@ -6484,6 +6753,7 @@ const geografiya = {
           "text": "O'zbekiston hududining necha foizini tekisliklar (cho'l va adirlar) egallaydi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Bishkek' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Qirg'iziston. Bishkek - Qirg'iziston poytaxti."
     },
@@ -6508,6 +6778,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Toshkent shahri va viloyati'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Tojikiston'?» savolining to'g'ri javobi — Dushanbe. Tojikiston poytaxti - Dushanbe."
     },
@@ -6532,6 +6803,7 @@ const geografiya = {
           "text": "'Ashxobod' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Dushanbe' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Tojikiston. Dushanbe - Tojikiston poytaxti."
     },
@@ -6556,6 +6828,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Turkmaniston'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Turkmaniston'?» savolining to'g'ri javobi — Ashxobod. Turkmaniston poytaxti - Ashxobod."
     },
@@ -6580,6 +6853,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta iliq okean oqimi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Ashxobod' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Turkmaniston. Ashxobod - Turkmaniston poytaxti."
     },
@@ -6604,6 +6878,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun tog' tizmasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Afg'oniston'?» savolining to'g'ri javobi — Qobul. Afg'oniston poytaxti - Qobul."
     },
@@ -6628,6 +6903,7 @@ const geografiya = {
           "text": "'Qobul' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Qobul' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Afg'oniston. Qobul - Afg'oniston poytaxti."
     },
@@ -6652,6 +6928,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ural tog'lari'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Gibraltar bo'g'ozi'?» savolining to'g'ri javobi — O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz. Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
     },
@@ -6676,6 +6953,7 @@ const geografiya = {
           "text": "Dunyodagi eng baland sharshara qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Gibraltar bo'g'ozi. O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz - Gibraltar bo'g'ozi poytaxti."
     },
@@ -6700,6 +6978,7 @@ const geografiya = {
           "text": "'Pretoriya (ma'muriy) / Keyptaun' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Bosfor va Dardanell bo'g'ozlari'?» savolining to'g'ri javobi — Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar. Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
     },
@@ -6724,6 +7003,7 @@ const geografiya = {
           "text": "'Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Bosfor va Dardanell bo'g'ozlari. Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar - Bosfor va Dardanell bo'g'ozlari poytaxti."
     },
@@ -6748,6 +7028,7 @@ const geografiya = {
           "text": "Yer Quyosh atrofida to'liq bir marta necha kunda aylanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Suvaysh kanali'?» savolining to'g'ri javobi — Kil kanali. Suvaysh kanali poytaxti - O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li."
     },
@@ -6772,6 +7053,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta okean qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Suvaysh kanali. O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
     },
@@ -6796,6 +7078,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta okean qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Panama kanali'?» savolining to'g'ri javobi — Magellan bo'g'ozi. Panama kanali poytaxti - Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal."
     },
@@ -6820,6 +7103,7 @@ const geografiya = {
           "text": "O'zbekistonning oltin qazib olinadigan eng yirik koni qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Panama kanali. Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal - Panama kanali poytaxti."
     },
@@ -6844,6 +7128,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Bering bo'g'ozi'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Bering bo'g'ozi'?» savolining to'g'ri javobi — Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz. Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
     },
@@ -6868,6 +7153,7 @@ const geografiya = {
           "text": "Litosfera plitalarining bir-biriga yaqinlashishi va to'qnashishi natijasida nima hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Bering bo'g'ozi. Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
     },
@@ -6892,6 +7178,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'AQSH'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Dreyk bo'g'ozi'?» savolining to'g'ri javobi — Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz. Dreyk bo'g'ozi poytaxti - Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz."
     },
@@ -6916,6 +7203,7 @@ const geografiya = {
           "text": "O'zbekistonning avtomobilsozlik sanoati dastlab qaysi shaharda tashkil etilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Dreyk bo'g'ozi. Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz - Dreyk bo'g'ozi poytaxti."
     },
@@ -6940,6 +7228,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ormuz bo'g'ozi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Malakka bo'g'ozi'?» savolining to'g'ri javobi — Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li. Malakka bo'g'ozi poytaxti - Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li."
     },
@@ -6964,6 +7253,7 @@ const geografiya = {
           "text": "'1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Malakka bo'g'ozi. Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
     },
@@ -6988,6 +7278,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ormuz bo'g'ozi'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Ormuz bo'g'ozi'?» savolining to'g'ri javobi — Ormuz bo'g'ozi. Ormuz bo'g'ozi poytaxti - Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi."
     },
@@ -7012,6 +7303,7 @@ const geografiya = {
           "text": "'Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Ormuz bo'g'ozi. Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi - Ormuz bo'g'ozi poytaxti."
     },
@@ -7036,6 +7328,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Braziliya'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Himoloy tog'lari'?» savolining to'g'ri javobi — Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega. Himoloy tog'lari poytaxti - Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega."
     },
@@ -7060,6 +7353,7 @@ const geografiya = {
           "text": "O'zbekistonda yog'in eng kam tushadigan qurg'oqchil hudud qayer?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Himoloy tog'lari. Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega - Himoloy tog'lari poytaxti."
     },
@@ -7084,6 +7378,7 @@ const geografiya = {
           "text": "Dunyodagi eng kichik materik qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Tyanshan tog'lari'?» savolining to'g'ri javobi — Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m). Tyanshan tog'lari poytaxti - Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)."
     },
@@ -7108,6 +7403,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Misr'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Tyanshan tog'lari. Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
     },
@@ -7132,6 +7428,7 @@ const geografiya = {
           "text": "Dunyodagi eng sersuv va havzasi eng katta bo'lgan daryo qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Pomir tog'lari'?» savolining to'g'ri javobi — O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi). Pomir tog'lari poytaxti - O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)."
     },
@@ -7156,6 +7453,7 @@ const geografiya = {
           "text": "'Ashxobod' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Pomir tog'lari. O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
     },
@@ -7180,6 +7478,7 @@ const geografiya = {
           "text": "'1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Kavkaz tog'lari'?» savolining to'g'ri javobi — Pireney tog'lari. Kavkaz tog'lari poytaxti - Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)."
     },
@@ -7204,6 +7503,7 @@ const geografiya = {
           "text": "'Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Kavkaz tog'lari. Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m) - Kavkaz tog'lari poytaxti."
     },
@@ -7228,6 +7528,7 @@ const geografiya = {
           "text": "Yevropa Ittifoqining ma'muriy poytaxti hisoblangan shahar qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Alp tog'lari'?» savolining to'g'ri javobi — G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m). Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
     },
@@ -7252,6 +7553,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Bering bo'g'ozi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Alp tog'lari. G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
     },
@@ -7276,6 +7578,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Navoiy viloyati'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Ural tog'lari'?» savolining to'g'ri javobi — Oltoy. Ural tog'lari poytaxti - Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar."
     },
@@ -7300,6 +7603,7 @@ const geografiya = {
           "text": "'Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Ural tog'lari. Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar - Ural tog'lari poytaxti."
     },
@@ -7324,6 +7628,7 @@ const geografiya = {
           "text": "O'zbekistondagi eng katta tabiiy ko'l qaysi (Orol qurigach)?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Kilimanjaro'?» savolining to'g'ri javobi — Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m). Kilimanjaro poytaxti - Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)."
     },
@@ -7348,6 +7653,7 @@ const geografiya = {
           "text": "'1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Kilimanjaro. Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m) - Kilimanjaro poytaxti."
     },
@@ -7372,6 +7678,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qashqadaryo viloyati'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Qashqadaryo viloyati'?» savolining to'g'ri javobi — O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat. Qashqadaryo viloyati poytaxti - O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat."
     },
@@ -7396,6 +7703,7 @@ const geografiya = {
           "text": "Maydoni bo'yicha dunyodagi eng katta davlat qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Qashqadaryo viloyati. O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat - Qashqadaryo viloyati poytaxti."
     },
@@ -7420,6 +7728,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Navoiy viloyati'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Navoiy viloyati'?» savolining to'g'ri javobi — O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati. Navoiy viloyati poytaxti - O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati."
     },
@@ -7444,6 +7753,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qirg'iziston'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Navoiy viloyati. O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati - Navoiy viloyati poytaxti."
     },
@@ -7468,6 +7778,7 @@ const geografiya = {
           "text": "'O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Farg'ona vodiysi (Andijon, Farg'ona, Namangan)'?» savolining to'g'ri javobi — O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi. Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
     },
@@ -7492,6 +7803,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Farg'ona vodiysi (Andijon, Farg'ona, Namangan)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Farg'ona vodiysi (Andijon, Farg'ona, Namangan). O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi - Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti."
     },
@@ -7516,6 +7828,7 @@ const geografiya = {
           "text": "Dunyodagi eng chuqur ko'l qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Buxoro viloyati'?» savolining to'g'ri javobi — Buxoro viloyati. Buxoro viloyati poytaxti - Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat."
     },
@@ -7540,6 +7853,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun daryo qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Buxoro viloyati. Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat - Buxoro viloyati poytaxti."
     },
@@ -7564,6 +7878,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Surxondaryo viloyati'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Surxondaryo viloyati'?» savolining to'g'ri javobi — O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati. Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
     },
@@ -7588,6 +7903,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Buxoro viloyati'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Surxondaryo viloyati. O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati - Surxondaryo viloyati poytaxti."
     },
@@ -7612,6 +7928,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Italiya'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Xorazm viloyati'?» savolining to'g'ri javobi — Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati. Xorazm viloyati poytaxti - Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati."
     },
@@ -7636,6 +7953,7 @@ const geografiya = {
           "text": "'Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Xorazm viloyati. Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
     },
@@ -7660,6 +7978,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun temir yo'l magistrali qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Qoraqalpog'iston Respublikasi'?» savolining to'g'ri javobi — Navoiy viloyati. Qoraqalpog'iston Respublikasi poytaxti - O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)."
     },
@@ -7684,6 +8003,7 @@ const geografiya = {
           "text": "'O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Qoraqalpog'iston Respublikasi. O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus) - Qoraqalpog'iston Respublikasi poytaxti."
     },
@@ -7708,6 +8028,7 @@ const geografiya = {
           "text": "O'zbekistonning eng past nuqtasi qayerda joylashgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Toshkent shahri va viloyati'?» savolining to'g'ri javobi — O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi. Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
     },
@@ -7732,6 +8053,7 @@ const geografiya = {
           "text": "Yer qobig'idagi zilzilalar kuchi va tebranishlarini yozib oluvchi asbob nima?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Toshkent shahri va viloyati. O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi - Toshkent shahri va viloyati poytaxti."
     },
@@ -7756,6 +8078,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xristofor Kolumb'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Xristofor Kolumb'?» savolining to'g'ri javobi — 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi. Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
     },
@@ -7780,6 +8103,7 @@ const geografiya = {
           "text": "Yevropa Ittifoqining ma'muriy poytaxti hisoblangan shahar qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Xristofor Kolumb. 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
     },
@@ -7804,6 +8128,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Vasko da Gama'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Vasko da Gama'?» savolining to'g'ri javobi — 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi. Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
     },
@@ -7828,6 +8153,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Yaponiya'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Vasko da Gama. 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi - Vasko da Gama poytaxti."
     },
@@ -7852,6 +8178,7 @@ const geografiya = {
           "text": "'O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Fernan Magellan'?» savolining to'g'ri javobi — F. Bellinsgauzen. Fernan Magellan poytaxti - 1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan."
     },
@@ -7876,6 +8203,7 @@ const geografiya = {
           "text": "'1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«'1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Fernan Magellan. 1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan - Fernan Magellan poytaxti."
     },
@@ -7900,6 +8228,7 @@ const geografiya = {
           "text": "'Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Amerigo Vespuchchi'?» savolining to'g'ri javobi — Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan. Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
     },
@@ -7924,6 +8253,7 @@ const geografiya = {
           "text": "Atmosfera bosimini o'lchaydigan asbob nima deb ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«'Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Amerigo Vespuchchi. Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan - Amerigo Vespuchchi poytaxti."
     },
@@ -7948,6 +8278,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'F. Bellinsgauzen va M. Lazarev'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'F. Bellinsgauzen va M. Lazarev'?» savolining to'g'ri javobi — 1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari. F. Bellinsgauzen va M. Lazarev poytaxti - 1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari."
     },
@@ -7972,6 +8303,7 @@ const geografiya = {
           "text": "Litosfera plitalarining bir-biriga yaqinlashishi va to'qnashishi natijasida nima hosil bo'ladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«'1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — F. Bellinsgauzen va M. Lazarev. 1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
     },
@@ -7996,6 +8328,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Rual Amundsen'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Rual Amundsen'?» savolining to'g'ri javobi — 1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh. Rual Amundsen poytaxti - 1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh."
     },
@@ -8020,6 +8353,7 @@ const geografiya = {
           "text": "O'zbekiston hududining necha foizini tekisliklar (cho'l va adirlar) egallaydi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Rual Amundsen. 1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh - Rual Amundsen poytaxti."
     },
@@ -8044,6 +8378,7 @@ const geografiya = {
           "text": "O'zbekiston chegaradosh bo'lgan davlatlar soni nechta?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quyidagi davlatning poytaxti qaysi shahar: 'Robert Piri'?» savolining to'g'ri javobi — 1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh. Robert Piri poytaxti - 1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh."
     },
@@ -8068,6 +8403,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ural tog'lari'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«'1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh' shahri qaysi davlatning poytaxti hisoblanadi?» savolining to'g'ri javobi — Robert Piri. 1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh - Robert Piri poytaxti."
     },
@@ -8092,6 +8428,7 @@ const geografiya = {
           "text": "Yer atmosferasining eng quyi, ob-havo hodisalari yuz beradigan qatlami qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Yer atmosferasining eng quyi, ob-havo hodisalari yuz beradigan qatlami qaysi?» savolining to'g'ri javobi — Troposfera. Troposfera qalinligi ekvatorda 18 km gacha bo'lib, atmosferaning 80% massasini oladi."
     },
@@ -8116,6 +8453,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Fransiya'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Atmosferadagi tiriklikni ultrabinafsha nurlardan himoya qiluvchi Ozon qatlami qayerda joylashgan?» savolining to'g'ri javobi — Stratosferada (20-25 km balandlikda). Ozon qatlami stratosferada to'plangan."
     },
@@ -8140,6 +8478,7 @@ const geografiya = {
           "text": "Atmosfera bosimini o'lchaydigan asbob nima deb ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Atmosfera bosimini o'lchaydigan asbob nima deb ataladi?» savolining to'g'ri javobi — Barometr. Barometr bosimni o'lchaydi (simobli va aneroid)."
     },
@@ -8164,6 +8503,7 @@ const geografiya = {
           "text": "Havoning nisbiy namligini o'lchaydigan asbob qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Havoning nisbiy namligini o'lchaydigan asbob qaysi?» savolining to'g'ri javobi — Gigrometr (psixrometr). Gigrometr havodagi suv bug'i miqdorini aniqlaydi."
     },
@@ -8188,6 +8528,7 @@ const geografiya = {
           "text": "Shamolning tezligini o'lchaydigan asbob qanday ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Shamolning tezligini o'lchaydigan asbob qanday ataladi?» savolining to'g'ri javobi — Anemometr. Anemometr shamol tezligini, flyuger esa yo'nalishini ko'rsatadi."
     },
@@ -8212,6 +8553,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xorazm viloyati'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Yer qobig'idagi zilzilalar kuchi va tebranishlarini yozib oluvchi asbob nima?» savolining to'g'ri javobi — Seysmograf. Seysmograf yer qimirlash to'lqinlarini qayd qiladi."
     },
@@ -8236,6 +8578,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qashqadaryo viloyati'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Zilzila markazining Yer yuzasidagi proyeksiyasi nima deb ataladi?» savolining to'g'ri javobi — Epitsentr. Epitsentr yer silkinishining eng kuchli seziladigan yuza qismidir."
     },
@@ -8260,6 +8603,7 @@ const geografiya = {
           "text": "'Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Litosfera plitalarining bir-biriga yaqinlashishi va to'qnashishi natijasida nima hosil bo'ladi?» savolining to'g'ri javobi — Bukmali tog' tizmalari va chuqur okean botig'i. Masalan, Hindiston plitasi Yevrosiyoga urilib Himoloy tog'larini ko'targan."
     },
@@ -8284,6 +8628,7 @@ const geografiya = {
           "text": "Litosfera plitalarining bir-biridan uzoqlashishi (ajralishi) nima deb ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Litosfera plitalarining bir-biridan uzoqlashishi (ajralishi) nima deb ataladi?» savolining to'g'ri javobi — Spreding (rift zonalari). Atlantika okeani tubida o'rta okean tizmasi hosil bo'ladi."
     },
@@ -8308,6 +8653,7 @@ const geografiya = {
           "text": "'O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Fasllar almashishi bilan yo'nalishini 180 gradusga o'zgartiruvchi mavsumiy shamollar nima?» savolining to'g'ri javobi — Musson shamollari. Musson yozda okeandan quruqlikka, qishda quruqlikdan okeanga esadi."
     },
@@ -8332,6 +8678,7 @@ const geografiya = {
           "text": "'Rim' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Ekvatorga qarab yil bo'yi bir yo'nalishda esuvchi doimiy shamollar qanday ataladi?» savolining to'g'ri javobi — Passatlar. Passat shamollari tropiklardan ekvatorga tomon esadi."
     },
@@ -8356,6 +8703,7 @@ const geografiya = {
           "text": "Kun davomida yo'nalishini ikki marta o'zgartiruvchi mahalliy dengiz-quruqlik shamoli nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Kun davomida yo'nalishini ikki marta o'zgartiruvchi mahalliy dengiz-quruqlik shamoli nima?» savolining to'g'ri javobi — Briz. Kunduzgi briz dengizdan quruqlikka, tungi briz quruqlikdan dengizga esadi."
     },
@@ -8380,6 +8728,7 @@ const geografiya = {
           "text": "Shamolning tezligini o'lchaydigan asbob qanday ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Dunyodagi eng katta iliq okean oqimi qaysi?» savolining to'g'ri javobi — Golfstrim (Shimoliy Atlantika oqimi). Golfstrim Yevropa qit'asining iqlimini yumshatuvchi 'isitgich' hisoblanadi."
     },
@@ -8404,6 +8753,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Turkmaniston'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Dunyodagi eng kuchli sovuq okean oqimi qaysi?» savolining to'g'ri javobi — G'arbiy Shamollar oqimi (Antarktika aylanma oqimi). Antarktida atrofida aylanuvchi eng kuchli oqim."
     },
@@ -8428,6 +8778,7 @@ const geografiya = {
           "text": "'Kanberra' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Quruqlik ichkarisida joylashgan, okean bilan faqat tor bo'g'ozlar orqali bog'langan dengizlar qanday ataladi?» savolining to'g'ri javobi — Ichki dengizlar (masalan: O'rta dengiz, Qora dengiz, Qizil dengiz). Ichki dengizlar materiklar ichida bo'ladi."
     },
@@ -8452,6 +8803,7 @@ const geografiya = {
           "text": "'Ashxobod' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Maydoni bo'yicha dunyodagi eng katta ko'rfaz qaysi?» savolining to'g'ri javobi — Bengal ko'rfazi (Hind okeani). Bengal ko'rfazi maydoni 2.1 mln km²."
     },
@@ -8476,6 +8828,7 @@ const geografiya = {
           "text": "'Ashxobod' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Dunyodagi eng katta yarimorol qaysi?» savolining to'g'ri javobi — Arabiston yarimoroli (maydoni qariyb 3 mln km²). Arabiston yarimoroli eng yirik yarimoroldir."
     },
@@ -8500,6 +8853,7 @@ const geografiya = {
           "text": "Yerning o'rtacha radiusi qanchaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«O'zbekistonda eng sovuq qish harorati qayerda qayd etilgan?» savolining to'g'ri javobi — Ustyurt platosida (Qoraqalpog'iston, -40 °C gacha). Ustyurtda qish juda qahraton va ayozli bo'ladi."
     },
@@ -8524,6 +8878,7 @@ const geografiya = {
           "text": "Yer yuzida aholisi eng ko'p bo'lgan davlatlar qaysilar?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«O'zbekistonda eng issiq yozgi harorat (mutlaq maksimum) qayerda kuzatilgan?» savolining to'g'ri javobi — Termiz va Qizilqum hududida (+50 °C gacha). Termizda +50 °C gacha issiq qayd etilgan."
     },
@@ -8548,6 +8903,7 @@ const geografiya = {
           "text": "Shamolning tezligini o'lchaydigan asbob qanday ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«O'zbekistonda yog'in eng ko'p tushadigan joy qayer?» savolining to'g'ri javobi — G'arbiy Tyanshan va Hisor tog'larining g'arbiy yonbag'irlari (1000-2000 mm). Nam havo massalari tog'larga urilib mo'l yog'in qoldiradi."
     },
@@ -8572,6 +8928,7 @@ const geografiya = {
           "text": "'Rim' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«O'zbekistonda yog'in eng kam tushadigan qurg'oqchil hudud qayer?» savolining to'g'ri javobi — Quyi Amudaryo va Orolbo'yi hududlari (taxminan 80-100 mm). Orolbo'yi va Qoraqalpog'istonning ayrim joylarida yog'in juda kam."
     },
@@ -8596,6 +8953,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Kanada'?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«O'zbekistonning poytaxti Toshkent shahri qaysi daryoning vohasida joylashgan?» savolining to'g'ri javobi — Chirchiq daryosi vodiysida. Chirchiq daryosi Chotqol va Pskem daryolaridan boshlanadi."
     },
@@ -8620,6 +8978,7 @@ const geografiya = {
           "text": "'Kanberra' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Zarafshon daryosi qaysi tog'lardan boshlanadi va qayerda tugaydi?» savolining to'g'ri javobi — Zarafshon tizmasidagi muzlikdan boshlanib, Qorako'l yaqinida qumga singib ketadi. Zarafshon Amudaryoga yetmasdan sug'orishga sarflanib tugaydi."
     },
@@ -8644,6 +9003,7 @@ const geografiya = {
           "text": "Amudaryo qaysi ikki yirik daryoning qo'shilishidan hosil bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Amudaryo qaysi ikki yirik daryoning qo'shilishidan hosil bo'ladi?» savolining to'g'ri javobi — Panj va Vaxsh daryolarining qo'shilishidan. Panj va Vaxsh birlashib Amudaryoni tashkil qiladi."
     },
@@ -8668,6 +9028,7 @@ const geografiya = {
           "text": "'1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Sirdaryo qaysi ikki daryoning qo'shilishidan hosil bo'ladi?» savolining to'g'ri javobi — Norin va Qoradaryoning qo'shilishidan. Farg'ona vodiysida Norin va Qoradaryo qo'shilib Sirdaryo deb ataladi."
     },
@@ -8692,6 +9053,7 @@ const geografiya = {
           "text": "'Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«O'zbekistonda ko'mir qazib olinadigan eng yirik kon qaysi?» savolining to'g'ri javobi — Angren qo'ng'ir ko'mir koni (Toshkent viloyati). Angren koni ochiq usulda ko'mir qazib oladi."
     },
@@ -8716,6 +9078,7 @@ const geografiya = {
           "text": "'Parij' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Toshkent viloyatidagi toshko'mir koni qaysi?» savolining to'g'ri javobi — Sharg'un va Boysun (Surxondaryoda toshko'mir, Angrenda qo'ng'ir ko'mir). Sharg'un va Boysunda yuqori kaloriyali toshko'mir bor."
     },
@@ -8740,6 +9103,7 @@ const geografiya = {
           "text": "Hind okeanining eng chuqur botig'i qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«O'zbekistonda marmar va granit toshlari qazib olinadigan mashhur konlar qaysilar?» savolining to'g'ri javobi — G'ozg'on marmar koni (Navoiy viloyati). G'ozg'on o'zining rang-barang marmari bilan dunyoga mashhur."
     },
@@ -8764,6 +9128,7 @@ const geografiya = {
           "text": "'Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Dunyoda qaysi mamlakat 'Kunchiqar yurt' deb ataladi?» savolining to'g'ri javobi — Yaponiya. Nippon (Yaponiya) nomi kunchiqar degan ma'noni beradi."
     },
@@ -8788,6 +9153,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Kavkaz tog'lari'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Dunyodagi eng uzun temir yo'l magistrali qaysi?» savolining to'g'ri javobi — Transsibir temir yo'li (Moskva - Vladivostok, 9288 km). Transsibir temir yo'li 9288 km uzunlikka ega."
     },
@@ -8812,6 +9178,7 @@ const geografiya = {
           "text": "O'zbekiston chegaradosh bo'lgan davlatlar soni nechta?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Afrika va Yevropani ajratib turuvchi, ammo ikkala qit'a sohillarini yuvuvchi dengiz qaysi?» savolining to'g'ri javobi — O'rta dengiz. O'rta dengiz Yevropa, Osiyo va Afrika oralig'ida."
     },
@@ -8836,6 +9203,7 @@ const geografiya = {
           "text": "Bosh (nolchi) meridian qaysi rasadxona orqali o'tadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Hind okeanining eng chuqur botig'i qaysi?» savolining to'g'ri javobi — Yava (Zond) botig'i (7729 m). Yava botig'i Hind okeanining eng chuqur joyidir."
     },
@@ -8860,6 +9228,7 @@ const geografiya = {
           "text": "Atlantika okeanining eng chuqur joyi qayer?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Atlantika okeanining eng chuqur joyi qayer?» savolining to'g'ri javobi — Puerto-Riko botig'i (8742 m). Puerto-Riko novi Atlantika okeanida joylashgan."
     },
@@ -8884,6 +9253,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'AQSH'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Shimoliy Muz okeanining eng chuqur botig'i qaysi?» savolining to'g'ri javobi — Grenlandiya dengizi (Frem botig'i, 5527 m). Shimoliy Muz okeanining eng chuqur nuqtasi 5527 m."
     },
@@ -8908,6 +9278,7 @@ const geografiya = {
           "text": "'O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Yer sharida jami nechta soat mintaqasi mavjud?» savolining to'g'ri javobi — 24 ta soat mintaqasi. Yer shari har biri 15 gradusdan 24 ta soat mintaqasiga bo'lingan."
     },
@@ -8932,6 +9303,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qoraqalpog'iston Respublikasi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Sana o'zgarish chizig'i qaysi meridian bo'ylab o'tadi?» savolining to'g'ri javobi — 180° meridian. 180-meridain orqali xalqaro sana o'zgarish chizig'i o'tkazilgan."
     },
@@ -8956,6 +9328,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta okean qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tinch okeani maydoni va chuqurligi bo'yicha dunyoda birinchi o'rinda turadi."
     },
@@ -8980,6 +9353,7 @@ const geografiya = {
           "text": "O'zbekiston hududidagi eng uzun daryo qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Amudaryo Markaziy Osiyo va O'zbekistondagi eng sersuv va uzun daryodir (2540 km)."
     },
@@ -9004,6 +9378,7 @@ const geografiya = {
           "text": "Dunyodagi eng baland cho'qqi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Himoloy tog'laridagi Everest cho'qqisi dengiz sathidan 8848 metr balandlikda joylashgan."
     },
@@ -9028,6 +9403,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Tojikiston'?"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "Orol dengizi O'zbekiston (Qoraqalpog'iston) va Qozog'iston chegarasida joylashgan."
     },
@@ -9052,6 +9428,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ural tog'lari'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yer ekvatorining aylana uzunligi taxminan 40 075 km ni tashkil etadi."
     },
@@ -9076,6 +9453,7 @@ const geografiya = {
           "text": "Yerning o'rtacha radiusi qanchaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yer sharining o'rtacha radiusi taxminan 6371 km."
     },
@@ -9100,6 +9478,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta okean qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "100 000 sm = 1000 m = 1 km."
     },
@@ -9124,6 +9503,7 @@ const geografiya = {
           "text": "'Dushanbe' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gorizontallar (izogipslar) relyef balandligini ko'rsatadi."
     },
@@ -9148,6 +9528,7 @@ const geografiya = {
           "text": "Okean va dengizlarda bir xil chuqurlikdagi nuqtalarni tutashtiruvchi chiziqlar qanday ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Izobatalar chuqurlik chiziqlaridir."
     },
@@ -9172,6 +9553,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ispaniya'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xalqaro kelishuvga ko'ra Grinvich nolinchi meridian hisoblanadi."
     },
@@ -9196,6 +9578,7 @@ const geografiya = {
           "text": "'Brazilia' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yulduz sutkasi 23 soat 56 daqiqa 4 soniyaga teng."
     },
@@ -9220,6 +9603,7 @@ const geografiya = {
           "text": "'Madrid' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Shu ortiqcha 6 soat hisobiga har 4 yilda kabisa yili (366 kun) bo'ladi."
     },
@@ -9244,6 +9628,7 @@ const geografiya = {
           "text": "'O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yer o'qining qiyaligi sababli fasllar almashinadi."
     },
@@ -9268,6 +9653,7 @@ const geografiya = {
           "text": "Yozgi quyosh turishi (Shimoliy yarimsharda eng uzun kun) qaysi sanaga to'g'ri keladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "22-iyunda quyosh shimoliy tropikda zenitda bo'ladi."
     },
@@ -9292,6 +9678,7 @@ const geografiya = {
           "text": "O'zbekiston hududining necha foizini tekisliklar (cho'l va adirlar) egallaydi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
     },
@@ -9316,6 +9703,7 @@ const geografiya = {
           "text": "Fasllar almashishi bilan yo'nalishini 180 gradusga o'zgartiruvchi mavsumiy shamollar nima?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bu kunlarda Quyosh ekvatorda zenitda turadi."
     },
@@ -9340,6 +9728,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xitoy'?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
     },
@@ -9364,6 +9753,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Bering bo'g'ozi'?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Avstraliyaning maydoni taxminan 7.7 mln km²."
     },
@@ -9388,6 +9778,7 @@ const geografiya = {
           "text": "Zarafshon daryosi qaysi tog'lardan boshlanadi va qayerda tugaydi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
     },
@@ -9412,6 +9803,7 @@ const geografiya = {
           "text": "O'zbekistonda eng sovuq qish harorati qayerda qayd etilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "And tog'lari 9000 km ga cho'zilgan."
     },
@@ -9436,6 +9828,7 @@ const geografiya = {
           "text": "Xaritadagi masshtab 1:100 000 bo'lsa, xaritadagi 1 sm joyda qancha masofaga to'g'ri keladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Amazonka dunyodagi eng sersuv daryodir."
     },
@@ -9460,6 +9853,7 @@ const geografiya = {
           "text": "O'zbekistonda yog'in eng kam tushadigan qurg'oqchil hudud qayer?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Nil daryosining uzunligi qariyb 6670 km."
     },
@@ -9484,6 +9878,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Panama kanali'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Baykal ko'lining chuqurligi 1642 metr."
     },
@@ -9508,6 +9903,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Bosfor va Dardanell bo'g'ozlari'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kaspiy ko'l bo'lsa-da, kattaligi sababli dengiz deyiladi."
     },
@@ -9532,6 +9928,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Farg'ona vodiysi (Andijon, Farg'ona, Namangan)'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Anxel sharsharasi Janubiy Amerikada Churun daryosida joylashgan."
     },
@@ -9556,6 +9953,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Malakka bo'g'ozi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sahroi Kabir maydoni taxminan 9 mln km²."
     },
@@ -9580,6 +9978,7 @@ const geografiya = {
           "text": "Dunyodagi eng chuqur okean botig'i qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Mariana botig'i dunyo okeanining eng chuqur nuqtasi hisoblanadi."
     },
@@ -9604,6 +10003,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta orol qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Grenlandiya orolining maydoni 2.1 mln km²."
     },
@@ -9628,6 +10028,7 @@ const geografiya = {
           "text": "O'zbekiston Respublikasining umumiy yer maydoni qancha?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekiston maydoni 448.9 ming km² ni tashkil etadi."
     },
@@ -9652,6 +10053,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Himoloy tog'lari'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekiston 5 ta davlat bilan chegaradosh."
     },
@@ -9676,6 +10078,7 @@ const geografiya = {
           "text": "'1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Surxondaryo viloyati hududidagi Hazrati Sulton cho'qqisi."
     },
@@ -9700,6 +10103,7 @@ const geografiya = {
           "text": "O'zbekistonning eng past nuqtasi qayerda joylashgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qizilqumdagi Mingbuloq botig'i dengiz sathidan -12.8 m pastda."
     },
@@ -9724,6 +10128,7 @@ const geografiya = {
           "text": "Sirdaryo qaysi ikki daryoning qo'shilishidan hosil bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aydarko'l sun'iy-tabiiy eng yirik suv havzasidir."
     },
@@ -9748,6 +10153,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta okean qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Suv sig'imi bo'yicha To'polong va Chorvoq eng yiriklaridan."
     },
@@ -9772,6 +10178,7 @@ const geografiya = {
           "text": "'Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekistonning qariyb 80% maydoni tekisliklardan iborat."
     },
@@ -9796,6 +10203,7 @@ const geografiya = {
           "text": "Xaritadagi masshtab 1:100 000 bo'lsa, xaritadagi 1 sm joyda qancha masofaga to'g'ri keladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qizilqum Amudaryo va Sirdaryo oralig'ida joylashgan."
     },
@@ -9820,6 +10228,7 @@ const geografiya = {
           "text": "'Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Muruntov dunyodagi eng yirik ochiq oltin konlaridan biridir."
     },
@@ -9844,6 +10253,7 @@ const geografiya = {
           "text": "Zarafshon daryosi qaysi tog'lardan boshlanadi va qayerda tugaydi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Olmaliq kon-metallurgiya kombinati."
     },
@@ -9868,6 +10278,7 @@ const geografiya = {
           "text": "O'zbekistonning qora metallurgiya (po'lat quyish) markazi qaysi shahar?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bekoboddagi O'zbekiston metallurgiya zavodi."
     },
@@ -9892,6 +10303,7 @@ const geografiya = {
           "text": "O'zbekistonning gaz kimyo majmuasi joylashgan yirik hudud qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Sho'rtan gaz-kimyo majmuasi polietilen ishlab chiqaradi."
     },
@@ -9916,6 +10328,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun tog' tizmasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1996-yilda Asaka shahrida UzDaewooAuto ishga tushgan."
     },
@@ -9940,6 +10353,7 @@ const geografiya = {
           "text": "O'zbekiston hududining necha foizini tekisliklar (cho'l va adirlar) egallaydi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Hindiston va Xitoy dunyo aholisining 35% dan ortig'ini tashkil etadi."
     },
@@ -9964,6 +10378,7 @@ const geografiya = {
           "text": "Yer Quyosh atrofida to'liq bir marta necha kunda aylanadi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Rossiya Federatsiyasi maydoni bo'yicha 1-o'rinda."
     },
@@ -9988,6 +10403,7 @@ const geografiya = {
           "text": "'Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Rim shahri ichida joylashgan Vatikan."
     },
@@ -10012,6 +10428,7 @@ const geografiya = {
           "text": "Shimoliy Muz okeanining eng chuqur botig'i qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Braziliya Janubiy Amerika qit'asining qariyb yarmini egallaydi."
     },
@@ -10036,6 +10453,7 @@ const geografiya = {
           "text": "Maydoni bo'yicha dunyodagi eng katta davlat qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Nigeriya Afrikada aholi soni bo'yicha yaqqol yetakchidir."
     },
@@ -10060,6 +10478,7 @@ const geografiya = {
           "text": "Dunyoda neft zaxirasi bo'yicha yetakchi mamlakatlar qaysilar?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Venesuela va Fors ko'rfazi davlatlari."
     },
@@ -10084,6 +10503,7 @@ const geografiya = {
           "text": "Xalqaro 'Katta yettilik' (G7) davlatlari qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
     },
@@ -10108,6 +10528,7 @@ const geografiya = {
           "text": "'Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Neft qazib oluvchi va eksport qiluvchi mamlakatlar tashkiloti."
     },
@@ -10132,6 +10553,7 @@ const geografiya = {
           "text": "Yevropa Ittifoqining ma'muriy poytaxti hisoblangan shahar qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
     },
@@ -10156,6 +10578,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Avstraliya'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Avstraliya poytaxti - Kanberra."
     },
@@ -10180,6 +10603,7 @@ const geografiya = {
           "text": "'Ostona' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kanberra - Avstraliya poytaxti."
     },
@@ -10204,6 +10628,7 @@ const geografiya = {
           "text": "'Dushanbe' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kanada poytaxti - Ottava."
     },
@@ -10228,6 +10653,7 @@ const geografiya = {
           "text": "Maydoni bo'yicha dunyodagi eng katta ko'rfaz qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ottava - Kanada poytaxti."
     },
@@ -10252,6 +10678,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Braziliya'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Braziliya poytaxti - Brazilia."
     },
@@ -10276,6 +10703,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Yaponiya'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Brazilia - Braziliya poytaxti."
     },
@@ -10300,6 +10728,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'AQSH'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "AQSH poytaxti - Vashington."
     },
@@ -10324,6 +10753,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Farg'ona vodiysi (Andijon, Farg'ona, Namangan)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Vashington - AQSH poytaxti."
     },
@@ -10348,6 +10778,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Turkiya'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Turkiya poytaxti - Anqara."
     },
@@ -10372,6 +10803,7 @@ const geografiya = {
           "text": "O'zbekistonning qora metallurgiya (po'lat quyish) markazi qaysi shahar?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Anqara - Turkiya poytaxti."
     },
@@ -10396,6 +10828,7 @@ const geografiya = {
           "text": "'1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xitoy poytaxti - Pekin."
     },
@@ -10420,6 +10853,7 @@ const geografiya = {
           "text": "Dunyoda neft zaxirasi bo'yicha yetakchi mamlakatlar qaysilar?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Pekin - Xitoy poytaxti."
     },
@@ -10444,6 +10878,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Vasko da Gama'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Hindiston poytaxti - Nyu-Dehli."
     },
@@ -10468,6 +10903,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Janubiy Afrika Respublikasi (JAR)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Nyu-Dehli - Hindiston poytaxti."
     },
@@ -10492,6 +10928,7 @@ const geografiya = {
           "text": "O'zbekistonning eng baland nuqtasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yaponiya poytaxti - Tokio."
     },
@@ -10516,6 +10953,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'F. Bellinsgauzen va M. Lazarev'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tokio - Yaponiya poytaxti."
     },
@@ -10540,6 +10978,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta okean qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Germaniya poytaxti - Berlin."
     },
@@ -10564,6 +11003,7 @@ const geografiya = {
           "text": "'1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Berlin - Germaniya poytaxti."
     },
@@ -10588,6 +11028,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Fransiya'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Fransiya poytaxti - Parij."
     },
@@ -10612,6 +11053,7 @@ const geografiya = {
           "text": "Yer o'qining orbita tekisligiga qiyaligi necha darajani tashkil etadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Parij - Fransiya poytaxti."
     },
@@ -10636,6 +11078,7 @@ const geografiya = {
           "text": "'Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Italiya poytaxti - Rim."
     },
@@ -10660,6 +11103,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Yaponiya'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Rim - Italiya poytaxti."
     },
@@ -10684,6 +11128,7 @@ const geografiya = {
           "text": "Yer Quyosh atrofida to'liq bir marta necha kunda aylanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ispaniya poytaxti - Madrid."
     },
@@ -10708,6 +11153,7 @@ const geografiya = {
           "text": "O'zbekiston Respublikasining umumiy yer maydoni qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Madrid - Ispaniya poytaxti."
     },
@@ -10732,6 +11178,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Misr'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Misr poytaxti - Qohira."
     },
@@ -10756,6 +11203,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qoraqalpog'iston Respublikasi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qohira - Misr poytaxti."
     },
@@ -10780,6 +11228,7 @@ const geografiya = {
           "text": "'Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
     },
@@ -10804,6 +11253,7 @@ const geografiya = {
           "text": "O'zbekistonning poytaxti Toshkent shahri qaysi daryoning vohasida joylashgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Pretoriya (ma'muriy) / Keyptaun - Janubiy Afrika Respublikasi (JAR) poytaxti."
     },
@@ -10828,6 +11278,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun tog' tizmasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Saudiya Arabistoni poytaxti - Ar-Riyod."
     },
@@ -10852,6 +11303,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Robert Piri'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ar-Riyod - Saudiya Arabistoni poytaxti."
     },
@@ -10876,6 +11328,7 @@ const geografiya = {
           "text": "'Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qozog'iston poytaxti - Ostona."
     },
@@ -10900,6 +11353,7 @@ const geografiya = {
           "text": "Dunyodagi eng kichik mustaqil davlat (mitti davlat) qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ostona - Qozog'iston poytaxti."
     },
@@ -10924,6 +11378,7 @@ const geografiya = {
           "text": "Sana o'zgarish chizig'i qaysi meridian bo'ylab o'tadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qirg'iziston poytaxti - Bishkek."
     },
@@ -10948,6 +11403,7 @@ const geografiya = {
           "text": "'Bishkek' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bishkek - Qirg'iziston poytaxti."
     },
@@ -10972,6 +11428,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Tojikiston'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tojikiston poytaxti - Dushanbe."
     },
@@ -10996,6 +11453,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Misr'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Dushanbe - Tojikiston poytaxti."
     },
@@ -11020,6 +11478,7 @@ const geografiya = {
           "text": "Mutlaq balandliklari bir xil bo'lgan nuqtalarni tutashtiruvchi chiziqlar nima deyiladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Turkmaniston poytaxti - Ashxobod."
     },
@@ -11044,6 +11503,7 @@ const geografiya = {
           "text": "'Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ashxobod - Turkmaniston poytaxti."
     },
@@ -11068,6 +11528,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Afg'oniston'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Afg'oniston poytaxti - Qobul."
     },
@@ -11092,6 +11553,7 @@ const geografiya = {
           "text": "'Ottava' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qobul - Afg'oniston poytaxti."
     },
@@ -11116,6 +11578,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Kavkaz tog'lari'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
     },
@@ -11140,6 +11603,7 @@ const geografiya = {
           "text": "Yerning o'rtacha radiusi qanchaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz - Gibraltar bo'g'ozi poytaxti."
     },
@@ -11164,6 +11628,7 @@ const geografiya = {
           "text": "Ekvator chizig'ining umumiy uzunligi taxminan qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
     },
@@ -11188,6 +11653,7 @@ const geografiya = {
           "text": "'Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar - Bosfor va Dardanell bo'g'ozlari poytaxti."
     },
@@ -11212,6 +11678,7 @@ const geografiya = {
           "text": "'Qobul' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Suvaysh kanali poytaxti - O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li."
     },
@@ -11236,6 +11703,7 @@ const geografiya = {
           "text": "Shimoliy Muz okeanining eng chuqur botig'i qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
     },
@@ -11260,6 +11728,7 @@ const geografiya = {
           "text": "'Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Panama kanali poytaxti - Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal."
     },
@@ -11284,6 +11753,7 @@ const geografiya = {
           "text": "'Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal - Panama kanali poytaxti."
     },
@@ -11308,6 +11778,7 @@ const geografiya = {
           "text": "O'zbekistonning eng past nuqtasi qayerda joylashgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
     },
@@ -11332,6 +11803,7 @@ const geografiya = {
           "text": "Havoning nisbiy namligini o'lchaydigan asbob qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
     },
@@ -11356,6 +11828,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Dreyk bo'g'ozi'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dreyk bo'g'ozi poytaxti - Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz."
     },
@@ -11380,6 +11853,7 @@ const geografiya = {
           "text": "'Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz - Dreyk bo'g'ozi poytaxti."
     },
@@ -11404,6 +11878,7 @@ const geografiya = {
           "text": "Atmosfera bosimini o'lchaydigan asbob nima deb ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Malakka bo'g'ozi poytaxti - Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li."
     },
@@ -11428,6 +11903,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Hindiston'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
     },
@@ -11452,6 +11928,7 @@ const geografiya = {
           "text": "Atlantika okeanining eng chuqur joyi qayer?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ormuz bo'g'ozi poytaxti - Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi."
     },
@@ -11476,6 +11953,7 @@ const geografiya = {
           "text": "'Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi - Ormuz bo'g'ozi poytaxti."
     },
@@ -11500,6 +11978,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Farg'ona vodiysi (Andijon, Farg'ona, Namangan)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Himoloy tog'lari poytaxti - Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega."
     },
@@ -11524,6 +12003,7 @@ const geografiya = {
           "text": "'Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega - Himoloy tog'lari poytaxti."
     },
@@ -11548,6 +12028,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Tyanshan tog'lari'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tyanshan tog'lari poytaxti - Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)."
     },
@@ -11572,6 +12053,7 @@ const geografiya = {
           "text": "O'zbekistonda marmar va granit toshlari qazib olinadigan mashhur konlar qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
     },
@@ -11596,6 +12078,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Pomir tog'lari'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Pomir tog'lari poytaxti - O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)."
     },
@@ -11620,6 +12103,7 @@ const geografiya = {
           "text": "'Dushanbe' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
     },
@@ -11644,6 +12128,7 @@ const geografiya = {
           "text": "Dunyodagi eng baland sharshara qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kavkaz tog'lari poytaxti - Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)."
     },
@@ -11668,6 +12153,7 @@ const geografiya = {
           "text": "'Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m) - Kavkaz tog'lari poytaxti."
     },
@@ -11692,6 +12178,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Alp tog'lari'?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
     },
@@ -11716,6 +12203,7 @@ const geografiya = {
           "text": "'G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
     },
@@ -11740,6 +12228,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun tog' tizmasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ural tog'lari poytaxti - Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar."
     },
@@ -11764,6 +12253,7 @@ const geografiya = {
           "text": "Toshkent viloyatidagi toshko'mir koni qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar - Ural tog'lari poytaxti."
     },
@@ -11788,6 +12278,7 @@ const geografiya = {
           "text": "'Qohira' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kilimanjaro poytaxti - Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)."
     },
@@ -11812,6 +12303,7 @@ const geografiya = {
           "text": "Dunyodagi eng chuqur ko'l qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m) - Kilimanjaro poytaxti."
     },
@@ -11836,6 +12328,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Xorazm viloyati'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qashqadaryo viloyati poytaxti - O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat."
     },
@@ -11860,6 +12353,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Kilimanjaro'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat - Qashqadaryo viloyati poytaxti."
     },
@@ -11884,6 +12378,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qozog'iston'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Navoiy viloyati poytaxti - O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati."
     },
@@ -11908,6 +12403,7 @@ const geografiya = {
           "text": "Atmosfera bosimini o'lchaydigan asbob nima deb ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati - Navoiy viloyati poytaxti."
     },
@@ -11932,6 +12428,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Suvaysh kanali'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
     },
@@ -11956,6 +12453,7 @@ const geografiya = {
           "text": "Janubiy Amerikaning maydoni va aholisi bo'yicha eng yirik davlati qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi - Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti."
     },
@@ -11980,6 +12478,7 @@ const geografiya = {
           "text": "'Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Buxoro viloyati poytaxti - Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat."
     },
@@ -12004,6 +12503,7 @@ const geografiya = {
           "text": "'Qohira' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat - Buxoro viloyati poytaxti."
     },
@@ -12028,6 +12528,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Malakka bo'g'ozi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
     },
@@ -12052,6 +12553,7 @@ const geografiya = {
           "text": "O'zbekistonda marmar va granit toshlari qazib olinadigan mashhur konlar qaysilar?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati - Surxondaryo viloyati poytaxti."
     },
@@ -12076,6 +12578,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Farg'ona vodiysi (Andijon, Farg'ona, Namangan)'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xorazm viloyati poytaxti - Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati."
     },
@@ -12100,6 +12603,7 @@ const geografiya = {
           "text": "'Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
     },
@@ -12124,6 +12628,7 @@ const geografiya = {
           "text": "Shamolning tezligini o'lchaydigan asbob qanday ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qoraqalpog'iston Respublikasi poytaxti - O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)."
     },
@@ -12148,6 +12653,7 @@ const geografiya = {
           "text": "'O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus) - Qoraqalpog'iston Respublikasi poytaxti."
     },
@@ -12172,6 +12678,7 @@ const geografiya = {
           "text": "'Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
     },
@@ -12196,6 +12703,7 @@ const geografiya = {
           "text": "Maydoni bo'yicha dunyodagi eng katta ko'l (yopiq havza) qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi - Toshkent shahri va viloyati poytaxti."
     },
@@ -12220,6 +12728,7 @@ const geografiya = {
           "text": "'Parij' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
     },
@@ -12244,6 +12753,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Surxondaryo viloyati'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
     },
@@ -12268,6 +12778,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Himoloy tog'lari'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
     },
@@ -12292,6 +12803,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta yarimorol qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi - Vasko da Gama poytaxti."
     },
@@ -12316,6 +12828,7 @@ const geografiya = {
           "text": "Yer yuzidagi eng sovuq va muz bilan qoplangan materik qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Fernan Magellan poytaxti - 1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan."
     },
@@ -12340,6 +12853,7 @@ const geografiya = {
           "text": "'1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan - Fernan Magellan poytaxti."
     },
@@ -12364,6 +12878,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Yaponiya'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
     },
@@ -12388,6 +12903,7 @@ const geografiya = {
           "text": "Orol dengizi qaysi davlatlar hududida joylashgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan - Amerigo Vespuchchi poytaxti."
     },
@@ -12412,6 +12928,7 @@ const geografiya = {
           "text": "O'zbekistondagi eng katta tabiiy ko'l qaysi (Orol qurigach)?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "F. Bellinsgauzen va M. Lazarev poytaxti - 1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari."
     },
@@ -12436,6 +12953,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qoraqalpog'iston Respublikasi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
     },
@@ -12460,6 +12978,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Toshkent shahri va viloyati'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Rual Amundsen poytaxti - 1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh."
     },
@@ -12484,6 +13003,7 @@ const geografiya = {
           "text": "'Ashxobod' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh - Rual Amundsen poytaxti."
     },
@@ -12508,6 +13028,7 @@ const geografiya = {
           "text": "Dunyodagi eng chuqur okean botig'i qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Robert Piri poytaxti - 1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh."
     },
@@ -12532,6 +13053,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Ispaniya'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh - Robert Piri poytaxti."
     },
@@ -12556,6 +13078,7 @@ const geografiya = {
           "text": "Xalqaro 'Katta yettilik' (G7) davlatlari qaysi qatorda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Troposfera qalinligi ekvatorda 18 km gacha bo'lib, atmosferaning 80% massasini oladi."
     },
@@ -12580,6 +13103,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Buxoro viloyati'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ozon qatlami stratosferada to'plangan."
     },
@@ -12604,6 +13128,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Qozog'iston'?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Barometr bosimni o'lchaydi (simobli va aneroid)."
     },
@@ -12628,6 +13153,7 @@ const geografiya = {
           "text": "Atlantika okeanining eng chuqur joyi qayer?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Gigrometr havodagi suv bug'i miqdorini aniqlaydi."
     },
@@ -12652,6 +13178,7 @@ const geografiya = {
           "text": "O'zbekistonda eng issiq yozgi harorat (mutlaq maksimum) qayerda kuzatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Anemometr shamol tezligini, flyuger esa yo'nalishini ko'rsatadi."
     },
@@ -12676,6 +13203,7 @@ const geografiya = {
           "text": "Yer qobig'idagi zilzilalar kuchi va tebranishlarini yozib oluvchi asbob nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Seysmograf yer qimirlash to'lqinlarini qayd qiladi."
     },
@@ -12700,6 +13228,7 @@ const geografiya = {
           "text": "Zilzila markazining Yer yuzasidagi proyeksiyasi nima deb ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Epitsentr yer silkinishining eng kuchli seziladigan yuza qismidir."
     },
@@ -12724,6 +13253,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Kanada'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Masalan, Hindiston plitasi Yevrosiyoga urilib Himoloy tog'larini ko'targan."
     },
@@ -12748,6 +13278,7 @@ const geografiya = {
           "text": "'Dushanbe' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Atlantika okeani tubida o'rta okean tizmasi hosil bo'ladi."
     },
@@ -12772,6 +13303,7 @@ const geografiya = {
           "text": "Zarafshon daryosi qaysi tog'lardan boshlanadi va qayerda tugaydi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Musson yozda okeandan quruqlikka, qishda quruqlikdan okeanga esadi."
     },
@@ -12796,6 +13328,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Avstraliya'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Passat shamollari tropiklardan ekvatorga tomon esadi."
     },
@@ -12820,6 +13353,7 @@ const geografiya = {
           "text": "O'zbekistonning poytaxti Toshkent shahri qaysi daryoning vohasida joylashgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kunduzgi briz dengizdan quruqlikka, tungi briz quruqlikdan dengizga esadi."
     },
@@ -12844,6 +13378,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta iliq okean oqimi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Golfstrim Yevropa qit'asining iqlimini yumshatuvchi 'isitgich' hisoblanadi."
     },
@@ -12868,6 +13403,7 @@ const geografiya = {
           "text": "O'zbekistonning yirik mis va polimetall koni qaysi shaharda joylashgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Antarktida atrofida aylanuvchi eng kuchli oqim."
     },
@@ -12892,6 +13428,7 @@ const geografiya = {
           "text": "Quruqlik ichkarisida joylashgan, okean bilan faqat tor bo'g'ozlar orqali bog'langan dengizlar qanday ataladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ichki dengizlar materiklar ichida bo'ladi."
     },
@@ -12916,6 +13453,7 @@ const geografiya = {
           "text": "Atlantika okeanining eng chuqur joyi qayer?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bengal ko'rfazi maydoni 2.1 mln km²."
     },
@@ -12940,6 +13478,7 @@ const geografiya = {
           "text": "Dunyodagi eng katta yarimorol qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Arabiston yarimoroli eng yirik yarimoroldir."
     },
@@ -12964,6 +13503,7 @@ const geografiya = {
           "text": "'Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ustyurtda qish juda qahraton va ayozli bo'ladi."
     },
@@ -12988,6 +13528,7 @@ const geografiya = {
           "text": "'Tokio' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Termizda +50 °C gacha issiq qayd etilgan."
     },
@@ -13012,6 +13553,7 @@ const geografiya = {
           "text": "O'zbekistonda yog'in eng ko'p tushadigan joy qayer?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Nam havo massalari tog'larga urilib mo'l yog'in qoldiradi."
     },
@@ -13036,6 +13578,7 @@ const geografiya = {
           "text": "O'zbekistonda yog'in eng kam tushadigan qurg'oqchil hudud qayer?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Orolbo'yi va Qoraqalpog'istonning ayrim joylarida yog'in juda kam."
     },
@@ -13060,6 +13603,7 @@ const geografiya = {
           "text": "'Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Chirchiq daryosi Chotqol va Pskem daryolaridan boshlanadi."
     },
@@ -13084,6 +13628,7 @@ const geografiya = {
           "text": "'Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Zarafshon Amudaryoga yetmasdan sug'orishga sarflanib tugaydi."
     },
@@ -13108,6 +13653,7 @@ const geografiya = {
           "text": "'Qohira' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Panj va Vaxsh birlashib Amudaryoni tashkil qiladi."
     },
@@ -13132,6 +13678,7 @@ const geografiya = {
           "text": "Quyidagi davlatning poytaxti qaysi shahar: 'Buxoro viloyati'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Farg'ona vodiysida Norin va Qoradaryo qo'shilib Sirdaryo deb ataladi."
     },
@@ -13156,6 +13703,7 @@ const geografiya = {
           "text": "O'zbekistondagi eng yirik cho'l qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Angren koni ochiq usulda ko'mir qazib oladi."
     },
@@ -13180,6 +13728,7 @@ const geografiya = {
           "text": "Okean va dengizlarda bir xil chuqurlikdagi nuqtalarni tutashtiruvchi chiziqlar qanday ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sharg'un va Boysunda yuqori kaloriyali toshko'mir bor."
     },
@@ -13204,6 +13753,7 @@ const geografiya = {
           "text": "O'zbekiston chegaradosh bo'lgan davlatlar soni nechta?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "G'ozg'on o'zining rang-barang marmari bilan dunyoga mashhur."
     },
@@ -13228,6 +13778,7 @@ const geografiya = {
           "text": "Yozgi quyosh turishi (Shimoliy yarimsharda eng uzun kun) qaysi sanaga to'g'ri keladi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Nippon (Yaponiya) nomi kunchiqar degan ma'noni beradi."
     },
@@ -13252,6 +13803,7 @@ const geografiya = {
           "text": "Dunyodagi eng uzun temir yo'l magistrali qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Transsibir temir yo'li 9288 km uzunlikka ega."
     },
@@ -13276,6 +13828,7 @@ const geografiya = {
           "text": "Afrika va Yevropani ajratib turuvchi, ammo ikkala qit'a sohillarini yuvuvchi dengiz qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "O'rta dengiz Yevropa, Osiyo va Afrika oralig'ida."
     },
@@ -13300,6 +13853,7 @@ const geografiya = {
           "text": "Hind okeanining eng chuqur botig'i qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yava botig'i Hind okeanining eng chuqur joyidir."
     },
@@ -13324,6 +13878,7 @@ const geografiya = {
           "text": "Atlantika okeanining eng chuqur joyi qayer?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Puerto-Riko novi Atlantika okeanida joylashgan."
     },
@@ -13348,6 +13903,7 @@ const geografiya = {
           "text": "'Bishkek' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Shimoliy Muz okeanining eng chuqur nuqtasi 5527 m."
     },
@@ -13372,6 +13928,7 @@ const geografiya = {
           "text": "'Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yer shari har biri 15 gradusdan 24 ta soat mintaqasiga bo'lingan."
     },
@@ -13396,6 +13953,7 @@ const geografiya = {
           "text": "'Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar' shahri qaysi davlatning poytaxti hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "180-meridain orqali xalqaro sana o'zgarish chizig'i o'tkazilgan."
     },
@@ -13420,6 +13978,7 @@ const geografiya = {
           "text": "Tinch okeani maydoni va chuqurligi bo'yicha dunyoda birinchi o'rinda turadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tinch okeani maydoni va chuqurligi bo'yicha dunyoda birinchi o'rinda turadi."
     },
@@ -13444,6 +14003,7 @@ const geografiya = {
           "text": "Amudaryo Markaziy Osiyo va O'zbekistondagi eng sersuv va uzun daryodir (2540 km)."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Amudaryo Markaziy Osiyo va O'zbekistondagi eng sersuv va uzun daryodir (2540 km)."
     },
@@ -13468,6 +14028,7 @@ const geografiya = {
           "text": "Sho'rtan gaz-kimyo majmuasi polietilen ishlab chiqaradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Himoloy tog'laridagi Everest cho'qqisi dengiz sathidan 8848 metr balandlikda joylashgan."
     },
@@ -13492,6 +14053,7 @@ const geografiya = {
           "text": "Orol dengizi O'zbekiston (Qoraqalpog'iston) va Qozog'iston chegarasida joylashgan."
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "Orol dengizi O'zbekiston (Qoraqalpog'iston) va Qozog'iston chegarasida joylashgan."
     },
@@ -13516,6 +14078,7 @@ const geografiya = {
           "text": "Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yer ekvatorining aylana uzunligi taxminan 40 075 km ni tashkil etadi."
     },
@@ -13540,6 +14103,7 @@ const geografiya = {
           "text": "Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yer sharining o'rtacha radiusi taxminan 6371 km."
     },
@@ -13564,6 +14128,7 @@ const geografiya = {
           "text": "Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "100 000 sm = 1000 m = 1 km."
     },
@@ -13588,6 +14153,7 @@ const geografiya = {
           "text": "Gorizontallar (izogipslar) relyef balandligini ko'rsatadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Gorizontallar (izogipslar) relyef balandligini ko'rsatadi."
     },
@@ -13612,6 +14178,7 @@ const geografiya = {
           "text": "Rim shahri ichida joylashgan Vatikan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Izobatalar chuqurlik chiziqlaridir."
     },
@@ -13636,6 +14203,7 @@ const geografiya = {
           "text": "Anemometr shamol tezligini, flyuger esa yo'nalishini ko'rsatadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xalqaro kelishuvga ko'ra Grinvich nolinchi meridian hisoblanadi."
     },
@@ -13660,6 +14228,7 @@ const geografiya = {
           "text": "Hindiston va Xitoy dunyo aholisining 35% dan ortig'ini tashkil etadi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yulduz sutkasi 23 soat 56 daqiqa 4 soniyaga teng."
     },
@@ -13684,6 +14253,7 @@ const geografiya = {
           "text": "Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Shu ortiqcha 6 soat hisobiga har 4 yilda kabisa yili (366 kun) bo'ladi."
     },
@@ -13708,6 +14278,7 @@ const geografiya = {
           "text": "Yer o'qining qiyaligi sababli fasllar almashinadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Yer o'qining qiyaligi sababli fasllar almashinadi."
     },
@@ -13732,6 +14303,7 @@ const geografiya = {
           "text": "22-iyunda quyosh shimoliy tropikda zenitda bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "22-iyunda quyosh shimoliy tropikda zenitda bo'ladi."
     },
@@ -13756,6 +14328,7 @@ const geografiya = {
           "text": "Yava botig'i Hind okeanining eng chuqur joyidir."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
     },
@@ -13780,6 +14353,7 @@ const geografiya = {
           "text": "Sho'rtan gaz-kimyo majmuasi polietilen ishlab chiqaradi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Bu kunlarda Quyosh ekvatorda zenitda turadi."
     },
@@ -13804,6 +14378,7 @@ const geografiya = {
           "text": "Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
     },
@@ -13828,6 +14403,7 @@ const geografiya = {
           "text": "Nippon (Yaponiya) nomi kunchiqar degan ma'noni beradi."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Avstraliyaning maydoni taxminan 7.7 mln km²."
     },
@@ -13852,6 +14428,7 @@ const geografiya = {
           "text": "Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
     },
@@ -13876,6 +14453,7 @@ const geografiya = {
           "text": "G'ozg'on o'zining rang-barang marmari bilan dunyoga mashhur."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "And tog'lari 9000 km ga cho'zilgan."
     },
@@ -13900,6 +14478,7 @@ const geografiya = {
           "text": "1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Amazonka dunyodagi eng sersuv daryodir."
     },
@@ -13924,6 +14503,7 @@ const geografiya = {
           "text": "Kanberra - Avstraliya poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Nil daryosining uzunligi qariyb 6670 km."
     },
@@ -13948,6 +14528,7 @@ const geografiya = {
           "text": "Germaniya poytaxti - Berlin."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Baykal ko'lining chuqurligi 1642 metr."
     },
@@ -13972,6 +14553,7 @@ const geografiya = {
           "text": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kaspiy ko'l bo'lsa-da, kattaligi sababli dengiz deyiladi."
     },
@@ -13996,6 +14578,7 @@ const geografiya = {
           "text": "Zarafshon Amudaryoga yetmasdan sug'orishga sarflanib tugaydi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Anxel sharsharasi Janubiy Amerikada Churun daryosida joylashgan."
     },
@@ -14020,6 +14603,7 @@ const geografiya = {
           "text": "Sahroi Kabir maydoni taxminan 9 mln km²."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sahroi Kabir maydoni taxminan 9 mln km²."
     },
@@ -14044,6 +14628,7 @@ const geografiya = {
           "text": "Gorizontallar (izogipslar) relyef balandligini ko'rsatadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Mariana botig'i dunyo okeanining eng chuqur nuqtasi hisoblanadi."
     },
@@ -14068,6 +14653,7 @@ const geografiya = {
           "text": "Grenlandiya orolining maydoni 2.1 mln km²."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Grenlandiya orolining maydoni 2.1 mln km²."
     },
@@ -14092,6 +14678,7 @@ const geografiya = {
           "text": "Muruntov dunyodagi eng yirik ochiq oltin konlaridan biridir."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekiston maydoni 448.9 ming km² ni tashkil etadi."
     },
@@ -14116,6 +14703,7 @@ const geografiya = {
           "text": "O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekiston 5 ta davlat bilan chegaradosh."
     },
@@ -14140,6 +14728,7 @@ const geografiya = {
           "text": "Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Surxondaryo viloyati hududidagi Hazrati Sulton cho'qqisi."
     },
@@ -14164,6 +14753,7 @@ const geografiya = {
           "text": "Anxel sharsharasi Janubiy Amerikada Churun daryosida joylashgan."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Qizilqumdagi Mingbuloq botig'i dengiz sathidan -12.8 m pastda."
     },
@@ -14188,6 +14778,7 @@ const geografiya = {
           "text": "Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aydarko'l sun'iy-tabiiy eng yirik suv havzasidir."
     },
@@ -14212,6 +14803,7 @@ const geografiya = {
           "text": "Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Suv sig'imi bo'yicha To'polong va Chorvoq eng yiriklaridan."
     },
@@ -14236,6 +14828,7 @@ const geografiya = {
           "text": "Aydarko'l sun'iy-tabiiy eng yirik suv havzasidir."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekistonning qariyb 80% maydoni tekisliklardan iborat."
     },
@@ -14260,6 +14853,7 @@ const geografiya = {
           "text": "Qizilqum Amudaryo va Sirdaryo oralig'ida joylashgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qizilqum Amudaryo va Sirdaryo oralig'ida joylashgan."
     },
@@ -14284,6 +14878,7 @@ const geografiya = {
           "text": "Muruntov dunyodagi eng yirik ochiq oltin konlaridan biridir."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Muruntov dunyodagi eng yirik ochiq oltin konlaridan biridir."
     },
@@ -14308,6 +14903,7 @@ const geografiya = {
           "text": "Yer o'qining qiyaligi sababli fasllar almashinadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Olmaliq kon-metallurgiya kombinati."
     },
@@ -14332,6 +14928,7 @@ const geografiya = {
           "text": "Bekoboddagi O'zbekiston metallurgiya zavodi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bekoboddagi O'zbekiston metallurgiya zavodi."
     },
@@ -14356,6 +14953,7 @@ const geografiya = {
           "text": "Anemometr shamol tezligini, flyuger esa yo'nalishini ko'rsatadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sho'rtan gaz-kimyo majmuasi polietilen ishlab chiqaradi."
     },
@@ -14380,6 +14978,7 @@ const geografiya = {
           "text": "Zarafshon Amudaryoga yetmasdan sug'orishga sarflanib tugaydi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1996-yilda Asaka shahrida UzDaewooAuto ishga tushgan."
     },
@@ -14404,6 +15003,7 @@ const geografiya = {
           "text": "Hindiston va Xitoy dunyo aholisining 35% dan ortig'ini tashkil etadi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Hindiston va Xitoy dunyo aholisining 35% dan ortig'ini tashkil etadi."
     },
@@ -14428,6 +15028,7 @@ const geografiya = {
           "text": "Tokio - Yaponiya poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Rossiya Federatsiyasi maydoni bo'yicha 1-o'rinda."
     },
@@ -14452,6 +15053,7 @@ const geografiya = {
           "text": "Rim shahri ichida joylashgan Vatikan."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Rim shahri ichida joylashgan Vatikan."
     },
@@ -14476,6 +15078,7 @@ const geografiya = {
           "text": "1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan - Fernan Magellan poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Braziliya Janubiy Amerika qit'asining qariyb yarmini egallaydi."
     },
@@ -14500,6 +15103,7 @@ const geografiya = {
           "text": "Yaponiya poytaxti - Tokio."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Nigeriya Afrikada aholi soni bo'yicha yaqqol yetakchidir."
     },
@@ -14524,6 +15128,7 @@ const geografiya = {
           "text": "Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan - Amerigo Vespuchchi poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Venesuela va Fors ko'rfazi davlatlari."
     },
@@ -14548,6 +15153,7 @@ const geografiya = {
           "text": "Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
     },
@@ -14572,6 +15178,7 @@ const geografiya = {
           "text": "Neft qazib oluvchi va eksport qiluvchi mamlakatlar tashkiloti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Neft qazib oluvchi va eksport qiluvchi mamlakatlar tashkiloti."
     },
@@ -14596,6 +15203,7 @@ const geografiya = {
           "text": "Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
     },
@@ -14620,6 +15228,7 @@ const geografiya = {
           "text": "Avstraliya poytaxti - Kanberra."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Avstraliya poytaxti - Kanberra."
     },
@@ -14644,6 +15253,7 @@ const geografiya = {
           "text": "Rim - Italiya poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kanberra - Avstraliya poytaxti."
     },
@@ -14668,6 +15278,7 @@ const geografiya = {
           "text": "22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kanada poytaxti - Ottava."
     },
@@ -14692,6 +15303,7 @@ const geografiya = {
           "text": "And tog'lari 9000 km ga cho'zilgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ottava - Kanada poytaxti."
     },
@@ -14716,6 +15328,7 @@ const geografiya = {
           "text": "Zarafshon Amudaryoga yetmasdan sug'orishga sarflanib tugaydi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Braziliya poytaxti - Brazilia."
     },
@@ -14740,6 +15353,7 @@ const geografiya = {
           "text": "Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Brazilia - Braziliya poytaxti."
     },
@@ -14764,6 +15378,7 @@ const geografiya = {
           "text": "O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati - Navoiy viloyati poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "AQSH poytaxti - Vashington."
     },
@@ -14788,6 +15403,7 @@ const geografiya = {
           "text": "Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Vashington - AQSH poytaxti."
     },
@@ -14812,6 +15428,7 @@ const geografiya = {
           "text": "Himoloy tog'laridagi Everest cho'qqisi dengiz sathidan 8848 metr balandlikda joylashgan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Turkiya poytaxti - Anqara."
     },
@@ -14836,6 +15453,7 @@ const geografiya = {
           "text": "Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m) - Kilimanjaro poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Anqara - Turkiya poytaxti."
     },
@@ -14860,6 +15478,7 @@ const geografiya = {
           "text": "Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Xitoy poytaxti - Pekin."
     },
@@ -14884,6 +15503,7 @@ const geografiya = {
           "text": "22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Pekin - Xitoy poytaxti."
     },
@@ -14908,6 +15528,7 @@ const geografiya = {
           "text": "Anqara - Turkiya poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Hindiston poytaxti - Nyu-Dehli."
     },
@@ -14932,6 +15553,7 @@ const geografiya = {
           "text": "Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Nyu-Dehli - Hindiston poytaxti."
     },
@@ -14956,6 +15578,7 @@ const geografiya = {
           "text": "Dushanbe - Tojikiston poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yaponiya poytaxti - Tokio."
     },
@@ -14980,6 +15603,7 @@ const geografiya = {
           "text": "Nam havo massalari tog'larga urilib mo'l yog'in qoldiradi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tokio - Yaponiya poytaxti."
     },
@@ -15004,6 +15628,7 @@ const geografiya = {
           "text": "Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Germaniya poytaxti - Berlin."
     },
@@ -15028,6 +15653,7 @@ const geografiya = {
           "text": "Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Berlin - Germaniya poytaxti."
     },
@@ -15052,6 +15678,7 @@ const geografiya = {
           "text": "1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh - Rual Amundsen poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Fransiya poytaxti - Parij."
     },
@@ -15076,6 +15703,7 @@ const geografiya = {
           "text": "Parij - Fransiya poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Parij - Fransiya poytaxti."
     },
@@ -15100,6 +15728,7 @@ const geografiya = {
           "text": "Italiya poytaxti - Rim."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Italiya poytaxti - Rim."
     },
@@ -15124,6 +15753,7 @@ const geografiya = {
           "text": "Pekin - Xitoy poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Rim - Italiya poytaxti."
     },
@@ -15148,6 +15778,7 @@ const geografiya = {
           "text": "Ispaniya poytaxti - Madrid."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ispaniya poytaxti - Madrid."
     },
@@ -15172,6 +15803,7 @@ const geografiya = {
           "text": "Madrid - Ispaniya poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Madrid - Ispaniya poytaxti."
     },
@@ -15196,6 +15828,7 @@ const geografiya = {
           "text": "Misr poytaxti - Qohira."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Misr poytaxti - Qohira."
     },
@@ -15220,6 +15853,7 @@ const geografiya = {
           "text": "Braziliya Janubiy Amerika qit'asining qariyb yarmini egallaydi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qohira - Misr poytaxti."
     },
@@ -15244,6 +15878,7 @@ const geografiya = {
           "text": "Troposfera qalinligi ekvatorda 18 km gacha bo'lib, atmosferaning 80% massasini oladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
     },
@@ -15268,6 +15903,7 @@ const geografiya = {
           "text": "Anxel sharsharasi Janubiy Amerikada Churun daryosida joylashgan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Pretoriya (ma'muriy) / Keyptaun - Janubiy Afrika Respublikasi (JAR) poytaxti."
     },
@@ -15292,6 +15928,7 @@ const geografiya = {
           "text": "Saudiya Arabistoni poytaxti - Ar-Riyod."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Saudiya Arabistoni poytaxti - Ar-Riyod."
     },
@@ -15316,6 +15953,7 @@ const geografiya = {
           "text": "Ar-Riyod - Saudiya Arabistoni poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ar-Riyod - Saudiya Arabistoni poytaxti."
     },
@@ -15340,6 +15978,7 @@ const geografiya = {
           "text": "Saudiya Arabistoni poytaxti - Ar-Riyod."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qozog'iston poytaxti - Ostona."
     },
@@ -15364,6 +16003,7 @@ const geografiya = {
           "text": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ostona - Qozog'iston poytaxti."
     },
@@ -15388,6 +16028,7 @@ const geografiya = {
           "text": "Tyanshan tog'lari poytaxti - Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qirg'iziston poytaxti - Bishkek."
     },
@@ -15412,6 +16053,7 @@ const geografiya = {
           "text": "Bishkek - Qirg'iziston poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bishkek - Qirg'iziston poytaxti."
     },
@@ -15436,6 +16078,7 @@ const geografiya = {
           "text": "Tojikiston poytaxti - Dushanbe."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tojikiston poytaxti - Dushanbe."
     },
@@ -15460,6 +16103,7 @@ const geografiya = {
           "text": "Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Dushanbe - Tojikiston poytaxti."
     },
@@ -15484,6 +16128,7 @@ const geografiya = {
           "text": "Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Turkmaniston poytaxti - Ashxobod."
     },
@@ -15508,6 +16153,7 @@ const geografiya = {
           "text": "Ashxobod - Turkmaniston poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ashxobod - Turkmaniston poytaxti."
     },
@@ -15532,6 +16178,7 @@ const geografiya = {
           "text": "Afg'oniston poytaxti - Qobul."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Afg'oniston poytaxti - Qobul."
     },
@@ -15556,6 +16203,7 @@ const geografiya = {
           "text": "Navoiy viloyati poytaxti - O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qobul - Afg'oniston poytaxti."
     },
@@ -15580,6 +16228,7 @@ const geografiya = {
           "text": "Orolbo'yi va Qoraqalpog'istonning ayrim joylarida yog'in juda kam."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
     },
@@ -15604,6 +16253,7 @@ const geografiya = {
           "text": "G'ozg'on o'zining rang-barang marmari bilan dunyoga mashhur."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz - Gibraltar bo'g'ozi poytaxti."
     },
@@ -15628,6 +16278,7 @@ const geografiya = {
           "text": "Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
     },
@@ -15652,6 +16303,7 @@ const geografiya = {
           "text": "Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar - Bosfor va Dardanell bo'g'ozlari poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar - Bosfor va Dardanell bo'g'ozlari poytaxti."
     },
@@ -15676,6 +16328,7 @@ const geografiya = {
           "text": "Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Suvaysh kanali poytaxti - O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li."
     },
@@ -15700,6 +16353,7 @@ const geografiya = {
           "text": "O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
     },
@@ -15724,6 +16378,7 @@ const geografiya = {
           "text": "G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Panama kanali poytaxti - Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal."
     },
@@ -15748,6 +16403,7 @@ const geografiya = {
           "text": "Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal - Panama kanali poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal - Panama kanali poytaxti."
     },
@@ -15772,6 +16428,7 @@ const geografiya = {
           "text": "Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
     },
@@ -15796,6 +16453,7 @@ const geografiya = {
           "text": "Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
     },
@@ -15820,6 +16478,7 @@ const geografiya = {
           "text": "Dreyk bo'g'ozi poytaxti - Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dreyk bo'g'ozi poytaxti - Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz."
     },
@@ -15844,6 +16503,7 @@ const geografiya = {
           "text": "Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz - Dreyk bo'g'ozi poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz - Dreyk bo'g'ozi poytaxti."
     },
@@ -15868,6 +16528,7 @@ const geografiya = {
           "text": "1996-yilda Asaka shahrida UzDaewooAuto ishga tushgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Malakka bo'g'ozi poytaxti - Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li."
     },
@@ -15892,6 +16553,7 @@ const geografiya = {
           "text": "Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
     },
@@ -15916,6 +16578,7 @@ const geografiya = {
           "text": "Ormuz bo'g'ozi poytaxti - Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ormuz bo'g'ozi poytaxti - Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi."
     },
@@ -15940,6 +16603,7 @@ const geografiya = {
           "text": "Anqara - Turkiya poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi - Ormuz bo'g'ozi poytaxti."
     },
@@ -15964,6 +16628,7 @@ const geografiya = {
           "text": "Termizda +50 °C gacha issiq qayd etilgan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Himoloy tog'lari poytaxti - Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega."
     },
@@ -15988,6 +16653,7 @@ const geografiya = {
           "text": "Troposfera qalinligi ekvatorda 18 km gacha bo'lib, atmosferaning 80% massasini oladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega - Himoloy tog'lari poytaxti."
     },
@@ -16012,6 +16678,7 @@ const geografiya = {
           "text": "O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tyanshan tog'lari poytaxti - Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)."
     },
@@ -16036,6 +16703,7 @@ const geografiya = {
           "text": "Kunduzgi briz dengizdan quruqlikka, tungi briz quruqlikdan dengizga esadi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
     },
@@ -16060,6 +16728,7 @@ const geografiya = {
           "text": "Pomir tog'lari poytaxti - O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Pomir tog'lari poytaxti - O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)."
     },
@@ -16084,6 +16753,7 @@ const geografiya = {
           "text": "O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
     },
@@ -16108,6 +16778,7 @@ const geografiya = {
           "text": "Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kavkaz tog'lari poytaxti - Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)."
     },
@@ -16132,6 +16803,7 @@ const geografiya = {
           "text": "Parij - Fransiya poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m) - Kavkaz tog'lari poytaxti."
     },
@@ -16156,6 +16828,7 @@ const geografiya = {
           "text": "O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus) - Qoraqalpog'iston Respublikasi poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
     },
@@ -16180,6 +16853,7 @@ const geografiya = {
           "text": "G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
     },
@@ -16204,6 +16878,7 @@ const geografiya = {
           "text": "Turkmaniston poytaxti - Ashxobod."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ural tog'lari poytaxti - Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar."
     },
@@ -16228,6 +16903,7 @@ const geografiya = {
           "text": "Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar - Ural tog'lari poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar - Ural tog'lari poytaxti."
     },
@@ -16252,6 +16928,7 @@ const geografiya = {
           "text": "Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Kilimanjaro poytaxti - Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)."
     },
@@ -16276,6 +16953,7 @@ const geografiya = {
           "text": "Rim shahri ichida joylashgan Vatikan."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m) - Kilimanjaro poytaxti."
     },
@@ -16300,6 +16978,7 @@ const geografiya = {
           "text": "Turkiya poytaxti - Anqara."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qashqadaryo viloyati poytaxti - O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat."
     },
@@ -16324,6 +17003,7 @@ const geografiya = {
           "text": "O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat - Qashqadaryo viloyati poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat - Qashqadaryo viloyati poytaxti."
     },
@@ -16348,6 +17028,7 @@ const geografiya = {
           "text": "Qoraqalpog'iston Respublikasi poytaxti - O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Navoiy viloyati poytaxti - O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati."
     },
@@ -16372,6 +17053,7 @@ const geografiya = {
           "text": "Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati - Navoiy viloyati poytaxti."
     },
@@ -16396,6 +17078,7 @@ const geografiya = {
           "text": "Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
     },
@@ -16420,6 +17103,7 @@ const geografiya = {
           "text": "Suvaysh kanali poytaxti - O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi - Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti."
     },
@@ -16444,6 +17128,7 @@ const geografiya = {
           "text": "Kilimanjaro poytaxti - Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Buxoro viloyati poytaxti - Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat."
     },
@@ -16468,6 +17153,7 @@ const geografiya = {
           "text": "Epitsentr yer silkinishining eng kuchli seziladigan yuza qismidir."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat - Buxoro viloyati poytaxti."
     },
@@ -16492,6 +17178,7 @@ const geografiya = {
           "text": "22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
     },
@@ -16516,6 +17203,7 @@ const geografiya = {
           "text": "Kavkaz tog'lari poytaxti - Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati - Surxondaryo viloyati poytaxti."
     },
@@ -16540,6 +17228,7 @@ const geografiya = {
           "text": "Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Xorazm viloyati poytaxti - Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati."
     },
@@ -16564,6 +17253,7 @@ const geografiya = {
           "text": "Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
     },
@@ -16588,6 +17278,7 @@ const geografiya = {
           "text": "Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qoraqalpog'iston Respublikasi poytaxti - O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)."
     },
@@ -16612,6 +17303,7 @@ const geografiya = {
           "text": "Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus) - Qoraqalpog'iston Respublikasi poytaxti."
     },
@@ -16636,6 +17328,7 @@ const geografiya = {
           "text": "Xitoy poytaxti - Pekin."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
     },
@@ -16660,6 +17353,7 @@ const geografiya = {
           "text": "180-meridain orqali xalqaro sana o'zgarish chizig'i o'tkazilgan."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi - Toshkent shahri va viloyati poytaxti."
     },
@@ -16684,6 +17378,7 @@ const geografiya = {
           "text": "Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
     },
@@ -16708,6 +17403,7 @@ const geografiya = {
           "text": "1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
     },
@@ -16732,6 +17428,7 @@ const geografiya = {
           "text": "Nigeriya Afrikada aholi soni bo'yicha yaqqol yetakchidir."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
     },
@@ -16756,6 +17453,7 @@ const geografiya = {
           "text": "1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi - Vasko da Gama poytaxti."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi - Vasko da Gama poytaxti."
     },
@@ -16780,6 +17478,7 @@ const geografiya = {
           "text": "Qirg'iziston poytaxti - Bishkek."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Fernan Magellan poytaxti - 1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan."
     },
@@ -16804,6 +17503,7 @@ const geografiya = {
           "text": "Ottava - Kanada poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan - Fernan Magellan poytaxti."
     },
@@ -16828,6 +17528,7 @@ const geografiya = {
           "text": "Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
     },
@@ -16852,6 +17553,7 @@ const geografiya = {
           "text": "Afg'oniston poytaxti - Qobul."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan - Amerigo Vespuchchi poytaxti."
     },
@@ -16876,6 +17578,7 @@ const geografiya = {
           "text": "O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "F. Bellinsgauzen va M. Lazarev poytaxti - 1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari."
     },
@@ -16900,6 +17603,7 @@ const geografiya = {
           "text": "Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
     },
@@ -16924,6 +17628,7 @@ const geografiya = {
           "text": "Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Rual Amundsen poytaxti - 1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh."
     },
@@ -16948,6 +17653,7 @@ const geografiya = {
           "text": "Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh - Rual Amundsen poytaxti."
     },
@@ -16972,6 +17678,7 @@ const geografiya = {
           "text": "Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m) - Kavkaz tog'lari poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Robert Piri poytaxti - 1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh."
     },
@@ -16996,6 +17703,7 @@ const geografiya = {
           "text": "Malakka bo'g'ozi poytaxti - Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh - Robert Piri poytaxti."
     },
@@ -17020,6 +17728,7 @@ const geografiya = {
           "text": "Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Troposfera qalinligi ekvatorda 18 km gacha bo'lib, atmosferaning 80% massasini oladi."
     },
@@ -17044,6 +17753,7 @@ const geografiya = {
           "text": "Ozon qatlami stratosferada to'plangan."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ozon qatlami stratosferada to'plangan."
     },
@@ -17068,6 +17778,7 @@ const geografiya = {
           "text": "Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Barometr bosimni o'lchaydi (simobli va aneroid)."
     },
@@ -17092,6 +17803,7 @@ const geografiya = {
           "text": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Gigrometr havodagi suv bug'i miqdorini aniqlaydi."
     },
@@ -17116,6 +17828,7 @@ const geografiya = {
           "text": "Pekin - Xitoy poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Anemometr shamol tezligini, flyuger esa yo'nalishini ko'rsatadi."
     },
@@ -17140,6 +17853,7 @@ const geografiya = {
           "text": "Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Seysmograf yer qimirlash to'lqinlarini qayd qiladi."
     },
@@ -17164,6 +17878,7 @@ const geografiya = {
           "text": "Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Epitsentr yer silkinishining eng kuchli seziladigan yuza qismidir."
     },
@@ -17188,6 +17903,7 @@ const geografiya = {
           "text": "Shu ortiqcha 6 soat hisobiga har 4 yilda kabisa yili (366 kun) bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Masalan, Hindiston plitasi Yevrosiyoga urilib Himoloy tog'larini ko'targan."
     },
@@ -17212,6 +17928,7 @@ const geografiya = {
           "text": "Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Atlantika okeani tubida o'rta okean tizmasi hosil bo'ladi."
     },
@@ -17236,6 +17953,7 @@ const geografiya = {
           "text": "Musson yozda okeandan quruqlikka, qishda quruqlikdan okeanga esadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Musson yozda okeandan quruqlikka, qishda quruqlikdan okeanga esadi."
     },
@@ -17260,6 +17978,7 @@ const geografiya = {
           "text": "Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega - Himoloy tog'lari poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Passat shamollari tropiklardan ekvatorga tomon esadi."
     },
@@ -17284,6 +18003,7 @@ const geografiya = {
           "text": "Kunduzgi briz dengizdan quruqlikka, tungi briz quruqlikdan dengizga esadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kunduzgi briz dengizdan quruqlikka, tungi briz quruqlikdan dengizga esadi."
     },
@@ -17308,6 +18028,7 @@ const geografiya = {
           "text": "Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Golfstrim Yevropa qit'asining iqlimini yumshatuvchi 'isitgich' hisoblanadi."
     },
@@ -17332,6 +18053,7 @@ const geografiya = {
           "text": "Antarktida atrofida aylanuvchi eng kuchli oqim."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Antarktida atrofida aylanuvchi eng kuchli oqim."
     },
@@ -17356,6 +18078,7 @@ const geografiya = {
           "text": "Ichki dengizlar materiklar ichida bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ichki dengizlar materiklar ichida bo'ladi."
     },
@@ -17380,6 +18103,7 @@ const geografiya = {
           "text": "Bengal ko'rfazi maydoni 2.1 mln km²."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bengal ko'rfazi maydoni 2.1 mln km²."
     },
@@ -17404,6 +18128,7 @@ const geografiya = {
           "text": "Panama kanali poytaxti - Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Arabiston yarimoroli eng yirik yarimoroldir."
     },
@@ -17428,6 +18153,7 @@ const geografiya = {
           "text": "Ustyurtda qish juda qahraton va ayozli bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ustyurtda qish juda qahraton va ayozli bo'ladi."
     },
@@ -17452,6 +18178,7 @@ const geografiya = {
           "text": "Termizda +50 °C gacha issiq qayd etilgan."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Termizda +50 °C gacha issiq qayd etilgan."
     },
@@ -17476,6 +18203,7 @@ const geografiya = {
           "text": "Madrid - Ispaniya poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Nam havo massalari tog'larga urilib mo'l yog'in qoldiradi."
     },
@@ -17500,6 +18228,7 @@ const geografiya = {
           "text": "Ispaniya poytaxti - Madrid."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Orolbo'yi va Qoraqalpog'istonning ayrim joylarida yog'in juda kam."
     },
@@ -17524,6 +18253,7 @@ const geografiya = {
           "text": "Izobatalar chuqurlik chiziqlaridir."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Chirchiq daryosi Chotqol va Pskem daryolaridan boshlanadi."
     },
@@ -17548,6 +18278,7 @@ const geografiya = {
           "text": "Qozog'iston poytaxti - Ostona."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Zarafshon Amudaryoga yetmasdan sug'orishga sarflanib tugaydi."
     },
@@ -17572,6 +18303,7 @@ const geografiya = {
           "text": "Qizilqumdagi Mingbuloq botig'i dengiz sathidan -12.8 m pastda."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Panj va Vaxsh birlashib Amudaryoni tashkil qiladi."
     },
@@ -17596,6 +18328,7 @@ const geografiya = {
           "text": "Mariana botig'i dunyo okeanining eng chuqur nuqtasi hisoblanadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Farg'ona vodiysida Norin va Qoradaryo qo'shilib Sirdaryo deb ataladi."
     },
@@ -17620,6 +18353,7 @@ const geografiya = {
           "text": "Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Angren koni ochiq usulda ko'mir qazib oladi."
     },
@@ -17644,6 +18378,7 @@ const geografiya = {
           "text": "Misr poytaxti - Qohira."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sharg'un va Boysunda yuqori kaloriyali toshko'mir bor."
     },
@@ -17668,6 +18403,7 @@ const geografiya = {
           "text": "Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "G'ozg'on o'zining rang-barang marmari bilan dunyoga mashhur."
     },
@@ -17692,6 +18428,7 @@ const geografiya = {
           "text": "Qizilqumdagi Mingbuloq botig'i dengiz sathidan -12.8 m pastda."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Nippon (Yaponiya) nomi kunchiqar degan ma'noni beradi."
     },
@@ -17716,6 +18453,7 @@ const geografiya = {
           "text": "Qizilqum Amudaryo va Sirdaryo oralig'ida joylashgan."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Transsibir temir yo'li 9288 km uzunlikka ega."
     },
@@ -17740,6 +18478,7 @@ const geografiya = {
           "text": "Anqara - Turkiya poytaxti."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "O'rta dengiz Yevropa, Osiyo va Afrika oralig'ida."
     },
@@ -17764,6 +18503,7 @@ const geografiya = {
           "text": "Nam havo massalari tog'larga urilib mo'l yog'in qoldiradi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yava botig'i Hind okeanining eng chuqur joyidir."
     },
@@ -17788,6 +18528,7 @@ const geografiya = {
           "text": "Ichki dengizlar materiklar ichida bo'ladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Puerto-Riko novi Atlantika okeanida joylashgan."
     },
@@ -17812,6 +18553,7 @@ const geografiya = {
           "text": "Surxondaryo viloyati hududidagi Hazrati Sulton cho'qqisi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Shimoliy Muz okeanining eng chuqur nuqtasi 5527 m."
     },
@@ -17836,6 +18578,7 @@ const geografiya = {
           "text": "Bishkek - Qirg'iziston poytaxti."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yer shari har biri 15 gradusdan 24 ta soat mintaqasiga bo'lingan."
     },
@@ -17860,6 +18603,7 @@ const geografiya = {
           "text": "Himoloy tog'lari poytaxti - Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "180-meridain orqali xalqaro sana o'zgarish chizig'i o'tkazilgan."
     },
@@ -17884,6 +18628,7 @@ const geografiya = {
           "text": "Tinch okeani"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Tinch okeani maydoni va chuqurligi bo'yicha dunyoda birinchi o'rinda turadi."
     },
@@ -17908,6 +18653,7 @@ const geografiya = {
           "text": "Amudaryo"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Amudaryo Markaziy Osiyo va O'zbekistondagi eng sersuv va uzun daryodir (2540 km)."
     },
@@ -17932,6 +18678,7 @@ const geografiya = {
           "text": "6371 km"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yer ekvatorining aylana uzunligi taxminan 40 075 km ni tashkil etadi."
     },
@@ -17956,6 +18703,7 @@ const geografiya = {
           "text": "384 400 km"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yer sharining o'rtacha radiusi taxminan 6371 km."
     },
@@ -17980,6 +18728,7 @@ const geografiya = {
           "text": "10 km"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "100 000 sm = 1000 m = 1 km."
     },
@@ -18004,6 +18753,7 @@ const geografiya = {
           "text": "Izogipslar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Izobatalar chuqurlik chiziqlaridir."
     },
@@ -18028,6 +18778,7 @@ const geografiya = {
           "text": "22-iyun"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "22-iyunda quyosh shimoliy tropikda zenitda bo'ladi."
     },
@@ -18052,6 +18803,7 @@ const geografiya = {
           "text": "22-iyun"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
     },
@@ -18076,6 +18828,7 @@ const geografiya = {
           "text": "Afrika"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
     },
@@ -18100,6 +18853,7 @@ const geografiya = {
           "text": "Antarktida"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Avstraliyaning maydoni taxminan 7.7 mln km²."
     },
@@ -18124,6 +18878,7 @@ const geografiya = {
           "text": "Shimoliy qutb"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
     },
@@ -18148,6 +18903,7 @@ const geografiya = {
           "text": "Madagaskar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Grenlandiya orolining maydoni 2.1 mln km²."
     },
@@ -18172,6 +18928,7 @@ const geografiya = {
           "text": "410 ming km²"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekiston maydoni 448.9 ming km² ni tashkil etadi."
     },
@@ -18196,6 +18953,7 @@ const geografiya = {
           "text": "Kolumbiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Braziliya Janubiy Amerika qit'asining qariyb yarmini egallaydi."
     },
@@ -18220,6 +18978,7 @@ const geografiya = {
           "text": "Sidney"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Avstraliya poytaxti - Kanberra."
     },
@@ -18244,6 +19003,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kanberra - Avstraliya poytaxti."
     },
@@ -18268,6 +19028,7 @@ const geografiya = {
           "text": "Ottava"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kanada poytaxti - Ottava."
     },
@@ -18292,6 +19053,7 @@ const geografiya = {
           "text": "Kanada"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ottava - Kanada poytaxti."
     },
@@ -18316,6 +19078,7 @@ const geografiya = {
           "text": "San-Paulu"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Braziliya poytaxti - Brazilia."
     },
@@ -18340,6 +19103,7 @@ const geografiya = {
           "text": "Braziliya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Brazilia - Braziliya poytaxti."
     },
@@ -18364,6 +19128,7 @@ const geografiya = {
           "text": "Vashington"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "AQSH poytaxti - Vashington."
     },
@@ -18388,6 +19153,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Vashington - AQSH poytaxti."
     },
@@ -18412,6 +19178,7 @@ const geografiya = {
           "text": "Istanbul"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Turkiya poytaxti - Anqara."
     },
@@ -18436,6 +19203,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Anqara - Turkiya poytaxti."
     },
@@ -18460,6 +19228,7 @@ const geografiya = {
           "text": "Pekin"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Xitoy poytaxti - Pekin."
     },
@@ -18484,6 +19253,7 @@ const geografiya = {
           "text": "Xitoy"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Pekin - Xitoy poytaxti."
     },
@@ -18508,6 +19278,7 @@ const geografiya = {
           "text": "Nyu-Dehli"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Hindiston poytaxti - Nyu-Dehli."
     },
@@ -18532,6 +19303,7 @@ const geografiya = {
           "text": "Hindiston"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Nyu-Dehli - Hindiston poytaxti."
     },
@@ -18556,6 +19328,7 @@ const geografiya = {
           "text": "Yokogama"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yaponiya poytaxti - Tokio."
     },
@@ -18580,6 +19353,7 @@ const geografiya = {
           "text": "Yaponiya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tokio - Yaponiya poytaxti."
     },
@@ -18604,6 +19378,7 @@ const geografiya = {
           "text": "Gamburg"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Germaniya poytaxti - Berlin."
     },
@@ -18628,6 +19403,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Berlin - Germaniya poytaxti."
     },
@@ -18652,6 +19428,7 @@ const geografiya = {
           "text": "Parij"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Fransiya poytaxti - Parij."
     },
@@ -18676,6 +19453,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Parij - Fransiya poytaxti."
     },
@@ -18700,6 +19478,7 @@ const geografiya = {
           "text": "Neapol"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Italiya poytaxti - Rim."
     },
@@ -18724,6 +19503,7 @@ const geografiya = {
           "text": "Italiya"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Rim - Italiya poytaxti."
     },
@@ -18748,6 +19528,7 @@ const geografiya = {
           "text": "Madrid"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ispaniya poytaxti - Madrid."
     },
@@ -18772,6 +19553,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Madrid - Ispaniya poytaxti."
     },
@@ -18796,6 +19578,7 @@ const geografiya = {
           "text": "Giza"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Misr poytaxti - Qohira."
     },
@@ -18820,6 +19603,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qohira - Misr poytaxti."
     },
@@ -18844,6 +19628,7 @@ const geografiya = {
           "text": "Durban"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
     },
@@ -18868,6 +19653,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Pretoriya (ma'muriy) / Keyptaun - Janubiy Afrika Respublikasi (JAR) poytaxti."
     },
@@ -18892,6 +19678,7 @@ const geografiya = {
           "text": "Madina"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Saudiya Arabistoni poytaxti - Ar-Riyod."
     },
@@ -18916,6 +19703,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ar-Riyod - Saudiya Arabistoni poytaxti."
     },
@@ -18940,6 +19728,7 @@ const geografiya = {
           "text": "Almati"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qozog'iston poytaxti - Ostona."
     },
@@ -18964,6 +19753,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ostona - Qozog'iston poytaxti."
     },
@@ -18988,6 +19778,7 @@ const geografiya = {
           "text": "Jalolobod"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qirg'iziston poytaxti - Bishkek."
     },
@@ -19012,6 +19803,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bishkek - Qirg'iziston poytaxti."
     },
@@ -19036,6 +19828,7 @@ const geografiya = {
           "text": "Dushanbe"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tojikiston poytaxti - Dushanbe."
     },
@@ -19060,6 +19853,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Dushanbe - Tojikiston poytaxti."
     },
@@ -19084,6 +19878,7 @@ const geografiya = {
           "text": "Turkmanobod"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Turkmaniston poytaxti - Ashxobod."
     },
@@ -19108,6 +19903,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ashxobod - Turkmaniston poytaxti."
     },
@@ -19132,6 +19928,7 @@ const geografiya = {
           "text": "Hirot"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Afg'oniston poytaxti - Qobul."
     },
@@ -19156,6 +19953,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qobul - Afg'oniston poytaxti."
     },
@@ -19180,6 +19978,7 @@ const geografiya = {
           "text": "Dardanell bo'g'ozi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
     },
@@ -19204,6 +20003,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz - Gibraltar bo'g'ozi poytaxti."
     },
@@ -19228,6 +20028,7 @@ const geografiya = {
           "text": "Bab al-Mandab"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
     },
@@ -19252,6 +20053,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar - Bosfor va Dardanell bo'g'ozlari poytaxti."
     },
@@ -19276,6 +20078,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
     },
@@ -19300,6 +20103,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal - Panama kanali poytaxti."
     },
@@ -19324,6 +20128,7 @@ const geografiya = {
           "text": "Laperuz bo'g'ozi"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
     },
@@ -19348,6 +20153,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
     },
@@ -19372,6 +20178,7 @@ const geografiya = {
           "text": "Magellan bo'g'ozi"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Dreyk bo'g'ozi poytaxti - Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz."
     },
@@ -19396,6 +20203,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz - Dreyk bo'g'ozi poytaxti."
     },
@@ -19420,6 +20228,7 @@ const geografiya = {
           "text": "Bering"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Malakka bo'g'ozi poytaxti - Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li."
     },
@@ -19444,6 +20253,7 @@ const geografiya = {
           "text": "Malakka bo'g'ozi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
     },
@@ -19468,6 +20278,7 @@ const geografiya = {
           "text": "Bab al-Mandab"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ormuz bo'g'ozi poytaxti - Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi."
     },
@@ -19492,6 +20303,7 @@ const geografiya = {
           "text": "Ormuz bo'g'ozi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi - Ormuz bo'g'ozi poytaxti."
     },
@@ -19516,6 +20328,7 @@ const geografiya = {
           "text": "Tyanshan tog'lari"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Himoloy tog'lari poytaxti - Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega."
     },
@@ -19540,6 +20353,7 @@ const geografiya = {
           "text": "Himoloy tog'lari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega - Himoloy tog'lari poytaxti."
     },
@@ -19564,6 +20378,7 @@ const geografiya = {
           "text": "Pomir tog'lari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tyanshan tog'lari poytaxti - Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)."
     },
@@ -19588,6 +20403,7 @@ const geografiya = {
           "text": "Tyanshan tog'lari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
     },
@@ -19612,6 +20428,7 @@ const geografiya = {
           "text": "Kordilyera"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Pomir tog'lari poytaxti - O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)."
     },
@@ -19636,6 +20453,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
     },
@@ -19660,6 +20478,7 @@ const geografiya = {
           "text": "Kavkaz tog'lari"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m) - Kavkaz tog'lari poytaxti."
     },
@@ -19684,6 +20503,7 @@ const geografiya = {
           "text": "Alp tog'lari"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
     },
@@ -19708,6 +20528,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
     },
@@ -19732,6 +20553,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar - Ural tog'lari poytaxti."
     },
@@ -19756,6 +20578,7 @@ const geografiya = {
           "text": "Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kilimanjaro poytaxti - Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)."
     },
@@ -19780,6 +20603,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m) - Kilimanjaro poytaxti."
     },
@@ -19804,6 +20628,7 @@ const geografiya = {
           "text": "Qashqadaryo viloyati"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qashqadaryo viloyati poytaxti - O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat."
     },
@@ -19828,6 +20653,7 @@ const geografiya = {
           "text": "Qashqadaryo viloyati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat - Qashqadaryo viloyati poytaxti."
     },
@@ -19852,6 +20678,7 @@ const geografiya = {
           "text": "O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Navoiy viloyati poytaxti - O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati."
     },
@@ -19876,6 +20703,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati - Navoiy viloyati poytaxti."
     },
@@ -19900,6 +20728,7 @@ const geografiya = {
           "text": "Quyi Amudaryo"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
     },
@@ -19924,6 +20753,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi - Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti."
     },
@@ -19948,6 +20778,7 @@ const geografiya = {
           "text": "Xorazm viloyati"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Buxoro viloyati poytaxti - Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat."
     },
@@ -19972,6 +20803,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat - Buxoro viloyati poytaxti."
     },
@@ -19996,6 +20828,7 @@ const geografiya = {
           "text": "Jizzax"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
     },
@@ -20020,6 +20853,7 @@ const geografiya = {
           "text": "Polsha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati - Surxondaryo viloyati poytaxti."
     },
@@ -20044,6 +20878,7 @@ const geografiya = {
           "text": "Samarqand"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Xorazm viloyati poytaxti - Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati."
     },
@@ -20068,6 +20903,7 @@ const geografiya = {
           "text": "Xorazm viloyati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
     },
@@ -20092,6 +20928,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus) - Qoraqalpog'iston Respublikasi poytaxti."
     },
@@ -20116,6 +20953,7 @@ const geografiya = {
           "text": "Toshkent shahri va viloyati"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
     },
@@ -20140,6 +20978,7 @@ const geografiya = {
           "text": "Toshkent shahri va viloyati"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi - Toshkent shahri va viloyati poytaxti."
     },
@@ -20164,6 +21003,7 @@ const geografiya = {
           "text": "Vasko da Gama"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
     },
@@ -20188,6 +21028,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
     },
@@ -20212,6 +21053,7 @@ const geografiya = {
           "text": "Jeyms Kuk"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
     },
@@ -20236,6 +21078,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi - Vasko da Gama poytaxti."
     },
@@ -20260,6 +21103,7 @@ const geografiya = {
           "text": "Fernan Magellan"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1519-1522-yillarda tarixda ilk bor dunyo bo'ylab sayohatni amalga oshirib, Yerning sharsimonligini isbotlagan - Fernan Magellan poytaxti."
     },
@@ -20284,6 +21128,7 @@ const geografiya = {
           "text": "Amerigo Vespuchchi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Amerigo Vespuchchi poytaxti - Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan."
     },
@@ -20308,6 +21153,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yangi Dunyo yerlari Hindiston emas, balki yangi qit'a ekanini isbotlagan, qit'a uning nomi bilan atalgan - Amerigo Vespuchchi poytaxti."
     },
@@ -20332,6 +21178,7 @@ const geografiya = {
           "text": "Jeyms Kuk"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "F. Bellinsgauzen va M. Lazarev poytaxti - 1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari."
     },
@@ -20356,6 +21203,7 @@ const geografiya = {
           "text": "Avstriya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1820-yilda 'Vostok' va 'Mirniy' kemalarida Antarktida materigini kashf etgan ekspeditsiya rahbarlari - F. Bellinsgauzen va M. Lazarev poytaxti."
     },
@@ -20380,6 +21228,7 @@ const geografiya = {
           "text": "1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Rual Amundsen poytaxti - 1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh."
     },
@@ -20404,6 +21253,7 @@ const geografiya = {
           "text": "Rual Amundsen"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "1911-yil 14-dekabrda tarixda birinchi bo'lib Janubiy qutbga yetib borgan norvegiyalik sayyoh - Rual Amundsen poytaxti."
     },
@@ -20428,6 +21278,7 @@ const geografiya = {
           "text": "Nansen"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Robert Piri poytaxti - 1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh."
     },
@@ -20452,6 +21303,7 @@ const geografiya = {
           "text": "Shvetsiya"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "1909-yilda Shimoliy qutbga birinchi bo'lib yetib borgan amerikalik sayyoh - Robert Piri poytaxti."
     },
@@ -20476,6 +21328,7 @@ const geografiya = {
           "text": "Troposfera"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Troposfera qalinligi ekvatorda 18 km gacha bo'lib, atmosferaning 80% massasini oladi."
     },
@@ -20500,6 +21353,7 @@ const geografiya = {
           "text": "Barometr"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Barometr bosimni o'lchaydi (simobli va aneroid)."
     },
@@ -20524,6 +21378,7 @@ const geografiya = {
           "text": "Flyuger"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Anemometr shamol tezligini, flyuger esa yo'nalishini ko'rsatadi."
     },
@@ -20548,6 +21403,7 @@ const geografiya = {
           "text": "Seysmograf"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Seysmograf yer qimirlash to'lqinlarini qayd qiladi."
     },
@@ -20572,6 +21428,7 @@ const geografiya = {
           "text": "Rift"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Epitsentr yer silkinishining eng kuchli seziladigan yuza qismidir."
     },
@@ -20596,6 +21453,7 @@ const geografiya = {
           "text": "Sirokko"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kunduzgi briz dengizdan quruqlikka, tungi briz quruqlikdan dengizga esadi."
     },
@@ -20620,6 +21478,7 @@ const geografiya = {
           "text": "Yaponiya"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Nippon (Yaponiya) nomi kunchiqar degan ma'noni beradi."
     },
@@ -20644,6 +21503,7 @@ const geografiya = {
           "text": "Qora dengiz"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "O'rta dengiz Yevropa, Osiyo va Afrika oralig'ida."
     },
@@ -20668,6 +21528,7 @@ const geografiya = {
           "text": "12 ta"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yer shari har biri 15 gradusdan 24 ta soat mintaqasiga bo'lingan."
     },
@@ -20684,6 +21545,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Tinch okeani maydoni va chuqurligi bo'yicha dunyoda birinchi o'rinda turadi."
     },
@@ -20700,6 +21562,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Amudaryo Markaziy Osiyo va O'zbekistondagi eng sersuv va uzun daryodir (2540 km)."
     },
@@ -20716,6 +21579,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Himoloy tog'laridagi Everest cho'qqisi dengiz sathidan 8848 metr balandlikda joylashgan."
     },
@@ -20732,6 +21596,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Ha. Orol dengizi O'zbekiston (Qoraqalpog'iston) va Qozog'iston chegarasida joylashgan."
     },
@@ -20748,6 +21613,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Yer ekvatorining aylana uzunligi taxminan 40 075 km ni tashkil etadi."
     },
@@ -20764,6 +21630,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Yer sharining o'rtacha radiusi taxminan 6371 km."
     },
@@ -20780,6 +21647,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 100 000 sm = 1000 m = 1 km."
     },
@@ -20796,6 +21664,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Gorizontallar (izogipslar) relyef balandligini ko'rsatadi."
     },
@@ -20812,6 +21681,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Izobatalar chuqurlik chiziqlaridir."
     },
@@ -20828,6 +21698,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Xalqaro kelishuvga ko'ra Grinvich nolinchi meridian hisoblanadi."
     },
@@ -20844,6 +21715,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Yulduz sutkasi 23 soat 56 daqiqa 4 soniyaga teng."
     },
@@ -20860,6 +21732,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Shu ortiqcha 6 soat hisobiga har 4 yilda kabisa yili (366 kun) bo'ladi."
     },
@@ -20876,6 +21749,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Yer o'qining qiyaligi sababli fasllar almashinadi."
     },
@@ -20892,6 +21766,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 22-iyunda quyosh shimoliy tropikda zenitda bo'ladi."
     },
@@ -20908,6 +21783,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 22-dekabrda Janubiy yarimsharda eng uzun kun bo'ladi."
     },
@@ -20924,6 +21800,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Bu kunlarda Quyosh ekvatorda zenitda turadi."
     },
@@ -20940,6 +21817,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Yevrosiyo maydoni 54 mln km² dan ortiq bo'lib, eng yirik materikdir."
     },
@@ -20956,6 +21834,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Avstraliyaning maydoni taxminan 7.7 mln km²."
     },
@@ -20972,6 +21851,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Antarktidada 'Vostok' stansiyasida -89.2 °C sovuq qayd etilgan."
     },
@@ -20988,6 +21868,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. And tog'lari 9000 km ga cho'zilgan."
     },
@@ -21004,6 +21885,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Amazonka dunyodagi eng sersuv daryodir."
     },
@@ -21020,6 +21902,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Nil daryosining uzunligi qariyb 6670 km."
     },
@@ -21036,6 +21919,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Baykal ko'lining chuqurligi 1642 metr."
     },
@@ -21052,6 +21936,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kaspiy ko'l bo'lsa-da, kattaligi sababli dengiz deyiladi."
     },
@@ -21068,6 +21953,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Anxel sharsharasi Janubiy Amerikada Churun daryosida joylashgan."
     },
@@ -21084,6 +21970,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Sahroi Kabir maydoni taxminan 9 mln km²."
     },
@@ -21100,6 +21987,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Mariana botig'i dunyo okeanining eng chuqur nuqtasi hisoblanadi."
     },
@@ -21116,6 +22004,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Grenlandiya orolining maydoni 2.1 mln km²."
     },
@@ -21132,6 +22021,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'zbekiston maydoni 448.9 ming km² ni tashkil etadi."
     },
@@ -21148,6 +22038,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'zbekiston 5 ta davlat bilan chegaradosh."
     },
@@ -21164,6 +22055,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Surxondaryo viloyati hududidagi Hazrati Sulton cho'qqisi."
     },
@@ -21180,6 +22072,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Qizilqumdagi Mingbuloq botig'i dengiz sathidan -12.8 m pastda."
     },
@@ -21196,6 +22089,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Aydarko'l sun'iy-tabiiy eng yirik suv havzasidir."
     },
@@ -21212,6 +22106,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Suv sig'imi bo'yicha To'polong va Chorvoq eng yiriklaridan."
     },
@@ -21228,6 +22123,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'zbekistonning qariyb 80% maydoni tekisliklardan iborat."
     },
@@ -21244,6 +22140,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qizilqum Amudaryo va Sirdaryo oralig'ida joylashgan."
     },
@@ -21260,6 +22157,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Muruntov dunyodagi eng yirik ochiq oltin konlaridan biridir."
     },
@@ -21276,6 +22174,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Olmaliq kon-metallurgiya kombinati."
     },
@@ -21292,6 +22191,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Bekoboddagi O'zbekiston metallurgiya zavodi."
     },
@@ -21308,6 +22208,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Sho'rtan gaz-kimyo majmuasi polietilen ishlab chiqaradi."
     },
@@ -21324,6 +22225,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 1996-yilda Asaka shahrida UzDaewooAuto ishga tushgan."
     },
@@ -21340,6 +22242,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Hindiston va Xitoy dunyo aholisining 35% dan ortig'ini tashkil etadi."
     },
@@ -21356,6 +22259,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Rossiya Federatsiyasi maydoni bo'yicha 1-o'rinda."
     },
@@ -21372,6 +22276,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Rim shahri ichida joylashgan Vatikan."
     },
@@ -21388,6 +22293,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Braziliya Janubiy Amerika qit'asining qariyb yarmini egallaydi."
     },
@@ -21404,6 +22310,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Nigeriya Afrikada aholi soni bo'yicha yaqqol yetakchidir."
     },
@@ -21420,6 +22327,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Venesuela va Fors ko'rfazi davlatlari."
     },
@@ -21436,6 +22344,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Iqtisodiy jihatdan eng rivojlangan 7 ta davlat guruhi."
     },
@@ -21452,6 +22361,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Neft qazib oluvchi va eksport qiluvchi mamlakatlar tashkiloti."
     },
@@ -21468,6 +22378,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Bryussel Yevropa Ittifoqi va NATO qarorgohidir."
     },
@@ -21484,6 +22395,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Avstraliya poytaxti - Kanberra."
     },
@@ -21500,6 +22412,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kanberra - Avstraliya poytaxti."
     },
@@ -21516,6 +22429,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Kanada poytaxti - Ottava."
     },
@@ -21532,6 +22446,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ottava - Kanada poytaxti."
     },
@@ -21548,6 +22463,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Braziliya poytaxti - Brazilia."
     },
@@ -21564,6 +22480,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Brazilia - Braziliya poytaxti."
     },
@@ -21580,6 +22497,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. AQSH poytaxti - Vashington."
     },
@@ -21596,6 +22514,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Vashington - AQSH poytaxti."
     },
@@ -21612,6 +22531,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Turkiya poytaxti - Anqara."
     },
@@ -21628,6 +22548,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Anqara - Turkiya poytaxti."
     },
@@ -21644,6 +22565,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Xitoy poytaxti - Pekin."
     },
@@ -21660,6 +22582,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Pekin - Xitoy poytaxti."
     },
@@ -21676,6 +22599,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Hindiston poytaxti - Nyu-Dehli."
     },
@@ -21692,6 +22616,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Nyu-Dehli - Hindiston poytaxti."
     },
@@ -21708,6 +22633,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Yaponiya poytaxti - Tokio."
     },
@@ -21724,6 +22650,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Tokio - Yaponiya poytaxti."
     },
@@ -21740,6 +22667,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Germaniya poytaxti - Berlin."
     },
@@ -21756,6 +22684,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Berlin - Germaniya poytaxti."
     },
@@ -21772,6 +22701,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Fransiya poytaxti - Parij."
     },
@@ -21788,6 +22718,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Parij - Fransiya poytaxti."
     },
@@ -21804,6 +22735,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Italiya poytaxti - Rim."
     },
@@ -21820,6 +22752,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Rim - Italiya poytaxti."
     },
@@ -21836,6 +22769,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ispaniya poytaxti - Madrid."
     },
@@ -21852,6 +22786,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Madrid - Ispaniya poytaxti."
     },
@@ -21868,6 +22803,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Misr poytaxti - Qohira."
     },
@@ -21884,6 +22820,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qohira - Misr poytaxti."
     },
@@ -21900,6 +22837,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Janubiy Afrika Respublikasi (JAR) poytaxti - Pretoriya (ma'muriy) / Keyptaun."
     },
@@ -21916,6 +22854,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Pretoriya (ma'muriy) / Keyptaun - Janubiy Afrika Respublikasi (JAR) poytaxti."
     },
@@ -21932,6 +22871,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Saudiya Arabistoni poytaxti - Ar-Riyod."
     },
@@ -21948,6 +22888,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ar-Riyod - Saudiya Arabistoni poytaxti."
     },
@@ -21964,6 +22905,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qozog'iston poytaxti - Ostona."
     },
@@ -21980,6 +22922,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ostona - Qozog'iston poytaxti."
     },
@@ -21996,6 +22939,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Qirg'iziston poytaxti - Bishkek."
     },
@@ -22012,6 +22956,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Bishkek - Qirg'iziston poytaxti."
     },
@@ -22028,6 +22973,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Tojikiston poytaxti - Dushanbe."
     },
@@ -22044,6 +22990,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Dushanbe - Tojikiston poytaxti."
     },
@@ -22060,6 +23007,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Turkmaniston poytaxti - Ashxobod."
     },
@@ -22076,6 +23024,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Ashxobod - Turkmaniston poytaxti."
     },
@@ -22092,6 +23041,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Afg'oniston poytaxti - Qobul."
     },
@@ -22108,6 +23058,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Qobul - Afg'oniston poytaxti."
     },
@@ -22124,6 +23075,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Gibraltar bo'g'ozi poytaxti - O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz."
     },
@@ -22140,6 +23092,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'rta dengizni Atlantika okeani bilan tutashtiruvchi va Yevropani Afrikadan ajratuvchi bo'g'oz - Gibraltar bo'g'ozi poytaxti."
     },
@@ -22156,6 +23109,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Bosfor va Dardanell bo'g'ozlari poytaxti - Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar."
     },
@@ -22172,6 +23126,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qora dengizni Marmara va O'rta dengiz bilan bog'lovchi strategik bo'g'ozlar - Bosfor va Dardanell bo'g'ozlari poytaxti."
     },
@@ -22188,6 +23143,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Suvaysh kanali poytaxti - O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li."
     },
@@ -22204,6 +23160,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'rta dengizni Qizil dengiz (Hind okeani) bilan bog'lovchi 1869-yilda ochilgan kema yo'li - Suvaysh kanali poytaxti."
     },
@@ -22220,6 +23177,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Panama kanali poytaxti - Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal."
     },
@@ -22236,6 +23194,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Atlantika okeanini Tinch okeani bilan tutashtiruvchi Shimoliy va Janubiy Amerika oralig'idagi kanal - Panama kanali poytaxti."
     },
@@ -22252,6 +23211,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Bering bo'g'ozi poytaxti - Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz."
     },
@@ -22268,6 +23228,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Osiyo (Chukotka) va Shimoliy Amerika (Alyaska) materiklarini ajratib turuvchi bo'g'oz - Bering bo'g'ozi poytaxti."
     },
@@ -22284,6 +23245,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Dreyk bo'g'ozi poytaxti - Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz."
     },
@@ -22300,6 +23262,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Antarktida va Janubiy Amerika oralig'idagi dunyodagi eng keng va eng chuqur bo'g'oz - Dreyk bo'g'ozi poytaxti."
     },
@@ -22316,6 +23279,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Malakka bo'g'ozi poytaxti - Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li."
     },
@@ -22332,6 +23296,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Hind okeani va Tinch okeani o'rtasidagi eng serqatnov xalqaro dengiz savdo yo'li - Malakka bo'g'ozi poytaxti."
     },
@@ -22348,6 +23313,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ormuz bo'g'ozi poytaxti - Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi."
     },
@@ -22364,6 +23330,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Fors ko'rfazini Ummon dengizi (Hind okeani) bilan bog'lovchi neft tranzitining bosh bo'g'ozi - Ormuz bo'g'ozi poytaxti."
     },
@@ -22380,6 +23347,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Himoloy tog'lari poytaxti - Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega."
     },
@@ -22396,6 +23364,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Dunyoning eng baland tog' tizmasi, 8000 metrdan baland cho'qqilarga ega - Himoloy tog'lari poytaxti."
     },
@@ -22412,6 +23381,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Tyanshan tog'lari poytaxti - Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m)."
     },
@@ -22428,6 +23398,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Markaziy Osiyoda joylashgan, eng baland nuqtasi G'alaba cho'qqisi (7439 m) - Tyanshan tog'lari poytaxti."
     },
@@ -22444,6 +23415,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Pomir tog'lari poytaxti - O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi)."
     },
@@ -22460,6 +23432,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'rta Osiyoning 'Dunyo tomi' deb ataluvchi baland tog' tuguni (Somoniy cho'qqisi) - Pomir tog'lari poytaxti."
     },
@@ -22476,6 +23449,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Kavkaz tog'lari poytaxti - Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m)."
     },
@@ -22492,6 +23466,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Yevropa va Osiyo chegarasida joylashgan, eng baland nuqtasi Elbrus (5642 m) - Kavkaz tog'lari poytaxti."
     },
@@ -22508,6 +23483,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Alp tog'lari poytaxti - G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m)."
     },
@@ -22524,6 +23500,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. G'arbiy Yevropadagi eng mashhur tog' tizmasi, eng baland cho'qqisi Monblan (4810 m) - Alp tog'lari poytaxti."
     },
@@ -22540,6 +23517,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ural tog'lari poytaxti - Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar."
     },
@@ -22556,6 +23534,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Yevropa va Osiyo qit'alari o'rtasidagi tabiiy chegara vazifasini o'tovchi qadimiy tog'lar - Ural tog'lari poytaxti."
     },
@@ -22572,6 +23551,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kilimanjaro poytaxti - Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m)."
     },
@@ -22588,6 +23568,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Afrika qit'asining eng baland nuqtasi bo'lgan so'ngan vulqon (5895 m) - Kilimanjaro poytaxti."
     },
@@ -22604,6 +23585,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qashqadaryo viloyati poytaxti - O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat."
     },
@@ -22620,6 +23602,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'zbekistonda tabiiy gaz qazib olish, g'allachilik va paxtachilik bo'yicha yetakchi viloyat - Qashqadaryo viloyati poytaxti."
     },
@@ -22636,6 +23619,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Navoiy viloyati poytaxti - O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati."
     },
@@ -22652,6 +23636,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'zbekistonning maydoni bo'yicha ikkinchi, oltin va uran qazib olish bo'yicha bosh kon-sanoat viloyati - Navoiy viloyati poytaxti."
     },
@@ -22668,6 +23653,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti - O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi."
     },
@@ -22684,6 +23670,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'zbekistonning aholi zichligi eng yuqori bo'lgan, ipakchilik va bog'dorchilik rivojlangan hududi - Farg'ona vodiysi (Andijon, Farg'ona, Namangan) poytaxti."
     },
@@ -22700,6 +23687,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Buxoro viloyati poytaxti - Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat."
     },
@@ -22716,6 +23704,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Gazni qayta ishlash (Qorako'l, Gazli) va qorako'lchilik rivojlangan qadimiy viloyat - Buxoro viloyati poytaxti."
     },
@@ -22732,6 +23721,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Surxondaryo viloyati poytaxti - O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati."
     },
@@ -22748,6 +23738,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'zbekistonning eng janubiy, subtropik ekinlar (anor, xurmo, yupqa tolali paxta) o'sadigan viloyati - Surxondaryo viloyati poytaxti."
     },
@@ -22764,6 +23755,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Xorazm viloyati poytaxti - Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati."
     },
@@ -22780,6 +23772,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Sholichilik, polizchilik (gurvak qovunlari) va to'qimachilik rivojlangan quyi Amudaryo viloyati - Xorazm viloyati poytaxti."
     },
@@ -22796,6 +23789,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Qoraqalpog'iston Respublikasi poytaxti - O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus)."
     },
@@ -22812,6 +23806,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'zbekiston hududining 37% qismini egallovchi eng katta ma'muriy hudud (poytaxti Nukus) - Qoraqalpog'iston Respublikasi poytaxti."
     },
@@ -22828,6 +23823,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Toshkent shahri va viloyati poytaxti - O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi."
     },
@@ -22844,6 +23840,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. O'zbekistonning asosiy sanoat, energetika (Chorvoq, Angren IES), ilmiy va moliya markazi - Toshkent shahri va viloyati poytaxti."
     },
@@ -22860,6 +23857,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Xristofor Kolumb poytaxti - 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi."
     },
@@ -22876,6 +23874,7 @@ const geografiya = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1492-yilda Ispaniya bayrog'i ostida suzib, Amerikani kashf etgan dengizchi - Xristofor Kolumb poytaxti."
     },
@@ -22892,6 +23891,7 @@ const geografiya = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Vasko da Gama poytaxti - 1498-yilda Afrikani janubdan aylanib o'tib, Hindistonga dengiz yo'lini ochgan portugal dengizchisi."
     }

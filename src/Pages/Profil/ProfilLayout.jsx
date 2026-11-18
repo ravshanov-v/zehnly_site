@@ -63,7 +63,7 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
           <div>
             <div className="flex items-center gap-3.5 md:border-b md:border-hairline md:pb-5">
               <div className="relative">
-                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-xl font-semibold text-white">
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl gradient-brand font-display text-xl font-semibold text-white">
                   {firstLetter}
                 </div>
                 <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-paper bg-positive" />

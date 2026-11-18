@@ -28,6 +28,7 @@ const kimyo = {
           "text": "CO₂"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -52,6 +53,7 @@ const kimyo = {
           "text": "Litiy"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -76,6 +78,7 @@ const kimyo = {
           "text": "Soda"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -100,6 +103,7 @@ const kimyo = {
           "text": "Neytral"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -124,6 +128,7 @@ const kimyo = {
           "text": "24.5 litr"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -148,6 +153,7 @@ const kimyo = {
           "text": "6.02 · 10²²"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     },
@@ -172,6 +178,7 @@ const kimyo = {
           "text": "32"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Mr(O₂) = 16 · 2 = 32."
     },
@@ -196,6 +203,7 @@ const kimyo = {
           "text": "18"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -220,6 +228,7 @@ const kimyo = {
           "text": "48 g/mol"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -244,6 +253,7 @@ const kimyo = {
           "text": "96"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -268,6 +278,7 @@ const kimyo = {
           "text": "Protonlar va elektronlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
     },
@@ -292,6 +303,7 @@ const kimyo = {
           "text": "Atom massasini"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tartib raqami = zaryad = protonlar soni = elektronlar soni."
     },
@@ -316,6 +328,7 @@ const kimyo = {
           "text": "Ortadi (kuchayadi)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
     },
@@ -340,6 +353,7 @@ const kimyo = {
           "text": "Kamayadi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -364,6 +378,7 @@ const kimyo = {
           "text": "Xlor (Cl)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
     },
@@ -388,6 +403,7 @@ const kimyo = {
           "text": "Neon (Ne)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Geliy davriy sistemaning VIII-A guruhidagi eng yengil inert gazdir."
     },
@@ -412,6 +428,7 @@ const kimyo = {
           "text": "Kovalent qutbli bog'lanish (masalan: HCl, H₂O)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
     },
@@ -436,6 +453,7 @@ const kimyo = {
           "text": "Ion bog'lanish"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
     },
@@ -460,6 +478,7 @@ const kimyo = {
           "text": "Koordinatsion bog'"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Zaryadlangan ionlar orasidagi elektrostatik tortishish ion bog'dir."
     },
@@ -484,6 +503,7 @@ const kimyo = {
           "text": "Ko'k rangga"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kislotada lakmus qizaradi, ishqorda ko'karadi."
     },
@@ -508,6 +528,7 @@ const kimyo = {
           "text": "Sariq rangga"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
     },
@@ -532,6 +553,7 @@ const kimyo = {
           "text": "Gidroliz reaksiyasi"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kislota + Asos = Tuz + Suv neytrallanish deyiladi."
     },
@@ -556,6 +578,7 @@ const kimyo = {
           "text": "(NH₂)₂CO"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Karbamid eng mashhur azotli mineral o'g'itdir."
     },
@@ -580,6 +603,7 @@ const kimyo = {
           "text": "Kalsiy oksid (CaO)"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
     },
@@ -604,6 +628,7 @@ const kimyo = {
           "text": "CaCO₃"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
     },
@@ -628,6 +653,7 @@ const kimyo = {
           "text": "Oltingugurt dioksid (SO₂)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
     },
@@ -652,6 +678,7 @@ const kimyo = {
           "text": "Kremniy (Si)"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Organik kimyo uglerod birikmalari kimyosidir."
     },
@@ -676,6 +703,7 @@ const kimyo = {
           "text": "III valentli"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
     },
@@ -700,6 +728,7 @@ const kimyo = {
           "text": "C_n H_{2n+2}"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Alkanlar parafinlar deb ham ataladi."
     },
@@ -724,6 +753,7 @@ const kimyo = {
           "text": "Metan (CH₄)"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
     },
@@ -748,6 +778,7 @@ const kimyo = {
           "text": "Alkinlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
     },
@@ -772,6 +803,7 @@ const kimyo = {
           "text": "Alkanlar"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
     },
@@ -796,6 +828,7 @@ const kimyo = {
           "text": "C₇H₈"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kekule taklif qilgan halqali aromatik benzol C₆H₆."
     },
@@ -820,6 +853,7 @@ const kimyo = {
           "text": "C₂H₄(OH)₂"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Etanol — C₂H₅OH."
     },
@@ -844,6 +878,7 @@ const kimyo = {
           "text": "Metanol (CH₃OH)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Metanol o'ta kuchli zahar hisoblanadi."
     },
@@ -868,6 +903,7 @@ const kimyo = {
           "text": "C₃H₇COOH"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sirka kislota kundalik hayotda 70% esensiya yoki 9% sirka sifatida qo'llanadi."
     },
@@ -892,6 +928,7 @@ const kimyo = {
           "text": "(C₆H₁₀O₅)_n"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Glukoza eng muhim monosaxariddir."
     },
@@ -916,6 +953,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -940,6 +978,7 @@ const kimyo = {
           "text": "Sulfat kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
     },
@@ -964,6 +1003,7 @@ const kimyo = {
           "text": "Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -988,6 +1028,7 @@ const kimyo = {
           "text": "Sulfat kislota (H₂SO₄)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -1012,6 +1053,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -1036,6 +1078,7 @@ const kimyo = {
           "text": "Sulfat kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
     },
@@ -1060,6 +1103,7 @@ const kimyo = {
           "text": "Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -1084,6 +1128,7 @@ const kimyo = {
           "text": "Gipofosfit"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
     },
@@ -1108,6 +1153,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -1132,6 +1178,7 @@ const kimyo = {
           "text": "Is gazi (CO)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
     },
@@ -1156,6 +1203,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -1180,6 +1228,7 @@ const kimyo = {
           "text": "Is gazi (CO)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerod (II) oksidi (CO, is gazi)'ga tegishli."
     },
@@ -1204,6 +1253,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -1228,6 +1278,7 @@ const kimyo = {
           "text": "Fosfin (PH₃)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Ammiak (NH₃)'ga tegishli."
     },
@@ -1252,6 +1303,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -1276,6 +1328,7 @@ const kimyo = {
           "text": "Xlor"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
     },
@@ -1300,6 +1353,7 @@ const kimyo = {
           "text": "NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -1324,6 +1378,7 @@ const kimyo = {
           "text": "Kalsinirlangan soda (Na₂CO₃)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
     },
@@ -1348,6 +1403,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -1372,6 +1428,7 @@ const kimyo = {
           "text": "Kalsinirlangan soda (Na₂CO₃)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
     },
@@ -1396,6 +1453,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -1420,6 +1478,7 @@ const kimyo = {
           "text": "So'ndirilgan ohak"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ga tegishli."
     },
@@ -1444,6 +1503,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -1468,6 +1528,7 @@ const kimyo = {
           "text": "Marmar (CaCO₃)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Gips (Kalsiy sulfat dihidrat)'ga tegishli."
     },
@@ -1492,6 +1553,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -1516,6 +1578,7 @@ const kimyo = {
           "text": "Magnetit (Fe₃O₄)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
     },
@@ -1540,6 +1603,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -1564,6 +1628,7 @@ const kimyo = {
           "text": "Magnetit (Fe₃O₄)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Gematit (Qizil temirtosh)'ga tegishli."
     },
@@ -1588,6 +1653,7 @@ const kimyo = {
           "text": "Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -1612,6 +1678,7 @@ const kimyo = {
           "text": "Magnetit (Fe₃O₄)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Magnetit (Magnitli temirtosh)'ga tegishli."
     },
@@ -1636,6 +1703,7 @@ const kimyo = {
           "text": "CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -1660,6 +1728,7 @@ const kimyo = {
           "text": "Kaliy permanganat"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
     },
@@ -1684,6 +1753,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -1708,6 +1778,7 @@ const kimyo = {
           "text": "Kaliy permanganat (KMnO₄)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
     },
@@ -1732,6 +1803,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -1756,6 +1828,7 @@ const kimyo = {
           "text": "Natriy (Na)"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng yengil metall'ga tegishli."
     },
@@ -1780,6 +1853,7 @@ const kimyo = {
           "text": "Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -1804,6 +1878,7 @@ const kimyo = {
           "text": "Oltin (Au)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
     },
@@ -1828,6 +1903,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -1852,6 +1928,7 @@ const kimyo = {
           "text": "Titan (Ti)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng qattiq metall'ga tegishli."
     },
@@ -1876,6 +1953,7 @@ const kimyo = {
           "text": "Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -1900,6 +1978,7 @@ const kimyo = {
           "text": "Qo'rg'oshin (Pb)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
     },
@@ -1924,6 +2003,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -1948,6 +2028,7 @@ const kimyo = {
           "text": "Volfram (W)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
     },
@@ -1972,6 +2053,7 @@ const kimyo = {
           "text": "Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -1996,6 +2078,7 @@ const kimyo = {
           "text": "Mis (Cu)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
     },
@@ -2020,6 +2103,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -2044,6 +2128,7 @@ const kimyo = {
           "text": "Olmos, grafit, fulleren"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -2068,6 +2153,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -2092,6 +2178,7 @@ const kimyo = {
           "text": "Olmos va grafit"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kislorodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -2116,6 +2203,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -2140,6 +2228,7 @@ const kimyo = {
           "text": "Olmos va grafit"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
     },
@@ -2164,6 +2253,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -2188,6 +2278,7 @@ const kimyo = {
           "text": "Karbonil guruhi (>C=O)"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Spirtlarning funksional guruhi'ga tegishli."
     },
@@ -2212,6 +2303,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -2236,6 +2328,7 @@ const kimyo = {
           "text": "Gidroksil guruhi (-OH)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
     },
@@ -2260,6 +2353,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -2284,6 +2378,7 @@ const kimyo = {
           "text": "Ester guruhi (-COO-)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
     },
@@ -2308,6 +2403,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -2332,6 +2428,7 @@ const kimyo = {
           "text": "Gidroksil guruhi (-OH)"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aminlarning funksional guruhi'ga tegishli."
     },
@@ -2356,6 +2453,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -2380,6 +2478,7 @@ const kimyo = {
           "text": "Ketonlar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
     },
@@ -2404,6 +2503,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -2428,6 +2528,7 @@ const kimyo = {
           "text": "Oddiy efirlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -2452,6 +2553,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -2476,6 +2578,7 @@ const kimyo = {
           "text": "Nuklein kislotalar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aminokislotalar'ga tegishli."
     },
@@ -2500,6 +2603,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -2524,6 +2628,7 @@ const kimyo = {
           "text": "Uglevodlar"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -2548,6 +2653,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -2572,6 +2678,7 @@ const kimyo = {
           "text": "Glukoza va Fruktoza"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -2596,6 +2703,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -2620,6 +2728,7 @@ const kimyo = {
           "text": "Saxaroza"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -2644,6 +2753,7 @@ const kimyo = {
           "text": "D(H₂) = M · 2"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
     },
@@ -2668,6 +2778,7 @@ const kimyo = {
           "text": "D(havo) = 29 / M"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Havoning o'rtacha molyar massasi 29 g/mol ga teng."
     },
@@ -2692,6 +2803,7 @@ const kimyo = {
           "text": "Nikel"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "2H₂O₂ =(MnO₂)=> 2H₂O + O₂↑ reaksiyasida MnO₂ katalizator."
     },
@@ -2716,6 +2828,7 @@ const kimyo = {
           "text": "Kaliy va ishqor"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Zn + 2HCl = ZnCl₂ + H₂↑."
     },
@@ -2740,6 +2853,7 @@ const kimyo = {
           "text": "Ingibitorlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -2764,6 +2878,7 @@ const kimyo = {
           "text": "Promotorlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -2788,6 +2903,7 @@ const kimyo = {
           "text": "Atom massasini"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Muvozanatdagi tizimga tashqi bosim, harorat yoki konsentratsiya ta'siri qoidasi."
     },
@@ -2812,6 +2928,7 @@ const kimyo = {
           "text": "Dalton qonuni"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -2836,6 +2953,7 @@ const kimyo = {
           "text": "Katalitik reaksiyalar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Ekzotermik reaksiyalarda energiya ajraladi (yonish reaksiyalari)."
     },
@@ -2860,6 +2978,7 @@ const kimyo = {
           "text": "Ekzotermik reaksiyalar (+Q)"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Endotermik reaksiyalarda energiya yutiladi (parchalanish jarayonlari)."
     },
@@ -2884,6 +3003,7 @@ const kimyo = {
           "text": "Yarimo'tkazgichlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Elektrolitlar ionlarga ajraladi."
     },
@@ -2908,6 +3028,7 @@ const kimyo = {
           "text": "Kaliy gidroksid"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
     },
@@ -2932,6 +3053,7 @@ const kimyo = {
           "text": "w = (m(erigan modda) / m(eritma)) · 100%"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
     },
@@ -2956,6 +3078,7 @@ const kimyo = {
           "text": "foiz (%)"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "C_M = n / V (mol/l)."
     },
@@ -2980,6 +3103,7 @@ const kimyo = {
           "text": "Elektron beradi va oksidlanadi"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Oksidlovchi elektron qabul qiluvchidir."
     },
@@ -3004,6 +3128,7 @@ const kimyo = {
           "text": "Elektron qabul qiladi"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qaytaruvchi elektron beruvchidir."
     },
@@ -3028,6 +3153,7 @@ const kimyo = {
           "text": "Elektroliz qilish"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Temirning zanglashi korroziyaga misoldir."
     },
@@ -3052,6 +3178,7 @@ const kimyo = {
           "text": "Temir va uglerodning qotishmasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
     },
@@ -3076,6 +3203,7 @@ const kimyo = {
           "text": "Temir va uglerod"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bronza — mis va qalay asosidagi qotishma."
     },
@@ -3100,6 +3228,7 @@ const kimyo = {
           "text": "Temir va xrom"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Latun mis va ruxning qotishmasidir."
     },
@@ -3124,6 +3253,7 @@ const kimyo = {
           "text": "A. M. Butlerov (1861-yilda)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
     },
@@ -3148,6 +3278,7 @@ const kimyo = {
           "text": "Izomerlar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Izomeriya organik kimyoning eng muhim hodisasidir."
     },
@@ -3172,6 +3303,7 @@ const kimyo = {
           "text": "Allotroplar"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Masalan, metan, etan, propan gomologik qatordir."
     },
@@ -3196,6 +3328,7 @@ const kimyo = {
           "text": "Zaytsev qoidasi"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -3220,6 +3353,7 @@ const kimyo = {
           "text": "Polimerlanish reaksiyasi"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan, etilendan polietilen hosil bo'lishi."
     },
@@ -3244,6 +3378,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Olmos, grafit, karbin, fulleren va grafen'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Suvning kimyoviy formulasi qaysi javobda to‘g‘ri berilgan?» savolining to'g'ri javobi — H₂O. Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -3268,6 +3403,7 @@ const kimyo = {
           "text": "Mendeleyevning davriy jadvalidagi eng birinchi element qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Mendeleyevning davriy jadvalidagi eng birinchi element qaysi?» savolining to'g'ri javobi — Vodorod. Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -3292,6 +3428,7 @@ const kimyo = {
           "text": "Asetilen (etin) qaysi sinfga mansub va formulasi qanday?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«NaCl moddasining kundalik hayotdagi nomi nima?» savolining to'g'ri javobi — Osh tuzi. Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -3316,6 +3453,7 @@ const kimyo = {
           "text": "pH qiymati 7 ga teng bo‘lgan eritma qanday xususiyatga ega?"
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "«pH qiymati 7 ga teng bo‘lgan eritma qanday xususiyatga ega?» savolining to'g'ri javobi — Neytral. pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -3340,6 +3478,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Normal sharoitda (n.sh.) har qanday gazning 1 moli qancha hajmni egallaydi?» savolining to'g'ri javobi — 22.4 litr. Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -3364,6 +3503,7 @@ const kimyo = {
           "text": "Kimyoda 'Karbon kislotalarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Avogadro doimiysi (soni) qanchaga teng?» savolining to'g'ri javobi — 6.02 · 10²³ ta zarracha/mol. 1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     },
@@ -3388,6 +3528,7 @@ const kimyo = {
           "text": "Kislorod gazining (O₂) nisbiy molekulyar massasi qanchaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Kislorod gazining (O₂) nisbiy molekulyar massasi qanchaga teng?» savolining to'g'ri javobi — 32. Mr(O₂) = 16 · 2 = 32."
     },
@@ -3412,6 +3553,7 @@ const kimyo = {
           "text": "Suvning (H₂O) nisbiy molekulyar massasi qanchaga teng?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Suvning (H₂O) nisbiy molekulyar massasi qanchaga teng?» savolining to'g'ri javobi — 18. Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -3436,6 +3578,7 @@ const kimyo = {
           "text": "Asetilen (etin) qaysi sinfga mansub va formulasi qanday?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Oltinugurt (VI) oksidi (SO₃) ning molyar massasi qancha?» savolining to'g'ri javobi — 80 g/mol. M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -3460,6 +3603,7 @@ const kimyo = {
           "text": "Alkenlarga xos bo'lgan birikish reaksiyalarida vodorod atomi vodorodi ko'p uglerodga birikishi qaysi qoida?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Sulfat kislotaning (H₂SO₄) nisbiy molekulyar massasi qancha?» savolining to'g'ri javobi — 98. Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -3484,6 +3628,7 @@ const kimyo = {
           "text": "Atom yadrosida qanday elementar zarrachalar mavjud?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Atom yadrosida qanday elementar zarrachalar mavjud?» savolining to'g'ri javobi — Protonlar va neytronlar. Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
     },
@@ -3508,6 +3653,7 @@ const kimyo = {
           "text": "Sulfat kislotaning (H₂SO₄) nisbiy molekulyar massasi qancha?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Elementning atom raqami (tartib raqami) nimani bildiradi?» savolining to'g'ri javobi — Yadrodagi protonlar sonini (va neytral atomdagi elektronlar sonini). Tartib raqami = zaryad = protonlar soni = elektronlar soni."
     },
@@ -3532,6 +3678,7 @@ const kimyo = {
           "text": "Bir xil tarkib va molekulyar massaga ega, lekin tuzilishi va xossalari har xil moddalar nima deyiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Davriy sistemada bitta guruhda yuqoridan pastga tushgan sari metallik xossasi qanday o'zgaradi?» savolining to'g'ri javobi — Ortadi (kuchayadi). Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
     },
@@ -3556,6 +3703,7 @@ const kimyo = {
           "text": "Kimyoda 'Uglerod (II) oksidi (CO, is gazi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Davriy sistemada bitta davrda chapdan o'ngga borgan sari elektromanfiylik qanday o'zgaradi?» savolining to'g'ri javobi — Ortadi. Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -3580,6 +3728,7 @@ const kimyo = {
           "text": "Dunyodagi eng yuqori elektromanfiylikka ega bo'lgan kimyoviy element qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Dunyodagi eng yuqori elektromanfiylikka ega bo'lgan kimyoviy element qaysi?» savolining to'g'ri javobi — Ftor (F). Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
     },
@@ -3604,6 +3753,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Eng yengil inert (olijanob) gaz qaysi?» savolining to'g'ri javobi — Geliy (He). Geliy davriy sistemaning VIII-A guruhidagi eng yengil inert gazdir."
     },
@@ -3628,6 +3778,7 @@ const kimyo = {
           "text": "Turli xil nometall atomlari o'rtasida umumiy elektron jufti hisobiga hosil bo'ladigan bog'lanish nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Turli xil nometall atomlari o'rtasida umumiy elektron jufti hisobiga hosil bo'ladigan bog'lanish nima deyiladi?» savolining to'g'ri javobi — Kovalent qutbli bog'lanish (masalan: HCl, H₂O). Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
     },
@@ -3652,6 +3803,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bir xil nometall atomlari o'rtasida vujudga keladigan bog'lanish qaysi?» savolining to'g'ri javobi — Kovalent qutbsiz bog'lanish (masalan: O₂, H₂, N₂). Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
     },
@@ -3676,6 +3828,7 @@ const kimyo = {
           "text": "Suvning (H₂O) nisbiy molekulyar massasi qanchaga teng?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Metall va nometall atomlari o'rtasida elektron o'tishi natijasida hosil bo'ladigan bog' qanday ataladi?» savolining to'g'ri javobi — Ion bog'lanish (masalan: NaCl, KBr). Zaryadlangan ionlar orasidagi elektrostatik tortishish ion bog'dir."
     },
@@ -3700,6 +3853,7 @@ const kimyo = {
           "text": "Suvning (H₂O) nisbiy molekulyar massasi qanchaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Kislota eritmalarida lakmus indikatorining rangi qanday rangga o'zgaradi?» savolining to'g'ri javobi — Qizil rangga. Kislotada lakmus qizaradi, ishqorda ko'karadi."
     },
@@ -3724,6 +3878,7 @@ const kimyo = {
           "text": "Vodorod laboratoriyada Kipp apparatida qaysi moddalar ta'sirlashuvidan olinadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ishqoriy (asosli) muhitda fenolftalein indikatori qanday rang beradi?» savolining to'g'ri javobi — Malina (to'q pushti) rangga. Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
     },
@@ -3748,6 +3903,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aldegid guruhi (-CHO)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Kislota va asosning o'zaro ta'sirlashib, tuz va suv hosil qilish reaksiyasi nima deyiladi?» savolining to'g'ri javobi — Neytrallanish reaksiyasi. Kislota + Asos = Tuz + Suv neytrallanish deyiladi."
     },
@@ -3772,6 +3928,7 @@ const kimyo = {
           "text": "Karbamid (mochevina) qanday kimyoviy formulaga ega?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Karbamid (mochevina) qanday kimyoviy formulaga ega?» savolining to'g'ri javobi — (NH₂)₂CO. Karbamid eng mashhur azotli mineral o'g'itdir."
     },
@@ -3796,6 +3953,7 @@ const kimyo = {
           "text": "Le-Shatelye prinsipi nimani tushuntiradi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Ohaktosh, bo'r va marmarning asosiy kimyoviy tarkibi qaysi moddadan iborat?» savolining to'g'ri javobi — Kalsiy karbonat (CaCO₃). CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
     },
@@ -3820,6 +3978,7 @@ const kimyo = {
           "text": "Vodorod laboratoriyada Kipp apparatida qaysi moddalar ta'sirlashuvidan olinadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«So'ndirilmagan ohakning kimyoviy formulasi qaysi?» savolining to'g'ri javobi — CaO (kalsiy oksid). CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
     },
@@ -3844,6 +4003,7 @@ const kimyo = {
           "text": "Kimyoda 'Aminokislotalar'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Marmar kislota bilan ta'sirlashganda qaysi gaz ajralib chiqadi?» savolining to'g'ri javobi — Karbonat angidrid (CO₂). CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
     },
@@ -3868,6 +4028,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz'?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«Organik kimyo asosan qaysi kimyoviy element birikmalarini o'rganadi?» savolining to'g'ri javobi — Uglerod (C). Organik kimyo uglerod birikmalari kimyosidir."
     },
@@ -3892,6 +4053,7 @@ const kimyo = {
           "text": "Kimyoda 'Gips (Kalsiy sulfat dihidrat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Organik moddalarda uglerod atomi doimo necha valentli bo'ladi?» savolining to'g'ri javobi — IV (to'rt) valentli. Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
     },
@@ -3916,6 +4078,7 @@ const kimyo = {
           "text": "To'yingan uglevodorodlar (alkanlar) ning umumiy formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«To'yingan uglevodorodlar (alkanlar) ning umumiy formulasi qaysi?» savolining to'g'ri javobi — C_n H_{2n+2}. Alkanlar parafinlar deb ham ataladi."
     },
@@ -3940,6 +4103,7 @@ const kimyo = {
           "text": "Tabiiy gazning asosiy tarkibiy qismini (90-95%) qaysi gaz tashkil etadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Tabiiy gazning asosiy tarkibiy qismini (90-95%) qaysi gaz tashkil etadi?» savolining to'g'ri javobi — Metan (CH₄). Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
     },
@@ -3964,6 +4128,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Etilen (eten) uglevodorodlarining qaysi sinfiga mansub?» savolining to'g'ri javobi — Alkenlar (C_n H_{2n}, qo'shbog'li). Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
     },
@@ -3988,6 +4153,7 @@ const kimyo = {
           "text": "Kimyoda 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Asetilen (etin) qaysi sinfga mansub va formulasi qanday?» savolining to'g'ri javobi — Alkinlar (C₂H₂, uchbog'li). Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
     },
@@ -4012,6 +4178,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Benzolning kimyoviy formulasi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — C₆H₆ (Aromatik uglevodorod). Kekule taklif qilgan halqali aromatik benzol C₆H₆."
     },
@@ -4036,6 +4203,7 @@ const kimyo = {
           "text": "Tibbiyotda spirt sifatida ishlatiladigan etil spirti (etanol) formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Tibbiyotda spirt sifatida ishlatiladigan etil spirti (etanol) formulasi qaysi?» savolining to'g'ri javobi — C₂H₅OH. Etanol — C₂H₅OH."
     },
@@ -4060,6 +4228,7 @@ const kimyo = {
           "text": "Kimyoda 'Murakkab efirlar (esterlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Zaharli bo'lib, ko'rish nervini falajlovchi yog'och spirti qaysi?» savolining to'g'ri javobi — Metanol (CH₃OH). Metanol o'ta kuchli zahar hisoblanadi."
     },
@@ -4084,6 +4253,7 @@ const kimyo = {
           "text": "Kislota va asosning o'zaro ta'sirlashib, tuz va suv hosil qilish reaksiyasi nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Sirka kislotaning kimyoviy formulasi qaysi javobda to'g'ri berilgan?» savolining to'g'ri javobi — CH₃COOH (Etan kislota). Sirka kislota kundalik hayotda 70% esensiya yoki 9% sirka sifatida qo'llanadi."
     },
@@ -4108,6 +4278,7 @@ const kimyo = {
           "text": "Glukoza (uzum shakari) ning kimyoviy formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Glukoza (uzum shakari) ning kimyoviy formulasi qaysi?» savolining to'g'ri javobi — C₆H₁₂O₆. Glukoza eng muhim monosaxariddir."
     },
@@ -4132,6 +4303,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kimyoda 'Xlorid kislota (HCl, tuz kislotasi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota. Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -4156,6 +4328,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota'?» savolining to'g'ri javobi — Xlorid kislota (HCl). Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
     },
@@ -4180,6 +4353,7 @@ const kimyo = {
           "text": "Termokimyoviy reaksiyalarda issiqlik ajralib chiqishi bilan boradigan reaksiyalar qanday ataladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kimyoda 'Sulfat kislota (H₂SO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota. Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -4204,6 +4378,7 @@ const kimyo = {
           "text": "Metallarning korroziyasi nima?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota'?» savolining to'g'ri javobi — Sulfat kislota (H₂SO₄). Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -4228,6 +4403,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosforning allotropik shakllari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kimyoda 'Nitrat kislota (HNO₃)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota. Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -4252,6 +4428,7 @@ const kimyo = {
           "text": "Kimyoda 'Xlorid kislota (HCl, tuz kislotasi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota'?» savolining to'g'ri javobi — Nitrat kislota (HNO₃). Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
     },
@@ -4276,6 +4453,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosfat (ortofosfat) kislota (H₃PO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Fosfat (ortofosfat) kislota (H₃PO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota. Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -4300,6 +4478,7 @@ const kimyo = {
           "text": "To'yingan uglevodorodlar (alkanlar) ning umumiy formulasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota'?» savolining to'g'ri javobi — Fosfat kislota (H₃PO₄). Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
     },
@@ -4324,6 +4503,7 @@ const kimyo = {
           "text": "Kimyoda 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz. Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -4348,6 +4528,7 @@ const kimyo = {
           "text": "Organik kimyo asosan qaysi kimyoviy element birikmalarini o'rganadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz'?» savolining to'g'ri javobi — Karbonat angidrid (CO₂). Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
     },
@@ -4372,6 +4553,7 @@ const kimyo = {
           "text": "Kimyoda 'Uglerod (II) oksidi (CO, is gazi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Uglerod (II) oksidi (CO, is gazi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz. Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -4396,6 +4578,7 @@ const kimyo = {
           "text": "Kislorod gazining (O₂) nisbiy molekulyar massasi qanchaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz'?» savolining to'g'ri javobi — Is gazi (CO). Bu ta'rif 'Uglerod (II) oksidi (CO, is gazi)'ga tegishli."
     },
@@ -4420,6 +4603,7 @@ const kimyo = {
           "text": "Ishqoriy (asosli) muhitda fenolftalein indikatori qanday rang beradi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kimyoda 'Ammiak (NH₃)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz. Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -4444,6 +4628,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz'?» savolining to'g'ri javobi — Ammiak (NH₃). Bu ta'rif 'Ammiak (NH₃)'ga tegishli."
     },
@@ -4468,6 +4653,7 @@ const kimyo = {
           "text": "Kimyoda 'Vodorod sulfid (H₂S)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Vodorod sulfid (H₂S)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz. Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -4492,6 +4678,7 @@ const kimyo = {
           "text": "Dunyodagi eng yuqori elektromanfiylikka ega bo'lgan kimyoviy element qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz'?» savolining to'g'ri javobi — Vodorod sulfid (H₂S). Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
     },
@@ -4516,6 +4703,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kimyoda 'Ichimlik sodasi (Natriy gidrokarbonat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi. Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -4540,6 +4728,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi'?» savolining to'g'ri javobi — Ichimlik sodasi (NaHCO₃). Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
     },
@@ -4564,6 +4753,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kimyoda 'Kalsinirlangan soda (Natriy karbonat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi. Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -4588,6 +4778,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi'?» savolining to'g'ri javobi — Kalsinirlangan soda (Na₂CO₃). Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
     },
@@ -4612,6 +4803,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aldegid guruhi (-CHO)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kimyoda 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor. Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -4636,6 +4828,7 @@ const kimyo = {
           "text": "Etilen (eten) uglevodorodlarining qaysi sinfiga mansub?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor'?» savolining to'g'ri javobi — Kaustik soda (NaOH). Bu ta'rif 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ga tegishli."
     },
@@ -4660,6 +4853,7 @@ const kimyo = {
           "text": "Kimyoda 'Gips (Kalsiy sulfat dihidrat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Gips (Kalsiy sulfat dihidrat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi. Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -4684,6 +4878,7 @@ const kimyo = {
           "text": "So'ndirilmagan ohakning kimyoviy formulasi qaysi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi'?» savolining to'g'ri javobi — Gips (CaSO₄ · 2H₂O). Bu ta'rif 'Gips (Kalsiy sulfat dihidrat)'ga tegishli."
     },
@@ -4708,6 +4903,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kimyoda 'Pirit (Temir kolchedani)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral. Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -4732,6 +4928,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral'?» savolining to'g'ri javobi — Pirit (FeS₂). Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
     },
@@ -4756,6 +4953,7 @@ const kimyo = {
           "text": "Kimyoda 'Gematit (Qizil temirtosh)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Gematit (Qizil temirtosh)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi. Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -4780,6 +4978,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi'?» savolining to'g'ri javobi — Gematit (Fe₂O₃). Bu ta'rif 'Gematit (Qizil temirtosh)'ga tegishli."
     },
@@ -4804,6 +5003,7 @@ const kimyo = {
           "text": "Kimyoda 'Sulfat kislota (H₂SO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kimyoda 'Magnetit (Magnitli temirtosh)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi. Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -4828,6 +5028,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi'?» savolining to'g'ri javobi — Magnetit (Fe₃O₄). Bu ta'rif 'Magnetit (Magnitli temirtosh)'ga tegishli."
     },
@@ -4852,6 +5053,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kimyoda 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi. Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -4876,6 +5078,7 @@ const kimyo = {
           "text": "Kimyoda 'Aminlarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi'?» savolining to'g'ri javobi — Mis kuporosi (CuSO₄ · 5H₂O). Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
     },
@@ -4900,6 +5103,7 @@ const kimyo = {
           "text": "Kimyoda 'Margantsovka (Kaliy permanganat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Margantsovka (Kaliy permanganat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita. Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -4924,6 +5128,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosforning allotropik shakllari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita'?» savolining to'g'ri javobi — Kaliy permanganat (KMnO₄). Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
     },
@@ -4948,6 +5153,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng yengil metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Eng yengil metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li). Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -4972,6 +5178,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)'?» savolining to'g'ri javobi — Litiy (Li). Bu ta'rif 'Eng yengil metall'ga tegishli."
     },
@@ -4996,6 +5203,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kimyoda 'Eng og'ir (eng zich) metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os). Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -5020,6 +5228,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)'?» savolining to'g'ri javobi — Osmiy (Os). Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
     },
@@ -5044,6 +5253,7 @@ const kimyo = {
           "text": "Zaharli bo'lib, ko'rish nervini falajlovchi yog'och spirti qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kimyoda 'Eng qattiq metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr). Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -5068,6 +5278,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)'?» savolining to'g'ri javobi — Xrom (Cr). Bu ta'rif 'Eng qattiq metall'ga tegishli."
     },
@@ -5092,6 +5303,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kimyoda 'Eng oson eriydigan va xona haroratida suyuq metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg). Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -5116,6 +5328,7 @@ const kimyo = {
           "text": "Organik birikmalarning kimyoviy tuzilish nazariyasini kim yaratgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)'?» savolining to'g'ri javobi — Simob (Hg). Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
     },
@@ -5140,6 +5353,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kimyoda 'Eng qiyin eriydigan (o'tga chidamli) metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W). Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -5164,6 +5378,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)'?» savolining to'g'ri javobi — Volfram (W). Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
     },
@@ -5188,6 +5403,7 @@ const kimyo = {
           "text": "Kimyoda 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag). Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -5212,6 +5428,7 @@ const kimyo = {
           "text": "Mendeleyevning davriy jadvalidagi eng birinchi element qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)'?» savolining to'g'ri javobi — Kumush (Ag). Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
     },
@@ -5236,6 +5453,7 @@ const kimyo = {
           "text": "Kislorod laboratoriyada vodorod peroksid (H₂O₂) parchalanishidan qaysi katalizator ishtirokida olinadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kimyoda 'Uglerodning allotropik shakl o'zgarishlari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Olmos, grafit, karbin, fulleren va grafen. Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -5260,6 +5478,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Olmos, grafit, karbin, fulleren va grafen'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Olmos, grafit, karbin, fulleren va grafen'?» savolining to'g'ri javobi — Olmos, grafit, fulleren. Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -5284,6 +5503,7 @@ const kimyo = {
           "text": "Kimyoda 'Kislorodning allotropik shakl o'zgarishlari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Kislorodning allotropik shakl o'zgarishlari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃). Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -5308,6 +5528,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)'?» savolining to'g'ri javobi — Kislorod (O₂) va Ozon (O₃). Bu ta'rif 'Kislorodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -5332,6 +5553,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosforning allotropik shakllari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Fosforning allotropik shakllari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor. Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -5356,6 +5578,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor'?» savolining to'g'ri javobi — Oq, qizil va qora fosfor. Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
     },
@@ -5380,6 +5603,7 @@ const kimyo = {
           "text": "Kimyoda 'Spirtlarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Spirtlarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Gidroksil guruhi (-OH). Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -5404,6 +5628,7 @@ const kimyo = {
           "text": "Kimyoda 'Kalsinirlangan soda (Natriy karbonat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Gidroksil guruhi (-OH)'?» savolining to'g'ri javobi — Gidroksil guruhi (-OH). Bu ta'rif 'Spirtlarning funksional guruhi'ga tegishli."
     },
@@ -5428,6 +5653,7 @@ const kimyo = {
           "text": "Kimyoda 'Saxaroza (oshxona shakari)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kimyoda 'Aldegidlarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Aldegid guruhi (-CHO). Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -5452,6 +5678,7 @@ const kimyo = {
           "text": "Kislorod laboratoriyada vodorod peroksid (H₂O₂) parchalanishidan qaysi katalizator ishtirokida olinadi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aldegid guruhi (-CHO)'?» savolining to'g'ri javobi — Aldegid guruhi (-CHO). Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
     },
@@ -5476,6 +5703,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kimyoda 'Karbon kislotalarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Karboksil guruhi (-COOH). Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -5500,6 +5728,7 @@ const kimyo = {
           "text": "Elementning atom raqami (tartib raqami) nimani bildiradi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Karboksil guruhi (-COOH)'?» savolining to'g'ri javobi — Karboksil guruhi (-COOH). Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
     },
@@ -5524,6 +5753,7 @@ const kimyo = {
           "text": "Tabiiy gazning asosiy tarkibiy qismini (90-95%) qaysi gaz tashkil etadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Kimyoda 'Aminlarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Amin guruhi (-NH₂). Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -5548,6 +5778,7 @@ const kimyo = {
           "text": "Kimyoda 'Nitrat kislota (HNO₃)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Amin guruhi (-NH₂)'?» savolining to'g'ri javobi — Amin guruhi (-NH₂). Bu ta'rif 'Aminlarning funksional guruhi'ga tegishli."
     },
@@ -5572,6 +5803,7 @@ const kimyo = {
           "text": "Kimyoda 'Murakkab efirlar (esterlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Murakkab efirlar (esterlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar. Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -5596,6 +5828,7 @@ const kimyo = {
           "text": "Alkenlarga xos bo'lgan birikish reaksiyalarida vodorod atomi vodorodi ko'p uglerodga birikishi qaysi qoida?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar'?» savolining to'g'ri javobi — Murakkab efirlar (Esterlar). Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
     },
@@ -5620,6 +5853,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Kimyoda 'Oddiy efirlar (efirlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R'). Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -5644,6 +5878,7 @@ const kimyo = {
           "text": "Kimyoda 'Saxaroza (oshxona shakari)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')'?» savolining to'g'ri javobi — Oddiy efirlar. Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -5668,6 +5903,7 @@ const kimyo = {
           "text": "Kimyoda 'Aminokislotalar'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Aminokislotalar'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar. Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -5692,6 +5928,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar'?» savolining to'g'ri javobi — Aminokislotalar. Bu ta'rif 'Aminokislotalar'ga tegishli."
     },
@@ -5716,6 +5953,7 @@ const kimyo = {
           "text": "Kimyoda 'Oqsillar (Polipeptidlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Kimyoda 'Oqsillar (Polipeptidlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar. Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -5740,6 +5978,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar'?» savolining to'g'ri javobi — Oqsillar. Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -5764,6 +6003,7 @@ const kimyo = {
           "text": "Kimyoda 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kimyoda 'Kraxmal va Sellyuloza (kletchatka)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar. Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -5788,6 +6028,7 @@ const kimyo = {
           "text": "Organik birikmalarning kimyoviy tuzilish nazariyasini kim yaratgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: '(C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar'?» savolining to'g'ri javobi — Kraxmal va Sellyuloza. Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -5812,6 +6053,7 @@ const kimyo = {
           "text": "Tabiiy gazning asosiy tarkibiy qismini (90-95%) qaysi gaz tashkil etadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kimyoda 'Saxaroza (oshxona shakari)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?» savolining to'g'ri javobi — C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid. Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -5836,6 +6078,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid'?» savolining to'g'ri javobi — Saxaroza. Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -5860,6 +6103,7 @@ const kimyo = {
           "text": "Kimyoda 'Uglerod (II) oksidi (CO, is gazi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Gazlarning vodorodga nisbatan zichligi qanday formula bilan topiladi?» savolining to'g'ri javobi — D(H₂) = M / 2. Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
     },
@@ -5884,6 +6128,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Gazlarning havoga nisbatan zichligi qanday hisoblanadi?» savolining to'g'ri javobi — D(havo) = M / 29. Havoning o'rtacha molyar massasi 29 g/mol ga teng."
     },
@@ -5908,6 +6153,7 @@ const kimyo = {
           "text": "Atom yadrosida qanday elementar zarrachalar mavjud?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Kislorod laboratoriyada vodorod peroksid (H₂O₂) parchalanishidan qaysi katalizator ishtirokida olinadi?» savolining to'g'ri javobi — Marganes (IV) oksidi (MnO₂). 2H₂O₂ =(MnO₂)=> 2H₂O + O₂↑ reaksiyasida MnO₂ katalizator."
     },
@@ -5932,6 +6178,7 @@ const kimyo = {
           "text": "Vodorod laboratoriyada Kipp apparatida qaysi moddalar ta'sirlashuvidan olinadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Vodorod laboratoriyada Kipp apparatida qaysi moddalar ta'sirlashuvidan olinadi?» savolining to'g'ri javobi — Rux (Zn) va xlorid kislota (HCl). Zn + 2HCl = ZnCl₂ + H₂↑."
     },
@@ -5956,6 +6203,7 @@ const kimyo = {
           "text": "Reaksiyaning tezligini o'zgartiruvchi, lekin o'zi sarflanmaydigan moddalar nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Reaksiyaning tezligini o'zgartiruvchi, lekin o'zi sarflanmaydigan moddalar nima deyiladi?» savolining to'g'ri javobi — Katalizatorlar. Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -5980,6 +6228,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Kimyoviy reaksiyalarni sekinlashtiruvchi moddalar nima deb ataladi?» savolining to'g'ri javobi — Ingibitorlar. Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -6004,6 +6253,7 @@ const kimyo = {
           "text": "Le-Shatelye prinsipi nimani tushuntiradi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«Le-Shatelye prinsipi nimani tushuntiradi?» savolining to'g'ri javobi — Tashqi ta'sir ko'rsatilganda kimyoviy muvozanatning shu ta'sirni kamaytiradigan tomonga siljishini. Muvozanatdagi tizimga tashqi bosim, harorat yoki konsentratsiya ta'siri qoidasi."
     },
@@ -6028,6 +6278,7 @@ const kimyo = {
           "text": "To'yingan uglevodorodlar (alkanlar) ning umumiy formulasi qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Harorat har 10 °C ga ko'tarilganda reaksiya tezligining 2-4 marta oshishi qaysi qoida?» savolining to'g'ri javobi — Vant-Goff qoidasi. Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -6052,6 +6303,7 @@ const kimyo = {
           "text": "Turli xil nometall atomlari o'rtasida umumiy elektron jufti hisobiga hosil bo'ladigan bog'lanish nima deyiladi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Termokimyoviy reaksiyalarda issiqlik ajralib chiqishi bilan boradigan reaksiyalar qanday ataladi?» savolining to'g'ri javobi — Ekzotermik reaksiyalar (+Q). Ekzotermik reaksiyalarda energiya ajraladi (yonish reaksiyalari)."
     },
@@ -6076,6 +6328,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Gidroksil guruhi (-OH)'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Issiqlik yutilishi bilan boradigan reaksiyalar nima deb ataladi?» savolining to'g'ri javobi — Endotermik reaksiyalar (-Q). Endotermik reaksiyalarda energiya yutiladi (parchalanish jarayonlari)."
     },
@@ -6100,6 +6353,7 @@ const kimyo = {
           "text": "Suvda eriganda yoki suyuqlanganda elektr tokini o'tkazadigan moddalar nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Suvda eriganda yoki suyuqlanganda elektr tokini o'tkazadigan moddalar nima?» savolining to'g'ri javobi — Elektrolitlar (kislotalar, asoslar, tuzlar). Elektrolitlar ionlarga ajraladi."
     },
@@ -6124,6 +6378,7 @@ const kimyo = {
           "text": "Metallarning korroziyasi nima?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Quyidagilardan qaysi biri noelektrolit hisoblanadi?» savolining to'g'ri javobi — Shakar (saxaroza) va glukoza eritmasi. Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
     },
@@ -6148,6 +6403,7 @@ const kimyo = {
           "text": "Eritmaning foiz konsentratsiyasi (massa ulushi, w) qanday topiladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«Eritmaning foiz konsentratsiyasi (massa ulushi, w) qanday topiladi?» savolining to'g'ri javobi — w = (m(erigan modda) / m(eritma)) · 100%. Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
     },
@@ -6172,6 +6428,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng yengil metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Eritmaning molyar konsentratsiyasi (C_M) ning o'lchov birligi nima?» savolining to'g'ri javobi — mol/litr. C_M = n / V (mol/l)."
     },
@@ -6196,6 +6453,7 @@ const kimyo = {
           "text": "Kislorod laboratoriyada vodorod peroksid (H₂O₂) parchalanishidan qaysi katalizator ishtirokida olinadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Oksidlovchi modda reaksiya davomida nima qiladi?» savolining to'g'ri javobi — Elektron biriktirib oladi va o'zi qaytariladi. Oksidlovchi elektron qabul qiluvchidir."
     },
@@ -6220,6 +6478,7 @@ const kimyo = {
           "text": "Harorat har 10 °C ga ko'tarilganda reaksiya tezligining 2-4 marta oshishi qaysi qoida?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Qaytaruvchi modda reaksiya davomida nima qiladi?» savolining to'g'ri javobi — Elektron beradi va o'zi oksidlanadi. Qaytaruvchi elektron beruvchidir."
     },
@@ -6244,6 +6503,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Metallarning korroziyasi nima?» savolining to'g'ri javobi — Atrof-muhit ta'sirida metallarning o'z-o'zidan emirilishi va oksidlanishi (zanglash). Temirning zanglashi korroziyaga misoldir."
     },
@@ -6268,6 +6528,7 @@ const kimyo = {
           "text": "Quyidagilardan qaysi biri noelektrolit hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Choyan va po'lat nimalarning qotishmasi hisoblanadi?» savolining to'g'ri javobi — Temir va uglerodning qotishmasi. Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
     },
@@ -6292,6 +6553,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Karboksil guruhi (-COOH)'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bronza qanday qotishma hisoblanadi?» savolining to'g'ri javobi — Mis va qalay qotishmasi. Bronza — mis va qalay asosidagi qotishma."
     },
@@ -6316,6 +6578,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Latun (jez) qanday qotishma?» savolining to'g'ri javobi — Mis va rux qotishmasi. Latun mis va ruxning qotishmasidir."
     },
@@ -6340,6 +6603,7 @@ const kimyo = {
           "text": "Le-Shatelye prinsipi nimani tushuntiradi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Organik birikmalarning kimyoviy tuzilish nazariyasini kim yaratgan?» savolining to'g'ri javobi — A. M. Butlerov (1861-yilda). Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
     },
@@ -6364,6 +6628,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Bir xil tarkib va molekulyar massaga ega, lekin tuzilishi va xossalari har xil moddalar nima deyiladi?» savolining to'g'ri javobi — Izomerlar. Izomeriya organik kimyoning eng muhim hodisasidir."
     },
@@ -6388,6 +6653,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Tuzilishi va xossalari o'xshash, lekin bir yoki bir necha -CH₂- (gomologik farq) guruhiga farq qiluvchi moddalar nima deyiladi?» savolining to'g'ri javobi — Gomologlar. Masalan, metan, etan, propan gomologik qatordir."
     },
@@ -6412,6 +6678,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar'?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "«Alkenlarga xos bo'lgan birikish reaksiyalarida vodorod atomi vodorodi ko'p uglerodga birikishi qaysi qoida?» savolining to'g'ri javobi — Markovnikov qoidasi. Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -6436,6 +6703,7 @@ const kimyo = {
           "text": "Organik birikmalarning kimyoviy tuzilish nazariyasini kim yaratgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«Monamer molekulalarining o'zaro birikib yuqori molekulali birikma (polimer) hosil qilish reaksiyasi nima?» savolining to'g'ri javobi — Polimerlanish reaksiyasi. Masalan, etilendan polietilen hosil bo'lishi."
     },
@@ -6460,6 +6728,7 @@ const kimyo = {
           "text": "Glukoza (uzum shakari) ning kimyoviy formulasi qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -6484,6 +6753,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -6508,6 +6778,7 @@ const kimyo = {
           "text": "Qaytaruvchi modda reaksiya davomida nima qiladi?"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -6532,6 +6803,7 @@ const kimyo = {
           "text": "Ishqoriy (asosli) muhitda fenolftalein indikatori qanday rang beradi?"
         }
       ],
+      "correct": "C",
       "xp": 300,
       "explanation": "pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -6556,6 +6828,7 @@ const kimyo = {
           "text": "Kimyoda 'Oqsillar (Polipeptidlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -6580,6 +6853,7 @@ const kimyo = {
           "text": "Sulfat kislotaning (H₂SO₄) nisbiy molekulyar massasi qancha?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     },
@@ -6604,6 +6878,7 @@ const kimyo = {
           "text": "Metallarning korroziyasi nima?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Mr(O₂) = 16 · 2 = 32."
     },
@@ -6628,6 +6903,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -6652,6 +6928,7 @@ const kimyo = {
           "text": "Choyan va po'lat nimalarning qotishmasi hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -6676,6 +6953,7 @@ const kimyo = {
           "text": "Sulfat kislotaning (H₂SO₄) nisbiy molekulyar massasi qancha?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -6700,6 +6978,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
     },
@@ -6724,6 +7003,7 @@ const kimyo = {
           "text": "Elementning atom raqami (tartib raqami) nimani bildiradi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tartib raqami = zaryad = protonlar soni = elektronlar soni."
     },
@@ -6748,6 +7028,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
     },
@@ -6772,6 +7053,7 @@ const kimyo = {
           "text": "Kimyoda 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -6796,6 +7078,7 @@ const kimyo = {
           "text": "Oksidlovchi modda reaksiya davomida nima qiladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
     },
@@ -6820,6 +7103,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng oson eriydigan va xona haroratida suyuq metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Geliy davriy sistemaning VIII-A guruhidagi eng yengil inert gazdir."
     },
@@ -6844,6 +7128,7 @@ const kimyo = {
           "text": "Kimyoda 'Ammiak (NH₃)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
     },
@@ -6868,6 +7153,7 @@ const kimyo = {
           "text": "Kimyoda 'Ammiak (NH₃)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
     },
@@ -6892,6 +7178,7 @@ const kimyo = {
           "text": "Kimyoda 'Uglerod (II) oksidi (CO, is gazi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Zaryadlangan ionlar orasidagi elektrostatik tortishish ion bog'dir."
     },
@@ -6916,6 +7203,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng qiyin eriydigan (o'tga chidamli) metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kislotada lakmus qizaradi, ishqorda ko'karadi."
     },
@@ -6940,6 +7228,7 @@ const kimyo = {
           "text": "Turli xil nometall atomlari o'rtasida umumiy elektron jufti hisobiga hosil bo'ladigan bog'lanish nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
     },
@@ -6964,6 +7253,7 @@ const kimyo = {
           "text": "Ohaktosh, bo'r va marmarning asosiy kimyoviy tarkibi qaysi moddadan iborat?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kislota + Asos = Tuz + Suv neytrallanish deyiladi."
     },
@@ -6988,6 +7278,7 @@ const kimyo = {
           "text": "Karbamid (mochevina) qanday kimyoviy formulaga ega?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Karbamid eng mashhur azotli mineral o'g'itdir."
     },
@@ -7012,6 +7303,7 @@ const kimyo = {
           "text": "Ohaktosh, bo'r va marmarning asosiy kimyoviy tarkibi qaysi moddadan iborat?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
     },
@@ -7036,6 +7328,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
     },
@@ -7060,6 +7353,7 @@ const kimyo = {
           "text": "Organik moddalarda uglerod atomi doimo necha valentli bo'ladi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
     },
@@ -7084,6 +7378,7 @@ const kimyo = {
           "text": "Organik kimyo asosan qaysi kimyoviy element birikmalarini o'rganadi?"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Organik kimyo uglerod birikmalari kimyosidir."
     },
@@ -7108,6 +7403,7 @@ const kimyo = {
           "text": "Organik moddalarda uglerod atomi doimo necha valentli bo'ladi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
     },
@@ -7132,6 +7428,7 @@ const kimyo = {
           "text": "Kimyoda 'Kraxmal va Sellyuloza (kletchatka)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Alkanlar parafinlar deb ham ataladi."
     },
@@ -7156,6 +7453,7 @@ const kimyo = {
           "text": "Tabiiy gazning asosiy tarkibiy qismini (90-95%) qaysi gaz tashkil etadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
     },
@@ -7180,6 +7478,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
     },
@@ -7204,6 +7503,7 @@ const kimyo = {
           "text": "Gazlarning havoga nisbatan zichligi qanday hisoblanadi?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
     },
@@ -7228,6 +7528,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosforning allotropik shakllari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Kekule taklif qilgan halqali aromatik benzol C₆H₆."
     },
@@ -7252,6 +7553,7 @@ const kimyo = {
           "text": "Kimyoda 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Etanol — C₂H₅OH."
     },
@@ -7276,6 +7578,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosfat (ortofosfat) kislota (H₃PO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Metanol o'ta kuchli zahar hisoblanadi."
     },
@@ -7300,6 +7603,7 @@ const kimyo = {
           "text": "Sirka kislotaning kimyoviy formulasi qaysi javobda to'g'ri berilgan?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sirka kislota kundalik hayotda 70% esensiya yoki 9% sirka sifatida qo'llanadi."
     },
@@ -7324,6 +7628,7 @@ const kimyo = {
           "text": "Glukoza (uzum shakari) ning kimyoviy formulasi qaysi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Glukoza eng muhim monosaxariddir."
     },
@@ -7348,6 +7653,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -7372,6 +7678,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
     },
@@ -7396,6 +7703,7 @@ const kimyo = {
           "text": "Kimyoda 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -7420,6 +7728,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -7444,6 +7753,7 @@ const kimyo = {
           "text": "Avogadro doimiysi (soni) qanchaga teng?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -7468,6 +7778,7 @@ const kimyo = {
           "text": "Davriy sistemada bitta guruhda yuqoridan pastga tushgan sari metallik xossasi qanday o'zgaradi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
     },
@@ -7492,6 +7803,7 @@ const kimyo = {
           "text": "Kimyoda 'Karbon kislotalarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -7516,6 +7828,7 @@ const kimyo = {
           "text": "Termokimyoviy reaksiyalarda issiqlik ajralib chiqishi bilan boradigan reaksiyalar qanday ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
     },
@@ -7540,6 +7853,7 @@ const kimyo = {
           "text": "Metall va nometall atomlari o'rtasida elektron o'tishi natijasida hosil bo'ladigan bog' qanday ataladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -7564,6 +7878,7 @@ const kimyo = {
           "text": "Reaksiyaning tezligini o'zgartiruvchi, lekin o'zi sarflanmaydigan moddalar nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
     },
@@ -7588,6 +7903,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -7612,6 +7928,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosfat (ortofosfat) kislota (H₃PO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerod (II) oksidi (CO, is gazi)'ga tegishli."
     },
@@ -7636,6 +7953,7 @@ const kimyo = {
           "text": "Kimyoda 'Saxaroza (oshxona shakari)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -7660,6 +7978,7 @@ const kimyo = {
           "text": "Suvning kimyoviy formulasi qaysi javobda to‘g‘ri berilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Ammiak (NH₃)'ga tegishli."
     },
@@ -7684,6 +8003,7 @@ const kimyo = {
           "text": "Mendeleyevning davriy jadvalidagi eng birinchi element qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -7708,6 +8028,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng qiyin eriydigan (o'tga chidamli) metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
     },
@@ -7732,6 +8053,7 @@ const kimyo = {
           "text": "Kimyoda 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -7756,6 +8078,7 @@ const kimyo = {
           "text": "Quyidagilardan qaysi biri noelektrolit hisoblanadi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
     },
@@ -7780,6 +8103,7 @@ const kimyo = {
           "text": "Kimyoda 'Kalsinirlangan soda (Natriy karbonat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -7804,6 +8128,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
     },
@@ -7828,6 +8153,7 @@ const kimyo = {
           "text": "Kimyoda 'Kislorodning allotropik shakl o'zgarishlari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -7852,6 +8178,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ga tegishli."
     },
@@ -7876,6 +8203,7 @@ const kimyo = {
           "text": "Kislorod gazining (O₂) nisbiy molekulyar massasi qanchaga teng?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -7900,6 +8228,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Gips (Kalsiy sulfat dihidrat)'ga tegishli."
     },
@@ -7924,6 +8253,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -7948,6 +8278,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng oson eriydigan va xona haroratida suyuq metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
     },
@@ -7972,6 +8303,7 @@ const kimyo = {
           "text": "Kislorod laboratoriyada vodorod peroksid (H₂O₂) parchalanishidan qaysi katalizator ishtirokida olinadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -7996,6 +8328,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Gematit (Qizil temirtosh)'ga tegishli."
     },
@@ -8020,6 +8353,7 @@ const kimyo = {
           "text": "Kislota va asosning o'zaro ta'sirlashib, tuz va suv hosil qilish reaksiyasi nima deyiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -8044,6 +8378,7 @@ const kimyo = {
           "text": "Termokimyoviy reaksiyalarda issiqlik ajralib chiqishi bilan boradigan reaksiyalar qanday ataladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Magnetit (Magnitli temirtosh)'ga tegishli."
     },
@@ -8068,6 +8403,7 @@ const kimyo = {
           "text": "Kimyoda 'Pirit (Temir kolchedani)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -8092,6 +8428,7 @@ const kimyo = {
           "text": "Tuzilishi va xossalari o'xshash, lekin bir yoki bir necha -CH₂- (gomologik farq) guruhiga farq qiluvchi moddalar nima deyiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
     },
@@ -8116,6 +8453,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -8140,6 +8478,7 @@ const kimyo = {
           "text": "Oltinugurt (VI) oksidi (SO₃) ning molyar massasi qancha?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
     },
@@ -8164,6 +8503,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -8188,6 +8528,7 @@ const kimyo = {
           "text": "Atom yadrosida qanday elementar zarrachalar mavjud?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng yengil metall'ga tegishli."
     },
@@ -8212,6 +8553,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -8236,6 +8578,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
     },
@@ -8260,6 +8603,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng qattiq metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -8284,6 +8628,7 @@ const kimyo = {
           "text": "Kimyoda 'Kalsinirlangan soda (Natriy karbonat)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng qattiq metall'ga tegishli."
     },
@@ -8308,6 +8653,7 @@ const kimyo = {
           "text": "Kimyoda 'Sulfat kislota (H₂SO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -8332,6 +8678,7 @@ const kimyo = {
           "text": "Eritmaning foiz konsentratsiyasi (massa ulushi, w) qanday topiladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
     },
@@ -8356,6 +8703,7 @@ const kimyo = {
           "text": "Kimyoda 'Eng qiyin eriydigan (o'tga chidamli) metall'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -8380,6 +8728,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
     },
@@ -8404,6 +8753,7 @@ const kimyo = {
           "text": "Kimyoda 'Saxaroza (oshxona shakari)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -8428,6 +8778,7 @@ const kimyo = {
           "text": "Ohaktosh, bo'r va marmarning asosiy kimyoviy tarkibi qaysi moddadan iborat?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
     },
@@ -8452,6 +8803,7 @@ const kimyo = {
           "text": "Organik moddalarda uglerod atomi doimo necha valentli bo'ladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -8476,6 +8828,7 @@ const kimyo = {
           "text": "Eritmaning foiz konsentratsiyasi (massa ulushi, w) qanday topiladi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -8500,6 +8853,7 @@ const kimyo = {
           "text": "Kimyoda 'Aldegidlarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -8524,6 +8878,7 @@ const kimyo = {
           "text": "Elementning atom raqami (tartib raqami) nimani bildiradi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kislorodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -8548,6 +8903,7 @@ const kimyo = {
           "text": "Kimyoda 'Fosforning allotropik shakllari'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -8572,6 +8928,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
     },
@@ -8596,6 +8953,7 @@ const kimyo = {
           "text": "Organik moddalarda uglerod atomi doimo necha valentli bo'ladi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -8620,6 +8978,7 @@ const kimyo = {
           "text": "Kimyoda 'Saxaroza (oshxona shakari)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Spirtlarning funksional guruhi'ga tegishli."
     },
@@ -8644,6 +9003,7 @@ const kimyo = {
           "text": "Gazlarning vodorodga nisbatan zichligi qanday formula bilan topiladi?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -8668,6 +9028,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Aldegid guruhi (-CHO)'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
     },
@@ -8692,6 +9053,7 @@ const kimyo = {
           "text": "Kimyoda 'Sulfat kislota (H₂SO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -8716,6 +9078,7 @@ const kimyo = {
           "text": "Kimyoda 'Sulfat kislota (H₂SO₄)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
     },
@@ -8740,6 +9103,7 @@ const kimyo = {
           "text": "Ohaktosh, bo'r va marmarning asosiy kimyoviy tarkibi qaysi moddadan iborat?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -8764,6 +9128,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aminlarning funksional guruhi'ga tegishli."
     },
@@ -8788,6 +9153,7 @@ const kimyo = {
           "text": "Kimyoda 'Murakkab efirlar (esterlar)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -8812,6 +9178,7 @@ const kimyo = {
           "text": "pH qiymati 7 ga teng bo‘lgan eritma qanday xususiyatga ega?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
     },
@@ -8836,6 +9203,7 @@ const kimyo = {
           "text": "Kimyoda 'Pirit (Temir kolchedani)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -8860,6 +9228,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -8884,6 +9253,7 @@ const kimyo = {
           "text": "Atom yadrosida qanday elementar zarrachalar mavjud?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -8908,6 +9278,7 @@ const kimyo = {
           "text": "Kimyoda 'Vodorod sulfid (H₂S)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aminokislotalar'ga tegishli."
     },
@@ -8932,6 +9303,7 @@ const kimyo = {
           "text": "Mendeleyevning davriy jadvalidagi eng birinchi element qaysi?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -8956,6 +9328,7 @@ const kimyo = {
           "text": "Harorat har 10 °C ga ko'tarilganda reaksiya tezligining 2-4 marta oshishi qaysi qoida?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -8980,6 +9353,7 @@ const kimyo = {
           "text": "Kimyoda 'Karbon kislotalarning funksional guruhi'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -9004,6 +9378,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -9028,6 +9403,7 @@ const kimyo = {
           "text": "Kimyoda 'Saxaroza (oshxona shakari)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -9052,6 +9428,7 @@ const kimyo = {
           "text": "Choyan va po'lat nimalarning qotishmasi hisoblanadi?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -9076,6 +9453,7 @@ const kimyo = {
           "text": "Elementning atom raqami (tartib raqami) nimani bildiradi?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
     },
@@ -9100,6 +9478,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Olmos, grafit, karbin, fulleren va grafen'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Havoning o'rtacha molyar massasi 29 g/mol ga teng."
     },
@@ -9124,6 +9503,7 @@ const kimyo = {
           "text": "Kimyoda 'Gematit (Qizil temirtosh)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "2H₂O₂ =(MnO₂)=> 2H₂O + O₂↑ reaksiyasida MnO₂ katalizator."
     },
@@ -9148,6 +9528,7 @@ const kimyo = {
           "text": "Vodorod laboratoriyada Kipp apparatida qaysi moddalar ta'sirlashuvidan olinadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Zn + 2HCl = ZnCl₂ + H₂↑."
     },
@@ -9172,6 +9553,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -9196,6 +9578,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -9220,6 +9603,7 @@ const kimyo = {
           "text": "Le-Shatelye prinsipi nimani tushuntiradi?"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Muvozanatdagi tizimga tashqi bosim, harorat yoki konsentratsiya ta'siri qoidasi."
     },
@@ -9244,6 +9628,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -9268,6 +9653,7 @@ const kimyo = {
           "text": "Suvning kimyoviy formulasi qaysi javobda to‘g‘ri berilgan?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ekzotermik reaksiyalarda energiya ajraladi (yonish reaksiyalari)."
     },
@@ -9292,6 +9678,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Endotermik reaksiyalarda energiya yutiladi (parchalanish jarayonlari)."
     },
@@ -9316,6 +9703,7 @@ const kimyo = {
           "text": "Kimyoda 'Uglerod (II) oksidi (CO, is gazi)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Elektrolitlar ionlarga ajraladi."
     },
@@ -9340,6 +9728,7 @@ const kimyo = {
           "text": "Quyidagilardan qaysi biri noelektrolit hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
     },
@@ -9364,6 +9753,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
     },
@@ -9388,6 +9778,7 @@ const kimyo = {
           "text": "Karbamid (mochevina) qanday kimyoviy formulaga ega?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "C_M = n / V (mol/l)."
     },
@@ -9412,6 +9803,7 @@ const kimyo = {
           "text": "Oksidlovchi modda reaksiya davomida nima qiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Oksidlovchi elektron qabul qiluvchidir."
     },
@@ -9436,6 +9828,7 @@ const kimyo = {
           "text": "Qaytaruvchi modda reaksiya davomida nima qiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Qaytaruvchi elektron beruvchidir."
     },
@@ -9460,6 +9853,7 @@ const kimyo = {
           "text": "Metallarning korroziyasi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Temirning zanglashi korroziyaga misoldir."
     },
@@ -9484,6 +9878,7 @@ const kimyo = {
           "text": "Eng yengil inert (olijanob) gaz qaysi?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
     },
@@ -9508,6 +9903,7 @@ const kimyo = {
           "text": "Bronza qanday qotishma hisoblanadi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bronza — mis va qalay asosidagi qotishma."
     },
@@ -9532,6 +9928,7 @@ const kimyo = {
           "text": "Quyidagi ta'rif qaysi kimyoviy modda, element yoki tushunchaga tegishli: 'Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Latun mis va ruxning qotishmasidir."
     },
@@ -9556,6 +9953,7 @@ const kimyo = {
           "text": "Kimyoda 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ning ta'rifi yoki tavsifi qaysi javobda to'g'ri ko'rsatilgan?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
     },
@@ -9580,6 +9978,7 @@ const kimyo = {
           "text": "Harorat har 10 °C ga ko'tarilganda reaksiya tezligining 2-4 marta oshishi qaysi qoida?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Izomeriya organik kimyoning eng muhim hodisasidir."
     },
@@ -9604,6 +10003,7 @@ const kimyo = {
           "text": "Tuzilishi va xossalari o'xshash, lekin bir yoki bir necha -CH₂- (gomologik farq) guruhiga farq qiluvchi moddalar nima deyiladi?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Masalan, metan, etan, propan gomologik qatordir."
     },
@@ -9628,6 +10028,7 @@ const kimyo = {
           "text": "Latun (jez) qanday qotishma?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -9652,6 +10053,7 @@ const kimyo = {
           "text": "Monamer molekulalarining o'zaro birikib yuqori molekulali birikma (polimer) hosil qilish reaksiyasi nima?"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan, etilendan polietilen hosil bo'lishi."
     },
@@ -9676,6 +10078,7 @@ const kimyo = {
           "text": "Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -9700,6 +10103,7 @@ const kimyo = {
           "text": "Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -9724,6 +10128,7 @@ const kimyo = {
           "text": "Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -9748,6 +10153,7 @@ const kimyo = {
           "text": "pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
         }
       ],
+      "correct": "D",
       "xp": 300,
       "explanation": "pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -9772,6 +10178,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -9796,6 +10203,7 @@ const kimyo = {
           "text": "Mr(H₂O) = 1·2 + 16 = 18."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     },
@@ -9820,6 +10228,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Mr(O₂) = 16 · 2 = 32."
     },
@@ -9844,6 +10253,7 @@ const kimyo = {
           "text": "Mr(H₂O) = 1·2 + 16 = 18."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -9868,6 +10278,7 @@ const kimyo = {
           "text": "Organik kimyo uglerod birikmalari kimyosidir."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -9892,6 +10303,7 @@ const kimyo = {
           "text": "Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -9916,6 +10328,7 @@ const kimyo = {
           "text": "Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
     },
@@ -9940,6 +10353,7 @@ const kimyo = {
           "text": "Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Tartib raqami = zaryad = protonlar soni = elektronlar soni."
     },
@@ -9964,6 +10378,7 @@ const kimyo = {
           "text": "Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
     },
@@ -9988,6 +10403,7 @@ const kimyo = {
           "text": "Havoning o'rtacha molyar massasi 29 g/mol ga teng."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -10012,6 +10428,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
     },
@@ -10036,6 +10453,7 @@ const kimyo = {
           "text": "Masalan, metan, etan, propan gomologik qatordir."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Geliy davriy sistemaning VIII-A guruhidagi eng yengil inert gazdir."
     },
@@ -10060,6 +10478,7 @@ const kimyo = {
           "text": "Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
     },
@@ -10084,6 +10503,7 @@ const kimyo = {
           "text": "Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
     },
@@ -10108,6 +10528,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Aminokislotalar'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Zaryadlangan ionlar orasidagi elektrostatik tortishish ion bog'dir."
     },
@@ -10132,6 +10553,7 @@ const kimyo = {
           "text": "Kislotada lakmus qizaradi, ishqorda ko'karadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Kislotada lakmus qizaradi, ishqorda ko'karadi."
     },
@@ -10156,6 +10578,7 @@ const kimyo = {
           "text": "Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
     },
@@ -10180,6 +10603,7 @@ const kimyo = {
           "text": "Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kislota + Asos = Tuz + Suv neytrallanish deyiladi."
     },
@@ -10204,6 +10628,7 @@ const kimyo = {
           "text": "Karbamid eng mashhur azotli mineral o'g'itdir."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Karbamid eng mashhur azotli mineral o'g'itdir."
     },
@@ -10228,6 +10653,7 @@ const kimyo = {
           "text": "CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
     },
@@ -10252,6 +10678,7 @@ const kimyo = {
           "text": "CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
     },
@@ -10276,6 +10703,7 @@ const kimyo = {
           "text": "CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
     },
@@ -10300,6 +10728,7 @@ const kimyo = {
           "text": "Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Organik kimyo uglerod birikmalari kimyosidir."
     },
@@ -10324,6 +10753,7 @@ const kimyo = {
           "text": "Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
     },
@@ -10348,6 +10778,7 @@ const kimyo = {
           "text": "Alkanlar parafinlar deb ham ataladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Alkanlar parafinlar deb ham ataladi."
     },
@@ -10372,6 +10803,7 @@ const kimyo = {
           "text": "Oksidlovchi elektron qabul qiluvchidir."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
     },
@@ -10396,6 +10828,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
     },
@@ -10420,6 +10853,7 @@ const kimyo = {
           "text": "Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
     },
@@ -10444,6 +10878,7 @@ const kimyo = {
           "text": "Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Kekule taklif qilgan halqali aromatik benzol C₆H₆."
     },
@@ -10468,6 +10903,7 @@ const kimyo = {
           "text": "Etanol — C₂H₅OH."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Etanol — C₂H₅OH."
     },
@@ -10492,6 +10928,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Metanol o'ta kuchli zahar hisoblanadi."
     },
@@ -10516,6 +10953,7 @@ const kimyo = {
           "text": "Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Sirka kislota kundalik hayotda 70% esensiya yoki 9% sirka sifatida qo'llanadi."
     },
@@ -10540,6 +10978,7 @@ const kimyo = {
           "text": "Glukoza eng muhim monosaxariddir."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Glukoza eng muhim monosaxariddir."
     },
@@ -10564,6 +11003,7 @@ const kimyo = {
           "text": "Izomeriya organik kimyoning eng muhim hodisasidir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -10588,6 +11028,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
     },
@@ -10612,6 +11053,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -10636,6 +11078,7 @@ const kimyo = {
           "text": "Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -10660,6 +11103,7 @@ const kimyo = {
           "text": "Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -10684,6 +11128,7 @@ const kimyo = {
           "text": "Glukoza eng muhim monosaxariddir."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
     },
@@ -10708,6 +11153,7 @@ const kimyo = {
           "text": "Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -10732,6 +11178,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
     },
@@ -10756,6 +11203,7 @@ const kimyo = {
           "text": "Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -10780,6 +11228,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
     },
@@ -10804,6 +11253,7 @@ const kimyo = {
           "text": "Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -10828,6 +11278,7 @@ const kimyo = {
           "text": "Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerod (II) oksidi (CO, is gazi)'ga tegishli."
     },
@@ -10852,6 +11303,7 @@ const kimyo = {
           "text": "Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -10876,6 +11328,7 @@ const kimyo = {
           "text": "Etanol — C₂H₅OH."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Ammiak (NH₃)'ga tegishli."
     },
@@ -10900,6 +11353,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -10924,6 +11378,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
     },
@@ -10948,6 +11403,7 @@ const kimyo = {
           "text": "Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -10972,6 +11428,7 @@ const kimyo = {
           "text": "Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
     },
@@ -10996,6 +11453,7 @@ const kimyo = {
           "text": "Zn + 2HCl = ZnCl₂ + H₂↑."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -11020,6 +11478,7 @@ const kimyo = {
           "text": "Elektrolitlar ionlarga ajraladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
     },
@@ -11044,6 +11503,7 @@ const kimyo = {
           "text": "Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -11068,6 +11528,7 @@ const kimyo = {
           "text": "Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ga tegishli."
     },
@@ -11092,6 +11553,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Eng yengil metall'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -11116,6 +11578,7 @@ const kimyo = {
           "text": "Alkanlar parafinlar deb ham ataladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Gips (Kalsiy sulfat dihidrat)'ga tegishli."
     },
@@ -11140,6 +11603,7 @@ const kimyo = {
           "text": "Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -11164,6 +11628,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
     },
@@ -11188,6 +11653,7 @@ const kimyo = {
           "text": "Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -11212,6 +11678,7 @@ const kimyo = {
           "text": "Tartib raqami = zaryad = protonlar soni = elektronlar soni."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Gematit (Qizil temirtosh)'ga tegishli."
     },
@@ -11236,6 +11703,7 @@ const kimyo = {
           "text": "Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -11260,6 +11728,7 @@ const kimyo = {
           "text": "M(SO₃) = 32 + 16·3 = 80 g/mol."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Magnetit (Magnitli temirtosh)'ga tegishli."
     },
@@ -11284,6 +11753,7 @@ const kimyo = {
           "text": "Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -11308,6 +11778,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Eng yengil metall'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
     },
@@ -11332,6 +11803,7 @@ const kimyo = {
           "text": "Mr(O₂) = 16 · 2 = 32."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -11356,6 +11828,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
     },
@@ -11380,6 +11853,7 @@ const kimyo = {
           "text": "Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -11404,6 +11878,7 @@ const kimyo = {
           "text": "Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng yengil metall'ga tegishli."
     },
@@ -11428,6 +11903,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -11452,6 +11928,7 @@ const kimyo = {
           "text": "Qaytaruvchi elektron beruvchidir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
     },
@@ -11476,6 +11953,7 @@ const kimyo = {
           "text": "Kekule taklif qilgan halqali aromatik benzol C₆H₆."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -11500,6 +11978,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Eng qattiq metall'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng qattiq metall'ga tegishli."
     },
@@ -11524,6 +12003,7 @@ const kimyo = {
           "text": "Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -11548,6 +12028,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
     },
@@ -11572,6 +12053,7 @@ const kimyo = {
           "text": "Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -11596,6 +12078,7 @@ const kimyo = {
           "text": "Kislotada lakmus qizaradi, ishqorda ko'karadi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
     },
@@ -11620,6 +12103,7 @@ const kimyo = {
           "text": "Kekule taklif qilgan halqali aromatik benzol C₆H₆."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -11644,6 +12128,7 @@ const kimyo = {
           "text": "Masalan, metan, etan, propan gomologik qatordir."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
     },
@@ -11668,6 +12153,7 @@ const kimyo = {
           "text": "Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -11692,6 +12178,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -11716,6 +12203,7 @@ const kimyo = {
           "text": "Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -11740,6 +12228,7 @@ const kimyo = {
           "text": "Temirning zanglashi korroziyaga misoldir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kislorodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -11764,6 +12253,7 @@ const kimyo = {
           "text": "Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -11788,6 +12278,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
     },
@@ -11812,6 +12303,7 @@ const kimyo = {
           "text": "Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -11836,6 +12328,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Spirtlarning funksional guruhi'ga tegishli."
     },
@@ -11860,6 +12353,7 @@ const kimyo = {
           "text": "Karbamid eng mashhur azotli mineral o'g'itdir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -11884,6 +12378,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
     },
@@ -11908,6 +12403,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -11932,6 +12428,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
     },
@@ -11956,6 +12453,7 @@ const kimyo = {
           "text": "Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -11980,6 +12478,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aminlarning funksional guruhi'ga tegishli."
     },
@@ -12004,6 +12503,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -12028,6 +12528,7 @@ const kimyo = {
           "text": "Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
     },
@@ -12052,6 +12553,7 @@ const kimyo = {
           "text": "Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -12076,6 +12578,7 @@ const kimyo = {
           "text": "Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -12100,6 +12603,7 @@ const kimyo = {
           "text": "Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -12124,6 +12628,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Aminokislotalar'ga tegishli."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Aminokislotalar'ga tegishli."
     },
@@ -12148,6 +12653,7 @@ const kimyo = {
           "text": "Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -12172,6 +12678,7 @@ const kimyo = {
           "text": "Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -12196,6 +12703,7 @@ const kimyo = {
           "text": "Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -12220,6 +12728,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -12244,6 +12753,7 @@ const kimyo = {
           "text": "Temirning zanglashi korroziyaga misoldir."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -12268,6 +12778,7 @@ const kimyo = {
           "text": "Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -12292,6 +12803,7 @@ const kimyo = {
           "text": "Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
     },
@@ -12316,6 +12828,7 @@ const kimyo = {
           "text": "CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Havoning o'rtacha molyar massasi 29 g/mol ga teng."
     },
@@ -12340,6 +12853,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "2H₂O₂ =(MnO₂)=> 2H₂O + O₂↑ reaksiyasida MnO₂ katalizator."
     },
@@ -12364,6 +12878,7 @@ const kimyo = {
           "text": "Zn + 2HCl = ZnCl₂ + H₂↑."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Zn + 2HCl = ZnCl₂ + H₂↑."
     },
@@ -12388,6 +12903,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -12412,6 +12928,7 @@ const kimyo = {
           "text": "Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -12436,6 +12953,7 @@ const kimyo = {
           "text": "Katalizatorlar kimyoviy jarayonni tezlashtiradi."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Muvozanatdagi tizimga tashqi bosim, harorat yoki konsentratsiya ta'siri qoidasi."
     },
@@ -12460,6 +12978,7 @@ const kimyo = {
           "text": "Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -12484,6 +13003,7 @@ const kimyo = {
           "text": "Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ekzotermik reaksiyalarda energiya ajraladi (yonish reaksiyalari)."
     },
@@ -12508,6 +13028,7 @@ const kimyo = {
           "text": "Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Endotermik reaksiyalarda energiya yutiladi (parchalanish jarayonlari)."
     },
@@ -12532,6 +13053,7 @@ const kimyo = {
           "text": "Kislotada lakmus qizaradi, ishqorda ko'karadi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Elektrolitlar ionlarga ajraladi."
     },
@@ -12556,6 +13078,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
     },
@@ -12580,6 +13103,7 @@ const kimyo = {
           "text": "Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
     },
@@ -12604,6 +13128,7 @@ const kimyo = {
           "text": "Havoning o'rtacha molyar massasi 29 g/mol ga teng."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "C_M = n / V (mol/l)."
     },
@@ -12628,6 +13153,7 @@ const kimyo = {
           "text": "Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Oksidlovchi elektron qabul qiluvchidir."
     },
@@ -12652,6 +13178,7 @@ const kimyo = {
           "text": "Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Qaytaruvchi elektron beruvchidir."
     },
@@ -12676,6 +13203,7 @@ const kimyo = {
           "text": "Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Temirning zanglashi korroziyaga misoldir."
     },
@@ -12700,6 +13228,7 @@ const kimyo = {
           "text": "Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
     },
@@ -12724,6 +13253,7 @@ const kimyo = {
           "text": "Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bronza — mis va qalay asosidagi qotishma."
     },
@@ -12748,6 +13278,7 @@ const kimyo = {
           "text": "Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Latun mis va ruxning qotishmasidir."
     },
@@ -12772,6 +13303,7 @@ const kimyo = {
           "text": "Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
     },
@@ -12796,6 +13328,7 @@ const kimyo = {
           "text": "C_M = n / V (mol/l)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Izomeriya organik kimyoning eng muhim hodisasidir."
     },
@@ -12820,6 +13353,7 @@ const kimyo = {
           "text": "Masalan, metan, etan, propan gomologik qatordir."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Masalan, metan, etan, propan gomologik qatordir."
     },
@@ -12844,6 +13378,7 @@ const kimyo = {
           "text": "Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -12868,6 +13403,7 @@ const kimyo = {
           "text": "Masalan, etilendan polietilen hosil bo'lishi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Masalan, etilendan polietilen hosil bo'lishi."
     },
@@ -12892,6 +13428,7 @@ const kimyo = {
           "text": "H₂O"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -12916,6 +13453,7 @@ const kimyo = {
           "text": "Vodorod"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -12940,6 +13478,7 @@ const kimyo = {
           "text": "Soda"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -12964,6 +13503,7 @@ const kimyo = {
           "text": "Ishqoriy"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -12988,6 +13528,7 @@ const kimyo = {
           "text": "22.4 litr"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -13012,6 +13553,7 @@ const kimyo = {
           "text": "64"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Mr(O₂) = 16 · 2 = 32."
     },
@@ -13036,6 +13578,7 @@ const kimyo = {
           "text": "20"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -13060,6 +13603,7 @@ const kimyo = {
           "text": "96 g/mol"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -13084,6 +13628,7 @@ const kimyo = {
           "text": "96"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -13108,6 +13653,7 @@ const kimyo = {
           "text": "Nolga aylanadi"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -13132,6 +13678,7 @@ const kimyo = {
           "text": "C₂H₅OH"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Etanol — C₂H₅OH."
     },
@@ -13156,6 +13703,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -13180,6 +13728,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -13204,6 +13753,7 @@ const kimyo = {
           "text": "Sirka kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -13228,6 +13778,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -13252,6 +13803,7 @@ const kimyo = {
           "text": "Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -13276,6 +13828,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -13300,6 +13853,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -13324,6 +13878,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -13348,6 +13903,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -13372,6 +13928,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -13396,6 +13953,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -13420,6 +13978,7 @@ const kimyo = {
           "text": "NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -13444,6 +14003,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -13468,6 +14028,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -13492,6 +14053,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -13516,6 +14078,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -13540,6 +14103,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -13564,6 +14128,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -13588,6 +14153,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -13612,6 +14178,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -13636,6 +14203,7 @@ const kimyo = {
           "text": "Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -13660,6 +14228,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -13684,6 +14253,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -13708,6 +14278,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -13732,6 +14303,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -13756,6 +14328,7 @@ const kimyo = {
           "text": "Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -13780,6 +14353,7 @@ const kimyo = {
           "text": "Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -13804,6 +14378,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -13828,6 +14403,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -13852,6 +14428,7 @@ const kimyo = {
           "text": "Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -13876,6 +14453,7 @@ const kimyo = {
           "text": "Amin guruhi (-NH₂)"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -13900,6 +14478,7 @@ const kimyo = {
           "text": "Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -13924,6 +14503,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -13948,6 +14528,7 @@ const kimyo = {
           "text": "Spirtlar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -13972,6 +14553,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -13996,6 +14578,7 @@ const kimyo = {
           "text": "Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -14020,6 +14603,7 @@ const kimyo = {
           "text": "Yog'lar"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -14044,6 +14628,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -14068,6 +14653,7 @@ const kimyo = {
           "text": "Kraxmal va Sellyuloza"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -14092,6 +14678,7 @@ const kimyo = {
           "text": "Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -14116,6 +14703,7 @@ const kimyo = {
           "text": "Kraxmal"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -14140,6 +14728,7 @@ const kimyo = {
           "text": "Indikatorlar"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -14164,6 +14753,7 @@ const kimyo = {
           "text": "Promotorlar"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -14188,6 +14778,7 @@ const kimyo = {
           "text": "Gess qonuni"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -14212,6 +14803,7 @@ const kimyo = {
           "text": "Markovnikov qoidasi"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -14228,6 +14820,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -14244,6 +14837,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -14260,6 +14854,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -14276,6 +14871,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "Ha. pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -14292,6 +14888,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -14308,6 +14905,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     },
@@ -14324,6 +14922,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Mr(O₂) = 16 · 2 = 32."
     },
@@ -14340,6 +14939,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -14356,6 +14956,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -14372,6 +14973,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -14388,6 +14990,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
     },
@@ -14404,6 +15007,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Tartib raqami = zaryad = protonlar soni = elektronlar soni."
     },
@@ -14420,6 +15024,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
     },
@@ -14436,6 +15041,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -14452,6 +15058,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
     },
@@ -14468,6 +15075,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Geliy davriy sistemaning VIII-A guruhidagi eng yengil inert gazdir."
     },
@@ -14484,6 +15092,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
     },
@@ -14500,6 +15109,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
     },
@@ -14516,6 +15126,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Zaryadlangan ionlar orasidagi elektrostatik tortishish ion bog'dir."
     },
@@ -14532,6 +15143,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kislotada lakmus qizaradi, ishqorda ko'karadi."
     },
@@ -14548,6 +15160,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
     },
@@ -14564,6 +15177,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Kislota + Asos = Tuz + Suv neytrallanish deyiladi."
     },
@@ -14580,6 +15194,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Karbamid eng mashhur azotli mineral o'g'itdir."
     },
@@ -14596,6 +15211,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
     },
@@ -14612,6 +15228,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
     },
@@ -14628,6 +15245,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
     },
@@ -14644,6 +15262,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Organik kimyo uglerod birikmalari kimyosidir."
     },
@@ -14660,6 +15279,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
     },
@@ -14676,6 +15296,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Alkanlar parafinlar deb ham ataladi."
     },
@@ -14692,6 +15313,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
     },
@@ -14708,6 +15330,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
     },
@@ -14724,6 +15347,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
     },
@@ -14740,6 +15364,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Kekule taklif qilgan halqali aromatik benzol C₆H₆."
     },
@@ -14756,6 +15381,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Etanol — C₂H₅OH."
     },
@@ -14772,6 +15398,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Metanol o'ta kuchli zahar hisoblanadi."
     },
@@ -14788,6 +15415,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Sirka kislota kundalik hayotda 70% esensiya yoki 9% sirka sifatida qo'llanadi."
     },
@@ -14804,6 +15432,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Glukoza eng muhim monosaxariddir."
     },
@@ -14820,6 +15449,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -14836,6 +15466,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
     },
@@ -14852,6 +15483,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -14868,6 +15500,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -14884,6 +15517,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -14900,6 +15534,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
     },
@@ -14916,6 +15551,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -14932,6 +15568,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
     },
@@ -14948,6 +15585,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -14964,6 +15602,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
     },
@@ -14980,6 +15619,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -14996,6 +15636,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Uglerod (II) oksidi (CO, is gazi)'ga tegishli."
     },
@@ -15012,6 +15653,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -15028,6 +15670,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Ammiak (NH₃)'ga tegishli."
     },
@@ -15044,6 +15687,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -15060,6 +15704,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
     },
@@ -15076,6 +15721,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -15092,6 +15738,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
     },
@@ -15108,6 +15755,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -15124,6 +15772,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
     },
@@ -15140,6 +15789,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -15156,6 +15806,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ga tegishli."
     },
@@ -15172,6 +15823,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -15188,6 +15840,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Gips (Kalsiy sulfat dihidrat)'ga tegishli."
     },
@@ -15204,6 +15857,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -15220,6 +15874,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
     },
@@ -15236,6 +15891,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -15252,6 +15908,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Gematit (Qizil temirtosh)'ga tegishli."
     },
@@ -15268,6 +15925,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -15284,6 +15942,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Magnetit (Magnitli temirtosh)'ga tegishli."
     },
@@ -15300,6 +15959,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -15316,6 +15976,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
     },
@@ -15332,6 +15993,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -15348,6 +16010,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
     },
@@ -15364,6 +16027,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -15380,6 +16044,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Eng yengil metall'ga tegishli."
     },
@@ -15396,6 +16061,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -15412,6 +16078,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
     },
@@ -15428,6 +16095,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -15444,6 +16112,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Eng qattiq metall'ga tegishli."
     },
@@ -15460,6 +16129,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -15476,6 +16146,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
     },
@@ -15492,6 +16163,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -15508,6 +16180,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
     },
@@ -15524,6 +16197,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -15540,6 +16214,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
     },
@@ -15556,6 +16231,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -15572,6 +16248,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -15588,6 +16265,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -15604,6 +16282,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Kislorodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -15620,6 +16299,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -15636,6 +16316,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
     },
@@ -15652,6 +16333,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -15668,6 +16350,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Spirtlarning funksional guruhi'ga tegishli."
     },
@@ -15684,6 +16367,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -15700,6 +16384,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
     },
@@ -15716,6 +16401,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -15732,6 +16418,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
     },
@@ -15748,6 +16435,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -15764,6 +16452,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Aminlarning funksional guruhi'ga tegishli."
     },
@@ -15780,6 +16469,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -15796,6 +16486,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
     },
@@ -15812,6 +16503,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -15828,6 +16520,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -15844,6 +16537,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -15860,6 +16554,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Aminokislotalar'ga tegishli."
     },
@@ -15876,6 +16571,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -15892,6 +16588,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -15908,6 +16605,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -15924,6 +16622,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -15940,6 +16639,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -15956,6 +16656,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -15972,6 +16673,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
     },
@@ -15988,6 +16690,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Havoning o'rtacha molyar massasi 29 g/mol ga teng."
     },
@@ -16004,6 +16707,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 2H₂O₂ =(MnO₂)=> 2H₂O + O₂↑ reaksiyasida MnO₂ katalizator."
     },
@@ -16020,6 +16724,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Zn + 2HCl = ZnCl₂ + H₂↑."
     },
@@ -16036,6 +16741,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -16052,6 +16758,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -16068,6 +16775,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Muvozanatdagi tizimga tashqi bosim, harorat yoki konsentratsiya ta'siri qoidasi."
     },
@@ -16084,6 +16792,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -16100,6 +16809,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Ekzotermik reaksiyalarda energiya ajraladi (yonish reaksiyalari)."
     },
@@ -16116,6 +16826,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Endotermik reaksiyalarda energiya yutiladi (parchalanish jarayonlari)."
     },
@@ -16132,6 +16843,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Elektrolitlar ionlarga ajraladi."
     },
@@ -16148,6 +16860,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
     },
@@ -16164,6 +16877,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
     },
@@ -16180,6 +16894,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. C_M = n / V (mol/l)."
     },
@@ -16196,6 +16911,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Oksidlovchi elektron qabul qiluvchidir."
     },
@@ -16212,6 +16928,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Qaytaruvchi elektron beruvchidir."
     },
@@ -16228,6 +16945,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Temirning zanglashi korroziyaga misoldir."
     },
@@ -16244,6 +16962,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
     },
@@ -16260,6 +16979,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Bronza — mis va qalay asosidagi qotishma."
     },
@@ -16276,6 +16996,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Latun mis va ruxning qotishmasidir."
     },
@@ -16292,6 +17013,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
     },
@@ -16308,6 +17030,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Izomeriya organik kimyoning eng muhim hodisasidir."
     },
@@ -16324,6 +17047,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Masalan, metan, etan, propan gomologik qatordir."
     },
@@ -16340,6 +17064,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -16356,6 +17081,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Masalan, etilendan polietilen hosil bo'lishi."
     },
@@ -16372,6 +17098,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — H₂O. Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -16388,6 +17115,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Vodorod. Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -16404,6 +17132,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Osh tuzi. Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -16420,6 +17149,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — Neytral. pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -16436,6 +17166,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 22.4 litr. Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -16452,6 +17183,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6.02 · 10²³ ta zarracha/mol. 1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     },
@@ -16468,6 +17200,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 32. Mr(O₂) = 16 · 2 = 32."
     },
@@ -16484,6 +17217,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18. Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -16500,6 +17234,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 80 g/mol. M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -16516,6 +17251,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 98. Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -16532,6 +17268,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Protonlar va neytronlar. Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
     },
@@ -16548,6 +17285,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Yadrodagi protonlar sonini (va neytral atomdagi elektronlar sonini). Tartib raqami = zaryad = protonlar soni = elektronlar soni."
     },
@@ -16564,6 +17302,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ortadi (kuchayadi). Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
     },
@@ -16580,6 +17319,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ortadi. Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -16596,6 +17336,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ftor (F). Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
     },
@@ -16612,6 +17353,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Geliy (He). Geliy davriy sistemaning VIII-A guruhidagi eng yengil inert gazdir."
     },
@@ -16628,6 +17370,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kovalent qutbli bog'lanish (masalan: HCl, H₂O). Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
     },
@@ -16644,6 +17387,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kovalent qutbsiz bog'lanish (masalan: O₂, H₂, N₂). Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
     },
@@ -16660,6 +17404,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ion bog'lanish (masalan: NaCl, KBr). Zaryadlangan ionlar orasidagi elektrostatik tortishish ion bog'dir."
     },
@@ -16676,6 +17421,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qizil rangga. Kislotada lakmus qizaradi, ishqorda ko'karadi."
     },
@@ -16692,6 +17438,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Malina (to'q pushti) rangga. Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
     },
@@ -16708,6 +17455,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Neytrallanish reaksiyasi. Kislota + Asos = Tuz + Suv neytrallanish deyiladi."
     },
@@ -16724,6 +17472,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — (NH₂)₂CO. Karbamid eng mashhur azotli mineral o'g'itdir."
     },
@@ -16740,6 +17489,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Kalsiy karbonat (CaCO₃). CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
     },
@@ -16756,6 +17506,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — CaO (kalsiy oksid). CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
     },
@@ -16772,6 +17523,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Karbonat angidrid (CO₂). CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
     },
@@ -16788,6 +17540,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Uglerod (C). Organik kimyo uglerod birikmalari kimyosidir."
     },
@@ -16804,6 +17557,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — IV (to'rt) valentli. Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
     },
@@ -16820,6 +17574,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C_n H_{2n+2}. Alkanlar parafinlar deb ham ataladi."
     },
@@ -16836,6 +17591,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Metan (CH₄). Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
     },
@@ -16852,6 +17608,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Alkenlar (C_n H_{2n}, qo'shbog'li). Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
     },
@@ -16868,6 +17625,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Alkinlar (C₂H₂, uchbog'li). Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
     },
@@ -16884,6 +17642,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C₆H₆ (Aromatik uglevodorod). Kekule taklif qilgan halqali aromatik benzol C₆H₆."
     },
@@ -16900,6 +17659,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C₂H₅OH. Etanol — C₂H₅OH."
     },
@@ -16916,6 +17676,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Metanol (CH₃OH). Metanol o'ta kuchli zahar hisoblanadi."
     },
@@ -16932,6 +17693,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — CH₃COOH (Etan kislota). Sirka kislota kundalik hayotda 70% esensiya yoki 9% sirka sifatida qo'llanadi."
     },
@@ -16948,6 +17710,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C₆H₁₂O₆. Glukoza eng muhim monosaxariddir."
     },
@@ -16964,6 +17727,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota. Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -16980,6 +17744,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xlorid kislota (HCl). Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
     },
@@ -16996,6 +17761,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota. Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -17012,6 +17778,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sulfat kislota (H₂SO₄). Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -17028,6 +17795,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota. Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -17044,6 +17812,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Nitrat kislota (HNO₃). Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
     },
@@ -17060,6 +17829,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota. Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -17076,6 +17846,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fosfat kislota (H₃PO₄). Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
     },
@@ -17092,6 +17863,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz. Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -17108,6 +17880,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karbonat angidrid (CO₂). Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
     },
@@ -17124,6 +17897,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz. Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -17140,6 +17914,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Is gazi (CO). Bu ta'rif 'Uglerod (II) oksidi (CO, is gazi)'ga tegishli."
     },
@@ -17156,6 +17931,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz. Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -17172,6 +17948,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ammiak (NH₃). Bu ta'rif 'Ammiak (NH₃)'ga tegishli."
     },
@@ -17188,6 +17965,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz. Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -17204,6 +17982,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Vodorod sulfid (H₂S). Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
     },
@@ -17220,6 +17999,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi. Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -17236,6 +18016,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ichimlik sodasi (NaHCO₃). Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
     },
@@ -17252,6 +18033,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi. Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -17268,6 +18050,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kalsinirlangan soda (Na₂CO₃). Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
     },
@@ -17284,6 +18067,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor. Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -17300,6 +18084,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kaustik soda (NaOH). Bu ta'rif 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ga tegishli."
     },
@@ -17316,6 +18101,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi. Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -17332,6 +18118,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gips (CaSO₄ · 2H₂O). Bu ta'rif 'Gips (Kalsiy sulfat dihidrat)'ga tegishli."
     },
@@ -17348,6 +18135,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral. Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -17364,6 +18152,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Pirit (FeS₂). Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
     },
@@ -17380,6 +18169,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi. Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -17396,6 +18186,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gematit (Fe₂O₃). Bu ta'rif 'Gematit (Qizil temirtosh)'ga tegishli."
     },
@@ -17412,6 +18203,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi. Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -17428,6 +18220,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Magnetit (Fe₃O₄). Bu ta'rif 'Magnetit (Magnitli temirtosh)'ga tegishli."
     },
@@ -17444,6 +18237,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi. Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -17460,6 +18254,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mis kuporosi (CuSO₄ · 5H₂O). Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
     },
@@ -17476,6 +18271,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita. Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -17492,6 +18288,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kaliy permanganat (KMnO₄). Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
     },
@@ -17508,6 +18305,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li). Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -17524,6 +18322,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Litiy (Li). Bu ta'rif 'Eng yengil metall'ga tegishli."
     },
@@ -17540,6 +18339,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os). Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -17556,6 +18356,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Osmiy (Os). Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
     },
@@ -17572,6 +18373,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr). Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -17588,6 +18390,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xrom (Cr). Bu ta'rif 'Eng qattiq metall'ga tegishli."
     },
@@ -17604,6 +18407,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg). Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -17620,6 +18424,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Simob (Hg). Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
     },
@@ -17636,6 +18441,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W). Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -17652,6 +18458,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Volfram (W). Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
     },
@@ -17668,6 +18475,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag). Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -17684,6 +18492,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kumush (Ag). Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
     },
@@ -17700,6 +18509,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Olmos, grafit, karbin, fulleren va grafen. Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -17716,6 +18526,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Olmos, grafit, fulleren. Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -17732,6 +18543,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃). Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -17748,6 +18560,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kislorod (O₂) va Ozon (O₃). Bu ta'rif 'Kislorodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -17764,6 +18577,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor. Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -17780,6 +18594,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oq, qizil va qora fosfor. Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
     },
@@ -17796,6 +18611,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gidroksil guruhi (-OH). Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -17812,6 +18628,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gidroksil guruhi (-OH). Bu ta'rif 'Spirtlarning funksional guruhi'ga tegishli."
     },
@@ -17828,6 +18645,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aldegid guruhi (-CHO). Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -17844,6 +18662,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aldegid guruhi (-CHO). Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
     },
@@ -17860,6 +18679,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karboksil guruhi (-COOH). Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -17876,6 +18696,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karboksil guruhi (-COOH). Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
     },
@@ -17892,6 +18713,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Amin guruhi (-NH₂). Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -17908,6 +18730,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Amin guruhi (-NH₂). Bu ta'rif 'Aminlarning funksional guruhi'ga tegishli."
     },
@@ -17924,6 +18747,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar. Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -17940,6 +18764,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Murakkab efirlar (Esterlar). Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
     },
@@ -17956,6 +18781,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R'). Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -17972,6 +18798,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oddiy efirlar. Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -17988,6 +18815,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar. Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -18004,6 +18832,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aminokislotalar. Bu ta'rif 'Aminokislotalar'ga tegishli."
     },
@@ -18020,6 +18849,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar. Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -18036,6 +18866,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oqsillar. Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -18052,6 +18883,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar. Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -18068,6 +18900,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kraxmal va Sellyuloza. Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -18084,6 +18917,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid. Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -18100,6 +18934,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Saxaroza. Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -18116,6 +18951,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — D(H₂) = M / 2. Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
     },
@@ -18132,6 +18968,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — D(havo) = M / 29. Havoning o'rtacha molyar massasi 29 g/mol ga teng."
     },
@@ -18148,6 +18985,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Marganes (IV) oksidi (MnO₂). 2H₂O₂ =(MnO₂)=> 2H₂O + O₂↑ reaksiyasida MnO₂ katalizator."
     },
@@ -18164,6 +19002,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Rux (Zn) va xlorid kislota (HCl). Zn + 2HCl = ZnCl₂ + H₂↑."
     },
@@ -18180,6 +19019,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Katalizatorlar. Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -18196,6 +19036,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ingibitorlar. Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -18212,6 +19053,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tashqi ta'sir ko'rsatilganda kimyoviy muvozanatning shu ta'sirni kamaytiradigan tomonga siljishini. Muvozanatdagi tizimga tashqi bosim, harorat yoki konsentratsiya ta'siri qoidasi."
     },
@@ -18228,6 +19070,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Vant-Goff qoidasi. Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -18244,6 +19087,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ekzotermik reaksiyalar (+Q). Ekzotermik reaksiyalarda energiya ajraladi (yonish reaksiyalari)."
     },
@@ -18260,6 +19104,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Endotermik reaksiyalar (-Q). Endotermik reaksiyalarda energiya yutiladi (parchalanish jarayonlari)."
     },
@@ -18276,6 +19121,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Elektrolitlar (kislotalar, asoslar, tuzlar). Elektrolitlar ionlarga ajraladi."
     },
@@ -18292,6 +19138,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shakar (saxaroza) va glukoza eritmasi. Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
     },
@@ -18308,6 +19155,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — w = (m(erigan modda) / m(eritma)) · 100%. Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
     },
@@ -18324,6 +19172,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — mol/litr. C_M = n / V (mol/l)."
     },
@@ -18340,6 +19189,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Elektron biriktirib oladi va o'zi qaytariladi. Oksidlovchi elektron qabul qiluvchidir."
     },
@@ -18356,6 +19206,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Elektron beradi va o'zi oksidlanadi. Qaytaruvchi elektron beruvchidir."
     },
@@ -18372,6 +19223,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Atrof-muhit ta'sirida metallarning o'z-o'zidan emirilishi va oksidlanishi (zanglash). Temirning zanglashi korroziyaga misoldir."
     },
@@ -18388,6 +19240,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Temir va uglerodning qotishmasi. Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
     },
@@ -18404,6 +19257,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mis va qalay qotishmasi. Bronza — mis va qalay asosidagi qotishma."
     },
@@ -18420,6 +19274,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mis va rux qotishmasi. Latun mis va ruxning qotishmasidir."
     },
@@ -18436,6 +19291,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — A. M. Butlerov (1861-yilda). Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
     },
@@ -18452,6 +19308,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Izomerlar. Izomeriya organik kimyoning eng muhim hodisasidir."
     },
@@ -18468,6 +19325,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gomologlar. Masalan, metan, etan, propan gomologik qatordir."
     },
@@ -18484,6 +19342,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Markovnikov qoidasi. Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -18500,6 +19359,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Polimerlanish reaksiyasi. Masalan, etilendan polietilen hosil bo'lishi."
     },
@@ -18516,6 +19376,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — H₂O. Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -18532,6 +19393,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Vodorod. Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -18548,6 +19410,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Osh tuzi. Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -18564,6 +19427,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — Neytral. pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -18580,6 +19444,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 22.4 litr. Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -18596,6 +19461,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6.02 · 10²³ ta zarracha/mol. 1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     },
@@ -18612,6 +19478,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 32. Mr(O₂) = 16 · 2 = 32."
     },
@@ -18628,6 +19495,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 18. Mr(H₂O) = 1·2 + 16 = 18."
     },
@@ -18644,6 +19512,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 80 g/mol. M(SO₃) = 32 + 16·3 = 80 g/mol."
     },
@@ -18660,6 +19529,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — 98. Mr(H₂SO₄) = 1·2 + 32 + 16·4 = 98."
     },
@@ -18676,6 +19546,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Protonlar va neytronlar. Atom yadrosi musbat zaryadli proton va neytral neytronlardan tashkil topgan."
     },
@@ -18692,6 +19563,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Yadrodagi protonlar sonini (va neytral atomdagi elektronlar sonini). Tartib raqami = zaryad = protonlar soni = elektronlar soni."
     },
@@ -18708,6 +19580,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ortadi (kuchayadi). Atom radiusi kattalashgani sari elektron berish osonlashadi va metallik kuchayadi."
     },
@@ -18724,6 +19597,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ortadi. Yadroning tortish kuchi ortishi sababli elektromanfiylik chapdan o'ngga ortadi."
     },
@@ -18740,6 +19614,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ftor (F). Ftor barcha elementlar orasida eng kuchli nometall va elektromanfiydir (4.0)."
     },
@@ -18756,6 +19631,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Geliy (He). Geliy davriy sistemaning VIII-A guruhidagi eng yengil inert gazdir."
     },
@@ -18772,6 +19648,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kovalent qutbli bog'lanish (masalan: HCl, H₂O). Elektromanfiyligi turlicha bo'lgan nometallar o'rtasida qutbli kovalent bog' hosil bo'ladi."
     },
@@ -18788,6 +19665,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kovalent qutbsiz bog'lanish (masalan: O₂, H₂, N₂). Bir xil atomlar o'rtasida elektron zichlik teng taqsimlanadi."
     },
@@ -18804,6 +19682,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ion bog'lanish (masalan: NaCl, KBr). Zaryadlangan ionlar orasidagi elektrostatik tortishish ion bog'dir."
     },
@@ -18820,6 +19699,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Qizil rangga. Kislotada lakmus qizaradi, ishqorda ko'karadi."
     },
@@ -18836,6 +19716,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Malina (to'q pushti) rangga. Fenolftalein faqat ishqoriy muhitda malina rangiga bo'yaladi."
     },
@@ -18852,6 +19733,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Neytrallanish reaksiyasi. Kislota + Asos = Tuz + Suv neytrallanish deyiladi."
     },
@@ -18868,6 +19750,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — (NH₂)₂CO. Karbamid eng mashhur azotli mineral o'g'itdir."
     },
@@ -18884,6 +19767,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Kalsiy karbonat (CaCO₃). CaCO₃ ohaktosh, bo'r va marmarning bosh tarkibiy qismidir."
     },
@@ -18900,6 +19784,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — CaO (kalsiy oksid). CaO suv qo'shilganda so'ndirilgan ohak Ca(OH)₂ ga aylanadi."
     },
@@ -18916,6 +19801,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Karbonat angidrid (CO₂). CaCO₃ + 2HCl = CaCl₂ + CO₂↑ + H₂O."
     },
@@ -18932,6 +19818,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Uglerod (C). Organik kimyo uglerod birikmalari kimyosidir."
     },
@@ -18948,6 +19835,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — IV (to'rt) valentli. Organik birikmalarda uglerod doimo 4 ta kovalent bog' hosil qiladi."
     },
@@ -18964,6 +19852,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C_n H_{2n+2}. Alkanlar parafinlar deb ham ataladi."
     },
@@ -18980,6 +19869,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Metan (CH₄). Metan eng oddiy alkan bo'lib, tabiiy gazning bosh qismidir."
     },
@@ -18996,6 +19886,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Alkenlar (C_n H_{2n}, qo'shbog'li). Etilen (C₂H₄) bitta qo'shbog'ga ega alken."
     },
@@ -19012,6 +19903,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Alkinlar (C₂H₂, uchbog'li). Asetilen payvandlash ishlarida ishlatiladigan uchbog'li gazdir."
     },
@@ -19028,6 +19920,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C₆H₆ (Aromatik uglevodorod). Kekule taklif qilgan halqali aromatik benzol C₆H₆."
     },
@@ -19044,6 +19937,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C₂H₅OH. Etanol — C₂H₅OH."
     },
@@ -19060,6 +19954,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Metanol (CH₃OH). Metanol o'ta kuchli zahar hisoblanadi."
     },
@@ -19076,6 +19971,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — CH₃COOH (Etan kislota). Sirka kislota kundalik hayotda 70% esensiya yoki 9% sirka sifatida qo'llanadi."
     },
@@ -19092,6 +19988,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — C₆H₁₂O₆. Glukoza eng muhim monosaxariddir."
     },
@@ -19108,6 +20005,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota. Xlorid kislota (HCl, tuz kislotasi) - Oshqozon shirasida uchraydigan, vodorod va xlordan iborat kuchli bir asosli kislota."
     },
@@ -19124,6 +20022,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xlorid kislota (HCl). Bu ta'rif 'Xlorid kislota (HCl, tuz kislotasi)'ga tegishli."
     },
@@ -19140,6 +20039,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota. Sulfat kislota (H₂SO₄) - Kimyo sanoatining 'noni' deb ataluvchi ikki asosli kuchli kislota."
     },
@@ -19156,6 +20056,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sulfat kislota (H₂SO₄). Bu ta'rif 'Sulfat kislota (H₂SO₄)'ga tegishli."
     },
@@ -19172,6 +20073,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota. Nitrat kislota (HNO₃) - Zarhal (oltin)ni erituvchi 'zar suvi' tarkibiga kiruvchi kuchli bir asosli kislota."
     },
@@ -19188,6 +20090,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Nitrat kislota (HNO₃). Bu ta'rif 'Nitrat kislota (HNO₃)'ga tegishli."
     },
@@ -19204,6 +20107,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota. Fosfat (ortofosfat) kislota (H₃PO₄) - Tish emalini mustahkamlash va o'g'itlar ishlab chiqarishda ishlatiladigan uch asosli kislota."
     },
@@ -19220,6 +20124,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fosfat kislota (H₃PO₄). Bu ta'rif 'Fosfat (ortofosfat) kislota (H₃PO₄)'ga tegishli."
     },
@@ -19236,6 +20141,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz. Uglerod (IV) oksidi (CO₂, karbonat angidrid) - Odam va hayvonlar nafasidan chiqadigan, o'simliklar fotosintezda yutadigan gaz."
     },
@@ -19252,6 +20158,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karbonat angidrid (CO₂). Bu ta'rif 'Uglerod (IV) oksidi (CO₂, karbonat angidrid)'ga tegishli."
     },
@@ -19268,6 +20175,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz. Uglerod (II) oksidi (CO, is gazi) - Gemoglobin bilan birikib karboksigemoglobin hosil qiluvchi o'ta zaharli gaz."
     },
@@ -19284,6 +20192,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Is gazi (CO). Bu ta'rif 'Uglerod (II) oksidi (CO, is gazi)'ga tegishli."
     },
@@ -19300,6 +20209,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz. Ammiak (NH₃) - O'tkir hidli, suvda yaxshi eriydigan, o'g'itlar ishlab chiqarishda asosiy xomashyo bo'lgan gaz."
     },
@@ -19316,6 +20226,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ammiak (NH₃). Bu ta'rif 'Ammiak (NH₃)'ga tegishli."
     },
@@ -19332,6 +20243,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz. Vodorod sulfid (H₂S) - Sasigan tuxum hidi keladigan, zaharli va shifobaxsh ma'danli suvlarda uchraydigan gaz."
     },
@@ -19348,6 +20260,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Vodorod sulfid (H₂S). Bu ta'rif 'Vodorod sulfid (H₂S)'ga tegishli."
     },
@@ -19364,6 +20277,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi. Ichimlik sodasi (Natriy gidrokarbonat) - NaHCO₃ formulasiga ega bo'lib, oziq-ovqat va tibbiyotda kislotalilikni pasaytirishda qo'llanadi."
     },
@@ -19380,6 +20294,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ichimlik sodasi (NaHCO₃). Bu ta'rif 'Ichimlik sodasi (Natriy gidrokarbonat)'ga tegishli."
     },
@@ -19396,6 +20311,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi. Kalsinirlangan soda (Natriy karbonat) - Na₂CO₃ formulasiga ega, shisha va yuvish vositalari ishlab chiqarishda ishlatiladi."
     },
@@ -19412,6 +20328,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kalsinirlangan soda (Na₂CO₃). Bu ta'rif 'Kalsinirlangan soda (Natriy karbonat)'ga tegishli."
     },
@@ -19428,6 +20345,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor. Kaustik soda (O'yuvchi natriy / Natriy gidroksid) - NaOH formulasiga ega bo'lib, sovun ishlab chiqarishda keng qo'llaniladigan kuchli ishqor."
     },
@@ -19444,6 +20362,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kaustik soda (NaOH). Bu ta'rif 'Kaustik soda (O'yuvchi natriy / Natriy gidroksid)'ga tegishli."
     },
@@ -19460,6 +20379,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi. Gips (Kalsiy sulfat dihidrat) - CaSO₄ · 2H₂O formulasiga ega, tibbiyotda suyak singanda bog'lashda ishlatiladi."
     },
@@ -19476,6 +20396,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gips (CaSO₄ · 2H₂O). Bu ta'rif 'Gips (Kalsiy sulfat dihidrat)'ga tegishli."
     },
@@ -19492,6 +20413,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral. Pirit (Temir kolchedani) - FeS₂ formulasiga ega bo'lib, sulfat kislota olishda va 'soxta oltin' sifatida tanilgan mineral."
     },
@@ -19508,6 +20430,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Pirit (FeS₂). Bu ta'rif 'Pirit (Temir kolchedani)'ga tegishli."
     },
@@ -19524,6 +20447,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi. Gematit (Qizil temirtosh) - Fe₂O₃ formulasiga ega bo'lgan eng muhim temir rudasi."
     },
@@ -19540,6 +20464,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gematit (Fe₂O₃). Bu ta'rif 'Gematit (Qizil temirtosh)'ga tegishli."
     },
@@ -19556,6 +20481,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi. Magnetit (Magnitli temirtosh) - Fe₃O₄ (FeO · Fe₂O₃) formulasiga ega tabiiy magnit xususiyatli temir rudasi."
     },
@@ -19572,6 +20498,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Magnetit (Fe₃O₄). Bu ta'rif 'Magnetit (Magnitli temirtosh)'ga tegishli."
     },
@@ -19588,6 +20515,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi. Mis kuporosi (Mis (II) sulfat pentagidrat) - CuSO₄ · 5H₂O formulasiga ega havorang kristallar, qishloq xo'jaligida fungitsid sifatida sepiladi."
     },
@@ -19604,6 +20532,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mis kuporosi (CuSO₄ · 5H₂O). Bu ta'rif 'Mis kuporosi (Mis (II) sulfat pentagidrat)'ga tegishli."
     },
@@ -19620,6 +20549,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita. Margantsovka (Kaliy permanganat) - KMnO₄ formulasiga ega to'q binafsha rangli kristallar, kuchli oksidlovchi va antiseptik vosita."
     },
@@ -19636,6 +20566,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kaliy permanganat (KMnO₄). Bu ta'rif 'Margantsovka (Kaliy permanganat)'ga tegishli."
     },
@@ -19652,6 +20583,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li). Eng yengil metall - Zichligi 0.534 g/sm³ bo'lgan, suvda suzadigan ishqoriy metall — Litiy (Li)."
     },
@@ -19668,6 +20600,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Litiy (Li). Bu ta'rif 'Eng yengil metall'ga tegishli."
     },
@@ -19684,6 +20617,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os). Eng og'ir (eng zich) metall - Zichligi 22.6 g/sm³ ga yetadigan d-element — Osmiy (Os)."
     },
@@ -19700,6 +20634,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Osmiy (Os). Bu ta'rif 'Eng og'ir (eng zich) metall'ga tegishli."
     },
@@ -19716,6 +20651,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr). Eng qattiq metall - Qattiqlik shkalasida 8.5-9 ballga ega bo'lgan metall — Xrom (Cr)."
     },
@@ -19732,6 +20668,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Xrom (Cr). Bu ta'rif 'Eng qattiq metall'ga tegishli."
     },
@@ -19748,6 +20685,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg). Eng oson eriydigan va xona haroratida suyuq metall - Erish harorati -39 °C bo'lgan suyuq metall — Simob (Hg)."
     },
@@ -19764,6 +20702,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Simob (Hg). Bu ta'rif 'Eng oson eriydigan va xona haroratida suyuq metall'ga tegishli."
     },
@@ -19780,6 +20719,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W). Eng qiyin eriydigan (o'tga chidamli) metall - Erish harorati 3422 °C bo'lgan, cho'g'lanma lampalar spirali yasaladigan metall — Volfram (W)."
     },
@@ -19796,6 +20736,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Volfram (W). Bu ta'rif 'Eng qiyin eriydigan (o'tga chidamli) metall'ga tegishli."
     },
@@ -19812,6 +20753,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag). Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall - Metallik bog'lanish tufayli o'tkazuvchanligi bo'yicha 1-o'rinda turuvchi metall — Kumush (Ag)."
     },
@@ -19828,6 +20770,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kumush (Ag). Bu ta'rif 'Elektr tokini va issiqlikni eng yaxshi o'tkazuvchi metall'ga tegishli."
     },
@@ -19844,6 +20787,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Olmos, grafit, karbin, fulleren va grafen. Uglerodning allotropik shakl o'zgarishlari - Olmos, grafit, karbin, fulleren va grafen."
     },
@@ -19860,6 +20804,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Olmos, grafit, fulleren. Bu ta'rif 'Uglerodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -19876,6 +20821,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃). Kislorodning allotropik shakl o'zgarishlari - Molekulasida 2 ta atom bo'lgan kislorod (O₂) va 3 ta atomli ozon (O₃)."
     },
@@ -19892,6 +20838,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kislorod (O₂) va Ozon (O₃). Bu ta'rif 'Kislorodning allotropik shakl o'zgarishlari'ga tegishli."
     },
@@ -19908,6 +20855,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor. Fosforning allotropik shakllari - Zaharli va qorong'ida nurlanuvchi oq fosfor hamda gugurt ishlab chiqarishda ishlatiladigan qizil fosfor."
     },
@@ -19924,6 +20872,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oq, qizil va qora fosfor. Bu ta'rif 'Fosforning allotropik shakllari'ga tegishli."
     },
@@ -19940,6 +20889,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gidroksil guruhi (-OH). Spirtlarning funksional guruhi - Gidroksil guruhi (-OH)."
     },
@@ -19956,6 +20906,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gidroksil guruhi (-OH). Bu ta'rif 'Spirtlarning funksional guruhi'ga tegishli."
     },
@@ -19972,6 +20923,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aldegid guruhi (-CHO). Aldegidlarning funksional guruhi - Aldegid guruhi (-CHO)."
     },
@@ -19988,6 +20940,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aldegid guruhi (-CHO). Bu ta'rif 'Aldegidlarning funksional guruhi'ga tegishli."
     },
@@ -20004,6 +20957,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karboksil guruhi (-COOH). Karbon kislotalarning funksional guruhi - Karboksil guruhi (-COOH)."
     },
@@ -20020,6 +20974,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karboksil guruhi (-COOH). Bu ta'rif 'Karbon kislotalarning funksional guruhi'ga tegishli."
     },
@@ -20036,6 +20991,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Amin guruhi (-NH₂). Aminlarning funksional guruhi - Amin guruhi (-NH₂)."
     },
@@ -20052,6 +21008,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Amin guruhi (-NH₂). Bu ta'rif 'Aminlarning funksional guruhi'ga tegishli."
     },
@@ -20068,6 +21025,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar. Murakkab efirlar (esterlar) - Karbon kislota va spirtlarning o'zaro birikishi (eterifikatsiya) natijasida hosil bo'ladigan yoqimli hidli moddalar."
     },
@@ -20084,6 +21042,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Murakkab efirlar (Esterlar). Bu ta'rif 'Murakkab efirlar (esterlar)'ga tegishli."
     },
@@ -20100,6 +21059,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R'). Oddiy efirlar (efirlar) - Ikkita uglevodorod radikalining kislorod atomi orqali bog'lanishi (R-O-R')."
     },
@@ -20116,6 +21076,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oddiy efirlar. Bu ta'rif 'Oddiy efirlar (efirlar)'ga tegishli."
     },
@@ -20132,6 +21093,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar. Aminokislotalar - Molekulasida bir vaqtning o'zida amin (-NH₂) va karboksil (-COOH) guruhlarini saqlovchi amfoter organik moddalar."
     },
@@ -20148,6 +21110,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aminokislotalar. Bu ta'rif 'Aminokislotalar'ga tegishli."
     },
@@ -20164,6 +21127,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar. Oqsillar (Polipeptidlar) - Aminokislotalarning peptid bog' (-CO-NH-) orqali o'zaro birikishidan hosil bo'lgan biopolimerlar."
     },
@@ -20180,6 +21144,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Oqsillar. Bu ta'rif 'Oqsillar (Polipeptidlar)'ga tegishli."
     },
@@ -20196,6 +21161,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar. Kraxmal va Sellyuloza (kletchatka) - (C₆H₁₀O₅)_n formulasiga ega bo'lgan tabiiy polisaxaridlar."
     },
@@ -20212,6 +21178,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Kraxmal va Sellyuloza. Bu ta'rif 'Kraxmal va Sellyuloza (kletchatka)'ga tegishli."
     },
@@ -20228,6 +21195,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid. Saxaroza (oshxona shakari) - C₁₂H₂₂O₁₁ formulasiga ega bo'lib, gidrolizlanganda glukoza va fruktozaga parchalanuvchi disaxarid."
     },
@@ -20244,6 +21212,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Saxaroza. Bu ta'rif 'Saxaroza (oshxona shakari)'ga tegishli."
     },
@@ -20260,6 +21229,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — D(H₂) = M / 2. Vodorodning molyar massasi 2 g/mol bo'lgani uchun M/2."
     },
@@ -20276,6 +21246,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — D(havo) = M / 29. Havoning o'rtacha molyar massasi 29 g/mol ga teng."
     },
@@ -20292,6 +21263,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Marganes (IV) oksidi (MnO₂). 2H₂O₂ =(MnO₂)=> 2H₂O + O₂↑ reaksiyasida MnO₂ katalizator."
     },
@@ -20308,6 +21280,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Rux (Zn) va xlorid kislota (HCl). Zn + 2HCl = ZnCl₂ + H₂↑."
     },
@@ -20324,6 +21297,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Katalizatorlar. Katalizatorlar kimyoviy jarayonni tezlashtiradi."
     },
@@ -20340,6 +21314,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ingibitorlar. Ingibitorlar korroziya va keraksiz reaksiyalarni susaytiradi."
     },
@@ -20356,6 +21331,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Tashqi ta'sir ko'rsatilganda kimyoviy muvozanatning shu ta'sirni kamaytiradigan tomonga siljishini. Muvozanatdagi tizimga tashqi bosim, harorat yoki konsentratsiya ta'siri qoidasi."
     },
@@ -20372,6 +21348,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Vant-Goff qoidasi. Vant-Goff qoidasi bo'yicha gamma harorat koeffitsienti 2 dan 4 gacha bo'ladi."
     },
@@ -20388,6 +21365,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Ekzotermik reaksiyalar (+Q). Ekzotermik reaksiyalarda energiya ajraladi (yonish reaksiyalari)."
     },
@@ -20404,6 +21382,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Endotermik reaksiyalar (-Q). Endotermik reaksiyalarda energiya yutiladi (parchalanish jarayonlari)."
     },
@@ -20420,6 +21399,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Elektrolitlar (kislotalar, asoslar, tuzlar). Elektrolitlar ionlarga ajraladi."
     },
@@ -20436,6 +21416,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Shakar (saxaroza) va glukoza eritmasi. Shakar suvda eriganda ionlarga ajralmaydi, elektr o'tkazmaydi."
     },
@@ -20452,6 +21433,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — w = (m(erigan modda) / m(eritma)) · 100%. Massa ulushi erigan modda massasining eritma umumiy massasiga nisbati."
     },
@@ -20468,6 +21450,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — mol/litr. C_M = n / V (mol/l)."
     },
@@ -20484,6 +21467,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Elektron biriktirib oladi va o'zi qaytariladi. Oksidlovchi elektron qabul qiluvchidir."
     },
@@ -20500,6 +21484,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Elektron beradi va o'zi oksidlanadi. Qaytaruvchi elektron beruvchidir."
     },
@@ -20516,6 +21501,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Atrof-muhit ta'sirida metallarning o'z-o'zidan emirilishi va oksidlanishi (zanglash). Temirning zanglashi korroziyaga misoldir."
     },
@@ -20532,6 +21518,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Temir va uglerodning qotishmasi. Choyanda uglerod 2% dan ko'p, po'latda 2% dan kam bo'ladi."
     },
@@ -20548,6 +21535,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mis va qalay qotishmasi. Bronza — mis va qalay asosidagi qotishma."
     },
@@ -20564,6 +21552,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Mis va rux qotishmasi. Latun mis va ruxning qotishmasidir."
     },
@@ -20580,6 +21569,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — A. M. Butlerov (1861-yilda). Butlerov moddalarning xossalari ularning tuzilishiga bog'liqligini isbotladi."
     },
@@ -20596,6 +21586,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Izomerlar. Izomeriya organik kimyoning eng muhim hodisasidir."
     },
@@ -20612,6 +21603,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Gomologlar. Masalan, metan, etan, propan gomologik qatordir."
     },
@@ -20628,6 +21620,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Markovnikov qoidasi. Markovnikov qoidasi bo'yicha vodorod vodorodi ko'p uglerodga boradi."
     },
@@ -20644,6 +21637,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Polimerlanish reaksiyasi. Masalan, etilendan polietilen hosil bo'lishi."
     },
@@ -20660,6 +21654,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — H₂O. Suv ikkita vodorod va bitta kislorod atomidan tashkil topgan (H₂O)."
     },
@@ -20676,6 +21671,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Vodorod. Vodorod (H) atom raqami 1 ga teng bo'lgan eng yengil elementdir."
     },
@@ -20692,6 +21688,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — Osh tuzi. Natriy xlorid (NaCl) osh tuzi sifatida keng qo'llaniladi."
     },
@@ -20708,6 +21705,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 300,
       "explanation": "Yo'q. To'g'ri javob — Neytral. pH = 7 neytral muhitni (masalan, sof distillangan suv) ifodalaydi."
     },
@@ -20724,6 +21722,7 @@ const kimyo = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 22.4 litr. Avogadro qonuniga ko'ra n.sh.da 1 mol har qanday gaz 22.4 litr (molyar hajm) hajmni oladi."
     },
@@ -20740,6 +21739,7 @@ const kimyo = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — 6.02 · 10²³ ta zarracha/mol. 1 mol moddadagi zarralar soni N_A = 6.02 · 10²³ ga teng."
     }

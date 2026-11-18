@@ -30,8 +30,34 @@
             document.documentElement.classList.add('dark')
             document.documentElement.style.colorScheme = 'dark'
           }
+          const forced = new URLSearchParams(window.location.search).get('season')
+          const month = new Date().getMonth() + 1
+          const season =
+            forced === 'autumn' || forced === 'independence'
+              ? 'autumn'
+              : forced === 'spring' || forced === 'navruz'
+                ? 'spring'
+                : forced === 'summer'
+                  ? 'summer'
+                  : forced === 'winter' || forced === 'newyear'
+                    ? 'winter'
+                    : month === 12 || month <= 2
+                      ? 'winter'
+                      : month <= 5
+                        ? 'spring'
+                        : month <= 8
+                          ? 'summer'
+                          : 'autumn'
+          document.documentElement.dataset.season = season
+
           const meta = document.querySelector('meta[name="theme-color"]')
-          if (meta) meta.setAttribute('content', dark ? '#05060a' : '#f4f5f8')
+          if (meta) {
+            const autumn = season === 'autumn'
+            meta.setAttribute(
+              'content',
+              dark ? (autumn ? '#0e0905' : '#05060a') : autumn ? '#f7f2e8' : '#f4f5f8'
+            )
+          }
         } catch {
           document.documentElement.classList.add('dark')
         }

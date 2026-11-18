@@ -24,9 +24,9 @@ export default function Logo({ size = 'md', className = '' }) {
       >
         <defs>
           <linearGradient id={gradientId} x1="3" y1="3" x2="29" y2="29" gradientUnits="userSpaceOnUse">
-            <stop offset="0%" stopColor="#5b7cff" />
-            <stop offset="60%" stopColor="#3556f5" />
-            <stop offset="100%" stopColor="#8b5cf6" />
+            <stop offset="0%" stopColor="var(--ember)" stopOpacity="0.82" />
+            <stop offset="60%" stopColor="var(--ember)" />
+            <stop offset="100%" stopColor="var(--cobalt)" />
           </linearGradient>
         </defs>
         <rect x="1" y="1" width="30" height="30" rx="9" fill={`url(#${gradientId})`} />

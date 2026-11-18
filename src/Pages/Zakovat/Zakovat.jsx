@@ -117,6 +117,7 @@ export default function Zakovat() {
   const isLoading = loadingCategoryId !== null
 
   const currentQuestion = sessionQuestions[questionIndex] || null
+  const correctOptionId = currentQuestion?.correct ?? null
 
   const isTimerRunning =
     gameState === 'arena' && !isAnswered && timeLeft > 0 && currentQuestion !== null
@@ -280,7 +281,7 @@ export default function Zakovat() {
   const handleSelectOption = (id) => {
     if (isDone || resolvedQuestionRef.current) return
 
-    const isAnswerCorrect = id === currentQuestion?.correct
+    const isAnswerCorrect = id === correctOptionId
     resolvedQuestionRef.current = true
     if (activeCategoryId) advanceCategoryProgress(activeCategoryId)
 
@@ -308,7 +309,7 @@ export default function Zakovat() {
     sessionRecordIdRef.current = null
   }
 
-  const isCorrect = isDone && selectedOption === currentQuestion?.correct
+  const isCorrect = isDone && selectedOption === correctOptionId
   const isTimeout = isDone && selectedOption === null
   const activeMeta = activeCategoryId ? getCategoryMeta(activeCategoryId) : null
   const activeProgress = activeCategoryId ? progressState[activeCategoryId] : null
@@ -318,7 +319,7 @@ export default function Zakovat() {
     : sessionQuestions.length
   const remainingQuestions = activeCategoryId ? Math.max(activeCount - activeCursor, 0) : 0
   const correctOption = currentQuestion?.options.find(
-    (option) => option.id === currentQuestion.correct
+    (option) => option.id === correctOptionId
   )
   const accuracyPercentage =
     stats.totalAnswered > 0 ? Math.round((stats.correctCount / stats.totalAnswered) * 100) : 0
@@ -725,7 +726,7 @@ export default function Zakovat() {
           <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {currentQuestion.options.map((option) => {
               const isSelected = selectedOption === option.id
-              const isRight = option.id === currentQuestion.correct
+              const isRight = option.id === correctOptionId
 
               let btnStyle =
                 'border-hairline bg-raised text-ink-soft hover:-translate-y-0.5 hover:border-ember/60 hover:bg-ember/[0.04] hover:text-ink'
@@ -738,7 +739,8 @@ export default function Zakovat() {
 
               if (isDone) {
                 if (isRight) {
-                  btnStyle = 'border-positive/50 bg-positive/[0.07] text-ink'
+                  btnStyle =
+                    'border-positive bg-positive/10 text-ink ring-1 ring-positive/30'
                   badgeStyle = 'border-positive bg-positive text-white'
                 } else if (isSelected) {
                   btnStyle = 'border-negative/50 bg-negative/[0.05] text-ink'
@@ -763,6 +765,11 @@ export default function Zakovat() {
                     {option.id}
                   </span>
                   <span className="pt-1.5 text-sm font-medium leading-6">{option.text}</span>
+                  {isDone && isRight && !isSelected && (
+                    <span className="ml-auto shrink-0 self-center rounded-full bg-positive/10 px-2 py-0.5 font-mono text-[8px] uppercase tracking-[0.12em] text-positive">
+                      To&apos;g&apos;ri
+                    </span>
+                  )}
                 </button>
               )
             })}

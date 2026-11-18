@@ -1,3 +1,4 @@
+import { isSupabaseEnabled, supabase } from '../lib/supabase.js'
 import { normalizeEmail } from './validation.js'
 
 const USERS_KEY = 'zehnly-users'
@@ -6,7 +7,10 @@ const LAST_EMAIL_KEY = 'zehnly-last-email'
 
 const listeners = new Set()
 
-let sessionCache = readSession()
+let sessionCache = null
+let authReady = false
+let initPromise = null
+let storageListenerAttached = false
 
 function emit() {
   listeners.forEach((listener) => listener())
@@ -23,6 +27,297 @@ export function getSession() {
   return sessionCache
 }
 
+export function getAuthReady() {
+  return authReady
+}
+
+export const isRemoteAuth = isSupabaseEnabled
+
+function mapSupabaseSession(session) {
+  const user = session?.user
+  if (!user?.email) return null
+
+  return {
+    id: user.id,
+    email: user.email,
+    name: user.user_metadata?.name || user.email.split('@')[0],
+    createdAt: user.created_at,
+    created_at: user.created_at,
+    loggedInAt: new Date().toISOString(),
+    remember: true,
+  }
+}
+
+function applySupabaseSession(session) {
+  const next = mapSupabaseSession(session)
+  const changed = JSON.stringify(next) !== JSON.stringify(sessionCache)
+
+  sessionCache = next
+  authReady = true
+  if (changed) emit()
+
+  return next
+}
+
+function mapAuthError(error) {
+  const message = String(error?.message || '')
+  const code = String(error?.code || '')
+  const normalized = `${code} ${message}`.toLowerCase()
+
+  if (
+    normalized.includes('invalid login credentials') ||
+    normalized.includes('invalid_credentials')
+  ) {
+    return {
+      ok: false,
+      code: 'INVALID_CREDENTIALS',
+      message: "Email yoki parol noto'g'ri",
+    }
+  }
+
+  if (
+    normalized.includes('already registered') ||
+    normalized.includes('already been registered') ||
+    normalized.includes('user_already_exists')
+  ) {
+    return {
+      ok: false,
+      code: 'EMAIL_TAKEN',
+      message: "Bu email allaqachon ro'yxatdan o'tgan",
+    }
+  }
+
+  if (normalized.includes('email not confirmed')) {
+    return {
+      ok: false,
+      code: 'EMAIL_NOT_CONFIRMED',
+      message: "Avval emailingizni tasdiqlang. Pochta qutingizni tekshiring",
+    }
+  }
+
+  if (
+    normalized.includes('rate limit') ||
+    normalized.includes('too many requests') ||
+    normalized.includes('over_email_send_rate_limit')
+  ) {
+    return {
+      ok: false,
+      code: 'RATE_LIMIT',
+      message: "Juda ko'p urinish bo'ldi. Bir oz kutib, qayta urinib ko'ring",
+    }
+  }
+
+  if (normalized.includes('password') && normalized.includes('least')) {
+    return {
+      ok: false,
+      code: 'WEAK_PASSWORD',
+      message: "Parol kamida 6 belgidan iborat bo'lishi kerak",
+    }
+  }
+
+  if (normalized.includes('failed to fetch') || normalized.includes('network')) {
+    return {
+      ok: false,
+      code: 'NETWORK_ERROR',
+      message: "Tarmoq bilan aloqa yo'q. Internetni tekshirib, qayta urinib ko'ring",
+    }
+  }
+
+  return {
+    ok: false,
+    code: 'UNKNOWN',
+    message: "Xatolik yuz berdi. Iltimos, qayta urinib ko'ring",
+  }
+}
+
+export function initAuth() {
+  if (initPromise) return initPromise
+
+  if (!isSupabaseEnabled) {
+    sessionCache = readLocalSession()
+
+    if (typeof window !== 'undefined' && !storageListenerAttached) {
+      storageListenerAttached = true
+      window.addEventListener('storage', (event) => {
+        if (event.key !== null && event.key !== SESSION_KEY) return
+
+        const next = readLocalSession()
+        if (JSON.stringify(next) === JSON.stringify(sessionCache)) return
+
+        sessionCache = next
+        emit()
+      })
+    }
+
+    authReady = true
+    emit()
+    initPromise = Promise.resolve()
+    return initPromise
+  }
+
+  supabase.auth.onAuthStateChange((event, session) => {
+    if (event === 'INITIAL_SESSION') return
+    applySupabaseSession(session)
+  })
+
+  initPromise = supabase.auth
+    .getSession()
+    .then(({ data }) => {
+      applySupabaseSession(data?.session)
+    })
+    .catch(() => {
+      sessionCache = null
+    })
+    .finally(() => {
+      authReady = true
+      emit()
+    })
+
+  return initPromise
+}
+
+export function getLastEmail() {
+  try {
+    return localStorage.getItem(LAST_EMAIL_KEY) ?? ''
+  } catch {
+    return ''
+  }
+}
+
+export function setLastEmail(email) {
+  try {
+    localStorage.setItem(LAST_EMAIL_KEY, normalizeEmail(email))
+  } catch {
+    // muhim emas
+  }
+}
+
+export function getUsers() {
+  return readUsers()
+}
+
+export async function registerUser(email, name, password, options = {}) {
+  const normalizedEmail = normalizeEmail(email)
+  const displayName = String(name ?? '').trim()
+
+  if (isSupabaseEnabled) {
+    const { data, error } = await supabase.auth.signUp({
+      email: normalizedEmail,
+      password,
+      options: { data: { name: displayName } },
+    })
+
+    if (error) return mapAuthError(error)
+
+    if (data?.user && Array.isArray(data.user.identities) && data.user.identities.length === 0) {
+      return {
+        ok: false,
+        code: 'EMAIL_TAKEN',
+        message: "Bu email allaqachon ro'yxatdan o'tgan",
+      }
+    }
+
+    if (!data?.session) {
+      return {
+        ok: false,
+        code: 'EMAIL_CONFIRMATION_REQUIRED',
+        message:
+          "Hisob yaratildi. Emailingizga yuborilgan tasdiqlash havolasini bosing va keyin kiring",
+      }
+    }
+
+    setLastEmail(normalizedEmail)
+
+    return { ok: true, user: applySupabaseSession(data.session) }
+  }
+
+  return registerLocalUser(normalizedEmail, displayName, password, options)
+}
+
+export async function loginUser(email, password, options = {}) {
+  const normalizedEmail = normalizeEmail(email)
+
+  if (isSupabaseEnabled) {
+    const { data, error } = await supabase.auth.signInWithPassword({
+      email: normalizedEmail,
+      password,
+    })
+
+    if (error) return mapAuthError(error)
+    if (!data?.session) {
+      return {
+        ok: false,
+        code: 'UNKNOWN',
+        message: "Tizimga kirib bo'lmadi. Qayta urinib ko'ring",
+      }
+    }
+
+    setLastEmail(normalizedEmail)
+
+    return { ok: true, user: applySupabaseSession(data.session) }
+  }
+
+  return loginLocalUser(normalizedEmail, password, options)
+}
+
+export function logoutUser() {
+  if (!isSupabaseEnabled) {
+    writeLocalSession(null)
+    return Promise.resolve()
+  }
+
+  sessionCache = null
+  emit()
+
+  return supabase.auth.signOut().catch(() => {})
+}
+
+function recoveryRedirectUrl() {
+  if (typeof window === 'undefined') return undefined
+  return `${window.location.origin}/auth/recover`
+}
+
+export async function resetPassword(email, newPassword = '') {
+  const normalizedEmail = normalizeEmail(email)
+
+  if (isSupabaseEnabled) {
+    const { error } = await supabase.auth.resetPasswordForEmail(normalizedEmail, {
+      redirectTo: recoveryRedirectUrl(),
+    })
+
+    if (error) return mapAuthError(error)
+
+    return { ok: true }
+  }
+
+  if (newPassword) return resetLocalPassword(normalizedEmail, newPassword)
+
+  return sendLocalReset(normalizedEmail)
+}
+
+export async function updatePassword(newPassword) {
+  if (isSupabaseEnabled) {
+    const { data, error } = await supabase.auth.updateUser({ password: newPassword })
+
+    if (error) return mapAuthError(error)
+
+    return { ok: true, user: data?.user ? applySupabaseSession({ user: data.user }) : null }
+  }
+
+  const email = sessionCache?.email
+  if (!email) {
+    return {
+      ok: false,
+      code: 'NO_SESSION',
+      message: "Sessiya topilmadi. Parolni tiklash havolasidan qayta foydalaning",
+    }
+  }
+
+  return resetLocalPassword(email, newPassword)
+}
+
+// --- Lokal fallback (Supabase sozlanmagan holat uchun) --------------------
+
 function readSession() {
   try {
     const localRaw = localStorage.getItem(SESSION_KEY)
@@ -35,6 +330,12 @@ function readSession() {
   } catch {
     return null
   }
+}
+
+function readLocalSession() {
+  const session = readSession()
+  if (session) session.remember = session.remember ?? true
+  return session
 }
 
 function normalizeSession(session, remember) {
@@ -52,7 +353,7 @@ function normalizeSession(session, remember) {
   return next
 }
 
-function writeSession(session) {
+function writeLocalSession(session) {
   sessionCache = session
 
   try {
@@ -134,35 +435,7 @@ function createId() {
   return `id-${Date.now()}-${Math.random().toString(16).slice(2)}`
 }
 
-export function getLastEmail() {
-  try {
-    return localStorage.getItem(LAST_EMAIL_KEY) ?? ''
-  } catch {
-    return ''
-  }
-}
-
-export function setLastEmail(email) {
-  try {
-    localStorage.setItem(LAST_EMAIL_KEY, normalizeEmail(email))
-  } catch {
-    // muhim emas
-  }
-}
-
-export function getUsers() {
-  return readUsers()
-}
-
-export function isEmailRegistered(email) {
-  const normalizedEmail = normalizeEmail(email)
-  if (!normalizedEmail) return false
-
-  return readUsers().some((user) => user.email === normalizedEmail)
-}
-
-export async function registerUser(email, name, password, options = {}) {
-  const normalizedEmail = normalizeEmail(email)
+function registerLocalUser(normalizedEmail, displayName, password, options = {}) {
   const users = readUsers()
 
   if (users.some((user) => user.email === normalizedEmail)) {
@@ -174,35 +447,34 @@ export async function registerUser(email, name, password, options = {}) {
   }
 
   const salt = randomSalt()
-  const passwordHash = await hashPassword(password, salt)
-  const createdAt = new Date().toISOString()
-  const displayName = String(name).trim()
 
-  const user = {
-    id: createId(),
-    email: normalizedEmail,
-    name: displayName,
-    salt,
-    passwordHash,
-    createdAt,
-  }
+  return hashPassword(password, salt).then((passwordHash) => {
+    const createdAt = new Date().toISOString()
+    const user = {
+      id: createId(),
+      email: normalizedEmail,
+      name: displayName,
+      salt,
+      passwordHash,
+      createdAt,
+    }
 
-  writeUsers([...users, user])
-  setLastEmail(normalizedEmail)
-  writeSession({
-    id: user.id,
-    name: user.name,
-    email: user.email,
-    createdAt,
-    loggedInAt: createdAt,
-    remember: options.remember ?? true,
+    writeUsers([...users, user])
+    setLastEmail(normalizedEmail)
+    writeLocalSession({
+      id: user.id,
+      name: user.name,
+      email: user.email,
+      createdAt,
+      loggedInAt: createdAt,
+      remember: options.remember ?? true,
+    })
+
+    return { ok: true, user }
   })
-
-  return { ok: true, user }
 }
 
-export async function loginUser(email, password, options = {}) {
-  const normalizedEmail = normalizeEmail(email)
+async function loginLocalUser(normalizedEmail, password, options = {}) {
   const user = readUsers().find((item) => item.email === normalizedEmail)
 
   if (!user) {
@@ -216,7 +488,7 @@ export async function loginUser(email, password, options = {}) {
   }
 
   setLastEmail(normalizedEmail)
-  writeSession({
+  writeLocalSession({
     id: user.id,
     name: user.name,
     email: user.email,
@@ -228,12 +500,21 @@ export async function loginUser(email, password, options = {}) {
   return { ok: true, user }
 }
 
-export function logoutUser() {
-  writeSession(null)
+function sendLocalReset(normalizedEmail) {
+  const user = readUsers().find((item) => item.email === normalizedEmail)
+
+  if (!user) {
+    return {
+      ok: false,
+      code: 'EMAIL_NOT_FOUND',
+      message: 'Bunday email bilan akkaunt topilmadi',
+    }
+  }
+
+  return { ok: true, local: true }
 }
 
-export async function resetPassword(email, newPassword) {
-  const normalizedEmail = normalizeEmail(email)
+async function resetLocalPassword(normalizedEmail, newPassword) {
   const users = readUsers()
   const index = users.findIndex((user) => user.email === normalizedEmail)
 
@@ -259,16 +540,4 @@ export async function resetPassword(email, newPassword) {
   setLastEmail(normalizedEmail)
 
   return { ok: true, user: updatedUser }
-}
-
-if (typeof window !== 'undefined') {
-  window.addEventListener('storage', (event) => {
-    if (event.key !== null && event.key !== SESSION_KEY) return
-
-    const next = readSession()
-    if (JSON.stringify(next) === JSON.stringify(sessionCache)) return
-
-    sessionCache = next
-    emit()
-  })
 }

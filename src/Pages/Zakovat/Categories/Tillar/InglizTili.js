@@ -28,6 +28,7 @@ const inglizTili = {
           "text": "rained"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -52,6 +53,7 @@ const inglizTili = {
           "text": "learned"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -76,6 +78,7 @@ const inglizTili = {
           "text": "was starting"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -100,6 +103,7 @@ const inglizTili = {
           "text": "have written"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -124,6 +128,7 @@ const inglizTili = {
           "text": "from"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -148,6 +153,7 @@ const inglizTili = {
           "text": "during"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -172,6 +178,7 @@ const inglizTili = {
           "text": "will boil"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -196,6 +203,7 @@ const inglizTili = {
           "text": "plays"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -220,6 +228,7 @@ const inglizTili = {
           "text": "stay"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "First Conditional: If + Present Simple, will + V1."
     },
@@ -244,6 +253,7 @@ const inglizTili = {
           "text": "would have"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -268,6 +278,7 @@ const inglizTili = {
           "text": "would pass"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -292,6 +303,7 @@ const inglizTili = {
           "text": "have"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -316,6 +328,7 @@ const inglizTili = {
           "text": "has been built"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -340,6 +353,7 @@ const inglizTili = {
           "text": "was written"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -364,6 +378,7 @@ const inglizTili = {
           "text": "is speaking"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Present Simple Passive: is/are + V3."
     },
@@ -388,6 +403,7 @@ const inglizTili = {
           "text": "repair"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -412,6 +428,7 @@ const inglizTili = {
           "text": "can"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -436,6 +453,7 @@ const inglizTili = {
           "text": "needn't"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -460,6 +478,7 @@ const inglizTili = {
           "text": "mustn't"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -484,6 +503,7 @@ const inglizTili = {
           "text": "can't"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -508,6 +528,7 @@ const inglizTili = {
           "text": "can't"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -532,6 +553,7 @@ const inglizTili = {
           "text": "heard"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -556,6 +578,7 @@ const inglizTili = {
           "text": "looking"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -580,6 +603,7 @@ const inglizTili = {
           "text": "took"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -604,6 +628,7 @@ const inglizTili = {
           "text": "closing"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -628,6 +653,7 @@ const inglizTili = {
           "text": "played"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -652,6 +678,7 @@ const inglizTili = {
           "text": "woken"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -676,6 +703,7 @@ const inglizTili = {
           "text": "who"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -700,6 +728,7 @@ const inglizTili = {
           "text": "who"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -724,6 +753,7 @@ const inglizTili = {
           "text": "whose"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -748,6 +778,7 @@ const inglizTili = {
           "text": "In spite of"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -772,6 +803,7 @@ const inglizTili = {
           "text": "Although"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -796,6 +828,7 @@ const inglizTili = {
           "text": "the"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -820,6 +853,7 @@ const inglizTili = {
           "text": "an"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -844,6 +878,7 @@ const inglizTili = {
           "text": "many"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -868,6 +903,7 @@ const inglizTili = {
           "text": "a few"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -892,6 +928,7 @@ const inglizTili = {
           "text": "at"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Good at something' — biror sohada mohir bo'lish."
     },
@@ -916,6 +953,7 @@ const inglizTili = {
           "text": "with"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -940,6 +978,7 @@ const inglizTili = {
           "text": "on"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Interested in' birikmasi qo'llaniladi."
     },
@@ -964,6 +1003,7 @@ const inglizTili = {
           "text": "on"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Chiroqni yoqmoq — 'turn on'."
     },
@@ -988,6 +1028,7 @@ const inglizTili = {
           "text": "away"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "'Call off' — bekor qilmoq (cancel)."
     },
@@ -1012,6 +1053,7 @@ const inglizTili = {
           "text": "out"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Give up' — yomon odatni tashlamoq."
     },
@@ -1036,6 +1078,7 @@ const inglizTili = {
           "text": "saw I"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -1060,6 +1103,7 @@ const inglizTili = {
           "text": "did we reach"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -1084,6 +1128,7 @@ const inglizTili = {
           "text": "was"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -1108,6 +1153,7 @@ const inglizTili = {
           "text": "did they"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -1132,6 +1178,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -1156,6 +1203,7 @@ const inglizTili = {
           "text": "Rare"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -1180,6 +1228,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -1204,6 +1253,7 @@ const inglizTili = {
           "text": "Charitable"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -1228,6 +1278,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -1252,6 +1303,7 @@ const inglizTili = {
           "text": "Optional"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -1276,6 +1328,7 @@ const inglizTili = {
           "text": "to become smaller or make something smaller; contract"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -1300,6 +1353,7 @@ const inglizTili = {
           "text": "Extend"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -1324,6 +1378,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -1348,6 +1403,7 @@ const inglizTili = {
           "text": "Safe"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -1372,6 +1428,7 @@ const inglizTili = {
           "text": "existing in or caused by nature; not made by humans"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -1396,6 +1453,7 @@ const inglizTili = {
           "text": "Natural"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -1420,6 +1478,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -1444,6 +1503,7 @@ const inglizTili = {
           "text": "Keen"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -1468,6 +1528,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -1492,6 +1553,7 @@ const inglizTili = {
           "text": "Brief"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -1516,6 +1578,7 @@ const inglizTili = {
           "text": "The suspect was accused of stealing the documents."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -1540,6 +1603,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -1564,6 +1628,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -1588,6 +1653,7 @@ const inglizTili = {
           "text": "against"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -1612,6 +1678,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -1636,6 +1703,7 @@ const inglizTili = {
           "text": "at"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -1660,6 +1728,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -1684,6 +1753,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -1708,6 +1778,7 @@ const inglizTili = {
           "text": "Who is responsible for organizing the national conference?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -1732,6 +1803,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -1756,6 +1828,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -1780,6 +1853,7 @@ const inglizTili = {
           "text": "than"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -1804,6 +1878,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -1828,6 +1903,7 @@ const inglizTili = {
           "text": "to"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -1852,6 +1928,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -1876,6 +1953,7 @@ const inglizTili = {
           "text": "of"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -1900,6 +1978,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -1924,6 +2003,7 @@ const inglizTili = {
           "text": "Feel very cold"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -1948,6 +2028,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -1972,6 +2053,7 @@ const inglizTili = {
           "text": "Something very easy"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -1996,6 +2078,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -2020,6 +2103,7 @@ const inglizTili = {
           "text": "At night only"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -2044,6 +2128,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -2068,6 +2153,7 @@ const inglizTili = {
           "text": "Free of charge"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -2092,6 +2178,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -2116,6 +2203,7 @@ const inglizTili = {
           "text": "Waste electricity"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -2140,6 +2228,7 @@ const inglizTili = {
           "text": "Accomodation"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -2164,6 +2253,7 @@ const inglizTili = {
           "text": "Komron said that he had learned React then."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -2188,6 +2278,7 @@ const inglizTili = {
           "text": "The teacher asked me where I do live."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -2212,6 +2303,7 @@ const inglizTili = {
           "text": "Climb"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -2236,6 +2328,7 @@ const inglizTili = {
           "text": "King"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -2260,6 +2353,7 @@ const inglizTili = {
           "text": "are"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -2284,6 +2378,7 @@ const inglizTili = {
           "text": "were"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -2308,6 +2403,7 @@ const inglizTili = {
           "text": "I wish I _______ more free time to practice programming."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Look at those dark clouds! It _______ rain soon.» savolining to'g'ri javobi — is going to. Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -2332,6 +2428,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'unwilling to give or spend; stingy / mean'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«She _______ English since 2018.» savolining to'g'ri javobi — has been learning. 'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -2356,6 +2453,7 @@ const inglizTili = {
           "text": "I am used to _______ up early every morning."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«By the time we arrived at the cinema, the movie _______.» savolining to'g'ri javobi — had already started. O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -2380,6 +2478,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'aware _______''?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«When the teacher entered the classroom, the students _______ a test.» savolining to'g'ri javobi — were writing. Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -2404,6 +2503,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'responsible _______''?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«I haven't seen him _______ last month.» savolining to'g'ri javobi — since. Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -2428,6 +2528,7 @@ const inglizTili = {
           "text": "They have lived in London _______ ten years."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«They have lived in London _______ ten years.» savolining to'g'ri javobi — for. Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -2452,6 +2553,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'prevent from _______''?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Water _______ at 100 degrees Celsius.» savolining to'g'ri javobi — boils. Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -2476,6 +2578,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'involving risk or danger; perilous'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Listen! Somebody _______ the piano.» savolining to'g'ri javobi — is playing. Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -2500,6 +2603,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'succeed _______''?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«If it rains tomorrow, we _______ at home.» savolining to'g'ri javobi — will stay. First Conditional: If + Present Simple, will + V1."
     },
@@ -2524,6 +2628,7 @@ const inglizTili = {
           "text": "If I _______ a million dollars, I would travel around the world."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«If I _______ a million dollars, I would travel around the world.» savolining to'g'ri javobi — had. Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -2548,6 +2653,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'TEMPORARY''?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«If she had studied harder, she _______ the exam yesterday.» savolining to'g'ri javobi — would have passed. Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -2572,6 +2678,7 @@ const inglizTili = {
           "text": "He _______ be at home; the lights are on and his car is outside."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«I wish I _______ more free time to practice programming.» savolining to'g'ri javobi — had. Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -2596,6 +2703,7 @@ const inglizTili = {
           "text": "The new bridge _______ in our city last year."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«The new bridge _______ in our city last year.» savolining to'g'ri javobi — was built. O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -2620,6 +2728,7 @@ const inglizTili = {
           "text": "You _______ bring food into the library; it is strictly forbidden."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "«Hamlet _______ by William Shakespeare.» savolining to'g'ri javobi — was written. Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -2644,6 +2753,7 @@ const inglizTili = {
           "text": "She avoided _______ directly at him during the meeting."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«English _______ all over the world today.» savolining to'g'ri javobi — is spoken. Present Simple Passive: is/are + V3."
     },
@@ -2668,6 +2778,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'TEMPORARY''?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«He had his car _______ yesterday at the garage.» savolining to'g'ri javobi — repaired. Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -2692,6 +2803,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'existing or available in large quantities; plentiful'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«You _______ wear a helmet when riding a motorcycle. It is the law.» savolining to'g'ri javobi — must. Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -2716,6 +2828,7 @@ const inglizTili = {
           "text": "Choose the correct reported speech: 'Where do you live?' the teacher asked me."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«You _______ bring food into the library; it is strictly forbidden.» savolining to'g'ri javobi — mustn't. Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -2740,6 +2853,7 @@ const inglizTili = {
           "text": "He _______ be at home; the lights are on and his car is outside."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«You _______ buy tickets in advance; there are plenty available at the door.» savolining to'g'ri javobi — don't have to. Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -2764,6 +2878,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to be extremely expensive or exorbitant in price'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«He _______ be at home; the lights are on and his car is outside.» savolining to'g'ri javobi — must. Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -2788,6 +2903,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'aware _______''?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«He _______ be in Paris right now because I saw him in Samarkand an hour ago.» savolining to'g'ri javobi — can't. Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -2812,6 +2928,7 @@ const inglizTili = {
           "text": "I am interested _______ learning artificial intelligence."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«I am looking forward to _______ from you soon.» savolining to'g'ri javobi — hearing. 'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -2836,6 +2953,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'HAZARDOUS''?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«She avoided _______ directly at him during the meeting.» savolining to'g'ri javobi — looking. 'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -2860,6 +2978,7 @@ const inglizTili = {
           "text": "Listen! Somebody _______ the piano."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«He decided _______ a new computer science course.» savolining to'g'ri javobi — to take. 'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -2884,6 +3003,7 @@ const inglizTili = {
           "text": "I used to _______ PUBG a lot when I was younger."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«Would you mind _______ the window, please?» savolining to'g'ri javobi — closing. 'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -2908,6 +3028,7 @@ const inglizTili = {
           "text": "I haven't seen him _______ last month."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«I used to _______ PUBG a lot when I was younger.» savolining to'g'ri javobi — play. 'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -2932,6 +3053,7 @@ const inglizTili = {
           "text": "I am used to _______ up early every morning."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«I am used to _______ up early every morning.» savolining to'g'ri javobi — waking. 'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -2956,6 +3078,7 @@ const inglizTili = {
           "text": "I am looking forward to _______ from you soon."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«The boy _______ won the first prize in the olympiad is my friend.» savolining to'g'ri javobi — who. Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -2980,6 +3103,7 @@ const inglizTili = {
           "text": "The laptop _______ I bought last week has 16GB of RAM."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«The laptop _______ I bought last week has 16GB of RAM.» savolining to'g'ri javobi — which. Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -3004,6 +3128,7 @@ const inglizTili = {
           "text": "I wish I _______ more free time to practice programming."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«The student _______ project won the competition received an award.» savolining to'g'ri javobi — whose. Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -3028,6 +3153,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'EXPAND''?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«_______ it was raining heavily, we continued playing football.» savolining to'g'ri javobi — Although. 'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -3052,6 +3178,7 @@ const inglizTili = {
           "text": "If she had studied harder, she _______ the exam yesterday."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«_______ the bad weather, the flight was not cancelled.» savolining to'g'ri javobi — Despite. 'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -3076,6 +3203,7 @@ const inglizTili = {
           "text": "They have lived in London _______ ten years."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Mount Everest is _______ highest mountain in the world.» savolining to'g'ri javobi — the. Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -3100,6 +3228,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'different _______''?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "«He is _______ honest man and always tells the truth.» savolining to'g'ri javobi — an. 'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -3124,6 +3253,7 @@ const inglizTili = {
           "text": "He gave _______ smoking two years ago and now feels much healthier."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«There is _______ milk left in the fridge; we need to buy some.» savolining to'g'ri javobi — little. Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -3148,6 +3278,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'prevent from _______''?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«I have _______ close friends in Tashkent, so I never feel lonely.» savolining to'g'ri javobi — a few. Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -3172,6 +3303,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to become smaller or make something smaller; contract'?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«She is very good _______ solving complex algorithms.» savolining to'g'ri javobi — at. 'Good at something' — biror sohada mohir bo'lish."
     },
@@ -3196,6 +3328,7 @@ const inglizTili = {
           "text": "He congratulated me _______ passing my driving test."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«He congratulated me _______ passing my driving test.» savolining to'g'ri javobi — on. 'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -3220,6 +3353,7 @@ const inglizTili = {
           "text": "I am interested _______ learning artificial intelligence."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«I am interested _______ learning artificial intelligence.» savolining to'g'ri javobi — in. 'Interested in' birikmasi qo'llaniladi."
     },
@@ -3244,6 +3378,7 @@ const inglizTili = {
           "text": "Could you please turn _______ the light? It is too dark in here."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "«Could you please turn _______ the light? It is too dark in here.» savolining to'g'ri javobi — on. Chiroqni yoqmoq — 'turn on'."
     },
@@ -3268,6 +3403,7 @@ const inglizTili = {
           "text": "The meeting was called _______ due to the chairman's illness."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«The meeting was called _______ due to the chairman's illness.» savolining to'g'ri javobi — off. 'Call off' — bekor qilmoq (cancel)."
     },
@@ -3292,6 +3428,7 @@ const inglizTili = {
           "text": "He gave _______ smoking two years ago and now feels much healthier."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "«He gave _______ smoking two years ago and now feels much healthier.» savolining to'g'ri javobi — up. 'Give up' — yomon odatni tashlamoq."
     },
@@ -3316,6 +3453,7 @@ const inglizTili = {
           "text": "You _______ wear a helmet when riding a motorcycle. It is the law."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "«Rarely _______ such a beautiful sunset.» savolining to'g'ri javobi — have I seen. Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -3340,6 +3478,7 @@ const inglizTili = {
           "text": "No sooner _______ the station than the train left."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "«No sooner _______ the station than the train left.» savolining to'g'ri javobi — had we reached. 'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -3364,6 +3503,7 @@ const inglizTili = {
           "text": "She is very good _______ solving complex algorithms."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Neither John nor his brothers _______ coming to the party.» savolining to'g'ri javobi — are. 'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -3388,6 +3528,7 @@ const inglizTili = {
           "text": "She _______ English since 2018."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Hardly anyone passed the exam, _______?» savolining to'g'ri javobi — did they. 'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -3412,6 +3553,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Burn the midnight oil''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'ABUNDANT''?» savolining to'g'ri javobi — existing or available in large quantities; plentiful. Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -3436,6 +3578,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Cost an arm and a leg''?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'existing or available in large quantities; plentiful'?» savolining to'g'ri javobi — Plentiful. Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -3460,6 +3603,7 @@ const inglizTili = {
           "text": "Could you please turn _______ the light? It is too dark in here."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'GENEROUS''?» savolining to'g'ri javobi — unwilling to give or spend; stingy / mean. Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -3484,6 +3628,7 @@ const inglizTili = {
           "text": "The laptop _______ I bought last week has 16GB of RAM."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'unwilling to give or spend; stingy / mean'?» savolining to'g'ri javobi — Stingy. Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -3508,6 +3653,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'succeed _______''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'MANDATORY''?» savolining to'g'ri javobi — required by law or rules; compulsory. Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -3532,6 +3678,7 @@ const inglizTili = {
           "text": "You _______ buy tickets in advance; there are plenty available at the door."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'required by law or rules; compulsory'?» savolining to'g'ri javobi — Compulsory. Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -3556,6 +3703,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'After months of practice, he finally succeeded in solving the puzzle.'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'EXPAND''?» savolining to'g'ri javobi — to become smaller or make something smaller; contract. Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -3580,6 +3728,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to become smaller or make something smaller; contract'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'to become smaller or make something smaller; contract'?» savolining to'g'ri javobi — Contract. Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -3604,6 +3753,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to read or work late into the night'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'HAZARDOUS''?» savolining to'g'ri javobi — involving risk or danger; perilous. Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -3628,6 +3778,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Piece of cake''?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'involving risk or danger; perilous'?» savolining to'g'ri javobi — Dangerous. Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -3652,6 +3803,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'accused _______''?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'ARTIFICIAL''?» savolining to'g'ri javobi — existing in or caused by nature; not made by humans. Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -3676,6 +3828,7 @@ const inglizTili = {
           "text": "There is _______ milk left in the fridge; we need to buy some."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'existing in or caused by nature; not made by humans'?» savolining to'g'ri javobi — Natural. Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -3700,6 +3853,7 @@ const inglizTili = {
           "text": "He gave _______ smoking two years ago and now feels much healthier."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'RELUCTANT''?» savolining to'g'ri javobi — unwilling and hesitant to do something; disinclined. Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -3724,6 +3878,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'aware _______''?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'unwilling and hesitant to do something; disinclined'?» savolining to'g'ri javobi — Unwilling. Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -3748,6 +3903,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'The suspect was accused of stealing the documents.'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'TEMPORARY''?» savolining to'g'ri javobi — lasting or intended to last or remain unchanged forever; permanent. Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -3772,6 +3928,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'lasting or intended to last or remain unchanged forever; permanent'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'lasting or intended to last or remain unchanged forever; permanent'?» savolining to'g'ri javobi — Permanent. Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -3796,6 +3953,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'accused _______''?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'accused _______''?» savolining to'g'ri javobi — The suspect was accused of stealing the documents.. Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -3820,6 +3978,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'HAZARDOUS''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'The suspect was accused of stealing the documents.'?» savolining to'g'ri javobi — of. Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -3844,6 +4003,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'prevent from _______''?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'prevent from _______''?» savolining to'g'ri javobi — The heavy snow prevented us from leaving the building.. Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -3868,6 +4028,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'She is fully capable of developing modern web applications on her own.'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'The heavy snow prevented us from leaving the building.'?» savolining to'g'ri javobi — from. Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -3892,6 +4053,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'succeed _______''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'rely _______''?» savolining to'g'ri javobi — You can always rely on your true friends in difficult situations.. Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -3916,6 +4078,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'You can always rely on your true friends in difficult situations.'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'You can always rely on your true friends in difficult situations.'?» savolining to'g'ri javobi — on. Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -3940,6 +4103,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'unwilling and hesitant to do something; disinclined'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'succeed _______''?» savolining to'g'ri javobi — After months of practice, he finally succeeded in solving the puzzle.. Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -3964,6 +4128,7 @@ const inglizTili = {
           "text": "The police _______ investigating the cyber attack."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'After months of practice, he finally succeeded in solving the puzzle.'?» savolining to'g'ri javobi — in. Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -3988,6 +4153,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Burn the midnight oil''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'responsible _______''?» savolining to'g'ri javobi — Who is responsible for organizing the national conference?. Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -4012,6 +4178,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'Who is responsible for organizing the national conference?'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'Who is responsible for organizing the national conference?'?» savolining to'g'ri javobi — for. Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -4036,6 +4203,7 @@ const inglizTili = {
           "text": "I am looking forward to _______ from you soon."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'different _______''?» savolining to'g'ri javobi — My current approach to coding is quite different from what I did before.. Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -4060,6 +4228,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'required by law or rules; compulsory'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'My current approach to coding is quite different from what I did before.'?» savolining to'g'ri javobi — from. Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -4084,6 +4253,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'TEMPORARY''?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'capable _______''?» savolining to'g'ri javobi — She is fully capable of developing modern web applications on her own.. Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -4108,6 +4278,7 @@ const inglizTili = {
           "text": "Choose the correct reported speech: 'Where do you live?' the teacher asked me."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'She is fully capable of developing modern web applications on her own.'?» savolining to'g'ri javobi — of. Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -4132,6 +4303,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'aware _______''?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'aware _______''?» savolining to'g'ri javobi — Are you aware of the new rules introduced for the competition?. Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -4156,6 +4328,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to make people feel more relaxed and comfortable in a social setting'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'Are you aware of the new rules introduced for the competition?'?» savolining to'g'ri javobi — of. Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -4180,6 +4353,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'capable _______''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Break the ice''?» savolining to'g'ri javobi — to make people feel more relaxed and comfortable in a social setting. Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -4204,6 +4378,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to make people feel more relaxed and comfortable in a social setting'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'to make people feel more relaxed and comfortable in a social setting'?» savolining to'g'ri javobi — Make people comfortable. Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -4228,6 +4403,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'accused _______''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Piece of cake''?» savolining to'g'ri javobi — something that is very easy and simple to do. Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -4252,6 +4428,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'something that is very easy and simple to do'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'something that is very easy and simple to do'?» savolining to'g'ri javobi — Something very easy. Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -4276,6 +4453,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Break the ice''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Once in a blue moon''?» savolining to'g'ri javobi — an event that happens very rarely or almost never. Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -4300,6 +4478,7 @@ const inglizTili = {
           "text": "There is _______ milk left in the fridge; we need to buy some."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'an event that happens very rarely or almost never'?» savolining to'g'ri javobi — Very rarely. Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -4324,6 +4503,7 @@ const inglizTili = {
           "text": "He is _______ honest man and always tells the truth."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Cost an arm and a leg''?» savolining to'g'ri javobi — to be extremely expensive or exorbitant in price. Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -4348,6 +4528,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'existing in or caused by nature; not made by humans'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'to be extremely expensive or exorbitant in price'?» savolining to'g'ri javobi — Extremely expensive. Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -4372,6 +4553,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'My current approach to coding is quite different from what I did before.'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "«In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Burn the midnight oil''?» savolining to'g'ri javobi — to read or work late into the night. Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -4396,6 +4578,7 @@ const inglizTili = {
           "text": "Choose the correct reported speech: 'Where do you live?' the teacher asked me."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "«Which word, expression, or preposition best completes or matches: 'to read or work late into the night'?» savolining to'g'ri javobi — Work late into the night. Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -4420,6 +4603,7 @@ const inglizTili = {
           "text": "She is very good _______ solving complex algorithms."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "«Choose the correct spelling:» savolining to'g'ri javobi — Accommodation. 'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -4444,6 +4628,7 @@ const inglizTili = {
           "text": "Choose the correct spelling:"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "«Choose the correct reported speech form: 'I am learning React now,' Komron said.» savolining to'g'ri javobi — Komron said that he was learning React then.. Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -4468,6 +4653,7 @@ const inglizTili = {
           "text": "Choose the correct reported speech: 'Where do you live?' the teacher asked me."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "«Choose the correct reported speech: 'Where do you live?' the teacher asked me.» savolining to'g'ri javobi — The teacher asked me where I lived.. Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -4492,6 +4678,7 @@ const inglizTili = {
           "text": "If it rains tomorrow, we _______ at home."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Which word has a silent letter 'b'?» savolining to'g'ri javobi — Climb. 'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -4516,6 +4703,7 @@ const inglizTili = {
           "text": "Choose the correct reported speech: 'Where do you live?' the teacher asked me."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "«Which word has a silent letter 'k'?» savolining to'g'ri javobi — Knight. 'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -4540,6 +4728,7 @@ const inglizTili = {
           "text": "_______ it was raining heavily, we continued playing football."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "«The police _______ investigating the cyber attack.» savolining to'g'ri javobi — are. 'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -4564,6 +4753,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Break the ice''?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "«No news _______ good news.» savolining to'g'ri javobi — is. 'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -4588,6 +4778,7 @@ const inglizTili = {
           "text": "Could you please turn _______ the light? It is too dark in here."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -4612,6 +4803,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to read or work late into the night'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -4636,6 +4828,7 @@ const inglizTili = {
           "text": "_______ it was raining heavily, we continued playing football."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -4660,6 +4853,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'aware _______''?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -4684,6 +4878,7 @@ const inglizTili = {
           "text": "I haven't seen him _______ last month."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -4708,6 +4903,7 @@ const inglizTili = {
           "text": "Listen! Somebody _______ the piano."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -4732,6 +4928,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'unwilling to give or spend; stingy / mean'?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -4756,6 +4953,7 @@ const inglizTili = {
           "text": "Could you please turn _______ the light? It is too dark in here."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -4780,6 +4978,7 @@ const inglizTili = {
           "text": "_______ it was raining heavily, we continued playing football."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "First Conditional: If + Present Simple, will + V1."
     },
@@ -4804,6 +5003,7 @@ const inglizTili = {
           "text": "If I _______ a million dollars, I would travel around the world."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -4828,6 +5028,7 @@ const inglizTili = {
           "text": "If she had studied harder, she _______ the exam yesterday."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -4852,6 +5053,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'existing in or caused by nature; not made by humans'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -4876,6 +5078,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'She is fully capable of developing modern web applications on her own.'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -4900,6 +5103,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to make people feel more relaxed and comfortable in a social setting'?"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -4924,6 +5128,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'Are you aware of the new rules introduced for the competition?'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Present Simple Passive: is/are + V3."
     },
@@ -4948,6 +5153,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Cost an arm and a leg''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -4972,6 +5178,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'something that is very easy and simple to do'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -4996,6 +5203,7 @@ const inglizTili = {
           "text": "You _______ bring food into the library; it is strictly forbidden."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -5020,6 +5228,7 @@ const inglizTili = {
           "text": "The boy _______ won the first prize in the olympiad is my friend."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -5044,6 +5253,7 @@ const inglizTili = {
           "text": "I am interested _______ learning artificial intelligence."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -5068,6 +5278,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'existing in or caused by nature; not made by humans'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -5092,6 +5303,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'TEMPORARY''?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -5116,6 +5328,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'unwilling to give or spend; stingy / mean'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -5140,6 +5353,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'aware _______''?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -5164,6 +5378,7 @@ const inglizTili = {
           "text": "I haven't seen him _______ last month."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -5188,6 +5403,7 @@ const inglizTili = {
           "text": "I used to _______ PUBG a lot when I was younger."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -5212,6 +5428,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'an event that happens very rarely or almost never'?"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -5236,6 +5453,7 @@ const inglizTili = {
           "text": "No sooner _______ the station than the train left."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -5260,6 +5478,7 @@ const inglizTili = {
           "text": "The laptop _______ I bought last week has 16GB of RAM."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -5284,6 +5503,7 @@ const inglizTili = {
           "text": "_______ it was raining heavily, we continued playing football."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -5308,6 +5528,7 @@ const inglizTili = {
           "text": "Which word has a silent letter 'b'?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -5332,6 +5553,7 @@ const inglizTili = {
           "text": "There is _______ milk left in the fridge; we need to buy some."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -5356,6 +5578,7 @@ const inglizTili = {
           "text": "Mount Everest is _______ highest mountain in the world."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -5380,6 +5603,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'existing in or caused by nature; not made by humans'?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -5404,6 +5628,7 @@ const inglizTili = {
           "text": "There is _______ milk left in the fridge; we need to buy some."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -5428,6 +5653,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'accused _______''?"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -5452,6 +5678,7 @@ const inglizTili = {
           "text": "Hamlet _______ by William Shakespeare."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Good at something' — biror sohada mohir bo'lish."
     },
@@ -5476,6 +5703,7 @@ const inglizTili = {
           "text": "He congratulated me _______ passing my driving test."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -5500,6 +5728,7 @@ const inglizTili = {
           "text": "Which word has a silent letter 'b'?"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Interested in' birikmasi qo'llaniladi."
     },
@@ -5524,6 +5753,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'MANDATORY''?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Chiroqni yoqmoq — 'turn on'."
     },
@@ -5548,6 +5778,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'something that is very easy and simple to do'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "'Call off' — bekor qilmoq (cancel)."
     },
@@ -5572,6 +5803,7 @@ const inglizTili = {
           "text": "He gave _______ smoking two years ago and now feels much healthier."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Give up' — yomon odatni tashlamoq."
     },
@@ -5596,6 +5828,7 @@ const inglizTili = {
           "text": "Rarely _______ such a beautiful sunset."
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -5620,6 +5853,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Once in a blue moon''?"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -5644,6 +5878,7 @@ const inglizTili = {
           "text": "If I _______ a million dollars, I would travel around the world."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -5668,6 +5903,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'responsible _______''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -5692,6 +5928,7 @@ const inglizTili = {
           "text": "_______ the bad weather, the flight was not cancelled."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -5716,6 +5953,7 @@ const inglizTili = {
           "text": "He decided _______ a new computer science course."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -5740,6 +5978,7 @@ const inglizTili = {
           "text": "I am looking forward to _______ from you soon."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -5764,6 +6003,7 @@ const inglizTili = {
           "text": "No sooner _______ the station than the train left."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -5788,6 +6028,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'MANDATORY''?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -5812,6 +6053,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Break the ice''?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -5836,6 +6078,7 @@ const inglizTili = {
           "text": "Hardly anyone passed the exam, _______?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -5860,6 +6103,7 @@ const inglizTili = {
           "text": "Which word has a silent letter 'k'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -5884,6 +6128,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'rely _______''?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -5908,6 +6153,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'involving risk or danger; perilous'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -5932,6 +6178,7 @@ const inglizTili = {
           "text": "I am interested _______ learning artificial intelligence."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -5956,6 +6203,7 @@ const inglizTili = {
           "text": "Listen! Somebody _______ the piano."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -5980,6 +6228,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'RELUCTANT''?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -6004,6 +6253,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'MANDATORY''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -6028,6 +6278,7 @@ const inglizTili = {
           "text": "He decided _______ a new computer science course."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -6052,6 +6303,7 @@ const inglizTili = {
           "text": "I am interested _______ learning artificial intelligence."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -6076,6 +6328,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'accused _______''?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -6100,6 +6353,7 @@ const inglizTili = {
           "text": "Which word has a silent letter 'b'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -6124,6 +6378,7 @@ const inglizTili = {
           "text": "The laptop _______ I bought last week has 16GB of RAM."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -6148,6 +6403,7 @@ const inglizTili = {
           "text": "I am looking forward to _______ from you soon."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -6172,6 +6428,7 @@ const inglizTili = {
           "text": "He congratulated me _______ passing my driving test."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -6196,6 +6453,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'You can always rely on your true friends in difficult situations.'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -6220,6 +6478,7 @@ const inglizTili = {
           "text": "They have lived in London _______ ten years."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -6244,6 +6503,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Burn the midnight oil''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -6268,6 +6528,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Once in a blue moon''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -6292,6 +6553,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'Who is responsible for organizing the national conference?'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -6316,6 +6578,7 @@ const inglizTili = {
           "text": "The student _______ project won the competition received an award."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -6340,6 +6603,7 @@ const inglizTili = {
           "text": "The police _______ investigating the cyber attack."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -6364,6 +6628,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Dependent preposition: 'capable _______''?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -6388,6 +6653,7 @@ const inglizTili = {
           "text": "Listen! Somebody _______ the piano."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -6412,6 +6678,7 @@ const inglizTili = {
           "text": "Choose the correct reported speech: 'Where do you live?' the teacher asked me."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -6436,6 +6703,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'You can always rely on your true friends in difficult situations.'?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -6460,6 +6728,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to become smaller or make something smaller; contract'?"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -6484,6 +6753,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to make people feel more relaxed and comfortable in a social setting'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -6508,6 +6778,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'Who is responsible for organizing the national conference?'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -6532,6 +6803,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'lasting or intended to last or remain unchanged forever; permanent'?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -6556,6 +6828,7 @@ const inglizTili = {
           "text": "I haven't seen him _______ last month."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -6580,6 +6853,7 @@ const inglizTili = {
           "text": "I am interested _______ learning artificial intelligence."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -6604,6 +6878,7 @@ const inglizTili = {
           "text": "He decided _______ a new computer science course."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -6628,6 +6903,7 @@ const inglizTili = {
           "text": "I am interested _______ learning artificial intelligence."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -6652,6 +6928,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Antonym of 'GENEROUS''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -6676,6 +6953,7 @@ const inglizTili = {
           "text": "Which word, expression, or preposition best completes or matches: 'to read or work late into the night'?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -6700,6 +6978,7 @@ const inglizTili = {
           "text": "Choose the correct reported speech: 'Where do you live?' the teacher asked me."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -6724,6 +7003,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Cost an arm and a leg''?"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -6748,6 +7028,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Synonym of 'HAZARDOUS''?"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -6772,6 +7053,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Cost an arm and a leg''?"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -6796,6 +7078,7 @@ const inglizTili = {
           "text": "I am used to _______ up early every morning."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -6820,6 +7103,7 @@ const inglizTili = {
           "text": "The boy _______ won the first prize in the olympiad is my friend."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -6844,6 +7128,7 @@ const inglizTili = {
           "text": "In English vocabulary and grammar tests, what is the correct explanation or usage of: 'Idiom: 'Burn the midnight oil''?"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -6868,6 +7153,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -6892,6 +7178,7 @@ const inglizTili = {
           "text": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -6916,6 +7203,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -6940,6 +7228,7 @@ const inglizTili = {
           "text": "'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -6964,6 +7253,7 @@ const inglizTili = {
           "text": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -6988,6 +7278,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -7012,6 +7303,7 @@ const inglizTili = {
           "text": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -7036,6 +7328,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -7060,6 +7353,7 @@ const inglizTili = {
           "text": "First Conditional: If + Present Simple, will + V1."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "First Conditional: If + Present Simple, will + V1."
     },
@@ -7084,6 +7378,7 @@ const inglizTili = {
           "text": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -7108,6 +7403,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Dependent preposition: 'succeed _______''."
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -7132,6 +7428,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -7156,6 +7453,7 @@ const inglizTili = {
           "text": "Causative form: have + something + V3 (birovga qildirmoq)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -7180,6 +7478,7 @@ const inglizTili = {
           "text": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -7204,6 +7503,7 @@ const inglizTili = {
           "text": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Present Simple Passive: is/are + V3."
     },
@@ -7228,6 +7528,7 @@ const inglizTili = {
           "text": "'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -7252,6 +7553,7 @@ const inglizTili = {
           "text": "Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -7276,6 +7578,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Idiom: 'Break the ice''."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -7300,6 +7603,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Idiom: 'Break the ice''."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -7324,6 +7628,7 @@ const inglizTili = {
           "text": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -7348,6 +7653,7 @@ const inglizTili = {
           "text": "Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -7372,6 +7678,7 @@ const inglizTili = {
           "text": "'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -7396,6 +7703,7 @@ const inglizTili = {
           "text": "Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -7420,6 +7728,7 @@ const inglizTili = {
           "text": "Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -7444,6 +7753,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Idiom: 'Break the ice''."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -7468,6 +7778,7 @@ const inglizTili = {
           "text": "Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -7492,6 +7803,7 @@ const inglizTili = {
           "text": "'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -7516,6 +7828,7 @@ const inglizTili = {
           "text": "Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -7540,6 +7853,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Synonym of 'ABUNDANT''."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -7564,6 +7878,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -7588,6 +7903,7 @@ const inglizTili = {
           "text": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -7612,6 +7928,7 @@ const inglizTili = {
           "text": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -7636,6 +7953,7 @@ const inglizTili = {
           "text": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -7660,6 +7978,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Dependent preposition: 'rely _______''."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -7684,6 +8003,7 @@ const inglizTili = {
           "text": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -7708,6 +8028,7 @@ const inglizTili = {
           "text": "Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -7732,6 +8053,7 @@ const inglizTili = {
           "text": "Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Good at something' — biror sohada mohir bo'lish."
     },
@@ -7756,6 +8078,7 @@ const inglizTili = {
           "text": "'Congratulate someone on something' predlogi bilan ishlatiladi."
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -7780,6 +8103,7 @@ const inglizTili = {
           "text": "'Interested in' birikmasi qo'llaniladi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Interested in' birikmasi qo'llaniladi."
     },
@@ -7804,6 +8128,7 @@ const inglizTili = {
           "text": "'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Chiroqni yoqmoq — 'turn on'."
     },
@@ -7828,6 +8153,7 @@ const inglizTili = {
           "text": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "'Call off' — bekor qilmoq (cancel)."
     },
@@ -7852,6 +8178,7 @@ const inglizTili = {
           "text": "'Police' so'zi ingliz tilida har doim ko'plikda keladi."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Give up' — yomon odatni tashlamoq."
     },
@@ -7876,6 +8203,7 @@ const inglizTili = {
           "text": "Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -7900,6 +8228,7 @@ const inglizTili = {
           "text": "O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -7924,6 +8253,7 @@ const inglizTili = {
           "text": "Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -7948,6 +8278,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Antonym of 'GENEROUS''."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -7972,6 +8303,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -7996,6 +8328,7 @@ const inglizTili = {
           "text": "Causative form: have + something + V3 (birovga qildirmoq)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -8020,6 +8353,7 @@ const inglizTili = {
           "text": "Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -8044,6 +8378,7 @@ const inglizTili = {
           "text": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -8068,6 +8403,7 @@ const inglizTili = {
           "text": "'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -8092,6 +8428,7 @@ const inglizTili = {
           "text": "'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -8116,6 +8453,7 @@ const inglizTili = {
           "text": "Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -8140,6 +8478,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Dependent preposition: 'prevent from _______''."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -8164,6 +8503,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Antonym of 'TEMPORARY''."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -8188,6 +8528,7 @@ const inglizTili = {
           "text": "'Call off' — bekor qilmoq (cancel)."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -8212,6 +8553,7 @@ const inglizTili = {
           "text": "Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -8236,6 +8578,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -8260,6 +8603,7 @@ const inglizTili = {
           "text": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -8284,6 +8628,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Synonym of 'RELUCTANT''."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -8308,6 +8653,7 @@ const inglizTili = {
           "text": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -8332,6 +8678,7 @@ const inglizTili = {
           "text": "Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -8356,6 +8703,7 @@ const inglizTili = {
           "text": "Present Simple Passive: is/are + V3."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -8380,6 +8728,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Dependent preposition: 'accused _______''."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -8404,6 +8753,7 @@ const inglizTili = {
           "text": "'Interested in' birikmasi qo'llaniladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -8428,6 +8778,7 @@ const inglizTili = {
           "text": "'Call off' — bekor qilmoq (cancel)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -8452,6 +8803,7 @@ const inglizTili = {
           "text": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -8476,6 +8828,7 @@ const inglizTili = {
           "text": "Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -8500,6 +8853,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -8524,6 +8878,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Dependent preposition: 'aware _______''."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -8548,6 +8903,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Dependent preposition: 'rely _______''."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -8572,6 +8928,7 @@ const inglizTili = {
           "text": "'Give up' — yomon odatni tashlamoq."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -8596,6 +8953,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Idiom: 'Burn the midnight oil''."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -8620,6 +8978,7 @@ const inglizTili = {
           "text": "Present Simple Passive: is/are + V3."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -8644,6 +9003,7 @@ const inglizTili = {
           "text": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -8668,6 +9028,7 @@ const inglizTili = {
           "text": "'Congratulate someone on something' predlogi bilan ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -8692,6 +9053,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -8716,6 +9078,7 @@ const inglizTili = {
           "text": "'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -8740,6 +9103,7 @@ const inglizTili = {
           "text": "'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -8764,6 +9128,7 @@ const inglizTili = {
           "text": "'Call off' — bekor qilmoq (cancel)."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -8788,6 +9153,7 @@ const inglizTili = {
           "text": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -8812,6 +9178,7 @@ const inglizTili = {
           "text": "Chiroqni yoqmoq — 'turn on'."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -8836,6 +9203,7 @@ const inglizTili = {
           "text": "Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -8860,6 +9228,7 @@ const inglizTili = {
           "text": "Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -8884,6 +9253,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Antonym of 'GENEROUS''."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -8908,6 +9278,7 @@ const inglizTili = {
           "text": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -8932,6 +9303,7 @@ const inglizTili = {
           "text": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -8956,6 +9328,7 @@ const inglizTili = {
           "text": "Correct answer matches 'Idiom: 'Burn the midnight oil''."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -8980,6 +9353,7 @@ const inglizTili = {
           "text": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -9004,6 +9378,7 @@ const inglizTili = {
           "text": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -9028,6 +9403,7 @@ const inglizTili = {
           "text": "Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -9052,6 +9428,7 @@ const inglizTili = {
           "text": "Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -9076,6 +9453,7 @@ const inglizTili = {
           "text": "'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -9100,6 +9478,7 @@ const inglizTili = {
           "text": "Chiroqni yoqmoq — 'turn on'."
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -9124,6 +9503,7 @@ const inglizTili = {
           "text": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -9148,6 +9528,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -9172,6 +9553,7 @@ const inglizTili = {
           "text": "since"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -9196,6 +9578,7 @@ const inglizTili = {
           "text": "wrote"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -9220,6 +9603,7 @@ const inglizTili = {
           "text": "must"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -9244,6 +9628,7 @@ const inglizTili = {
           "text": "might not"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -9268,6 +9653,7 @@ const inglizTili = {
           "text": "mustn't"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -9292,6 +9678,7 @@ const inglizTili = {
           "text": "must"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -9316,6 +9703,7 @@ const inglizTili = {
           "text": "should"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -9340,6 +9728,7 @@ const inglizTili = {
           "text": "whom"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -9364,6 +9753,7 @@ const inglizTili = {
           "text": "where"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -9388,6 +9778,7 @@ const inglizTili = {
           "text": "whose"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -9412,6 +9803,7 @@ const inglizTili = {
           "text": "Despite"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -9436,6 +9828,7 @@ const inglizTili = {
           "text": "Despite"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -9460,6 +9853,7 @@ const inglizTili = {
           "text": "the"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -9484,6 +9878,7 @@ const inglizTili = {
           "text": "a"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -9508,6 +9903,7 @@ const inglizTili = {
           "text": "few"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -9532,6 +9928,7 @@ const inglizTili = {
           "text": "little"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -9556,6 +9953,7 @@ const inglizTili = {
           "text": "at"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Good at something' — biror sohada mohir bo'lish."
     },
@@ -9580,6 +9978,7 @@ const inglizTili = {
           "text": "on"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -9604,6 +10003,7 @@ const inglizTili = {
           "text": "about"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Interested in' birikmasi qo'llaniladi."
     },
@@ -9628,6 +10028,7 @@ const inglizTili = {
           "text": "off"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Chiroqni yoqmoq — 'turn on'."
     },
@@ -9652,6 +10053,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "'Call off' — bekor qilmoq (cancel)."
     },
@@ -9676,6 +10078,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Give up' — yomon odatni tashlamoq."
     },
@@ -9700,6 +10103,7 @@ const inglizTili = {
           "text": "didn't he"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -9724,6 +10128,7 @@ const inglizTili = {
           "text": "to become smaller or make something smaller; contract"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -9748,6 +10153,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -9772,6 +10178,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -9796,6 +10203,7 @@ const inglizTili = {
           "text": "to become smaller or make something smaller; contract"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -9820,6 +10228,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -9844,6 +10253,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -9868,6 +10278,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -9892,6 +10303,7 @@ const inglizTili = {
           "text": "lasting or intended to last or remain unchanged forever; permanent"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -9916,6 +10328,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -9940,6 +10353,7 @@ const inglizTili = {
           "text": "The heavy snow prevented us from leaving the building."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -9964,6 +10378,7 @@ const inglizTili = {
           "text": "at"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -9988,6 +10403,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -10012,6 +10428,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -10036,6 +10453,7 @@ const inglizTili = {
           "text": "After months of practice, he finally succeeded in solving the puzzle."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -10060,6 +10478,7 @@ const inglizTili = {
           "text": "Who is responsible for organizing the national conference?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -10084,6 +10503,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -10108,6 +10528,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -10132,6 +10553,7 @@ const inglizTili = {
           "text": "Are you aware of the new rules introduced for the competition?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -10156,6 +10578,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -10180,6 +10603,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -10204,6 +10628,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -10228,6 +10653,7 @@ const inglizTili = {
           "text": "to be extremely expensive or exorbitant in price"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -10252,6 +10678,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -10276,6 +10703,7 @@ const inglizTili = {
           "text": "Accommodation"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -10300,6 +10728,7 @@ const inglizTili = {
           "text": "Cab"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -10324,6 +10753,7 @@ const inglizTili = {
           "text": "Kangaroo"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -10348,6 +10778,7 @@ const inglizTili = {
           "text": "have been"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -10364,6 +10795,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -10380,6 +10812,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -10396,6 +10829,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -10412,6 +10846,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -10428,6 +10863,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -10444,6 +10880,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -10460,6 +10897,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -10476,6 +10914,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -10492,6 +10931,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. First Conditional: If + Present Simple, will + V1."
     },
@@ -10508,6 +10948,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -10524,6 +10965,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -10540,6 +10982,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -10556,6 +10999,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -10572,6 +11016,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -10588,6 +11033,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Present Simple Passive: is/are + V3."
     },
@@ -10604,6 +11050,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -10620,6 +11067,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -10636,6 +11084,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -10652,6 +11101,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -10668,6 +11118,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -10684,6 +11135,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -10700,6 +11152,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -10716,6 +11169,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -10732,6 +11186,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -10748,6 +11203,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -10764,6 +11220,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -10780,6 +11237,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -10796,6 +11254,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -10812,6 +11271,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -10828,6 +11288,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -10844,6 +11305,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -10860,6 +11322,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -10876,6 +11339,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -10892,6 +11356,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. 'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -10908,6 +11373,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -10924,6 +11390,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -10940,6 +11407,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 'Good at something' — biror sohada mohir bo'lish."
     },
@@ -10956,6 +11424,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -10972,6 +11441,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. 'Interested in' birikmasi qo'llaniladi."
     },
@@ -10988,6 +11458,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. Chiroqni yoqmoq — 'turn on'."
     },
@@ -11004,6 +11475,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 'Call off' — bekor qilmoq (cancel)."
     },
@@ -11020,6 +11492,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Give up' — yomon odatni tashlamoq."
     },
@@ -11036,6 +11509,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Ha. Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -11052,6 +11526,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Ha. 'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -11068,6 +11543,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. 'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -11084,6 +11560,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. 'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -11100,6 +11577,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -11116,6 +11594,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -11132,6 +11611,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -11148,6 +11628,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -11164,6 +11645,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -11180,6 +11662,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -11196,6 +11679,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -11212,6 +11696,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -11228,6 +11713,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -11244,6 +11730,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -11260,6 +11747,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -11276,6 +11764,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -11292,6 +11781,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -11308,6 +11798,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -11324,6 +11815,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -11340,6 +11832,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -11356,6 +11849,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -11372,6 +11866,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -11388,6 +11883,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -11404,6 +11900,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -11420,6 +11917,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -11436,6 +11934,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -11452,6 +11951,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -11468,6 +11968,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -11484,6 +11985,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -11500,6 +12002,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -11516,6 +12019,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -11532,6 +12036,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -11548,6 +12053,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -11564,6 +12070,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -11580,6 +12087,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -11596,6 +12104,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -11612,6 +12121,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -11628,6 +12138,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -11644,6 +12155,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -11660,6 +12172,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -11676,6 +12189,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -11692,6 +12206,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -11708,6 +12223,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -11724,6 +12240,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -11740,6 +12257,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -11756,6 +12274,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Ha. Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -11772,6 +12291,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -11788,6 +12308,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -11804,6 +12325,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ha. Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -11820,6 +12342,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Ha. 'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -11836,6 +12359,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ha. 'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -11852,6 +12376,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Ha. 'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -11868,6 +12393,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Ha. 'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -11884,6 +12410,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is going to. Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -11900,6 +12427,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — has been learning. 'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -11916,6 +12444,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had already started. O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -11932,6 +12461,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — were writing. Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -11948,6 +12478,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — since. Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -11964,6 +12495,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — for. Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -11980,6 +12512,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — boils. Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -11996,6 +12529,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — is playing. Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -12012,6 +12546,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — will stay. First Conditional: If + Present Simple, will + V1."
     },
@@ -12028,6 +12563,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had. Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -12044,6 +12580,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — would have passed. Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -12060,6 +12597,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had. Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -12076,6 +12614,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — was built. O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -12092,6 +12631,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — was written. Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -12108,6 +12648,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is spoken. Present Simple Passive: is/are + V3."
     },
@@ -12124,6 +12665,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — repaired. Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -12140,6 +12682,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — must. Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -12156,6 +12699,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — mustn't. Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -12172,6 +12716,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — don't have to. Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -12188,6 +12733,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — must. Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -12204,6 +12750,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — can't. Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -12220,6 +12767,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — hearing. 'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -12236,6 +12784,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — looking. 'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -12252,6 +12801,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — to take. 'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -12268,6 +12818,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — closing. 'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -12284,6 +12835,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — play. 'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -12300,6 +12852,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — waking. 'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -12316,6 +12869,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — who. Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -12332,6 +12886,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — which. Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -12348,6 +12903,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — whose. Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -12364,6 +12920,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Although. 'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -12380,6 +12937,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Despite. 'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -12396,6 +12954,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — the. Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -12412,6 +12971,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — an. 'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -12428,6 +12988,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — little. Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -12444,6 +13005,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — a few. Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -12460,6 +13022,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — at. 'Good at something' — biror sohada mohir bo'lish."
     },
@@ -12476,6 +13039,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — on. 'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -12492,6 +13056,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — in. 'Interested in' birikmasi qo'llaniladi."
     },
@@ -12508,6 +13073,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — on. Chiroqni yoqmoq — 'turn on'."
     },
@@ -12524,6 +13090,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — off. 'Call off' — bekor qilmoq (cancel)."
     },
@@ -12540,6 +13107,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — up. 'Give up' — yomon odatni tashlamoq."
     },
@@ -12556,6 +13124,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — have I seen. Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -12572,6 +13141,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — had we reached. 'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -12588,6 +13158,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — are. 'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -12604,6 +13175,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — did they. 'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -12620,6 +13192,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — existing or available in large quantities; plentiful. Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -12636,6 +13209,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Plentiful. Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -12652,6 +13226,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — unwilling to give or spend; stingy / mean. Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -12668,6 +13243,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Stingy. Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -12684,6 +13260,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — required by law or rules; compulsory. Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -12700,6 +13277,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Compulsory. Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -12716,6 +13294,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to become smaller or make something smaller; contract. Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -12732,6 +13311,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Contract. Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -12748,6 +13328,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — involving risk or danger; perilous. Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -12764,6 +13345,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dangerous. Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -12780,6 +13362,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — existing in or caused by nature; not made by humans. Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -12796,6 +13379,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Natural. Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -12812,6 +13396,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — unwilling and hesitant to do something; disinclined. Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -12828,6 +13413,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Unwilling. Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -12844,6 +13430,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — lasting or intended to last or remain unchanged forever; permanent. Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -12860,6 +13447,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Permanent. Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -12876,6 +13464,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The suspect was accused of stealing the documents.. Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -12892,6 +13481,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -12908,6 +13498,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The heavy snow prevented us from leaving the building.. Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -12924,6 +13515,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — from. Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -12940,6 +13532,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — You can always rely on your true friends in difficult situations.. Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -12956,6 +13549,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — on. Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -12972,6 +13566,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — After months of practice, he finally succeeded in solving the puzzle.. Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -12988,6 +13583,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — in. Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -13004,6 +13600,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Who is responsible for organizing the national conference?. Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -13020,6 +13617,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — for. Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -13036,6 +13634,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — My current approach to coding is quite different from what I did before.. Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -13052,6 +13651,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — from. Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -13068,6 +13668,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — She is fully capable of developing modern web applications on her own.. Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -13084,6 +13685,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -13100,6 +13702,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Are you aware of the new rules introduced for the competition?. Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -13116,6 +13719,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -13132,6 +13736,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to make people feel more relaxed and comfortable in a social setting. Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -13148,6 +13753,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Make people comfortable. Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -13164,6 +13770,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — something that is very easy and simple to do. Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -13180,6 +13787,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Something very easy. Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -13196,6 +13804,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — an event that happens very rarely or almost never. Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -13212,6 +13821,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Very rarely. Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -13228,6 +13838,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to be extremely expensive or exorbitant in price. Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -13244,6 +13855,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Extremely expensive. Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -13260,6 +13872,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to read or work late into the night. Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -13276,6 +13889,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Work late into the night. Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -13292,6 +13906,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Accommodation. 'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -13308,6 +13923,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Komron said that he was learning React then.. Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -13324,6 +13940,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The teacher asked me where I lived.. Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -13340,6 +13957,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Climb. 'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -13356,6 +13974,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Knight. 'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -13372,6 +13991,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — are. 'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -13388,6 +14008,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is. 'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -13404,6 +14025,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is going to. Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -13420,6 +14042,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — has been learning. 'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -13436,6 +14059,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had already started. O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -13452,6 +14076,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — were writing. Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -13468,6 +14093,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — since. Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -13484,6 +14110,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — for. Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -13500,6 +14127,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — boils. Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -13516,6 +14144,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — is playing. Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -13532,6 +14161,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — will stay. First Conditional: If + Present Simple, will + V1."
     },
@@ -13548,6 +14178,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had. Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -13564,6 +14195,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — would have passed. Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -13580,6 +14212,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had. Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -13596,6 +14229,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — was built. O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -13612,6 +14246,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — was written. Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -13628,6 +14263,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is spoken. Present Simple Passive: is/are + V3."
     },
@@ -13644,6 +14280,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — repaired. Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -13660,6 +14297,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — must. Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -13676,6 +14314,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — mustn't. Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -13692,6 +14331,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — don't have to. Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -13708,6 +14348,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — must. Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -13724,6 +14365,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — can't. Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -13740,6 +14382,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — hearing. 'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -13756,6 +14399,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — looking. 'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -13772,6 +14416,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — to take. 'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -13788,6 +14433,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — closing. 'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -13804,6 +14450,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — play. 'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -13820,6 +14467,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — waking. 'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -13836,6 +14484,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — who. Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -13852,6 +14501,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — which. Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -13868,6 +14518,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — whose. Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -13884,6 +14535,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Although. 'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -13900,6 +14552,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Despite. 'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -13916,6 +14569,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — the. Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -13932,6 +14586,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — an. 'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -13948,6 +14603,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — little. Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -13964,6 +14620,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — a few. Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -13980,6 +14637,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — at. 'Good at something' — biror sohada mohir bo'lish."
     },
@@ -13996,6 +14654,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — on. 'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -14012,6 +14671,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — in. 'Interested in' birikmasi qo'llaniladi."
     },
@@ -14028,6 +14688,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — on. Chiroqni yoqmoq — 'turn on'."
     },
@@ -14044,6 +14705,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — off. 'Call off' — bekor qilmoq (cancel)."
     },
@@ -14060,6 +14722,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — up. 'Give up' — yomon odatni tashlamoq."
     },
@@ -14076,6 +14739,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — have I seen. Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -14092,6 +14756,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — had we reached. 'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -14108,6 +14773,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — are. 'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -14124,6 +14790,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — did they. 'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -14140,6 +14807,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — existing or available in large quantities; plentiful. Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -14156,6 +14824,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Plentiful. Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -14172,6 +14841,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — unwilling to give or spend; stingy / mean. Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -14188,6 +14858,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Stingy. Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -14204,6 +14875,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — required by law or rules; compulsory. Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -14220,6 +14892,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Compulsory. Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -14236,6 +14909,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to become smaller or make something smaller; contract. Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -14252,6 +14926,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Contract. Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -14268,6 +14943,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — involving risk or danger; perilous. Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -14284,6 +14960,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dangerous. Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -14300,6 +14977,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — existing in or caused by nature; not made by humans. Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -14316,6 +14994,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Natural. Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -14332,6 +15011,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — unwilling and hesitant to do something; disinclined. Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -14348,6 +15028,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Unwilling. Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -14364,6 +15045,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — lasting or intended to last or remain unchanged forever; permanent. Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -14380,6 +15062,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Permanent. Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -14396,6 +15079,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The suspect was accused of stealing the documents.. Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -14412,6 +15096,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -14428,6 +15113,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The heavy snow prevented us from leaving the building.. Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -14444,6 +15130,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — from. Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -14460,6 +15147,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — You can always rely on your true friends in difficult situations.. Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -14476,6 +15164,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — on. Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -14492,6 +15181,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — After months of practice, he finally succeeded in solving the puzzle.. Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -14508,6 +15198,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — in. Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -14524,6 +15215,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Who is responsible for organizing the national conference?. Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -14540,6 +15232,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — for. Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -14556,6 +15249,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — My current approach to coding is quite different from what I did before.. Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -14572,6 +15266,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — from. Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -14588,6 +15283,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — She is fully capable of developing modern web applications on her own.. Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -14604,6 +15300,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -14620,6 +15317,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Are you aware of the new rules introduced for the competition?. Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -14636,6 +15334,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -14652,6 +15351,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to make people feel more relaxed and comfortable in a social setting. Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -14668,6 +15368,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Make people comfortable. Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -14684,6 +15385,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — something that is very easy and simple to do. Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -14700,6 +15402,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Something very easy. Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -14716,6 +15419,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — an event that happens very rarely or almost never. Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -14732,6 +15436,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Very rarely. Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -14748,6 +15453,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to be extremely expensive or exorbitant in price. Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -14764,6 +15470,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Extremely expensive. Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -14780,6 +15487,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to read or work late into the night. Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -14796,6 +15504,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Work late into the night. Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -14812,6 +15521,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Accommodation. 'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -14828,6 +15538,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Komron said that he was learning React then.. Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -14844,6 +15555,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The teacher asked me where I lived.. Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -14860,6 +15572,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Climb. 'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -14876,6 +15589,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Knight. 'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -14892,6 +15606,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — are. 'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -14908,6 +15623,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is. 'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -14924,6 +15640,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is going to. Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -14940,6 +15657,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — has been learning. 'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -14956,6 +15674,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had already started. O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -14972,6 +15691,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — were writing. Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -14988,6 +15708,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — since. Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -15004,6 +15725,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — for. Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -15020,6 +15742,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — boils. Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -15036,6 +15759,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — is playing. Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -15052,6 +15776,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — will stay. First Conditional: If + Present Simple, will + V1."
     },
@@ -15068,6 +15793,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had. Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -15084,6 +15810,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — would have passed. Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -15100,6 +15827,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — had. Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -15116,6 +15844,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — was built. O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -15132,6 +15861,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — was written. Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -15148,6 +15878,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is spoken. Present Simple Passive: is/are + V3."
     },
@@ -15164,6 +15895,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — repaired. Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -15180,6 +15912,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — must. Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -15196,6 +15929,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — mustn't. Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -15212,6 +15946,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — don't have to. Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -15228,6 +15963,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — must. Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -15244,6 +15980,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — can't. Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -15260,6 +15997,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — hearing. 'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -15276,6 +16014,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — looking. 'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -15292,6 +16031,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — to take. 'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -15308,6 +16048,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — closing. 'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -15324,6 +16065,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — play. 'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -15340,6 +16082,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — waking. 'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -15356,6 +16099,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — who. Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -15372,6 +16116,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — which. Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -15388,6 +16133,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — whose. Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -15404,6 +16150,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Although. 'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -15420,6 +16167,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Despite. 'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -15436,6 +16184,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — the. Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -15452,6 +16201,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — an. 'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -15468,6 +16218,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — little. Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -15484,6 +16235,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — a few. Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -15500,6 +16252,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — at. 'Good at something' — biror sohada mohir bo'lish."
     },
@@ -15516,6 +16269,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — on. 'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -15532,6 +16286,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — in. 'Interested in' birikmasi qo'llaniladi."
     },
@@ -15548,6 +16303,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — on. Chiroqni yoqmoq — 'turn on'."
     },
@@ -15564,6 +16320,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — off. 'Call off' — bekor qilmoq (cancel)."
     },
@@ -15580,6 +16337,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — up. 'Give up' — yomon odatni tashlamoq."
     },
@@ -15596,6 +16354,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — have I seen. Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -15612,6 +16371,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Yo'q. To'g'ri javob — had we reached. 'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -15628,6 +16388,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — are. 'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -15644,6 +16405,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — did they. 'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -15660,6 +16422,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — existing or available in large quantities; plentiful. Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -15676,6 +16439,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Plentiful. Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -15692,6 +16456,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — unwilling to give or spend; stingy / mean. Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -15708,6 +16473,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Stingy. Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -15724,6 +16490,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — required by law or rules; compulsory. Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -15740,6 +16507,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Compulsory. Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -15756,6 +16524,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to become smaller or make something smaller; contract. Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -15772,6 +16541,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Contract. Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -15788,6 +16558,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — involving risk or danger; perilous. Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -15804,6 +16575,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Dangerous. Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -15820,6 +16592,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — existing in or caused by nature; not made by humans. Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -15836,6 +16609,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Natural. Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -15852,6 +16626,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — unwilling and hesitant to do something; disinclined. Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -15868,6 +16643,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Unwilling. Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -15884,6 +16660,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — lasting or intended to last or remain unchanged forever; permanent. Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -15900,6 +16677,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Permanent. Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -15916,6 +16694,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The suspect was accused of stealing the documents.. Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -15932,6 +16711,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -15948,6 +16728,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The heavy snow prevented us from leaving the building.. Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -15964,6 +16745,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — from. Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -15980,6 +16762,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — You can always rely on your true friends in difficult situations.. Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -15996,6 +16779,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — on. Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -16012,6 +16796,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — After months of practice, he finally succeeded in solving the puzzle.. Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -16028,6 +16813,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — in. Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -16044,6 +16830,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Who is responsible for organizing the national conference?. Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -16060,6 +16847,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — for. Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -16076,6 +16864,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — My current approach to coding is quite different from what I did before.. Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -16092,6 +16881,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — from. Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -16108,6 +16898,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — She is fully capable of developing modern web applications on her own.. Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -16124,6 +16915,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -16140,6 +16932,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Are you aware of the new rules introduced for the competition?. Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -16156,6 +16949,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — of. Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -16172,6 +16966,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to make people feel more relaxed and comfortable in a social setting. Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -16188,6 +16983,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Make people comfortable. Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -16204,6 +17000,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — something that is very easy and simple to do. Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -16220,6 +17017,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Something very easy. Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -16236,6 +17034,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — an event that happens very rarely or almost never. Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -16252,6 +17051,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Very rarely. Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -16268,6 +17068,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to be extremely expensive or exorbitant in price. Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -16284,6 +17085,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Extremely expensive. Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -16300,6 +17102,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — to read or work late into the night. Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -16316,6 +17119,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Work late into the night. Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -16332,6 +17136,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — Accommodation. 'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -16348,6 +17153,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — Komron said that he was learning React then.. Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -16364,6 +17170,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Yo'q. To'g'ri javob — The teacher asked me where I lived.. Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -16380,6 +17187,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Climb. 'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -16396,6 +17204,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Yo'q. To'g'ri javob — Knight. 'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -16412,6 +17221,7 @@ const inglizTili = {
           "text": "Yo'q"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — are. 'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -16428,6 +17238,7 @@ const inglizTili = {
           "text": "Ha"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Yo'q. To'g'ri javob — is. 'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -16452,6 +17263,7 @@ const inglizTili = {
           "text": "rained"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -16476,6 +17288,7 @@ const inglizTili = {
           "text": "has been learning"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -16500,6 +17313,7 @@ const inglizTili = {
           "text": "had already started"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -16524,6 +17338,7 @@ const inglizTili = {
           "text": "are writing"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -16548,6 +17363,7 @@ const inglizTili = {
           "text": "since"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -16572,6 +17388,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -16596,6 +17413,7 @@ const inglizTili = {
           "text": "boils"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -16620,6 +17438,7 @@ const inglizTili = {
           "text": "has played"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -16644,6 +17463,7 @@ const inglizTili = {
           "text": "stayed"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "First Conditional: If + Present Simple, will + V1."
     },
@@ -16668,6 +17488,7 @@ const inglizTili = {
           "text": "will have"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -16692,6 +17513,7 @@ const inglizTili = {
           "text": "would have passed"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -16716,6 +17538,7 @@ const inglizTili = {
           "text": "have had"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -16740,6 +17563,7 @@ const inglizTili = {
           "text": "is built"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -16764,6 +17588,7 @@ const inglizTili = {
           "text": "wrote"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -16788,6 +17613,7 @@ const inglizTili = {
           "text": "is speaking"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Present Simple Passive: is/are + V3."
     },
@@ -16812,6 +17638,7 @@ const inglizTili = {
           "text": "repairing"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -16836,6 +17663,7 @@ const inglizTili = {
           "text": "may"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -16860,6 +17688,7 @@ const inglizTili = {
           "text": "might not"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -16884,6 +17713,7 @@ const inglizTili = {
           "text": "can't"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -16908,6 +17738,7 @@ const inglizTili = {
           "text": "must"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -16932,6 +17763,7 @@ const inglizTili = {
           "text": "might"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -16956,6 +17788,7 @@ const inglizTili = {
           "text": "heard"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -16980,6 +17813,7 @@ const inglizTili = {
           "text": "looked"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -17004,6 +17838,7 @@ const inglizTili = {
           "text": "take"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -17028,6 +17863,7 @@ const inglizTili = {
           "text": "to close"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -17052,6 +17888,7 @@ const inglizTili = {
           "text": "playing"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -17076,6 +17913,7 @@ const inglizTili = {
           "text": "woken"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -17100,6 +17938,7 @@ const inglizTili = {
           "text": "which"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -17124,6 +17963,7 @@ const inglizTili = {
           "text": "which"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -17148,6 +17988,7 @@ const inglizTili = {
           "text": "which"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -17172,6 +18013,7 @@ const inglizTili = {
           "text": "Because"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -17196,6 +18038,7 @@ const inglizTili = {
           "text": "Despite"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -17220,6 +18063,7 @@ const inglizTili = {
           "text": "-"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -17244,6 +18088,7 @@ const inglizTili = {
           "text": "an"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -17268,6 +18113,7 @@ const inglizTili = {
           "text": "many"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -17292,6 +18138,7 @@ const inglizTili = {
           "text": "few"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -17316,6 +18163,7 @@ const inglizTili = {
           "text": "at"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Good at something' — biror sohada mohir bo'lish."
     },
@@ -17340,6 +18188,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -17364,6 +18213,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "'Interested in' birikmasi qo'llaniladi."
     },
@@ -17388,6 +18238,7 @@ const inglizTili = {
           "text": "off"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Chiroqni yoqmoq — 'turn on'."
     },
@@ -17412,6 +18263,7 @@ const inglizTili = {
           "text": "out"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "'Call off' — bekor qilmoq (cancel)."
     },
@@ -17436,6 +18288,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Give up' — yomon odatni tashlamoq."
     },
@@ -17460,6 +18313,7 @@ const inglizTili = {
           "text": "saw I"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -17484,6 +18338,7 @@ const inglizTili = {
           "text": "did we reach"
         }
       ],
+      "correct": "A",
       "xp": 250,
       "explanation": "'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -17508,6 +18363,7 @@ const inglizTili = {
           "text": "has been"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -17532,6 +18388,7 @@ const inglizTili = {
           "text": "didn't they"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -17556,6 +18413,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -17580,6 +18438,7 @@ const inglizTili = {
           "text": "Plentiful"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -17604,6 +18463,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -17628,6 +18488,7 @@ const inglizTili = {
           "text": "Charitable"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -17652,6 +18513,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -17676,6 +18538,7 @@ const inglizTili = {
           "text": "Compulsory"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -17700,6 +18563,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -17724,6 +18588,7 @@ const inglizTili = {
           "text": "Contract"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -17748,6 +18613,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -17772,6 +18638,7 @@ const inglizTili = {
           "text": "Harmless"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -17796,6 +18663,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -17820,6 +18688,7 @@ const inglizTili = {
           "text": "False"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -17844,6 +18713,7 @@ const inglizTili = {
           "text": "unwilling and hesitant to do something; disinclined"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -17868,6 +18738,7 @@ const inglizTili = {
           "text": "Eager"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -17892,6 +18763,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -17916,6 +18788,7 @@ const inglizTili = {
           "text": "Permanent"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -17940,6 +18813,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -17964,6 +18838,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -17988,6 +18863,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -18012,6 +18888,7 @@ const inglizTili = {
           "text": "to"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -18036,6 +18913,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -18060,6 +18938,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -18084,6 +18963,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -18108,6 +18988,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -18132,6 +19013,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -18156,6 +19038,7 @@ const inglizTili = {
           "text": "with"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -18180,6 +19063,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -18204,6 +19088,7 @@ const inglizTili = {
           "text": "than"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -18228,6 +19113,7 @@ const inglizTili = {
           "text": "She is fully capable of developing modern web applications on her own."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -18252,6 +19138,7 @@ const inglizTili = {
           "text": "with"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -18276,6 +19163,7 @@ const inglizTili = {
           "text": "Are you aware of the new rules introduced for the competition?"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -18300,6 +19188,7 @@ const inglizTili = {
           "text": "of"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -18324,6 +19213,7 @@ const inglizTili = {
           "text": "to make people feel more relaxed and comfortable in a social setting"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -18348,6 +19238,7 @@ const inglizTili = {
           "text": "Leave a place"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -18372,6 +19263,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -18396,6 +19288,7 @@ const inglizTili = {
           "text": "A dangerous task"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -18420,6 +19313,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -18444,6 +19338,7 @@ const inglizTili = {
           "text": "Very rarely"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -18468,6 +19363,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -18492,6 +19388,7 @@ const inglizTili = {
           "text": "Causing injury"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -18516,6 +19413,7 @@ const inglizTili = {
           "text": "to read or work late into the night"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -18540,6 +19438,7 @@ const inglizTili = {
           "text": "Wake up early"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -18564,6 +19463,7 @@ const inglizTili = {
           "text": "Acomodation"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -18588,6 +19488,7 @@ const inglizTili = {
           "text": "Komron said that he had learned React then."
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -18612,6 +19513,7 @@ const inglizTili = {
           "text": "The teacher asked me where I do live."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -18636,6 +19538,7 @@ const inglizTili = {
           "text": "Robot"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -18660,6 +19563,7 @@ const inglizTili = {
           "text": "Kitchen"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -18684,6 +19588,7 @@ const inglizTili = {
           "text": "are"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     },
@@ -18708,6 +19613,7 @@ const inglizTili = {
           "text": "have been"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'News' so'zi ko'rinishidan ko'plik bo'lsa-da, sanalmaydigan birlik ot hisoblanadi (is)."
     },
@@ -18732,6 +19638,7 @@ const inglizTili = {
           "text": "is going to"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Aniq ko'rinib turgan dalil (qora bulutlar) asosidagi kelasi zamon bashorati uchun 'be going to' qo'llaniladi."
     },
@@ -18756,6 +19663,7 @@ const inglizTili = {
           "text": "learns"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Since 2018' o'tmishda boshlanib hozirgacha davom etayotgan harakatni (Present Perfect Continuous) bildiradi."
     },
@@ -18780,6 +19688,7 @@ const inglizTili = {
           "text": "was starting"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "O'tmishdagi boshqa bir ish-harakatdan oldin sodir bo'lgan voqea uchun Past Perfect ishlatiladi."
     },
@@ -18804,6 +19713,7 @@ const inglizTili = {
           "text": "have written"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Past Continuous o'tmishda biror paytda davom etayotgan harakatni ifodalaydi."
     },
@@ -18828,6 +19738,7 @@ const inglizTili = {
           "text": "from"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Muayyan boshlanish nuqtasi bilan 'since' ishlatiladi."
     },
@@ -18852,6 +19763,7 @@ const inglizTili = {
           "text": "since"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Vaqt davomiyligi (muddat) bilan 'for' predlogi ishlatiladi."
     },
@@ -18876,6 +19788,7 @@ const inglizTili = {
           "text": "boils"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Tabiat qonunlari va doimiy haqiqatlar uchun Present Simple ishlatiladi."
     },
@@ -18900,6 +19813,7 @@ const inglizTili = {
           "text": "has played"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "Ayni vaqtda sodir bo'layotgan harakat uchun Present Continuous ishlatiladi."
     },
@@ -18924,6 +19838,7 @@ const inglizTili = {
           "text": "stayed"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "First Conditional: If + Present Simple, will + V1."
     },
@@ -18948,6 +19863,7 @@ const inglizTili = {
           "text": "have"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Second Conditional (noreal hozirgi): If + Past Simple, would + V1."
     },
@@ -18972,6 +19888,7 @@ const inglizTili = {
           "text": "will pass"
         }
       ],
+      "correct": "C",
       "xp": 250,
       "explanation": "Third Conditional (o'tmishdagi afsus): If + Past Perfect, would have + V3."
     },
@@ -18996,6 +19913,7 @@ const inglizTili = {
           "text": "have had"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Hozirgi zamondagi orzu-istaklar uchun 'wish + Past Simple' qo'llaniladi."
     },
@@ -19020,6 +19938,7 @@ const inglizTili = {
           "text": "built"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "O'tgan zamondagi majhul nisbat (Past Simple Passive): was/were + V3."
     },
@@ -19044,6 +19963,7 @@ const inglizTili = {
           "text": "was written"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Tarixiy asar yozilganligi uchun 'was written' ishlatiladi."
     },
@@ -19068,6 +19988,7 @@ const inglizTili = {
           "text": "is speaking"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "Present Simple Passive: is/are + V3."
     },
@@ -19092,6 +20013,7 @@ const inglizTili = {
           "text": "repair"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Causative form: have + something + V3 (birovga qildirmoq)."
     },
@@ -19116,6 +20038,7 @@ const inglizTili = {
           "text": "can"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "Qat'iy qonuniy majburiyat uchun 'must' ishlatiladi."
     },
@@ -19140,6 +20063,7 @@ const inglizTili = {
           "text": "needn't"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Taqiqlash ma'nosida 'mustn't' qo'llaniladi."
     },
@@ -19164,6 +20088,7 @@ const inglizTili = {
           "text": "can't"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Majburiyat yo'qligini bildirish uchun 'don't have to' / 'needn't' ishlatiladi."
     },
@@ -19188,6 +20113,7 @@ const inglizTili = {
           "text": "must"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Kuchli mantiqiy xulosa (aniq ishonch) uchun 'must' ishlatiladi."
     },
@@ -19212,6 +20138,7 @@ const inglizTili = {
           "text": "can't"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Imkonsizlikni ifodalovchi qat'iy inkor taxmin uchun 'can't' ishlatiladi."
     },
@@ -19236,6 +20163,7 @@ const inglizTili = {
           "text": "hear"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Look forward to' iborasidan keyin doim fe'lga '-ing' (Gerund) qo'shiladi."
     },
@@ -19260,6 +20188,7 @@ const inglizTili = {
           "text": "looking"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Avoid' fe'lidan so'ng Gerund (V-ing) qo'llaniladi."
     },
@@ -19284,6 +20213,7 @@ const inglizTili = {
           "text": "taking"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Decide' fe'lidan so'ng to-infinitive ishlatiladi."
     },
@@ -19308,6 +20238,7 @@ const inglizTili = {
           "text": "closing"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "'Would you mind' birikmasidan keyin Gerund (V-ing) keladi."
     },
@@ -19332,6 +20263,7 @@ const inglizTili = {
           "text": "playing"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Used to + V1' o'tmishdagi odat bo'lib, hozir to'xtagan harakatni bildiradi."
     },
@@ -19356,6 +20288,7 @@ const inglizTili = {
           "text": "woken"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Be used to + V-ing' biror narsaga ko'nikkanlikni ifodalaydi."
     },
@@ -19380,6 +20313,7 @@ const inglizTili = {
           "text": "whom"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Shaxslar uchun 'who' nisbiy olmoshi qo'llaniladi."
     },
@@ -19404,6 +20338,7 @@ const inglizTili = {
           "text": "where"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "Narsa-buyumlar uchun 'which' yoki 'that' ishlatiladi."
     },
@@ -19428,6 +20363,7 @@ const inglizTili = {
           "text": "who"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Tegishlilik (egalik) ma'nosida 'whose' ishlatiladi."
     },
@@ -19452,6 +20388,7 @@ const inglizTili = {
           "text": "In spite of"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Although' ziddiyatli gaplarni bog'laydi va ketidan to'liq gap (ega + kesim) keladi."
     },
@@ -19476,6 +20413,7 @@ const inglizTili = {
           "text": "Although"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Despite' / 'In spite of' dan keyin faqat ot yoki otlashgan birikma keladi."
     },
@@ -19500,6 +20438,7 @@ const inglizTili = {
           "text": "-"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "Orttirma darajadagi sifatlar (superlative) oldidan 'the' artikli qo'yiladi."
     },
@@ -19524,6 +20463,7 @@ const inglizTili = {
           "text": "the"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Honest' so'zi unli tovush [o] bilan boshlangani uchun 'an' noaniq artikli qo'yiladi."
     },
@@ -19548,6 +20488,7 @@ const inglizTili = {
           "text": "little"
         }
       ],
+      "correct": "D",
       "xp": 150,
       "explanation": "Sanalmaydigan otlar bilan yetarli emaslikni bildirish uchun 'little' ishlatiladi."
     },
@@ -19572,6 +20513,7 @@ const inglizTili = {
           "text": "a little"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "Sanaladigan otlar bilan yetarli miqdorni bildirish uchun 'a few' qo'llaniladi."
     },
@@ -19596,6 +20538,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Good at something' — biror sohada mohir bo'lish."
     },
@@ -19620,6 +20563,7 @@ const inglizTili = {
           "text": "about"
         }
       ],
+      "correct": "A",
       "xp": 150,
       "explanation": "'Congratulate someone on something' predlogi bilan ishlatiladi."
     },
@@ -19644,6 +20588,7 @@ const inglizTili = {
           "text": "at"
         }
       ],
+      "correct": "C",
       "xp": 100,
       "explanation": "'Interested in' birikmasi qo'llaniladi."
     },
@@ -19668,6 +20613,7 @@ const inglizTili = {
           "text": "on"
         }
       ],
+      "correct": "D",
       "xp": 100,
       "explanation": "Chiroqni yoqmoq — 'turn on'."
     },
@@ -19692,6 +20638,7 @@ const inglizTili = {
           "text": "off"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "'Call off' — bekor qilmoq (cancel)."
     },
@@ -19716,6 +20663,7 @@ const inglizTili = {
           "text": "out"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Give up' — yomon odatni tashlamoq."
     },
@@ -19740,6 +20688,7 @@ const inglizTili = {
           "text": "have I seen"
         }
       ],
+      "correct": "D",
       "xp": 250,
       "explanation": "Inkor ma'noli ravishlar (Rarely, Seldom, Never) gap boshida kelsa, inversiya (yordamchi fe'l + ega) bo'ladi."
     },
@@ -19764,6 +20713,7 @@ const inglizTili = {
           "text": "we reached"
         }
       ],
+      "correct": "B",
       "xp": 250,
       "explanation": "'No sooner had + ega + V3 ... than' inversiyali qolipi ishlatiladi."
     },
@@ -19788,6 +20738,7 @@ const inglizTili = {
           "text": "was"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "'Neither ... nor' da fe'l o'ziga eng yaqin turgan eganing (brothers — ko'plik) soniga moslashadi."
     },
@@ -19812,6 +20763,7 @@ const inglizTili = {
           "text": "didn't he"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "'Hardly' inkor so'z bo'lgani uchun tag question tasdiq bo'ladi ('did they')."
     },
@@ -19836,6 +20788,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'ABUNDANT' means 'existing or available in large quantities; plentiful'."
     },
@@ -19860,6 +20813,7 @@ const inglizTili = {
           "text": "Meager"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'ABUNDANT''."
     },
@@ -19884,6 +20838,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'GENEROUS' means 'unwilling to give or spend; stingy / mean'."
     },
@@ -19908,6 +20863,7 @@ const inglizTili = {
           "text": "Benevolent"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'GENEROUS''."
     },
@@ -19932,6 +20888,7 @@ const inglizTili = {
           "text": "to become smaller or make something smaller; contract"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'MANDATORY' means 'required by law or rules; compulsory'."
     },
@@ -19956,6 +20913,7 @@ const inglizTili = {
           "text": "Compulsory"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'MANDATORY''."
     },
@@ -19980,6 +20938,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'EXPAND' means 'to become smaller or make something smaller; contract'."
     },
@@ -20004,6 +20963,7 @@ const inglizTili = {
           "text": "Contract"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'EXPAND''."
     },
@@ -20028,6 +20988,7 @@ const inglizTili = {
           "text": "involving risk or danger; perilous"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'HAZARDOUS' means 'involving risk or danger; perilous'."
     },
@@ -20052,6 +21013,7 @@ const inglizTili = {
           "text": "Dangerous"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'HAZARDOUS''."
     },
@@ -20076,6 +21038,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'ARTIFICIAL' means 'existing in or caused by nature; not made by humans'."
     },
@@ -20100,6 +21063,7 @@ const inglizTili = {
           "text": "False"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'ARTIFICIAL''."
     },
@@ -20124,6 +21088,7 @@ const inglizTili = {
           "text": "unwilling and hesitant to do something; disinclined"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Synonym of 'RELUCTANT' means 'unwilling and hesitant to do something; disinclined'."
     },
@@ -20148,6 +21113,7 @@ const inglizTili = {
           "text": "Unwilling"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Correct answer matches 'Synonym of 'RELUCTANT''."
     },
@@ -20172,6 +21138,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Antonym of 'TEMPORARY' means 'lasting or intended to last or remain unchanged forever; permanent'."
     },
@@ -20196,6 +21163,7 @@ const inglizTili = {
           "text": "Fleeting"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Antonym of 'TEMPORARY''."
     },
@@ -20220,6 +21188,7 @@ const inglizTili = {
           "text": "The suspect was accused of stealing the documents."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'accused _______' means 'The suspect was accused of stealing the documents.'."
     },
@@ -20244,6 +21213,7 @@ const inglizTili = {
           "text": "with"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'accused _______''."
     },
@@ -20268,6 +21238,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'prevent from _______' means 'The heavy snow prevented us from leaving the building.'."
     },
@@ -20292,6 +21263,7 @@ const inglizTili = {
           "text": "at"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'prevent from _______''."
     },
@@ -20316,6 +21288,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'rely _______' means 'You can always rely on your true friends in difficult situations.'."
     },
@@ -20340,6 +21313,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'rely _______''."
     },
@@ -20364,6 +21338,7 @@ const inglizTili = {
           "text": "After months of practice, he finally succeeded in solving the puzzle."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'succeed _______' means 'After months of practice, he finally succeeded in solving the puzzle.'."
     },
@@ -20388,6 +21363,7 @@ const inglizTili = {
           "text": "for"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'succeed _______''."
     },
@@ -20412,6 +21388,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'responsible _______' means 'Who is responsible for organizing the national conference?'."
     },
@@ -20436,6 +21413,7 @@ const inglizTili = {
           "text": "about"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'responsible _______''."
     },
@@ -20460,6 +21438,7 @@ const inglizTili = {
           "text": "My current approach to coding is quite different from what I did before."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'different _______' means 'My current approach to coding is quite different from what I did before.'."
     },
@@ -20484,6 +21463,7 @@ const inglizTili = {
           "text": "than"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'different _______''."
     },
@@ -20508,6 +21488,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'capable _______' means 'She is fully capable of developing modern web applications on her own.'."
     },
@@ -20532,6 +21513,7 @@ const inglizTili = {
           "text": "with"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'capable _______''."
     },
@@ -20556,6 +21538,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Dependent preposition: 'aware _______' means 'Are you aware of the new rules introduced for the competition?'."
     },
@@ -20580,6 +21563,7 @@ const inglizTili = {
           "text": "in"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Dependent preposition: 'aware _______''."
     },
@@ -20604,6 +21588,7 @@ const inglizTili = {
           "text": "to make people feel more relaxed and comfortable in a social setting"
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Break the ice' means 'to make people feel more relaxed and comfortable in a social setting'."
     },
@@ -20628,6 +21613,7 @@ const inglizTili = {
           "text": "Feel very cold"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Break the ice''."
     },
@@ -20652,6 +21638,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Piece of cake' means 'something that is very easy and simple to do'."
     },
@@ -20676,6 +21663,7 @@ const inglizTili = {
           "text": "An expensive item"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Piece of cake''."
     },
@@ -20700,6 +21688,7 @@ const inglizTili = {
           "text": "existing or available in large quantities; plentiful"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Once in a blue moon' means 'an event that happens very rarely or almost never'."
     },
@@ -20724,6 +21713,7 @@ const inglizTili = {
           "text": "At night only"
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Once in a blue moon''."
     },
@@ -20748,6 +21738,7 @@ const inglizTili = {
           "text": "required by law or rules; compulsory"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Cost an arm and a leg' means 'to be extremely expensive or exorbitant in price'."
     },
@@ -20772,6 +21763,7 @@ const inglizTili = {
           "text": "Very cheap"
         }
       ],
+      "correct": "C",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Cost an arm and a leg''."
     },
@@ -20796,6 +21788,7 @@ const inglizTili = {
           "text": "unwilling to give or spend; stingy / mean"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Usage note: Idiom: 'Burn the midnight oil' means 'to read or work late into the night'."
     },
@@ -20820,6 +21813,7 @@ const inglizTili = {
           "text": "Wake up early"
         }
       ],
+      "correct": "A",
       "xp": 200,
       "explanation": "Correct answer matches 'Idiom: 'Burn the midnight oil''."
     },
@@ -20844,6 +21838,7 @@ const inglizTili = {
           "text": "Acommodation"
         }
       ],
+      "correct": "C",
       "xp": 150,
       "explanation": "'Accommodation' ikkita 'c' va ikkita 'm' bilan yoziladi."
     },
@@ -20868,6 +21863,7 @@ const inglizTili = {
           "text": "Komron said that he had learned React then."
         }
       ],
+      "correct": "B",
       "xp": 200,
       "explanation": "Reported speech da Present Continuous Past Continuous ga, 'now' esa 'then' ga aylanadi."
     },
@@ -20892,6 +21888,7 @@ const inglizTili = {
           "text": "The teacher asked me where I lived."
         }
       ],
+      "correct": "D",
       "xp": 200,
       "explanation": "Ko'chirma so'roq gap o'zlashtirilganda to'g'ri so'z tartibiga o'tadi (inversiya bo'lmaydi)."
     },
@@ -20916,6 +21913,7 @@ const inglizTili = {
           "text": "Robot"
         }
       ],
+      "correct": "A",
       "xp": 100,
       "explanation": "'Climb' [klaɪm] so'zidada 'b' harfi o'qilmaydi."
     },
@@ -20940,6 +21938,7 @@ const inglizTili = {
           "text": "Kitchen"
         }
       ],
+      "correct": "B",
       "xp": 100,
       "explanation": "'Knight' [naɪt] so'zida 'k' harfi o'qilmaydi."
     },
@@ -20964,6 +21963,7 @@ const inglizTili = {
           "text": "has been"
         }
       ],
+      "correct": "B",
       "xp": 150,
       "explanation": "'Police' so'zi ingliz tilida har doim ko'plikda keladi."
     }

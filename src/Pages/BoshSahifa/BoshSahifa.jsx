@@ -2,7 +2,10 @@ import { NavLink } from 'react-router-dom'
 import ProductPreview from '../../Components/ProductPreview.jsx'
 import Reveal from '../../Components/Reveal.jsx'
 import AnimatedNumber from '../../Components/AnimatedNumber.jsx'
+import SeasonalAtmosphere from '../../Components/SeasonalAtmosphere.jsx'
+import HolidayConfetti from '../../Components/HolidayConfetti.jsx'
 import { ArrowRight, ArrowUpRight, CheckMark, Spark } from '../../Components/Marks.jsx'
+import { useAtmosphere } from '../../context/useAtmosphere.js'
 import { useSession } from '../../hooks/useSession.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
 import { studyCenters } from '../../data/studyCenters.js'
@@ -119,6 +122,7 @@ function CardEyebrow({ children, icon }) {
 
 export default function BoshSahifa() {
   const session = useSession()
+  const { holiday } = useAtmosphere()
   const { records, stats } = useQuizHistory()
   const weeklyActivity = buildWeeklyActivity(records)
   const weeklyAnswered = weeklyActivity.reduce((sum, day) => sum + day.count, 0)
@@ -131,16 +135,36 @@ export default function BoshSahifa() {
 
   return (
     <div className="flex flex-col pb-8">
+      <HolidayConfetti />
       <section className="relative pt-6 sm:pt-10 lg:pt-14">
-        <div className="grid items-center gap-14 lg:grid-cols-[1.02fr_0.98fr] lg:gap-10">
+        <SeasonalAtmosphere />
+        <div className="relative z-10 grid items-center gap-14 lg:grid-cols-[1.02fr_0.98fr] lg:gap-10">
           <div>
             <Reveal className="flex items-center">
-              <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised/70 px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted backdrop-blur">
-                <span className="relative flex h-1.5 w-1.5">
-                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-positive opacity-50" />
-                  <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-positive" />
-                </span>
-                Zehnly Arena · ochiq
+              <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised/70 px-3 py-1.5 font-mono text-[9px] tracking-[0.18em] text-muted backdrop-blur">
+                {holiday ? (
+                  <>
+                    <span className="relative flex h-1.5 w-1.5">
+                      <span
+                        className="absolute inline-flex h-full w-full animate-ping rounded-full opacity-50"
+                        style={{ backgroundColor: holiday.accent }}
+                      />
+                      <span
+                        className="relative inline-flex h-1.5 w-1.5 rounded-full"
+                        style={{ backgroundColor: holiday.accent }}
+                      />
+                    </span>
+                    <span className="normal-case tracking-[0.12em]">{holiday.greeting}</span>
+                  </>
+                ) : (
+                  <>
+                    <span className="relative flex h-1.5 w-1.5">
+                      <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-positive opacity-50" />
+                      <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-positive" />
+                    </span>
+                    <span className="uppercase">Zehnly Arena · ochiq</span>
+                  </>
+                )}
               </span>
             </Reveal>
 
@@ -164,7 +188,7 @@ export default function BoshSahifa() {
               <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
                 <NavLink
                   to="/zakovat"
-                  className="group inline-flex h-12 items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink shadow-[0_20px_50px_-24px_var(--ember)] transition-all duration-200 hover:-translate-y-0.5 hover:brightness-105"
+                  className="group relative inline-flex h-12 items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink shadow-[0_20px_50px_-24px_var(--ember)] transition-all duration-200 hover:-translate-y-0.5 hover:brightness-105"
                 >
                   Arenani boshlash
                   <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-ember-ink/15 transition-transform duration-200 group-hover:translate-x-0.5">
@@ -459,7 +483,7 @@ export default function BoshSahifa() {
 
               <div className="mt-6 rounded-xl border border-hairline bg-paper p-4">
                 <div className="flex items-center gap-3">
-                  <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-gradient-to-br from-[#3556f5] to-[#8b5cf6] font-display text-lg font-semibold text-white">
+                  <span className="flex h-11 w-11 items-center justify-center rounded-xl gradient-brand font-display text-lg font-semibold text-white">
                     {firstLetter}
                   </span>
                   <div className="min-w-0 flex-1">

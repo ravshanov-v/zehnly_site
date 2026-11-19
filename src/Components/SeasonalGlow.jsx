@@ -31,7 +31,7 @@ export default function SeasonalGlow() {
   return (
     <div
       aria-hidden="true"
-      className="pointer-events-none fixed inset-0 -z-10 select-none overflow-hidden"
+      className="pointer-events-none fixed inset-0 -z-10 h-screen w-screen select-none overflow-hidden"
     >
       <div
         className="animate-drift-a absolute -left-[20rem] -top-[18rem] h-[46rem] w-[46rem] rounded-full blur-[120px] transition-colors duration-700"

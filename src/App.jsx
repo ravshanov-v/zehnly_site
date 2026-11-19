@@ -7,7 +7,7 @@ import Navbar from './Components/Navbar/Navbar.jsx';
 import Footer from './Components/Footer/Footer.jsx';
 import AuroraField from './Components/AuroraField.jsx';
 import SeasonalGlow from './Components/SeasonalGlow.jsx';
-import AutumnGround from './Components/Autumn/AutumnGround.jsx';
+import AutumnScene from './Components/Autumn/AutumnScene.jsx';
 import routes from './routes.jsx';
 
 const layoutRoutes = routes.filter((route) => !route.standalone);
@@ -59,13 +59,13 @@ function Layout() {
       </a>
       <AuroraField />
       <SeasonalGlow />
+      <AutumnScene />
       <Navbar />
       <main id="main-content" className="mx-auto w-full max-w-[1240px] flex-1 px-5 py-8 sm:px-8 sm:py-10">
         <Suspense fallback={<RouteFallback />}>
           <Outlet />
         </Suspense>
       </main>
-      <AutumnGround />
       <Footer />
     </div>
   );

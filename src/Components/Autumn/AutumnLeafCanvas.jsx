@@ -2,9 +2,14 @@ import { useEffect, useRef } from 'react'
 import { useTheme } from '../../context/useTheme.js'
 import { AUTUMN_LEAVES } from './leafShapes.js'
 
+const MOBILE_BREAKPOINT = 768
+const MOBILE_SIZE_FACTOR = 0.75
+const MOBILE_ALPHA_FACTOR = 0.82
+
 const LEAF_LAYERS = [
   {
-    count: 13,
+    count: 4,
+    mobileCount: 2,
     size: [11, 21],
     alpha: [0.32, 0.6],
     blur: 0.6,
@@ -15,7 +20,8 @@ const LEAF_LAYERS = [
     wind: [0.5, 1],
   },
   {
-    count: 14,
+    count: 5,
+    mobileCount: 2,
     size: [22, 39],
     alpha: [0.62, 0.92],
     blur: 0,
@@ -26,7 +32,8 @@ const LEAF_LAYERS = [
     wind: [0.8, 1.4],
   },
   {
-    count: 4,
+    count: 2,
+    mobileCount: 1,
     size: [62, 98],
     alpha: [0.3, 0.5],
     blur: 5.5,
@@ -81,21 +88,24 @@ function createDustSprite() {
   return sprite
 }
 
-function buildLeafLayers(width, height, sprites) {
-  const scale = Math.min(1.15, Math.max(0.68, width / 1120))
+function buildLeafLayers(width, height, sprites, isMobile) {
+  const baseScale = Math.min(1.15, Math.max(0.68, width / 1120))
+  const sizeScale = baseScale * (isMobile ? MOBILE_SIZE_FACTOR : 1)
+  const alphaScale = isMobile ? MOBILE_ALPHA_FACTOR : 1
 
   return LEAF_LAYERS.map((config) => {
     const particles = []
+    const count = isMobile ? config.mobileCount : config.count
 
-    for (let index = 0; index < config.count; index += 1) {
-      const size = rand(config.size[0], config.size[1]) * scale
+    for (let index = 0; index < count; index += 1) {
+      const size = rand(config.size[0], config.size[1]) * sizeScale
 
       particles.push({
         sprite: pick(sprites),
         x: Math.random() * (width + 120) - 60,
         y: rand(-height * 0.55, height),
         size,
-        alpha: rand(config.alpha[0], config.alpha[1]),
+        alpha: rand(config.alpha[0], config.alpha[1]) * alphaScale,
         angle: rand(0, Math.PI * 2),
         spin: rand(config.spin[0], config.spin[1]) * (Math.random() < 0.5 ? -1 : 1),
         tumble: rand(0, Math.PI * 2),
@@ -181,9 +191,10 @@ function setupScene({ canvas, container, sprites, isDark }) {
   let lastFrame = 0
   let rafId = 0
   let visible = true
+  let isMobile = window.innerWidth < MOBILE_BREAKPOINT
 
   const build = () => {
-    layers = buildLeafLayers(width, height, sprites)
+    layers = buildLeafLayers(width, height, sprites, isMobile)
     dust = buildDust(width, height, isDark)
   }
 
@@ -200,10 +211,13 @@ function setupScene({ canvas, container, sprites, isDark }) {
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0)
 
     const widthChanged = Math.abs(nextWidth - width) > 28
+    const nextIsMobile = window.innerWidth < MOBILE_BREAKPOINT
+    const modeChanged = nextIsMobile !== isMobile
     width = nextWidth
     height = nextHeight
+    isMobile = nextIsMobile
 
-    if (!layers.length || widthChanged) build()
+    if (!layers.length || widthChanged || modeChanged) build()
   }
 
   const drawDust = (seconds) => {

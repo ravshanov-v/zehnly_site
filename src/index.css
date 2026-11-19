@@ -340,6 +340,8 @@ body {
 
 .seasonal-atmosphere {
   contain: layout paint;
+  -webkit-mask-image: radial-gradient(ellipse 65% 80% at 50% 38%, black 42%, transparent 82%);
+  mask-image: radial-gradient(ellipse 65% 80% at 50% 38%, black 42%, transparent 82%);
 }
 
 .seasonal-particles-canvas {
@@ -455,6 +457,11 @@ html[data-season='autumn'].dark {
   --glow: 0 0 0 1px rgb(240 166 60 / 0.14), 0 30px 90px -30px rgb(240 166 60 / 0.26);
 }
 
+.autumn-scene {
+  -webkit-mask-image: radial-gradient(ellipse 64% 86% at 50% 34%, black 46%, transparent 80%);
+  mask-image: radial-gradient(ellipse 64% 86% at 50% 34%, black 46%, transparent 80%);
+}
+
 .autumn-sun-glow {
   background: radial-gradient(
     circle,
@@ -463,6 +470,8 @@ html[data-season='autumn'].dark {
     transparent 70%
   );
   filter: blur(42px);
+  -webkit-mask-image: radial-gradient(ellipse at center, black 36%, transparent 64%);
+  mask-image: radial-gradient(ellipse at center, black 36%, transparent 64%);
   animation: autumn-glow-breathe 11s ease-in-out infinite alternate;
 }
 
@@ -546,10 +555,6 @@ html[data-season='autumn'].dark {
     opacity: 0.8;
     transform: rotate(-1deg) scale(1.06);
   }
-}
-
-.autumn-ground {
-  contain: layout paint;
 }
 
 .autumn-card-glow {

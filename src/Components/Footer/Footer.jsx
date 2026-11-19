@@ -46,6 +46,10 @@ export default function Footer() {
     <footer className="relative mt-24 overflow-hidden border-t border-hairline bg-sunken text-ink">
       <div
         aria-hidden="true"
+        className="winter-footer-mist pointer-events-none absolute inset-x-0 top-0 h-48"
+      />
+      <div
+        aria-hidden="true"
         className="pointer-events-none absolute -top-40 left-1/2 h-80 w-[42rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_66%)] blur-3xl"
       />
       <div className="dot-grid pointer-events-none absolute inset-0 opacity-60 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]" />

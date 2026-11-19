@@ -128,10 +128,22 @@ export function AtmosphereProvider({ children }) {
     const meta = document.querySelector('meta[name="theme-color"]')
     if (meta) {
       const dark = root.classList.contains('dark')
-      const autumn = seasonName === 'autumn'
+      const themeColors = {
+        autumn: { dark: '#0e0905', light: '#f7f2e8' },
+        winter: { dark: '#050b12', light: '#f4f8fc' },
+        spring: { dark: '#04100b', light: '#f4faf7' },
+        summer: { dark: '#04101c', light: '#f2f9fe' },
+      }
+      const themeColor = themeColors[seasonName]
       meta.setAttribute(
         'content',
-        dark ? (autumn ? '#0e0905' : '#05060a') : autumn ? '#f7f2e8' : '#f4f5f8'
+        themeColor
+          ? dark
+            ? themeColor.dark
+            : themeColor.light
+          : dark
+            ? '#05060a'
+            : '#f4f5f8'
       )
     }
   }, [seasonName])

@@ -322,7 +322,7 @@ export default function OquvMaskanlari() {
 
                   <NavLink
                     to="/zakovat"
-                    className="group mt-7 inline-flex h-11 items-center gap-2.5 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110"
+                    className="winter-glint spring-glint summer-glint summer-sun group mt-7 inline-flex h-11 items-center gap-2.5 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110"
                   >
                     Zakovat arenasi
                     <ArrowUpRight className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

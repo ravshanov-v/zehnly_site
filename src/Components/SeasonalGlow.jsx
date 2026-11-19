@@ -2,7 +2,7 @@ import { useSeasonalScene } from '../context/useSeasonalScene.js'
 import { useTheme } from '../context/useTheme.js'
 
 const GLOW_PALETTES = {
-  snow: ['#9fc4ff', '#dbeafe', '#7dd3fc'],
+  snow: ['#38bdf8', '#e2e8f0', '#7dd3fc'],
   rain: ['#5b8def', '#93c5fd', '#c7dbff'],
   sparkles: ['#3b82f6', '#f6c453', '#93c5fd'],
   petals: ['#f9a8d4', '#c084fc', '#86efac'],
@@ -18,14 +18,23 @@ const HOLIDAY_PALETTES = {
   'independence-day': ['#1f6feb', '#1f9d55', '#93c5fd'],
 }
 
+const SEASON_GLOW_PALETTES = {
+  petals: ['#10b981', '#99f6e4', '#2dd4bf'],
+  snow: ['#38bdf8', '#e2e8f0', '#7dd3fc'],
+  sun: ['#38bdf8', '#fcd34d', '#0284c7'],
+}
+
 export default function SeasonalGlow() {
-  const { active, effect, holiday } = useSeasonalScene()
+  const { active, effect, holiday, seasonEffect } = useSeasonalScene()
   const { isDark } = useTheme()
 
   if (!active) return null
 
   const palette =
-    HOLIDAY_PALETTES[holiday?.id] ?? GLOW_PALETTES[effect] ?? GLOW_PALETTES.snow
+    HOLIDAY_PALETTES[holiday?.id] ??
+    (holiday ? GLOW_PALETTES[effect] : SEASON_GLOW_PALETTES[seasonEffect]) ??
+    GLOW_PALETTES[effect] ??
+    GLOW_PALETTES.snow
   const intensity = isDark ? 0.44 : 0.3
 
   return (

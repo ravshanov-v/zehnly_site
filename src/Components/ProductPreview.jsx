@@ -87,7 +87,7 @@ export default function ProductPreview() {
           '--fy': `${pointer.y}%`,
         }}
         className={[
-          'group relative rounded-2xl border border-hairline bg-raised/90 p-1.5 shadow-[var(--shadow-lift)] backdrop-blur-xl will-change-transform',
+          'group winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative rounded-2xl border border-hairline bg-raised/90 p-1.5 shadow-[var(--shadow-lift)] backdrop-blur-xl will-change-transform',
           isFrosted ? 'seasonal-glass-frost' : '',
         ].join(' ')}
       >
@@ -136,7 +136,7 @@ export default function ProductPreview() {
             </span>
           </div>
 
-          <div className="mt-4 rounded-xl border border-hairline bg-raised p-4">
+          <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint mt-4 rounded-xl border border-hairline bg-raised p-4">
             <div className="flex items-center justify-between gap-3">
               <span className="font-mono text-[8px] uppercase tracking-[0.18em] text-muted">
                 Zakovat testi · Namuna savol
@@ -261,7 +261,7 @@ export default function ProductPreview() {
                   type="button"
                   onClick={handleCheck}
                   disabled={selectedAnswer === null}
-                  className="inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-all duration-200 hover:bg-ember hover:text-ember-ink disabled:cursor-not-allowed disabled:opacity-35"
+                  className="winter-glint spring-glint summer-glint inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-all duration-200 hover:bg-ember hover:text-ember-ink disabled:cursor-not-allowed disabled:opacity-35"
                 >
                   Tekshirish
                   <svg
@@ -282,7 +282,7 @@ export default function ProductPreview() {
           </div>
 
           <div className="mt-3 grid gap-3 sm:grid-cols-2">
-            <div className="relative overflow-hidden rounded-xl border border-hairline bg-raised p-4">
+            <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative overflow-hidden rounded-xl border border-hairline bg-raised p-4">
               <div
                 aria-hidden="true"
                 className="pointer-events-none absolute -right-8 -top-10 h-24 w-24 rounded-full bg-ember/10 blur-2xl"
@@ -311,7 +311,7 @@ export default function ProductPreview() {
               </p>
             </div>
 
-            <div className="flex flex-col justify-between rounded-xl border border-hairline bg-raised p-4">
+            <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint flex flex-col justify-between rounded-xl border border-hairline bg-raised p-4">
               <div className="flex items-center justify-between gap-3">
                 <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
                   O‘quv maskanlari

@@ -5,10 +5,13 @@ import { useSeasonalScene } from '../context/useSeasonalScene.js'
 import { useTheme } from '../context/useTheme.js'
 import { getSeasonParticleLayers } from '../utils/seasonalParticles.js'
 
+const SEASON_SCENE_EFFECTS = new Set(['autumn', 'snow', 'petals', 'sun'])
+
 export default function SeasonalAtmosphere() {
-  const { active, effect } = useSeasonalScene()
+  const { active, effect, seasonEffect } = useSeasonalScene()
   const { isDark } = useTheme()
-  const useParticles = effect !== 'autumn'
+  const seasonSceneActive = effect === seasonEffect && SEASON_SCENE_EFFECTS.has(seasonEffect)
+  const useParticles = !seasonSceneActive
   const layers = useMemo(
     () => (active && useParticles ? getSeasonParticleLayers(effect, isDark) : []),
     [active, effect, isDark, useParticles]

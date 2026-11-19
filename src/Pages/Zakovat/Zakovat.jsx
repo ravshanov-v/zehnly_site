@@ -403,7 +403,7 @@ export default function Zakovat() {
                       type="button"
                       onClick={() => startArena()}
                       disabled={isLoading}
-                      className="group inline-flex h-12 items-center gap-3 rounded-xl bg-ember pl-5 pr-2 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 disabled:cursor-wait disabled:opacity-70"
+                      className="winter-glint spring-glint summer-glint summer-sun group inline-flex h-12 items-center gap-3 rounded-xl bg-ember pl-5 pr-2 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 disabled:cursor-wait disabled:opacity-70"
                     >
                       {loadingCategoryId === 'mixed' ? 'Yuklanmoqda…' : 'Arenaga kirish'}
                       <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-ember-ink/15 transition-transform duration-200 group-hover:translate-x-0.5">
@@ -856,7 +856,7 @@ export default function Zakovat() {
                 <button
                   type="button"
                   onClick={() => startArena(activeCategoryId, { reset: true })}
-                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                  className="winter-glint spring-glint summer-glint summer-sun inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
                 >
                   1-dan qayta
                   <ArrowRight className="h-3.5 w-3.5" />
@@ -951,7 +951,7 @@ export default function Zakovat() {
                 <button
                   type="button"
                   onClick={resumeSession}
-                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                  className="winter-glint spring-glint summer-glint summer-sun inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
                 >
                   {activeCategoryId && remainingQuestions > 0 ? 'Keyingi 20 savol' : 'Davom etish'}
                   <ArrowRight className="h-3.5 w-3.5" />

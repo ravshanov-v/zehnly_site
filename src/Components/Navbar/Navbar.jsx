@@ -245,7 +245,7 @@ export default function Navbar() {
               <button
                 type="button"
                 onClick={() => setAuthOpen(true)}
-                className="inline-flex h-9 items-center gap-1.5 rounded-lg bg-ink px-3 text-[12px] font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink sm:gap-2 sm:px-4"
+                className="winter-glint spring-glint summer-glint inline-flex h-9 items-center gap-1.5 rounded-lg bg-ink px-3 text-[12px] font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink sm:gap-2 sm:px-4"
               >
                 <span>Kirish</span>
                 <ArrowUpRight className="hidden h-3.5 w-3.5 sm:block" />
@@ -361,7 +361,7 @@ export default function Navbar() {
                     setMenuOpen(false)
                     setAuthOpen(true)
                   }}
-                  className="mt-4 flex h-11 w-full items-center justify-between rounded-xl bg-ember px-4 text-sm font-semibold text-ember-ink"
+                  className="winter-glint spring-glint summer-glint summer-sun mt-4 flex h-11 w-full items-center justify-between rounded-xl bg-ember px-4 text-sm font-semibold text-ember-ink"
                 >
                   Hisobingizga kiring
                   <ArrowUpRight />

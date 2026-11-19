@@ -96,7 +96,7 @@ const miniAnswers = [
 function BentoCard({ className = '', children }) {
   return (
     <article
-      className={`group relative overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-all duration-300 hover:border-ember/40 hover:shadow-[var(--shadow-soft)] sm:p-7 ${className}`}
+      className={`group relative overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-all duration-300 hover:border-ember/40 hover:shadow-[var(--shadow-soft)] winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint sm:p-7 ${className}`}
     >
       <div
         aria-hidden="true"
@@ -188,7 +188,7 @@ export default function BoshSahifa() {
               <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
                 <NavLink
                   to="/zakovat"
-                  className="group relative inline-flex h-12 items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink shadow-[0_20px_50px_-24px_var(--ember)] transition-all duration-200 hover:-translate-y-0.5 hover:brightness-105"
+                  className="winter-glint spring-glint summer-glint summer-sun group relative inline-flex h-12 items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink shadow-[0_20px_50px_-24px_var(--ember)] transition-all duration-200 hover:-translate-y-0.5 hover:brightness-105"
                 >
                   Arenani boshlash
                   <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-ember-ink/15 transition-transform duration-200 group-hover:translate-x-0.5">
@@ -251,7 +251,7 @@ export default function BoshSahifa() {
 
       <section className="mt-20 sm:mt-24">
         <Reveal>
-          <div className="grid gap-px overflow-hidden rounded-2xl border border-hairline bg-hairline sm:grid-cols-4">
+          <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint grid gap-px overflow-hidden rounded-2xl border border-hairline bg-hairline sm:grid-cols-4">
             {metrics.map((metric) => (
               <div key={metric.label} className="bg-raised px-5 py-6 sm:px-6">
                 <AnimatedNumber
@@ -531,7 +531,7 @@ export default function BoshSahifa() {
         <div className="mt-10 grid gap-4 md:grid-cols-3">
           {steps.map((step, index) => (
             <Reveal key={step.title} delay={index * 80}>
-              <div className="relative h-full overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-colors hover:border-ember/40">
+              <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative h-full overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-colors hover:border-ember/40">
                 <div className="flex items-center justify-between">
                   <span className="font-mono text-[10px] tabular-nums tracking-[0.16em] text-ember">
                     0{index + 1}
@@ -551,7 +551,7 @@ export default function BoshSahifa() {
       </section>
 
       <section className="mt-24 sm:mt-32">
-        <Reveal className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center sm:px-12 sm:py-20">
+        <Reveal className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center sm:px-12 sm:py-20">
           <div
             aria-hidden="true"
             className="pointer-events-none absolute -top-32 left-1/2 h-72 w-[38rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_66%)] blur-3xl"
@@ -578,7 +578,7 @@ export default function BoshSahifa() {
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <NavLink
                 to="/zakovat"
-                className="group inline-flex h-12 w-full items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                className="winter-glint spring-glint summer-glint summer-sun group inline-flex h-12 w-full items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
               >
                 Arenaga kirish
                 <ArrowUpRight className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

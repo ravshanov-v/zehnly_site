@@ -31,7 +31,7 @@ function fieldClass(hasError) {
 const labelClass = 'font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted'
 
 const ctaClass =
-  'flex w-full items-center justify-center gap-2 rounded-xl bg-ember py-3 text-sm font-semibold text-ember-ink shadow-[0_18px_40px_-24px_var(--ember)] transition-all hover:-translate-y-px hover:brightness-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/50 focus-visible:ring-offset-2 focus-visible:ring-offset-raised active:translate-y-0 disabled:cursor-not-allowed disabled:opacity-60 disabled:hover:translate-y-0'
+  'winter-glint spring-glint summer-glint summer-sun flex w-full items-center justify-center gap-2 rounded-xl bg-ember py-3 text-sm font-semibold text-ember-ink shadow-[0_18px_40px_-24px_var(--ember)] transition-all hover:-translate-y-px hover:brightness-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/50 focus-visible:ring-offset-2 focus-visible:ring-offset-raised active:translate-y-0 disabled:cursor-not-allowed disabled:opacity-60 disabled:hover:translate-y-0'
 
 const STRENGTH_TONES = {
   negative: { bar: 'bg-negative', text: 'text-negative' },

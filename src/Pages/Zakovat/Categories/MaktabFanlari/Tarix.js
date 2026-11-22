@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Tarix (1000 savol)
+// Mushohada Zakovat Platformasi - Tarix (1000 savol)
 
 const tarix = {
   "id": "tarix",

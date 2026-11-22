@@ -31,7 +31,7 @@ function fieldClass(hasError) {
 const labelClass = 'font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted'
 
 const ctaClass =
-  'winter-glint spring-glint summer-glint summer-sun flex w-full items-center justify-center gap-2 rounded-xl bg-ember py-3 text-sm font-semibold text-ember-ink shadow-[0_18px_40px_-24px_var(--ember)] transition-all hover:-translate-y-px hover:brightness-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/50 focus-visible:ring-offset-2 focus-visible:ring-offset-raised active:translate-y-0 disabled:cursor-not-allowed disabled:opacity-60 disabled:hover:translate-y-0'
+  'flex w-full items-center justify-center gap-2 rounded-xl bg-ember py-3 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-px hover:brightness-105 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/50 focus-visible:ring-offset-2 focus-visible:ring-offset-raised active:translate-y-0 disabled:cursor-not-allowed disabled:opacity-60 disabled:hover:translate-y-0'
 
 const STRENGTH_TONES = {
   negative: { bar: 'bg-negative', text: 'text-negative' },
@@ -485,7 +485,7 @@ export default function AuthModal({ onClose }) {
 
   return (
     <div
-      className="zehnly-fade-in scrim fixed inset-0 z-[60] flex items-center justify-center p-3 backdrop-blur-md sm:p-4"
+      className="zehnly-fade-in scrim fixed inset-0 z-[60] flex items-center justify-center p-3 sm:p-4"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) onClose()
       }}
@@ -496,17 +496,9 @@ export default function AuthModal({ onClose }) {
         aria-modal="true"
         aria-labelledby="auth-modal-title"
         tabIndex={-1}
-        className="zehnly-scale-in relative grid h-[calc(100dvh_-_1.5rem)] w-full max-w-3xl overflow-hidden rounded-2xl border border-hairline bg-raised text-ink shadow-[var(--shadow-lift)] outline-none focus:outline-none sm:h-[min(92vh,760px)] md:grid-cols-[0.92fr_1.08fr]"
+        className="zehnly-scale-in relative grid h-[calc(100dvh_-_1.5rem)] w-full max-w-3xl overflow-hidden rounded-2xl border border-hairline bg-raised text-ink outline-none focus:outline-none sm:h-[min(92vh,760px)] md:grid-cols-[0.92fr_1.08fr]"
       >
         <aside className="relative hidden flex-col justify-between overflow-hidden border-hairline bg-sunken p-8 text-ink md:flex md:border-r">
-          <div
-            aria-hidden="true"
-            className="pointer-events-none absolute -top-28 -right-20 h-64 w-64 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_68%)] blur-3xl"
-          />
-          <div
-            aria-hidden="true"
-            className="dot-grid pointer-events-none absolute inset-0 opacity-40 [mask-image:radial-gradient(ellipse_80%_70%_at_50%_0%,black,transparent_85%)]"
-          />
 
           <div className="relative">
             <Logo size="md" />
@@ -514,10 +506,10 @@ export default function AuthModal({ onClose }) {
 
           <div className="relative">
             <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
-              Zehnly OS
+              Mushohada OS
             </span>
             <h2 className="mt-4 font-display text-[2.1rem] font-semibold leading-[1.04] tracking-[-0.04em] text-ink">
-              Bilimni <span className="text-aurora">tizimga</span> aylantiring.
+              Bilimni <span className="text-ember">tizimga</span> aylantiring.
             </h2>
             <p className="mt-4 text-sm leading-6 text-muted">
               {isRemoteAuth

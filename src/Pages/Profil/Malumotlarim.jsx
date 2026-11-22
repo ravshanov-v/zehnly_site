@@ -34,18 +34,14 @@ export default function Malumotlarim({ user }) {
   return (
     <div className="animate-fadeIn space-y-4">
       <div className="relative overflow-hidden rounded-2xl border border-hairline bg-paper p-5">
-        <div
-          aria-hidden="true"
-          className="pointer-events-none absolute -right-12 -top-16 h-40 w-40 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_70%)] blur-2xl"
-        />
         <div className="relative flex items-start justify-between gap-4">
           <div className="flex items-center gap-3">
-            <span className="flex h-12 w-12 items-center justify-center rounded-xl gradient-brand font-display text-xl font-semibold text-white">
+            <span className="flex h-12 w-12 items-center justify-center rounded-xl gradient-brand font-display text-xl font-semibold text-ember-ink">
               {displayName.charAt(0).toUpperCase()}
             </span>
             <div>
               <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-ember">
-                Zehnly a'zosi
+                Mushohada a'zosi
               </span>
               <h3 className="mt-1 font-display text-2xl font-semibold leading-none tracking-[-0.03em] text-ink">
                 {displayName}
@@ -55,7 +51,6 @@ export default function Malumotlarim({ user }) {
           </div>
           <span className="inline-flex shrink-0 items-center gap-1.5 rounded-md border border-positive/25 bg-positive/[0.06] px-2.5 py-1 font-mono text-[8px] uppercase tracking-[0.12em] text-positive">
             <span className="relative flex h-1.5 w-1.5">
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-positive opacity-50" />
               <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-positive" />
             </span>
             Faol

@@ -46,7 +46,7 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
     <div className="fixed inset-0 z-50 flex items-center justify-center p-3 select-none sm:p-6">
       <div
         onClick={onClose}
-        className="scrim absolute inset-0 backdrop-blur-md transition-all duration-300"
+        className="scrim absolute inset-0 transition-opacity duration-300"
       />
 
       <div
@@ -55,15 +55,14 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
         aria-modal="true"
         aria-labelledby="profile-dialog-title"
         tabIndex={-1}
-        className="relative flex h-[92vh] max-h-[92vh] w-full max-w-4xl flex-col overflow-hidden rounded-2xl border border-hairline bg-raised text-ink shadow-[var(--shadow-lift)] outline-none focus:outline-none md:h-[620px] md:flex-row"
+        className="relative flex h-[92vh] max-h-[92vh] w-full max-w-4xl flex-col overflow-hidden rounded-2xl border border-hairline bg-raised text-ink outline-none focus:outline-none md:h-[620px] md:flex-row"
       >
-        <div className="pointer-events-none absolute -left-28 -top-28 h-72 w-72 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_70%)] blur-2xl" />
 
         <aside className="relative z-10 flex w-full shrink-0 flex-col justify-between border-b border-hairline bg-paper p-4 md:w-72 md:border-b-0 md:border-r md:p-5">
           <div>
             <div className="flex items-center gap-3.5 md:border-b md:border-hairline md:pb-5">
               <div className="relative">
-                <div className="flex h-12 w-12 items-center justify-center rounded-xl gradient-brand font-display text-xl font-semibold text-white">
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl gradient-brand font-display text-xl font-semibold text-ember-ink">
                   {firstLetter}
                 </div>
                 <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-paper bg-positive" />

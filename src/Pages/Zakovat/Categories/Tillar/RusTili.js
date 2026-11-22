@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Rus tili (1000 savol)
+// Mushohada Zakovat Platformasi - Rus tili (1000 savol)
 
 const rusTili = {
   "id": "rus-tili",

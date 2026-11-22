@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Frontend (1000 savol)
+// Mushohada Zakovat Platformasi - Frontend (1000 savol)
 
 const frontend = {
   "id": "frontend",

@@ -66,7 +66,7 @@ function ToastItem({ toast, onDismiss }) {
   return (
     <div
       role="status"
-      className={`zehnly-toast-in pointer-events-auto flex w-full max-w-sm items-start gap-3 rounded-xl border bg-raised px-4 py-3 shadow-[var(--shadow-lift)] backdrop-blur-xl sm:w-88 ${variant.border}`}
+      className={`zehnly-toast-in pointer-events-auto flex w-full max-w-sm items-start gap-3 rounded-xl border bg-raised px-4 py-3 sm:w-88 ${variant.border}`}
     >
       <span
         aria-hidden="true"

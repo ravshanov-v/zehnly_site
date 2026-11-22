@@ -1,6 +1,6 @@
-# Zehnly
+# Mushohada
 
-Bilim va zakovat platformasi — o'quv maskanlari katalogi, zakovat testlari va shaxsiy statistika uchun zamonaviy veb-ilova.
+Bilim, zakovat va o'quv maskanlari platformasi — o'quv maskanlari katalogi, 20 000 dan ortiq test savoli, AI yordamchi va shaxsiy statistika uchun zamonaviy veb-ilova.
 
 ## Texnologiyalar
 
@@ -41,6 +41,12 @@ Supabase env qiymatlari bo'lmasa, ilova avtomatik lokal rejimda (localStorage) i
 ## AI yordamchi
 
 `/api/chat` Vercel serverless funksiyasi `GEMINI_API_KEY` environment variable'ini talab qiladi.
+
+## SEO va deploy
+
+- `public/robots.txt`, `public/sitemap.xml` va `public/og-image.png` production uchun tayyor.
+- `vercel.json` SPA route'larni `index.html`ga yo'naltiradi; `/api/*` funksiyalari avtomatik ustuvor ishlaydi.
+- Sahifa sarlavhalari va meta tavsiflari `src/App.jsx` ichidagi `RouteMeta` orqali boshqariladi.
 
 ## Tuzilma
 

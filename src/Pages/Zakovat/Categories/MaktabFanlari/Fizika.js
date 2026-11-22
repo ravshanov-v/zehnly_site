@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Fizika (1000 savol)
+// Mushohada Zakovat Platformasi - Fizika (1000 savol)
 
 const fizika = {
   "id": "fizika",

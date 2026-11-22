@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Informatika (1000 savol)
+// Mushohada Zakovat Platformasi - Informatika (1000 savol)
 
 const informatika = {
   "id": "informatika",

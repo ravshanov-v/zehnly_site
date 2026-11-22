@@ -1,11 +1,7 @@
 import { NavLink } from 'react-router-dom'
 import ProductPreview from '../../Components/ProductPreview.jsx'
 import Reveal from '../../Components/Reveal.jsx'
-import AnimatedNumber from '../../Components/AnimatedNumber.jsx'
-import SeasonalAtmosphere from '../../Components/SeasonalAtmosphere.jsx'
-import HolidayConfetti from '../../Components/HolidayConfetti.jsx'
 import { ArrowRight, ArrowUpRight, CheckMark, Spark } from '../../Components/Marks.jsx'
-import { useAtmosphere } from '../../context/useAtmosphere.js'
 import { useSession } from '../../hooks/useSession.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
 import { studyCenters } from '../../data/studyCenters.js'
@@ -96,12 +92,8 @@ const miniAnswers = [
 function BentoCard({ className = '', children }) {
   return (
     <article
-      className={`group relative overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-all duration-300 hover:border-ember/40 hover:shadow-[var(--shadow-soft)] winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint sm:p-7 ${className}`}
+      className={`group relative overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-colors duration-200 hover:border-ember/40 sm:p-7 ${className}`}
     >
-      <div
-        aria-hidden="true"
-        className="pointer-events-none absolute -right-16 -top-20 h-44 w-44 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_70%)] opacity-0 blur-2xl transition-opacity duration-500 group-hover:opacity-100"
-      />
       <div className="relative">{children}</div>
     </article>
   )
@@ -122,7 +114,6 @@ function CardEyebrow({ children, icon }) {
 
 export default function BoshSahifa() {
   const session = useSession()
-  const { holiday } = useAtmosphere()
   const { records, stats } = useQuizHistory()
   const weeklyActivity = buildWeeklyActivity(records)
   const weeklyAnswered = weeklyActivity.reduce((sum, day) => sum + day.count, 0)
@@ -135,49 +126,26 @@ export default function BoshSahifa() {
 
   return (
     <div className="flex flex-col pb-8">
-      <HolidayConfetti />
-      <section className="relative pt-6 sm:pt-10 lg:pt-14">
-        <SeasonalAtmosphere />
+      <section className="relative pt-6 sm:pt-8 lg:pt-10">
         <div className="relative z-10 grid items-center gap-14 lg:grid-cols-[1.02fr_0.98fr] lg:gap-10">
           <div>
-            <Reveal className="flex items-center">
-              <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised/70 px-3 py-1.5 font-mono text-[9px] tracking-[0.18em] text-muted backdrop-blur">
-                {holiday ? (
-                  <>
-                    <span className="relative flex h-1.5 w-1.5">
-                      <span
-                        className="absolute inline-flex h-full w-full animate-ping rounded-full opacity-50"
-                        style={{ backgroundColor: holiday.accent }}
-                      />
-                      <span
-                        className="relative inline-flex h-1.5 w-1.5 rounded-full"
-                        style={{ backgroundColor: holiday.accent }}
-                      />
-                    </span>
-                    <span className="normal-case tracking-[0.12em]">{holiday.greeting}</span>
-                  </>
-                ) : (
-                  <>
-                    <span className="relative flex h-1.5 w-1.5">
-                      <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-positive opacity-50" />
-                      <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-positive" />
-                    </span>
-                    <span className="uppercase">Zehnly Arena · ochiq</span>
-                  </>
-                )}
+            <Reveal className="flex flex-wrap items-center gap-2">
+              <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
+                <span className="h-1.5 w-1.5 rounded-full bg-positive" />
+                Mushohada Arena · ochiq
               </span>
             </Reveal>
 
             <Reveal delay={60}>
-              <h1 className="mt-6 font-display text-[clamp(2.9rem,6.4vw,5.4rem)] font-semibold leading-[0.96] tracking-[-0.05em] text-ink">
+              <h1 className="mt-5 font-display text-[clamp(2.8rem,6vw,4.8rem)] font-semibold leading-[0.96] tracking-[-0.05em] text-ink">
                 Bilim uchun
                 <br />
-                yangi <span className="text-gradient">infratuzilma.</span>
+                yangi <span className="text-ember">infratuzilma.</span>
               </h1>
             </Reveal>
 
             <Reveal delay={120}>
-              <p className="mt-6 max-w-xl text-pretty text-[15px] leading-7 text-muted sm:text-base sm:leading-8">
+              <p className="mt-5 max-w-xl text-pretty text-[15px] leading-7 text-muted sm:text-base sm:leading-8">
                 {formattedTotalQuestions} savol, 30 soniyalik interaktiv arena va o‘sish
                 analitikasi — bitta tezkor, aniq tizimda. Har bir urinish o‘lchanadi, har bir
                 natija ko‘rinadi.
@@ -185,10 +153,10 @@ export default function BoshSahifa() {
             </Reveal>
 
             <Reveal delay={180}>
-              <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
+              <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center">
                 <NavLink
                   to="/zakovat"
-                  className="winter-glint spring-glint summer-glint summer-sun group relative inline-flex h-12 items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink shadow-[0_20px_50px_-24px_var(--ember)] transition-all duration-200 hover:-translate-y-0.5 hover:brightness-105"
+                  className="btn-accent-glow group relative inline-flex h-12 items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all duration-200 hover:-translate-y-0.5 hover:brightness-105 active:scale-[0.98]"
                 >
                   Arenani boshlash
                   <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-ember-ink/15 transition-transform duration-200 group-hover:translate-x-0.5">
@@ -198,7 +166,7 @@ export default function BoshSahifa() {
 
                 <NavLink
                   to="/oquv-maskanlari"
-                  className="group inline-flex h-12 items-center justify-center gap-2 rounded-xl border border-hairline-strong px-5 text-sm font-semibold text-ink transition-colors hover:border-ember/50 hover:bg-ink/[0.04]"
+                  className="group inline-flex h-12 items-center justify-center gap-2 rounded-xl border border-hairline-strong px-5 text-sm font-semibold text-ink transition-all duration-200 hover:border-ember/50 hover:bg-ink/[0.04] active:scale-[0.98]"
                 >
                   Maskanlarni ko‘rish
                   <ArrowRight className="h-3.5 w-3.5 text-muted transition-transform duration-200 group-hover:translate-x-0.5" />
@@ -207,14 +175,14 @@ export default function BoshSahifa() {
             </Reveal>
 
             <Reveal delay={220}>
-              <p className="mt-4 flex items-center gap-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
+              <p className="mt-3 flex items-center gap-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
                 <CheckMark className="h-3.5 w-3.5 text-positive" />
                 Bepul boshlash · Karta talab qilinmaydi
               </p>
             </Reveal>
 
             <Reveal delay={260}>
-              <dl className="mt-10 grid max-w-lg grid-cols-3 border-y border-hairline">
+              <dl className="mt-8 grid max-w-lg grid-cols-3 border-y border-hairline">
                 <div className="py-5 pr-3">
                   <dd className="font-display text-2xl font-semibold tracking-tight text-ink">
                     {categoryMeta.length}
@@ -251,14 +219,13 @@ export default function BoshSahifa() {
 
       <section className="mt-20 sm:mt-24">
         <Reveal>
-          <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint grid gap-px overflow-hidden rounded-2xl border border-hairline bg-hairline sm:grid-cols-4">
+          <div className="grid gap-px overflow-hidden rounded-2xl border border-hairline bg-hairline sm:grid-cols-4">
             {metrics.map((metric) => (
               <div key={metric.label} className="bg-raised px-5 py-6 sm:px-6">
-                <AnimatedNumber
-                  value={metric.value}
-                  suffix={metric.suffix}
-                  className="font-display text-3xl font-semibold tracking-tight text-ink sm:text-4xl"
-                />
+                <span className="font-display text-3xl font-semibold tracking-tight text-ink sm:text-4xl">
+                  {metric.value.toLocaleString('ru-RU')}
+                  {metric.suffix}
+                </span>
                 <p className="mt-1.5 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
                   {metric.label}
                 </p>
@@ -272,7 +239,7 @@ export default function BoshSahifa() {
         <Reveal className="max-w-2xl">
           <span className="kicker">Imkoniyatlar</span>
           <h2 className="mt-5 font-display text-[clamp(2.2rem,4.6vw,3.8rem)] font-semibold leading-[1] tracking-[-0.045em] text-ink">
-            Bitta tizim. <span className="text-gradient">To‘liq nazorat.</span>
+            Bitta tizim. <span className="text-ember">To‘liq nazorat.</span>
           </h2>
           <p className="mt-5 max-w-lg text-sm leading-7 text-muted sm:text-base">
             Arena, katalog va analitika alohida vositalar emas — ular bir-birini
@@ -374,7 +341,7 @@ export default function BoshSahifa() {
                   <div key={day.key} className="flex flex-1 flex-col items-center gap-2">
                     <div className="flex h-24 w-full items-end rounded-md bg-ink/[0.04]">
                       <div
-                        className="w-full rounded-md bg-gradient-to-t from-ember to-cobalt opacity-80 transition-all duration-500 group-hover:opacity-100"
+                        className="w-full rounded-md bg-ember opacity-80 transition-opacity duration-200 group-hover:opacity-100"
                         style={{ height: `${day.height}%` }}
                       />
                     </div>
@@ -483,7 +450,7 @@ export default function BoshSahifa() {
 
               <div className="mt-6 rounded-xl border border-hairline bg-paper p-4">
                 <div className="flex items-center gap-3">
-                  <span className="flex h-11 w-11 items-center justify-center rounded-xl gradient-brand font-display text-lg font-semibold text-white">
+                  <span className="flex h-11 w-11 items-center justify-center rounded-xl gradient-brand font-display text-lg font-semibold text-ember-ink">
                     {firstLetter}
                   </span>
                   <div className="min-w-0 flex-1">
@@ -521,7 +488,7 @@ export default function BoshSahifa() {
         <Reveal className="max-w-2xl">
           <span className="kicker">Qanday ishlaydi</span>
           <h2 className="mt-5 font-display text-[clamp(2.2rem,4.6vw,3.8rem)] font-semibold leading-[1] tracking-[-0.045em] text-ink">
-            Uch qadamda <span className="text-gradient">o‘sish.</span>
+            Uch qadamda <span className="text-ember">o‘sish.</span>
           </h2>
           <p className="mt-5 max-w-lg text-sm leading-7 text-muted sm:text-base">
             Ortiqcha sozlash yo‘q. Tanlang, sinang va natijani kuzatib boring.
@@ -531,7 +498,7 @@ export default function BoshSahifa() {
         <div className="mt-10 grid gap-4 md:grid-cols-3">
           {steps.map((step, index) => (
             <Reveal key={step.title} delay={index * 80}>
-              <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative h-full overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-colors hover:border-ember/40">
+              <div className="relative h-full overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-colors hover:border-ember/40">
                 <div className="flex items-center justify-between">
                   <span className="font-mono text-[10px] tabular-nums tracking-[0.16em] text-ember">
                     0{index + 1}
@@ -551,15 +518,7 @@ export default function BoshSahifa() {
       </section>
 
       <section className="mt-24 sm:mt-32">
-        <Reveal className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center sm:px-12 sm:py-20">
-          <div
-            aria-hidden="true"
-            className="pointer-events-none absolute -top-32 left-1/2 h-72 w-[38rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_66%)] blur-3xl"
-          />
-          <div
-            aria-hidden="true"
-            className="dot-grid pointer-events-none absolute inset-0 opacity-50 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]"
-          />
+        <Reveal className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center sm:px-12 sm:py-20">
 
           <div className="relative">
             <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-paper px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
@@ -568,7 +527,7 @@ export default function BoshSahifa() {
             </span>
 
             <h2 className="mx-auto mt-6 max-w-3xl font-display text-[clamp(2.3rem,5.4vw,4.6rem)] font-semibold leading-[0.98] tracking-[-0.05em] text-ink">
-              Bugun <span className="text-aurora">birinchi signalni</span> yuboring.
+              Bugun <span className="text-ember">birinchi signalni</span> yuboring.
             </h2>
             <p className="mx-auto mt-5 max-w-lg text-sm leading-7 text-muted">
               Ro‘yxatdan o‘ting va birinchi sessiyangizni boshlang. Natijani bir necha
@@ -578,7 +537,7 @@ export default function BoshSahifa() {
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <NavLink
                 to="/zakovat"
-                className="winter-glint spring-glint summer-glint summer-sun group inline-flex h-12 w-full items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                className="group inline-flex h-12 w-full items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
               >
                 Arenaga kirish
                 <ArrowUpRight className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

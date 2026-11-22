@@ -57,10 +57,10 @@ function CatalogCard({ center }) {
   const isFavorite = favoriteIds.includes(center.id)
 
   return (
-    <article className="group relative flex flex-col justify-between rounded-2xl border border-hairline bg-raised p-5 transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/40 hover:shadow-[var(--shadow-soft)]">
+    <article className="group relative flex flex-col justify-between rounded-2xl border border-hairline bg-raised p-5 transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/40">
       <div className="flex items-start justify-between gap-3">
         <div className="flex min-w-0 items-center gap-3">
-          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl gradient-brand font-display text-lg font-semibold text-white">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl gradient-brand font-display text-lg font-semibold text-ember-ink">
             {center.name.charAt(0).toUpperCase()}
           </span>
           <div className="min-w-0">
@@ -168,13 +168,13 @@ export default function OquvMaskanlari() {
   return (
     <div className="mx-auto flex max-w-5xl flex-col pb-20 pt-6 sm:pt-10">
       <Reveal as="header">
-        <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised/70 px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted backdrop-blur">
+        <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
           <span className="h-1.5 w-1.5 rounded-full bg-ember" />
           Katalog · 2026
         </span>
 
         <h1 className="mt-6 font-display text-[clamp(2.8rem,6.4vw,5rem)] font-semibold leading-[0.98] tracking-[-0.05em] text-ink">
-          O‘quv <span className="text-gradient">maskanlari.</span>
+          O‘quv <span className="text-ember">maskanlari.</span>
         </h1>
 
         <p className="mt-5 max-w-xl text-sm leading-7 text-muted sm:text-base">
@@ -296,14 +296,6 @@ export default function OquvMaskanlari() {
         <>
           <Reveal delay={80}>
             <section className="relative mt-10 overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-12 text-ink sm:px-10 sm:py-14">
-              <div
-                aria-hidden="true"
-                className="pointer-events-none absolute -right-24 -top-28 h-72 w-72 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_68%)] blur-3xl"
-              />
-              <div
-                aria-hidden="true"
-                className="dot-grid pointer-events-none absolute inset-0 opacity-50 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]"
-              />
 
               <div className="relative grid gap-10 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
                 <div>
@@ -313,7 +305,7 @@ export default function OquvMaskanlari() {
                   </span>
 
                   <h2 className="mt-5 font-display text-[clamp(2rem,4.6vw,3.4rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink">
-                    Baza <span className="text-aurora">hozircha bo‘sh.</span>
+                    Baza <span className="text-ember">hozircha bo‘sh.</span>
                   </h2>
                   <p className="mt-4 max-w-md text-sm leading-7 text-muted">
                     O‘quv maskanlari bazasi hozircha bo‘sh. Ma’lumotlar qo‘shilgach, katalog
@@ -322,7 +314,7 @@ export default function OquvMaskanlari() {
 
                   <NavLink
                     to="/zakovat"
-                    className="winter-glint spring-glint summer-glint summer-sun group mt-7 inline-flex h-11 items-center gap-2.5 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110"
+                    className="group mt-7 inline-flex h-11 items-center gap-2.5 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110"
                   >
                     Zakovat arenasi
                     <ArrowUpRight className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

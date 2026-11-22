@@ -1,5 +1,5 @@
 {
-  "name": "zehnly_website_2",
+  "name": "mushohada",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,9 +12,6 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.119.0",
     "@tailwindcss/vite": "^4.3.3",
-    "@tsparticles/react": "^4.6.0",
-    "@tsparticles/slim": "^4.6.0",
-    "canvas-confetti": "^1.9.4",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.4",

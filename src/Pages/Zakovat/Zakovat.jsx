@@ -41,7 +41,7 @@ function notifySessionResult({ totalAnswered, correctCount, totalEarnedXP }) {
     if (localStorage.getItem('zehnly_notifications') !== 'true') return
     if (!('Notification' in window) || Notification.permission !== 'granted') return
 
-    new Notification('Zehnly sessiyasi yakunlandi', {
+    new Notification('Mushohada sessiyasi yakunlandi', {
       body: `${correctCount}/${totalAnswered} to'g'ri javob · ${totalEarnedXP} XP`,
     })
   } catch {
@@ -332,16 +332,15 @@ export default function Zakovat() {
       {gameState === 'lobby' && (
         <div className="zehnly-fade-in flex flex-col gap-14">
           <Reveal as="header">
-            <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised/70 px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted backdrop-blur">
+            <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
               <span className="relative flex h-1.5 w-1.5">
-                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-ember opacity-50" />
                 <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-ember" />
               </span>
               Ochiq arena · interaktiv
             </span>
 
             <h1 className="mt-6 font-display text-[clamp(2.8rem,6.6vw,5.4rem)] font-semibold leading-[0.98] tracking-[-0.05em] text-ink">
-              Zakovat <span className="text-gradient">arenasi.</span>
+              Zakovat <span className="text-ember">arenasi.</span>
             </h1>
 
             <div className="mt-5 grid gap-6 sm:grid-cols-[1fr_auto] sm:items-end">
@@ -374,14 +373,6 @@ export default function Zakovat() {
 
           <Reveal delay={80}>
             <section className="relative overflow-hidden rounded-3xl border border-hairline bg-raised p-6 text-ink sm:p-10">
-              <div
-                aria-hidden="true"
-                className="pointer-events-none absolute -right-24 -top-28 h-72 w-72 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_68%)] blur-3xl"
-              />
-              <div
-                aria-hidden="true"
-                className="dot-grid pointer-events-none absolute inset-0 opacity-40 [mask-image:radial-gradient(ellipse_80%_70%_at_50%_0%,black,transparent_85%)]"
-              />
 
               <div className="relative grid gap-10 lg:grid-cols-[1fr_auto] lg:items-center">
                 <div>
@@ -391,7 +382,7 @@ export default function Zakovat() {
                   <h2 className="mt-4 max-w-xl font-display text-[clamp(2rem,4.2vw,3.2rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink">
                     30 soniya. Bir savol.
                     <br />
-                    <span className="text-aurora">Cheksiz o‘sish.</span>
+                    <span className="text-ember">Cheksiz o‘sish.</span>
                   </h2>
                   <p className="mt-5 max-w-md text-sm leading-7 text-muted">
                     O‘zingizni sinang yoki yo‘nalishni tanlab, faqat o‘zingiz bilgan sohada
@@ -403,7 +394,7 @@ export default function Zakovat() {
                       type="button"
                       onClick={() => startArena()}
                       disabled={isLoading}
-                      className="winter-glint spring-glint summer-glint summer-sun group inline-flex h-12 items-center gap-3 rounded-xl bg-ember pl-5 pr-2 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 disabled:cursor-wait disabled:opacity-70"
+                      className="group inline-flex h-12 items-center gap-3 rounded-xl bg-ember pl-5 pr-2 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 disabled:cursor-wait disabled:opacity-70"
                     >
                       {loadingCategoryId === 'mixed' ? 'Yuklanmoqda…' : 'Arenaga kirish'}
                       <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-ember-ink/15 transition-transform duration-200 group-hover:translate-x-0.5">
@@ -448,7 +439,7 @@ export default function Zakovat() {
               <div>
                 <span className="kicker">Yo‘nalishlar</span>
                 <h2 className="mt-4 font-display text-[clamp(2rem,4vw,3rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink">
-                  Fanni <span className="text-gradient">tanlang.</span>
+                  Fanni <span className="text-ember">tanlang.</span>
                 </h2>
               </div>
               <p className="max-w-xs text-sm leading-6 text-muted sm:text-right">
@@ -487,7 +478,7 @@ export default function Zakovat() {
                         onMouseEnter={() => prefetchCategory(subject.id)}
                         onFocus={() => prefetchCategory(subject.id)}
                         disabled={isLoading}
-                        className="group relative flex min-h-[7.5rem] flex-col justify-between overflow-hidden rounded-xl border border-hairline bg-paper p-4 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/50 hover:shadow-[var(--shadow-soft)] disabled:cursor-wait disabled:opacity-60"
+                        className="group relative flex min-h-[7.5rem] flex-col justify-between overflow-hidden rounded-xl border border-hairline bg-paper p-4 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/50 disabled:cursor-wait disabled:opacity-60"
                       >
                         <div className="flex w-full items-start justify-between gap-2">
                           <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-ember/10 font-display text-sm font-semibold text-ember">
@@ -705,16 +696,12 @@ export default function Zakovat() {
 
           <div className="h-1 w-full overflow-hidden rounded-full bg-ink/[0.07]">
             <div
-              className="h-full rounded-full bg-gradient-to-r from-ember to-cobalt transition-all duration-500"
+              className="h-full rounded-full bg-ember transition-[width] duration-300"
               style={{ width: `${questionProgress}%` }}
             />
           </div>
 
-          <div className="relative overflow-hidden rounded-2xl border border-hairline bg-raised px-6 py-12 text-center shadow-[var(--shadow-soft)] sm:px-12 sm:py-14">
-            <div
-              aria-hidden="true"
-              className="pointer-events-none absolute left-1/2 top-1/2 h-48 w-3/4 -translate-x-1/2 -translate-y-1/2 rounded-full bg-[radial-gradient(ellipse,var(--halo),transparent_70%)] blur-2xl"
-            />
+          <div className="relative overflow-hidden rounded-2xl border border-hairline bg-raised px-6 py-12 text-center sm:px-12 sm:py-14">
             <span className="relative font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
               Savol
             </span>
@@ -831,14 +818,6 @@ export default function Zakovat() {
       {gameState === 'cycle-complete' && (
         <div className="zehnly-fade-in">
           <div className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center text-ink sm:px-12 sm:py-16">
-            <div
-              aria-hidden="true"
-              className="pointer-events-none absolute -top-32 left-1/2 h-72 w-[38rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_66%)] blur-3xl"
-            />
-            <div
-              aria-hidden="true"
-              className="dot-grid pointer-events-none absolute inset-0 opacity-40 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]"
-            />
 
             <div className="relative mx-auto max-w-2xl">
               <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
@@ -856,7 +835,7 @@ export default function Zakovat() {
                 <button
                   type="button"
                   onClick={() => startArena(activeCategoryId, { reset: true })}
-                  className="winter-glint spring-glint summer-glint summer-sun inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
                 >
                   1-dan qayta
                   <ArrowRight className="h-3.5 w-3.5" />
@@ -884,14 +863,6 @@ export default function Zakovat() {
       {gameState === 'summary' && (
         <div className="zehnly-fade-in">
           <div className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center text-ink sm:px-12 sm:py-16">
-            <div
-              aria-hidden="true"
-              className="pointer-events-none absolute -top-32 left-1/2 h-72 w-[38rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_66%)] blur-3xl"
-            />
-            <div
-              aria-hidden="true"
-              className="dot-grid pointer-events-none absolute inset-0 opacity-40 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]"
-            />
 
             <div className="relative mx-auto max-w-2xl">
               <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
@@ -902,7 +873,7 @@ export default function Zakovat() {
               </h2>
 
               <div className="mt-8 flex items-baseline justify-center gap-3">
-                <span className="text-aurora font-display text-[clamp(4rem,11vw,6.5rem)] font-semibold leading-none tracking-[-0.04em]">
+                <span className="text-ember font-display text-[clamp(4rem,11vw,6.5rem)] font-semibold leading-none tracking-[-0.04em]">
                   {accuracyPercentage}%
                 </span>
                 <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
@@ -951,7 +922,7 @@ export default function Zakovat() {
                 <button
                   type="button"
                   onClick={resumeSession}
-                  className="winter-glint spring-glint summer-glint summer-sun inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
                 >
                   {activeCategoryId && remainingQuestions > 0 ? 'Keyingi 20 savol' : 'Davom etish'}
                   <ArrowRight className="h-3.5 w-3.5" />

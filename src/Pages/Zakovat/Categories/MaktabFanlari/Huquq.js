@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Huquq (1000 savol)
+// Mushohada Zakovat Platformasi - Huquq (1000 savol)
 
 const huquq = {
   "id": "huquq",

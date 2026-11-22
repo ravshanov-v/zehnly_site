@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /auth/recover
+
+Sitemap: https://mushohada.uz/sitemap.xml

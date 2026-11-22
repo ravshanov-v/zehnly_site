@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Biologiya (1000 savol)
+// Mushohada Zakovat Platformasi - Biologiya (1000 savol)
 
 const biologiya = {
   "id": "biologiya",

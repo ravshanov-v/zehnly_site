@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Ingliz tili (1000 savol)
+// Mushohada Zakovat Platformasi - Ingliz tili (1000 savol)
 
 const inglizTili = {
   "id": "ingliz-tili",

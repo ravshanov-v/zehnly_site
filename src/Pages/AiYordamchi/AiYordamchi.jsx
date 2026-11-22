@@ -337,7 +337,7 @@ function MessageBody({ text }) {
 
 function AiAvatar() {
   return (
-    <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl border border-[#5b7cfa]/25 gradient-brand text-white shadow-[0_0_24px_-8px_rgba(91,124,250,0.9)]">
+    <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl border border-ember/25 gradient-brand text-ember-ink">
       <Spark className="h-4 w-4" />
     </span>
   )
@@ -379,7 +379,7 @@ function ChatMessage({ message }) {
   if (message.role === 'user') {
     return (
       <div className="flex justify-end">
-        <div className="max-w-[85%] rounded-3xl rounded-br-lg gradient-brand px-4 py-3 text-sm leading-6 text-white shadow-[0_18px_40px_-24px_rgba(53,86,245,0.9)] sm:max-w-[75%]">
+        <div className="max-w-[85%] rounded-3xl rounded-br-lg gradient-brand px-4 py-3 text-sm leading-6 text-ember-ink sm:max-w-[75%]">
           <p className="whitespace-pre-wrap">{message.text}</p>
         </div>
       </div>
@@ -390,7 +390,7 @@ function ChatMessage({ message }) {
     <div className="flex items-start gap-3">
       <AiAvatar />
       <div className="min-w-0 flex-1">
-        <div className="rounded-2xl rounded-tl-md border border-hairline bg-raised/80 px-4 py-3 text-sm leading-7 text-ink-soft shadow-[var(--shadow-soft)] backdrop-blur">
+        <div className="rounded-2xl rounded-tl-md border border-hairline bg-raised px-4 py-3 text-sm leading-7 text-ink-soft">
           <MessageBody text={message.text} />
         </div>
         <CopyButton text={message.text} />
@@ -403,13 +403,13 @@ function TypingIndicator() {
   return (
     <div className="flex items-start gap-3" role="status" aria-live="polite">
       <AiAvatar />
-      <div className="flex items-center gap-3 rounded-2xl rounded-tl-md border border-hairline bg-raised/80 px-4 py-3.5 backdrop-blur">
+      <div className="flex items-center gap-3 rounded-2xl rounded-tl-md border border-hairline bg-raised px-4 py-3.5">
         <span className="flex items-center gap-1" aria-hidden="true">
           <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember [animation-delay:-0.25s]" />
           <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember [animation-delay:-0.12s]" />
           <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember" />
         </span>
-        <span className="text-xs text-muted">Zehnly AI o‘ylamoqda...</span>
+        <span className="text-xs text-muted">Mushohada AI o‘ylamoqda...</span>
       </div>
     </div>
   )
@@ -433,14 +433,14 @@ function ErrorMessage({ text }) {
 function EmptyState({ onPrompt }) {
   return (
     <div className="flex flex-1 flex-col items-center justify-center py-6 text-center animate-fadeIn sm:py-8">
-      <span className="flex h-12 w-12 items-center justify-center rounded-2xl border border-[#7d95ff]/25 gradient-brand text-white shadow-[0_0_48px_-14px_rgba(91,124,250,0.85)] sm:h-14 sm:w-14">
+      <span className="flex h-12 w-12 items-center justify-center rounded-2xl border border-ember/25 gradient-brand text-ember-ink sm:h-14 sm:w-14">
         <Spark className="h-5 w-5 sm:h-6 sm:w-6" />
       </span>
       <h1 className="mt-4 font-display text-[clamp(1.8rem,4vw,2.65rem)] font-semibold tracking-[-0.04em] text-ink sm:mt-5">
         Qanday yordam bera olaman?
       </h1>
       <p className="mt-2 max-w-md text-[13px] leading-6 text-muted sm:text-sm">
-        Savol yozing yoki tayyor mavzulardan birini tanlang. Zehnly AI tushuntiradi,
+        Savol yozing yoki tayyor mavzulardan birini tanlang. Mushohada AI tushuntiradi,
         mashq qildiradi va reja tuzishga yordam beradi.
       </p>
 
@@ -450,7 +450,7 @@ function EmptyState({ onPrompt }) {
             key={starter.label}
             type="button"
             onClick={() => onPrompt(starter.prompt)}
-            className="group flex items-start gap-3 rounded-2xl border border-hairline bg-raised/65 p-3.5 text-left backdrop-blur transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/40 hover:bg-raised sm:p-4"
+            className="group flex items-start gap-3 rounded-2xl border border-hairline bg-raised p-3.5 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/40 hover:bg-raised sm:p-4"
           >
             <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg border border-hairline bg-ink/[0.04] text-ember transition-colors group-hover:border-ember/30 group-hover:text-ink">
               {starter.icon}
@@ -481,15 +481,6 @@ export default function AiYordamchi() {
   const inputRef = useRef(null)
   const requestRef = useRef(null)
   const isLoading = status === 'loading'
-
-  useEffect(() => {
-    const previousTitle = document.title
-    document.title = 'Zehnly AI — O‘quv yordamchi'
-
-    return () => {
-      document.title = previousTitle
-    }
-  }, [])
 
   useEffect(() => {
     const node = messagesRef.current
@@ -584,20 +575,7 @@ export default function AiYordamchi() {
 
   return (
     <div className="relative flex h-dvh flex-col overflow-hidden overscroll-none bg-paper text-ink transition-colors duration-300">
-      <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden="true">
-        <div className="absolute -top-64 left-1/2 h-[38rem] w-[64rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,rgba(53,86,245,0.12),transparent_66%)] blur-3xl dark:bg-[radial-gradient(circle,rgba(53,86,245,0.2),transparent_66%)]" />
-        <div className="absolute -bottom-48 -right-32 h-[30rem] w-[30rem] rounded-full bg-[radial-gradient(circle,rgba(124,92,255,0.1),transparent_68%)] blur-3xl dark:bg-[radial-gradient(circle,rgba(124,92,255,0.15),transparent_68%)]" />
-        <div
-          className="absolute inset-0"
-          style={{
-            backgroundImage:
-              'linear-gradient(to right, var(--grid) 1px, transparent 1px), linear-gradient(to bottom, var(--grid) 1px, transparent 1px)',
-            backgroundSize: '64px 64px',
-          }}
-        />
-      </div>
-
-      <header className="relative z-20 shrink-0 border-b border-hairline bg-paper/80 backdrop-blur-xl">
+      <header className="relative z-20 shrink-0 border-b border-hairline bg-paper">
         <div className="mx-auto flex h-16 w-full max-w-[1040px] items-center justify-between gap-3 px-4 sm:px-6">
           <Link
             to="/"
@@ -612,11 +590,11 @@ export default function AiYordamchi() {
 
           <div className="flex items-center gap-2.5 sm:gap-3">
             <div className="flex items-center gap-2">
-              <span className="flex h-8 w-8 items-center justify-center rounded-lg border border-[#7d95ff]/25 gradient-brand text-white shadow-[0_0_24px_-8px_rgba(91,124,250,0.9)]">
+              <span className="flex h-8 w-8 items-center justify-center rounded-lg border border-ember/25 gradient-brand text-ember-ink">
                 <Spark className="h-4 w-4" />
               </span>
               <span className="hidden font-display text-[13px] font-semibold tracking-tight text-ink sm:inline sm:text-sm">
-                Zehnly <span className="text-ember">AI</span>
+                Mushohada <span className="text-ember">AI</span>
               </span>
             </div>
 
@@ -696,10 +674,10 @@ export default function AiYordamchi() {
           </div>
         </div>
 
-        <div className="relative shrink-0 border-t border-hairline bg-paper/90 px-4 pb-[max(0.875rem,env(safe-area-inset-bottom))] pt-3 backdrop-blur-xl sm:px-6">
+        <div className="relative shrink-0 border-t border-hairline bg-paper px-4 pb-[max(0.875rem,env(safe-area-inset-bottom))] pt-3 sm:px-6">
           <div className="mx-auto w-full max-w-[800px]">
             <form onSubmit={handleSubmit}>
-              <div className="rounded-2xl border border-hairline-strong bg-raised/90 p-2 shadow-[var(--shadow-lift)] backdrop-blur-xl transition-all focus-within:border-ember/50 focus-within:ring-4 focus-within:ring-ember/10">
+              <div className="rounded-2xl border border-hairline-strong bg-raised p-2 transition-all focus-within:border-ember/50 focus-within:ring-4 focus-within:ring-ember/10">
                 <label htmlFor="ai-chat-input" className="sr-only">
                   Savolingiz
                 </label>
@@ -710,7 +688,7 @@ export default function AiYordamchi() {
                   value={input}
                   onChange={(event) => setInput(event.target.value)}
                   onKeyDown={handleKeyDown}
-                  placeholder="Zehnly AI’dan biror narsa so‘rang..."
+                  placeholder="Mushohada AI’dan biror narsa so‘rang..."
                   className="min-h-12 max-h-40 w-full resize-none bg-transparent px-2.5 py-2 text-sm leading-6 text-ink outline-none placeholder:text-muted"
                 />
 
@@ -720,10 +698,10 @@ export default function AiYordamchi() {
                     disabled={!input.trim() || isLoading}
                     aria-label="Xabar yuborish"
                     title="Yuborish"
-                    className="ml-auto flex h-9 w-9 items-center justify-center rounded-xl gradient-brand text-white shadow-[0_10px_30px_-12px_rgba(53,86,245,0.9)] transition-all hover:brightness-110 disabled:pointer-events-none disabled:opacity-40"
+                    className="ml-auto flex h-9 w-9 items-center justify-center rounded-xl gradient-brand text-ember-ink transition-all hover:brightness-110 disabled:pointer-events-none disabled:opacity-40"
                   >
                     {isLoading ? (
-                      <span className="h-4 w-4 animate-spin rounded-full border-2 border-white/80 border-t-transparent" />
+                      <span className="h-4 w-4 animate-spin rounded-full border-2 border-ember-ink/80 border-t-transparent" />
                     ) : (
                       <SendIcon />
                     )}

@@ -3,61 +3,78 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500;600&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap"
       rel="stylesheet"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#05060a" />
+    <meta name="theme-color" content="#080e1e" />
+    <title>Mushohada — Bilim, Zakovat va O'quv Maskanlari Platformasi</title>
     <meta
       name="description"
-      content="Zehnly — bilim uchun yangi infratuzilma. Interaktiv zakovat arenasi, o'quv maskanlari katalogi va o'sish analitikasi bitta tezkor tizimda."
+      content="Mushohada — O'zbekistondagi bilim, zakovat va o'quv maskanlari platformasi. 20 000 dan ortiq test savoli, 30 soniyalik interaktiv arena, sifatli o'quv maskanlari katalogi va shaxsiy o'sish analitikasi."
     />
-    <meta property="og:title" content="Zehnly — Bilim infratuzilmasi" />
+    <meta
+      name="keywords"
+      content="Mushohada, zakovat, testlar, onlayn test, o'quv maskanlari, o'quv markazlari, Toshkent, O'zbekiston, bilim platformasi, interaktiv arena, AI yordamchi, ta'lim"
+    />
+    <meta name="author" content="Mushohada" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    <link rel="canonical" href="https://mushohada.uz/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Mushohada" />
+    <meta property="og:locale" content="uz_UZ" />
+    <meta property="og:url" content="https://mushohada.uz/" />
+    <meta property="og:title" content="Mushohada — Bilim, Zakovat va O'quv Maskanlari Platformasi" />
     <meta
       property="og:description"
-      content="2 154 savol, 30 soniyalik interaktiv arena va o'sish analitikasi. Bilimni o'lchanadigan natijaga aylantiring."
+      content="20 000 dan ortiq savol, 30 soniyalik interaktiv zakovat arenasi va O'zbekistondagi eng yaxshi o'quv maskanlari katalogi — bitta tezkor tizimda."
     />
-    <title>Zehnly — Bilim infratuzilmasi</title>
+    <meta property="og:image" content="https://mushohada.uz/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Mushohada — bilim, zakovat va o'quv maskanlari platformasi" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mushohada — Bilim, Zakovat va O'quv Maskanlari Platformasi" />
+    <meta
+      name="twitter:description"
+      content="20 000 dan ortiq savol, interaktiv zakovat arenasi va o'quv maskanlari katalogi."
+    />
+    <meta name="twitter:image" content="https://mushohada.uz/og-image.png" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Mushohada",
+        "alternateName": "Mushohada Arena",
+        "url": "https://mushohada.uz/",
+        "description": "Mushohada — bilim, zakovat va o'quv maskanlari platformasi.",
+        "inLanguage": "uz",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://mushohada.uz/oquv-maskanlari?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+
     <script>
       (() => {
         try {
           const saved = localStorage.getItem('zehnly-theme')
           const dark = saved ? saved === 'dark' : true
-          if (dark) {
-            document.documentElement.classList.add('dark')
-            document.documentElement.style.colorScheme = 'dark'
-          }
-          const forced = new URLSearchParams(window.location.search).get('season')
-          const month = new Date().getMonth() + 1
-          const season =
-            forced === 'autumn' || forced === 'independence'
-              ? 'autumn'
-              : forced === 'spring' || forced === 'navruz'
-                ? 'spring'
-                : forced === 'summer'
-                  ? 'summer'
-                  : forced === 'winter' || forced === 'newyear'
-                    ? 'winter'
-                    : month === 12 || month <= 2
-                      ? 'winter'
-                      : month <= 5
-                        ? 'spring'
-                        : month <= 8
-                          ? 'summer'
-                          : 'autumn'
-          document.documentElement.dataset.season = season
-
+          const root = document.documentElement
+          root.classList.toggle('dark', dark)
+          root.style.colorScheme = dark ? 'dark' : 'light'
           const meta = document.querySelector('meta[name="theme-color"]')
-          if (meta) {
-            const autumn = season === 'autumn'
-            meta.setAttribute(
-              'content',
-              dark ? (autumn ? '#0e0905' : '#05060a') : autumn ? '#f7f2e8' : '#f4f5f8'
-            )
-          }
+          if (meta) meta.setAttribute('content', dark ? '#080e1e' : '#f6f8fc')
         } catch {
           document.documentElement.classList.add('dark')
         }

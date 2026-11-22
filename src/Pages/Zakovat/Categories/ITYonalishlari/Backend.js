@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Backend (1000 savol)
+// Mushohada Zakovat Platformasi - Backend (1000 savol)
 
 const backend = {
   "id": "backend",

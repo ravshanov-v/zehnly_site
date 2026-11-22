@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Adabiyot (1000 savol)
+// Mushohada Zakovat Platformasi - Adabiyot (1000 savol)
 
 const adabiyotData = {
   "id": "adabiyot",

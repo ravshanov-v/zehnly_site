@@ -152,7 +152,7 @@ export default function Sozlamalar() {
           }`}
         >
           <span
-            className={`absolute left-1 top-1 h-4 w-4 rounded-full bg-white shadow-md transition-transform duration-300 ${
+            className={`absolute left-1 top-1 h-4 w-4 rounded-full bg-white transition-transform duration-300 ${
               isDark ? 'translate-x-6' : 'translate-x-0'
             }`}
           />
@@ -187,7 +187,7 @@ export default function Sozlamalar() {
           }`}
         >
           <span
-            className={`absolute left-1 top-1 h-4 w-4 rounded-full bg-white shadow-md transition-transform duration-300 ${
+            className={`absolute left-1 top-1 h-4 w-4 rounded-full bg-white transition-transform duration-300 ${
               notifications ? 'translate-x-6' : 'translate-x-0'
             }`}
           />

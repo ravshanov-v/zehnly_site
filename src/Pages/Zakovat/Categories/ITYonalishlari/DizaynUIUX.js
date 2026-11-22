@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Dizayn UI/UX (1000 savol)
+// Mushohada Zakovat Platformasi - Dizayn UI/UX (1000 savol)
 
 const dizaynUiUx = {
   "id": "dizayn-ui-ux",

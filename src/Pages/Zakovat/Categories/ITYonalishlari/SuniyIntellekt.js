@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Sun'iy intellekt (1000 savol)
+// Mushohada Zakovat Platformasi - Sun'iy intellekt (1000 savol)
 
 const suniyIntellekt = {
   "id": "suniy-intellekt",

@@ -1,5 +1,4 @@
-import { useRef, useState } from 'react'
-import { useSeasonalScene } from '../context/useSeasonalScene.js'
+import { useState } from 'react'
 import { studyCenters } from '../data/studyCenters.js'
 
 const answers = [
@@ -12,32 +11,9 @@ const correctIndex = answers.findIndex((answer) => answer.correct)
 const featuredCenter = studyCenters[0] ?? null
 
 export default function ProductPreview() {
-  const { active: atmosphereActive, physicalMode, seasonEffect } = useSeasonalScene()
-  const isFrosted = atmosphereActive && physicalMode === 'snow'
-  const isAutumn = atmosphereActive && seasonEffect === 'autumn'
   const [selectedAnswer, setSelectedAnswer] = useState(null)
   const [score, setScore] = useState(0)
   const [isAnswered, setIsAnswered] = useState(false)
-  const [pointer, setPointer] = useState({ tiltX: 0, tiltY: 0, x: 50, y: 32 })
-  const cardRef = useRef(null)
-
-  const handleMouseMove = (event) => {
-    const node = cardRef.current
-    if (!node) return
-    const rect = node.getBoundingClientRect()
-    const x = event.clientX - rect.left
-    const y = event.clientY - rect.top
-    setPointer({
-      tiltX: ((y - rect.height / 2) / (rect.height / 2)) * -1.6,
-      tiltY: ((x - rect.width / 2) / (rect.width / 2)) * 1.6,
-      x: (x / rect.width) * 100,
-      y: (y / rect.height) * 100,
-    })
-  }
-
-  const handleMouseLeave = () => {
-    setPointer((prev) => ({ ...prev, tiltX: 0, tiltY: 0 }))
-  }
 
   const handleSelect = (index) => {
     if (isAnswered) return
@@ -67,42 +43,8 @@ export default function ProductPreview() {
       : 'To‘g‘ri javob — B. Yana bir bor urinib ko‘ring.'
 
   return (
-    <div
-      className="relative mx-auto w-full max-w-[640px] select-none"
-      style={{ perspective: '1600px' }}
-    >
-      <div
-        aria-hidden="true"
-        className="pointer-events-none absolute inset-x-10 top-8 -z-10 h-2/3 rounded-full bg-[radial-gradient(60%_60%_at_50%_0%,var(--halo),transparent_72%)] blur-3xl"
-      />
-
-      <div
-        ref={cardRef}
-        onMouseMove={handleMouseMove}
-        onMouseLeave={handleMouseLeave}
-        style={{
-          transform: `rotateX(${pointer.tiltX}deg) rotateY(${pointer.tiltY}deg)`,
-          transition: 'transform 250ms cubic-bezier(0.22, 1, 0.36, 1)',
-          '--fx': `${pointer.x}%`,
-          '--fy': `${pointer.y}%`,
-        }}
-        className={[
-          'group winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative rounded-2xl border border-hairline bg-raised/90 p-1.5 shadow-[var(--shadow-lift)] backdrop-blur-xl will-change-transform',
-          isFrosted ? 'seasonal-glass-frost' : '',
-        ].join(' ')}
-      >
-        <div
-          aria-hidden="true"
-          className="card-spotlight pointer-events-none absolute inset-0 rounded-2xl opacity-0 transition-opacity duration-300 group-hover:opacity-100"
-        />
-
-        {isAutumn && (
-          <div
-            aria-hidden="true"
-            className="autumn-card-glow pointer-events-none absolute inset-0 z-20 rounded-2xl"
-          />
-        )}
-
+    <div className="relative mx-auto w-full max-w-[640px] select-none">
+      <div className="relative rounded-2xl border border-hairline bg-raised p-1.5">
         <div className="relative rounded-[14px] border border-hairline bg-paper p-4 sm:p-5">
           <div className="flex flex-wrap items-center justify-between gap-3 border-b border-hairline pb-3.5">
             <div className="flex items-center gap-3">
@@ -126,7 +68,7 @@ export default function ProductPreview() {
                     d="M16.5 10.5V6.75a4.5 4.5 0 1 0-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 0 0 2.25-2.25v-6.75a2.25 2.25 0 0 0-2.25-2.25H6.75a2.25 2.25 0 0 0-2.25 2.25v6.75a2.25 2.25 0 0 0 2.25 2.25Z"
                   />
                 </svg>
-                zehnly.uz / arena
+                mushohada.uz / arena
               </span>
             </div>
 
@@ -136,7 +78,7 @@ export default function ProductPreview() {
             </span>
           </div>
 
-          <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint mt-4 rounded-xl border border-hairline bg-raised p-4">
+          <div className="mt-4 rounded-xl border border-hairline bg-raised p-4">
             <div className="flex items-center justify-between gap-3">
               <span className="font-mono text-[8px] uppercase tracking-[0.18em] text-muted">
                 Zakovat testi · Namuna savol
@@ -261,7 +203,7 @@ export default function ProductPreview() {
                   type="button"
                   onClick={handleCheck}
                   disabled={selectedAnswer === null}
-                  className="winter-glint spring-glint summer-glint inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-all duration-200 hover:bg-ember hover:text-ember-ink disabled:cursor-not-allowed disabled:opacity-35"
+                  className="inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-colors duration-200 hover:bg-ember hover:text-ember-ink disabled:cursor-not-allowed disabled:opacity-35"
                 >
                   Tekshirish
                   <svg
@@ -282,13 +224,8 @@ export default function ProductPreview() {
           </div>
 
           <div className="mt-3 grid gap-3 sm:grid-cols-2">
-            <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint relative overflow-hidden rounded-xl border border-hairline bg-raised p-4">
-              <div
-                aria-hidden="true"
-                className="pointer-events-none absolute -right-8 -top-10 h-24 w-24 rounded-full bg-ember/10 blur-2xl"
-              />
-
-              <div className="relative flex items-center justify-between gap-3">
+            <div className="relative overflow-hidden rounded-xl border border-hairline bg-raised p-4">
+              <div className="flex items-center justify-between gap-3">
                 <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
                   Namuna hisobi
                 </span>
@@ -311,7 +248,7 @@ export default function ProductPreview() {
               </p>
             </div>
 
-            <div className="winter-frost spring-dew summer-sheen winter-glint spring-glint summer-glint flex flex-col justify-between rounded-xl border border-hairline bg-raised p-4">
+            <div className="flex flex-col justify-between rounded-xl border border-hairline bg-raised p-4">
               <div className="flex items-center justify-between gap-3">
                 <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
                   O‘quv maskanlari
@@ -324,7 +261,7 @@ export default function ProductPreview() {
               {featuredCenter ? (
                 <>
                   <div className="mt-3 flex items-center gap-2.5">
-                    <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg gradient-brand font-display text-base font-semibold text-white">
+                    <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg gradient-brand font-display text-base font-semibold text-ember-ink">
                       {featuredCenter.name.charAt(0).toUpperCase()}
                     </div>
                     <div className="min-w-0 flex-1">

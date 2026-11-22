@@ -19,13 +19,9 @@ export function ThemeProvider({ children }) {
     root.style.colorScheme = theme;
     localStorage.setItem(STORAGE_KEY, theme);
 
-    const autumn = root.dataset.season === 'autumn';
     const meta = document.querySelector('meta[name="theme-color"]');
     if (meta) {
-      meta.setAttribute(
-        'content',
-        theme === 'dark' ? (autumn ? '#0e0905' : '#05060a') : autumn ? '#f7f2e8' : '#f4f5f8'
-      );
+      meta.setAttribute('content', theme === 'dark' ? '#080e1e' : '#f6f8fc');
     }
   }, [theme]);
 

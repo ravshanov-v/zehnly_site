@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import Logo from '../../Components/Logo.jsx'
 import { ArrowRight, CheckMark } from '../../Components/Marks.jsx'
@@ -63,15 +63,6 @@ export default function RecoverPassword() {
   const strength = getPasswordStrength(password)
   const tone = STRENGTH_TONES[strength.tone] ?? STRENGTH_TONES.muted
 
-  useEffect(() => {
-    const previousTitle = document.title
-    document.title = "Parolni tiklash — Zehnly"
-
-    return () => {
-      document.title = previousTitle
-    }
-  }, [])
-
   const handleSubmit = async (event) => {
     event.preventDefault()
     if (pending) return
@@ -105,17 +96,11 @@ export default function RecoverPassword() {
 
   return (
     <div className="relative flex min-h-dvh flex-col items-center justify-center overflow-hidden bg-paper px-4 py-10 text-ink">
-      <div className="pointer-events-none absolute inset-0" aria-hidden="true">
-        <div className="absolute -top-48 left-1/2 h-[34rem] w-[54rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_68%)] blur-3xl" />
-        <div className="absolute -bottom-40 -right-24 h-[26rem] w-[26rem] rounded-full bg-[radial-gradient(circle,rgba(124,92,255,0.16),transparent_68%)] blur-3xl" />
-        <div className="dot-grid absolute inset-0 opacity-40 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_10%,black,transparent_80%)]" />
-      </div>
-
-      <Link to="/" aria-label="Zehnly bosh sahifa" className="relative z-10 mb-6">
+      <Link to="/" aria-label="Mushohada bosh sahifa" className="relative z-10 mb-6">
         <Logo size="lg" />
       </Link>
 
-      <div className="relative z-10 w-full max-w-md rounded-2xl border border-hairline bg-raised p-6 shadow-[var(--shadow-lift)] sm:p-8">
+      <div className="relative z-10 w-full max-w-md rounded-2xl border border-hairline bg-raised p-6 sm:p-8">
         {!authReady ? (
           <div className="flex flex-col items-center gap-4 py-8 text-center">
             <Spinner />
@@ -293,7 +278,7 @@ export default function RecoverPassword() {
         to="/"
         className="relative z-10 mt-6 font-mono text-[9px] uppercase tracking-[0.18em] text-muted transition-colors hover:text-ink"
       >
-        Zehnly · bosh sahifa
+        Mushohada · bosh sahifa
       </Link>
     </div>
   )

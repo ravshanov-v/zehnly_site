@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Kiberxavfsizlik (1000 savol)
+// Mushohada Zakovat Platformasi - Kiberxavfsizlik (1000 savol)
 
 const kiberxavfsizlik = {
   "id": "kiberxavfsizlik",

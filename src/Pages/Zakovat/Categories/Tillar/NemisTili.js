@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Nemis tili (1000 savol)
+// Mushohada Zakovat Platformasi - Nemis tili (1000 savol)
 
 const nemisTili = {
   "id": "nemis-tili",

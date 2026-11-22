@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Ona tili (1000 savol)
+// Mushohada Zakovat Platformasi - Ona tili (1000 savol)
 
 const onaTili = {
   "id": "ona_tili",

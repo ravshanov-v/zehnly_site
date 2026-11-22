@@ -44,25 +44,15 @@ export default function Footer() {
 
   return (
     <footer className="relative mt-24 overflow-hidden border-t border-hairline bg-sunken text-ink">
-      <div
-        aria-hidden="true"
-        className="winter-footer-mist pointer-events-none absolute inset-x-0 top-0 h-48"
-      />
-      <div
-        aria-hidden="true"
-        className="pointer-events-none absolute -top-40 left-1/2 h-80 w-[42rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,var(--halo),transparent_66%)] blur-3xl"
-      />
-      <div className="dot-grid pointer-events-none absolute inset-0 opacity-60 [mask-image:radial-gradient(ellipse_70%_60%_at_50%_0%,black,transparent_80%)]" />
-
       <div className="relative z-10 mx-auto max-w-[1240px] px-5 sm:px-8">
         <div className="grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr]">
           <div className="flex flex-col gap-5">
-            <NavLink to="/" aria-label="Zehnly bosh sahifa" className="w-fit">
+            <NavLink to="/" aria-label="Mushohada bosh sahifa" className="w-fit">
               <Logo size="lg" />
             </NavLink>
             <p className="max-w-xs text-sm leading-6 text-muted">
-              Bilim, zakovat va zamonaviy ta&apos;limni bitta tezkor, o&apos;lchanadigan
-              tizimga jamlagan platforma.
+              Mushohada — bilim, zakovat va zamonaviy ta&apos;limni bitta tezkor,
+              o&apos;lchanadigan tizimga jamlagan platforma.
             </p>
             <p className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
               O&apos;zbekiston
@@ -100,13 +90,13 @@ export default function Footer() {
                     href={link.href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="link-underline group flex w-fit items-center gap-2 text-sm font-medium text-ink-soft transition-colors hover:text-cobalt"
+                    className="link-underline group flex w-fit items-center gap-2 text-sm font-medium text-ink-soft transition-colors hover:text-ember"
                   >
-                    <span className="text-muted transition-colors group-hover:text-cobalt">
+                    <span className="text-muted transition-colors group-hover:text-ember">
                       {link.icon}
                     </span>
                     <span>{link.label}</span>
-                    <ArrowUpRight className="h-3.5 w-3.5 opacity-70 transition-colors group-hover:text-cobalt group-hover:opacity-100" />
+                    <ArrowUpRight className="h-3.5 w-3.5 opacity-70 transition-colors group-hover:text-ember group-hover:opacity-100" />
                   </a>
                 </li>
               ))}
@@ -117,15 +107,15 @@ export default function Footer() {
         <div className="relative select-none border-t border-hairline pt-8">
           <span
             aria-hidden="true"
-            className="block bg-gradient-to-r from-ember via-ink to-cobalt bg-clip-text font-display text-[clamp(4.4rem,15vw,12rem)] font-semibold leading-[0.78] tracking-[-0.06em] text-transparent opacity-25"
+            className="block font-display text-[clamp(4.4rem,15vw,12rem)] font-semibold leading-[0.78] tracking-[-0.06em] text-ink/[0.06]"
           >
-            zehnly.
+            mushohada.
           </span>
         </div>
 
         <div className="flex flex-col-reverse items-start justify-between gap-4 border-t border-hairline py-6 sm:flex-row sm:items-center">
           <p className="font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-            © {year} Zehnly — Barcha huquqlar himoyalangan
+            © {year} Mushohada — Barcha huquqlar himoyalangan
           </p>
           <button
             type="button"
@@ -133,7 +123,7 @@ export default function Footer() {
             className="group inline-flex items-center gap-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted transition-colors hover:text-ink"
           >
             Yuqoriga
-            <span className="flex h-7 w-7 items-center justify-center rounded-lg border border-hairline transition-all duration-200 group-hover:-translate-y-0.5 group-hover:border-ember group-hover:bg-ember group-hover:text-ember-ink">
+            <span className="flex h-7 w-7 items-center justify-center rounded-lg border border-hairline transition-colors group-hover:border-ember group-hover:bg-ember group-hover:text-ember-ink">
               <ArrowUpRight className="h-3.5 w-3.5 -rotate-45" />
             </span>
           </button>

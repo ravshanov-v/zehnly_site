@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Mobile Dev (1000 savol)
+// Mushohada Zakovat Platformasi - Mobile Dev (1000 savol)
 
 const mobileDev = {
   "id": "mobile-dev",

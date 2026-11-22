@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Kimyo (1000 savol)
+// Mushohada Zakovat Platformasi - Kimyo (1000 savol)
 
 const kimyo = {
   "id": "kimyo",

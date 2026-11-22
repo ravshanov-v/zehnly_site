@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Matematika (1000 savol)
+// Mushohada Zakovat Platformasi - Matematika (1000 savol)
 
 const matematika = {
   "id": "matematika",

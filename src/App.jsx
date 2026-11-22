@@ -1,20 +1,67 @@
-import { Suspense, useLayoutEffect } from 'react';
+import { Suspense, useEffect, useLayoutEffect } from 'react';
 import { BrowserRouter, Routes, Route, Outlet, Navigate, useLocation } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
-import { AtmosphereProvider } from './context/AtmosphereContext.jsx';
 import ToastProvider from './context/ToastProvider.jsx';
 import Navbar from './Components/Navbar/Navbar.jsx';
 import Footer from './Components/Footer/Footer.jsx';
-import AuroraField from './Components/AuroraField.jsx';
-import SeasonalGlow from './Components/SeasonalGlow.jsx';
-import AutumnScene from './Components/Autumn/AutumnScene.jsx';
-import WinterScene from './Components/Winter/WinterScene.jsx';
-import SpringScene from './Components/Spring/SpringScene.jsx';
-import SummerScene from './Components/Summer/SummerScene.jsx';
 import routes from './routes.jsx';
 
 const layoutRoutes = routes.filter((route) => !route.standalone);
 const standaloneRoutes = routes.filter((route) => route.standalone);
+
+const SITE_URL = 'https://mushohada.uz';
+
+const PAGE_META = {
+  '/': {
+    title: "Mushohada — Bilim, Zakovat va O'quv Maskanlari Platformasi",
+    description:
+      "Mushohada — O'zbekistondagi bilim, zakovat va o'quv maskanlari platformasi. 20 000 dan ortiq test savoli, 30 soniyalik interaktiv arena, o'quv maskanlari katalogi va shaxsiy o'sish analitikasi.",
+  },
+  '/oquv-maskanlari': {
+    title: "O'quv maskanlari — Mushohada",
+    description:
+      "Toshkentdagi eng yaxshi o'quv maskanlarini yo'nalish, tuman, narx va reyting bo'yicha qidiring, taqqoslang va sevimlilarga qo'shing.",
+  },
+  '/zakovat': {
+    title: 'Zakovat arenasi — Mushohada',
+    description:
+      "20 000 dan ortiq savol, 20 ta fan va 30 soniyalik taymer. Mushohada zakovat arenasida bilimingizni sinab ko'ring va XP to'plang.",
+  },
+  '/ai-yordamchi': {
+    title: "Mushohada AI — O'quv yordamchi",
+    description:
+      "Mushohada AI — o'zbek tilida ishlaydigan o'quv yordamchi. Matematika, tillar, mantiq va boshqa fanlar bo'yicha qadam-baqadam tushuntirish oling.",
+  },
+  '/auth/recover': {
+    title: 'Parolni tiklash — Mushohada',
+    description: "Mushohada hisobingiz uchun yangi parol o'rnating.",
+  },
+};
+
+function setMeta(selector, attribute, value) {
+  const node = document.head.querySelector(selector);
+  if (node) node.setAttribute(attribute, value);
+}
+
+function RouteMeta() {
+  const location = useLocation();
+
+  useEffect(() => {
+    const meta = PAGE_META[location.pathname] ?? PAGE_META['/'];
+    const canonicalUrl = `${SITE_URL}${location.pathname}`;
+
+    document.title = meta.title;
+    setMeta('meta[name="description"]', 'content', meta.description);
+    setMeta('meta[property="og:title"]', 'content', meta.title);
+    setMeta('meta[property="og:description"]', 'content', meta.description);
+    setMeta('meta[property="og:url"]', 'content', canonicalUrl);
+    setMeta('meta[name="twitter:title"]', 'content', meta.title);
+    setMeta('meta[name="twitter:description"]', 'content', meta.description);
+    setMeta('link[rel="canonical"]', 'href', canonicalUrl);
+  }, [location.pathname]);
+
+  return null;
+}
 
 function ScrollToTop() {
   const location = useLocation();
@@ -42,10 +89,10 @@ function RouteFallback() {
 
 function StandaloneFallback() {
   return (
-    <div className="flex min-h-dvh items-center justify-center bg-[#0b0f19]">
+    <div className="flex min-h-dvh items-center justify-center bg-paper">
       <span className="relative flex h-10 w-10 items-center justify-center">
-        <span className="absolute inset-0 animate-spin rounded-full border border-white/10 border-t-[#7d95ff]" />
-        <span className="h-1.5 w-1.5 rounded-full bg-[#7d95ff]" />
+        <span className="absolute inset-0 animate-spin rounded-full border border-hairline border-t-ember" />
+        <span className="h-1.5 w-1.5 rounded-full bg-ember" />
       </span>
     </div>
   );
@@ -60,12 +107,6 @@ function Layout() {
       >
         Asosiy kontentga o&apos;tish
       </a>
-      <AuroraField />
-      <SeasonalGlow />
-      <AutumnScene />
-      <WinterScene />
-      <SpringScene />
-      <SummerScene />
       <Navbar />
       <main id="main-content" className="mx-auto w-full max-w-[1240px] flex-1 px-5 py-8 sm:px-8 sm:py-10">
         <Suspense fallback={<RouteFallback />}>
@@ -81,10 +122,10 @@ export default function App() {
   return (
     <ThemeProvider>
       <BrowserRouter>
-        <AtmosphereProvider>
-          <ToastProvider>
-            <ScrollToTop />
-            <Routes>
+        <ToastProvider>
+          <ScrollToTop />
+          <RouteMeta />
+          <Routes>
               {standaloneRoutes.map((route) => (
                 <Route
                   key={route.path}
@@ -98,9 +139,8 @@ export default function App() {
                 ))}
                 <Route path="*" element={<Navigate to="/" replace />} />
               </Route>
-            </Routes>
-          </ToastProvider>
-        </AtmosphereProvider>
+          </Routes>
+        </ToastProvider>
       </BrowserRouter>
     </ThemeProvider>
   );

@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - geografiya (1000 savol)
+// Mushohada Zakovat Platformasi - geografiya (1000 savol)
 
 const geografiya = {
   "id": "geografiya",

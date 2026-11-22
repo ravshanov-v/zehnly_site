@@ -1,4 +1,4 @@
-// Zehnly Zakovat Platformasi - Turk tili (1000 savol)
+// Mushohada Zakovat Platformasi - Turk tili (1000 savol)
 
 const turkTili = {
   "id": "turk-tili",

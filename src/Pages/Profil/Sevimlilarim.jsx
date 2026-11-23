@@ -9,7 +9,8 @@ export default function Sevimlilarim({ items = [] }) {
         </div>
         <h4 className="text-sm font-semibold text-ink">Sevimlilar ro&apos;yxati bo&apos;sh</h4>
         <p className="mt-1 max-w-xs text-xs leading-5 text-muted">
-          O&apos;zingizga ma&apos;qul kelgan o&apos;quv maskanlarini saqlab qo&apos;ying.
+          Katalog to&apos;ldirilgach, o&apos;zingizga ma&apos;qul kelgan o&apos;quv maskanlarini
+          shu yerda saqlaysiz.
         </p>
       </div>
     );

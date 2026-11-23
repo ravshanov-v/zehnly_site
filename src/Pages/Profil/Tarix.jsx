@@ -7,7 +7,7 @@ export default function Tarix({ logs = [] }) {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.7} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
         </div>
-        <h4 className="text-sm font-semibold text-ink">Sessiyalar tarixi mavjud emas</h4>
+        <h4 className="text-sm font-semibold text-ink">Hozircha sessiyalar yo&apos;q</h4>
         <p className="mt-1 max-w-xs text-xs leading-5 text-muted">
           Yakunlangan test sessiyalaringiz shu yerda saqlanadi.
         </p>

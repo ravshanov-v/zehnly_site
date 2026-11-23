@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import TiltBoard from './TiltBoard.jsx'
 import { studyCenters } from '../data/studyCenters.js'
 
 const answers = [
@@ -43,7 +44,7 @@ export default function ProductPreview() {
       : 'To‘g‘ri javob — B. Yana bir bor urinib ko‘ring.'
 
   return (
-    <div className="relative mx-auto w-full max-w-[640px] select-none">
+    <TiltBoard className="relative mx-auto w-full max-w-[640px] select-none">
       <div className="relative rounded-2xl border border-hairline bg-raised p-1.5">
         <div className="relative rounded-[14px] border border-hairline bg-paper p-4 sm:p-5">
           <div className="flex flex-wrap items-center justify-between gap-3 border-b border-hairline pb-3.5">
@@ -89,7 +90,7 @@ export default function ProductPreview() {
             </div>
 
             <h4 className="mt-3 font-display text-lg font-semibold leading-snug tracking-tight text-ink sm:text-xl">
-              Qaysi algoritmik murakkablik eng tez hisoblash tezligini ta’minlaydi?
+              Qaysi murakkablik eng kam hisoblash vaqtini talab qiladi?
             </h4>
 
             <div className="mt-3 space-y-1.5" role="group" aria-label="Javob variantlari">
@@ -129,7 +130,7 @@ export default function ProductPreview() {
                     onClick={() => handleSelect(index)}
                     disabled={isAnswered}
                     aria-pressed={isSelected}
-                    className={`group/answer flex w-full items-center gap-3 rounded-lg border px-3 py-2.5 text-left text-[13px] transition-all duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/40 focus-visible:ring-offset-2 focus-visible:ring-offset-raised disabled:cursor-default ${rowClass}`}
+                    className={`group/answer flex w-full items-center gap-3 rounded-lg border px-3 py-2.5 text-left text-[13px] transition-all duration-200 active:scale-[0.99] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ember/40 focus-visible:ring-offset-2 focus-visible:ring-offset-raised disabled:cursor-default disabled:active:scale-100 ${rowClass}`}
                   >
                     <span
                       className={`flex h-6 w-6 shrink-0 items-center justify-center rounded-md border font-mono text-[10px] transition-colors duration-200 ${badgeClass}`}
@@ -182,7 +183,7 @@ export default function ProductPreview() {
                 <button
                   type="button"
                   onClick={handleReset}
-                  className="inline-flex h-8 items-center gap-1.5 rounded-lg px-3 text-xs font-medium text-muted transition-colors duration-200 hover:bg-ink/[0.05] hover:text-ink"
+                  className="inline-flex h-8 items-center gap-1.5 rounded-lg px-3 text-xs font-medium text-muted transition-colors duration-200 hover:bg-ink/[0.05] hover:text-ink active:scale-[0.98]"
                 >
                   <svg
                     viewBox="0 0 24 24"
@@ -203,7 +204,7 @@ export default function ProductPreview() {
                   type="button"
                   onClick={handleCheck}
                   disabled={selectedAnswer === null}
-                  className="inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-colors duration-200 hover:bg-ember hover:text-ember-ink disabled:cursor-not-allowed disabled:opacity-35"
+                  className="inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-colors duration-200 hover:bg-ember hover:text-ember-ink active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-35"
                 >
                   Tekshirish
                   <svg
@@ -289,10 +290,10 @@ export default function ProductPreview() {
                 </>
               ) : (
                 <div className="mt-3">
-                  <p className="text-[13px] font-semibold text-ink">Katalog hozircha bo‘sh</p>
+                  <p className="text-[13px] font-semibold text-ink">Katalog to‘ldirilmoqda</p>
                   <p className="mt-1 text-[11px] leading-5 text-muted">
-                    Maskanlar bazasi hozircha bo‘sh. Ma’lumotlar qo‘shilgach, katalog shu
-                    yerda ko‘rinadi.
+                    O‘quv maskanlari bazasi hali to‘ldirilmagan. Markazingizni qo‘shish uchun
+                    biz bilan bog‘laning.
                   </p>
                 </div>
               )}
@@ -300,6 +301,6 @@ export default function ProductPreview() {
           </div>
         </div>
       </div>
-    </div>
+    </TiltBoard>
   )
 }

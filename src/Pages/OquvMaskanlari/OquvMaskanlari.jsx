@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import { NavLink } from 'react-router-dom'
 import { ArrowUpRight } from '../../Components/Marks.jsx'
 import Reveal from '../../Components/Reveal.jsx'
+import StudyCentersPartnerCard from '../../Components/StudyCentersPartnerCard.jsx'
 import { useFavorites } from '../../hooks/useFavorites.js'
 import { toggleFavorite } from '../../utils/favorites.js'
 import { studyCenters } from '../../data/studyCenters.js'
@@ -10,17 +11,17 @@ const upcoming = [
   {
     index: '01',
     title: 'Aqlli qidiruv',
-    description: "Maskanlar qo'shilgach, yo'nalish, tuman va format bo'yicha qidiruv.",
+    description: "Maskanlar qo‘shilgach, yo‘nalish, tuman va format bo‘yicha qidiruv.",
   },
   {
     index: '02',
     title: 'Ochiq taqqoslash',
-    description: "Maskanlar qo'shilgach, kurslar, narxlar va sharhlarni yonma-yon taqqoslash.",
+    description: "Maskanlar qo‘shilgach, kurslar, narxlar va sharhlarni yonma-yon taqqoslash.",
   },
   {
     index: '03',
     title: 'Sevimlilar',
-    description: "Maskanlar qo'shilgach, yoqqanlarini saqlash va keyin oson qaytish.",
+    description: "Maskanlar qo‘shilgach, tanlanganlarini saqlash va keyin ularga oson qaytish.",
   },
 ]
 
@@ -170,7 +171,7 @@ export default function OquvMaskanlari() {
       <Reveal as="header">
         <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
           <span className="h-1.5 w-1.5 rounded-full bg-ember" />
-          Katalog · 2026
+          Katalog · to‘ldirilmoqda
         </span>
 
         <h1 className="mt-6 font-display text-[clamp(2.8rem,6.4vw,5rem)] font-semibold leading-[0.98] tracking-[-0.05em] text-ink">
@@ -178,10 +179,9 @@ export default function OquvMaskanlari() {
         </h1>
 
         <p className="mt-5 max-w-xl text-sm leading-7 text-muted sm:text-base">
-          O‘quv maskanlarini qidiring, taqqoslang va sevimlilarga qo‘shing.
           {hasCenters
-            ? " Har bir maskan yo'nalishi, narxi va reytingi bilan bir joyda."
-            : " Katalog hozircha bo'sh — maskanlar qo'shilgach, ma'lumotlar shu yerda ko'rinadi."}
+            ? "O‘quv maskanlarini qidiring, taqqoslang va sevimlilarga qo‘shing. Har bir maskan yo‘nalishi, narxi va reytingi bilan bir joyda."
+            : "O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlar qo‘shilgach, katalog shu yerda ochiladi. O‘z markazingizni qo‘shmoqchi bo‘lsangiz, biz bilan bog‘laning."}
         </p>
 
         <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
@@ -190,7 +190,7 @@ export default function OquvMaskanlari() {
             Toshkent · O‘zbekiston
           </span>
           <span>
-            {hasCenters ? `${studyCenters.length} ta maskan` : "Holat — bo'sh"}
+            {hasCenters ? `${studyCenters.length} ta maskan` : 'Baza to‘ldirilmoqda'}
           </span>
         </div>
       </Reveal>
@@ -301,15 +301,16 @@ export default function OquvMaskanlari() {
                 <div>
                   <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-paper px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
                     <span className="h-1.5 w-1.5 rounded-full bg-ember" />
-                    Katalog holati · bo‘sh
+                    Katalog holati · to‘ldirilmoqda
                   </span>
 
                   <h2 className="mt-5 font-display text-[clamp(2rem,4.6vw,3.4rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink">
-                    Baza <span className="text-ember">hozircha bo‘sh.</span>
+                    Baza hali <span className="text-ember">to‘ldirilmagan.</span>
                   </h2>
                   <p className="mt-4 max-w-md text-sm leading-7 text-muted">
-                    O‘quv maskanlari bazasi hozircha bo‘sh. Ma’lumotlar qo‘shilgach, katalog
-                    shu yerda ochiladi. Bu vaqtda zakovat arenasida bilimingizni sinab ko‘ring.
+                    O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlar
+                    qo‘shilgach, katalog shu yerda ochiladi. Bu vaqtda zakovat arenasida
+                    bilimingizni sinab ko‘ring.
                   </p>
 
                   <NavLink
@@ -350,6 +351,10 @@ export default function OquvMaskanlari() {
                 </div>
               </div>
             </section>
+          </Reveal>
+
+          <Reveal delay={140}>
+            <StudyCentersPartnerCard className="mt-8" />
           </Reveal>
 
           <section className="mt-8">

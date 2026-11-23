@@ -133,10 +133,10 @@ export default function Sozlamalar() {
           </div>
           <div>
             <h4 className="text-sm font-semibold text-ink">
-              {isDark ? 'Qorong‘u rejim' : 'Yorug‘ rejim'}
+              {isDark ? 'Tun rejimi' : 'Kunduzgi rejim'}
             </h4>
             <p className="text-xs text-muted">
-              {isDark ? 'Tungi interfeys faol' : 'Kunduzgi yorug‘ interfeys faol'}
+              {isDark ? 'Tungi interfeys faol' : 'Kunduzgi interfeys faol'}
             </p>
           </div>
         </div>
@@ -146,7 +146,7 @@ export default function Sozlamalar() {
           onClick={toggleTheme}
           role="switch"
           aria-checked={isDark}
-          aria-label="Qorong‘u rejim"
+          aria-label="Tun rejimi"
           className={`relative h-6 w-12 rounded-full transition-colors duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-ember/40 ${
             isDark ? 'bg-ember' : 'bg-ink/25'
           }`}
@@ -167,7 +167,7 @@ export default function Sozlamalar() {
             </svg>
           </div>
           <div>
-            <h4 className="text-sm font-semibold text-ink">Tizim bildirishnomalari</h4>
+            <h4 className="text-sm font-semibold text-ink">Brauzer bildirishnomalari</h4>
             <p className="text-xs text-muted">
               {!('Notification' in window)
                 ? 'Brauzeringiz bildirishnomalarni qo‘llab-quvvatlamaydi'
@@ -181,7 +181,7 @@ export default function Sozlamalar() {
           onClick={toggleNotifications}
           role="switch"
           aria-checked={notifications}
-          aria-label="Tizim bildirishnomalari"
+          aria-label="Brauzer bildirishnomalari"
           className={`relative h-6 w-12 rounded-full transition-colors duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-ember/40 ${
             notifications ? 'bg-ember' : 'bg-ink/25'
           }`}
@@ -237,7 +237,7 @@ export default function Sozlamalar() {
               <div aria-live="polite">
                 <div className="flex items-center justify-between gap-3 text-[10px]">
                   <span className="font-mono uppercase tracking-[0.14em] text-muted">
-                    Parol kuchliligi
+                    Parol mustahkamligi
                   </span>
                   <span className={`font-semibold ${strengthTone.text}`}>
                     {passwordStrength.label}

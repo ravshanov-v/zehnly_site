@@ -1,6 +1,8 @@
 import { NavLink } from 'react-router-dom'
 import ProductPreview from '../../Components/ProductPreview.jsx'
 import Reveal from '../../Components/Reveal.jsx'
+import StudyCentersPartnerCard from '../../Components/StudyCentersPartnerCard.jsx'
+import TiltBoard from '../../Components/TiltBoard.jsx'
 import { ArrowRight, ArrowUpRight, CheckMark, Spark } from '../../Components/Marks.jsx'
 import { useSession } from '../../hooks/useSession.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
@@ -91,11 +93,12 @@ const miniAnswers = [
 
 function BentoCard({ className = '', children }) {
   return (
-    <article
+    <TiltBoard
+      as="article"
       className={`group relative overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-colors duration-200 hover:border-ember/40 sm:p-7 ${className}`}
     >
       <div className="relative">{children}</div>
-    </article>
+    </TiltBoard>
   )
 }
 
@@ -168,7 +171,7 @@ export default function BoshSahifa() {
                   to="/oquv-maskanlari"
                   className="group inline-flex h-12 items-center justify-center gap-2 rounded-xl border border-hairline-strong px-5 text-sm font-semibold text-ink transition-all duration-200 hover:border-ember/50 hover:bg-ink/[0.04] active:scale-[0.98]"
                 >
-                  Maskanlarni ko‘rish
+                  Katalog holati
                   <ArrowRight className="h-3.5 w-3.5 text-muted transition-transform duration-200 group-hover:translate-x-0.5" />
                 </NavLink>
               </div>
@@ -284,7 +287,7 @@ export default function BoshSahifa() {
                   </span>
                 </div>
                 <p className="mt-3 text-sm font-medium leading-6 text-ink">
-                  Qaysi murakkablik eng tez hisoblash vaqtini ta’minlaydi?
+                  Qaysi murakkablik eng kam hisoblash vaqtini talab qiladi?
                 </p>
                 <div className="mt-3 space-y-1.5">
                   {miniAnswers.map((answer) => (
@@ -379,48 +382,52 @@ export default function BoshSahifa() {
                   O‘quv maskanlari
                 </CardEyebrow>
                 <span className="rounded-md border border-hairline px-2 py-0.5 font-mono text-[8px] uppercase tracking-[0.14em] text-muted">
-                  {hasCenters ? `${studyCenters.length} maskan` : '2026'}
+                  {hasCenters ? `${studyCenters.length} maskan` : 'To‘ldirilmoqda'}
                 </span>
               </div>
 
               <h3 className="mt-5 font-display text-2xl font-semibold tracking-tight text-ink">
-                {hasCenters ? 'Katalog tayyor' : 'Katalog hozircha bo‘sh'}
+                {hasCenters ? 'Katalog tayyor' : 'Katalog to‘ldirilmoqda'}
               </h3>
               <p className="mt-2 text-sm leading-6 text-muted">
                 {hasCenters
                   ? "Yo‘nalish, tuman va format bo‘yicha filtrlab, o‘zingizga mos maskanni toping."
-                  : "Maskanlar bazasi hozircha bo‘sh. Ma’lumotlar qo‘shilgach, katalog shu yerda ochiladi."}
+                  : "O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlar qo‘shilgach, katalog shu yerda ochiladi."}
               </p>
 
-              <div className="mt-6 rounded-xl border border-hairline bg-paper p-3">
-                <div className="flex h-10 items-center gap-2 rounded-lg border border-hairline bg-raised px-3 text-xs text-muted/60">
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true" className="h-3.5 w-3.5">
-                    <circle cx="11" cy="11" r="7" />
-                    <path d="m20 20-3.5-3.5" />
-                  </svg>
-                  Maskan, yo‘nalish yoki tuman...
+              {hasCenters ? (
+                <div className="mt-6 rounded-xl border border-hairline bg-paper p-3">
+                  <div className="flex h-10 items-center gap-2 rounded-lg border border-hairline bg-raised px-3 text-xs text-muted/60">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true" className="h-3.5 w-3.5">
+                      <circle cx="11" cy="11" r="7" />
+                      <path d="m20 20-3.5-3.5" />
+                    </svg>
+                    Maskan, yo‘nalish yoki tuman...
+                  </div>
+                  <div className="mt-3 flex flex-wrap gap-1.5">
+                    {['Dasturlash', 'Dizayn', 'Tillar', 'Marketing'].map((tag) => (
+                      <span
+                        key={tag}
+                        className="rounded-md border border-hairline px-2 py-1 font-mono text-[8px] uppercase tracking-[0.1em] text-muted"
+                      >
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
                 </div>
-                <div className="mt-3 flex flex-wrap gap-1.5">
-                  {['Dasturlash', 'Dizayn', 'Tillar', 'Marketing'].map((tag) => (
-                    <span
-                      key={tag}
-                      className="rounded-md border border-hairline px-2 py-1 font-mono text-[8px] uppercase tracking-[0.1em] text-muted"
-                    >
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-              </div>
+              ) : (
+                <StudyCentersPartnerCard compact className="mt-6" />
+              )}
 
               <div className="mt-4 flex items-center justify-between">
                 <span className="font-mono text-[8px] uppercase tracking-[0.14em] text-muted">
-                  {hasCenters ? 'Barcha maskanlar' : 'Baza bo‘sh'}
+                  {hasCenters ? 'Barcha maskanlar' : 'Baza hali to‘ldirilmagan'}
                 </span>
                 <NavLink
                   to="/oquv-maskanlari"
                   className="group/link inline-flex items-center gap-1 text-xs font-semibold text-ember"
                 >
-                  {hasCenters ? 'Ko‘rish' : 'Holat'}
+                  {hasCenters ? 'Ko‘rish' : 'Batafsil'}
                   <ArrowUpRight className="h-3.5 w-3.5 transition-transform duration-200 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5" />
                 </NavLink>
               </div>
@@ -444,8 +451,8 @@ export default function BoshSahifa() {
                 Butun yo‘lingiz bir joyda
               </h3>
               <p className="mt-2 max-w-md text-sm leading-6 text-muted">
-                Sessiyalar tarixi, sevimlilar va natijalar — brauzeringizda saqlanadigan
-                yagona, tartibli profil.
+                Sessiyalar tarixi, sevimlilar va natijalar — hisobingizga bog‘langan yagona,
+                tartibli profil.
               </p>
 
               <div className="mt-6 rounded-xl border border-hairline bg-paper p-4">
@@ -527,7 +534,7 @@ export default function BoshSahifa() {
             </span>
 
             <h2 className="mx-auto mt-6 max-w-3xl font-display text-[clamp(2.3rem,5.4vw,4.6rem)] font-semibold leading-[0.98] tracking-[-0.05em] text-ink">
-              Bugun <span className="text-ember">birinchi signalni</span> yuboring.
+              Bugun <span className="text-ember">birinchi qadamni</span> qo‘ying.
             </h2>
             <p className="mx-auto mt-5 max-w-lg text-sm leading-7 text-muted">
               Ro‘yxatdan o‘ting va birinchi sessiyangizni boshlang. Natijani bir necha
@@ -546,7 +553,7 @@ export default function BoshSahifa() {
                 to="/oquv-maskanlari"
                 className="inline-flex h-12 w-full items-center justify-center rounded-xl border border-hairline-strong px-5 text-sm font-semibold text-ink transition-colors hover:border-ember/50 hover:bg-ink/[0.04] sm:w-auto"
               >
-                Maskanlarni ko‘rish
+                Batafsil ma’lumot
               </NavLink>
             </div>
 

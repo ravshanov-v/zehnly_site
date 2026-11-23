@@ -114,7 +114,7 @@ export function validateConfirmPassword(password, confirmPassword) {
 export function validateName(value) {
   const name = String(value ?? '').trim()
 
-  if (!name) return { valid: false, message: 'Ism yoki username kiriting' }
+  if (!name) return { valid: false, message: 'Ism yoki foydalanuvchi nomini kiriting' }
   if (name.length < MIN_NAME_LENGTH) {
     return { valid: false, message: `Ism kamida ${MIN_NAME_LENGTH} belgidan iborat bo'lishi kerak` }
   }

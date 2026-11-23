@@ -184,7 +184,7 @@ export default function RecoverPassword() {
                   <div aria-live="polite" className="mt-0.5">
                     <div className="flex items-center justify-between gap-3 text-[10px]">
                       <span className="font-mono uppercase tracking-[0.14em] text-muted">
-                        Parol kuchliligi
+                        Parol mustahkamligi
                       </span>
                       <span className={`font-semibold ${tone.text}`}>{strength.label}</span>
                     </div>

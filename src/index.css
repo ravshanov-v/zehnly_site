@@ -5,52 +5,54 @@
 :root {
   color-scheme: light;
 
-  --paper: #f6f8fc;
+  --paper: #f8fafc;
   --paper-raised: #ffffff;
-  --paper-sunken: #edf1f8;
-  --ink: #0b1b33;
-  --ink-soft: #2e4665;
-  --muted: #5b6b82;
-  --hairline: rgb(15 41 74 / 0.12);
-  --hairline-strong: rgb(15 41 74 / 0.2);
-  --ember: #a16207;
+  --paper-elevated: #f8fafc;
+  --paper-sunken: #f1f5f9;
+  --ink: #0f172a;
+  --ink-soft: #334155;
+  --muted: #64748b;
+  --hairline: rgb(15 23 42 / 0.08);
+  --hairline-strong: rgb(15 23 42 / 0.16);
+  --ember: #6366f1;
   --ember-ink: #ffffff;
-  --cobalt: #a16207;
+  --cobalt: #0284c7;
   --positive: #0f766e;
   --negative: #b91c1c;
-  --halo: rgb(231 179 90 / 0.2);
-  --halo-blue: rgb(59 130 246 / 0.08);
-  --grid: rgb(15 41 74 / 0.045);
-  --scrim: rgb(8 14 30 / 0.5);
-  --card-shadow: 0 1px 2px rgb(15 23 42 / 0.04), 0 18px 44px -30px rgb(15 23 42 / 0.24);
-  --card-shadow-hover: 0 1px 2px rgb(15 23 42 / 0.05), 0 26px 60px -34px rgb(15 23 42 / 0.32);
-  --glow: rgb(161 98 7 / 0.2);
+  --halo: rgb(99 102 241 / 0.1);
+  --halo-blue: rgb(56 189 248 / 0.12);
+  --grid: rgb(15 23 42 / 0.04);
+  --scrim: rgb(15 23 42 / 0.45);
+  --card-shadow: 0 1px 2px rgb(15 23 42 / 0.04), 0 18px 44px -30px rgb(15 23 42 / 0.2);
+  --card-shadow-hover: 0 1px 2px rgb(15 23 42 / 0.05), 0 26px 60px -34px rgb(15 23 42 / 0.28);
+  --glow: rgb(99 102 241 / 0.24);
 }
 
 .dark {
   color-scheme: dark;
 
-  --paper: #080e1e;
-  --paper-raised: #111c33;
-  --paper-sunken: #060b16;
+  --paper: #060b14;
+  --paper-raised: #0b1324;
+  --paper-elevated: #101c33;
+  --paper-sunken: #040910;
   --ink: #f8fafc;
   --ink-soft: #cbd5e1;
   --muted: #94a3b8;
-  --hairline: rgb(148 163 184 / 0.16);
-  --hairline-strong: rgb(148 163 184 / 0.28);
-  --ember: #e7b35a;
-  --ember-ink: #08101f;
-  --cobalt: #e7b35a;
+  --hairline: rgb(148 163 184 / 0.15);
+  --hairline-strong: rgb(148 163 184 / 0.26);
+  --ember: #38bdf8;
+  --ember-ink: #04121f;
+  --cobalt: #6366f1;
   --positive: #34d399;
   --negative: #f87171;
-  --halo: rgb(231 179 90 / 0.14);
-  --halo-blue: rgb(56 189 248 / 0.06);
-  --grid: rgb(148 163 184 / 0.045);
-  --scrim: rgb(3 6 15 / 0.78);
+  --halo: rgb(56 189 248 / 0.1);
+  --halo-blue: rgb(99 102 241 / 0.1);
+  --grid: rgb(148 163 184 / 0.04);
+  --scrim: rgb(2 5 12 / 0.82);
   --card-shadow: 0 1px 0 rgb(255 255 255 / 0.03) inset, 0 24px 64px -40px rgb(0 0 0 / 0.9);
   --card-shadow-hover:
     0 1px 0 rgb(255 255 255 / 0.05) inset, 0 30px 80px -42px rgb(0 0 0 / 1);
-  --glow: rgb(231 179 90 / 0.26);
+  --glow: rgb(56 189 248 / 0.26);
 }
 
 @theme {
@@ -64,6 +66,7 @@
 @theme inline {
   --color-paper: var(--paper);
   --color-raised: var(--paper-raised);
+  --color-elevated: var(--paper-elevated);
   --color-sunken: var(--paper-sunken);
   --color-ink: var(--ink);
   --color-ink-soft: var(--ink-soft);
@@ -157,21 +160,21 @@ body::before {
 
   button:not(:disabled),
   [role='button']:not([aria-disabled='true']) {
-    transition-property: color, background-color, border-color, box-shadow, transform, opacity,
-      filter;
+    transition-property: color, background-color, border-color, box-shadow, transform, translate,
+      scale, opacity, filter;
     transition-duration: 0.2s;
-    transition-timing-function: ease;
+    transition-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
     -webkit-tap-highlight-color: transparent;
-  }
-
-  button:not(:disabled):active,
-  [role='button']:not([aria-disabled='true']):active {
-    transform: scale(0.98);
   }
 
   a {
     -webkit-tap-highlight-color: transparent;
   }
+}
+
+:where(button:not(:disabled), [role='button']:not([aria-disabled='true'])):active {
+  scale: 0.98;
+  transition-duration: 0.08s;
 }
 
 /* ---------- typography ---------- */
@@ -230,6 +233,7 @@ body::before {
 
   .bg-raised.rounded-2xl:hover,
   .bg-raised.rounded-3xl:hover {
+    background-color: var(--paper-elevated);
     box-shadow: var(--card-shadow-hover);
   }
 }
@@ -255,6 +259,36 @@ body::before {
 .reveal[data-visible='true'] {
   opacity: 1;
   transform: none;
+}
+
+/* ---------- floating tilt ---------- */
+
+.tilt {
+  --tilt-x: 0deg;
+  --tilt-y: 0deg;
+  transform: perspective(1200px) rotateX(var(--tilt-x)) rotateY(var(--tilt-y));
+  transform-style: preserve-3d;
+  will-change: transform;
+  transition:
+    transform 0.6s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.25s ease,
+    border-color 0.25s ease,
+    background-color 0.25s ease;
+}
+
+.tilt[data-tilting='true'] {
+  transition:
+    transform 0.16s cubic-bezier(0.33, 1, 0.68, 1),
+    box-shadow 0.25s ease,
+    border-color 0.25s ease,
+    background-color 0.25s ease;
+}
+
+@media (hover: none), (pointer: coarse), (prefers-reduced-motion: reduce) {
+  .tilt {
+    transform: none !important;
+    will-change: auto;
+  }
 }
 
 /* ---------- motion ---------- */

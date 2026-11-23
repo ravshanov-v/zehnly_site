@@ -507,7 +507,7 @@ function sendLocalReset(normalizedEmail) {
     return {
       ok: false,
       code: 'EMAIL_NOT_FOUND',
-      message: 'Bunday email bilan akkaunt topilmadi',
+      message: 'Bunday email bilan hisob topilmadi',
     }
   }
 
@@ -522,7 +522,7 @@ async function resetLocalPassword(normalizedEmail, newPassword) {
     return {
       ok: false,
       code: 'EMAIL_NOT_FOUND',
-      message: 'Bunday email bilan akkaunt topilmadi',
+      message: 'Bunday email bilan hisob topilmadi',
     }
   }
 

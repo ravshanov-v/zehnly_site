@@ -1,13 +1,13 @@
 # Mushohada
 
-Bilim, zakovat va o'quv maskanlari platformasi — o'quv maskanlari katalogi, 20 000 dan ortiq test savoli, AI yordamchi va shaxsiy statistika uchun zamonaviy veb-ilova.
+Bilim, zakovat va o'quv maskanlari platformasi — o'quv maskanlari bo'limi, 20 000 ta test savoli, AI yordamchi va shaxsiy statistika uchun zamonaviy veb-ilova.
 
 ## Texnologiyalar
 
 - React 19 + Vite
 - React Router 7
 - Tailwind CSS v4
-- Supabase (auth, test tarixi, sevimlilar, progress)
+- Supabase (auth, test tarixi, sevimlilar, o'sish jarayoni)
 - Gemini API (Vercel serverless funksiyasi orqali)
 
 ## Skriptlar
@@ -55,7 +55,7 @@ Supabase env qiymatlari bo'lmasa, ilova avtomatik lokal rejimda (localStorage) i
 - `src/hooks` — React hooklar
 - `src/lib` — Supabase client
 - `src/utils` — auth store, ma'lumot repository'lari, validatsiya
-- `src/context` — tund/yorug' rejim va toast konteksti
+- `src/context` — tun/yorug' rejim va toast konteksti
 - `src/data` — o'quv maskanlari ma'lumotlari
 - `src/Pages/Zakovat/Categories` — fan savollari va kategoriya meta ma'lumotlari
 - `src/styles` — umumiy stil tokenlari

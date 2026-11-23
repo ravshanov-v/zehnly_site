@@ -35,7 +35,7 @@ export default function Statistika({ statsData }) {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.7} d="M13 10V3L4 14h7v7l9-11h-7z" />
             </svg>
           </div>
-          <h4 className="text-sm font-medium text-ink">Faollik hali mavjud emas</h4>
+          <h4 className="text-sm font-medium text-ink">Statistika hali shakllanmagan</h4>
           <p className="mt-1 max-w-xs text-xs leading-5 text-muted">
             Platformada birinchi testni topshiring va statistikangiz shu yerda shakllanadi.
           </p>

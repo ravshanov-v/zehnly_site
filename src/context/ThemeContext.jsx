@@ -21,7 +21,7 @@ export function ThemeProvider({ children }) {
 
     const meta = document.querySelector('meta[name="theme-color"]');
     if (meta) {
-      meta.setAttribute('content', theme === 'dark' ? '#080e1e' : '#f6f8fc');
+      meta.setAttribute('content', theme === 'dark' ? '#060b14' : '#f8fafc');
     }
   }, [theme]);
 

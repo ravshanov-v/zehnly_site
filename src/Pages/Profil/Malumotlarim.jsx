@@ -25,7 +25,7 @@ export default function Malumotlarim({ user }) {
     { label: 'Foydalanuvchi ID', value: userId, mono: true, accent: true },
     {
       label: 'Hisob turi',
-      value: isRemoteAuth ? 'Supabase hisob · qurilmalararo sinxron' : 'Lokal hisob · shu brauzerda',
+      value: isRemoteAuth ? 'Supabase hisob · qurilmalararo sinxron' : 'Mahalliy hisob · shu brauzerda',
       mono: false,
       accent: false,
     },

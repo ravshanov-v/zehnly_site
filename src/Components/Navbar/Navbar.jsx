@@ -111,8 +111,8 @@ export default function Navbar() {
               onClick={toggleTheme}
               role="switch"
               aria-checked={isDark}
-              aria-label={isDark ? 'Yorugʻ rejimga oʻtish' : 'Tund rejimga oʻtish'}
-              title={isDark ? 'Yorugʻ rejim' : 'Tund rejim'}
+              aria-label={isDark ? 'Yorugʻ rejimga oʻtish' : 'Tun rejimiga oʻtish'}
+              title={isDark ? 'Yorugʻ rejim' : 'Tun rejimi'}
               className="flex h-9 w-9 items-center justify-center rounded-lg border border-hairline bg-transparent text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] active:scale-95"
             >
               {isDark ? (

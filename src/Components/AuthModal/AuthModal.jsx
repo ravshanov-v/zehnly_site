@@ -119,7 +119,7 @@ function PasswordStrength({ strength }) {
   return (
     <div aria-live="polite" className="mt-0.5">
       <div className="flex items-center justify-between gap-3 text-[10px]">
-        <span className="font-mono uppercase tracking-[0.14em] text-muted">Parol kuchliligi</span>
+        <span className="font-mono uppercase tracking-[0.14em] text-muted">Parol mustahkamligi</span>
         <span className={`font-semibold ${tone.text}`}>{strength.label}</span>
       </div>
       <div className="mt-1.5 flex gap-1" aria-hidden="true">
@@ -139,7 +139,7 @@ function PasswordStrength({ strength }) {
 const perks = [
   'Interaktiv test arenasi',
   'Qurilmalararo sinxron natijalar',
-  'Sevimli maskanlar va progress',
+  'Shaxsiy statistika va tarix',
 ]
 
 export default function AuthModal({ onClose }) {
@@ -513,8 +513,8 @@ export default function AuthModal({ onClose }) {
             </h2>
             <p className="mt-4 text-sm leading-6 text-muted">
               {isRemoteAuth
-                ? "Hisobingiz natijalar, tarix va sevimlilarni qurilmalararo sinxron saqlaydi."
-                : 'Hisobingiz natijalar, tarix va sevimlilarni shu brauzerda bir joyda saqlaydi.'}
+                ? "Hisobingiz natijalar, tarix va statistikani qurilmalararo sinxron saqlaydi."
+                : 'Hisobingiz natijalar, tarix va statistikani shu brauzerda bir joyda saqlaydi.'}
             </p>
 
             <ul className="mt-7 space-y-3">
@@ -608,7 +608,7 @@ export default function AuthModal({ onClose }) {
                     ? 'Pochta qutingizga yuborilgan havolani bosing'
                     : resetStep === 'email'
                       ? 'Roʻyxatdan oʻtgan emailingizni kiriting'
-                      : 'Akkauntingiz uchun yangi parol oʻrnating'}
+                      : 'Hisobingiz uchun yangi parol oʻrnating'}
             </p>
           </div>
 
@@ -697,7 +697,7 @@ export default function AuthModal({ onClose }) {
                   <span className="text-xs leading-5 text-muted">
                     {isRemoteAuth
                       ? "Emailingizga parolni tiklash havolasini yuboramiz."
-                      : "Akkauntingizni tasdiqlash uchun ro'yxatdan o'tgan emailni kiriting."}
+                      : "Hisobingizni tasdiqlash uchun ro'yxatdan o'tgan emailni kiriting."}
                   </span>
                 </label>
               ) : (
@@ -716,7 +716,7 @@ export default function AuthModal({ onClose }) {
                         </svg>
                       </span>
                       <div className="min-w-0">
-                        <span className={labelClass}>Akkaunt</span>
+                        <span className={labelClass}>Hisob</span>
                         <p className="truncate text-sm font-medium text-ink" title={resetEmail}>
                           {resetEmail}
                         </p>
@@ -898,13 +898,13 @@ export default function AuthModal({ onClose }) {
                 </svg>
                 <p className="text-xs leading-5 text-muted">
                   {isRemoteAuth
-                    ? "Natijalar, sevimlilar va statistika hisobingizga bog'lanadi va sinxronlanadi"
-                    : 'Natijalar, sevimlilar va statistikangiz shu brauzerda xavfsiz saqlanadi'}
+                    ? "Natijalar, tarix va statistika hisobingizga bog'lanadi va sinxronlanadi"
+                    : 'Natijalar, tarix va statistikangiz shu brauzerda xavfsiz saqlanadi'}
                 </p>
               </div>
             ) : (
               <label className="flex flex-col gap-1.5">
-                <span className={labelClass}>Ism yoki username</span>
+                <span className={labelClass}>Ism yoki foydalanuvchi nomi</span>
                 <input
                   type="text"
                   name="name"
@@ -1101,7 +1101,7 @@ export default function AuthModal({ onClose }) {
 
             <div className="mt-auto flex flex-col gap-2 pt-1">
               <p className="flex flex-wrap items-center justify-center gap-x-1.5 gap-y-1 text-center text-xs text-muted">
-                {isLogin ? "Akkauntingiz yo'qmi?" : 'Akkauntingiz bormi?'}
+                {isLogin ? "Hisobingiz yo'qmi?" : 'Hisobingiz bormi?'}
                 <button
                   type="button"
                   onClick={switchMode}

@@ -15,17 +15,17 @@ const PAGE_META = {
   '/': {
     title: "Mushohada — Bilim, Zakovat va O'quv Maskanlari Platformasi",
     description:
-      "Mushohada — O'zbekistondagi bilim, zakovat va o'quv maskanlari platformasi. 20 000 dan ortiq test savoli, 30 soniyalik interaktiv arena, o'quv maskanlari katalogi va shaxsiy o'sish analitikasi.",
+      "Mushohada — O'zbekistondagi bilim, zakovat va o'quv maskanlari platformasi. 20 000 ta test savoli, 30 soniyalik interaktiv arena, o'quv maskanlari bo'limi va shaxsiy o'sish analitikasi.",
   },
   '/oquv-maskanlari': {
     title: "O'quv maskanlari — Mushohada",
     description:
-      "Toshkentdagi eng yaxshi o'quv maskanlarini yo'nalish, tuman, narx va reyting bo'yicha qidiring, taqqoslang va sevimlilarga qo'shing.",
+      "O'quv maskanlari bazasi hozircha to'ldirilmoqda. O'z markazingizni platformaga qo'shish uchun biz bilan bog'laning.",
   },
   '/zakovat': {
     title: 'Zakovat arenasi — Mushohada',
     description:
-      "20 000 dan ortiq savol, 20 ta fan va 30 soniyalik taymer. Mushohada zakovat arenasida bilimingizni sinab ko'ring va XP to'plang.",
+      "20 000 ta savol, 20 ta fan va 30 soniyalik taymer. Mushohada zakovat arenasida bilimingizni sinab ko'ring va XP to'plang.",
   },
   '/ai-yordamchi': {
     title: "Mushohada AI — O'quv yordamchi",

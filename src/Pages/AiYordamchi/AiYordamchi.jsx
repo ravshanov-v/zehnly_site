@@ -441,7 +441,7 @@ function EmptyState({ onPrompt }) {
       </h1>
       <p className="mt-2 max-w-md text-[13px] leading-6 text-muted sm:text-sm">
         Savol yozing yoki tayyor mavzulardan birini tanlang. Mushohada AI tushuntiradi,
-        mashq qildiradi va reja tuzishga yordam beradi.
+        mashq qilishga va reja tuzishga yordam beradi.
       </p>
 
       <div className="mt-6 grid w-full max-w-2xl gap-2.5 sm:mt-8 sm:grid-cols-2 sm:gap-3">
@@ -584,8 +584,8 @@ export default function AiYordamchi() {
             <span className="text-base leading-none" aria-hidden="true">
               ←
             </span>
-            <span className="hidden sm:inline">Asosiy sahifaga qaytish</span>
-            <span className="sm:hidden">Asosiy sahifa</span>
+            <span className="hidden sm:inline">Bosh sahifaga qaytish</span>
+            <span className="sm:hidden">Bosh sahifa</span>
           </Link>
 
           <div className="flex items-center gap-2.5 sm:gap-3">
@@ -616,8 +616,8 @@ export default function AiYordamchi() {
               onClick={toggleTheme}
               role="switch"
               aria-checked={isDark}
-              aria-label={isDark ? 'Yorugʻ rejimga oʻtish' : 'Tund rejimga oʻtish'}
-              title={isDark ? 'Yorugʻ rejim' : 'Tund rejim'}
+              aria-label={isDark ? 'Yorugʻ rejimga oʻtish' : 'Tun rejimiga oʻtish'}
+              title={isDark ? 'Yorugʻ rejim' : 'Tun rejimi'}
               className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-hairline bg-transparent text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] active:scale-95"
             >
               {isDark ? (
@@ -688,7 +688,7 @@ export default function AiYordamchi() {
                   value={input}
                   onChange={(event) => setInput(event.target.value)}
                   onKeyDown={handleKeyDown}
-                  placeholder="Mushohada AI’dan biror narsa so‘rang..."
+                  placeholder="Mushohada AI orqali savol bering..."
                   className="min-h-12 max-h-40 w-full resize-none bg-transparent px-2.5 py-2 text-sm leading-6 text-ink outline-none placeholder:text-muted"
                 />
 

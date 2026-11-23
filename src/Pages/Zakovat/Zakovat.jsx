@@ -22,6 +22,7 @@ import {
 import { useQuizProgress } from '../../hooks/useQuizProgress.js'
 import { ArrowRight, ArrowUpRight } from '../../Components/Marks.jsx'
 import Reveal from '../../Components/Reveal.jsx'
+import TiltBoard from '../../Components/TiltBoard.jsx'
 
 const ARENA_SECONDS = 30
 const TIMER_RADIUS = 19
@@ -372,7 +373,11 @@ export default function Zakovat() {
           </Reveal>
 
           <Reveal delay={80}>
-            <section className="relative overflow-hidden rounded-3xl border border-hairline bg-raised p-6 text-ink sm:p-10">
+            <TiltBoard
+              as="section"
+              strength={2.5}
+              className="relative overflow-hidden rounded-3xl border border-hairline bg-raised p-6 text-ink sm:p-10"
+            >
 
               <div className="relative grid gap-10 lg:grid-cols-[1fr_auto] lg:items-center">
                 <div>
@@ -385,8 +390,9 @@ export default function Zakovat() {
                     <span className="text-ember">Cheksiz o‘sish.</span>
                   </h2>
                   <p className="mt-5 max-w-md text-sm leading-7 text-muted">
-                    O‘zingizni sinang yoki yo‘nalishni tanlab, faqat o‘zingiz bilgan sohada
-                    kuch sinashing. Har bir to‘g‘ri javob XP beradi.
+                    Aralash rejimda barcha fanlardan savollar olasiz yoki yo‘nalishni tanlab,
+                    bilimingizni aynan o‘sha sohada sinab ko‘rasiz. Har bir to‘g‘ri javob XP
+                    beradi.
                   </p>
 
                   <div className="mt-8 flex flex-col items-start gap-4 sm:flex-row sm:items-center">
@@ -394,7 +400,7 @@ export default function Zakovat() {
                       type="button"
                       onClick={() => startArena()}
                       disabled={isLoading}
-                      className="group inline-flex h-12 items-center gap-3 rounded-xl bg-ember pl-5 pr-2 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 disabled:cursor-wait disabled:opacity-70"
+                      className="group inline-flex h-12 items-center gap-3 rounded-xl bg-ember pl-5 pr-2 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 active:scale-[0.98] disabled:cursor-wait disabled:opacity-70"
                     >
                       {loadingCategoryId === 'mixed' ? 'Yuklanmoqda…' : 'Arenaga kirish'}
                       <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-ember-ink/15 transition-transform duration-200 group-hover:translate-x-0.5">
@@ -431,7 +437,7 @@ export default function Zakovat() {
                   </div>
                 </div>
               </div>
-            </section>
+            </TiltBoard>
           </Reveal>
 
           <section className="flex flex-col gap-5">
@@ -443,7 +449,7 @@ export default function Zakovat() {
                 </h2>
               </div>
               <p className="max-w-xs text-sm leading-6 text-muted sm:text-right">
-                Fan ustiga bosib, o‘sha yo‘nalishdan tasodifiy savol bilan arenaga kiring.
+                Fan kartasini bosib, o‘sha yo‘nalishdan tasodifiy savol bilan arenaga kiring.
               </p>
             </Reveal>
 
@@ -478,7 +484,7 @@ export default function Zakovat() {
                         onMouseEnter={() => prefetchCategory(subject.id)}
                         onFocus={() => prefetchCategory(subject.id)}
                         disabled={isLoading}
-                        className="group relative flex min-h-[7.5rem] flex-col justify-between overflow-hidden rounded-xl border border-hairline bg-paper p-4 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/50 disabled:cursor-wait disabled:opacity-60"
+                        className="group relative flex min-h-[7.5rem] flex-col justify-between overflow-hidden rounded-xl border border-hairline bg-paper p-4 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-ember/50 active:scale-[0.99] disabled:cursor-wait disabled:opacity-60"
                       >
                         <div className="flex w-full items-start justify-between gap-2">
                           <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-ember/10 font-display text-sm font-semibold text-ember">
@@ -526,7 +532,7 @@ export default function Zakovat() {
             <div className="rounded-2xl border border-hairline bg-raised p-5">
               <div className="flex items-center justify-between">
                 <span className="font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                  Sizning rekordingiz
+                  Shaxsiy rekord
                 </span>
                 <span className="flex h-7 w-7 items-center justify-center rounded-lg bg-ember/10 text-ember">
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className="h-3.5 w-3.5">
@@ -588,7 +594,7 @@ export default function Zakovat() {
             <div className="rounded-2xl border border-hairline bg-raised p-5">
               <div className="flex items-center justify-between">
                 <span className="font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                  Sizning holatingiz
+                  Sizning natijangiz
                 </span>
                 <span
                   className={`h-1.5 w-1.5 rounded-full ${
@@ -606,8 +612,8 @@ export default function Zakovat() {
               </div>
               <p className="mt-2 text-xs leading-5 text-muted">
                 {historyStats.totalTests > 0
-                  ? `Jami ${historyStats.xp.toLocaleString('ru-RU')} XP to'plangan`
-                  : 'Birinchi savolga javob berib hisobni oching'}
+                  ? `Jami ${historyStats.xp.toLocaleString('ru-RU')} XP to‘plangan`
+                  : 'Birinchi savolga javob bering — natijalar shu yerda to‘planadi'}
               </p>
             </div>
           </section>
@@ -632,7 +638,7 @@ export default function Zakovat() {
                     </strong>{' '}
                     / {sessionTotal.toLocaleString('ru-RU')}
                     <span className="ml-2 text-muted/70">
-                      ({questionIndex + 1}/{sessionQuestions.length} partiya)
+                       ({questionIndex + 1}/{sessionQuestions.length} to‘plam)
                     </span>
                   </>
                 ) : (
@@ -701,14 +707,14 @@ export default function Zakovat() {
             />
           </div>
 
-          <div className="relative overflow-hidden rounded-2xl border border-hairline bg-raised px-6 py-12 text-center sm:px-12 sm:py-14">
+          <TiltBoard className="relative overflow-hidden rounded-2xl border border-hairline bg-raised px-6 py-12 text-center sm:px-12 sm:py-14">
             <span className="relative font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
               Savol
             </span>
             <p className="relative mx-auto mt-4 max-w-3xl font-display text-[clamp(1.5rem,3.2vw,2.4rem)] font-semibold leading-[1.15] tracking-[-0.03em] text-ink">
               &ldquo;{currentQuestion.question}&rdquo;
             </p>
-          </div>
+          </TiltBoard>
 
           <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
             {currentQuestion.options.map((option) => {
@@ -744,7 +750,7 @@ export default function Zakovat() {
                   type="button"
                   disabled={isDone}
                   onClick={() => handleSelectOption(option.id)}
-                  className={`flex cursor-pointer items-start gap-3.5 rounded-xl border p-4 text-left transition-all duration-200 disabled:cursor-default ${btnStyle}`}
+                  className={`flex cursor-pointer items-start gap-3.5 rounded-xl border p-4 text-left transition-all duration-200 active:scale-[0.99] disabled:cursor-default disabled:active:scale-100 ${btnStyle}`}
                 >
                   <span
                     className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-lg border font-mono text-[11px] font-semibold transition-colors ${badgeStyle}`}
@@ -807,7 +813,7 @@ export default function Zakovat() {
                   onClick={handleBackToLobby}
                   className="inline-flex h-10 items-center rounded-lg border border-hairline px-4 text-xs font-medium text-muted transition-colors hover:border-hairline-strong hover:text-ink"
                 >
-                  Lobby
+                  Bosh ekran
                 </button>
               </div>
             </div>
@@ -821,23 +827,24 @@ export default function Zakovat() {
 
             <div className="relative mx-auto max-w-2xl">
               <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
-                {activeMeta?.title || 'Fan'} · 1000 savol
+                {activeMeta?.title || 'Fan'} · {activeCount.toLocaleString('ru-RU')} savol
               </span>
               <h2 className="mt-4 font-display text-[clamp(2.2rem,5vw,3.6rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink">
                 Bosqich yakunlandi.
               </h2>
               <p className="mx-auto mt-5 max-w-lg text-sm leading-7 text-muted">
-                Bu fan bo‘yicha 1000 ta savolning barchasini ishladingiz. Endi qaytadan
-                boshlashingiz yoki savollarni aralashtirib davom ettirishingiz mumkin.
+                Bu fan bo‘yicha {activeCount.toLocaleString('ru-RU')} ta savolning barchasini
+                ishladingiz. Endi boshidan boshlashingiz yoki savollarni aralashtirib davom
+                ettirishingiz mumkin.
               </p>
 
               <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
                 <button
                   type="button"
                   onClick={() => startArena(activeCategoryId, { reset: true })}
-                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 active:scale-[0.98] sm:w-auto"
                 >
-                  1-dan qayta
+                  Boshidan boshlash
                   <ArrowRight className="h-3.5 w-3.5" />
                 </button>
                 <button
@@ -852,7 +859,7 @@ export default function Zakovat() {
                   onClick={handleBackToLobby}
                   className="inline-flex h-11 w-full items-center justify-center rounded-xl px-4 text-xs font-medium text-muted transition-colors hover:text-ink sm:w-auto"
                 >
-                  Lobbyga qaytish
+                  Bosh ekranga qaytish
                 </button>
               </div>
             </div>
@@ -886,7 +893,7 @@ export default function Zakovat() {
               </p>
               {activeCategoryId && activeCount > 0 && (
                 <p className="mt-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                  Progress — {Math.min(activeCursor, activeCount).toLocaleString('ru-RU')} /{' '}
+                  Jarayon — {Math.min(activeCursor, activeCount).toLocaleString('ru-RU')} /{' '}
                   {activeCount.toLocaleString('ru-RU')}
                 </p>
               )}
@@ -922,7 +929,7 @@ export default function Zakovat() {
                 <button
                   type="button"
                   onClick={resumeSession}
-                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
+                  className="inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-6 text-xs font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 active:scale-[0.98] sm:w-auto"
                 >
                   {activeCategoryId && remainingQuestions > 0 ? 'Keyingi 20 savol' : 'Davom etish'}
                   <ArrowRight className="h-3.5 w-3.5" />
@@ -933,7 +940,7 @@ export default function Zakovat() {
                     if (
                       activeCategoryId &&
                       !window.confirm(
-                        "Bu fan bo'yicha progress noldan boshlanadi. Davom etasizmi?"
+                        "Bu fan bo‘yicha jarayon noldan boshlanadi. Davom etasizmi?"
                       )
                     ) {
                       return
@@ -950,7 +957,7 @@ export default function Zakovat() {
                   onClick={handleBackToLobby}
                   className="inline-flex h-11 w-full items-center justify-center rounded-xl px-4 text-xs font-medium text-muted transition-colors hover:text-ink sm:w-auto"
                 >
-                  Lobbyga qaytish
+                  Bosh ekranga qaytish
                 </button>
               </div>
             </div>

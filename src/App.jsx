@@ -1,6 +1,7 @@
 import { Suspense, useEffect, useLayoutEffect } from 'react';
 import { BrowserRouter, Routes, Route, Outlet, Navigate, useLocation } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
+import { LanguageProvider } from './context/LanguageContext.jsx';
 import ToastProvider from './context/ToastProvider.jsx';
 import Navbar from './Components/Navbar/Navbar.jsx';
 import Footer from './Components/Footer/Footer.jsx';
@@ -121,27 +122,29 @@ function Layout() {
 export default function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter>
-        <ToastProvider>
-          <ScrollToTop />
-          <RouteMeta />
-          <Routes>
-              {standaloneRoutes.map((route) => (
-                <Route
-                  key={route.path}
-                  path={route.path}
-                  element={<Suspense fallback={<StandaloneFallback />}>{route.element}</Suspense>}
-                />
-              ))}
-              <Route element={<Layout />}>
-                {layoutRoutes.map((route) => (
-                  <Route key={route.path} path={route.path} element={route.element} />
+      <LanguageProvider>
+        <BrowserRouter>
+          <ToastProvider>
+            <ScrollToTop />
+            <RouteMeta />
+            <Routes>
+                {standaloneRoutes.map((route) => (
+                  <Route
+                    key={route.path}
+                    path={route.path}
+                    element={<Suspense fallback={<StandaloneFallback />}>{route.element}</Suspense>}
+                  />
                 ))}
-                <Route path="*" element={<Navigate to="/" replace />} />
-              </Route>
-          </Routes>
-        </ToastProvider>
-      </BrowserRouter>
+                <Route element={<Layout />}>
+                  {layoutRoutes.map((route) => (
+                    <Route key={route.path} path={route.path} element={route.element} />
+                  ))}
+                  <Route path="*" element={<Navigate to="/" replace />} />
+                </Route>
+            </Routes>
+          </ToastProvider>
+        </BrowserRouter>
+      </LanguageProvider>
     </ThemeProvider>
   );
 }

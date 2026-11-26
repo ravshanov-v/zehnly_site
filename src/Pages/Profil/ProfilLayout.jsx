@@ -1,16 +1,18 @@
 import { useEffect, useRef } from 'react';
+import { useLanguage } from '../../context/useLanguage.js';
 import ProfilNav from './profilNav';
 
-const TAB_TITLES = {
-  malumotlarim: "Mening ma'lumotlarim",
-  statistika: 'Faollik va statistika',
-  sevimlilar: "Sevimlilar ro'yxati",
-  xatlar: 'Test natijalari',
-  tarix: 'Sessiyalar tarixi',
-  sozlamalar: 'Tizim sozlamalari',
+const TAB_TITLE_KEYS = {
+  malumotlarim: 'profile.titles.malumotlarim',
+  statistika: 'profile.titles.statistika',
+  sevimlilar: 'profile.titles.sevimlilar',
+  xatlar: 'profile.titles.xatlar',
+  tarix: 'profile.titles.tarix',
+  sozlamalar: 'profile.titles.sozlamalar',
 };
 
 export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab, user, onLogout, children }) {
+  const { t } = useLanguage();
   const dialogRef = useRef(null);
   const contentRef = useRef(null);
 
@@ -38,7 +40,7 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
 
   if (!isOpen) return null;
 
-  const displayName = user?.name || user?.email?.split('@')[0] || "Foydalanuvchi";
+  const displayName = user?.name || user?.email?.split('@')[0] || t('profile.userFallback');
   const email = user?.email || "";
   const firstLetter = displayName.charAt(0).toUpperCase();
 
@@ -80,7 +82,7 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
               <button
                 type="button"
                 onClick={onClose}
-                aria-label="Profilni yopish"
+                aria-label={t('profile.close')}
                 className="ml-auto flex h-8 w-8 shrink-0 items-center justify-center rounded-lg border border-hairline text-muted transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] hover:text-ink md:hidden"
               >
                 <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -90,7 +92,7 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
             </div>
 
             <div className="mt-4 md:mt-5">
-              <span className="kicker hidden md:block">Navigatsiya</span>
+              <span className="kicker hidden md:block">{t('profile.navigation')}</span>
               <div className="mt-0 md:mt-3">
                 <ProfilNav activeTab={activeTab} setActiveTab={setActiveTab} />
               </div>
@@ -105,7 +107,7 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
             <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.8} d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
             </svg>
-            <span>Tizimdan chiqish</span>
+            <span>{t('profile.logout')}</span>
           </button>
         </aside>
 
@@ -116,17 +118,19 @@ export default function ProfilLayout({ isOpen, onClose, activeTab, setActiveTab,
           <div className="mb-5 flex items-center justify-between gap-4 border-b border-hairline pb-4">
             <div>
               <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
-                Profil bo‘limi
+                {t('profile.section')}
               </span>
               <h2 id="profile-dialog-title" className="mt-2 font-display text-2xl font-semibold leading-none tracking-[-0.03em] text-ink">
-                {TAB_TITLES[activeTab] || 'Profil'}
+                {TAB_TITLE_KEYS[activeTab]
+                  ? t(TAB_TITLE_KEYS[activeTab])
+                  : t('profile.titleFallback')}
               </h2>
             </div>
 
             <button
               type="button"
               onClick={onClose}
-              aria-label="Profilni yopish"
+              aria-label={t('profile.close')}
               className="hidden h-8 w-8 shrink-0 items-center justify-center rounded-lg border border-hairline text-muted transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] hover:text-ink md:flex"
             >
               <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">

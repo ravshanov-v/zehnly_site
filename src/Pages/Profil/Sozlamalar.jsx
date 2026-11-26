@@ -2,11 +2,12 @@ import { useState } from 'react';
 import { CheckMark } from '../../Components/Marks.jsx';
 import { useTheme } from '../../context/useTheme.js';
 import { useToast } from '../../context/useToast.js';
+import { useLanguage } from '../../context/useLanguage.js';
 import { updatePassword } from '../../utils/authStore.js';
 import {
   getPasswordChecks,
+  getPasswordRules,
   getPasswordStrength,
-  passwordRules,
   validateConfirmPassword,
   validatePassword,
 } from '../../utils/validation.js';
@@ -33,6 +34,7 @@ function inputClass(hasError) {
 export default function Sozlamalar() {
   const { isDark, toggleTheme } = useTheme();
   const { showToast } = useToast();
+  const { language, setLanguage, t, languages } = useLanguage();
 
   const [notifications, setNotifications] = useState(() => {
     if (!('Notification' in window)) return false
@@ -68,11 +70,13 @@ export default function Sozlamalar() {
   const [passwordError, setPasswordError] = useState('');
   const [passwordNotice, setPasswordNotice] = useState('');
 
-  const passwordValidation = validatePassword(password);
-  const confirmValidation = validateConfirmPassword(password, confirmPassword);
+  const passwordValidation = validatePassword(password, t);
+  const confirmValidation = validateConfirmPassword(password, confirmPassword, t);
   const passwordChecks = getPasswordChecks(password);
-  const passwordStrength = getPasswordStrength(password);
+  const passwordStrength = getPasswordStrength(password, t);
+  const passwordRules = getPasswordRules(t);
   const strengthTone = STRENGTH_TONES[passwordStrength.tone] ?? STRENGTH_TONES.muted;
+  const authErrorMessage = (result) => t(`auth.errors.${result?.code || 'UNKNOWN'}`);
 
   const clearPasswordFeedback = () => {
     if (passwordError) setPasswordError('');
@@ -96,7 +100,7 @@ export default function Sozlamalar() {
 
       if (!result?.ok) {
         setPasswordError(
-          result?.message || "Parolni yangilab bo'lmadi. Qayta urinib ko'ring"
+          result?.code ? authErrorMessage(result) : t('profile.settings.updateFailed')
         );
         return;
       }
@@ -104,13 +108,13 @@ export default function Sozlamalar() {
       setPassword('');
       setConfirmPassword('');
       setSubmitted(false);
-      setPasswordNotice('Parolingiz muvaffaqiyatli yangilandi.');
-      showToast('Hisobingiz uchun yangi parol o‘rnatildi.', {
-        title: 'Parol yangilandi',
+      setPasswordNotice(t('profile.settings.updatedNotice'));
+      showToast(t('profile.settings.updatedToast'), {
+        title: t('profile.settings.updatedToastTitle'),
         variant: 'success',
       });
     } catch {
-      setPasswordError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring");
+      setPasswordError(t('profile.settings.unexpectedError'));
     } finally {
       setPending(false);
     }
@@ -133,10 +137,10 @@ export default function Sozlamalar() {
           </div>
           <div>
             <h4 className="text-sm font-semibold text-ink">
-              {isDark ? 'Tun rejimi' : 'Kunduzgi rejim'}
+              {isDark ? t('profile.settings.darkMode') : t('profile.settings.lightMode')}
             </h4>
             <p className="text-xs text-muted">
-              {isDark ? 'Tungi interfeys faol' : 'Kunduzgi interfeys faol'}
+              {isDark ? t('profile.settings.darkActive') : t('profile.settings.lightActive')}
             </p>
           </div>
         </div>
@@ -146,7 +150,7 @@ export default function Sozlamalar() {
           onClick={toggleTheme}
           role="switch"
           aria-checked={isDark}
-          aria-label="Tun rejimi"
+          aria-label={t('profile.settings.themeAria')}
           className={`relative h-6 w-12 rounded-full transition-colors duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-ember/40 ${
             isDark ? 'bg-ember' : 'bg-ink/25'
           }`}
@@ -167,11 +171,13 @@ export default function Sozlamalar() {
             </svg>
           </div>
           <div>
-            <h4 className="text-sm font-semibold text-ink">Brauzer bildirishnomalari</h4>
+            <h4 className="text-sm font-semibold text-ink">
+              {t('profile.settings.notificationsTitle')}
+            </h4>
             <p className="text-xs text-muted">
               {!('Notification' in window)
-                ? 'Brauzeringiz bildirishnomalarni qo‘llab-quvvatlamaydi'
-                : 'Sessiya yakunida brauzer bildirishnomasi yuboriladi'}
+                ? t('profile.settings.notificationsUnsupported')
+                : t('profile.settings.notificationsHint')}
             </p>
           </div>
         </div>
@@ -181,7 +187,7 @@ export default function Sozlamalar() {
           onClick={toggleNotifications}
           role="switch"
           aria-checked={notifications}
-          aria-label="Brauzer bildirishnomalari"
+          aria-label={t('profile.settings.notificationsAria')}
           className={`relative h-6 w-12 rounded-full transition-colors duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-ember/40 ${
             notifications ? 'bg-ember' : 'bg-ink/25'
           }`}
@@ -196,15 +202,73 @@ export default function Sozlamalar() {
 
       <div className="rounded-xl border border-hairline bg-paper p-4 transition-colors">
         <div className="flex items-center gap-3">
+          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-cobalt/10 text-cobalt">
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+              <circle cx="12" cy="12" r="9" />
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.7} d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18" />
+            </svg>
+          </div>
+          <div>
+            <h4 className="text-sm font-semibold text-ink">
+              {t('profile.settings.languageTitle')}
+            </h4>
+            <p className="text-xs text-muted">
+              {t('profile.settings.languageDesc')}
+            </p>
+          </div>
+        </div>
+
+        <div
+          role="group"
+          aria-label={t('profile.settings.languageDesc')}
+          className="mt-4 grid grid-cols-2 gap-2"
+        >
+          {languages.map((item) => {
+            const selected = item.code === language;
+
+            return (
+              <button
+                key={item.code}
+                type="button"
+                onClick={() => setLanguage(item.code)}
+                aria-pressed={selected}
+                className={`flex items-center justify-between gap-2 rounded-lg border px-3 py-2.5 text-left transition-colors ${
+                  selected
+                    ? 'border-ember/40 bg-ember/[0.06] text-ink'
+                    : 'border-hairline text-muted hover:border-hairline-strong hover:bg-ink/[0.03] hover:text-ink'
+                }`}
+              >
+                <span className="flex min-w-0 flex-col">
+                  <span className="font-mono text-[10px] font-semibold tracking-[0.08em]">
+                    {item.label}
+                  </span>
+                  <span className="truncate text-xs">{item.name}</span>
+                </span>
+                {selected && (
+                  <span className="flex shrink-0 items-center gap-1 text-ember">
+                    <CheckMark className="h-3.5 w-3.5" />
+                    <span className="sr-only">{t('profile.settings.languageSelected')}</span>
+                  </span>
+                )}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
+      <div className="rounded-xl border border-hairline bg-paper p-4 transition-colors">
+        <div className="flex items-center gap-3">
           <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-ember/10 text-ember">
             <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.7} d="M16 11V8a4 4 0 00-8 0v3m-1 0h10a1 1 0 011 1v7a1 1 0 01-1 1H7a1 1 0 01-1-1v-7a1 1 0 011-1zm5 4v2" />
             </svg>
           </div>
           <div>
-            <h4 className="text-sm font-semibold text-ink">Parolni o&apos;zgartirish</h4>
+            <h4 className="text-sm font-semibold text-ink">
+              {t('profile.settings.changePasswordTitle')}
+            </h4>
             <p className="text-xs text-muted">
-              Hisobingiz xavfsizligi uchun yangi parol o&apos;rnating
+              {t('profile.settings.changePasswordDesc')}
             </p>
           </div>
         </div>
@@ -215,7 +279,7 @@ export default function Sozlamalar() {
               htmlFor="profile-new-password"
               className="font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted"
             >
-              Yangi parol
+              {t('profile.settings.newPassword')}
             </label>
             <input
               id="profile-new-password"
@@ -237,7 +301,7 @@ export default function Sozlamalar() {
               <div aria-live="polite">
                 <div className="flex items-center justify-between gap-3 text-[10px]">
                   <span className="font-mono uppercase tracking-[0.14em] text-muted">
-                    Parol mustahkamligi
+                    {t('profile.settings.passwordStrength')}
                   </span>
                   <span className={`font-semibold ${strengthTone.text}`}>
                     {passwordStrength.label}
@@ -285,7 +349,7 @@ export default function Sozlamalar() {
               htmlFor="profile-confirm-password"
               className="font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted"
             >
-              Yangi parolni tasdiqlash
+              {t('profile.settings.confirmNewPassword')}
             </label>
             <input
               id="profile-confirm-password"
@@ -296,7 +360,7 @@ export default function Sozlamalar() {
                 setConfirmPassword(event.target.value);
                 clearPasswordFeedback();
               }}
-              placeholder="Parolni qayta kiriting"
+              placeholder={t('profile.settings.confirmPlaceholder')}
               autoComplete="new-password"
               aria-invalid={submitted && !confirmValidation.valid}
               className={inputClass(submitted && !confirmValidation.valid)}
@@ -333,7 +397,7 @@ export default function Sozlamalar() {
             aria-busy={pending}
             className="mt-1 flex h-10 w-full items-center justify-center rounded-lg bg-ember px-4 text-xs font-semibold text-ember-ink transition-all hover:brightness-110 disabled:cursor-not-allowed disabled:opacity-60"
           >
-            {pending ? 'Yangilanmoqda...' : 'Parolni yangilash'}
+            {pending ? t('profile.settings.updating') : t('profile.settings.update')}
           </button>
         </form>
       </div>

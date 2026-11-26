@@ -1,11 +1,14 @@
+import { useLanguage } from '../../context/useLanguage.js';
+
 export default function ProfilNav({ activeTab, setActiveTab }) {
+  const { t } = useLanguage();
   const navItems = [
-    { id: 'malumotlarim', label: "Ma'lumotlarim" },
-    { id: 'statistika', label: 'Statistika' },
-    { id: 'sevimlilar', label: 'Sevimlilarim' },
-    { id: 'xatlar', label: 'Natijalar' },
-    { id: 'tarix', label: 'Sessiyalar tarixi' },
-    { id: 'sozlamalar', label: 'Sozlamalar' },
+    { id: 'malumotlarim', label: t('profile.nav.malumotlarim') },
+    { id: 'statistika', label: t('profile.nav.statistika') },
+    { id: 'sevimlilar', label: t('profile.nav.sevimlilar') },
+    { id: 'xatlar', label: t('profile.nav.xatlar') },
+    { id: 'tarix', label: t('profile.nav.tarix') },
+    { id: 'sozlamalar', label: t('profile.nav.sozlamalar') },
   ];
 
   return (

@@ -6,21 +6,20 @@ import TiltBoard from '../../Components/TiltBoard.jsx'
 import { ArrowRight, ArrowUpRight, CheckMark, Spark } from '../../Components/Marks.jsx'
 import { useSession } from '../../hooks/useSession.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
+import { useLanguage } from '../../context/useLanguage.js'
 import { studyCenters } from '../../data/studyCenters.js'
 import { categoryGroups, categoryMeta, totalQuestions } from '../Zakovat/Categories/meta.js'
 
 const formattedTotalQuestions = totalQuestions.toLocaleString('ru-RU')
 
 const metrics = [
-  { value: categoryMeta.length, suffix: '', label: 'Fanlar' },
-  { value: totalQuestions, suffix: '', label: 'Savol bazasi' },
-  { value: 30, suffix: 's', label: 'Savol taymeri' },
-  { value: categoryGroups.length, suffix: '', label: 'Yo‘nalish' },
+  { value: categoryMeta.length, suffix: '', labelKey: 'home.metrics.subjects' },
+  { value: totalQuestions, suffix: '', labelKey: 'home.metrics.questions' },
+  { value: 30, suffix: 's', labelKey: 'home.metrics.timer' },
+  { value: categoryGroups.length, suffix: '', labelKey: 'home.metrics.directions' },
 ]
 
-const weekdayLabels = ['Y', 'D', 'S', 'C', 'P', 'J', 'Sh']
-
-function buildWeeklyActivity(records) {
+function buildWeeklyActivity(records, weekdayLabels) {
   const days = []
 
   for (let offset = 6; offset >= 0; offset -= 1) {
@@ -29,7 +28,7 @@ function buildWeeklyActivity(records) {
     date.setDate(date.getDate() - offset)
     days.push({
       key: date.toLocaleDateString('en-CA'),
-      label: weekdayLabels[date.getDay()],
+      label: weekdayLabels[date.getDay()] ?? '',
       count: 0,
     })
   }
@@ -54,9 +53,8 @@ function buildWeeklyActivity(records) {
 
 const steps = [
   {
-    title: 'Tanlang',
-    description:
-      'Fan bo‘yicha aniq mashq qiling yoki aralash rejimda kutilmagan savollarga tayyorlaning.',
+    titleKey: 'home.steps.select.title',
+    descriptionKey: 'home.steps.select.description',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className="h-4 w-4">
         <path d="M4 6h16M4 12h10M4 18h7" />
@@ -64,9 +62,8 @@ const steps = [
     ),
   },
   {
-    title: 'Sinang',
-    description:
-      'Har bir savolga 30 soniya. Tezlik, aniqlik va sovuqqonlik — arena faqat shularni o‘lchaydi.',
+    titleKey: 'home.steps.test.title',
+    descriptionKey: 'home.steps.test.description',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className="h-4 w-4">
         <path d="M13 3 4 14h6l-1 7 9-11h-6l1-7Z" />
@@ -74,9 +71,8 @@ const steps = [
     ),
   },
   {
-    title: 'O‘sing',
-    description:
-      'Aniqlik, XP va sessiyalar tarixini profilda kuzatib boring. Har bir urinish — aniq signal.',
+    titleKey: 'home.steps.grow.title',
+    descriptionKey: 'home.steps.grow.description',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className="h-4 w-4">
         <path d="M4 19V9M10 19V5M16 19v-7M22 19H2" />
@@ -87,7 +83,7 @@ const steps = [
 
 const miniAnswers = [
   { key: 'A', text: 'O(n²)', tone: 'idle' },
-  { key: 'B', text: 'O(1) — o‘zgarmas vaqt', tone: 'active' },
+  { key: 'B', textKey: 'home.features.arena.answerConstant', tone: 'active' },
   { key: 'C', text: 'O(n log n)', tone: 'idle' },
 ]
 
@@ -116,13 +112,14 @@ function CardEyebrow({ children, icon }) {
 }
 
 export default function BoshSahifa() {
+  const { t } = useLanguage()
   const session = useSession()
   const { records, stats } = useQuizHistory()
-  const weeklyActivity = buildWeeklyActivity(records)
+  const weeklyActivity = buildWeeklyActivity(records, t('home.weekdays'))
   const weeklyAnswered = weeklyActivity.reduce((sum, day) => sum + day.count, 0)
   const hasWeeklyActivity = weeklyAnswered > 0
-  const displayName = session?.name || session?.email?.split('@')[0] || 'Mehmon'
-  const displayEmail = session?.email || 'Hisob yaratilmagan'
+  const displayName = session?.name || session?.email?.split('@')[0] || t('home.features.profile.guestName')
+  const displayEmail = session?.email || t('home.features.profile.noAccount')
   const firstLetter = displayName.charAt(0).toUpperCase()
   const hasHistory = stats.totalAnswered > 0
   const hasCenters = studyCenters.length > 0
@@ -135,23 +132,22 @@ export default function BoshSahifa() {
             <Reveal className="flex flex-wrap items-center gap-2">
               <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
                 <span className="h-1.5 w-1.5 rounded-full bg-positive" />
-                Mushohada Arena · ochiq
+                {t('home.hero.badge')}
               </span>
             </Reveal>
 
             <Reveal delay={60}>
               <h1 className="mt-5 font-display text-[clamp(2.8rem,6vw,4.8rem)] font-semibold leading-[0.96] tracking-[-0.05em] text-ink">
-                Bilim uchun
+                {t('home.hero.titleTop')}
                 <br />
-                yangi <span className="text-ember">infratuzilma.</span>
+                {t('home.hero.titleBottom')}
+                <span className="text-ember">{t('home.hero.titleAccent')}</span>
               </h1>
             </Reveal>
 
             <Reveal delay={120}>
               <p className="mt-5 max-w-xl text-pretty text-[15px] leading-7 text-muted sm:text-base sm:leading-8">
-                {formattedTotalQuestions} savol, 30 soniyalik interaktiv arena va o‘sish
-                analitikasi — bitta tezkor, aniq tizimda. Har bir urinish o‘lchanadi, har bir
-                natija ko‘rinadi.
+                {t('home.hero.description', { count: formattedTotalQuestions })}
               </p>
             </Reveal>
 
@@ -161,7 +157,7 @@ export default function BoshSahifa() {
                   to="/zakovat"
                   className="btn-accent-glow group relative inline-flex h-12 items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all duration-200 hover:-translate-y-0.5 hover:brightness-105 active:scale-[0.98]"
                 >
-                  Arenani boshlash
+                  {t('home.hero.startArena')}
                   <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-ember-ink/15 transition-transform duration-200 group-hover:translate-x-0.5">
                     <ArrowUpRight className="h-4 w-4" />
                   </span>
@@ -171,7 +167,7 @@ export default function BoshSahifa() {
                   to="/oquv-maskanlari"
                   className="group inline-flex h-12 items-center justify-center gap-2 rounded-xl border border-hairline-strong px-5 text-sm font-semibold text-ink transition-all duration-200 hover:border-ember/50 hover:bg-ink/[0.04] active:scale-[0.98]"
                 >
-                  Katalog holati
+                  {t('home.hero.catalogStatus')}
                   <ArrowRight className="h-3.5 w-3.5 text-muted transition-transform duration-200 group-hover:translate-x-0.5" />
                 </NavLink>
               </div>
@@ -180,7 +176,7 @@ export default function BoshSahifa() {
             <Reveal delay={220}>
               <p className="mt-3 flex items-center gap-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
                 <CheckMark className="h-3.5 w-3.5 text-positive" />
-                Bepul boshlash · Karta talab qilinmaydi
+                {t('home.hero.noCard')}
               </p>
             </Reveal>
 
@@ -191,7 +187,7 @@ export default function BoshSahifa() {
                     {categoryMeta.length}
                   </dd>
                   <dt className="mt-1 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                    Fan
+                    {t('home.hero.statSubject')}
                   </dt>
                 </div>
                 <div className="border-x border-hairline px-3 py-5 sm:px-5">
@@ -199,7 +195,7 @@ export default function BoshSahifa() {
                     {formattedTotalQuestions}
                   </dd>
                   <dt className="mt-1 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                    Savol
+                    {t('home.hero.statQuestion')}
                   </dt>
                 </div>
                 <div className="py-5 pl-3 sm:pl-5">
@@ -207,7 +203,7 @@ export default function BoshSahifa() {
                     30<span className="ml-0.5 text-sm text-muted">s</span>
                   </dd>
                   <dt className="mt-1 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                    Arena
+                    {t('home.hero.statArena')}
                   </dt>
                 </div>
               </dl>
@@ -224,13 +220,13 @@ export default function BoshSahifa() {
         <Reveal>
           <div className="grid gap-px overflow-hidden rounded-2xl border border-hairline bg-hairline sm:grid-cols-4">
             {metrics.map((metric) => (
-              <div key={metric.label} className="bg-raised px-5 py-6 sm:px-6">
+              <div key={metric.labelKey} className="bg-raised px-5 py-6 sm:px-6">
                 <span className="font-display text-3xl font-semibold tracking-tight text-ink sm:text-4xl">
                   {metric.value.toLocaleString('ru-RU')}
                   {metric.suffix}
                 </span>
                 <p className="mt-1.5 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                  {metric.label}
+                  {t(metric.labelKey)}
                 </p>
               </div>
             ))}
@@ -240,13 +236,13 @@ export default function BoshSahifa() {
 
       <section className="mt-24 sm:mt-32">
         <Reveal className="max-w-2xl">
-          <span className="kicker">Imkoniyatlar</span>
+          <span className="kicker">{t('home.features.kicker')}</span>
           <h2 className="mt-5 font-display text-[clamp(2.2rem,4.6vw,3.8rem)] font-semibold leading-[1] tracking-[-0.045em] text-ink">
-            Bitta tizim. <span className="text-ember">To‘liq nazorat.</span>
+            {t('home.features.title')}{' '}
+            <span className="text-ember">{t('home.features.titleAccent')}</span>
           </h2>
           <p className="mt-5 max-w-lg text-sm leading-7 text-muted sm:text-base">
-            Arena, katalog va analitika alohida vositalar emas — ular bir-birini
-            kuchaytiradigan yagona ish muhiti.
+            {t('home.features.description')}
           </p>
         </Reveal>
 
@@ -261,33 +257,32 @@ export default function BoshSahifa() {
                     </svg>
                   }
                 >
-                  Interaktiv arena
+                  {t('home.features.arena.eyebrow')}
                 </CardEyebrow>
                 <span className="inline-flex items-center gap-1.5 rounded-full border border-positive/25 bg-positive/[0.06] px-2 py-0.5 font-mono text-[8px] uppercase tracking-[0.14em] text-positive">
                   <span className="h-1 w-1 rounded-full bg-positive" />
-                  Ochiq
+                  {t('home.features.arena.open')}
                 </span>
               </div>
 
               <h3 className="mt-5 font-display text-2xl font-semibold tracking-tight text-ink">
-                30 soniyalik haqiqiy muhit
+                {t('home.features.arena.title')}
               </h3>
               <p className="mt-2 max-w-md text-sm leading-6 text-muted">
-                Har bir savol taymer bilan ishlaydi. Javobni tanlang, natijani darhol ko‘ring va
-                keyingi savolga o‘ting.
+                {t('home.features.arena.description')}
               </p>
 
               <div className="mt-6 rounded-xl border border-hairline bg-paper p-4">
                 <div className="flex items-center justify-between gap-3">
                   <span className="font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-                    Namuna savol · Algoritmlar
+                    {t('home.features.arena.sampleLabel')}
                   </span>
                   <span className="rounded-md border border-ember/25 bg-ember/[0.06] px-2 py-0.5 font-mono text-[9px] text-ember">
                     +100 XP
                   </span>
                 </div>
                 <p className="mt-3 text-sm font-medium leading-6 text-ink">
-                  Qaysi murakkablik eng kam hisoblash vaqtini talab qiladi?
+                  {t('home.features.arena.question')}
                 </p>
                 <div className="mt-3 space-y-1.5">
                   {miniAnswers.map((answer) => (
@@ -308,7 +303,7 @@ export default function BoshSahifa() {
                       >
                         {answer.key}
                       </span>
-                      {answer.text}
+                      {answer.textKey ? t(answer.textKey) : answer.text}
                     </div>
                   ))}
                 </div>
@@ -325,18 +320,18 @@ export default function BoshSahifa() {
                   </svg>
                 }
               >
-                O‘sish analitikasi
+                {t('home.features.analytics.eyebrow')}
               </CardEyebrow>
 
               <h3 className="mt-5 font-display text-2xl font-semibold tracking-tight text-ink">
-                Raqamlar yolg‘on gapirmaydi
+                {t('home.features.analytics.title')}
               </h3>
               <p className="mt-2 text-sm leading-6 text-muted">
                 {hasWeeklyActivity
-                  ? `Oxirgi 7 kunda ${weeklyAnswered} savolga javob berdingiz.`
+                  ? t('home.features.analytics.weekly', { count: weeklyAnswered })
                   : hasHistory
-                    ? 'Bu hafta faollik yo‘q — yangi sessiya boshlang.'
-                    : 'Birinchi sessiyadan so‘ng shaxsiy faollik shu yerda ko‘rinadi.'}
+                    ? t('home.features.analytics.noWeekly')
+                    : t('home.features.analytics.firstSession')}
               </p>
 
               <div className="mt-6 flex h-28 items-end gap-1.5">
@@ -356,14 +351,14 @@ export default function BoshSahifa() {
               <div className="mt-4 flex items-center justify-between border-t border-hairline pt-4">
                 <div>
                   <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
-                    O‘rtacha aniqlik
+                    {t('home.features.analytics.averageAccuracy')}
                   </span>
                   <p className="mt-1 font-display text-xl font-semibold text-ink">
                     {hasHistory ? stats.accuracy : '—'}
                   </p>
                 </div>
                 <span className="rounded-md border border-hairline px-2 py-1 font-mono text-[9px] text-muted">
-                  {stats.totalTests} sessiya
+                  {t('home.features.analytics.sessions', { count: stats.totalTests })}
                 </span>
               </div>
             </BentoCard>
@@ -379,20 +374,24 @@ export default function BoshSahifa() {
                     </svg>
                   }
                 >
-                  O‘quv maskanlari
+                  {t('home.features.centers.eyebrow')}
                 </CardEyebrow>
                 <span className="rounded-md border border-hairline px-2 py-0.5 font-mono text-[8px] uppercase tracking-[0.14em] text-muted">
-                  {hasCenters ? `${studyCenters.length} maskan` : 'To‘ldirilmoqda'}
+                  {hasCenters
+                    ? t('home.features.centers.countBadge', { count: studyCenters.length })
+                    : t('home.features.centers.loadingBadge')}
                 </span>
               </div>
 
               <h3 className="mt-5 font-display text-2xl font-semibold tracking-tight text-ink">
-                {hasCenters ? 'Katalog tayyor' : 'Katalog to‘ldirilmoqda'}
+                {hasCenters
+                  ? t('home.features.centers.readyTitle')
+                  : t('home.features.centers.loadingTitle')}
               </h3>
               <p className="mt-2 text-sm leading-6 text-muted">
                 {hasCenters
-                  ? "Yo‘nalish, tuman va format bo‘yicha filtrlab, o‘zingizga mos maskanni toping."
-                  : "O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlar qo‘shilgach, katalog shu yerda ochiladi."}
+                  ? t('home.features.centers.readyDescription')
+                  : t('home.features.centers.loadingDescription')}
               </p>
 
               {hasCenters ? (
@@ -402,10 +401,10 @@ export default function BoshSahifa() {
                       <circle cx="11" cy="11" r="7" />
                       <path d="m20 20-3.5-3.5" />
                     </svg>
-                    Maskan, yo‘nalish yoki tuman...
+                    {t('home.features.centers.searchPlaceholder')}
                   </div>
                   <div className="mt-3 flex flex-wrap gap-1.5">
-                    {['Dasturlash', 'Dizayn', 'Tillar', 'Marketing'].map((tag) => (
+                    {t('home.features.centers.tags').map((tag) => (
                       <span
                         key={tag}
                         className="rounded-md border border-hairline px-2 py-1 font-mono text-[8px] uppercase tracking-[0.1em] text-muted"
@@ -421,13 +420,17 @@ export default function BoshSahifa() {
 
               <div className="mt-4 flex items-center justify-between">
                 <span className="font-mono text-[8px] uppercase tracking-[0.14em] text-muted">
-                  {hasCenters ? 'Barcha maskanlar' : 'Baza hali to‘ldirilmagan'}
+                  {hasCenters
+                    ? t('home.features.centers.allCenters')
+                    : t('home.features.centers.baseEmpty')}
                 </span>
                 <NavLink
                   to="/oquv-maskanlari"
                   className="group/link inline-flex items-center gap-1 text-xs font-semibold text-ember"
                 >
-                  {hasCenters ? 'Ko‘rish' : 'Batafsil'}
+                  {hasCenters
+                    ? t('home.features.centers.view')
+                    : t('home.features.centers.details')}
                   <ArrowUpRight className="h-3.5 w-3.5 transition-transform duration-200 group-hover/link:translate-x-0.5 group-hover/link:-translate-y-0.5" />
                 </NavLink>
               </div>
@@ -444,15 +447,14 @@ export default function BoshSahifa() {
                   </svg>
                 }
               >
-                Yagona profil
+                {t('home.features.profile.eyebrow')}
               </CardEyebrow>
 
               <h3 className="mt-5 font-display text-2xl font-semibold tracking-tight text-ink">
-                Butun yo‘lingiz bir joyda
+                {t('home.features.profile.title')}
               </h3>
               <p className="mt-2 max-w-md text-sm leading-6 text-muted">
-                Sessiyalar tarixi, sevimlilar va natijalar — hisobingizga bog‘langan yagona,
-                tartibli profil.
+                {t('home.features.profile.description')}
               </p>
 
               <div className="mt-6 rounded-xl border border-hairline bg-paper p-4">
@@ -467,14 +469,19 @@ export default function BoshSahifa() {
                     </p>
                   </div>
                   <span className="rounded-md border border-ember/25 bg-ember/[0.06] px-2 py-1 font-mono text-[8px] uppercase tracking-[0.12em] text-ember">
-                    {session ? 'Faol hisob' : 'Mehmon'}
+                    {session
+                      ? t('home.features.profile.activeAccount')
+                      : t('home.features.profile.guest')}
                   </span>
                 </div>
 
                 <div className="mt-4 grid grid-cols-3 divide-x divide-hairline border-t border-hairline pt-4">
                   {[
-                    { value: stats.totalTests, label: 'Sessiya' },
-                    { value: hasHistory ? stats.accuracy : '—', label: 'Aniqlik' },
+                    { value: stats.totalTests, label: t('home.features.profile.sessions') },
+                    {
+                      value: hasHistory ? stats.accuracy : '—',
+                      label: t('home.features.profile.accuracy'),
+                    },
                     { value: stats.xp.toLocaleString('ru-RU'), label: 'XP' },
                   ].map((item) => (
                     <div key={item.label} className="px-2 first:pl-0 last:pr-0">
@@ -493,18 +500,19 @@ export default function BoshSahifa() {
 
       <section className="mt-24 sm:mt-32">
         <Reveal className="max-w-2xl">
-          <span className="kicker">Qanday ishlaydi</span>
+          <span className="kicker">{t('home.steps.kicker')}</span>
           <h2 className="mt-5 font-display text-[clamp(2.2rem,4.6vw,3.8rem)] font-semibold leading-[1] tracking-[-0.045em] text-ink">
-            Uch qadamda <span className="text-ember">o‘sish.</span>
+            {t('home.steps.title')}{' '}
+            <span className="text-ember">{t('home.steps.titleAccent')}</span>
           </h2>
           <p className="mt-5 max-w-lg text-sm leading-7 text-muted sm:text-base">
-            Ortiqcha sozlash yo‘q. Tanlang, sinang va natijani kuzatib boring.
+            {t('home.steps.description')}
           </p>
         </Reveal>
 
         <div className="mt-10 grid gap-4 md:grid-cols-3">
           {steps.map((step, index) => (
-            <Reveal key={step.title} delay={index * 80}>
+            <Reveal key={step.titleKey} delay={index * 80}>
               <div className="relative h-full overflow-hidden rounded-2xl border border-hairline bg-raised p-6 transition-colors hover:border-ember/40">
                 <div className="flex items-center justify-between">
                   <span className="font-mono text-[10px] tabular-nums tracking-[0.16em] text-ember">
@@ -515,9 +523,9 @@ export default function BoshSahifa() {
                   </span>
                 </div>
                 <h3 className="mt-8 font-display text-xl font-semibold tracking-tight text-ink">
-                  {step.title}
+                  {t(step.titleKey)}
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-muted">{step.description}</p>
+                <p className="mt-2 text-sm leading-6 text-muted">{t(step.descriptionKey)}</p>
               </div>
             </Reveal>
           ))}
@@ -530,15 +538,16 @@ export default function BoshSahifa() {
           <div className="relative">
             <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-paper px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
               <Spark className="h-3.5 w-3.5 text-ember" />
-              Bepul boshlash
+              {t('home.cta.badge')}
             </span>
 
             <h2 className="mx-auto mt-6 max-w-3xl font-display text-[clamp(2.3rem,5.4vw,4.6rem)] font-semibold leading-[0.98] tracking-[-0.05em] text-ink">
-              Bugun <span className="text-ember">birinchi qadamni</span> qo‘ying.
+              {t('home.cta.title')}
+              <span className="text-ember">{t('home.cta.titleAccent')}</span>
+              {t('home.cta.titleEnd')}
             </h2>
             <p className="mx-auto mt-5 max-w-lg text-sm leading-7 text-muted">
-              Ro‘yxatdan o‘ting va birinchi sessiyangizni boshlang. Natijani bir necha
-              daqiqada ko‘rasiz.
+              {t('home.cta.description')}
             </p>
 
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -546,19 +555,19 @@ export default function BoshSahifa() {
                 to="/zakovat"
                 className="group inline-flex h-12 w-full items-center justify-center gap-3 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110 sm:w-auto"
               >
-                Arenaga kirish
+                {t('home.cta.enterArena')}
                 <ArrowUpRight className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
               </NavLink>
               <NavLink
                 to="/oquv-maskanlari"
                 className="inline-flex h-12 w-full items-center justify-center rounded-xl border border-hairline-strong px-5 text-sm font-semibold text-ink transition-colors hover:border-ember/50 hover:bg-ink/[0.04] sm:w-auto"
               >
-                Batafsil ma’lumot
+                {t('home.cta.moreInfo')}
               </NavLink>
             </div>
 
             <p className="mt-5 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-              Bepul · Karta talab qilinmaydi
+              {t('home.cta.noCard')}
             </p>
           </div>
         </Reveal>

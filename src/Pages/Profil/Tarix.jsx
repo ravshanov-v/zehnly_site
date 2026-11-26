@@ -1,4 +1,8 @@
+import { useLanguage } from '../../context/useLanguage.js'
+
 export default function Tarix({ logs = [] }) {
+  const { t } = useLanguage()
+
   if (!logs || logs.length === 0) {
     return (
       <div className="flex h-64 animate-fadeIn flex-col items-center justify-center rounded-xl border border-dashed border-hairline-strong p-6 text-center">
@@ -7,9 +11,9 @@ export default function Tarix({ logs = [] }) {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.7} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
         </div>
-        <h4 className="text-sm font-semibold text-ink">Hozircha sessiyalar yo&apos;q</h4>
+        <h4 className="text-sm font-semibold text-ink">{t('profile.history.emptyTitle')}</h4>
         <p className="mt-1 max-w-xs text-xs leading-5 text-muted">
-          Yakunlangan test sessiyalaringiz shu yerda saqlanadi.
+          {t('profile.history.emptyDesc')}
         </p>
       </div>
     );

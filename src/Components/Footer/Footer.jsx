@@ -1,5 +1,7 @@
 import { NavLink } from 'react-router-dom'
 import { navRoutes } from '../../routes.jsx'
+import { useLanguage } from '../../context/useLanguage.js'
+import { getNavLabel } from '../../utils/navLabels.js'
 import Logo from '../Logo.jsx'
 import { ArrowUpRight } from '../Marks.jsx'
 
@@ -40,6 +42,7 @@ const socialLinks = [
 ]
 
 export default function Footer() {
+  const { t } = useLanguage()
   const year = new Date().getFullYear()
 
   return (
@@ -47,21 +50,20 @@ export default function Footer() {
       <div className="relative z-10 mx-auto max-w-[1240px] px-5 sm:px-8">
         <div className="grid gap-10 py-14 sm:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr]">
           <div className="flex flex-col gap-5">
-            <NavLink to="/" aria-label="Mushohada bosh sahifa" className="w-fit">
+            <NavLink to="/" aria-label={t('navbar.brandHome')} className="w-fit">
               <Logo size="lg" />
             </NavLink>
             <p className="max-w-xs text-sm leading-6 text-muted">
-              Mushohada — bilim, zakovat va zamonaviy ta&apos;limni bitta tezkor,
-              o&apos;lchanadigan tizimga jamlagan platforma.
+              {t('footer.description')}
             </p>
             <p className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
-              O&apos;zbekiston
+              {t('footer.country')}
             </p>
           </div>
 
           <div className="flex flex-col gap-4">
             <h3 className="font-mono text-[9px] uppercase tracking-[0.22em] text-muted">
-              Bo&apos;limlar
+              {t('footer.sections')}
             </h3>
             <ul className="flex flex-col items-start gap-3">
               {navRoutes.map((route) => (
@@ -71,7 +73,7 @@ export default function Footer() {
                     end={route.path === '/'}
                     className="link-underline text-sm font-medium text-ink-soft transition-colors hover:text-ember"
                   >
-                    {route.label}
+                    {getNavLabel(route, t)}
                   </NavLink>
                 </li>
               ))}
@@ -80,9 +82,9 @@ export default function Footer() {
 
           <div className="flex flex-col gap-4">
             <h3 className="font-mono text-[9px] uppercase tracking-[0.22em] text-muted">
-              Aloqa
+              {t('footer.contact')}
             </h3>
-            <p className="text-sm leading-6 text-muted">Savollaringiz bo&apos;lsa yozing:</p>
+            <p className="text-sm leading-6 text-muted">{t('footer.contactPrompt')}</p>
             <ul className="flex flex-col items-start gap-3">
               {socialLinks.map((link) => (
                 <li key={link.id}>
@@ -115,14 +117,14 @@ export default function Footer() {
 
         <div className="flex flex-col-reverse items-start justify-between gap-4 border-t border-hairline py-6 sm:flex-row sm:items-center">
           <p className="font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
-            © {year} Mushohada — Barcha huquqlar himoyalangan
+            {t('footer.rights', { year })}
           </p>
           <button
             type="button"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             className="group inline-flex items-center gap-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted transition-colors hover:text-ink"
           >
-            Yuqoriga
+            {t('footer.backToTop')}
             <span className="flex h-7 w-7 items-center justify-center rounded-lg border border-hairline transition-colors group-hover:border-ember group-hover:bg-ember group-hover:text-ember-ink">
               <ArrowUpRight className="h-3.5 w-3.5 -rotate-45" />
             </span>

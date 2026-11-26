@@ -1,6 +1,10 @@
-import { formatRelativeDate } from '../../utils/quizHistory.js'
+import { useLanguage } from '../../context/useLanguage.js'
+import { formatRelativeDate, RELATIVE_DATE_LOCALES } from '../../utils/quizHistory.js'
 
 export default function Xatlar({ records = [] }) {
+  const { t, language } = useLanguage()
+  const dateLocale = RELATIVE_DATE_LOCALES[language] ?? RELATIVE_DATE_LOCALES.uz
+
   if (records.length === 0) {
     return (
       <div className="flex h-64 animate-fadeIn flex-col items-center justify-center rounded-xl border border-dashed border-hairline-strong p-6 text-center">
@@ -20,9 +24,9 @@ export default function Xatlar({ records = [] }) {
             />
           </svg>
         </div>
-        <h4 className="text-sm font-semibold text-ink">Hozircha natijalar yo&apos;q</h4>
+        <h4 className="text-sm font-semibold text-ink">{t('profile.results.emptyTitle')}</h4>
         <p className="mt-1 max-w-xs text-xs leading-5 text-muted">
-          Birinchi testni yakunlaganingizda natijangiz shu yerda ko&apos;rinadi.
+          {t('profile.results.emptyDesc')}
         </p>
       </div>
     )
@@ -52,16 +56,20 @@ export default function Xatlar({ records = [] }) {
                     isLatest ? 'text-ink' : 'text-ink-soft'
                   }`}
                 >
-                  {record.categoryTitle} yakunlandi
+                  {t('profile.results.completed', { category: record.categoryTitle })}
                 </h4>
                 <p className="mt-0.5 text-xs leading-5 text-muted">
-                  {record.correctCount}/{record.totalAnswered} to&apos;g&apos;ri javob ·{' '}
-                  {record.xp} XP · {record.accuracy}% aniqlik
+                  {t('profile.results.summary', {
+                    correct: record.correctCount,
+                    total: record.totalAnswered,
+                    xp: record.xp,
+                    accuracy: record.accuracy,
+                  })}
                 </p>
               </div>
             </div>
             <span className="ml-2 shrink-0 font-mono text-[9px] uppercase tracking-[0.1em] text-muted">
-              {formatRelativeDate(record.date)}
+              {formatRelativeDate(record.date, t, dateLocale)}
             </span>
           </div>
         )

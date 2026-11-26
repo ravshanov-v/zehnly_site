@@ -1,16 +1,22 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { NavLink } from 'react-router-dom'
 import { navRoutes } from '../../routes.jsx'
 import { useTheme } from '../../context/useTheme.js'
+import { useLanguage } from '../../context/useLanguage.js'
 import { useSession } from '../../hooks/useSession.js'
 import { useAuthReady } from '../../hooks/useAuthReady.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
 import { useFavorites } from '../../hooks/useFavorites.js'
 import { logoutUser } from '../../utils/authStore.js'
 import { useToast } from '../../context/useToast.js'
-import { formatRecordDate, mergeGuestHistory } from '../../utils/quizHistory.js'
+import {
+  formatRecordDate,
+  mergeGuestHistory,
+  RELATIVE_DATE_LOCALES,
+} from '../../utils/quizHistory.js'
 import { mergeGuestFavorites } from '../../utils/favorites.js'
 import { mergeGuestProgress } from '../../utils/quizProgress.js'
+import { getNavLabel } from '../../utils/navLabels.js'
 import { studyCenters } from '../../data/studyCenters.js'
 import AuthModal from '../AuthModal/AuthModal.jsx'
 import Logo from '../Logo.jsx'
@@ -28,24 +34,34 @@ const navLinkBase =
 
 export default function Navbar() {
   const { theme, toggleTheme } = useTheme()
+  const { language, setLanguage, t, languages } = useLanguage()
   const { showToast } = useToast()
   const [authOpen, setAuthOpen] = useState(false)
   const [profilOpen, setProfilOpen] = useState(false)
   const [profilTab, setProfilTab] = useState('malumotlarim')
   const [menuOpen, setMenuOpen] = useState(false)
+  const [langOpen, setLangOpen] = useState(false)
+  const langRef = useRef(null)
   const session = useSession()
   const authReady = useAuthReady()
   const { records, stats } = useQuizHistory()
   const favoriteIds = useFavorites()
   const isDark = theme === 'dark'
+  const activeLanguage = languages.find((item) => item.code === language) ?? languages[0]
 
   const displayName = (session?.name || session?.email?.split('@')[0] || '').trim()
   const initial = displayName.charAt(0).toUpperCase()
   const xpLabel = new Intl.NumberFormat('uz-UZ').format(Math.max(stats.xp || 0, 0))
 
+  const dateLocale = RELATIVE_DATE_LOCALES[language] ?? RELATIVE_DATE_LOCALES.uz
   const historyLogs = records.map((record) => ({
-    action: `${record.categoryTitle} · ${record.correctCount}/${record.totalAnswered} to'g'ri · ${record.xp} XP`,
-    date: formatRecordDate(record.date),
+    action: t('profile.history.action', {
+      category: record.categoryTitle,
+      correct: record.correctCount,
+      total: record.totalAnswered,
+      xp: record.xp,
+    }),
+    date: formatRecordDate(record.date, dateLocale),
   }))
   const favoriteItems = studyCenters.filter((center) => favoriteIds.includes(center.id))
 
@@ -67,11 +83,30 @@ export default function Navbar() {
     return () => document.removeEventListener('keydown', onKeyDown)
   }, [menuOpen])
 
+  useEffect(() => {
+    if (!langOpen) return
+
+    const onPointerDown = (event) => {
+      if (!langRef.current?.contains(event.target)) setLangOpen(false)
+    }
+
+    const onKeyDown = (event) => {
+      if (event.key === 'Escape') setLangOpen(false)
+    }
+
+    document.addEventListener('mousedown', onPointerDown)
+    document.addEventListener('keydown', onKeyDown)
+    return () => {
+      document.removeEventListener('mousedown', onPointerDown)
+      document.removeEventListener('keydown', onKeyDown)
+    }
+  }, [langOpen])
+
   const handleLogout = () => {
     logoutUser()
     setProfilOpen(false)
     setMenuOpen(false)
-    showToast('Tizimdan chiqdingiz. Yana kutamiz!', { variant: 'info' })
+    showToast(t('navbar.loggedOut'), { variant: 'info' })
   }
 
   return (
@@ -81,13 +116,13 @@ export default function Navbar() {
           <NavLink
             to="/"
             onClick={() => setMenuOpen(false)}
-            aria-label="Mushohada bosh sahifa"
+            aria-label={t('navbar.brandHome')}
             className="shrink-0 transition-opacity hover:opacity-85"
           >
             <Logo size="md" />
           </NavLink>
 
-          <nav className="hidden items-center gap-1 md:flex">
+          <nav className="hidden items-center gap-1 lg:flex">
             {navRoutes.map((route) => (
               <NavLink
                 key={route.path}
@@ -100,7 +135,7 @@ export default function Navbar() {
                   ].join(' ')
                 }
               >
-                {route.label}
+                {getNavLabel(route, t)}
               </NavLink>
             ))}
           </nav>
@@ -111,8 +146,8 @@ export default function Navbar() {
               onClick={toggleTheme}
               role="switch"
               aria-checked={isDark}
-              aria-label={isDark ? 'Yorugʻ rejimga oʻtish' : 'Tun rejimiga oʻtish'}
-              title={isDark ? 'Yorugʻ rejim' : 'Tun rejimi'}
+              aria-label={isDark ? t('navbar.themeToLight') : t('navbar.themeToDark')}
+              title={isDark ? t('navbar.themeLight') : t('navbar.themeDark')}
               className="flex h-9 w-9 items-center justify-center rounded-lg border border-hairline bg-transparent text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] active:scale-95"
             >
               {isDark ? (
@@ -143,10 +178,80 @@ export default function Navbar() {
               )}
             </button>
 
+            <div ref={langRef} className="relative hidden lg:block">
+              <button
+                type="button"
+                onClick={() => setLangOpen((prev) => !prev)}
+                aria-haspopup="listbox"
+                aria-expanded={langOpen}
+                aria-label={t('navbar.chooseLanguage')}
+                title={t('navbar.language')}
+                className="flex h-9 items-center gap-1.5 rounded-lg border border-hairline bg-transparent px-2.5 text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] active:scale-95"
+              >
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.7"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  aria-hidden="true"
+                  className="h-3.5 w-3.5 text-ember"
+                >
+                  <circle cx="12" cy="12" r="9" />
+                  <path d="M3 12h18M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18" />
+                </svg>
+                <span className="font-mono text-[10px] font-semibold tracking-[0.08em]">
+                  {activeLanguage.label}
+                </span>
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  aria-hidden="true"
+                  className={`h-3 w-3 text-muted transition-transform duration-150 ${langOpen ? 'rotate-180' : ''}`}
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg>
+              </button>
+
+              {langOpen && (
+                <div
+                  role="listbox"
+                  aria-label={t('navbar.chooseLanguage')}
+                  className="zehnly-fade-in absolute right-0 z-50 mt-1.5 w-28 overflow-hidden rounded-lg border border-hairline bg-raised p-1 shadow-xl"
+                >
+                  {languages.map((item) => (
+                    <button
+                      key={item.code}
+                      type="button"
+                      role="option"
+                      aria-selected={item.code === language}
+                      onClick={() => {
+                        setLanguage(item.code)
+                        setLangOpen(false)
+                      }}
+                      className={[
+                        'flex w-full items-center justify-between rounded-md px-2.5 py-1.5 text-left font-mono text-[10px] font-semibold tracking-[0.08em] transition-colors',
+                        item.code === language
+                          ? 'bg-ember/10 text-ember'
+                          : 'text-muted hover:bg-ink/[0.04] hover:text-ink',
+                      ].join(' ')}
+                    >
+                      <span>{item.label}</span>
+                      <span className="text-[10px] font-normal tracking-normal">{item.name}</span>
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
 
             {!authReady ? (
               <span
-                aria-label="Sessiya tekshirilmoqda"
+                aria-label={t('navbar.sessionChecking')}
                 className="h-9 w-20 animate-pulse rounded-lg border border-hairline bg-ink/[0.04] sm:w-24"
               />
             ) : session ? (
@@ -155,14 +260,14 @@ export default function Navbar() {
                   type="button"
                   onClick={() => setProfilOpen(true)}
                   title={session.name ?? session.email}
-                  aria-label="Profil bo'limini ochish"
+                  aria-label={t('navbar.openProfile')}
                   className="group flex h-9 items-center gap-2 rounded-lg border border-hairline bg-paper/60 py-1 pl-1 pr-1.5 transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] lg:pr-3"
                 >
                   <span className="relative flex h-7 w-7 shrink-0 items-center justify-center rounded-md gradient-brand font-display text-[12px] font-semibold text-ember-ink">
                     {initial}
                     <span className="absolute -bottom-0.5 -right-0.5 h-2.5 w-2.5 rounded-full border-2 border-paper bg-positive" />
                   </span>
-                  <span className="hidden min-w-0 flex-col items-start leading-tight lg:flex">
+                  <span className="hidden min-w-0 flex-col items-start leading-tight xl:flex">
                     <span className="max-w-[9rem] truncate text-[12px] font-semibold text-ink">
                       {displayName}
                     </span>
@@ -174,7 +279,7 @@ export default function Navbar() {
 
                 <span
                   title={`${xpLabel} XP`}
-                  className="hidden h-9 items-center gap-1 rounded-lg border border-ember/20 bg-ember/[0.07] px-2 font-mono text-[10px] font-semibold tabular-nums text-ember sm:flex lg:hidden"
+                  className="hidden h-9 items-center gap-1 rounded-lg border border-ember/20 bg-ember/[0.07] px-2 font-mono text-[10px] font-semibold tabular-nums text-ember sm:flex xl:hidden"
                 >
                   <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" className="h-3 w-3">
                     <path d="M13 2 4.5 13.5H11l-1 8.5 9.5-12H13l0-8Z" />
@@ -185,8 +290,8 @@ export default function Navbar() {
                 <button
                   type="button"
                   onClick={handleLogout}
-                  title="Tizimdan chiqish"
-                  aria-label="Tizimdan chiqish"
+                  title={t('navbar.logout')}
+                  aria-label={t('navbar.logout')}
                   className="hidden h-9 w-9 items-center justify-center rounded-lg border border-hairline text-muted transition-colors hover:border-negative/30 hover:bg-negative/10 hover:text-negative sm:flex"
                 >
                   <svg
@@ -210,7 +315,7 @@ export default function Navbar() {
                 onClick={() => setAuthOpen(true)}
                 className="inline-flex h-9 items-center gap-1.5 rounded-lg bg-ink px-3 text-[12px] font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink sm:gap-2 sm:px-4"
               >
-                <span>Kirish</span>
+                <span>{t('navbar.login')}</span>
                 <ArrowUpRight className="hidden h-3.5 w-3.5 sm:block" />
               </button>
             )}
@@ -218,10 +323,10 @@ export default function Navbar() {
             <button
               type="button"
               onClick={() => setMenuOpen((prev) => !prev)}
-              aria-label={menuOpen ? 'Menyuni yopish' : 'Menyuni ochish'}
+              aria-label={menuOpen ? t('navbar.closeMenu') : t('navbar.openMenu')}
               aria-expanded={menuOpen}
               aria-controls="mobile-menu"
-              className="flex h-9 w-9 items-center justify-center rounded-lg border border-hairline text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] md:hidden"
+              className="flex h-9 w-9 items-center justify-center rounded-lg border border-hairline text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] lg:hidden"
             >
               <svg
                 className="h-4 w-4"
@@ -241,9 +346,37 @@ export default function Navbar() {
         {menuOpen && (
           <nav
             id="mobile-menu"
-            className="zehnly-fade-in border-b border-hairline bg-paper md:hidden"
+            className="zehnly-fade-in border-b border-hairline bg-paper lg:hidden"
           >
             <div className="mx-auto max-w-[1240px] px-5 py-4 sm:px-8">
+              <div className="mb-3 flex items-center justify-between gap-2">
+                <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
+                  {t('navbar.language')}
+                </span>
+                <div
+                  role="group"
+                  aria-label={t('navbar.chooseLanguage')}
+                  className="inline-flex items-center rounded-lg border border-hairline p-0.5"
+                >
+                  {languages.map((item) => (
+                    <button
+                      key={item.code}
+                      type="button"
+                      onClick={() => setLanguage(item.code)}
+                      aria-pressed={item.code === language}
+                      className={[
+                        'flex h-7 min-w-9 items-center justify-center rounded-md px-2 font-mono text-[10px] font-semibold tracking-[0.08em] transition-colors',
+                        item.code === language
+                          ? 'bg-ink text-paper'
+                          : 'text-muted hover:text-ink',
+                      ].join(' ')}
+                    >
+                      {item.label}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
               <div className="flex flex-col">
                 {navRoutes.map((route) => (
                   <NavLink
@@ -258,7 +391,7 @@ export default function Navbar() {
                       ].join(' ')
                     }
                   >
-                    {route.label}
+                    {getNavLabel(route, t)}
                     <ArrowUpRight className="h-4 w-4 opacity-40" />
                   </NavLink>
                 ))}
@@ -292,7 +425,7 @@ export default function Navbar() {
                       }}
                       className="flex h-10 items-center justify-center gap-1.5 rounded-lg bg-ink text-xs font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink"
                     >
-                      Profilim
+                      {t('navbar.profile')}
                       <ArrowUpRight className="h-3.5 w-3.5" />
                     </button>
                     <button
@@ -313,7 +446,7 @@ export default function Navbar() {
                         <path d="M15 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h7a2 2 0 0 0 2-2v-2" />
                         <path d="M10 12h10m0 0-3-3m3 3-3 3" />
                       </svg>
-                      Chiqish
+                      {t('navbar.exit')}
                     </button>
                   </div>
                 </div>
@@ -326,7 +459,7 @@ export default function Navbar() {
                   }}
                   className="mt-4 flex h-11 w-full items-center justify-between rounded-xl bg-ember px-4 text-sm font-semibold text-ember-ink"
                 >
-                  Hisobingizga kiring
+                  {t('navbar.loginPrompt')}
                   <ArrowUpRight />
                 </button>
               )}

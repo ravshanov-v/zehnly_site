@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import TiltBoard from './TiltBoard.jsx'
+import { useLanguage } from '../context/useLanguage.js'
 import { studyCenters } from '../data/studyCenters.js'
 
 const answers = [
   { key: 'A', text: 'O(n²)', correct: false },
-  { key: 'B', text: 'O(1) — o‘zgarmas vaqt', correct: true },
+  { key: 'B', textKey: 'preview.answerConstant', correct: true },
   { key: 'C', text: 'O(n log n)', correct: false },
 ]
 
@@ -12,6 +13,7 @@ const correctIndex = answers.findIndex((answer) => answer.correct)
 const featuredCenter = studyCenters[0] ?? null
 
 export default function ProductPreview() {
+  const { t } = useLanguage()
   const [selectedAnswer, setSelectedAnswer] = useState(null)
   const [score, setScore] = useState(0)
   const [isAnswered, setIsAnswered] = useState(false)
@@ -37,11 +39,11 @@ export default function ProductPreview() {
 
   const statusText = !isAnswered
     ? selectedAnswer === null
-      ? 'Javobni tanlang va tekshiring.'
-      : `${answers[selectedAnswer].key} varianti tanlandi.`
+      ? t('preview.statusIdle')
+      : t('preview.statusSelected', { key: answers[selectedAnswer].key })
     : isCorrectSelection
-      ? 'Ajoyib — to‘g‘ri javob. Namuna hisobiga +100 XP qo‘shildi.'
-      : 'To‘g‘ri javob — B. Yana bir bor urinib ko‘ring.'
+      ? t('preview.statusCorrect')
+      : t('preview.statusWrong')
 
   return (
     <TiltBoard className="relative mx-auto w-full max-w-[640px] select-none">
@@ -75,25 +77,25 @@ export default function ProductPreview() {
 
             <span className="inline-flex items-center gap-1.5 rounded-md border border-ember/25 bg-ember/[0.06] px-2 py-1 font-mono text-[8px] uppercase tracking-[0.14em] text-ember">
               <span className="h-1.5 w-1.5 rounded-full bg-ember" />
-              Interaktiv namuna
+              {t('preview.interactiveSample')}
             </span>
           </div>
 
           <div className="mt-4 rounded-xl border border-hairline bg-raised p-4">
             <div className="flex items-center justify-between gap-3">
               <span className="font-mono text-[8px] uppercase tracking-[0.18em] text-muted">
-                Zakovat testi · Namuna savol
+                {t('preview.quizSample')}
               </span>
               <span className="rounded-md border border-ember/25 bg-ember/[0.06] px-2 py-0.5 font-mono text-[8px] uppercase tracking-[0.12em] text-ember">
-                Namuna
+                {t('preview.sample')}
               </span>
             </div>
 
             <h4 className="mt-3 font-display text-lg font-semibold leading-snug tracking-tight text-ink sm:text-xl">
-              Qaysi murakkablik eng kam hisoblash vaqtini talab qiladi?
+              {t('preview.question')}
             </h4>
 
-            <div className="mt-3 space-y-1.5" role="group" aria-label="Javob variantlari">
+            <div className="mt-3 space-y-1.5" role="group" aria-label={t('preview.answersLabel')}>
               {answers.map((answer, index) => {
                 const isSelected = selectedAnswer === index
                 let rowClass =
@@ -137,7 +139,9 @@ export default function ProductPreview() {
                     >
                       {answer.key}
                     </span>
-                    <span className="flex-1 leading-5">{answer.text}</span>
+                    <span className="flex-1 leading-5">
+                      {answer.textKey ? t(answer.textKey) : answer.text}
+                    </span>
                     <span
                       className={`flex h-4 w-4 shrink-0 items-center justify-center rounded-full border transition-all duration-200 ${dotClass}`}
                     >
@@ -197,7 +201,7 @@ export default function ProductPreview() {
                   >
                     <path d="M4.5 12a7.5 7.5 0 1 0 2.2-5.3M4.5 4.5V9H9" />
                   </svg>
-                  Qayta urinish
+                  {t('preview.retry')}
                 </button>
               ) : (
                 <button
@@ -206,7 +210,7 @@ export default function ProductPreview() {
                   disabled={selectedAnswer === null}
                   className="inline-flex h-8 items-center gap-1.5 rounded-lg bg-ink px-4 text-xs font-semibold text-paper transition-colors duration-200 hover:bg-ember hover:text-ember-ink active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-35"
                 >
-                  Tekshirish
+                  {t('preview.check')}
                   <svg
                     viewBox="0 0 24 24"
                     fill="none"
@@ -228,10 +232,10 @@ export default function ProductPreview() {
             <div className="relative overflow-hidden rounded-xl border border-hairline bg-raised p-4">
               <div className="flex items-center justify-between gap-3">
                 <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
-                  Namuna hisobi
+                  {t('preview.sampleScore')}
                 </span>
                 <span className="rounded-md border border-hairline px-1.5 py-0.5 font-mono text-[8px] uppercase tracking-[0.12em] text-muted">
-                  Demo
+                  {t('preview.demo')}
                 </span>
               </div>
 
@@ -240,22 +244,22 @@ export default function ProductPreview() {
                   {score}
                 </span>
                 <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
-                  Namuna XP
+                  {t('preview.sampleXp')}
                 </span>
               </div>
 
               <p className="relative mt-3 text-[11px] leading-5 text-muted">
-                Bu namuna mashq — natija haqiqiy hisobingizga ta’sir qilmaydi.
+                {t('preview.sampleNote')}
               </p>
             </div>
 
             <div className="flex flex-col justify-between rounded-xl border border-hairline bg-raised p-4">
               <div className="flex items-center justify-between gap-3">
                 <span className="font-mono text-[8px] uppercase tracking-[0.16em] text-muted">
-                  O‘quv maskanlari
+                  {t('preview.studyCenters')}
                 </span>
                 <span className="font-mono text-[8px] uppercase tracking-[0.12em] text-muted">
-                  {featuredCenter ? 'Katalog' : 'Baza'}
+                  {featuredCenter ? t('preview.catalog') : t('preview.base')}
                 </span>
               </div>
 
@@ -290,10 +294,11 @@ export default function ProductPreview() {
                 </>
               ) : (
                 <div className="mt-3">
-                  <p className="text-[13px] font-semibold text-ink">Katalog to‘ldirilmoqda</p>
+                  <p className="text-[13px] font-semibold text-ink">
+                    {t('preview.catalogLoading')}
+                  </p>
                   <p className="mt-1 text-[11px] leading-5 text-muted">
-                    O‘quv maskanlari bazasi hali to‘ldirilmagan. Markazingizni qo‘shish uchun
-                    biz bilan bog‘laning.
+                    {t('preview.catalogLoadingNote')}
                   </p>
                 </div>
               )}

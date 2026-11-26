@@ -1,14 +1,25 @@
+import { useLanguage } from '../../context/useLanguage.js'
+
 export default function Statistika({ statsData }) {
+  const { t } = useLanguage()
   const totalTests = statsData?.totalTests || 0;
   const accuracy = statsData?.accuracy || '0%';
   const xp = statsData?.xp || 0;
   const streak = statsData?.streak || 0;
 
   const cells = [
-    { label: 'Yechilgan testlar', value: `${totalTests} ta`, accent: 'text-ember' },
-    { label: "O'rtacha aniqlik", value: accuracy, accent: 'text-positive' },
-    { label: "To'plangan ball", value: xp, accent: 'text-cobalt' },
-    { label: 'Ketma-ketlik', value: `${streak} kun`, accent: 'text-ink' },
+    {
+      label: t('profile.stats.tests'),
+      value: t('profile.stats.testsValue', { count: totalTests }),
+      accent: 'text-ember',
+    },
+    { label: t('profile.stats.accuracy'), value: accuracy, accent: 'text-positive' },
+    { label: t('profile.stats.xp'), value: xp, accent: 'text-cobalt' },
+    {
+      label: t('profile.stats.streak'),
+      value: t('profile.stats.streakValue', { count: streak }),
+      accent: 'text-ink',
+    },
   ];
 
   return (
@@ -35,9 +46,9 @@ export default function Statistika({ statsData }) {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.7} d="M13 10V3L4 14h7v7l9-11h-7z" />
             </svg>
           </div>
-          <h4 className="text-sm font-medium text-ink">Statistika hali shakllanmagan</h4>
+          <h4 className="text-sm font-medium text-ink">{t('profile.stats.emptyTitle')}</h4>
           <p className="mt-1 max-w-xs text-xs leading-5 text-muted">
-            Platformada birinchi testni topshiring va statistikangiz shu yerda shakllanadi.
+            {t('profile.stats.emptyDesc')}
           </p>
         </div>
       ) : null}

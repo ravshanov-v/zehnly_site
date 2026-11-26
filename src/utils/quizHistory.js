@@ -460,42 +460,44 @@ export function computeStats(records = getHistory()) {
   }
 }
 
-export function formatRecordDate(isoDate) {
+export const RELATIVE_DATE_LOCALES = {
+  uz: 'uz-UZ',
+  en: 'en-US',
+  ru: 'ru-RU',
+  de: 'de-DE',
+}
+
+export function formatRecordDate(isoDate, locale = 'uz-UZ') {
   const date = new Date(isoDate)
   if (Number.isNaN(date.getTime())) return ''
 
-  const months = [
-    'yanvar',
-    'fevral',
-    'mart',
-    'aprel',
-    'may',
-    'iyun',
-    'iyul',
-    'avgust',
-    'sentabr',
-    'oktabr',
-    'noyabr',
-    'dekabr',
-  ]
-
-  return `${date.getDate()}-${months[date.getMonth()]}, ${date.getFullYear()}`
+  return new Intl.DateTimeFormat(locale, {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  }).format(date)
 }
 
-export function formatRelativeDate(isoDate) {
+export function formatRelativeDate(isoDate, t, locale = 'uz-UZ') {
   const date = new Date(isoDate)
   if (Number.isNaN(date.getTime())) return ''
 
   const diffMinutes = Math.round((Date.now() - date.getTime()) / 60000)
 
-  if (diffMinutes < 1) return 'Hozir'
-  if (diffMinutes < 60) return `${diffMinutes} daqiqa oldin`
+  if (diffMinutes < 1) return t('profile.results.relativeNow')
+  if (diffMinutes < 60) {
+    return t('profile.results.minutesAgo', { count: diffMinutes })
+  }
 
   const diffHours = Math.round(diffMinutes / 60)
-  if (diffHours < 24) return `${diffHours} soat oldin`
+  if (diffHours < 24) {
+    return t('profile.results.hoursAgo', { count: diffHours })
+  }
 
   const diffDays = Math.round(diffHours / 24)
-  if (diffDays < 7) return `${diffDays} kun oldin`
+  if (diffDays < 7) {
+    return t('profile.results.daysAgo', { count: diffDays })
+  }
 
-  return formatRecordDate(isoDate)
+  return formatRecordDate(isoDate, locale)
 }

@@ -1,4 +1,8 @@
+import { useLanguage } from '../../context/useLanguage.js'
+
 export default function Sevimlilarim({ items = [] }) {
+  const { t } = useLanguage()
+
   if (!items || items.length === 0) {
     return (
       <div className="flex h-64 animate-fadeIn flex-col items-center justify-center rounded-xl border border-dashed border-hairline-strong p-6 text-center">
@@ -7,10 +11,9 @@ export default function Sevimlilarim({ items = [] }) {
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.7} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
           </svg>
         </div>
-        <h4 className="text-sm font-semibold text-ink">Sevimlilar ro&apos;yxati bo&apos;sh</h4>
+        <h4 className="text-sm font-semibold text-ink">{t('profile.favorites.emptyTitle')}</h4>
         <p className="mt-1 max-w-xs text-xs leading-5 text-muted">
-          Katalog to&apos;ldirilgach, o&apos;zingizga ma&apos;qul kelgan o&apos;quv maskanlarini
-          shu yerda saqlaysiz.
+          {t('profile.favorites.emptyDesc')}
         </p>
       </div>
     );

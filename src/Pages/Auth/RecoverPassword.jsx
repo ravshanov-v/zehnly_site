@@ -5,11 +5,12 @@ import { ArrowRight, CheckMark } from '../../Components/Marks.jsx'
 import { useAuthReady } from '../../hooks/useAuthReady.js'
 import { useSession } from '../../hooks/useSession.js'
 import { useToast } from '../../context/useToast.js'
+import { useLanguage } from '../../context/useLanguage.js'
 import { updatePassword } from '../../utils/authStore.js'
 import {
   getPasswordChecks,
+  getPasswordRules,
   getPasswordStrength,
-  passwordRules,
   validateConfirmPassword,
   validatePassword,
 } from '../../utils/validation.js'
@@ -49,6 +50,7 @@ export default function RecoverPassword() {
   const session = useSession()
   const authReady = useAuthReady()
   const { showToast } = useToast()
+  const { t } = useLanguage()
   const navigate = useNavigate()
   const [password, setPassword] = useState('')
   const [confirmPassword, setConfirmPassword] = useState('')
@@ -57,11 +59,25 @@ export default function RecoverPassword() {
   const [error, setError] = useState('')
   const [done, setDone] = useState(false)
 
-  const passwordValidation = validatePassword(password)
-  const confirmValidation = validateConfirmPassword(password, confirmPassword)
+  const passwordValidation = validatePassword(password, t)
+  const confirmValidation = validateConfirmPassword(password, confirmPassword, t)
   const checks = getPasswordChecks(password)
-  const strength = getPasswordStrength(password)
+  const strength = getPasswordStrength(password, t)
+  const passwordRules = getPasswordRules(t)
   const tone = STRENGTH_TONES[strength.tone] ?? STRENGTH_TONES.muted
+  const authErrorMessage = (result) => t(`auth.errors.${result?.code || 'UNKNOWN'}`)
+
+  const renderEmailText = () => {
+    const [before, after] = t('recover.newPasswordDesc').split('{email}')
+
+    return (
+      <>
+        {before}
+        <span className="font-medium text-ink">{session.email}</span>
+        {after}
+      </>
+    )
+  }
 
   const handleSubmit = async (event) => {
     event.preventDefault()
@@ -78,17 +94,17 @@ export default function RecoverPassword() {
       const result = await updatePassword(password)
 
       if (!result.ok) {
-        setError(result.message)
+        setError(authErrorMessage(result))
         return
       }
 
       setDone(true)
-      showToast('Parolingiz yangilandi. Endi hisobingizga kirishingiz mumkin.', {
-        title: 'Parol yangilandi',
+      showToast(t('recover.updatedToast'), {
+        title: t('recover.updatedToastTitle'),
         variant: 'success',
       })
     } catch {
-      setError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring")
+      setError(t('auth.unexpectedError'))
     } finally {
       setPending(false)
     }
@@ -96,7 +112,7 @@ export default function RecoverPassword() {
 
   return (
     <div className="relative flex min-h-dvh flex-col items-center justify-center overflow-hidden bg-paper px-4 py-10 text-ink">
-      <Link to="/" aria-label="Mushohada bosh sahifa" className="relative z-10 mb-6">
+      <Link to="/" aria-label={t('navbar.brandHome')} className="relative z-10 mb-6">
         <Logo size="lg" />
       </Link>
 
@@ -105,7 +121,7 @@ export default function RecoverPassword() {
           <div className="flex flex-col items-center gap-4 py-8 text-center">
             <Spinner />
             <p className="font-mono text-[9px] uppercase tracking-[0.24em] text-muted">
-              Tekshirilmoqda
+              {t('recover.checking')}
             </p>
           </div>
         ) : !session ? (
@@ -114,18 +130,16 @@ export default function RecoverPassword() {
               <AlertIcon />
             </span>
             <h1 className="mt-5 font-display text-2xl font-semibold tracking-[-0.03em] text-ink">
-              Havola yaroqsiz
+              {t('recover.invalidTitle')}
             </h1>
             <p className="mt-3 text-sm leading-6 text-muted">
-              Parolni tiklash havolasi muddati tugagan yoki allaqachon ishlatilgan. Yangi havola
-              olish uchun saytga qaytib, &ldquo;Parolni unutdingizmi?&rdquo; bo&apos;limidan qayta
-              urinib ko&apos;ring.
+              {t('recover.invalidDesc')}
             </p>
             <Link
               to="/"
               className="mt-6 inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110"
             >
-              Bosh sahifaga qaytish
+              {t('recover.backHome')}
               <ArrowRight className="h-4 w-4" />
             </Link>
           </div>
@@ -135,37 +149,36 @@ export default function RecoverPassword() {
               <CheckMark className="h-5 w-5" />
             </span>
             <h1 className="mt-5 font-display text-2xl font-semibold tracking-[-0.03em] text-ink">
-              Parol yangilandi
+              {t('recover.doneTitle')}
             </h1>
             <p className="mt-3 text-sm leading-6 text-muted">
-              Endi yangi parolingiz bilan bemalol davom etishingiz mumkin.
+              {t('recover.doneDesc')}
             </p>
             <button
               type="button"
               onClick={() => navigate('/', { replace: true })}
               className="mt-6 inline-flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-0.5 hover:brightness-110"
             >
-              Davom etish
+              {t('recover.continue')}
               <ArrowRight className="h-4 w-4" />
             </button>
           </div>
         ) : (
           <>
             <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
-              Hisob xavfsizligi
+              {t('recover.security')}
             </span>
             <h1 className="mt-3 font-display text-[1.9rem] font-semibold leading-none tracking-[-0.04em] text-ink">
-              Yangi parol
+              {t('recover.newPasswordTitle')}
             </h1>
             <p className="mt-3 text-sm leading-6 text-muted">
-              <span className="font-medium text-ink">{session.email}</span> uchun yangi parol
-              o&apos;rnating.
+              {renderEmailText()}
             </p>
 
             <form onSubmit={handleSubmit} className="mt-6 flex flex-col gap-4" noValidate>
               <label className="flex flex-col gap-1.5">
                 <span className="font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted">
-                  Yangi parol
+                  {t('recover.newPasswordLabel')}
                 </span>
                 <input
                   type="password"
@@ -184,7 +197,7 @@ export default function RecoverPassword() {
                   <div aria-live="polite" className="mt-0.5">
                     <div className="flex items-center justify-between gap-3 text-[10px]">
                       <span className="font-mono uppercase tracking-[0.14em] text-muted">
-                        Parol mustahkamligi
+                        {t('recover.passwordStrength')}
                       </span>
                       <span className={`font-semibold ${tone.text}`}>{strength.label}</span>
                     </div>
@@ -229,7 +242,7 @@ export default function RecoverPassword() {
 
               <label className="flex flex-col gap-1.5">
                 <span className="font-mono text-[9px] font-medium uppercase tracking-[0.16em] text-muted">
-                  Parolni tasdiqlash
+                  {t('recover.confirmPasswordLabel')}
                 </span>
                 <input
                   type="password"
@@ -239,7 +252,7 @@ export default function RecoverPassword() {
                     setConfirmPassword(event.target.value)
                     if (error) setError('')
                   }}
-                  placeholder="Parolni qayta kiriting"
+                  placeholder={t('recover.confirmPlaceholder')}
                   autoComplete="new-password"
                   className={fieldClass}
                 />
@@ -266,7 +279,7 @@ export default function RecoverPassword() {
                 disabled={pending}
                 className="flex h-11 w-full items-center justify-center gap-2 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all hover:-translate-y-px hover:brightness-105 disabled:cursor-not-allowed disabled:opacity-60"
               >
-                {pending ? 'Yangilanmoqda...' : 'Parolni yangilash'}
+                {pending ? t('recover.updating') : t('recover.update')}
                 {!pending && <ArrowRight className="h-4 w-4" />}
               </button>
             </form>
@@ -278,7 +291,7 @@ export default function RecoverPassword() {
         to="/"
         className="relative z-10 mt-6 font-mono text-[9px] uppercase tracking-[0.18em] text-muted transition-colors hover:text-ink"
       >
-        Mushohada · bosh sahifa
+        {t('recover.footerHome')}
       </Link>
     </div>
   )

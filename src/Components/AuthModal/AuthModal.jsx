@@ -5,13 +5,14 @@ import { getLastEmail, isRemoteAuth, loginUser, registerUser, resetPassword } fr
 import { mergeGuestFavorites } from '../../utils/favorites.js'
 import { mergeGuestHistory } from '../../utils/quizHistory.js'
 import { useToast } from '../../context/useToast.js'
+import { useLanguage } from '../../context/useLanguage.js'
 import {
   MIN_NAME_LENGTH,
   MIN_PASSWORD_LENGTH,
   getPasswordChecks,
+  getPasswordRules,
   getPasswordStrength,
   normalizeEmail,
-  passwordRules,
   validateConfirmPassword,
   validateEmail,
   validateLoginPassword,
@@ -100,12 +101,17 @@ function AlertIcon() {
 }
 
 function PasswordVisibilityButton({ visible, onToggle, label }) {
+  const { t } = useLanguage()
+  const text = visible
+    ? t('auth.hidePassword', { label })
+    : t('auth.showPassword', { label })
+
   return (
     <button
       type="button"
       onClick={onToggle}
-      aria-label={visible ? `${label}ni yashirish` : `${label}ni ko'rsatish`}
-      title={visible ? `${label}ni yashirish` : `${label}ni ko'rsatish`}
+      aria-label={text}
+      title={text}
       className="absolute inset-y-0 right-1.5 my-auto flex h-8 w-8 items-center justify-center rounded-md text-muted transition-colors hover:bg-ink/[0.05] hover:text-ink"
     >
       <EyeIcon hidden={visible} />
@@ -114,12 +120,15 @@ function PasswordVisibilityButton({ visible, onToggle, label }) {
 }
 
 function PasswordStrength({ strength }) {
+  const { t } = useLanguage()
   const tone = STRENGTH_TONES[strength.tone] ?? STRENGTH_TONES.muted
 
   return (
     <div aria-live="polite" className="mt-0.5">
       <div className="flex items-center justify-between gap-3 text-[10px]">
-        <span className="font-mono uppercase tracking-[0.14em] text-muted">Parol mustahkamligi</span>
+        <span className="font-mono uppercase tracking-[0.14em] text-muted">
+          {t('auth.passwordStrength')}
+        </span>
         <span className={`font-semibold ${tone.text}`}>{strength.label}</span>
       </div>
       <div className="mt-1.5 flex gap-1" aria-hidden="true">
@@ -136,16 +145,11 @@ function PasswordStrength({ strength }) {
   )
 }
 
-const perks = [
-  'Interaktiv test arenasi',
-  'Qurilmalararo sinxron natijalar',
-  'Shaxsiy statistika va tarix',
-]
-
 export default function AuthModal({ onClose }) {
   const dialogRef = useRef(null)
   const panelRef = useRef(null)
   const { showToast } = useToast()
+  const { t } = useLanguage()
   const [mode, setMode] = useState('login')
   const [form, setForm] = useState(() => ({
     name: '',
@@ -198,23 +202,40 @@ export default function AuthModal({ onClose }) {
   const isLogin = mode === 'login'
   const isRegister = mode === 'register'
   const isReset = mode === 'reset'
-  const emailValidation = validateEmail(form.email)
-  const nameValidation = validateName(form.name)
+  const emailValidation = validateEmail(form.email, t)
+  const nameValidation = validateName(form.name, t)
   const passwordValidation = isLogin
-    ? validateLoginPassword(form.password)
-    : validatePassword(form.password)
-  const confirmValidation = validateConfirmPassword(form.password, form.confirmPassword)
+    ? validateLoginPassword(form.password, t)
+    : validatePassword(form.password, t)
+  const confirmValidation = validateConfirmPassword(form.password, form.confirmPassword, t)
   const passwordChecks = getPasswordChecks(form.password)
-  const passwordStrength = getPasswordStrength(form.password)
+  const passwordStrength = getPasswordStrength(form.password, t)
+  const passwordRules = getPasswordRules(t)
+  const perks = t('auth.perks')
 
-  const resetEmailValidation = validateEmail(resetEmail)
-  const resetPasswordValidation = validatePassword(resetPasswordValue)
+  const resetEmailValidation = validateEmail(resetEmail, t)
+  const resetPasswordValidation = validatePassword(resetPasswordValue, t)
   const resetConfirmValidation = validateConfirmPassword(
     resetPasswordValue,
-    resetConfirmValue
+    resetConfirmValue,
+    t
   )
   const resetPasswordChecks = getPasswordChecks(resetPasswordValue)
-  const resetPasswordStrength = getPasswordStrength(resetPasswordValue)
+  const resetPasswordStrength = getPasswordStrength(resetPasswordValue, t)
+
+  const authErrorMessage = (result) => t(`auth.errors.${result?.code || 'UNKNOWN'}`)
+
+  const renderResetEmailText = () => {
+    const [before, after] = t('auth.resetSentDesc').split('{email}')
+
+    return (
+      <>
+        {before}
+        <span className="font-medium text-ink">{resetEmail}</span>
+        {after}
+      </>
+    )
+  }
 
   const isTouched = (key) => touched[key] || submitted
 
@@ -352,7 +373,7 @@ export default function AuthModal({ onClose }) {
 
       if (!result.ok) {
         setPending(false)
-        setServerError(result.message)
+        setServerError(authErrorMessage(result))
         if (result.code === 'INVALID_CREDENTIALS') setInvalidCredentials(true)
         return
       }
@@ -364,10 +385,10 @@ export default function AuthModal({ onClose }) {
 
       showToast(
         isLogin
-          ? `Xush kelibsiz, ${displayName}!`
-          : `Hisobingiz yaratildi. Xush kelibsiz, ${displayName}!`,
+          ? t('auth.welcomeToast', { name: displayName })
+          : t('auth.registeredToast', { name: displayName }),
         {
-          title: isLogin ? 'Tizimga muvaffaqiyatli kirdingiz' : "Ro'yxatdan o'tish yakunlandi",
+          title: isLogin ? t('auth.loginSuccessTitle') : t('auth.registerSuccessTitle'),
           variant: 'success',
         }
       )
@@ -376,7 +397,7 @@ export default function AuthModal({ onClose }) {
       onClose()
     } catch {
       setPending(false)
-      setServerError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring")
+      setServerError(t('auth.unexpectedError'))
     }
   }
 
@@ -416,7 +437,7 @@ export default function AuthModal({ onClose }) {
         setPending(false)
 
         if (!result.ok) {
-          setResetError(result.message)
+          setResetError(authErrorMessage(result))
           return
         }
 
@@ -428,8 +449,8 @@ export default function AuthModal({ onClose }) {
 
         if (isRemoteAuth) {
           setResetStep('sent')
-          showToast('Parolni tiklash havolasi emailingizga yuborildi.', {
-            title: 'Email yuborildi',
+          showToast(t('auth.resetEmailSentToast'), {
+            title: t('auth.resetEmailSentToastTitle'),
             variant: 'success',
           })
         } else {
@@ -439,7 +460,7 @@ export default function AuthModal({ onClose }) {
         scrollToPanelTop()
       } catch {
         setPending(false)
-        setResetError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring")
+        setResetError(t('auth.unexpectedError'))
       }
 
       return
@@ -461,19 +482,19 @@ export default function AuthModal({ onClose }) {
       setPending(false)
 
       if (!result.ok) {
-        setResetError(result.message)
+        setResetError(authErrorMessage(result))
         return
       }
 
       const email = resetEmailValidation.email ?? normalizeEmail(resetEmail)
       goToLogin(email)
-      showToast('Parolingiz yangilandi. Endi yangi parol bilan tizimga kiring.', {
-        title: 'Parol muvaffaqiyatli tiklandi',
+      showToast(t('auth.resetSuccessToast'), {
+        title: t('auth.resetSuccessToastTitle'),
         variant: 'success',
       })
     } catch {
       setPending(false)
-      setResetError("Kutilmagan xatolik yuz berdi. Iltimos, qayta urinib ko'ring")
+      setResetError(t('auth.unexpectedError'))
     }
   }
 
@@ -509,12 +530,12 @@ export default function AuthModal({ onClose }) {
               Mushohada OS
             </span>
             <h2 className="mt-4 font-display text-[2.1rem] font-semibold leading-[1.04] tracking-[-0.04em] text-ink">
-              Bilimni <span className="text-ember">tizimga</span> aylantiring.
+              {t('auth.asideTitle')}{' '}
+              <span className="text-ember">{t('auth.asideAccent')}</span>
+              {t('auth.asideTitleEnd')}
             </h2>
             <p className="mt-4 text-sm leading-6 text-muted">
-              {isRemoteAuth
-                ? "Hisobingiz natijalar, tarix va statistikani qurilmalararo sinxron saqlaydi."
-                : 'Hisobingiz natijalar, tarix va statistikani shu brauzerda bir joyda saqlaydi.'}
+              {isRemoteAuth ? t('auth.asideRemoteDesc') : t('auth.asideLocalDesc')}
             </p>
 
             <ul className="mt-7 space-y-3">
@@ -528,7 +549,7 @@ export default function AuthModal({ onClose }) {
           </div>
 
           <p className="relative font-mono text-[8px] uppercase tracking-[0.2em] text-muted">
-            Toshkent · 2026
+            {t('auth.location')}
           </p>
         </aside>
 
@@ -543,13 +564,13 @@ export default function AuthModal({ onClose }) {
               <Logo size="sm" />
             </div>
             <span className="hidden font-mono text-[9px] uppercase tracking-[0.18em] text-muted md:inline">
-              Hisob
+              {t('auth.account')}
             </span>
 
             <button
               type="button"
               onClick={onClose}
-              aria-label="Yopish"
+              aria-label={t('auth.close')}
               className="flex h-8 w-8 items-center justify-center rounded-lg border border-hairline text-muted transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] hover:text-ink"
             >
               <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -560,7 +581,7 @@ export default function AuthModal({ onClose }) {
 
           <div
             role="tablist"
-            aria-label="Kirish yoki ro'yxatdan o'tish"
+            aria-label={t('auth.tabsLabel')}
             className="mt-5 grid grid-cols-2 gap-1 rounded-xl border border-hairline bg-paper p-1 text-sm"
           >
             <button
@@ -573,7 +594,7 @@ export default function AuthModal({ onClose }) {
               }}
               className={tabClass(!isRegister)}
             >
-              Kirish
+              {t('auth.loginTab')}
             </button>
             <button
               type="button"
@@ -585,30 +606,30 @@ export default function AuthModal({ onClose }) {
               }}
               className={tabClass(isRegister)}
             >
-              Ro&apos;yxatdan o&apos;tish
+              {t('auth.registerTab')}
             </button>
           </div>
 
           <div className="mt-5 sm:mt-6">
             <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
-              {isLogin ? 'Xush kelibsiz' : isRegister ? 'Yangi hisob' : 'Hisobni tiklash'}
+              {isLogin ? t('auth.welcome') : isRegister ? t('auth.newAccount') : t('auth.resetAccount')}
             </span>
             <h2
               id="auth-modal-title"
               className="mt-2 font-display text-[1.7rem] font-semibold leading-none tracking-[-0.04em] text-ink sm:text-[1.9rem]"
             >
-              {isLogin ? 'Tizimga kirish' : isRegister ? "Ro'yxatdan o'tish" : 'Parolni tiklash'}
+              {isLogin ? t('auth.loginTitle') : isRegister ? t('auth.registerTitle') : t('auth.resetTitle')}
             </h2>
             <p className="mt-2 min-h-10 text-sm leading-6 text-muted sm:min-h-0">
               {isLogin
-                ? 'Hisobingizga kirish uchun maʼlumotlarni kiriting'
+                ? t('auth.loginSubtitle')
                 : isRegister
-                  ? 'Yangi hisob yaratish uchun maʼlumotlarni kiriting'
+                  ? t('auth.registerSubtitle')
                   : resetStep === 'sent'
-                    ? 'Pochta qutingizga yuborilgan havolani bosing'
+                    ? t('auth.resetSentSubtitle')
                     : resetStep === 'email'
-                      ? 'Roʻyxatdan oʻtgan emailingizni kiriting'
-                      : 'Hisobingiz uchun yangi parol oʻrnating'}
+                      ? t('auth.resetEmailSubtitle')
+                      : t('auth.resetPasswordSubtitle')}
             </p>
           </div>
 
@@ -628,33 +649,32 @@ export default function AuthModal({ onClose }) {
                     </svg>
                   </span>
                   <h3 className="mt-4 font-display text-lg font-semibold text-ink">
-                    Havola yuborildi
+                    {t('auth.resetSentTitle')}
                   </h3>
                   <p className="mt-2 max-w-xs text-sm leading-6 text-muted">
-                    <span className="font-medium text-ink">{resetEmail}</span> manziliga parolni
-                    tiklash havolasini yubordik. Havolani bosib, yangi parol o&apos;rnating.
+                    {renderResetEmailText()}
                   </p>
                   <p className="mt-3 font-mono text-[9px] uppercase tracking-[0.14em] text-muted">
-                    Havola 60 daqiqa amal qiladi
+                    {t('auth.resetLinkValidity')}
                   </p>
                   <button
                     type="button"
                     onClick={editResetEmail}
                     className="mt-5 text-xs font-semibold text-ember transition-colors hover:text-cobalt hover:underline underline-offset-2"
                   >
-                    Boshqa email kiritish
+                    {t('auth.enterOtherEmail')}
                   </button>
                 </div>
               ) : resetStep === 'email' ? (
                 <label className="flex flex-col gap-1.5">
-                  <span className={labelClass}>Ro&apos;yxatdan o&apos;tgan email</span>
+                  <span className={labelClass}>{t('auth.registeredEmail')}</span>
                   <input
                     type="email"
                     name="email"
                     value={resetEmail}
                     onChange={handleResetChange}
                     onBlur={handleResetBlur}
-                    placeholder="ism@example.com"
+                    placeholder={t('auth.emailPlaceholder')}
                     autoComplete="email"
                     inputMode="email"
                     autoCapitalize="none"
@@ -696,8 +716,8 @@ export default function AuthModal({ onClose }) {
 
                   <span className="text-xs leading-5 text-muted">
                     {isRemoteAuth
-                      ? "Emailingizga parolni tiklash havolasini yuboramiz."
-                      : "Hisobingizni tasdiqlash uchun ro'yxatdan o'tgan emailni kiriting."}
+                      ? t('auth.resetEmailHintRemote')
+                      : t('auth.resetEmailHintLocal')}
                   </span>
                 </label>
               ) : (
@@ -716,7 +736,7 @@ export default function AuthModal({ onClose }) {
                         </svg>
                       </span>
                       <div className="min-w-0">
-                        <span className={labelClass}>Hisob</span>
+                        <span className={labelClass}>{t('auth.account')}</span>
                         <p className="truncate text-sm font-medium text-ink" title={resetEmail}>
                           {resetEmail}
                         </p>
@@ -728,12 +748,12 @@ export default function AuthModal({ onClose }) {
                       disabled={pending}
                       className="shrink-0 text-xs font-semibold text-ember transition-colors hover:text-cobalt hover:underline underline-offset-2 disabled:cursor-not-allowed disabled:opacity-60"
                     >
-                      O&apos;zgartirish
+                      {t('auth.change')}
                     </button>
                   </div>
 
                   <label className="flex flex-col gap-1.5">
-                    <span className={labelClass}>Yangi parol</span>
+                    <span className={labelClass}>{t('auth.newPasswordLabel')}</span>
                     <div className="relative">
                       <input
                         type={showResetPassword ? 'text' : 'password'}
@@ -757,7 +777,7 @@ export default function AuthModal({ onClose }) {
                       <PasswordVisibilityButton
                         visible={showResetPassword}
                         onToggle={() => setShowResetPassword((prev) => !prev)}
-                        label="Yangi parol"
+                        label={t('auth.newPasswordLabel')}
                       />
                     </div>
 
@@ -794,7 +814,7 @@ export default function AuthModal({ onClose }) {
                   </label>
 
                   <label className="flex flex-col gap-1.5">
-                    <span className={labelClass}>Yangi parolni tasdiqlash</span>
+                    <span className={labelClass}>{t('auth.confirmNewPasswordLabel')}</span>
                     <div className="relative">
                       <input
                         type={showResetConfirm ? 'text' : 'password'}
@@ -802,7 +822,7 @@ export default function AuthModal({ onClose }) {
                         value={resetConfirmValue}
                         onChange={handleResetChange}
                         onBlur={handleResetBlur}
-                        placeholder="Parolni qayta kiriting"
+                        placeholder={t('auth.confirmPasswordPlaceholder')}
                         autoComplete="new-password"
                         aria-invalid={showResetConfirmError}
                         aria-describedby={
@@ -813,7 +833,7 @@ export default function AuthModal({ onClose }) {
                       <PasswordVisibilityButton
                         visible={showResetConfirm}
                         onToggle={() => setShowResetConfirm((prev) => !prev)}
-                        label="Tasdiqlash paroli"
+                        label={t('auth.confirmPasswordLabel')}
                       />
                     </div>
                     {showResetConfirmError && (
@@ -852,12 +872,12 @@ export default function AuthModal({ onClose }) {
                     </svg>
                   )}
                   {pending
-                    ? 'Yuborilmoqda...'
+                    ? t('auth.sending')
                     : resetStep === 'email'
                       ? isRemoteAuth
-                        ? 'Havolani yuborish'
-                        : 'Emailni tekshirish'
-                      : 'Parolni yangilash'}
+                        ? t('auth.sendLink')
+                        : t('auth.checkEmail')
+                      : t('auth.updatePassword')}
                 </button>
               )}
 
@@ -869,14 +889,12 @@ export default function AuthModal({ onClose }) {
                     disabled={pending}
                     className="font-semibold text-ember transition-colors hover:text-cobalt disabled:cursor-not-allowed disabled:opacity-60"
                   >
-                    Kirishga qaytish
+                    {t('auth.backToLogin')}
                   </button>
                 </p>
 
                 <p className="text-center text-[11px] leading-5 text-muted">
-                  {isRemoteAuth
-                    ? "Havola bir marta ishlaydi va 60 daqiqa amal qiladi."
-                    : 'Parol faqat shu qurilmada xavfsiz yangilanadi.'}
+                  {isRemoteAuth ? t('auth.resetLinkNoteRemote') : t('auth.resetLinkNoteLocal')}
                 </p>
               </div>
             </form>
@@ -897,21 +915,19 @@ export default function AuthModal({ onClose }) {
                   />
                 </svg>
                 <p className="text-xs leading-5 text-muted">
-                  {isRemoteAuth
-                    ? "Natijalar, tarix va statistika hisobingizga bog'lanadi va sinxronlanadi"
-                    : 'Natijalar, tarix va statistikangiz shu brauzerda xavfsiz saqlanadi'}
+                  {isRemoteAuth ? t('auth.loginInfoRemote') : t('auth.loginInfoLocal')}
                 </p>
               </div>
             ) : (
               <label className="flex flex-col gap-1.5">
-                <span className={labelClass}>Ism yoki foydalanuvchi nomi</span>
+                <span className={labelClass}>{t('auth.nameLabel')}</span>
                 <input
                   type="text"
                   name="name"
                   value={form.name}
                   onChange={handleChange}
                   onBlur={handleBlur}
-                  placeholder={`Kamida ${MIN_NAME_LENGTH} ta belgi`}
+                  placeholder={t('auth.namePlaceholder', { count: MIN_NAME_LENGTH })}
                   autoComplete="name"
                   maxLength={64}
                   aria-invalid={showNameError}
@@ -928,14 +944,14 @@ export default function AuthModal({ onClose }) {
             )}
 
             <label className="flex flex-col gap-1.5">
-              <span className={labelClass}>Email</span>
+              <span className={labelClass}>{t('auth.emailLabel')}</span>
               <input
                 type="email"
                 name="email"
                 value={form.email}
                 onChange={handleChange}
                 onBlur={handleBlur}
-                placeholder="ism@example.com"
+                placeholder={t('auth.emailPlaceholder')}
                 autoComplete="email"
                 inputMode="email"
                 autoCapitalize="none"
@@ -958,7 +974,7 @@ export default function AuthModal({ onClose }) {
             </label>
 
             <label className="flex flex-col gap-1.5">
-              <span className={labelClass}>Parol</span>
+              <span className={labelClass}>{t('auth.passwordLabel')}</span>
               <div className="relative">
                 <input
                   type={showPassword ? 'text' : 'password'}
@@ -981,7 +997,7 @@ export default function AuthModal({ onClose }) {
                 <PasswordVisibilityButton
                   visible={showPassword}
                   onToggle={() => setShowPassword((prev) => !prev)}
-                  label="Parol"
+                  label={t('auth.passwordLabel')}
                 />
               </div>
 
@@ -1011,14 +1027,13 @@ export default function AuthModal({ onClose }) {
               )}
 
               <span className="sr-only">
-                Parol kamida {MIN_PASSWORD_LENGTH} belgidan iborat bo&apos;lib, kamida bitta harf va
-                bitta raqamni o&apos;z ichiga olishi kerak
+                {t('auth.passwordHint', { min: MIN_PASSWORD_LENGTH })}
               </span>
             </label>
 
             {!isLogin && (
               <label className="flex flex-col gap-1.5">
-                <span className={labelClass}>Parolni tasdiqlash</span>
+                <span className={labelClass}>{t('auth.confirmPasswordLabel')}</span>
                 <div className="relative">
                   <input
                     type={showConfirmPassword ? 'text' : 'password'}
@@ -1026,7 +1041,7 @@ export default function AuthModal({ onClose }) {
                     value={form.confirmPassword}
                     onChange={handleChange}
                     onBlur={handleBlur}
-                    placeholder="Parolni qayta kiriting"
+                    placeholder={t('auth.confirmPasswordPlaceholder')}
                     autoComplete="new-password"
                     aria-invalid={showConfirmError}
                     aria-describedby={showConfirmError ? 'confirm-password-error' : undefined}
@@ -1035,7 +1050,7 @@ export default function AuthModal({ onClose }) {
                   <PasswordVisibilityButton
                     visible={showConfirmPassword}
                     onToggle={() => setShowConfirmPassword((prev) => !prev)}
-                    label="Tasdiqlash paroli"
+                    label={t('auth.confirmPasswordLabel')}
                   />
                 </div>
                 {showConfirmError && (
@@ -1060,7 +1075,7 @@ export default function AuthModal({ onClose }) {
                     onChange={handleChange}
                     className="h-4 w-4 cursor-pointer rounded border-hairline accent-[var(--ember)]"
                   />
-                  Meni eslab qol
+                  {t('auth.remember')}
                 </label>
 
                 <button
@@ -1069,7 +1084,7 @@ export default function AuthModal({ onClose }) {
                   disabled={pending}
                   className="text-xs font-medium text-ember transition-colors hover:text-cobalt hover:underline underline-offset-2 disabled:cursor-not-allowed disabled:opacity-60"
                 >
-                  Parolni unutdingizmi?
+                  {t('auth.forgotPassword')}
                 </button>
               </div>
             )}
@@ -1096,26 +1111,28 @@ export default function AuthModal({ onClose }) {
                   />
                 </svg>
               )}
-              {pending ? 'Tekshirilmoqda...' : isLogin ? 'Kirish' : "Ro'yxatdan o'tish"}
+              {pending
+                ? t('auth.checking')
+                : isLogin
+                  ? t('auth.submitLogin')
+                  : t('auth.submitRegister')}
             </button>
 
             <div className="mt-auto flex flex-col gap-2 pt-1">
               <p className="flex flex-wrap items-center justify-center gap-x-1.5 gap-y-1 text-center text-xs text-muted">
-                {isLogin ? "Hisobingiz yo'qmi?" : 'Hisobingiz bormi?'}
+                {isLogin ? t('auth.noAccount') : t('auth.hasAccount')}
                 <button
                   type="button"
                   onClick={switchMode}
                   disabled={pending}
                   className="font-semibold text-ember transition-colors hover:text-cobalt disabled:cursor-not-allowed disabled:opacity-60"
                 >
-                  {isLogin ? "Ro'yxatdan o'ting" : 'Kirish'}
+                  {isLogin ? t('auth.registerLink') : t('auth.loginLink')}
                 </button>
               </p>
 
               <p className="text-center text-[11px] leading-5 text-muted">
-                {isRemoteAuth
-                  ? "Hisobingiz Supabase orqali xavfsiz saqlanadi va qurilmalararo sinxronlanadi."
-                  : 'Hisob ma’lumotlari faqat shu qurilmada saqlanadi.'}
+                {isRemoteAuth ? t('auth.storageNoteRemote') : t('auth.storageNoteLocal')}
               </p>
             </div>
           </form>

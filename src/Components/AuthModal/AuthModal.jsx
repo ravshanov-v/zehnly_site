@@ -1,9 +1,17 @@
 import { useEffect, useRef, useState } from 'react'
 import Logo from '../Logo.jsx'
 import { CheckMark } from '../Marks.jsx'
-import { getLastEmail, isRemoteAuth, loginUser, registerUser, resetPassword } from '../../utils/authStore.js'
+import {
+  getLastEmail,
+  isRemoteAuth,
+  loginUser,
+  loginWithGoogle,
+  registerUser,
+  resetPassword,
+} from '../../utils/authStore.js'
 import { mergeGuestFavorites } from '../../utils/favorites.js'
 import { mergeGuestHistory } from '../../utils/quizHistory.js'
+import { syncGuestStatsToProfile } from '../../utils/profileStore.js'
 import { useToast } from '../../context/useToast.js'
 import { useLanguage } from '../../context/useLanguage.js'
 import {
@@ -100,6 +108,29 @@ function AlertIcon() {
   )
 }
 
+function GoogleIcon() {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden="true" className="h-4 w-4">
+      <path
+        fill="#4285F4"
+        d="M23.49 12.27c0-.79-.07-1.54-.19-2.27H12v4.51h6.47a5.53 5.53 0 0 1-2.4 3.63v2.94h3.86c2.26-2.08 3.56-5.14 3.56-8.81Z"
+      />
+      <path
+        fill="#34A853"
+        d="M12 24c3.24 0 5.95-1.07 7.93-2.92l-3.86-2.94c-1.07.72-2.44 1.15-4.07 1.15-3.13 0-5.78-2.11-6.73-4.96H1.28v3.04A12 12 0 0 0 12 24Z"
+      />
+      <path
+        fill="#FBBC05"
+        d="M5.27 14.33A7.2 7.2 0 0 1 4.89 12c0-.81.14-1.6.38-2.33V6.63H1.28A12 12 0 0 0 0 12c0 1.94.46 3.77 1.28 5.37l3.99-3.04Z"
+      />
+      <path
+        fill="#EA4335"
+        d="M12 4.77c1.76 0 3.34.61 4.59 1.8l3.44-3.44C17.95 1.19 15.24 0 12 0A12 12 0 0 0 1.28 6.63l3.99 3.04C6.22 6.82 8.87 4.77 12 4.77Z"
+      />
+    </svg>
+  )
+}
+
 function PasswordVisibilityButton({ visible, onToggle, label }) {
   const { t } = useLanguage()
   const text = visible
@@ -168,6 +199,7 @@ export default function AuthModal({ onClose }) {
   const [serverError, setServerError] = useState('')
   const [invalidCredentials, setInvalidCredentials] = useState(false)
   const [pending, setPending] = useState(false)
+  const [googlePending, setGooglePending] = useState(false)
   const [showPassword, setShowPassword] = useState(false)
   const [showConfirmPassword, setShowConfirmPassword] = useState(false)
   const [resetStep, setResetStep] = useState('email')
@@ -378,6 +410,7 @@ export default function AuthModal({ onClose }) {
         return
       }
 
+      syncGuestStatsToProfile()
       mergeGuestHistory(email)
       mergeGuestFavorites(email)
 
@@ -399,6 +432,32 @@ export default function AuthModal({ onClose }) {
       setPending(false)
       setServerError(t('auth.unexpectedError'))
     }
+  }
+
+  const handleGoogleLogin = async () => {
+    if (pending || googlePending) return
+
+    setServerError('')
+    setInvalidCredentials(false)
+    setGooglePending(true)
+
+    try {
+      const result = await loginWithGoogle()
+
+      if (!result.ok) {
+        setGooglePending(false)
+        setServerError(authErrorMessage(result))
+      }
+    } catch {
+      setGooglePending(false)
+      setServerError(t('auth.unexpectedError'))
+    }
+  }
+
+  const handleContinueAsGuest = () => {
+    if (pending || googlePending) return
+    onClose()
+    showToast(t('auth.guestToast'), { variant: 'info' })
   }
 
   const handleResetChange = (event) => {
@@ -506,7 +565,7 @@ export default function AuthModal({ onClose }) {
 
   return (
     <div
-      className="zehnly-fade-in scrim fixed inset-0 z-[60] flex items-center justify-center p-3 sm:p-4"
+      className="kredorium-fade-in scrim fixed inset-0 z-[60] flex items-center justify-center p-3 sm:p-4"
       onMouseDown={(event) => {
         if (event.target === event.currentTarget) onClose()
       }}
@@ -517,7 +576,7 @@ export default function AuthModal({ onClose }) {
         aria-modal="true"
         aria-labelledby="auth-modal-title"
         tabIndex={-1}
-        className="zehnly-scale-in relative grid h-[calc(100dvh_-_1.5rem)] w-full max-w-3xl overflow-hidden rounded-2xl border border-hairline bg-raised text-ink outline-none focus:outline-none sm:h-[min(92vh,760px)] md:grid-cols-[0.92fr_1.08fr]"
+        className="kredorium-scale-in relative grid h-[calc(100dvh_-_1.5rem)] w-full max-w-3xl overflow-hidden rounded-2xl border border-hairline bg-raised text-ink outline-none focus:outline-none sm:h-[min(92vh,760px)] md:grid-cols-[0.92fr_1.08fr]"
       >
         <aside className="relative hidden flex-col justify-between overflow-hidden border-hairline bg-sunken p-8 text-ink md:flex md:border-r">
 
@@ -527,7 +586,7 @@ export default function AuthModal({ onClose }) {
 
           <div className="relative">
             <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-muted">
-              Mushohada OS
+              Kredorium OS
             </span>
             <h2 className="mt-4 font-display text-[2.1rem] font-semibold leading-[1.04] tracking-[-0.04em] text-ink">
               {t('auth.asideTitle')}{' '}
@@ -637,7 +696,7 @@ export default function AuthModal({ onClose }) {
             <form
               key="reset"
               onSubmit={handleResetSubmit}
-              className="zehnly-fade-in mt-5 flex flex-1 flex-col gap-4"
+              className="kredorium-fade-in mt-5 flex flex-1 flex-col gap-4"
               noValidate
             >
               {resetStep === 'sent' ? (
@@ -899,7 +958,39 @@ export default function AuthModal({ onClose }) {
               </div>
             </form>
           ) : (
-          <form key={mode} onSubmit={handleSubmit} className="zehnly-fade-in mt-5 flex flex-1 flex-col gap-4" noValidate>
+          <form key={mode} onSubmit={handleSubmit} className="kredorium-fade-in mt-5 flex flex-1 flex-col gap-4" noValidate>
+            <div className="flex flex-col gap-2">
+              <button
+                type="button"
+                onClick={handleGoogleLogin}
+                disabled={pending || googlePending || !isRemoteAuth}
+                className="flex h-11 w-full items-center justify-center gap-2.5 rounded-xl border border-hairline bg-paper text-sm font-semibold text-ink transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] disabled:cursor-not-allowed disabled:opacity-60"
+              >
+                {googlePending ? (
+                  <svg className="h-4 w-4 animate-spin" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="3" />
+                    <path className="opacity-90" fill="currentColor" d="M12 2a10 10 0 0 1 10 10h-3A7 7 0 0 0 12 5V2Z" />
+                  </svg>
+                ) : (
+                  <GoogleIcon />
+                )}
+                {googlePending ? t('auth.connecting') : t('auth.google')}
+              </button>
+              {!isRemoteAuth && (
+                <p className="text-center text-[11px] leading-5 text-muted">
+                  {t('auth.googleUnavailable')}
+                </p>
+              )}
+
+              <div className="flex items-center gap-3 py-0.5" aria-hidden="true">
+                <span className="h-px flex-1 bg-hairline" />
+                <span className="font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
+                  {t('auth.or')}
+                </span>
+                <span className="h-px flex-1 bg-hairline" />
+              </div>
+            </div>
+
             {isLogin ? (
               <div className="flex items-center gap-2.5 rounded-xl border border-hairline bg-paper px-3.5 py-3">
                 <svg
@@ -1116,6 +1207,15 @@ export default function AuthModal({ onClose }) {
                 : isLogin
                   ? t('auth.submitLogin')
                   : t('auth.submitRegister')}
+            </button>
+
+            <button
+              type="button"
+              onClick={handleContinueAsGuest}
+              disabled={pending || googlePending}
+              className="flex w-full items-center justify-center rounded-xl border border-hairline px-4 py-2.5 text-xs font-semibold text-muted transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] hover:text-ink disabled:cursor-not-allowed disabled:opacity-60"
+            >
+              {t('auth.continueAsGuest')}
             </button>
 
             <div className="mt-auto flex flex-col gap-2 pt-1">

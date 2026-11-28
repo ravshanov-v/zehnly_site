@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Sun'iy intellekt (1000 savol)
+// Kredorium Zakovat Platformasi - Sun'iy intellekt (1000 savol)
 
 const suniyIntellekt = {
   "id": "suniy-intellekt",
@@ -109,7 +109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-5",
-      "question": "Bir baytda nechta bit bor?",
+      "question": "Sun'iy intellekt bo'yicha: Bir baytda nechta bit bor?",
       "options": [
         {
           "id": "A",
@@ -134,7 +134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-6",
-      "question": "Kompyuterning asosiy hisoblash qurilmasi qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Kompyuterning asosiy hisoblash qurilmasi qaysi?",
       "options": [
         {
           "id": "A",
@@ -159,7 +159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-7",
-      "question": "HTML tili asosan nima uchun ishlatiladi?",
+      "question": "Sun'iy intellekt bo'yicha: HTML tili asosan nima uchun ishlatiladi?",
       "options": [
         {
           "id": "A",
@@ -184,7 +184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-8",
-      "question": "Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?",
+      "question": "Sun'iy intellekt bo'yicha: Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?",
       "options": [
         {
           "id": "A",
@@ -209,7 +209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-9",
-      "question": "1 Kilobayt (KB) necha baytga teng?",
+      "question": "Sun'iy intellekt bo'yicha: 1 Kilobayt (KB) necha baytga teng?",
       "options": [
         {
           "id": "A",
@@ -234,7 +234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-10",
-      "question": "1 Megabayt (MB) necha Kilobaytga teng?",
+      "question": "Sun'iy intellekt bo'yicha: 1 Megabayt (MB) necha Kilobaytga teng?",
       "options": [
         {
           "id": "A",
@@ -259,7 +259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-11",
-      "question": "1 Gigabayt (GB) necha Megabaytga teng?",
+      "question": "Sun'iy intellekt bo'yicha: 1 Gigabayt (GB) necha Megabaytga teng?",
       "options": [
         {
           "id": "A",
@@ -284,7 +284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-12",
-      "question": "ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?",
+      "question": "Sun'iy intellekt bo'yicha: ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?",
       "options": [
         {
           "id": "A",
@@ -309,7 +309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-13",
-      "question": "Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?",
+      "question": "Sun'iy intellekt bo'yicha: Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?",
       "options": [
         {
           "id": "A",
@@ -334,7 +334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-14",
-      "question": "Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?",
+      "question": "Sun'iy intellekt bo'yicha: Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?",
       "options": [
         {
           "id": "A",
@@ -359,7 +359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-15",
-      "question": "O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?",
+      "question": "Sun'iy intellekt bo'yicha: O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?",
       "options": [
         {
           "id": "A",
@@ -384,7 +384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-16",
-      "question": "Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?",
+      "question": "Sun'iy intellekt bo'yicha: Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?",
       "options": [
         {
           "id": "A",
@@ -409,7 +409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-17",
-      "question": "O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?",
+      "question": "Sun'iy intellekt bo'yicha: O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?",
       "options": [
         {
           "id": "A",
@@ -434,7 +434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-18",
-      "question": "Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?",
       "options": [
         {
           "id": "A",
@@ -459,7 +459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-19",
-      "question": "O'n oltilikdagi 1A soni o'nlikda nechaga teng?",
+      "question": "Sun'iy intellekt bo'yicha: O'n oltilikdagi 1A soni o'nlikda nechaga teng?",
       "options": [
         {
           "id": "A",
@@ -484,7 +484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-20",
-      "question": "Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?",
+      "question": "Sun'iy intellekt bo'yicha: Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?",
       "options": [
         {
           "id": "A",
@@ -509,7 +509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-21",
-      "question": "Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?",
       "options": [
         {
           "id": "A",
@@ -534,7 +534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-22",
-      "question": "Kesh-xotira (Cache memory) qanday vazifani bajaradi?",
+      "question": "Sun'iy intellekt bo'yicha: Kesh-xotira (Cache memory) qanday vazifani bajaradi?",
       "options": [
         {
           "id": "A",
@@ -559,7 +559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-23",
-      "question": "Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?",
       "options": [
         {
           "id": "A",
@@ -584,7 +584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-24",
-      "question": "Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?",
+      "question": "Sun'iy intellekt bo'yicha: Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?",
       "options": [
         {
           "id": "A",
@@ -609,7 +609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-25",
-      "question": "Taktli chastotaning o'lchov birligi nima?",
+      "question": "Sun'iy intellekt bo'yicha: Taktli chastotaning o'lchov birligi nima?",
       "options": [
         {
           "id": "A",
@@ -634,7 +634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-26",
-      "question": "Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?",
       "options": [
         {
           "id": "A",
@@ -659,7 +659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-27",
-      "question": "Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?",
       "options": [
         {
           "id": "A",
@@ -684,7 +684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-28",
-      "question": "Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?",
+      "question": "Sun'iy intellekt bo'yicha: Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?",
       "options": [
         {
           "id": "A",
@@ -709,7 +709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-29",
-      "question": "Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?",
+      "question": "Sun'iy intellekt bo'yicha: Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?",
       "options": [
         {
           "id": "A",
@@ -734,7 +734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-30",
-      "question": "Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?",
+      "question": "Sun'iy intellekt bo'yicha: Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?",
       "options": [
         {
           "id": "A",
@@ -759,7 +759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-31",
-      "question": "Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?",
       "options": [
         {
           "id": "A",
@@ -784,7 +784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-32",
-      "question": "Algoritmning asosiy xossalari qaysilar?",
+      "question": "Sun'iy intellekt bo'yicha: Algoritmning asosiy xossalari qaysilar?",
       "options": [
         {
           "id": "A",
@@ -809,7 +809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-33",
-      "question": "Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?",
       "options": [
         {
           "id": "A",
@@ -834,7 +834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-34",
-      "question": "Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?",
       "options": [
         {
           "id": "A",
@@ -859,7 +859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-35",
-      "question": "Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?",
+      "question": "Sun'iy intellekt bo'yicha: Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?",
       "options": [
         {
           "id": "A",
@@ -884,7 +884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-36",
-      "question": "Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?",
       "options": [
         {
           "id": "A",
@@ -909,7 +909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-37",
-      "question": "Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?",
       "options": [
         {
           "id": "A",
@@ -934,7 +934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-38",
-      "question": "Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?",
       "options": [
         {
           "id": "A",
@@ -959,7 +959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-39",
-      "question": "Python tilida darajaga ko'tarish operatori qanday belgilanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida darajaga ko'tarish operatori qanday belgilanadi?",
       "options": [
         {
           "id": "A",
@@ -984,7 +984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-40",
-      "question": "Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?",
       "options": [
         {
           "id": "A",
@@ -1009,7 +1009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-41",
-      "question": "Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?",
+      "question": "Sun'iy intellekt bo'yicha: Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?",
       "options": [
         {
           "id": "A",
@@ -1034,7 +1034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-42",
-      "question": "Satrli (matnli) ma'lumot turi qanday ataladi?",
+      "question": "Sun'iy intellekt bo'yicha: Satrli (matnli) ma'lumot turi qanday ataladi?",
       "options": [
         {
           "id": "A",
@@ -1059,7 +1059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-43",
-      "question": "Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?",
+      "question": "Sun'iy intellekt bo'yicha: Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?",
       "options": [
         {
           "id": "A",
@@ -1084,7 +1084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-44",
-      "question": "HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?",
+      "question": "Sun'iy intellekt bo'yicha: HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?",
       "options": [
         {
           "id": "A",
@@ -1109,7 +1109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-45",
-      "question": "HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?",
+      "question": "Sun'iy intellekt bo'yicha: HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?",
       "options": [
         {
           "id": "A",
@@ -1134,7 +1134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-46",
-      "question": "HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?",
       "options": [
         {
           "id": "A",
@@ -1159,7 +1159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-47",
-      "question": "CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?",
+      "question": "Sun'iy intellekt bo'yicha: CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?",
       "options": [
         {
           "id": "A",
@@ -1184,7 +1184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-48",
-      "question": "IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?",
+      "question": "Sun'iy intellekt bo'yicha: IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?",
       "options": [
         {
           "id": "A",
@@ -1209,7 +1209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-49",
-      "question": "DNS (Domain Name System) serverining asosiy vazifasi nima?",
+      "question": "Sun'iy intellekt bo'yicha: DNS (Domain Name System) serverining asosiy vazifasi nima?",
       "options": [
         {
           "id": "A",
@@ -1234,7 +1234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-50",
-      "question": "Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?",
+      "question": "Sun'iy intellekt bo'yicha: Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?",
       "options": [
         {
           "id": "A",
@@ -1259,7 +1259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-51",
-      "question": "Fayllarni internet orqali uzatishning klassik protokoli qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Fayllarni internet orqali uzatishning klassik protokoli qaysi?",
       "options": [
         {
           "id": "A",
@@ -1284,7 +1284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-52",
-      "question": "Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?",
       "options": [
         {
           "id": "A",
@@ -1309,7 +1309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-53",
-      "question": "Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?",
       "options": [
         {
           "id": "A",
@@ -1334,7 +1334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-54",
-      "question": "Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?",
+      "question": "Sun'iy intellekt bo'yicha: Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?",
       "options": [
         {
           "id": "A",
@@ -1359,7 +1359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-55",
-      "question": "Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?",
+      "question": "Sun'iy intellekt bo'yicha: Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?",
       "options": [
         {
           "id": "A",
@@ -1384,7 +1384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-56",
-      "question": "Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?",
+      "question": "Sun'iy intellekt bo'yicha: Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?",
       "options": [
         {
           "id": "A",
@@ -1409,7 +1409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-57",
-      "question": "Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1434,7 +1434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-58",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?",
       "options": [
         {
           "id": "A",
@@ -1459,7 +1459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-59",
-      "question": "Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1484,7 +1484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-60",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?",
       "options": [
         {
           "id": "A",
@@ -1509,7 +1509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-61",
-      "question": "Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1534,7 +1534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-62",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?",
       "options": [
         {
           "id": "A",
@@ -1559,7 +1559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-63",
-      "question": "Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1584,7 +1584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-64",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?",
       "options": [
         {
           "id": "A",
@@ -1609,7 +1609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-65",
-      "question": "Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1634,7 +1634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-66",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?",
       "options": [
         {
           "id": "A",
@@ -1659,7 +1659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-67",
-      "question": "Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1684,7 +1684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-68",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?",
       "options": [
         {
           "id": "A",
@@ -1709,7 +1709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-69",
-      "question": "Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1734,7 +1734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-70",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?",
       "options": [
         {
           "id": "A",
@@ -1759,7 +1759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-71",
-      "question": "Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1784,7 +1784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-72",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?",
       "options": [
         {
           "id": "A",
@@ -1809,7 +1809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-73",
-      "question": "Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1834,7 +1834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-74",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?",
       "options": [
         {
           "id": "A",
@@ -1859,7 +1859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-75",
-      "question": "Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1884,7 +1884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-76",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?",
       "options": [
         {
           "id": "A",
@@ -1909,7 +1909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-77",
-      "question": "Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1934,7 +1934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-78",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?",
       "options": [
         {
           "id": "A",
@@ -1959,7 +1959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-79",
-      "question": "Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -1984,7 +1984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-80",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?",
       "options": [
         {
           "id": "A",
@@ -2009,7 +2009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-81",
-      "question": "Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2034,7 +2034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-82",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?",
       "options": [
         {
           "id": "A",
@@ -2059,7 +2059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-83",
-      "question": "Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2084,7 +2084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-84",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?",
       "options": [
         {
           "id": "A",
@@ -2109,7 +2109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-85",
-      "question": "Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2134,7 +2134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-86",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?",
       "options": [
         {
           "id": "A",
@@ -2159,7 +2159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-87",
-      "question": "Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2184,7 +2184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-88",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?",
       "options": [
         {
           "id": "A",
@@ -2209,7 +2209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-89",
-      "question": "Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2234,7 +2234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-90",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?",
       "options": [
         {
           "id": "A",
@@ -2259,7 +2259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-91",
-      "question": "Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2284,7 +2284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-92",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?",
       "options": [
         {
           "id": "A",
@@ -2309,7 +2309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-93",
-      "question": "Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2334,7 +2334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-94",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?",
       "options": [
         {
           "id": "A",
@@ -2359,7 +2359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-95",
-      "question": "Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2384,7 +2384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-96",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?",
       "options": [
         {
           "id": "A",
@@ -2409,7 +2409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-97",
-      "question": "Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2434,7 +2434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-98",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?",
       "options": [
         {
           "id": "A",
@@ -2459,7 +2459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-99",
-      "question": "Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2484,7 +2484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-100",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?",
       "options": [
         {
           "id": "A",
@@ -2509,7 +2509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-101",
-      "question": "Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2534,7 +2534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-102",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?",
       "options": [
         {
           "id": "A",
@@ -2559,7 +2559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-103",
-      "question": "Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2584,7 +2584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-104",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?",
       "options": [
         {
           "id": "A",
@@ -2609,7 +2609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-105",
-      "question": "Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2634,7 +2634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-106",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?",
       "options": [
         {
           "id": "A",
@@ -2659,7 +2659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-107",
-      "question": "Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2684,7 +2684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-108",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?",
       "options": [
         {
           "id": "A",
@@ -2709,7 +2709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-109",
-      "question": "Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2734,7 +2734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-110",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?",
       "options": [
         {
           "id": "A",
@@ -2759,7 +2759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-111",
-      "question": "Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2784,7 +2784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-112",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?",
       "options": [
         {
           "id": "A",
@@ -2809,7 +2809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-113",
-      "question": "Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2834,7 +2834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-114",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?",
       "options": [
         {
           "id": "A",
@@ -2859,7 +2859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-115",
-      "question": "Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2884,7 +2884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-116",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?",
       "options": [
         {
           "id": "A",
@@ -2909,7 +2909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-117",
-      "question": "Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2934,7 +2934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-118",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?",
       "options": [
         {
           "id": "A",
@@ -2959,7 +2959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-119",
-      "question": "Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -2984,7 +2984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-120",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?",
       "options": [
         {
           "id": "A",
@@ -3009,7 +3009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-121",
-      "question": "Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3034,7 +3034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-122",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?",
       "options": [
         {
           "id": "A",
@@ -3059,7 +3059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-123",
-      "question": "Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3084,7 +3084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-124",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?",
       "options": [
         {
           "id": "A",
@@ -3109,7 +3109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-125",
-      "question": "Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3134,7 +3134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-126",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?",
       "options": [
         {
           "id": "A",
@@ -3159,7 +3159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-127",
-      "question": "Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3184,7 +3184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-128",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?",
       "options": [
         {
           "id": "A",
@@ -3209,7 +3209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-129",
-      "question": "Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3234,7 +3234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-130",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?",
       "options": [
         {
           "id": "A",
@@ -3259,7 +3259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-131",
-      "question": "Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3284,7 +3284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-132",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?",
       "options": [
         {
           "id": "A",
@@ -3309,7 +3309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-133",
-      "question": "Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3334,7 +3334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-134",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?",
       "options": [
         {
           "id": "A",
@@ -3359,7 +3359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-135",
-      "question": "Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3384,7 +3384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-136",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?",
       "options": [
         {
           "id": "A",
@@ -3409,7 +3409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-137",
-      "question": "Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3434,7 +3434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-138",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?",
       "options": [
         {
           "id": "A",
@@ -3459,7 +3459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-139",
-      "question": "Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?",
       "options": [
         {
           "id": "A",
@@ -3484,7 +3484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-140",
-      "question": "Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?",
       "options": [
         {
           "id": "A",
@@ -3509,7 +3509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-141",
-      "question": "Python tilida ekranga ma'lumot chiqarish funksiyasi qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida ekranga ma'lumot chiqarish funksiyasi qaysi?",
       "options": [
         {
           "id": "A",
@@ -3534,7 +3534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-142",
-      "question": "Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?",
       "options": [
         {
           "id": "A",
@@ -3559,7 +3559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-143",
-      "question": "Python tilida shart operatori qaysi kalit so'z bilan boshlanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida shart operatori qaysi kalit so'z bilan boshlanadi?",
       "options": [
         {
           "id": "A",
@@ -3584,7 +3584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-144",
-      "question": "Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?",
       "options": [
         {
           "id": "A",
@@ -3609,7 +3609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-145",
-      "question": "Python tilida ma'lum qadamlar bilan cheklangan takrorlanish (tsikl) operatori qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida ma'lum qadamlar bilan cheklangan takrorlanish (tsikl) operatori qaysi?",
       "options": [
         {
           "id": "A",
@@ -3634,7 +3634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-146",
-      "question": "Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?",
       "options": [
         {
           "id": "A",
@@ -3659,7 +3659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-147",
-      "question": "Python tilida ro'yxat (list) elementlari qaysi qavslar ichiga yoziladi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida ro'yxat (list) elementlari qaysi qavslar ichiga yoziladi?",
       "options": [
         {
           "id": "A",
@@ -3684,7 +3684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-148",
-      "question": "O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?",
+      "question": "Sun'iy intellekt bo'yicha: O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?",
       "options": [
         {
           "id": "A",
@@ -3709,7 +3709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-149",
-      "question": "Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?",
+      "question": "Sun'iy intellekt bo'yicha: Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?",
       "options": [
         {
           "id": "A",
@@ -3734,7 +3734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-150",
-      "question": "Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?",
       "options": [
         {
           "id": "A",
@@ -3759,7 +3759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-151",
-      "question": "Rastrli grafika nimaga asoslangan?",
+      "question": "Sun'iy intellekt bo'yicha: Rastrli grafika nimaga asoslangan?",
       "options": [
         {
           "id": "A",
@@ -3784,7 +3784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-152",
-      "question": "Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?",
+      "question": "Sun'iy intellekt bo'yicha: Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?",
       "options": [
         {
           "id": "A",
@@ -3809,7 +3809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-153",
-      "question": "RGB rang modelida asosiy ranglar qaysilar?",
+      "question": "Sun'iy intellekt bo'yicha: RGB rang modelida asosiy ranglar qaysilar?",
       "options": [
         {
           "id": "A",
@@ -3834,7 +3834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-154",
-      "question": "Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?",
+      "question": "Sun'iy intellekt bo'yicha: Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?",
       "options": [
         {
           "id": "A",
@@ -3859,7 +3859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-155",
-      "question": "Axborot xavfsizligining uchta asosiy tamoyili qaysilar?",
+      "question": "Sun'iy intellekt bo'yicha: Axborot xavfsizligining uchta asosiy tamoyili qaysilar?",
       "options": [
         {
           "id": "A",
@@ -3884,7 +3884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-156",
-      "question": "Fayllarni siqish (arxivlash)dan asosiy maqsad nima?",
+      "question": "Sun'iy intellekt bo'yicha: Fayllarni siqish (arxivlash)dan asosiy maqsad nima?",
       "options": [
         {
           "id": "A",
@@ -3909,7 +3909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-157",
-      "question": "Quyidagilardan qaysi biri operatsion sistema hisoblanadi?",
+      "question": "Sun'iy intellekt bo'yicha: Quyidagilardan qaysi biri operatsion sistema hisoblanadi?",
       "options": [
         {
           "id": "A",
@@ -3934,7 +3934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-158",
-      "question": "Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?",
+      "question": "Sun'iy intellekt bo'yicha: Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?",
       "options": [
         {
           "id": "A",
@@ -3959,7 +3959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-159",
-      "question": "Microsoft kompaniyasining asoschisi kim?",
+      "question": "Sun'iy intellekt bo'yicha: Microsoft kompaniyasining asoschisi kim?",
       "options": [
         {
           "id": "A",
@@ -3984,7 +3984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-160",
-      "question": "Apple kompaniyasining asoschilari kimlar?",
+      "question": "Sun'iy intellekt bo'yicha: Apple kompaniyasining asoschilari kimlar?",
       "options": [
         {
           "id": "A",
@@ -4009,7 +4009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-161",
-      "question": "Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?",
+      "question": "Sun'iy intellekt bo'yicha: Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?",
       "options": [
         {
           "id": "A",
@@ -4134,7 +4134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-166",
-      "question": "«8» quyidagi qaysi savolning to'g'ri javobi? (1 bayt = 8 bit.)",
+      "question": "Sun'iy intellekt bo'yicha: «8» quyidagi qaysi savolning to'g'ri javobi? (1 bayt = 8 bit.)",
       "options": [
         {
           "id": "A",
@@ -4159,7 +4159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-167",
-      "question": "«Protsessor» quyidagi qaysi savolning to'g'ri javobi? (Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessor» quyidagi qaysi savolning to'g'ri javobi? (Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi.)",
       "options": [
         {
           "id": "A",
@@ -4184,7 +4184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-168",
-      "question": "«Web sahifa tuzilmasini yaratish» quyidagi qaysi savolning to'g'ri javobi? (HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir.)",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifa tuzilmasini yaratish» quyidagi qaysi savolning to'g'ri javobi? (HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir.)",
       "options": [
         {
           "id": "A",
@@ -4209,7 +4209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-169",
-      "question": "«10» quyidagi qaysi savolning to'g'ri javobi? (1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10.)",
+      "question": "Sun'iy intellekt bo'yicha: «10» quyidagi qaysi savolning to'g'ri javobi? (1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10.)",
       "options": [
         {
           "id": "A",
@@ -4234,7 +4234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-170",
-      "question": "«1024 bayt» quyidagi qaysi savolning to'g'ri javobi? (1 KB = 2¹⁰ bayt = 1024 bayt.)",
+      "question": "Sun'iy intellekt bo'yicha: «1024 bayt» quyidagi qaysi savolning to'g'ri javobi? (1 KB = 2¹⁰ bayt = 1024 bayt.)",
       "options": [
         {
           "id": "A",
@@ -4259,7 +4259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-171",
-      "question": "«1024 KB» quyidagi qaysi savolning to'g'ri javobi? (1 MB = 1024 KB = 2²⁰ bayt.)",
+      "question": "Sun'iy intellekt bo'yicha: «1024 KB» quyidagi qaysi savolning to'g'ri javobi? (1 MB = 1024 KB = 2²⁰ bayt.)",
       "options": [
         {
           "id": "A",
@@ -4284,7 +4284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-172",
-      "question": "«1024 MB» quyidagi qaysi savolning to'g'ri javobi? (1 GB = 1024 MB.)",
+      "question": "Sun'iy intellekt bo'yicha: «1024 MB» quyidagi qaysi savolning to'g'ri javobi? (1 GB = 1024 MB.)",
       "options": [
         {
           "id": "A",
@@ -4309,7 +4309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-173",
-      "question": "«1 bayt (8 bit)» quyidagi qaysi savolning to'g'ri javobi? (Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «1 bayt (8 bit)» quyidagi qaysi savolning to'g'ri javobi? (Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi.)",
       "options": [
         {
           "id": "A",
@@ -4334,7 +4334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-174",
-      "question": "«2 bayt (16 bit)» quyidagi qaysi savolning to'g'ri javobi? (Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi.)",
+      "question": "Sun'iy intellekt bo'yicha: «2 bayt (16 bit)» quyidagi qaysi savolning to'g'ri javobi? (Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi.)",
       "options": [
         {
           "id": "A",
@@ -4359,7 +4359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-175",
-      "question": "«N = 2^i» quyidagi qaysi savolning to'g'ri javobi? (N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit).)",
+      "question": "Sun'iy intellekt bo'yicha: «N = 2^i» quyidagi qaysi savolning to'g'ri javobi? (N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit).)",
       "options": [
         {
           "id": "A",
@@ -4384,7 +4384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-176",
-      "question": "«A, B, C, D, E, F» quyidagi qaysi savolning to'g'ri javobi? (O'n oltilikda 10 dan 15 gacha harflar qo'llanadi.)",
+      "question": "Sun'iy intellekt bo'yicha: «A, B, C, D, E, F» quyidagi qaysi savolning to'g'ri javobi? (O'n oltilikda 10 dan 15 gacha harflar qo'llanadi.)",
       "options": [
         {
           "id": "A",
@@ -4409,7 +4409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-177",
-      "question": "«15» quyidagi qaysi savolning to'g'ri javobi? (8 + 4 + 2 + 1 = 15.)",
+      "question": "Sun'iy intellekt bo'yicha: «15» quyidagi qaysi savolning to'g'ri javobi? (8 + 4 + 2 + 1 = 15.)",
       "options": [
         {
           "id": "A",
@@ -4434,7 +4434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-178",
-      "question": "«10000» quyidagi qaysi savolning to'g'ri javobi? (16 = 2⁴ = 10000₂.)",
+      "question": "Sun'iy intellekt bo'yicha: «10000» quyidagi qaysi savolning to'g'ri javobi? (16 = 2⁴ = 10000₂.)",
       "options": [
         {
           "id": "A",
@@ -4459,7 +4459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-179",
-      "question": "«7» quyidagi qaysi savolning to'g'ri javobi? (Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «7» quyidagi qaysi savolning to'g'ri javobi? (Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi.)",
       "options": [
         {
           "id": "A",
@@ -4484,7 +4484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-180",
-      "question": "«26» quyidagi qaysi savolning to'g'ri javobi? (1·16¹ + 10·16⁰ = 16 + 10 = 26.)",
+      "question": "Sun'iy intellekt bo'yicha: «26» quyidagi qaysi savolning to'g'ri javobi? (1·16¹ + 10·16⁰ = 16 + 10 = 26.)",
       "options": [
         {
           "id": "A",
@@ -4509,7 +4509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-181",
-      "question": "«Operativ xotira (RAM)» quyidagi qaysi savolning to'g'ri javobi? (RAM - energiyaga bog'liq tezkor xotiradir.)",
+      "question": "Sun'iy intellekt bo'yicha: «Operativ xotira (RAM)» quyidagi qaysi savolning to'g'ri javobi? (RAM - energiyaga bog'liq tezkor xotiradir.)",
       "options": [
         {
           "id": "A",
@@ -4534,7 +4534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-182",
-      "question": "«BIOS dasturlari va dastlabki yuklash ko'rsatmalari» quyidagi qaysi savolning to'g'ri javobi? (ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «BIOS dasturlari va dastlabki yuklash ko'rsatmalari» quyidagi qaysi savolning to'g'ri javobi? (ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi.)",
       "options": [
         {
           "id": "A",
@@ -4559,7 +4559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-183",
-      "question": "«Protsessor va operativ xotira o'rtasidagi ma'lumot almashinuvini tezlashtiradi» quyidagi qaysi savolning to'g'ri javobi? (Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir.)",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessor va operativ xotira o'rtasidagi ma'lumot almashinuvini tezlashtiradi» quyidagi qaysi savolning to'g'ri javobi? (Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir.)",
       "options": [
         {
           "id": "A",
@@ -4584,7 +4584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-184",
-      "question": "«Qattiq disk (HDD)» quyidagi qaysi savolning to'g'ri javobi? (HDD magnit disklar asosida ishlaydi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Qattiq disk (HDD)» quyidagi qaysi savolning to'g'ri javobi? (HDD magnit disklar asosida ishlaydi.)",
       "options": [
         {
           "id": "A",
@@ -4609,7 +4609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-185",
-      "question": "«SSD (Solid State Drive)» quyidagi qaysi savolning to'g'ri javobi? (SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi.)",
+      "question": "Sun'iy intellekt bo'yicha: «SSD (Solid State Drive)» quyidagi qaysi savolning to'g'ri javobi? (SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi.)",
       "options": [
         {
           "id": "A",
@@ -4634,7 +4634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-186",
-      "question": "«Gers (Gs, MGs, GGs)» quyidagi qaysi savolning to'g'ri javobi? (Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Gers (Gs, MGs, GGs)» quyidagi qaysi savolning to'g'ri javobi? (Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi.)",
       "options": [
         {
           "id": "A",
@@ -4659,7 +4659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-187",
-      "question": "«Skaner» quyidagi qaysi savolning to'g'ri javobi? (Skaner qog'ozdagi tasvirni kompyuterga kiritadi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Skaner» quyidagi qaysi savolning to'g'ri javobi? (Skaner qog'ozdagi tasvirni kompyuterga kiritadi.)",
       "options": [
         {
           "id": "A",
@@ -4684,7 +4684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-188",
-      "question": "«Printer» quyidagi qaysi savolning to'g'ri javobi? (Printer raqamli ma'lumotni qog'ozga chiqaradi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Printer» quyidagi qaysi savolning to'g'ri javobi? (Printer raqamli ma'lumotni qog'ozga chiqaradi.)",
       "options": [
         {
           "id": "A",
@@ -4709,7 +4709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-189",
-      "question": "«Plotter (grafik yasagich)» quyidagi qaysi savolning to'g'ri javobi? (Plotter katta o'lchamli chizmalar uchun ishlatiladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Plotter (grafik yasagich)» quyidagi qaysi savolning to'g'ri javobi? (Plotter katta o'lchamli chizmalar uchun ishlatiladi.)",
       "options": [
         {
           "id": "A",
@@ -4734,7 +4734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-190",
-      "question": "«Ikkala mulohaza ham chin (1) bo'lganda» quyidagi qaysi savolning to'g'ri javobi? (A AND B faqat 1 va 1 bo'lganda 1 bo'ladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Ikkala mulohaza ham chin (1) bo'lganda» quyidagi qaysi savolning to'g'ri javobi? (A AND B faqat 1 va 1 bo'lganda 1 bo'ladi.)",
       "options": [
         {
           "id": "A",
@@ -4759,7 +4759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-191",
-      "question": "«Ikkala mulohaza ham yolg'on (0) bo'lganda» quyidagi qaysi savolning to'g'ri javobi? (A OR B faqat 0 va 0 bo'lganda 0 ga teng.)",
+      "question": "Sun'iy intellekt bo'yicha: «Ikkala mulohaza ham yolg'on (0) bo'lganda» quyidagi qaysi savolning to'g'ri javobi? (A OR B faqat 0 va 0 bo'lganda 0 ga teng.)",
       "options": [
         {
           "id": "A",
@@ -4784,7 +4784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-192",
-      "question": "«Unar amal bo'lib, chin qiymatni yolg'onga, yolg'onni chinga aylantiradi» quyidagi qaysi savolning to'g'ri javobi? (NOT 1 = 0, NOT 0 = 1.)",
+      "question": "Sun'iy intellekt bo'yicha: «Unar amal bo'lib, chin qiymatni yolg'onga, yolg'onni chinga aylantiradi» quyidagi qaysi savolning to'g'ri javobi? (NOT 1 = 0, NOT 0 = 1.)",
       "options": [
         {
           "id": "A",
@@ -4809,7 +4809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-193",
-      "question": "«Diskretlik, tushunarlilik, aniqlik (determinallik), ommaviylik, natijaviylik» quyidagi qaysi savolning to'g'ri javobi? (Algoritm 5 ta asosiy xossaga ega.)",
+      "question": "Sun'iy intellekt bo'yicha: «Diskretlik, tushunarlilik, aniqlik (determinallik), ommaviylik, natijaviylik» quyidagi qaysi savolning to'g'ri javobi? (Algoritm 5 ta asosiy xossaga ega.)",
       "options": [
         {
           "id": "A",
@@ -4834,7 +4834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-194",
-      "question": "«Romb» quyidagi qaysi savolning to'g'ri javobi? (Romb ichiga shart yoziladi (ha/yo'q).)",
+      "question": "Sun'iy intellekt bo'yicha: «Romb» quyidagi qaysi savolning to'g'ri javobi? (Romb ichiga shart yoziladi (ha/yo'q).)",
       "options": [
         {
           "id": "A",
@@ -4859,7 +4859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-195",
-      "question": "«Parallelogramm» quyidagi qaysi savolning to'g'ri javobi? (Parallelogramm kiritish-chiqarish blokidir.)",
+      "question": "Sun'iy intellekt bo'yicha: «Parallelogramm» quyidagi qaysi savolning to'g'ri javobi? (Parallelogramm kiritish-chiqarish blokidir.)",
       "options": [
         {
           "id": "A",
@@ -4884,7 +4884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-196",
-      "question": "«To'g'ri to'rtburchak» quyidagi qaysi savolning to'g'ri javobi? (Amal yoki hisoblash to'g'ri to'rtburchakda beriladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «To'g'ri to'rtburchak» quyidagi qaysi savolning to'g'ri javobi? (Amal yoki hisoblash to'g'ri to'rtburchakda beriladi.)",
       "options": [
         {
           "id": "A",
@@ -4909,7 +4909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-197",
-      "question": "«Oval (ellips)» quyidagi qaysi savolning to'g'ri javobi? (Boshlash va tamom oval ichiga yoziladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Oval (ellips)» quyidagi qaysi savolning to'g'ri javobi? (Boshlash va tamom oval ichiga yoziladi.)",
       "options": [
         {
           "id": "A",
@@ -4934,7 +4934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-198",
-      "question": "«//» quyidagi qaysi savolning to'g'ri javobi? (Masalan: 7 // 2 = 3.)",
+      "question": "Sun'iy intellekt bo'yicha: «//» quyidagi qaysi savolning to'g'ri javobi? (Masalan: 7 // 2 = 3.)",
       "options": [
         {
           "id": "A",
@@ -4959,7 +4959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-199",
-      "question": "«%» quyidagi qaysi savolning to'g'ri javobi? (Masalan: 7 % 2 = 1.)",
+      "question": "Sun'iy intellekt bo'yicha: «%» quyidagi qaysi savolning to'g'ri javobi? (Masalan: 7 % 2 = 1.)",
       "options": [
         {
           "id": "A",
@@ -4984,7 +4984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-200",
-      "question": "«**» quyidagi qaysi savolning to'g'ri javobi? (Masalan: 2 ** 3 = 8.)",
+      "question": "Sun'iy intellekt bo'yicha: «**» quyidagi qaysi savolning to'g'ri javobi? (Masalan: 2 ** 3 = 8.)",
       "options": [
         {
           "id": "A",
@@ -5009,7 +5009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-201",
-      "question": "«int» quyidagi qaysi savolning to'g'ri javobi? (int - integer (butun son).)",
+      "question": "Sun'iy intellekt bo'yicha: «int» quyidagi qaysi savolning to'g'ri javobi? (int - integer (butun son).)",
       "options": [
         {
           "id": "A",
@@ -5034,7 +5034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-202",
-      "question": "«float» quyidagi qaysi savolning to'g'ri javobi? (float - suzuvchi vergulli son.)",
+      "question": "Sun'iy intellekt bo'yicha: «float» quyidagi qaysi savolning to'g'ri javobi? (float - suzuvchi vergulli son.)",
       "options": [
         {
           "id": "A",
@@ -5059,7 +5059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-203",
-      "question": "«str (string)» quyidagi qaysi savolning to'g'ri javobi? (str - qo'shtirnoq ichidagi matn.)",
+      "question": "Sun'iy intellekt bo'yicha: «str (string)» quyidagi qaysi savolning to'g'ri javobi? (str - qo'shtirnoq ichidagi matn.)",
       "options": [
         {
           "id": "A",
@@ -5084,7 +5084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-204",
-      "question": "«<a>» quyidagi qaysi savolning to'g'ri javobi? (<a href='...'>Havola matni</a>.)",
+      "question": "Sun'iy intellekt bo'yicha: «<a>» quyidagi qaysi savolning to'g'ri javobi? (<a href='...'>Havola matni</a>.)",
       "options": [
         {
           "id": "A",
@@ -5109,7 +5109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-205",
-      "question": "«<img>» quyidagi qaysi savolning to'g'ri javobi? (<img src='...' alt='...'>.)",
+      "question": "Sun'iy intellekt bo'yicha: «<img>» quyidagi qaysi savolning to'g'ri javobi? (<img src='...' alt='...'>.)",
       "options": [
         {
           "id": "A",
@@ -5134,7 +5134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-206",
-      "question": "«<h1>» quyidagi qaysi savolning to'g'ri javobi? (h1 eng katta sarlavha, h6 eng kichigi.)",
+      "question": "Sun'iy intellekt bo'yicha: «<h1>» quyidagi qaysi savolning to'g'ri javobi? (h1 eng katta sarlavha, h6 eng kichigi.)",
       "options": [
         {
           "id": "A",
@@ -5159,7 +5159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-207",
-      "question": "«<ol>» quyidagi qaysi savolning to'g'ri javobi? (ol - ordered list, ul - unordered list.)",
+      "question": "Sun'iy intellekt bo'yicha: «<ol>» quyidagi qaysi savolning to'g'ri javobi? (ol - ordered list, ul - unordered list.)",
       "options": [
         {
           "id": "A",
@@ -5184,7 +5184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-208",
-      "question": "«Web sahifaning tashqi ko'rinishi va dizaynini bezash» quyidagi qaysi savolning to'g'ri javobi? (CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifaning tashqi ko'rinishi va dizaynini bezash» quyidagi qaysi savolning to'g'ri javobi? (CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi.)",
       "options": [
         {
           "id": "A",
@@ -5209,7 +5209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-209",
-      "question": "«4 bayt (32 bit, masalan: 192.168.1.1)» quyidagi qaysi savolning to'g'ri javobi? (IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir.)",
+      "question": "Sun'iy intellekt bo'yicha: «4 bayt (32 bit, masalan: 192.168.1.1)» quyidagi qaysi savolning to'g'ri javobi? (IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir.)",
       "options": [
         {
           "id": "A",
@@ -5234,7 +5234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-210",
-      "question": "«Domen nomlarini (masalan, google.com) IP manzilga aylantirib berish» quyidagi qaysi savolning to'g'ri javobi? (DNS inson tushunadigan nomni kompyuter IP siga o'giradi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Domen nomlarini (masalan, google.com) IP manzilga aylantirib berish» quyidagi qaysi savolning to'g'ri javobi? (DNS inson tushunadigan nomni kompyuter IP siga o'giradi.)",
       "options": [
         {
           "id": "A",
@@ -5259,7 +5259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-211",
-      "question": "«MAC-manzil» quyidagi qaysi savolning to'g'ri javobi? (MAC address 48 bitli unikal apparat manzilidir.)",
+      "question": "Sun'iy intellekt bo'yicha: «MAC-manzil» quyidagi qaysi savolning to'g'ri javobi? (MAC address 48 bitli unikal apparat manzilidir.)",
       "options": [
         {
           "id": "A",
@@ -5284,7 +5284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-212",
-      "question": "«FTP» quyidagi qaysi savolning to'g'ri javobi? (FTP - File Transfer Protocol.)",
+      "question": "Sun'iy intellekt bo'yicha: «FTP» quyidagi qaysi savolning to'g'ri javobi? (FTP - File Transfer Protocol.)",
       "options": [
         {
           "id": "A",
@@ -5309,7 +5309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-213",
-      "question": "«SMTP» quyidagi qaysi savolning to'g'ri javobi? (SMTP - Simple Mail Transfer Protocol.)",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP» quyidagi qaysi savolning to'g'ri javobi? (SMTP - Simple Mail Transfer Protocol.)",
       "options": [
         {
           "id": "A",
@@ -5334,7 +5334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-214",
-      "question": "«O'zaro bog'langan jadvallar ko'rinishida» quyidagi qaysi savolning to'g'ri javobi? (Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan.)",
+      "question": "Sun'iy intellekt bo'yicha: «O'zaro bog'langan jadvallar ko'rinishida» quyidagi qaysi savolning to'g'ri javobi? (Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan.)",
       "options": [
         {
           "id": "A",
@@ -5359,7 +5359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-215",
-      "question": "«Yozuv (kortej / record)» quyidagi qaysi savolning to'g'ri javobi? (Jadval satri bitta ob'ektga tegishli 'yozuv'dir.)",
+      "question": "Sun'iy intellekt bo'yicha: «Yozuv (kortej / record)» quyidagi qaysi savolning to'g'ri javobi? (Jadval satri bitta ob'ektga tegishli 'yozuv'dir.)",
       "options": [
         {
           "id": "A",
@@ -5384,7 +5384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-216",
-      "question": "«Maydon (field / atribut)» quyidagi qaysi savolning to'g'ri javobi? (Ustunlar ob'ektning xossasi yoki 'maydon'idir.)",
+      "question": "Sun'iy intellekt bo'yicha: «Maydon (field / atribut)» quyidagi qaysi savolning to'g'ri javobi? (Ustunlar ob'ektning xossasi yoki 'maydon'idir.)",
       "options": [
         {
           "id": "A",
@@ -5409,7 +5409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-217",
-      "question": "«Birlamchi kalit (Primary Key)» quyidagi qaysi savolning to'g'ri javobi? (Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Birlamchi kalit (Primary Key)» quyidagi qaysi savolning to'g'ri javobi? (Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi.)",
       "options": [
         {
           "id": "A",
@@ -5434,7 +5434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-218",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» quyidagi qaysi savolning to'g'ri javobi? (Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ish…)",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» quyidagi qaysi savolning to'g'ri javobi? (Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ish…)",
       "options": [
         {
           "id": "A",
@@ -5459,7 +5459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-219",
-      "question": "«Markaziy protsessor (CPU)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Markaziy protsessor (CPU)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5484,7 +5484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-220",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» quyidagi qaysi savolning to'g'ri javobi? (Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saq…)",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» quyidagi qaysi savolning to'g'ri javobi? (Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saq…)",
       "options": [
         {
           "id": "A",
@@ -5509,7 +5509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-221",
-      "question": "«Operativ xotira (RAM)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Operativ xotira (RAM)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5534,7 +5534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-222",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» quyidagi qaysi savolning to'g'ri javobi? (Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini…)",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» quyidagi qaysi savolning to'g'ri javobi? (Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini…)",
       "options": [
         {
           "id": "A",
@@ -5559,7 +5559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-223",
-      "question": "«Doimiy xotira (ROM)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Doimiy xotira (ROM)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5584,7 +5584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-224",
-      "question": "«Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish» quyidagi qaysi savolning to'g'ri javobi? (Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezlig…)",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish» quyidagi qaysi savolning to'g'ri javobi? (Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezlig…)",
       "options": [
         {
           "id": "A",
@@ -5609,7 +5609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-225",
-      "question": "«Kesh-xotira (Cache)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Kesh-xotira (Cache)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5634,7 +5634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-226",
-      "question": "«Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish» quyidagi qaysi savolning to'g'ri javobi? (Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish.)",
+      "question": "Sun'iy intellekt bo'yicha: «Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish» quyidagi qaysi savolning to'g'ri javobi? (Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish.)",
       "options": [
         {
           "id": "A",
@@ -5659,7 +5659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-227",
-      "question": "«Videokarta (GPU)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Videokarta (GPU)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Videokarta (GPU)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Videokarta (GPU)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5684,7 +5684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-228",
-      "question": "«Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata» quyidagi qaysi savolning to'g'ri javobi? (Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'l…)",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata» quyidagi qaysi savolning to'g'ri javobi? (Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'l…)",
       "options": [
         {
           "id": "A",
@@ -5709,7 +5709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-229",
-      "question": "«Ona plata (Motherboard)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Ona plata (Motherboard)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5734,7 +5734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-230",
-      "question": "«220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish» quyidagi qaysi savolning to'g'ri javobi? (Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'l…)",
+      "question": "Sun'iy intellekt bo'yicha: «220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish» quyidagi qaysi savolning to'g'ri javobi? (Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'l…)",
       "options": [
         {
           "id": "A",
@@ -5759,7 +5759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-231",
-      "question": "«Quvvat bloki (Power Supply)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Quvvat bloki (Power Supply)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5784,7 +5784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-232",
-      "question": "«Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli» quyidagi qaysi savolning to'g'ri javobi? (HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli» quyidagi qaysi savolning to'g'ri javobi? (HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli.)",
       "options": [
         {
           "id": "A",
@@ -5809,7 +5809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-233",
-      "question": "«HTTP / HTTPS» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'HTTP / HTTPS'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «HTTP / HTTPS» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'HTTP / HTTPS'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5834,7 +5834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-234",
-      "question": "«Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli» quyidagi qaysi savolning to'g'ri javobi? (FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzat…)",
+      "question": "Sun'iy intellekt bo'yicha: «Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli» quyidagi qaysi savolning to'g'ri javobi? (FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzat…)",
       "options": [
         {
           "id": "A",
@@ -5859,7 +5859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-235",
-      "question": "«FTP (File Transfer Protocol)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «FTP (File Transfer Protocol)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5884,7 +5884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-236",
-      "question": "«Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli» quyidagi qaysi savolning to'g'ri javobi? (SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qi…)",
+      "question": "Sun'iy intellekt bo'yicha: «Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli» quyidagi qaysi savolning to'g'ri javobi? (SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qi…)",
       "options": [
         {
           "id": "A",
@@ -5909,7 +5909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-237",
-      "question": "«SMTP (Simple Mail Transfer Protocol)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP (Simple Mail Transfer Protocol)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5934,7 +5934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-238",
-      "question": "«Elektron pochta serveridan xatlarni qabul qilib olish protokollari» quyidagi qaysi savolning to'g'ri javobi? (POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari.)",
+      "question": "Sun'iy intellekt bo'yicha: «Elektron pochta serveridan xatlarni qabul qilib olish protokollari» quyidagi qaysi savolning to'g'ri javobi? (POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari.)",
       "options": [
         {
           "id": "A",
@@ -5959,7 +5959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-239",
-      "question": "«POP3 va IMAP» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'POP3 va IMAP'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «POP3 va IMAP» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'POP3 va IMAP'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -5984,7 +5984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-240",
-      "question": "«Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish» quyidagi qaysi savolning to'g'ri javobi? (DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda d…)",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish» quyidagi qaysi savolning to'g'ri javobi? (DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda d…)",
       "options": [
         {
           "id": "A",
@@ -6009,7 +6009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-241",
-      "question": "«DHCP (Dynamic Host Configuration Protocol)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «DHCP (Dynamic Host Configuration Protocol)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6034,7 +6034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-242",
-      "question": "«Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili» quyidagi qaysi savolning to'g'ri javobi? (IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy un…)",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili» quyidagi qaysi savolning to'g'ri javobi? (IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy un…)",
       "options": [
         {
           "id": "A",
@@ -6059,7 +6059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-243",
-      "question": "«IP manzil» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'IP manzil'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «IP manzil» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'IP manzil'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6084,7 +6084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-244",
-      "question": "«Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili» quyidagi qaysi savolning to'g'ri javobi? (MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy app…)",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili» quyidagi qaysi savolning to'g'ri javobi? (MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy app…)",
       "options": [
         {
           "id": "A",
@@ -6109,7 +6109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-245",
-      "question": "«MAC manzil» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'MAC manzil'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «MAC manzil» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'MAC manzil'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6134,7 +6134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-246",
-      "question": "«Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma» quyidagi qaysi savolning to'g'ri javobi? (Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalis…)",
+      "question": "Sun'iy intellekt bo'yicha: «Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma» quyidagi qaysi savolning to'g'ri javobi? (Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalis…)",
       "options": [
         {
           "id": "A",
@@ -6159,7 +6159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-247",
-      "question": "«Marshrutizator (Router)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Marshrutizator (Router)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6184,7 +6184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-248",
-      "question": "«Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma» quyidagi qaysi savolning to'g'ri javobi? (Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC…)",
+      "question": "Sun'iy intellekt bo'yicha: «Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma» quyidagi qaysi savolning to'g'ri javobi? (Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC…)",
       "options": [
         {
           "id": "A",
@@ -6209,7 +6209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-249",
-      "question": "«Kommutator (Switch)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Kommutator (Switch)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Kommutator (Switch)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Kommutator (Switch)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6234,7 +6234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-250",
-      "question": "«Microsoft Word matnli hujjati fayl kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Microsoft Word matnli hujjati fayl kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi.)",
       "options": [
         {
           "id": "A",
@@ -6259,7 +6259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-251",
-      "question": "«.docx / .doc» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.docx / .doc'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.docx / .doc» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.docx / .doc'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6284,7 +6284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-252",
-      "question": "«Microsoft Excel elektron jadvali fayl kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Microsoft Excel elektron jadvali fayl kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi.)",
       "options": [
         {
           "id": "A",
@@ -6309,7 +6309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-253",
-      "question": "«.xlsx / .xls» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.xlsx / .xls'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.xlsx / .xls» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.xlsx / .xls'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6334,7 +6334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-254",
-      "question": "«Microsoft PowerPoint taqdimot fayli kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Microsoft PowerPoint taqdimot fayli kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi.)",
       "options": [
         {
           "id": "A",
@@ -6359,7 +6359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-255",
-      "question": "«.pptx / .ppt» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.pptx / .ppt'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.pptx / .ppt» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.pptx / .ppt'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6384,7 +6384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-256",
-      "question": "«Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli» quyidagi qaysi savolning to'g'ri javobi? (.html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli» quyidagi qaysi savolning to'g'ri javobi? (.html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli.)",
       "options": [
         {
           "id": "A",
@@ -6409,7 +6409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-257",
-      "question": "«.html / .htm» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.html / .htm'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.html / .htm» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.html / .htm'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6434,7 +6434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-258",
-      "question": "«Raqamli audio (tovush) fayllari formati» quyidagi qaysi savolning to'g'ri javobi? (.mp3 / .wav - Raqamli audio (tovush) fayllari formati.)",
+      "question": "Sun'iy intellekt bo'yicha: «Raqamli audio (tovush) fayllari formati» quyidagi qaysi savolning to'g'ri javobi? (.mp3 / .wav - Raqamli audio (tovush) fayllari formati.)",
       "options": [
         {
           "id": "A",
@@ -6459,7 +6459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-259",
-      "question": "«.mp3 / .wav» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.mp3 / .wav'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.mp3 / .wav» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.mp3 / .wav'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6484,7 +6484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-260",
-      "question": "«Raqamli video fayllari kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Raqamli video fayllari kengaytmasi» quyidagi qaysi savolning to'g'ri javobi? (.mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi.)",
       "options": [
         {
           "id": "A",
@@ -6509,7 +6509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-261",
-      "question": "«.mp4 / .avi / .mkv» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.mp4 / .avi / .mkv» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6534,7 +6534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-262",
-      "question": "«Raqamli rastrli va vektorli grafik tasvirlar formati» quyidagi qaysi savolning to'g'ri javobi? (.jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati.)",
+      "question": "Sun'iy intellekt bo'yicha: «Raqamli rastrli va vektorli grafik tasvirlar formati» quyidagi qaysi savolning to'g'ri javobi? (.jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati.)",
       "options": [
         {
           "id": "A",
@@ -6559,7 +6559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-263",
-      "question": "«.jpg / .png / .svg» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.jpg / .png / .svg'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.jpg / .png / .svg» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.jpg / .png / .svg'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6584,7 +6584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-264",
-      "question": "«Hajmni kichraytirish va arxivlash dasturlari fayli» quyidagi qaysi savolning to'g'ri javobi? (.zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Hajmni kichraytirish va arxivlash dasturlari fayli» quyidagi qaysi savolning to'g'ri javobi? (.zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli.)",
       "options": [
         {
           "id": "A",
@@ -6609,7 +6609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-265",
-      "question": "«.zip / .rar / .7z» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.zip / .rar / .7z'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.zip / .rar / .7z» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.zip / .rar / .7z'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6634,7 +6634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-266",
-      "question": "«Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli» quyidagi qaysi savolning to'g'ri javobi? (.exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli» quyidagi qaysi savolning to'g'ri javobi? (.exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli.)",
       "options": [
         {
           "id": "A",
@@ -6659,7 +6659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-267",
-      "question": "«.exe / .msi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.exe / .msi'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «.exe / .msi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '.exe / .msi'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6684,7 +6684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-268",
-      "question": "«Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar» quyidagi qaysi savolning to'g'ri javobi? (Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta…)",
+      "question": "Sun'iy intellekt bo'yicha: «Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar» quyidagi qaysi savolning to'g'ri javobi? (Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta…)",
       "options": [
         {
           "id": "A",
@@ -6709,7 +6709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-269",
-      "question": "«Tizimli dasturiy ta'minot» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Tizimli dasturiy ta'minot» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6734,7 +6734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-270",
-      "question": "«Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)» quyidagi qaysi savolning to'g'ri javobi? (Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan…)",
+      "question": "Sun'iy intellekt bo'yicha: «Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)» quyidagi qaysi savolning to'g'ri javobi? (Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan…)",
       "options": [
         {
           "id": "A",
@@ -6759,7 +6759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-271",
-      "question": "«Amaliy dasturiy ta'minot» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Amaliy dasturiy ta'minot» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6784,7 +6784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-272",
-      "question": "«Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur» quyidagi qaysi savolning to'g'ri javobi? (Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtas…)",
+      "question": "Sun'iy intellekt bo'yicha: «Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur» quyidagi qaysi savolning to'g'ri javobi? (Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtas…)",
       "options": [
         {
           "id": "A",
@@ -6809,7 +6809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-273",
-      "question": "«Drayver» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Drayver'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Drayver» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Drayver'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6834,7 +6834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-274",
-      "question": "«Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim» quyidagi qaysi savolning to'g'ri javobi? (BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi…)",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim» quyidagi qaysi savolning to'g'ri javobi? (BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi…)",
       "options": [
         {
           "id": "A",
@@ -6859,7 +6859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-275",
-      "question": "«BIOS (Basic Input/Output System)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «BIOS (Basic Input/Output System)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6884,7 +6884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-276",
-      "question": "«Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi» quyidagi qaysi savolning to'g'ri javobi? (Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash,…)",
+      "question": "Sun'iy intellekt bo'yicha: «Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi» quyidagi qaysi savolning to'g'ri javobi? (Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash,…)",
       "options": [
         {
           "id": "A",
@@ -6909,7 +6909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-277",
-      "question": "«Antivirus dasturi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Antivirus dasturi'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Antivirus dasturi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Antivirus dasturi'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6934,7 +6934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-278",
-      "question": "«Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha» quyidagi qaysi savolning to'g'ri javobi? (O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi…)",
+      "question": "Sun'iy intellekt bo'yicha: «Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha» quyidagi qaysi savolning to'g'ri javobi? (O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi…)",
       "options": [
         {
           "id": "A",
@@ -6959,7 +6959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-279",
-      "question": "«O'zgaruvchi (Variable)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «O'zgaruvchi (Variable)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -6984,7 +6984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-280",
-      "question": "«Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma» quyidagi qaysi savolning to'g'ri javobi? (Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'pla…)",
+      "question": "Sun'iy intellekt bo'yicha: «Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma» quyidagi qaysi savolning to'g'ri javobi? (Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'pla…)",
       "options": [
         {
           "id": "A",
@@ -7009,7 +7009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-281",
-      "question": "«Massiv (Ro'yxat / List)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Massiv (Ro'yxat / List)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7034,7 +7034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-282",
-      "question": "«Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki» quyidagi qaysi savolning to'g'ri javobi? (Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ish…)",
+      "question": "Sun'iy intellekt bo'yicha: «Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki» quyidagi qaysi savolning to'g'ri javobi? (Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ish…)",
       "options": [
         {
           "id": "A",
@@ -7059,7 +7059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-283",
-      "question": "«Funksiya (Function)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Funksiya (Function)'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Funksiya (Function)» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Funksiya (Function)'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7084,7 +7084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-284",
-      "question": "«Funksiyaning o'zini o'zi qayta chaqirishi hodisasi» quyidagi qaysi savolning to'g'ri javobi? (Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi.)",
+      "question": "Sun'iy intellekt bo'yicha: «Funksiyaning o'zini o'zi qayta chaqirishi hodisasi» quyidagi qaysi savolning to'g'ri javobi? (Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi.)",
       "options": [
         {
           "id": "A",
@@ -7109,7 +7109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-285",
-      "question": "«Rekursiya» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Rekursiya'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Rekursiya» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Rekursiya'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7134,7 +7134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-286",
-      "question": "«Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita» quyidagi qaysi savolning to'g'ri javobi? (Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik k…)",
+      "question": "Sun'iy intellekt bo'yicha: «Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita» quyidagi qaysi savolning to'g'ri javobi? (Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik k…)",
       "options": [
         {
           "id": "A",
@@ -7159,7 +7159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-287",
-      "question": "«Kompilyator» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Kompilyator'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Kompilyator» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Kompilyator'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7184,7 +7184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-288",
-      "question": "«Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)» quyidagi qaysi savolning to'g'ri javobi? (Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan,…)",
+      "question": "Sun'iy intellekt bo'yicha: «Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)» quyidagi qaysi savolning to'g'ri javobi? (Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan,…)",
       "options": [
         {
           "id": "A",
@@ -7209,7 +7209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-289",
-      "question": "«Interpretator» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Interpretator'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «Interpretator» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'Interpretator'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7234,7 +7234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-290",
-      "question": "«HTML tilida jadval yaratish uchun ochiladigan bosh teg» quyidagi qaysi savolning to'g'ri javobi? (<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg.)",
+      "question": "Sun'iy intellekt bo'yicha: «HTML tilida jadval yaratish uchun ochiladigan bosh teg» quyidagi qaysi savolning to'g'ri javobi? (<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg.)",
       "options": [
         {
           "id": "A",
@@ -7259,7 +7259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-291",
-      "question": "«<table> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<table> tegi'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «<table> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<table> tegi'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7284,7 +7284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-292",
-      "question": "«HTML jadvalida yangi satr (qator) hosil qiluvchi teg» quyidagi qaysi savolning to'g'ri javobi? (<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg.)",
+      "question": "Sun'iy intellekt bo'yicha: «HTML jadvalida yangi satr (qator) hosil qiluvchi teg» quyidagi qaysi savolning to'g'ri javobi? (<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg.)",
       "options": [
         {
           "id": "A",
@@ -7309,7 +7309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-293",
-      "question": "«<tr> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<tr> tegi'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «<tr> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<tr> tegi'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7334,7 +7334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-294",
-      "question": "«HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg» quyidagi qaysi savolning to'g'ri javobi? (<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi…)",
+      "question": "Sun'iy intellekt bo'yicha: «HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg» quyidagi qaysi savolning to'g'ri javobi? (<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi…)",
       "options": [
         {
           "id": "A",
@@ -7359,7 +7359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-295",
-      "question": "«<td> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<td> tegi'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «<td> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<td> tegi'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7384,7 +7384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-296",
-      "question": "«Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi» quyidagi qaysi savolning to'g'ri javobi? (<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun sha…)",
+      "question": "Sun'iy intellekt bo'yicha: «Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi» quyidagi qaysi savolning to'g'ri javobi? (<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun sha…)",
       "options": [
         {
           "id": "A",
@@ -7409,7 +7409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-297",
-      "question": "«<form> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<form> tegi'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «<form> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<form> tegi'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7434,7 +7434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-298",
-      "question": "«Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg» quyidagi qaysi savolning to'g'ri javobi? (<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radi…)",
+      "question": "Sun'iy intellekt bo'yicha: «Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg» quyidagi qaysi savolning to'g'ri javobi? (<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radi…)",
       "options": [
         {
           "id": "A",
@@ -7459,7 +7459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-299",
-      "question": "«<input> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<input> tegi'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «<input> tegi» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif '<input> tegi'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7484,7 +7484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-300",
-      "question": "«Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili» quyidagi qaysi savolning to'g'ri javobi? (JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash…)",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili» quyidagi qaysi savolning to'g'ri javobi? (JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash…)",
       "options": [
         {
           "id": "A",
@@ -7509,7 +7509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-301",
-      "question": "«JavaScript» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'JavaScript'ga tegishli.)",
+      "question": "Sun'iy intellekt bo'yicha: «JavaScript» quyidagi qaysi savolning to'g'ri javobi? (Ushbu ta'rif 'JavaScript'ga tegishli.)",
       "options": [
         {
           "id": "A",
@@ -7534,7 +7534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-302",
-      "question": "«print()» quyidagi qaysi savolning to'g'ri javobi? (print() orqali natija konsolga chiqariladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «print()» quyidagi qaysi savolning to'g'ri javobi? (print() orqali natija konsolga chiqariladi.)",
       "options": [
         {
           "id": "A",
@@ -7559,7 +7559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-303",
-      "question": "«input()» quyidagi qaysi savolning to'g'ri javobi? (input() klaviaturadan satr ko'rinishida qabul qiladi.)",
+      "question": "Sun'iy intellekt bo'yicha: «input()» quyidagi qaysi savolning to'g'ri javobi? (input() klaviaturadan satr ko'rinishida qabul qiladi.)",
       "options": [
         {
           "id": "A",
@@ -7584,7 +7584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-304",
-      "question": "«if» quyidagi qaysi savolning to'g'ri javobi? (if shart: ... elif ... else.)",
+      "question": "Sun'iy intellekt bo'yicha: «if» quyidagi qaysi savolning to'g'ri javobi? (if shart: ... elif ... else.)",
       "options": [
         {
           "id": "A",
@@ -7609,7 +7609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-305",
-      "question": "«def» quyidagi qaysi savolning to'g'ri javobi? (def funksiya_nomi(parametrlar): ...)",
+      "question": "Sun'iy intellekt bo'yicha: «def» quyidagi qaysi savolning to'g'ri javobi? (def funksiya_nomi(parametrlar): ...)",
       "options": [
         {
           "id": "A",
@@ -7634,7 +7634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-306",
-      "question": "«for» quyidagi qaysi savolning to'g'ri javobi? (for i in range(...): tsikli.)",
+      "question": "Sun'iy intellekt bo'yicha: «for» quyidagi qaysi savolning to'g'ri javobi? (for i in range(...): tsikli.)",
       "options": [
         {
           "id": "A",
@@ -7659,7 +7659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-307",
-      "question": "«while» quyidagi qaysi savolning to'g'ri javobi? (while shart: ... tsikli.)",
+      "question": "Sun'iy intellekt bo'yicha: «while» quyidagi qaysi savolning to'g'ri javobi? (while shart: ... tsikli.)",
       "options": [
         {
           "id": "A",
@@ -7684,7 +7684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-308",
-      "question": "«[ ] (to'rtburchak qavslar)» quyidagi qaysi savolning to'g'ri javobi? (Ro'yxat: a = [1, 2, 3].)",
+      "question": "Sun'iy intellekt bo'yicha: «[ ] (to'rtburchak qavslar)» quyidagi qaysi savolning to'g'ri javobi? (Ro'yxat: a = [1, 2, 3].)",
       "options": [
         {
           "id": "A",
@@ -7709,7 +7709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-309",
-      "question": "«( ) (oddiy qavslar)» quyidagi qaysi savolning to'g'ri javobi? (Kortej: a = (1, 2, 3).)",
+      "question": "Sun'iy intellekt bo'yicha: «( ) (oddiy qavslar)» quyidagi qaysi savolning to'g'ri javobi? (Kortej: a = (1, 2, 3).)",
       "options": [
         {
           "id": "A",
@@ -7734,7 +7734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-310",
-      "question": "«{kalit: qiymat}» quyidagi qaysi savolning to'g'ri javobi? (Lug'at: d = {'ism': 'Ali', 'yosh': 16}.)",
+      "question": "Sun'iy intellekt bo'yicha: «{kalit: qiymat}» quyidagi qaysi savolning to'g'ri javobi? (Lug'at: d = {'ism': 'Ali', 'yosh': 16}.)",
       "options": [
         {
           "id": "A",
@@ -7759,7 +7759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-311",
-      "question": "«len()» quyidagi qaysi savolning to'g'ri javobi? (len(a) ro'yxat yoki satr uzunligini qaytaradi.)",
+      "question": "Sun'iy intellekt bo'yicha: «len()» quyidagi qaysi savolning to'g'ri javobi? (len(a) ro'yxat yoki satr uzunligini qaytaradi.)",
       "options": [
         {
           "id": "A",
@@ -7784,7 +7784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-312",
-      "question": "«Piksellar (nuqtalar) to'riga» quyidagi qaysi savolning to'g'ri javobi? (Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG).)",
+      "question": "Sun'iy intellekt bo'yicha: «Piksellar (nuqtalar) to'riga» quyidagi qaysi savolning to'g'ri javobi? (Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG).)",
       "options": [
         {
           "id": "A",
@@ -7809,7 +7809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-313",
-      "question": "«Kattalashtirilganda yoki kichraytirilganda sifatini yo'qotmaydi» quyidagi qaysi savolning to'g'ri javobi? (Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR).)",
+      "question": "Sun'iy intellekt bo'yicha: «Kattalashtirilganda yoki kichraytirilganda sifatini yo'qotmaydi» quyidagi qaysi savolning to'g'ri javobi? (Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR).)",
       "options": [
         {
           "id": "A",
@@ -7834,7 +7834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-314",
-      "question": "«Red (Qizil), Green (Yashil), Blue (Ko'k)» quyidagi qaysi savolning to'g'ri javobi? (RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model.)",
+      "question": "Sun'iy intellekt bo'yicha: «Red (Qizil), Green (Yashil), Blue (Ko'k)» quyidagi qaysi savolning to'g'ri javobi? (RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model.)",
       "options": [
         {
           "id": "A",
@@ -7859,7 +7859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-315",
-      "question": "«CMYK (Cyan, Magenta, Yellow, blacK)» quyidagi qaysi savolning to'g'ri javobi? (CMYK bo'yoqlar aralashuvi modelidir.)",
+      "question": "Sun'iy intellekt bo'yicha: «CMYK (Cyan, Magenta, Yellow, blacK)» quyidagi qaysi savolning to'g'ri javobi? (CMYK bo'yoqlar aralashuvi modelidir.)",
       "options": [
         {
           "id": "A",
@@ -7884,7 +7884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-316",
-      "question": "«Maxfiylik, yaxlitlik va foydalanish imkoniyati (barkamollik)» quyidagi qaysi savolning to'g'ri javobi? (CIA triad: Confidentiality, Integrity, Availability.)",
+      "question": "Sun'iy intellekt bo'yicha: «Maxfiylik, yaxlitlik va foydalanish imkoniyati (barkamollik)» quyidagi qaysi savolning to'g'ri javobi? (CIA triad: Confidentiality, Integrity, Availability.)",
       "options": [
         {
           "id": "A",
@@ -7909,7 +7909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-317",
-      "question": "«Xotiradagi hajmini kichraytirish va tarmoqda uzatishni tezlashtirish» quyidagi qaysi savolning to'g'ri javobi? (Arxivlash fayl hajmini kamaytiradi (ZIP, RAR).)",
+      "question": "Sun'iy intellekt bo'yicha: «Xotiradagi hajmini kichraytirish va tarmoqda uzatishni tezlashtirish» quyidagi qaysi savolning to'g'ri javobi? (Arxivlash fayl hajmini kamaytiradi (ZIP, RAR).)",
       "options": [
         {
           "id": "A",
@@ -7934,7 +7934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-318",
-      "question": "«Windows, Linux, macOS, Android» quyidagi qaysi savolning to'g'ri javobi? (Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir.)",
+      "question": "Sun'iy intellekt bo'yicha: «Windows, Linux, macOS, Android» quyidagi qaysi savolning to'g'ri javobi? (Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir.)",
       "options": [
         {
           "id": "A",
@@ -7959,7 +7959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-319",
-      "question": "«Linus Torvalds (1991-yilda)» quyidagi qaysi savolning to'g'ri javobi? (Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan.)",
+      "question": "Sun'iy intellekt bo'yicha: «Linus Torvalds (1991-yilda)» quyidagi qaysi savolning to'g'ri javobi? (Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan.)",
       "options": [
         {
           "id": "A",
@@ -7984,7 +7984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-320",
-      "question": "«Bill Geyts va Pol Allen» quyidagi qaysi savolning to'g'ri javobi? (1975-yilda tashkil topgan.)",
+      "question": "Sun'iy intellekt bo'yicha: «Bill Geyts va Pol Allen» quyidagi qaysi savolning to'g'ri javobi? (1975-yilda tashkil topgan.)",
       "options": [
         {
           "id": "A",
@@ -8009,7 +8009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-321",
-      "question": "«Stiv Jobs va Stiv Voznyak» quyidagi qaysi savolning to'g'ri javobi? (1976-yilda Apple I kompyuterini yaratgan.)",
+      "question": "Sun'iy intellekt bo'yicha: «Stiv Jobs va Stiv Voznyak» quyidagi qaysi savolning to'g'ri javobi? (1976-yilda Apple I kompyuterini yaratgan.)",
       "options": [
         {
           "id": "A",
@@ -8034,7 +8034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-322",
-      "question": "«Larri Peyj va Sergey Brin» quyidagi qaysi savolning to'g'ri javobi? (1998-yilda Stenford universiteti talabalari tomonidan yaratilgan.)",
+      "question": "Sun'iy intellekt bo'yicha: «Larri Peyj va Sergey Brin» quyidagi qaysi savolning to'g'ri javobi? (1998-yilda Stenford universiteti talabalari tomonidan yaratilgan.)",
       "options": [
         {
           "id": "A",
@@ -8159,7 +8159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-327",
-      "question": "«1 bayt = 8 bit.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1 bayt = 8 bit.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8184,7 +8184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-328",
-      "question": "«Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Markaziy protsessor (CPU) barcha mantiqiy va arifmetik amallarni bajaradi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8209,7 +8209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-329",
-      "question": "«HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML (HyperText Markup Language) gipermatnli sahifalarni belgilash tilidir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8234,7 +8234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-330",
-      "question": "«1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = 10.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8259,7 +8259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-331",
-      "question": "«1 KB = 2¹⁰ bayt = 1024 bayt.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1 KB = 2¹⁰ bayt = 1024 bayt.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8284,7 +8284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-332",
-      "question": "«1 MB = 1024 KB = 2²⁰ bayt.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1 MB = 1024 KB = 2²⁰ bayt.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8309,7 +8309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-333",
-      "question": "«1 GB = 1024 MB.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1 GB = 1024 MB.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8334,7 +8334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-334",
-      "question": "«Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Standart ASCII jadvalida 256 ta belgi bo'lib, har biri 8 bit o'rin oladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8359,7 +8359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-335",
-      "question": "«Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Unicode dunyo xalqlari alifbosi belgilarini qamrab olish uchun 2 bayt ishlatadi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8384,7 +8384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-336",
-      "question": "«N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «N - belgilar/hodisalar soni, i - har birining axborot hajmi (bit).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8409,7 +8409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-337",
-      "question": "«O'n oltilikda 10 dan 15 gacha harflar qo'llanadi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «O'n oltilikda 10 dan 15 gacha harflar qo'llanadi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8434,7 +8434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-338",
-      "question": "«8 + 4 + 2 + 1 = 15.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «8 + 4 + 2 + 1 = 15.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8459,7 +8459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-339",
-      "question": "«16 = 2⁴ = 10000₂.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «16 = 2⁴ = 10000₂.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8484,7 +8484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-340",
-      "question": "«Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Sakkizlikda 0 dan 7 gacha raqamlar ishlatiladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8509,7 +8509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-341",
-      "question": "«1·16¹ + 10·16⁰ = 16 + 10 = 26.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1·16¹ + 10·16⁰ = 16 + 10 = 26.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8534,7 +8534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-342",
-      "question": "«RAM - energiyaga bog'liq tezkor xotiradir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «RAM - energiyaga bog'liq tezkor xotiradir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8559,7 +8559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-343",
-      "question": "«ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «ROM da ishlab chiqaruvchi tomonidan yozilgan tizim mikrodasturlari bo'ladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8584,7 +8584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-344",
-      "question": "«Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kesh - o'ta yuqori tezlikka ega oraliq bufer xotiradir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8609,7 +8609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-345",
-      "question": "«HDD magnit disklar asosida ishlaydi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «HDD magnit disklar asosida ishlaydi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8634,7 +8634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-346",
-      "question": "«SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «SSD yarimo'tkazgichli flesh-xotira asosida ishlaydi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8659,7 +8659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-347",
-      "question": "«Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessorning tezkorligi GigaGers (GGs)da o'lchanadi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8684,7 +8684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-348",
-      "question": "«Skaner qog'ozdagi tasvirni kompyuterga kiritadi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Skaner qog'ozdagi tasvirni kompyuterga kiritadi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8709,7 +8709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-349",
-      "question": "«Printer raqamli ma'lumotni qog'ozga chiqaradi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Printer raqamli ma'lumotni qog'ozga chiqaradi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8734,7 +8734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-350",
-      "question": "«Plotter katta o'lchamli chizmalar uchun ishlatiladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Plotter katta o'lchamli chizmalar uchun ishlatiladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8759,7 +8759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-351",
-      "question": "«A AND B faqat 1 va 1 bo'lganda 1 bo'ladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «A AND B faqat 1 va 1 bo'lganda 1 bo'ladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8784,7 +8784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-352",
-      "question": "«A OR B faqat 0 va 0 bo'lganda 0 ga teng.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «A OR B faqat 0 va 0 bo'lganda 0 ga teng.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8809,7 +8809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-353",
-      "question": "«NOT 1 = 0, NOT 0 = 1.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «NOT 1 = 0, NOT 0 = 1.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8834,7 +8834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-354",
-      "question": "«Algoritm 5 ta asosiy xossaga ega.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Algoritm 5 ta asosiy xossaga ega.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8859,7 +8859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-355",
-      "question": "«Romb ichiga shart yoziladi (ha/yo'q).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Romb ichiga shart yoziladi (ha/yo'q).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8884,7 +8884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-356",
-      "question": "«Parallelogramm kiritish-chiqarish blokidir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Parallelogramm kiritish-chiqarish blokidir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8909,7 +8909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-357",
-      "question": "«Amal yoki hisoblash to'g'ri to'rtburchakda beriladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Amal yoki hisoblash to'g'ri to'rtburchakda beriladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8934,7 +8934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-358",
-      "question": "«Boshlash va tamom oval ichiga yoziladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Boshlash va tamom oval ichiga yoziladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8959,7 +8959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-359",
-      "question": "«Masalan: 7 // 2 = 3.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Masalan: 7 // 2 = 3.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -8984,7 +8984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-360",
-      "question": "«Masalan: 7 % 2 = 1.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Masalan: 7 % 2 = 1.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9009,7 +9009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-361",
-      "question": "«Masalan: 2 ** 3 = 8.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Masalan: 2 ** 3 = 8.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9034,7 +9034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-362",
-      "question": "«int - integer (butun son).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «int - integer (butun son).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9059,7 +9059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-363",
-      "question": "«float - suzuvchi vergulli son.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «float - suzuvchi vergulli son.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9084,7 +9084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-364",
-      "question": "«str - qo'shtirnoq ichidagi matn.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «str - qo'shtirnoq ichidagi matn.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9109,7 +9109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-365",
-      "question": "«<a href='...'>Havola matni</a>.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «<a href='...'>Havola matni</a>.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9134,7 +9134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-366",
-      "question": "«<img src='...' alt='...'>.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «<img src='...' alt='...'>.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9159,7 +9159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-367",
-      "question": "«h1 eng katta sarlavha, h6 eng kichigi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «h1 eng katta sarlavha, h6 eng kichigi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9184,7 +9184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-368",
-      "question": "«ol - ordered list, ul - unordered list.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «ol - ordered list, ul - unordered list.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9209,7 +9209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-369",
-      "question": "«CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «CSS sahifa ranglari, shriftlari va joylashuvini boshqaradi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9234,7 +9234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-370",
-      "question": "«IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «IPv4 to'rtta 0-255 gacha sonlardan iborat bo'lib, 32 bitdir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9259,7 +9259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-371",
-      "question": "«DNS inson tushunadigan nomni kompyuter IP siga o'giradi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «DNS inson tushunadigan nomni kompyuter IP siga o'giradi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9284,7 +9284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-372",
-      "question": "«MAC address 48 bitli unikal apparat manzilidir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «MAC address 48 bitli unikal apparat manzilidir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9309,7 +9309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-373",
-      "question": "«FTP - File Transfer Protocol.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «FTP - File Transfer Protocol.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9334,7 +9334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-374",
-      "question": "«SMTP - Simple Mail Transfer Protocol.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP - Simple Mail Transfer Protocol.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9359,7 +9359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-375",
-      "question": "«Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Relyatsion MB - jadvallarga (satr va ustunlarga) asoslangan.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9384,7 +9384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-376",
-      "question": "«Jadval satri bitta ob'ektga tegishli 'yozuv'dir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Jadval satri bitta ob'ektga tegishli 'yozuv'dir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9409,7 +9409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-377",
-      "question": "«Ustunlar ob'ektning xossasi yoki 'maydon'idir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ustunlar ob'ektning xossasi yoki 'maydon'idir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9434,7 +9434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-378",
-      "question": "«Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Primary key jadvalda takrorlanmas unikal qiymatga ega bo'ladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9459,7 +9459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-379",
-      "question": "«Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Markaziy protsessor (CPU) - Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9484,7 +9484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-380",
-      "question": "«Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Markaziy protsessor (CPU)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9509,7 +9509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-381",
-      "question": "«Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Operativ xotira (RAM) - Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9534,7 +9534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-382",
-      "question": "«Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Operativ xotira (RAM)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9559,7 +9559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-383",
-      "question": "«Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Doimiy xotira (ROM) - Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9584,7 +9584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-384",
-      "question": "«Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Doimiy xotira (ROM)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9609,7 +9609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-385",
-      "question": "«Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kesh-xotira (Cache) - Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9634,7 +9634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-386",
-      "question": "«Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Kesh-xotira (Cache)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9659,7 +9659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-387",
-      "question": "«Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Videokarta (GPU) - Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9684,7 +9684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-388",
-      "question": "«Ushbu ta'rif 'Videokarta (GPU)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Videokarta (GPU)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9709,7 +9709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-389",
-      "question": "«Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ona plata (Motherboard) - Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9734,7 +9734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-390",
-      "question": "«Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Ona plata (Motherboard)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9759,7 +9759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-391",
-      "question": "«Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Quvvat bloki (Power Supply) - 220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9784,7 +9784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-392",
-      "question": "«Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Quvvat bloki (Power Supply)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9809,7 +9809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-393",
-      "question": "«HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «HTTP / HTTPS - Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9834,7 +9834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-394",
-      "question": "«Ushbu ta'rif 'HTTP / HTTPS'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'HTTP / HTTPS'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9859,7 +9859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-395",
-      "question": "«FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «FTP (File Transfer Protocol) - Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9884,7 +9884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-396",
-      "question": "«Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'FTP (File Transfer Protocol)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9909,7 +9909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-397",
-      "question": "«SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP (Simple Mail Transfer Protocol) - Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9934,7 +9934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-398",
-      "question": "«Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'SMTP (Simple Mail Transfer Protocol)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9959,7 +9959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-399",
-      "question": "«POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «POP3 va IMAP - Elektron pochta serveridan xatlarni qabul qilib olish protokollari.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9984,7 +9984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-400",
-      "question": "«Ushbu ta'rif 'POP3 va IMAP'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'POP3 va IMAP'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10009,7 +10009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-401",
-      "question": "«DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «DHCP (Dynamic Host Configuration Protocol) - Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10034,7 +10034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-402",
-      "question": "«Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'DHCP (Dynamic Host Configuration Protocol)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10059,7 +10059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-403",
-      "question": "«IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «IP manzil - Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10084,7 +10084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-404",
-      "question": "«Ushbu ta'rif 'IP manzil'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'IP manzil'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10109,7 +10109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-405",
-      "question": "«MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «MAC manzil - Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10134,7 +10134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-406",
-      "question": "«Ushbu ta'rif 'MAC manzil'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'MAC manzil'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10159,7 +10159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-407",
-      "question": "«Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Marshrutizator (Router) - Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10184,7 +10184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-408",
-      "question": "«Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Marshrutizator (Router)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10209,7 +10209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-409",
-      "question": "«Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kommutator (Switch) - Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10234,7 +10234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-410",
-      "question": "«Ushbu ta'rif 'Kommutator (Switch)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Kommutator (Switch)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10259,7 +10259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-411",
-      "question": "«.docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.docx / .doc - Microsoft Word matnli hujjati fayl kengaytmasi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10284,7 +10284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-412",
-      "question": "«Ushbu ta'rif '.docx / .doc'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.docx / .doc'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10309,7 +10309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-413",
-      "question": "«.xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.xlsx / .xls - Microsoft Excel elektron jadvali fayl kengaytmasi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10334,7 +10334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-414",
-      "question": "«Ushbu ta'rif '.xlsx / .xls'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.xlsx / .xls'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10359,7 +10359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-415",
-      "question": "«.pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.pptx / .ppt - Microsoft PowerPoint taqdimot fayli kengaytmasi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10384,7 +10384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-416",
-      "question": "«Ushbu ta'rif '.pptx / .ppt'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.pptx / .ppt'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10409,7 +10409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-417",
-      "question": "«.html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.html / .htm - Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10434,7 +10434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-418",
-      "question": "«Ushbu ta'rif '.html / .htm'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.html / .htm'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10459,7 +10459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-419",
-      "question": "«.mp3 / .wav - Raqamli audio (tovush) fayllari formati.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.mp3 / .wav - Raqamli audio (tovush) fayllari formati.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10484,7 +10484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-420",
-      "question": "«Ushbu ta'rif '.mp3 / .wav'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.mp3 / .wav'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10509,7 +10509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-421",
-      "question": "«.mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.mp4 / .avi / .mkv - Raqamli video fayllari kengaytmasi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10534,7 +10534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-422",
-      "question": "«Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.mp4 / .avi / .mkv'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10559,7 +10559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-423",
-      "question": "«.jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.jpg / .png / .svg - Raqamli rastrli va vektorli grafik tasvirlar formati.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10584,7 +10584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-424",
-      "question": "«Ushbu ta'rif '.jpg / .png / .svg'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.jpg / .png / .svg'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10609,7 +10609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-425",
-      "question": "«.zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.zip / .rar / .7z - Hajmni kichraytirish va arxivlash dasturlari fayli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10634,7 +10634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-426",
-      "question": "«Ushbu ta'rif '.zip / .rar / .7z'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.zip / .rar / .7z'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10659,7 +10659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-427",
-      "question": "«.exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «.exe / .msi - Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10684,7 +10684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-428",
-      "question": "«Ushbu ta'rif '.exe / .msi'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '.exe / .msi'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10709,7 +10709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-429",
-      "question": "«Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Tizimli dasturiy ta'minot - Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10734,7 +10734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-430",
-      "question": "«Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Tizimli dasturiy ta'minot'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10759,7 +10759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-431",
-      "question": "«Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Amaliy dasturiy ta'minot - Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10784,7 +10784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-432",
-      "question": "«Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Amaliy dasturiy ta'minot'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10809,7 +10809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-433",
-      "question": "«Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Drayver - Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10834,7 +10834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-434",
-      "question": "«Ushbu ta'rif 'Drayver'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Drayver'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10859,7 +10859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-435",
-      "question": "«BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «BIOS (Basic Input/Output System) - Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10884,7 +10884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-436",
-      "question": "«Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'BIOS (Basic Input/Output System)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10909,7 +10909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-437",
-      "question": "«Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Antivirus dasturi - Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10934,7 +10934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-438",
-      "question": "«Ushbu ta'rif 'Antivirus dasturi'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Antivirus dasturi'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10959,7 +10959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-439",
-      "question": "«O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «O'zgaruvchi (Variable) - Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -10984,7 +10984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-440",
-      "question": "«Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'O'zgaruvchi (Variable)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11009,7 +11009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-441",
-      "question": "«Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Massiv (Ro'yxat / List) - Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11034,7 +11034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-442",
-      "question": "«Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Massiv (Ro'yxat / List)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11059,7 +11059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-443",
-      "question": "«Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Funksiya (Function) - Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11084,7 +11084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-444",
-      "question": "«Ushbu ta'rif 'Funksiya (Function)'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Funksiya (Function)'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11109,7 +11109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-445",
-      "question": "«Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Rekursiya - Funksiyaning o'zini o'zi qayta chaqirishi hodisasi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11134,7 +11134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-446",
-      "question": "«Ushbu ta'rif 'Rekursiya'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Rekursiya'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11159,7 +11159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-447",
-      "question": "«Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompilyator - Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11184,7 +11184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-448",
-      "question": "«Ushbu ta'rif 'Kompilyator'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Kompilyator'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11209,7 +11209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-449",
-      "question": "«Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Interpretator - Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11234,7 +11234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-450",
-      "question": "«Ushbu ta'rif 'Interpretator'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'Interpretator'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11259,7 +11259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-451",
-      "question": "«<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «<table> tegi - HTML tilida jadval yaratish uchun ochiladigan bosh teg.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11284,7 +11284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-452",
-      "question": "«Ushbu ta'rif '<table> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '<table> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11309,7 +11309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-453",
-      "question": "«<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «<tr> tegi - HTML jadvalida yangi satr (qator) hosil qiluvchi teg.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11334,7 +11334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-454",
-      "question": "«Ushbu ta'rif '<tr> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '<tr> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11359,7 +11359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-455",
-      "question": "«<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «<td> tegi - HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11384,7 +11384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-456",
-      "question": "«Ushbu ta'rif '<td> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '<td> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11409,7 +11409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-457",
-      "question": "«<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «<form> tegi - Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11434,7 +11434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-458",
-      "question": "«Ushbu ta'rif '<form> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '<form> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11459,7 +11459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-459",
-      "question": "«<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «<input> tegi - Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11484,7 +11484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-460",
-      "question": "«Ushbu ta'rif '<input> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif '<input> tegi'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11509,7 +11509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-461",
-      "question": "«JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «JavaScript - Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11534,7 +11534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-462",
-      "question": "«Ushbu ta'rif 'JavaScript'ga tegishli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ushbu ta'rif 'JavaScript'ga tegishli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11559,7 +11559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-463",
-      "question": "«print() orqali natija konsolga chiqariladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «print() orqali natija konsolga chiqariladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11584,7 +11584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-464",
-      "question": "«input() klaviaturadan satr ko'rinishida qabul qiladi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «input() klaviaturadan satr ko'rinishida qabul qiladi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11609,7 +11609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-465",
-      "question": "«if shart: ... elif ... else.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «if shart: ... elif ... else.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11634,7 +11634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-466",
-      "question": "«def funksiya_nomi(parametrlar): ...» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «def funksiya_nomi(parametrlar): ...» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11659,7 +11659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-467",
-      "question": "«for i in range(...): tsikli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «for i in range(...): tsikli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11684,7 +11684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-468",
-      "question": "«while shart: ... tsikli.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «while shart: ... tsikli.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11709,7 +11709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-469",
-      "question": "«Ro'yxat: a = [1, 2, 3].» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ro'yxat: a = [1, 2, 3].» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11734,7 +11734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-470",
-      "question": "«Kortej: a = (1, 2, 3).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kortej: a = (1, 2, 3).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11759,7 +11759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-471",
-      "question": "«Lug'at: d = {'ism': 'Ali', 'yosh': 16}.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Lug'at: d = {'ism': 'Ali', 'yosh': 16}.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11784,7 +11784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-472",
-      "question": "«len(a) ro'yxat yoki satr uzunligini qaytaradi.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «len(a) ro'yxat yoki satr uzunligini qaytaradi.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11809,7 +11809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-473",
-      "question": "«Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Rastrli tasvirlar mayda nuqtalardan tashkil topadi (masalan, BMP, JPG).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11834,7 +11834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-474",
-      "question": "«Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Vektorli tasvirlar matematik formulalar bilan chiziladi (masalan, SVG, CDR).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11859,7 +11859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-475",
-      "question": "«RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «RGB ekranda yorug'lik nurlari qo'shilishi asosidagi model.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11884,7 +11884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-476",
-      "question": "«CMYK bo'yoqlar aralashuvi modelidir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «CMYK bo'yoqlar aralashuvi modelidir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11909,7 +11909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-477",
-      "question": "«CIA triad: Confidentiality, Integrity, Availability.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «CIA triad: Confidentiality, Integrity, Availability.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11934,7 +11934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-478",
-      "question": "«Arxivlash fayl hajmini kamaytiradi (ZIP, RAR).» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Arxivlash fayl hajmini kamaytiradi (ZIP, RAR).» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11959,7 +11959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-479",
-      "question": "«Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Bular kompyuter va smartfonlarning boshqaruv operatsion sistemalaridir.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -11984,7 +11984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-480",
-      "question": "«Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «Finlyandiyalik talaba Linus Torvalds Linux yadrosini yozgan.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -12009,7 +12009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-481",
-      "question": "«1975-yilda tashkil topgan.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1975-yilda tashkil topgan.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -12034,7 +12034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-482",
-      "question": "«1976-yilda Apple I kompyuterini yaratgan.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1976-yilda Apple I kompyuterini yaratgan.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -12059,7 +12059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-483",
-      "question": "«1998-yilda Stenford universiteti talabalari tomonidan yaratilgan.» izohi qaysi savolga mos keladi?",
+      "question": "Sun'iy intellekt bo'yicha: «1998-yilda Stenford universiteti talabalari tomonidan yaratilgan.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -12184,7 +12184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-488",
-      "question": "«Bir baytda nechta bit bor?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Bir baytda nechta bit bor?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12209,7 +12209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-489",
-      "question": "«Kompyuterning asosiy hisoblash qurilmasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning asosiy hisoblash qurilmasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12234,7 +12234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-490",
-      "question": "«HTML tili asosan nima uchun ishlatiladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML tili asosan nima uchun ishlatiladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12259,7 +12259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-491",
-      "question": "«Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12284,7 +12284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-492",
-      "question": "«1 Kilobayt (KB) necha baytga teng?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «1 Kilobayt (KB) necha baytga teng?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12309,7 +12309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-493",
-      "question": "«1 Megabayt (MB) necha Kilobaytga teng?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «1 Megabayt (MB) necha Kilobaytga teng?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12334,7 +12334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-494",
-      "question": "«1 Gigabayt (GB) necha Megabaytga teng?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «1 Gigabayt (GB) necha Megabaytga teng?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12359,7 +12359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-495",
-      "question": "«ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12384,7 +12384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-496",
-      "question": "«Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12409,7 +12409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-497",
-      "question": "«Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12434,7 +12434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-498",
-      "question": "«O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12459,7 +12459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-499",
-      "question": "«Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12484,7 +12484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-500",
-      "question": "«O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12509,7 +12509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-501",
-      "question": "«Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12534,7 +12534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-502",
-      "question": "«O'n oltilikdagi 1A soni o'nlikda nechaga teng?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «O'n oltilikdagi 1A soni o'nlikda nechaga teng?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12559,7 +12559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-503",
-      "question": "«Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12584,7 +12584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-504",
-      "question": "«Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12609,7 +12609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-505",
-      "question": "«Kesh-xotira (Cache memory) qanday vazifani bajaradi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Kesh-xotira (Cache memory) qanday vazifani bajaradi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12634,7 +12634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-506",
-      "question": "«Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12659,7 +12659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-507",
-      "question": "«Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12684,7 +12684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-508",
-      "question": "«Taktli chastotaning o'lchov birligi nima?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Taktli chastotaning o'lchov birligi nima?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12709,7 +12709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-509",
-      "question": "«Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12734,7 +12734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-510",
-      "question": "«Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12759,7 +12759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-511",
-      "question": "«Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12784,7 +12784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-512",
-      "question": "«Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12809,7 +12809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-513",
-      "question": "«Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12834,7 +12834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-514",
-      "question": "«Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12859,7 +12859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-515",
-      "question": "«Algoritmning asosiy xossalari qaysilar?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Algoritmning asosiy xossalari qaysilar?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12884,7 +12884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-516",
-      "question": "«Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12909,7 +12909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-517",
-      "question": "«Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12934,7 +12934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-518",
-      "question": "«Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12959,7 +12959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-519",
-      "question": "«Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -12984,7 +12984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-520",
-      "question": "«Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13009,7 +13009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-521",
-      "question": "«Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13034,7 +13034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-522",
-      "question": "«Python tilida darajaga ko'tarish operatori qanday belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida darajaga ko'tarish operatori qanday belgilanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13059,7 +13059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-523",
-      "question": "«Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13084,7 +13084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-524",
-      "question": "«Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13109,7 +13109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-525",
-      "question": "«Satrli (matnli) ma'lumot turi qanday ataladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Satrli (matnli) ma'lumot turi qanday ataladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13134,7 +13134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-526",
-      "question": "«Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13159,7 +13159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-527",
-      "question": "«HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13184,7 +13184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-528",
-      "question": "«HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13209,7 +13209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-529",
-      "question": "«HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13234,7 +13234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-530",
-      "question": "«CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13259,7 +13259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-531",
-      "question": "«IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13284,7 +13284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-532",
-      "question": "«DNS (Domain Name System) serverining asosiy vazifasi nima?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «DNS (Domain Name System) serverining asosiy vazifasi nima?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13309,7 +13309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-533",
-      "question": "«Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13334,7 +13334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-534",
-      "question": "«Fayllarni internet orqali uzatishning klassik protokoli qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Fayllarni internet orqali uzatishning klassik protokoli qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13359,7 +13359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-535",
-      "question": "«Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13384,7 +13384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-536",
-      "question": "«Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13409,7 +13409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-537",
-      "question": "«Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13434,7 +13434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-538",
-      "question": "«Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13459,7 +13459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-539",
-      "question": "«Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13484,7 +13484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-540",
-      "question": "«Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13509,7 +13509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-541",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13534,7 +13534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-542",
-      "question": "«Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13559,7 +13559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-543",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13584,7 +13584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-544",
-      "question": "«Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13609,7 +13609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-545",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13634,7 +13634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-546",
-      "question": "«Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13659,7 +13659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-547",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13684,7 +13684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-548",
-      "question": "«Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13709,7 +13709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-549",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13734,7 +13734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-550",
-      "question": "«Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13759,7 +13759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-551",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13784,7 +13784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-552",
-      "question": "«Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13809,7 +13809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-553",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13834,7 +13834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-554",
-      "question": "«Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13859,7 +13859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-555",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13884,7 +13884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-556",
-      "question": "«Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13909,7 +13909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-557",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13934,7 +13934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-558",
-      "question": "«Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13959,7 +13959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-559",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -13984,7 +13984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-560",
-      "question": "«Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14009,7 +14009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-561",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14034,7 +14034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-562",
-      "question": "«Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14059,7 +14059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-563",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14084,7 +14084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-564",
-      "question": "«Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14109,7 +14109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-565",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14134,7 +14134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-566",
-      "question": "«Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14159,7 +14159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-567",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14184,7 +14184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-568",
-      "question": "«Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14209,7 +14209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-569",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14234,7 +14234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-570",
-      "question": "«Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14259,7 +14259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-571",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14284,7 +14284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-572",
-      "question": "«Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14309,7 +14309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-573",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14334,7 +14334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-574",
-      "question": "«Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14359,7 +14359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-575",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14384,7 +14384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-576",
-      "question": "«Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14409,7 +14409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-577",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14434,7 +14434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-578",
-      "question": "«Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14459,7 +14459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-579",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14484,7 +14484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-580",
-      "question": "«Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14509,7 +14509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-581",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14534,7 +14534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-582",
-      "question": "«Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14559,7 +14559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-583",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14584,7 +14584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-584",
-      "question": "«Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14609,7 +14609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-585",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14634,7 +14634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-586",
-      "question": "«Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14659,7 +14659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-587",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14684,7 +14684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-588",
-      "question": "«Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14709,7 +14709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-589",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14734,7 +14734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-590",
-      "question": "«Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14759,7 +14759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-591",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14784,7 +14784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-592",
-      "question": "«Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14809,7 +14809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-593",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14834,7 +14834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-594",
-      "question": "«Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14859,7 +14859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-595",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14884,7 +14884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-596",
-      "question": "«Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14909,7 +14909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-597",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14934,7 +14934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-598",
-      "question": "«Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14959,7 +14959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-599",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -14984,7 +14984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-600",
-      "question": "«Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15009,7 +15009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-601",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15034,7 +15034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-602",
-      "question": "«Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15059,7 +15059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-603",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15084,7 +15084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-604",
-      "question": "«Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15109,7 +15109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-605",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15134,7 +15134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-606",
-      "question": "«Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15159,7 +15159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-607",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15184,7 +15184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-608",
-      "question": "«Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15209,7 +15209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-609",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15234,7 +15234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-610",
-      "question": "«Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15259,7 +15259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-611",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15284,7 +15284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-612",
-      "question": "«Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15309,7 +15309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-613",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15334,7 +15334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-614",
-      "question": "«Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15359,7 +15359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-615",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15384,7 +15384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-616",
-      "question": "«Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15409,7 +15409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-617",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15434,7 +15434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-618",
-      "question": "«Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15459,7 +15459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-619",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15484,7 +15484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-620",
-      "question": "«Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15509,7 +15509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-621",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15534,7 +15534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-622",
-      "question": "«Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15559,7 +15559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-623",
-      "question": "«Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15584,7 +15584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-624",
-      "question": "«Python tilida ekranga ma'lumot chiqarish funksiyasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida ekranga ma'lumot chiqarish funksiyasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15609,7 +15609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-625",
-      "question": "«Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15634,7 +15634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-626",
-      "question": "«Python tilida shart operatori qaysi kalit so'z bilan boshlanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida shart operatori qaysi kalit so'z bilan boshlanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15659,7 +15659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-627",
-      "question": "«Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15684,7 +15684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-628",
-      "question": "«Python tilida ma'lum qadamlar bilan cheklangan takrorlanish (tsikl) operatori qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida ma'lum qadamlar bilan cheklangan takrorlanish (tsikl) operatori qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15709,7 +15709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-629",
-      "question": "«Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15734,7 +15734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-630",
-      "question": "«Python tilida ro'yxat (list) elementlari qaysi qavslar ichiga yoziladi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida ro'yxat (list) elementlari qaysi qavslar ichiga yoziladi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15759,7 +15759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-631",
-      "question": "«O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15784,7 +15784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-632",
-      "question": "«Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15809,7 +15809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-633",
-      "question": "«Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15834,7 +15834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-634",
-      "question": "«Rastrli grafika nimaga asoslangan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Rastrli grafika nimaga asoslangan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15859,7 +15859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-635",
-      "question": "«Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15884,7 +15884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-636",
-      "question": "«RGB rang modelida asosiy ranglar qaysilar?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «RGB rang modelida asosiy ranglar qaysilar?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15909,7 +15909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-637",
-      "question": "«Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15934,7 +15934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-638",
-      "question": "«Axborot xavfsizligining uchta asosiy tamoyili qaysilar?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Axborot xavfsizligining uchta asosiy tamoyili qaysilar?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15959,7 +15959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-639",
-      "question": "«Fayllarni siqish (arxivlash)dan asosiy maqsad nima?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Fayllarni siqish (arxivlash)dan asosiy maqsad nima?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -15984,7 +15984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-640",
-      "question": "«Quyidagilardan qaysi biri operatsion sistema hisoblanadi?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Quyidagilardan qaysi biri operatsion sistema hisoblanadi?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -16009,7 +16009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-641",
-      "question": "«Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -16034,7 +16034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-642",
-      "question": "«Microsoft kompaniyasining asoschisi kim?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Microsoft kompaniyasining asoschisi kim?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -16059,7 +16059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-643",
-      "question": "«Apple kompaniyasining asoschilari kimlar?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Apple kompaniyasining asoschilari kimlar?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -16084,7 +16084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-644",
-      "question": "«Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?» savolining izohi qaysi variantda to'g'ri?",
+      "question": "Sun'iy intellekt bo'yicha: «Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?» savolining izohi qaysi variantda to'g'ri?",
       "options": [
         {
           "id": "A",
@@ -16109,7 +16109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-645",
-      "question": "Izohdagi bo'sh joyni to'ldiring: To'g'ri javob: ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: To'g'ri javob: ______.",
       "options": [
         {
           "id": "A",
@@ -16134,7 +16134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-646",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Markaziy ______ (CPU) barcha mantiqiy va arifmetik amallarni bajaradi.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Markaziy ______ (CPU) barcha mantiqiy va arifmetik amallarni bajaradi.",
       "options": [
         {
           "id": "A",
@@ -16159,7 +16159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-647",
-      "question": "Izohdagi bo'sh joyni to'ldiring: 1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: 1·2³ + 0·2² + 1·2¹ + 0·2⁰ = 8 + 0 + 2 + 0 = ______.",
       "options": [
         {
           "id": "A",
@@ -16184,7 +16184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-648",
-      "question": "Izohdagi bo'sh joyni to'ldiring: 1 KB = 2¹⁰ bayt = ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: 1 KB = 2¹⁰ bayt = ______.",
       "options": [
         {
           "id": "A",
@@ -16209,7 +16209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-649",
-      "question": "Izohdagi bo'sh joyni to'ldiring: 1 MB = ______ = 2²⁰ bayt.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: 1 MB = ______ = 2²⁰ bayt.",
       "options": [
         {
           "id": "A",
@@ -16234,7 +16234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-650",
-      "question": "Izohdagi bo'sh joyni to'ldiring: 1 GB = ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: 1 GB = ______.",
       "options": [
         {
           "id": "A",
@@ -16259,7 +16259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-651",
-      "question": "Izohdagi bo'sh joyni to'ldiring: 8 + 4 + 2 + 1 = ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: 8 + 4 + 2 + 1 = ______.",
       "options": [
         {
           "id": "A",
@@ -16284,7 +16284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-652",
-      "question": "Izohdagi bo'sh joyni to'ldiring: 16 = 2⁴ = ______₂.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: 16 = 2⁴ = ______₂.",
       "options": [
         {
           "id": "A",
@@ -16309,7 +16309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-653",
-      "question": "Izohdagi bo'sh joyni to'ldiring: 1·16¹ + 10·16⁰ = 16 + 10 = ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: 1·16¹ + 10·16⁰ = 16 + 10 = ______.",
       "options": [
         {
           "id": "A",
@@ -16334,7 +16334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-654",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ qog'ozdagi tasvirni kompyuterga kiritadi.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ qog'ozdagi tasvirni kompyuterga kiritadi.",
       "options": [
         {
           "id": "A",
@@ -16359,7 +16359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-655",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ raqamli ma'lumotni qog'ozga chiqaradi.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ raqamli ma'lumotni qog'ozga chiqaradi.",
       "options": [
         {
           "id": "A",
@@ -16384,7 +16384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-656",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ ichiga shart yoziladi (ha/yo'q).",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ ichiga shart yoziladi (ha/yo'q).",
       "options": [
         {
           "id": "A",
@@ -16409,7 +16409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-657",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ kiritish-chiqarish blokidir.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ kiritish-chiqarish blokidir.",
       "options": [
         {
           "id": "A",
@@ -16434,7 +16434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-658",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Amal yoki hisoblash ______da beriladi.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Amal yoki hisoblash ______da beriladi.",
       "options": [
         {
           "id": "A",
@@ -16459,7 +16459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-659",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Masalan: 7 ______ 2 = 3.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Masalan: 7 ______ 2 = 3.",
       "options": [
         {
           "id": "A",
@@ -16484,7 +16484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-660",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Masalan: 2 ______ 3 = 8.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Masalan: 2 ______ 3 = 8.",
       "options": [
         {
           "id": "A",
@@ -16509,7 +16509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-661",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ - integer (butun son).",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ - integer (butun son).",
       "options": [
         {
           "id": "A",
@@ -16534,7 +16534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-662",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ - suzuvchi vergulli son.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ - suzuvchi vergulli son.",
       "options": [
         {
           "id": "A",
@@ -16559,7 +16559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-663",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ - File Transfer Protocol.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ - File Transfer Protocol.",
       "options": [
         {
           "id": "A",
@@ -16584,7 +16584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-664",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ - Simple Mail Transfer Protocol.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ - Simple Mail Transfer Protocol.",
       "options": [
         {
           "id": "A",
@@ -16609,7 +16609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-665",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Markaziy protsessor (CPU) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Markaziy protsessor (CPU) - ______.",
       "options": [
         {
           "id": "A",
@@ -16634,7 +16634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-666",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Ushbu ta'rif '______'ga tegishli.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Ushbu ta'rif '______'ga tegishli.",
       "options": [
         {
           "id": "A",
@@ -16659,7 +16659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-667",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Operativ xotira (RAM) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Operativ xotira (RAM) - ______.",
       "options": [
         {
           "id": "A",
@@ -16684,7 +16684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-668",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Doimiy xotira (ROM) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Doimiy xotira (ROM) - ______.",
       "options": [
         {
           "id": "A",
@@ -16709,7 +16709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-669",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Kesh-xotira (Cache) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Kesh-xotira (Cache) - ______.",
       "options": [
         {
           "id": "A",
@@ -16734,7 +16734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-670",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Videokarta (GPU) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Videokarta (GPU) - ______.",
       "options": [
         {
           "id": "A",
@@ -16759,7 +16759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-671",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Ona plata (Motherboard) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Ona plata (Motherboard) - ______.",
       "options": [
         {
           "id": "A",
@@ -16784,7 +16784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-672",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Quvvat bloki (Power Supply) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Quvvat bloki (Power Supply) - ______.",
       "options": [
         {
           "id": "A",
@@ -16809,7 +16809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-673",
-      "question": "Izohdagi bo'sh joyni to'ldiring: HTTP / HTTPS - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: HTTP / HTTPS - ______.",
       "options": [
         {
           "id": "A",
@@ -16834,7 +16834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-674",
-      "question": "Izohdagi bo'sh joyni to'ldiring: FTP (File Transfer Protocol) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: FTP (File Transfer Protocol) - ______.",
       "options": [
         {
           "id": "A",
@@ -16859,7 +16859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-675",
-      "question": "Izohdagi bo'sh joyni to'ldiring: SMTP (Simple Mail Transfer Protocol) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: SMTP (Simple Mail Transfer Protocol) - ______.",
       "options": [
         {
           "id": "A",
@@ -16884,7 +16884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-676",
-      "question": "Izohdagi bo'sh joyni to'ldiring: POP3 va IMAP - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: POP3 va IMAP - ______.",
       "options": [
         {
           "id": "A",
@@ -16909,7 +16909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-677",
-      "question": "Izohdagi bo'sh joyni to'ldiring: DHCP (Dynamic Host Configuration Protocol) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: DHCP (Dynamic Host Configuration Protocol) - ______.",
       "options": [
         {
           "id": "A",
@@ -16934,7 +16934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-678",
-      "question": "Izohdagi bo'sh joyni to'ldiring: IP manzil - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: IP manzil - ______.",
       "options": [
         {
           "id": "A",
@@ -16959,7 +16959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-679",
-      "question": "Izohdagi bo'sh joyni to'ldiring: MAC manzil - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: MAC manzil - ______.",
       "options": [
         {
           "id": "A",
@@ -16984,7 +16984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-680",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Marshrutizator (Router) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Marshrutizator (Router) - ______.",
       "options": [
         {
           "id": "A",
@@ -17009,7 +17009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-681",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Kommutator (Switch) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Kommutator (Switch) - ______.",
       "options": [
         {
           "id": "A",
@@ -17034,7 +17034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-682",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .docx / .doc - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .docx / .doc - ______.",
       "options": [
         {
           "id": "A",
@@ -17059,7 +17059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-683",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .xlsx / .xls - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .xlsx / .xls - ______.",
       "options": [
         {
           "id": "A",
@@ -17084,7 +17084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-684",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .pptx / .ppt - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .pptx / .ppt - ______.",
       "options": [
         {
           "id": "A",
@@ -17109,7 +17109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-685",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .html / .htm - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .html / .htm - ______.",
       "options": [
         {
           "id": "A",
@@ -17134,7 +17134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-686",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .mp3 / .wav - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .mp3 / .wav - ______.",
       "options": [
         {
           "id": "A",
@@ -17159,7 +17159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-687",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .mp4 / .avi / .mkv - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .mp4 / .avi / .mkv - ______.",
       "options": [
         {
           "id": "A",
@@ -17184,7 +17184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-688",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .jpg / .png / .svg - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .jpg / .png / .svg - ______.",
       "options": [
         {
           "id": "A",
@@ -17209,7 +17209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-689",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .zip / .rar / .7z - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .zip / .rar / .7z - ______.",
       "options": [
         {
           "id": "A",
@@ -17234,7 +17234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-690",
-      "question": "Izohdagi bo'sh joyni to'ldiring: .exe / .msi - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: .exe / .msi - ______.",
       "options": [
         {
           "id": "A",
@@ -17259,7 +17259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-691",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Tizimli dasturiy ta'minot - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Tizimli dasturiy ta'minot - ______.",
       "options": [
         {
           "id": "A",
@@ -17284,7 +17284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-692",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Amaliy dasturiy ta'minot - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Amaliy dasturiy ta'minot - ______.",
       "options": [
         {
           "id": "A",
@@ -17309,7 +17309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-693",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Drayver - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Drayver - ______.",
       "options": [
         {
           "id": "A",
@@ -17334,7 +17334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-694",
-      "question": "Izohdagi bo'sh joyni to'ldiring: BIOS (Basic Input/Output System) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: BIOS (Basic Input/Output System) - ______.",
       "options": [
         {
           "id": "A",
@@ -17359,7 +17359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-695",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Antivirus dasturi - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Antivirus dasturi - ______.",
       "options": [
         {
           "id": "A",
@@ -17384,7 +17384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-696",
-      "question": "Izohdagi bo'sh joyni to'ldiring: O'zgaruvchi (Variable) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: O'zgaruvchi (Variable) - ______.",
       "options": [
         {
           "id": "A",
@@ -17409,7 +17409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-697",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Massiv (Ro'yxat / List) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Massiv (Ro'yxat / List) - ______.",
       "options": [
         {
           "id": "A",
@@ -17434,7 +17434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-698",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Funksiya (Function) - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Funksiya (Function) - ______.",
       "options": [
         {
           "id": "A",
@@ -17459,7 +17459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-699",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Rekursiya - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Rekursiya - ______.",
       "options": [
         {
           "id": "A",
@@ -17484,7 +17484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-700",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Kompilyator - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Kompilyator - ______.",
       "options": [
         {
           "id": "A",
@@ -17509,7 +17509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-701",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Interpretator - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: Interpretator - ______.",
       "options": [
         {
           "id": "A",
@@ -17534,7 +17534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-702",
-      "question": "Izohdagi bo'sh joyni to'ldiring: <table> tegi - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: <table> tegi - ______.",
       "options": [
         {
           "id": "A",
@@ -17559,7 +17559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-703",
-      "question": "Izohdagi bo'sh joyni to'ldiring: <tr> tegi - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: <tr> tegi - ______.",
       "options": [
         {
           "id": "A",
@@ -17584,7 +17584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-704",
-      "question": "Izohdagi bo'sh joyni to'ldiring: <td> tegi - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: <td> tegi - ______.",
       "options": [
         {
           "id": "A",
@@ -17609,7 +17609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-705",
-      "question": "Izohdagi bo'sh joyni to'ldiring: <form> tegi - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: <form> tegi - ______.",
       "options": [
         {
           "id": "A",
@@ -17634,7 +17634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-706",
-      "question": "Izohdagi bo'sh joyni to'ldiring: <input> tegi - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: <input> tegi - ______.",
       "options": [
         {
           "id": "A",
@@ -17659,7 +17659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-707",
-      "question": "Izohdagi bo'sh joyni to'ldiring: JavaScript - ______.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: JavaScript - ______.",
       "options": [
         {
           "id": "A",
@@ -17684,7 +17684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-708",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ orqali natija konsolga chiqariladi.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ orqali natija konsolga chiqariladi.",
       "options": [
         {
           "id": "A",
@@ -17709,7 +17709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-709",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ klaviaturadan satr ko'rinishida qabul qiladi.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ klaviaturadan satr ko'rinishida qabul qiladi.",
       "options": [
         {
           "id": "A",
@@ -17734,7 +17734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-710",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ shart: ... elif ... else.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ shart: ... elif ... else.",
       "options": [
         {
           "id": "A",
@@ -17759,7 +17759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-711",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ funksiya_nomi(parametrlar): ...",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ funksiya_nomi(parametrlar): ...",
       "options": [
         {
           "id": "A",
@@ -17784,7 +17784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-712",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ i in range(...): tsikli.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ i in range(...): tsikli.",
       "options": [
         {
           "id": "A",
@@ -17809,7 +17809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-713",
-      "question": "Izohdagi bo'sh joyni to'ldiring: ______ shart: ... tsikli.",
+      "question": "Sun'iy intellekt bo'yicha: Izohdagi bo'sh joyni to'ldiring: ______ shart: ... tsikli.",
       "options": [
         {
           "id": "A",
@@ -17843,6 +17843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17860,6 +17868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17877,6 +17893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17894,6 +17918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17902,7 +17934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-718",
-      "question": "«8» varianti «Bir baytda nechta bit bor?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «8» varianti «Bir baytda nechta bit bor?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -17911,6 +17943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17919,7 +17959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-719",
-      "question": "«Protsessor» varianti «Kompyuterning asosiy hisoblash qurilmasi qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessor» varianti «Kompyuterning asosiy hisoblash qurilmasi qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -17928,6 +17968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17936,7 +17984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-720",
-      "question": "«Web sahifa tuzilmasini yaratish» varianti «HTML tili asosan nima uchun ishlatiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifa tuzilmasini yaratish» varianti «HTML tili asosan nima uchun ishlatiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -17945,6 +17993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17953,7 +18009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-721",
-      "question": "«10» varianti «Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «10» varianti «Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -17962,6 +18018,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17970,7 +18034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-722",
-      "question": "«1024 bayt» varianti «1 Kilobayt (KB) necha baytga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «1024 bayt» varianti «1 Kilobayt (KB) necha baytga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -17979,6 +18043,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17987,7 +18059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-723",
-      "question": "«1024 KB» varianti «1 Megabayt (MB) necha Kilobaytga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «1024 KB» varianti «1 Megabayt (MB) necha Kilobaytga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -17996,6 +18068,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18004,7 +18084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-724",
-      "question": "«1024 MB» varianti «1 Gigabayt (GB) necha Megabaytga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «1024 MB» varianti «1 Gigabayt (GB) necha Megabaytga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18013,6 +18093,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18021,7 +18109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-725",
-      "question": "«1 bayt (8 bit)» varianti «ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «1 bayt (8 bit)» varianti «ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18030,6 +18118,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18038,7 +18134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-726",
-      "question": "«2 bayt (16 bit)» varianti «Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «2 bayt (16 bit)» varianti «Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18047,6 +18143,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18055,7 +18159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-727",
-      "question": "«N = 2^i» varianti «Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «N = 2^i» varianti «Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18064,6 +18168,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18072,7 +18184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-728",
-      "question": "«A, B, C, D, E, F» varianti «O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «A, B, C, D, E, F» varianti «O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18081,6 +18193,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18089,7 +18209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-729",
-      "question": "«15» varianti «Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «15» varianti «Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18098,6 +18218,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18106,7 +18234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-730",
-      "question": "«10000» varianti «O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «10000» varianti «O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18115,6 +18243,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18123,7 +18259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-731",
-      "question": "«7» varianti «Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «7» varianti «Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18132,6 +18268,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18140,7 +18284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-732",
-      "question": "«26» varianti «O'n oltilikdagi 1A soni o'nlikda nechaga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «26» varianti «O'n oltilikdagi 1A soni o'nlikda nechaga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18149,6 +18293,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18157,7 +18309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-733",
-      "question": "«Operativ xotira (RAM)» varianti «Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Operativ xotira (RAM)» varianti «Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18166,6 +18318,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18174,7 +18334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-734",
-      "question": "«BIOS dasturlari va dastlabki yuklash ko'rsatmalari» varianti «Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «BIOS dasturlari va dastlabki yuklash ko'rsatmalari» varianti «Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18183,6 +18343,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18191,7 +18359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-735",
-      "question": "«Protsessor va operativ xotira o'rtasidagi ma'lumot almashinuvini tezlashtiradi» varianti «Kesh-xotira (Cache memory) qanday vazifani bajaradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessor va operativ xotira o'rtasidagi ma'lumot almashinuvini tezlashtiradi» varianti «Kesh-xotira (Cache memory) qanday vazifani bajaradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18200,6 +18368,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18208,7 +18384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-736",
-      "question": "«Qattiq disk (HDD)» varianti «Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Qattiq disk (HDD)» varianti «Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18217,6 +18393,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18225,7 +18409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-737",
-      "question": "«SSD (Solid State Drive)» varianti «Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «SSD (Solid State Drive)» varianti «Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18234,6 +18418,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18242,7 +18434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-738",
-      "question": "«Gers (Gs, MGs, GGs)» varianti «Taktli chastotaning o'lchov birligi nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Gers (Gs, MGs, GGs)» varianti «Taktli chastotaning o'lchov birligi nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18251,6 +18443,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18259,7 +18459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-739",
-      "question": "«Skaner» varianti «Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Skaner» varianti «Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18268,6 +18468,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18276,7 +18484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-740",
-      "question": "«Printer» varianti «Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Printer» varianti «Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18285,6 +18493,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18293,7 +18509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-741",
-      "question": "«Plotter (grafik yasagich)» varianti «Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Plotter (grafik yasagich)» varianti «Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18302,6 +18518,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18310,7 +18534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-742",
-      "question": "«Ikkala mulohaza ham chin (1) bo'lganda» varianti «Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ikkala mulohaza ham chin (1) bo'lganda» varianti «Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18319,6 +18543,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18327,7 +18559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-743",
-      "question": "«Ikkala mulohaza ham yolg'on (0) bo'lganda» varianti «Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ikkala mulohaza ham yolg'on (0) bo'lganda» varianti «Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18336,6 +18568,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18344,7 +18584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-744",
-      "question": "«Unar amal bo'lib, chin qiymatni yolg'onga, yolg'onni chinga aylantiradi» varianti «Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Unar amal bo'lib, chin qiymatni yolg'onga, yolg'onni chinga aylantiradi» varianti «Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18353,6 +18593,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18361,7 +18609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-745",
-      "question": "«Diskretlik, tushunarlilik, aniqlik (determinallik), ommaviylik, natijaviylik» varianti «Algoritmning asosiy xossalari qaysilar?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Diskretlik, tushunarlilik, aniqlik (determinallik), ommaviylik, natijaviylik» varianti «Algoritmning asosiy xossalari qaysilar?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18370,6 +18618,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18378,7 +18634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-746",
-      "question": "«Romb» varianti «Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Romb» varianti «Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18387,6 +18643,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18395,7 +18659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-747",
-      "question": "«Parallelogramm» varianti «Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Parallelogramm» varianti «Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18404,6 +18668,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18412,7 +18684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-748",
-      "question": "«To'g'ri to'rtburchak» varianti «Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «To'g'ri to'rtburchak» varianti «Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18421,6 +18693,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18429,7 +18709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-749",
-      "question": "«Oval (ellips)» varianti «Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Oval (ellips)» varianti «Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18438,6 +18718,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18446,7 +18734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-750",
-      "question": "«//» varianti «Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «//» varianti «Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18455,6 +18743,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18463,7 +18759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-751",
-      "question": "«%» varianti «Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «%» varianti «Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18472,6 +18768,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18480,7 +18784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-752",
-      "question": "«**» varianti «Python tilida darajaga ko'tarish operatori qanday belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «**» varianti «Python tilida darajaga ko'tarish operatori qanday belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18489,6 +18793,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18497,7 +18809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-753",
-      "question": "«int» varianti «Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «int» varianti «Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18506,6 +18818,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18514,7 +18834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-754",
-      "question": "«float» varianti «Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «float» varianti «Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18523,6 +18843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18531,7 +18859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-755",
-      "question": "«str (string)» varianti «Satrli (matnli) ma'lumot turi qanday ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «str (string)» varianti «Satrli (matnli) ma'lumot turi qanday ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18540,6 +18868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18548,7 +18884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-756",
-      "question": "«<a>» varianti «Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<a>» varianti «Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18557,6 +18893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18565,7 +18909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-757",
-      "question": "«<img>» varianti «HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<img>» varianti «HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18574,6 +18918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18582,7 +18934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-758",
-      "question": "«<h1>» varianti «HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<h1>» varianti «HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18591,6 +18943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18599,7 +18959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-759",
-      "question": "«<ol>» varianti «HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<ol>» varianti «HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18608,6 +18968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18616,7 +18984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-760",
-      "question": "«Web sahifaning tashqi ko'rinishi va dizaynini bezash» varianti «CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifaning tashqi ko'rinishi va dizaynini bezash» varianti «CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18625,6 +18993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18633,7 +19009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-761",
-      "question": "«4 bayt (32 bit, masalan: 192.168.1.1)» varianti «IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «4 bayt (32 bit, masalan: 192.168.1.1)» varianti «IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18642,6 +19018,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18650,7 +19034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-762",
-      "question": "«Domen nomlarini (masalan, google.com) IP manzilga aylantirib berish» varianti «DNS (Domain Name System) serverining asosiy vazifasi nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Domen nomlarini (masalan, google.com) IP manzilga aylantirib berish» varianti «DNS (Domain Name System) serverining asosiy vazifasi nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18659,6 +19043,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18667,7 +19059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-763",
-      "question": "«MAC-manzil» varianti «Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «MAC-manzil» varianti «Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18676,6 +19068,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18684,7 +19084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-764",
-      "question": "«FTP» varianti «Fayllarni internet orqali uzatishning klassik protokoli qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «FTP» varianti «Fayllarni internet orqali uzatishning klassik protokoli qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18693,6 +19093,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18701,7 +19109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-765",
-      "question": "«SMTP» varianti «Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP» varianti «Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18710,6 +19118,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18718,7 +19134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-766",
-      "question": "«O'zaro bog'langan jadvallar ko'rinishida» varianti «Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «O'zaro bog'langan jadvallar ko'rinishida» varianti «Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18727,6 +19143,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18735,7 +19159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-767",
-      "question": "«Yozuv (kortej / record)» varianti «Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Yozuv (kortej / record)» varianti «Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18744,6 +19168,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18752,7 +19184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-768",
-      "question": "«Maydon (field / atribut)» varianti «Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Maydon (field / atribut)» varianti «Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18761,6 +19193,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18769,7 +19209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-769",
-      "question": "«Birlamchi kalit (Primary Key)» varianti «Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Birlamchi kalit (Primary Key)» varianti «Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18778,6 +19218,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18786,7 +19234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-770",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18795,6 +19243,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18803,7 +19259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-771",
-      "question": "«Markaziy protsessor (CPU)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Markaziy protsessor (CPU)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18812,6 +19268,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18820,7 +19284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-772",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18829,6 +19293,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18837,7 +19309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-773",
-      "question": "«Operativ xotira (RAM)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Operativ xotira (RAM)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18846,6 +19318,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18854,7 +19334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-774",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18863,6 +19343,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18871,7 +19359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-775",
-      "question": "«Doimiy xotira (ROM)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Doimiy xotira (ROM)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18880,6 +19368,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18888,7 +19384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-776",
-      "question": "«Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish» varianti «Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish» varianti «Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18897,6 +19393,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18905,7 +19409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-777",
-      "question": "«Kesh-xotira (Cache)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kesh-xotira (Cache)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18914,6 +19418,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18922,7 +19434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-778",
-      "question": "«Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish» varianti «Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish» varianti «Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18931,6 +19443,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18939,7 +19459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-779",
-      "question": "«Videokarta (GPU)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Videokarta (GPU)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18948,6 +19468,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18956,7 +19484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-780",
-      "question": "«Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata» varianti «Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata» varianti «Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18965,6 +19493,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -18973,7 +19509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-781",
-      "question": "«Ona plata (Motherboard)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ona plata (Motherboard)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18982,6 +19518,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -18990,7 +19534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-782",
-      "question": "«220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish» varianti «Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish» varianti «Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -18999,6 +19543,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19007,7 +19559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-783",
-      "question": "«Quvvat bloki (Power Supply)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Quvvat bloki (Power Supply)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19016,6 +19568,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19024,7 +19584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-784",
-      "question": "«Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli» varianti «Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli» varianti «Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19033,6 +19593,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19041,7 +19609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-785",
-      "question": "«HTTP / HTTPS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «HTTP / HTTPS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19050,6 +19618,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19058,7 +19634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-786",
-      "question": "«Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli» varianti «Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli» varianti «Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19067,6 +19643,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19075,7 +19659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-787",
-      "question": "«FTP (File Transfer Protocol)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «FTP (File Transfer Protocol)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19084,6 +19668,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19092,7 +19684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-788",
-      "question": "«Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli» varianti «Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli» varianti «Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19101,6 +19693,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19109,7 +19709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-789",
-      "question": "«SMTP (Simple Mail Transfer Protocol)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP (Simple Mail Transfer Protocol)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19118,6 +19718,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19126,7 +19734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-790",
-      "question": "«Elektron pochta serveridan xatlarni qabul qilib olish protokollari» varianti «Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Elektron pochta serveridan xatlarni qabul qilib olish protokollari» varianti «Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19135,6 +19743,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19143,7 +19759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-791",
-      "question": "«POP3 va IMAP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «POP3 va IMAP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19152,6 +19768,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19160,7 +19784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-792",
-      "question": "«Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish» varianti «Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish» varianti «Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19169,6 +19793,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19177,7 +19809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-793",
-      "question": "«DHCP (Dynamic Host Configuration Protocol)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «DHCP (Dynamic Host Configuration Protocol)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19186,6 +19818,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19194,7 +19834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-794",
-      "question": "«Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili» varianti «Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili» varianti «Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19203,6 +19843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19211,7 +19859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-795",
-      "question": "«IP manzil» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «IP manzil» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19220,6 +19868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19228,7 +19884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-796",
-      "question": "«Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili» varianti «Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili» varianti «Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19237,6 +19893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19245,7 +19909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-797",
-      "question": "«MAC manzil» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «MAC manzil» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19254,6 +19918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19262,7 +19934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-798",
-      "question": "«Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma» varianti «Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma» varianti «Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19271,6 +19943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19279,7 +19959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-799",
-      "question": "«Marshrutizator (Router)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Marshrutizator (Router)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19288,6 +19968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19296,7 +19984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-800",
-      "question": "«Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma» varianti «Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma» varianti «Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19305,6 +19993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19313,7 +20009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-801",
-      "question": "«Kommutator (Switch)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kommutator (Switch)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19322,6 +20018,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19330,7 +20034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-802",
-      "question": "«Microsoft Word matnli hujjati fayl kengaytmasi» varianti «Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Microsoft Word matnli hujjati fayl kengaytmasi» varianti «Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19339,6 +20043,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19347,7 +20059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-803",
-      "question": "«.docx / .doc» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.docx / .doc» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19356,6 +20068,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19364,7 +20084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-804",
-      "question": "«Microsoft Excel elektron jadvali fayl kengaytmasi» varianti «Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Microsoft Excel elektron jadvali fayl kengaytmasi» varianti «Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19373,6 +20093,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19381,7 +20109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-805",
-      "question": "«.xlsx / .xls» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.xlsx / .xls» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19390,6 +20118,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19398,7 +20134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-806",
-      "question": "«Microsoft PowerPoint taqdimot fayli kengaytmasi» varianti «Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Microsoft PowerPoint taqdimot fayli kengaytmasi» varianti «Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19407,6 +20143,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19415,7 +20159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-807",
-      "question": "«.pptx / .ppt» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.pptx / .ppt» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19424,6 +20168,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19432,7 +20184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-808",
-      "question": "«Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli» varianti «Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli» varianti «Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19441,6 +20193,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19449,7 +20209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-809",
-      "question": "«.html / .htm» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.html / .htm» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19458,6 +20218,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19466,7 +20234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-810",
-      "question": "«Raqamli audio (tovush) fayllari formati» varianti «Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Raqamli audio (tovush) fayllari formati» varianti «Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19475,6 +20243,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19483,7 +20259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-811",
-      "question": "«.mp3 / .wav» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.mp3 / .wav» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19492,6 +20268,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19500,7 +20284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-812",
-      "question": "«Raqamli video fayllari kengaytmasi» varianti «Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Raqamli video fayllari kengaytmasi» varianti «Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19509,6 +20293,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19517,7 +20309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-813",
-      "question": "«.mp4 / .avi / .mkv» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.mp4 / .avi / .mkv» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19526,6 +20318,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19534,7 +20334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-814",
-      "question": "«Raqamli rastrli va vektorli grafik tasvirlar formati» varianti «Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Raqamli rastrli va vektorli grafik tasvirlar formati» varianti «Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19543,6 +20343,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19551,7 +20359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-815",
-      "question": "«.jpg / .png / .svg» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.jpg / .png / .svg» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19560,6 +20368,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19568,7 +20384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-816",
-      "question": "«Hajmni kichraytirish va arxivlash dasturlari fayli» varianti «Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Hajmni kichraytirish va arxivlash dasturlari fayli» varianti «Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19577,6 +20393,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19585,7 +20409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-817",
-      "question": "«.zip / .rar / .7z» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.zip / .rar / .7z» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19594,6 +20418,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19602,7 +20434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-818",
-      "question": "«Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli» varianti «Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli» varianti «Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19611,6 +20443,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19619,7 +20459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-819",
-      "question": "«.exe / .msi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.exe / .msi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19628,6 +20468,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19636,7 +20484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-820",
-      "question": "«Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar» varianti «Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar» varianti «Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19645,6 +20493,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19653,7 +20509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-821",
-      "question": "«Tizimli dasturiy ta'minot» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Tizimli dasturiy ta'minot» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19662,6 +20518,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19670,7 +20534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-822",
-      "question": "«Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)» varianti «Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)» varianti «Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19679,6 +20543,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19687,7 +20559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-823",
-      "question": "«Amaliy dasturiy ta'minot» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Amaliy dasturiy ta'minot» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19696,6 +20568,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19704,7 +20584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-824",
-      "question": "«Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur» varianti «Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur» varianti «Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19713,6 +20593,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19721,7 +20609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-825",
-      "question": "«Drayver» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Drayver» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19730,6 +20618,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19738,7 +20634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-826",
-      "question": "«Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim» varianti «Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim» varianti «Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19747,6 +20643,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19755,7 +20659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-827",
-      "question": "«BIOS (Basic Input/Output System)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «BIOS (Basic Input/Output System)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19764,6 +20668,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19772,7 +20684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-828",
-      "question": "«Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi» varianti «Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi» varianti «Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19781,6 +20693,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19789,7 +20709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-829",
-      "question": "«Antivirus dasturi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Antivirus dasturi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19798,6 +20718,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19806,7 +20734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-830",
-      "question": "«Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha» varianti «Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha» varianti «Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19815,6 +20743,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19823,7 +20759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-831",
-      "question": "«O'zgaruvchi (Variable)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «O'zgaruvchi (Variable)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19832,6 +20768,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19840,7 +20784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-832",
-      "question": "«Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma» varianti «Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma» varianti «Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19849,6 +20793,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19857,7 +20809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-833",
-      "question": "«Massiv (Ro'yxat / List)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Massiv (Ro'yxat / List)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19866,6 +20818,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19874,7 +20834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-834",
-      "question": "«Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki» varianti «Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki» varianti «Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19883,6 +20843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19891,7 +20859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-835",
-      "question": "«Funksiya (Function)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Funksiya (Function)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19900,6 +20868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19908,7 +20884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-836",
-      "question": "«Funksiyaning o'zini o'zi qayta chaqirishi hodisasi» varianti «Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Funksiyaning o'zini o'zi qayta chaqirishi hodisasi» varianti «Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19917,6 +20893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19925,7 +20909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-837",
-      "question": "«Rekursiya» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Rekursiya» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19934,6 +20918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -19942,7 +20934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-838",
-      "question": "«Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita» varianti «Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita» varianti «Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19951,6 +20943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19959,7 +20959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-839",
-      "question": "«Kompilyator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompilyator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19968,6 +20968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19976,7 +20984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-840",
-      "question": "«Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)» varianti «Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)» varianti «Informatikada 'Interpretator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -19985,6 +20993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -19993,7 +21009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-841",
-      "question": "«Interpretator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Interpretator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dastur kodini qatorma-qator o'qib, ketma-ket bajaruvchi vosita (masalan, Python interpretatori)'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20002,6 +21018,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20010,7 +21034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-842",
-      "question": "«HTML tilida jadval yaratish uchun ochiladigan bosh teg» varianti «Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML tilida jadval yaratish uchun ochiladigan bosh teg» varianti «Informatikada '<table> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20019,6 +21043,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20027,7 +21059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-843",
-      "question": "«<table> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<table> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML tilida jadval yaratish uchun ochiladigan bosh teg'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20036,6 +21068,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20044,7 +21084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-844",
-      "question": "«HTML jadvalida yangi satr (qator) hosil qiluvchi teg» varianti «Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML jadvalida yangi satr (qator) hosil qiluvchi teg» varianti «Informatikada '<tr> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20053,6 +21093,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20061,7 +21109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-845",
-      "question": "«<tr> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<tr> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida yangi satr (qator) hosil qiluvchi teg'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20070,6 +21118,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20078,7 +21134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-846",
-      "question": "«HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg» varianti «Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg» varianti «Informatikada '<td> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20087,6 +21143,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20095,7 +21159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-847",
-      "question": "«<td> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<td> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'HTML jadvalida satr ichidagi alohida ustun (katakcha) ma'lumotini kirituvchi teg'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20104,6 +21168,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20112,7 +21184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-848",
-      "question": "«Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi» varianti «Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi» varianti «Informatikada '<form> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20121,6 +21193,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20129,7 +21209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-849",
-      "question": "«<form> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<form> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchidan ma'lumotlarni qabul qilish va serverga jo'natish uchun shakl yaratish tegi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20138,6 +21218,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20146,7 +21234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-850",
-      "question": "«Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg» varianti «Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg» varianti «Informatikada '<input> tegi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20155,6 +21243,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20163,7 +21259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-851",
-      "question": "«<input> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<input> tegi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchi ma'lumot kiritishi uchun maydon (matn, parol, checkbox, radio) yaratuvchi teg'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20172,6 +21268,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20180,7 +21284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-852",
-      "question": "«Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili» varianti «Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili» varianti «Informatikada 'JavaScript' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20189,6 +21293,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20197,7 +21309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-853",
-      "question": "«JavaScript» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «JavaScript» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarga dinamik xatti-harakat va interaktivlik qo'shuvchi dasturlash tili'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20206,6 +21318,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20214,7 +21334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-854",
-      "question": "«print()» varianti «Python tilida ekranga ma'lumot chiqarish funksiyasi qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «print()» varianti «Python tilida ekranga ma'lumot chiqarish funksiyasi qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20223,6 +21343,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20231,7 +21359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-855",
-      "question": "«input()» varianti «Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «input()» varianti «Python tilida foydalanuvchidan klaviatura orqali ma'lumot qabul qilish funksiyasi qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20240,6 +21368,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20248,7 +21384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-856",
-      "question": "«if» varianti «Python tilida shart operatori qaysi kalit so'z bilan boshlanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «if» varianti «Python tilida shart operatori qaysi kalit so'z bilan boshlanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20257,6 +21393,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20265,7 +21409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-857",
-      "question": "«def» varianti «Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «def» varianti «Python tilida yangi funksiya yaratish uchun qaysi kalit so'z ishlatiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20274,6 +21418,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20282,7 +21434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-858",
-      "question": "«for» varianti «Python tilida ma'lum qadamlar bilan cheklangan takrorlanish (tsikl) operatori qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «for» varianti «Python tilida ma'lum qadamlar bilan cheklangan takrorlanish (tsikl) operatori qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20291,6 +21443,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20299,7 +21459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-859",
-      "question": "«while» varianti «Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «while» varianti «Shartli takrorlanish (shart bajarilib turguncha takrorlanuvchi tsikl) qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20308,6 +21468,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20316,7 +21484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-860",
-      "question": "«[ ] (to'rtburchak qavslar)» varianti «Python tilida ro'yxat (list) elementlari qaysi qavslar ichiga yoziladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «[ ] (to'rtburchak qavslar)» varianti «Python tilida ro'yxat (list) elementlari qaysi qavslar ichiga yoziladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20325,6 +21493,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20333,7 +21509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-861",
-      "question": "«( ) (oddiy qavslar)» varianti «O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «( ) (oddiy qavslar)» varianti «O'zgarmas ro'yxat (kortej / tuple) qaysi qavslar ichida e'lon qilinadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20342,6 +21518,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20350,7 +21534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-862",
-      "question": "«{kalit: qiymat}» varianti «Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «{kalit: qiymat}» varianti «Lug'at (dictionary) ma'lumot turi qanday sintaksisga ega?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20359,6 +21543,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20367,7 +21559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-863",
-      "question": "«len()» varianti «Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «len()» varianti «Python tilida ro'yxat uzunligini (elementlar sonini) aniqlovchi funksiya qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20376,6 +21568,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20384,7 +21584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-864",
-      "question": "«Piksellar (nuqtalar) to'riga» varianti «Rastrli grafika nimaga asoslangan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Piksellar (nuqtalar) to'riga» varianti «Rastrli grafika nimaga asoslangan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20393,6 +21593,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20401,7 +21609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-865",
-      "question": "«Kattalashtirilganda yoki kichraytirilganda sifatini yo'qotmaydi» varianti «Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kattalashtirilganda yoki kichraytirilganda sifatini yo'qotmaydi» varianti «Vektorli grafikaning rastrli grafikadan asosiy afzalligi nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20410,6 +21618,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20418,7 +21634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-866",
-      "question": "«Red (Qizil), Green (Yashil), Blue (Ko'k)» varianti «RGB rang modelida asosiy ranglar qaysilar?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Red (Qizil), Green (Yashil), Blue (Ko'k)» varianti «RGB rang modelida asosiy ranglar qaysilar?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20427,6 +21643,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20435,7 +21659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-867",
-      "question": "«CMYK (Cyan, Magenta, Yellow, blacK)» varianti «Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «CMYK (Cyan, Magenta, Yellow, blacK)» varianti «Bosmaxona va poligrafiyada keng qo'llaniladigan 4 rangli model qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20444,6 +21668,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20452,7 +21684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-868",
-      "question": "«Maxfiylik, yaxlitlik va foydalanish imkoniyati (barkamollik)» varianti «Axborot xavfsizligining uchta asosiy tamoyili qaysilar?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Maxfiylik, yaxlitlik va foydalanish imkoniyati (barkamollik)» varianti «Axborot xavfsizligining uchta asosiy tamoyili qaysilar?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20461,6 +21693,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20469,7 +21709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-869",
-      "question": "«Xotiradagi hajmini kichraytirish va tarmoqda uzatishni tezlashtirish» varianti «Fayllarni siqish (arxivlash)dan asosiy maqsad nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Xotiradagi hajmini kichraytirish va tarmoqda uzatishni tezlashtirish» varianti «Fayllarni siqish (arxivlash)dan asosiy maqsad nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20478,6 +21718,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20486,7 +21734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-870",
-      "question": "«Windows, Linux, macOS, Android» varianti «Quyidagilardan qaysi biri operatsion sistema hisoblanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Windows, Linux, macOS, Android» varianti «Quyidagilardan qaysi biri operatsion sistema hisoblanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20495,6 +21743,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20503,7 +21759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-871",
-      "question": "«Linus Torvalds (1991-yilda)» varianti «Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Linus Torvalds (1991-yilda)» varianti «Linux operatsion sistemasining asosiy yadrosi (kernel) kim tomonidan yaratilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20512,6 +21768,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20520,7 +21784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-872",
-      "question": "«Bill Geyts va Pol Allen» varianti «Microsoft kompaniyasining asoschisi kim?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Bill Geyts va Pol Allen» varianti «Microsoft kompaniyasining asoschisi kim?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20529,6 +21793,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20537,7 +21809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-873",
-      "question": "«Stiv Jobs va Stiv Voznyak» varianti «Apple kompaniyasining asoschilari kimlar?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Stiv Jobs va Stiv Voznyak» varianti «Apple kompaniyasining asoschilari kimlar?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20546,6 +21818,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20554,7 +21834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-874",
-      "question": "«Larri Peyj va Sergey Brin» varianti «Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Larri Peyj va Sergey Brin» varianti «Birlamchi va eng ommabop internet qidiruv tizimi Google kimlar tomonidan asos solingan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20563,6 +21843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20580,6 +21868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20597,6 +21893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20614,6 +21918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20631,6 +21943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20639,7 +21959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-879",
-      "question": "«16» varianti «Bir baytda nechta bit bor?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «16» varianti «Bir baytda nechta bit bor?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20648,6 +21968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20656,7 +21984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-880",
-      "question": "«Qattiq disk» varianti «Kompyuterning asosiy hisoblash qurilmasi qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Qattiq disk» varianti «Kompyuterning asosiy hisoblash qurilmasi qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20665,6 +21993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20673,7 +22009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-881",
-      "question": "«Mobil ilova ishlab chiqish» varianti «HTML tili asosan nima uchun ishlatiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Mobil ilova ishlab chiqish» varianti «HTML tili asosan nima uchun ishlatiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20682,6 +22018,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20690,7 +22034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-882",
-      "question": "«8» varianti «Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «8» varianti «Ikkilik sanoq sistemasidagi 1010 soni o‘nlikda nechaga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20699,6 +22043,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20707,7 +22059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-883",
-      "question": "«1000 bayt» varianti «1 Kilobayt (KB) necha baytga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «1000 bayt» varianti «1 Kilobayt (KB) necha baytga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20716,6 +22068,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20724,7 +22084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-884",
-      "question": "«1024 bayt» varianti «1 Megabayt (MB) necha Kilobaytga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «1024 bayt» varianti «1 Megabayt (MB) necha Kilobaytga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20733,6 +22093,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20741,7 +22109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-885",
-      "question": "«4096 MB» varianti «1 Gigabayt (GB) necha Megabaytga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «4096 MB» varianti «1 Gigabayt (GB) necha Megabaytga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20750,6 +22118,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20758,7 +22134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-886",
-      "question": "«4 bit» varianti «ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «4 bit» varianti «ASCII kodlash jadvalida bitta belgi xotiradan qancha joy egallaydi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20767,6 +22143,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20775,7 +22159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-887",
-      "question": "«8 bit» varianti «Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «8 bit» varianti «Unicode (UTF-16) kodlash tizimida bitta belgi xotirada qancha joy oladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20784,6 +22168,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20792,7 +22184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-888",
-      "question": "«N = log₂i» varianti «Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «N = log₂i» varianti «Hartli formulasi bo'yicha N ta teng ehtimolli hodisaning axborot hajmi qanday topiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20801,6 +22193,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20809,7 +22209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-889",
-      "question": "«K, L, M, N, O, P» varianti «O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «K, L, M, N, O, P» varianti «O'n oltilik sanoq sistemasida 10, 11, 12, 13, 14, 15 sonlari qanday belgilar bilan belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20818,6 +22218,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20826,7 +22234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-890",
-      "question": "«14» varianti «Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «14» varianti «Ikkilikdagi 1111 soni o'nlik sanoq sistemasida nechaga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20835,6 +22243,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20843,7 +22259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-891",
-      "question": "«1111» varianti «O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «1111» varianti «O'nlik sanoq sistemasidagi 16 soni ikkilikda qanday yoziladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20852,6 +22268,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20860,7 +22284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-892",
-      "question": "«F» varianti «Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «F» varianti «Sakkizlik sanoq sistemasidagi eng katta bir xonali raqam qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20869,6 +22293,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20877,7 +22309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-893",
-      "question": "«10» varianti «O'n oltilikdagi 1A soni o'nlikda nechaga teng?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «10» varianti «O'n oltilikdagi 1A soni o'nlikda nechaga teng?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20886,6 +22318,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20894,7 +22334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-894",
-      "question": "«Fleshka» varianti «Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Fleshka» varianti «Kompyuter elektr tarmog'idan uzilganda qaysi xotiradagi ma'lumotlar o'chib ketadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20903,6 +22343,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20911,7 +22359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-895",
-      "question": "«O'yinlar» varianti «Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «O'yinlar» varianti «Kompyuterning doimiy xotirasi (ROM)da nima saqlanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20920,6 +22368,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -20928,7 +22384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-896",
-      "question": "«Grafik tasvirlarni chizadi» varianti «Kesh-xotira (Cache memory) qanday vazifani bajaradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Grafik tasvirlarni chizadi» varianti «Kesh-xotira (Cache memory) qanday vazifani bajaradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20937,6 +22393,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20945,7 +22409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-897",
-      "question": "«Registr» varianti «Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Registr» varianti «Kompyuterning ma'lumotlarni uzoq muddatli saqlashga mo'ljallangan magnitli qurilmasi qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20954,6 +22418,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20962,7 +22434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-898",
-      "question": "«FDD» varianti «Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «FDD» varianti «Magnitli qattiq disk (HDD)dan ancha tez ishlaydigan chip/mikrosxemali zamonaviy saqlovchi qurilma qanday ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20971,6 +22443,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20979,7 +22459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-899",
-      "question": "«BPS» varianti «Taktli chastotaning o'lchov birligi nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «BPS» varianti «Taktli chastotaning o'lchov birligi nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -20988,6 +22468,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -20996,7 +22484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-900",
-      "question": "«Monitor» varianti «Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Monitor» varianti «Quyidagilardan qaysi biri axborotni kiritish qurilmasi hisoblanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21005,6 +22493,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21013,7 +22509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-901",
-      "question": "«Klaviatura» varianti «Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Klaviatura» varianti «Quyidagilardan qaysi biri axborotni chiqarish qurilmasi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21022,6 +22518,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21030,7 +22534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-902",
-      "question": "«Printer» varianti «Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Printer» varianti «Chizmachilik va muhandislikda katta formatli chizmalarni qog'ozga chiqaruvchi qurilma nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21039,6 +22543,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21047,7 +22559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-903",
-      "question": "«Birinchisi chin, ikkinchisi yolg'on bo'lganda» varianti «Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Birinchisi chin, ikkinchisi yolg'on bo'lganda» varianti «Mantiqiy 'VA' (Kon'yunksiya) amali qachon chin (1) natija beradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21056,6 +22568,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21064,7 +22584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-904",
-      "question": "«Biri chin bo'lganda» varianti «Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Biri chin bo'lganda» varianti «Mantiqiy 'YOKI' (Diz'yunksiya) amali qachon yolg'on (0) natija beradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21073,6 +22593,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21081,7 +22609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-905",
-      "question": "«Sonni nolga tenglashtiradi» varianti «Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Sonni nolga tenglashtiradi» varianti «Mantiqiy 'INKOR' (Inversiya, NOT) amali qanday amal hisoblanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21090,6 +22618,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21098,7 +22634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-906",
-      "question": "«Ranglilik va hajm» varianti «Algoritmning asosiy xossalari qaysilar?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ranglilik va hajm» varianti «Algoritmning asosiy xossalari qaysilar?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21107,6 +22643,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21115,7 +22659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-907",
-      "question": "«To'g'ri to'rtburchak» varianti «Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «To'g'ri to'rtburchak» varianti «Blok-sxemalarda shart tekshirish (tarmoqlanish) qaysi geometrik figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21124,6 +22668,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21132,7 +22684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-908",
-      "question": "«Romb» varianti «Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Romb» varianti «Blok-sxemada ma'lumotlarni kiritish va chiqarish qaysi figura orqali ifodalanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21141,6 +22693,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21149,7 +22709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-909",
-      "question": "«Romb» varianti «Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Romb» varianti «Blok-sxemada jarayon (arifmetik hisoblash amali) qaysi figura bilan chiziladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21158,6 +22718,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21166,7 +22734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-910",
-      "question": "«To'g'ri to'rtburchak» varianti «Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «To'g'ri to'rtburchak» varianti «Blok-sxemaning boshlanishi va tugallanishi qaysi figura bilan belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21175,6 +22743,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21183,7 +22759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-911",
-      "question": "«**» varianti «Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «**» varianti «Python dasturlash tilida butun sonli bo'lish (bo'linmaning faqat butun qismini olish) amali qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21192,6 +22768,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21200,7 +22784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-912",
-      "question": "«**» varianti «Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «**» varianti «Python tilida bo'lishdan qolgan qoldiqni hisoblash operatori qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21209,6 +22793,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21217,7 +22809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-913",
-      "question": "«//» varianti «Python tilida darajaga ko'tarish operatori qanday belgilanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «//» varianti «Python tilida darajaga ko'tarish operatori qanday belgilanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21226,6 +22818,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21234,7 +22834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-914",
-      "question": "«float» varianti «Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «float» varianti «Python dasturlash tilida o'zgaruvchining butun son turini belgilovchi tip qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21243,6 +22843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21251,7 +22859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-915",
-      "question": "«char» varianti «Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «char» varianti «Haqiqiy (o'nlik kasrli) sonlar Python tilida qaysi ma'lumot turiga kiradi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21260,6 +22868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21268,7 +22884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-916",
-      "question": "«int» varianti «Satrli (matnli) ma'lumot turi qanday ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «int» varianti «Satrli (matnli) ma'lumot turi qanday ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21277,6 +22893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21285,7 +22909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-917",
-      "question": "«<link>» varianti «Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<link>» varianti «Web sahifada giperhavola (link) yaratish uchun qaysi HTML tegi qo'llaniladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21294,6 +22918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21302,7 +22934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-918",
-      "question": "«<picture>» varianti «HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<picture>» varianti «HTML tilida sahifaga rasm joylashtirish uchun qaysi teg ishlatiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21311,6 +22943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21319,7 +22959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-919",
-      "question": "«<title>» varianti «HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<title>» varianti «HTML tilida eng yuqori darajadagi asosiy sarlavha qaysi teg bilan yoziladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21328,6 +22968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21336,7 +22984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-920",
-      "question": "«<dl>» varianti «HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «<dl>» varianti «HTML sahifada tartiblangan (raqamlangan) ro'yxat yaratuvchi teg qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21345,6 +22993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21353,7 +23009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-921",
-      "question": "«Ma'lumotlar bazasini tuzish» varianti «CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Ma'lumotlar bazasini tuzish» varianti «CSS (Cascading Style Sheets) texnologiyasi nima uchun xizmat qiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21362,6 +23018,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21370,7 +23034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-922",
-      "question": "«16 bayt» varianti «IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «16 bayt» varianti «IP manzil (IPv4) nechta baytdan (oktetdan) tashkil topgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21379,6 +23043,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21387,7 +23059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-923",
-      "question": "«Fayllarni yuklash» varianti «DNS (Domain Name System) serverining asosiy vazifasi nima?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Fayllarni yuklash» varianti «DNS (Domain Name System) serverining asosiy vazifasi nima?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21396,6 +23068,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21404,7 +23084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-924",
-      "question": "«IP-manzil» varianti «Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «IP-manzil» varianti «Tarmoq kartasining zavod tomonidan berilgan takrorlanmas jismoniy apparat manzili nima deyiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21413,6 +23093,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21421,7 +23109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-925",
-      "question": "«POP3» varianti «Fayllarni internet orqali uzatishning klassik protokoli qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «POP3» varianti «Fayllarni internet orqali uzatishning klassik protokoli qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21430,6 +23118,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21438,7 +23134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-926",
-      "question": "«POP3» varianti «Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «POP3» varianti «Elektron pochta xabarlarini jo'natish uchun xizmat qiluvchi protokol qaysi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21447,6 +23143,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21455,7 +23159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-927",
-      "question": "«Tarmoq shaklida» varianti «Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Tarmoq shaklida» varianti «Relyatsion ma'lumotlar bazasida ma'lumotlar qanday shaklda saqlanadi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21464,6 +23168,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21472,7 +23184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-928",
-      "question": "«Maydon (atribut)» varianti «Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Maydon (atribut)» varianti «Ma'lumotlar bazasi jadvalining bitta satri nima deb ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21481,6 +23193,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21489,7 +23209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-929",
-      "question": "«Katastrofa» varianti «Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Katastrofa» varianti «Ma'lumotlar bazasi jadvalining ustuni nima deb ataladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21498,6 +23218,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21506,7 +23234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-930",
-      "question": "«Indeks» varianti «Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Indeks» varianti «Jadvaldagi har bir yozuvni takrorlanmas qilib birma-bir aniqlab beruvchi maydon nima deyiladi?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21515,6 +23243,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21523,7 +23259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-931",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Markaziy protsessor (CPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21532,6 +23268,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21540,7 +23284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-932",
-      "question": "«Operativ xotira» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Operativ xotira» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21549,6 +23293,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21557,7 +23309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-933",
-      "question": "«Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish» varianti «Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish» varianti «Informatikada 'Operativ xotira (RAM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21566,6 +23318,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21574,7 +23334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-934",
-      "question": "«Doimiy xotira (ROM)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Doimiy xotira (ROM)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21583,6 +23343,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21591,7 +23359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-935",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Doimiy xotira (ROM)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21600,6 +23368,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21608,7 +23384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-936",
-      "question": "«Fleshka» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Fleshka» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21617,6 +23393,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21625,7 +23409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-937",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Kesh-xotira (Cache)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21634,6 +23418,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21642,7 +23434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-938",
-      "question": "«Magnit lenta» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Magnit lenta» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Protsessor va operativ xotira o'rtasidagi ma'lumot almashish tezligini oshirish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21651,6 +23443,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21659,7 +23459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-939",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Videokarta (GPU)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21668,6 +23468,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21676,7 +23484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-940",
-      "question": "«Chipset» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Chipset» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Grafik axborotni qayta ishlash va monitor ekraniga tasvir uzatish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21685,6 +23493,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21693,7 +23509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-941",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Ona plata (Motherboard)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21702,6 +23518,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21710,7 +23534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-942",
-      "question": "«Kuler» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kuler» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuterning barcha ichki va tashqi qurilmalarini o'zaro bog'lovchi bosh plata'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21719,6 +23543,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21727,7 +23559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-943",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Quvvat bloki (Power Supply)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21736,6 +23568,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21744,7 +23584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-944",
-      "question": "«Kondensator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kondensator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: '220V o'zgaruvchan tokni kompyuter qismlari uchun zarur bo'lgan past kuchlanishli o'zgarmas tokka aylantirish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21753,6 +23593,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21761,7 +23609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-945",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'HTTP / HTTPS' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21770,6 +23618,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21778,7 +23634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-946",
-      "question": "«SMTP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web sahifalarni (gipermatnlarni) internet orqali xavfsiz uzatish protokoli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21787,6 +23643,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21795,7 +23659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-947",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'FTP (File Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21804,6 +23668,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21812,7 +23684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-948",
-      "question": "«DNS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «DNS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Fayllarni bir kompyuterdan ikkinchisiga tarmoq orqali uzatish protokoli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21821,6 +23693,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21829,7 +23709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-949",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'SMTP (Simple Mail Transfer Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21838,6 +23718,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21846,7 +23734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-950",
-      "question": "«IMAP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «IMAP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta xabarlarini serverga yoki qabul qiluvchiga jo'natish protokoli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21855,6 +23743,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21863,7 +23759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-951",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'POP3 va IMAP' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21872,6 +23768,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21880,7 +23784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-952",
-      "question": "«SMTP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «SMTP» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Elektron pochta serveridan xatlarni qabul qilib olish protokollari'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21889,6 +23793,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21897,7 +23809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-953",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'DHCP (Dynamic Host Configuration Protocol)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21906,6 +23818,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21914,7 +23834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-954",
-      "question": "«DNS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «DNS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqdagi qurilmalarga avtomatik ravishda dinamik IP manzillarni taqsimlab berish'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21923,6 +23843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21931,7 +23859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-955",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'IP manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21940,6 +23868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21948,7 +23884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-956",
-      "question": "«Domen nomi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Domen nomi» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoqqa ulangan har bir qurilmaning global yoki lokal tarmoqdagi mantiqiy unikal manzili'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21957,6 +23893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21965,7 +23909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-957",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'MAC manzil' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21974,6 +23918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21982,7 +23934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-958",
-      "question": "«IP manzil» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «IP manzil» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Tarmoq kartasiga ishlab chiqaruvchi tomonidan berilgan 48 bitli jismoniy apparat manzili'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -21991,6 +23943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21999,7 +23959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-959",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Marshrutizator (Router)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22008,6 +23968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22016,7 +23984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-960",
-      "question": "«Xab (Hub)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Xab (Hub)» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Turli tarmoqlar o'rtasida ma'lumotlar paketini optimal yo'nalish bo'yicha yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22025,6 +23993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22033,7 +24009,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-961",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Kommutator (Switch)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22042,6 +24018,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22050,7 +24034,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-962",
-      "question": "«Xab» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Xab» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Lokal tarmoq ichida ma'lumotni faqat qabul qiluvchi qurilmaning MAC manziliga maqsadli yo'naltiruvchi qurilma'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22059,6 +24043,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22067,7 +24059,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-963",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada '.docx / .doc' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22076,6 +24068,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22084,7 +24084,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-964",
-      "question": "«.xlsx» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.xlsx» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Word matnli hujjati fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22093,6 +24093,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22101,7 +24109,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-965",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada '.xlsx / .xls' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22110,6 +24118,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22118,7 +24134,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-966",
-      "question": "«.docx» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.docx» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft Excel elektron jadvali fayl kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22127,6 +24143,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22135,7 +24159,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-967",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada '.pptx / .ppt' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22144,6 +24168,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22152,7 +24184,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-968",
-      "question": "«.mp4» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.mp4» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Microsoft PowerPoint taqdimot fayli kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22161,6 +24193,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22169,7 +24209,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-969",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.html / .htm' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22178,6 +24218,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22186,7 +24234,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-970",
-      "question": "«.css» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.css» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Web brauzerlar orqali ochiladigan gipermatnli sahifa fayli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22195,6 +24243,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22203,7 +24259,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-971",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.mp3 / .wav' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22212,6 +24268,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22220,7 +24284,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-972",
-      "question": "«.png» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.png» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli audio (tovush) fayllari formati'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22229,6 +24293,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22237,7 +24309,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-973",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.mp4 / .avi / .mkv' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22246,6 +24318,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22254,7 +24334,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-974",
-      "question": "«.exe» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.exe» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli video fayllari kengaytmasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22263,6 +24343,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22271,7 +24359,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-975",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.jpg / .png / .svg' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22280,6 +24368,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22288,7 +24384,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-976",
-      "question": "«.mp3» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.mp3» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Raqamli rastrli va vektorli grafik tasvirlar formati'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22297,6 +24393,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22305,7 +24409,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-977",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada '.zip / .rar / .7z' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22314,6 +24418,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22322,7 +24434,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-978",
-      "question": "«.exe» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.exe» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Hajmni kichraytirish va arxivlash dasturlari fayli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22331,6 +24443,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22339,7 +24459,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-979",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada '.exe / .msi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22348,6 +24468,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22356,7 +24484,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-980",
-      "question": "«.sys» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «.sys» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Windows operatsion sistemasida bajariluvchi dastur o'rnatish fayli'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22365,6 +24493,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22373,7 +24509,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-981",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Tizimli dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22382,6 +24518,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22390,7 +24534,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-982",
-      "question": "«O'yinlar» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «O'yinlar» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema, drayverlar va kompyuterning ishlashini ta'minlovchi utilitalar'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22399,6 +24543,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22407,7 +24559,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-983",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Amaliy dasturiy ta'minot' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22416,6 +24568,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22424,7 +24584,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-984",
-      "question": "«BIOS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «BIOS» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Foydalanuvchining aniq bir masalasini yechishga mo'ljallangan dasturlar (Word, Excel, Photoshop)'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22433,6 +24593,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22441,7 +24609,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-985",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Drayver' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22450,6 +24618,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22458,7 +24634,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-986",
-      "question": "«Arxivator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Arxivator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Operatsion sistema bilan tashqi yoki ichki qurilma (printer, videokarta) o'rtasidagi muloqotni ta'minlovchi dastur'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22467,6 +24643,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22475,7 +24659,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-987",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'BIOS (Basic Input/Output System)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22484,6 +24668,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22492,7 +24684,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-988",
-      "question": "«Kesh» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kesh» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Kompyuter yoqilganda qurilmalarni testdan o'tkazuvchi va OTni yuklovchi boshlang'ich tizim'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22501,6 +24693,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22509,7 +24709,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-989",
-      "question": "«Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Barcha arifmetik-mantiqiy amallarni bajarish va kompyuter ishini boshqarish» varianti «Informatikada 'Antivirus dasturi' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22518,6 +24718,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22526,7 +24734,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-990",
-      "question": "«Operatsion sistema» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Operatsion sistema» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Zararli dasturlarni (viruslar, troyanlar, josus dasturlar) aniqlash, bloklash va zararsizlantirish dasturi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22535,6 +24743,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22543,7 +24759,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-991",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'O'zgaruvchi (Variable)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22552,6 +24768,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22560,7 +24784,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-992",
-      "question": "«Modul» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Modul» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Xotiradan ajratilgan va dastur davomida qiymatini o'zgartirishi mumkin bo'lgan nomlangan soha'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22569,6 +24793,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22577,7 +24809,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-993",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Massiv (Ro'yxat / List)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22586,6 +24818,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22594,7 +24834,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-994",
-      "question": "«Skalyar kattalik» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Skalyar kattalik» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Bir xil yoki har xil turdagi elementlarning tartiblangan to'plamini bir nom ostida saqlovchi tuzilma'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22603,6 +24843,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22611,7 +24859,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-995",
-      "question": "«Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Joriy vaqtda ishlayotgan dasturlar va ma'lumotlarni vaqtincha saqlash» varianti «Informatikada 'Funksiya (Function)' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22620,6 +24868,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22628,7 +24884,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-996",
-      "question": "«Shart operatori» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Shart operatori» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturning istalgan joyidan nomini aytib bir necha bor chaqirib ishlatish mumkin bo'lgan mustaqil kod bloki'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22637,6 +24893,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22645,7 +24909,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-997",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Rekursiya' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22654,6 +24918,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22662,7 +24934,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-998",
-      "question": "«Iteratsiya» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Iteratsiya» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Funksiyaning o'zini o'zi qayta chaqirishi hodisasi'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22671,6 +24943,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22679,7 +24959,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-999",
-      "question": "«Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Kompyuterning dastlabki yuklanishini ta'minlovchi BIOS dasturlarini doimiy saqlash» varianti «Informatikada 'Kompilyator' tushunchasining asosiy vazifasi yoki ta'rifi qaysi javobda to'g'ri ko'rsatilgan?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22688,6 +24968,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22696,7 +24984,7 @@ const suniyIntellekt = {
     },
     {
       "id": "suniy-intellekt-1000",
-      "question": "«Translyator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?» savoliga to'g'ri javobmi?",
+      "question": "Sun'iy intellekt bo'yicha: «Translyator» varianti «Quyidagi ta'rif qaysi axborot texnologiyalari qurilmasi, tushunchasi yoki dasturiga tegishli: 'Dasturlash tilida yozilgan barcha kodni birdaniga mashina tiliga (ikkilik kodga) tarjima qilib beruvchi vosita'?» savoliga to'g'ri javobmi?",
       "options": [
         {
           "id": "A",
@@ -22705,6 +24993,14 @@ const suniyIntellekt = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",

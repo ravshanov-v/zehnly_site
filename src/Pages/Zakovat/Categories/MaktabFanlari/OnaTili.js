@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Ona tili (1000 savol)
+// Kredorium Zakovat Platformasi - Ona tili (1000 savol)
 
 const onaTili = {
   "id": "ona_tili",
@@ -9734,7 +9734,7 @@ const onaTili = {
     },
     {
       "id": "ona-tili-390",
-      "question": "Izohdagi bo'sh joyni to'ldiring: Ushbu ta'rif '______'ga tegishli.",
+      "question": "Ona tili bo'yicha: Izohdagi bo'sh joyni to'ldiring: Ushbu ta'rif '______'ga tegishli.",
       "options": [
         {
           "id": "A",
@@ -10268,6 +10268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10285,6 +10293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10302,6 +10318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10319,6 +10343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10336,6 +10368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10353,6 +10393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10370,6 +10418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10387,6 +10443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10404,6 +10468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10421,6 +10493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10438,6 +10518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10455,6 +10543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10472,6 +10568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10489,6 +10593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10506,6 +10618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10523,6 +10643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10540,6 +10668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10557,6 +10693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10574,6 +10718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10591,6 +10743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10608,6 +10768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10625,6 +10793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10642,6 +10818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10659,6 +10843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10676,6 +10868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10693,6 +10893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10710,6 +10918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10727,6 +10943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10744,6 +10968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10761,6 +10993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10778,6 +11018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10795,6 +11043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10812,6 +11068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10829,6 +11093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10846,6 +11118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10863,6 +11143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10880,6 +11168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10897,6 +11193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10914,6 +11218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10931,6 +11243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10948,6 +11268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10965,6 +11293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10982,6 +11318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10999,6 +11343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11016,6 +11368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11033,6 +11393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11050,6 +11418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11067,6 +11443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11084,6 +11468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11101,6 +11493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11118,6 +11518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11135,6 +11543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11152,6 +11568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11169,6 +11593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11186,6 +11618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11203,6 +11643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11220,6 +11668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11237,6 +11693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11254,6 +11718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11271,6 +11743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11288,6 +11768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11305,6 +11793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11322,6 +11818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11339,6 +11843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11356,6 +11868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11373,6 +11893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11390,6 +11918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11407,6 +11943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11424,6 +11968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11441,6 +11993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11458,6 +12018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11475,6 +12043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11492,6 +12068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11509,6 +12093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11526,6 +12118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11543,6 +12143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11560,6 +12168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11577,6 +12193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11594,6 +12218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11611,6 +12243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11628,6 +12268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11645,6 +12293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11662,6 +12318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11679,6 +12343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11696,6 +12368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11713,6 +12393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11730,6 +12418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11747,6 +12443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11764,6 +12468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11781,6 +12493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11798,6 +12518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11815,6 +12543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11832,6 +12568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11849,6 +12593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11866,6 +12618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11883,6 +12643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11900,6 +12668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11917,6 +12693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11934,6 +12718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11951,6 +12743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11968,6 +12768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11985,6 +12793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12002,6 +12818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12019,6 +12843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12036,6 +12868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12053,6 +12893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12070,6 +12918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12087,6 +12943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12104,6 +12968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12121,6 +12993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12138,6 +13018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12155,6 +13043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12172,6 +13068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12189,6 +13093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12206,6 +13118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12223,6 +13143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12240,6 +13168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12257,6 +13193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12274,6 +13218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12291,6 +13243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12308,6 +13268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12325,6 +13293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12342,6 +13318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12359,6 +13343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12376,6 +13368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12393,6 +13393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12410,6 +13418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12427,6 +13443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12444,6 +13468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12461,6 +13493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12478,6 +13518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12495,6 +13543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12512,6 +13568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12529,6 +13593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12546,6 +13618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12563,6 +13643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12580,6 +13668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12597,6 +13693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12614,6 +13718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12631,6 +13743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12648,6 +13768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12665,6 +13793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12682,6 +13818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12699,6 +13843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12716,6 +13868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12733,6 +13893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12750,6 +13918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12767,6 +13943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12784,6 +13968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12801,6 +13993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12818,6 +14018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12835,6 +14043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12852,6 +14068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12869,6 +14093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12886,6 +14118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12903,6 +14143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12920,6 +14168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12937,6 +14193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12954,6 +14218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12971,6 +14243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12988,6 +14268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13005,6 +14293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13022,6 +14318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13039,6 +14343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13056,6 +14368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13073,6 +14393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13090,6 +14418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13107,6 +14443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13124,6 +14468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13141,6 +14493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13158,6 +14518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13175,6 +14543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13192,6 +14568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13209,6 +14593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13226,6 +14618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13243,6 +14643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13260,6 +14668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13277,6 +14693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13294,6 +14718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13311,6 +14743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13328,6 +14768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13345,6 +14793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13362,6 +14818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13379,6 +14843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13396,6 +14868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13413,6 +14893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13430,6 +14918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13447,6 +14943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13464,6 +14968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13481,6 +14993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13498,6 +15018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13515,6 +15043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13532,6 +15068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13549,6 +15093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13566,6 +15118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13583,6 +15143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13600,6 +15168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13617,6 +15193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13634,6 +15218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13651,6 +15243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13668,6 +15268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13685,6 +15293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13702,6 +15318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13719,6 +15343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13736,6 +15368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13753,6 +15393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13770,6 +15418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13787,6 +15443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13804,6 +15468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13821,6 +15493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13838,6 +15518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13855,6 +15543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13872,6 +15568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13889,6 +15593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13906,6 +15618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13923,6 +15643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13940,6 +15668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13957,6 +15693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13974,6 +15718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13991,6 +15743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14008,6 +15768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14025,6 +15793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14042,6 +15818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14059,6 +15843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14076,6 +15868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14093,6 +15893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14110,6 +15918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14127,6 +15943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14144,6 +15968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14161,6 +15993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14178,6 +16018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14195,6 +16043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14212,6 +16068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14229,6 +16093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14246,6 +16118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14263,6 +16143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14280,6 +16168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14297,6 +16193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14314,6 +16218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14331,6 +16243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14348,6 +16268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14365,6 +16293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14382,6 +16318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14399,6 +16343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14416,6 +16368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14433,6 +16393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14450,6 +16418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14467,6 +16443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14484,6 +16468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14501,6 +16493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14518,6 +16518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14535,6 +16543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14552,6 +16568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14569,6 +16593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14586,6 +16618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14603,6 +16643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14620,6 +16668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14637,6 +16693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14654,6 +16718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14671,6 +16743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14688,6 +16768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14705,6 +16793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14722,6 +16818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14739,6 +16843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14756,6 +16868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14773,6 +16893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14790,6 +16918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14807,6 +16943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14824,6 +16968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14841,6 +16993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14858,6 +17018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14875,6 +17043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14892,6 +17068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14909,6 +17093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14926,6 +17118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14943,6 +17143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14960,6 +17168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14977,6 +17193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14994,6 +17218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15011,6 +17243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15028,6 +17268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15045,6 +17293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15062,6 +17318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15079,6 +17343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15096,6 +17368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15113,6 +17393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15130,6 +17418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15147,6 +17443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15164,6 +17468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15181,6 +17493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15198,6 +17518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15215,6 +17543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15232,6 +17568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15249,6 +17593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15266,6 +17618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15283,6 +17643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15300,6 +17668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15317,6 +17693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15334,6 +17718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15351,6 +17743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15368,6 +17768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15385,6 +17793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15402,6 +17818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15419,6 +17843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15436,6 +17868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15453,6 +17893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15470,6 +17918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15487,6 +17943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15504,6 +17968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15521,6 +17993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15538,6 +18018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15555,6 +18043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15572,6 +18068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15589,6 +18093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15606,6 +18118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15623,6 +18143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15640,6 +18168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15657,6 +18193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15674,6 +18218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15691,6 +18243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15708,6 +18268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15725,6 +18293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15742,6 +18318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15759,6 +18343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15776,6 +18368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15793,6 +18393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15810,6 +18418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15827,6 +18443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15844,6 +18468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15861,6 +18493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15878,6 +18518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15895,6 +18543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15912,6 +18568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15929,6 +18593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15946,6 +18618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15963,6 +18643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15980,6 +18668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15997,6 +18693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16014,6 +18718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16031,6 +18743,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16048,6 +18768,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16065,6 +18793,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16082,6 +18818,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16099,6 +18843,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16116,6 +18868,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16133,6 +18893,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16150,6 +18918,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16167,6 +18943,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16184,6 +18968,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16201,6 +18993,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16218,6 +19018,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16235,6 +19043,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16252,6 +19068,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16269,6 +19093,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16286,6 +19118,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16303,6 +19143,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16320,6 +19168,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16337,6 +19193,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16354,6 +19218,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16371,6 +19243,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16388,6 +19268,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16405,6 +19293,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16422,6 +19318,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16439,6 +19343,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16456,6 +19368,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16473,6 +19393,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16490,6 +19418,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16507,6 +19443,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16524,6 +19468,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16541,6 +19493,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16558,6 +19518,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16575,6 +19543,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16592,6 +19568,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16609,6 +19593,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16626,6 +19618,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16643,6 +19643,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16660,6 +19668,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16677,6 +19693,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16694,6 +19718,14 @@ const onaTili = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",

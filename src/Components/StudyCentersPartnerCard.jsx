@@ -65,16 +65,16 @@ export default function StudyCentersPartnerCard({ compact = false, className = '
         <div className="max-w-xl">
           <span className="inline-flex items-center gap-2 rounded-full border border-ember/25 bg-ember/[0.06] px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.16em] text-ember">
             <span className="h-1.5 w-1.5 rounded-full bg-ember" />
-            Hamkorlik · ochiq
+            Hamkorlik uchun ariza · ochiq
           </span>
 
           <h2 className="mt-4 font-display text-[clamp(1.5rem,3vw,2rem)] font-semibold leading-tight tracking-[-0.035em] text-ink">
-            O‘quv markazingizni platformaga qo‘shing
+            O‘quv markazingizni katalogga qo‘shing
           </h2>
           <p className="mt-2.5 text-sm leading-6 text-muted">
-            O‘quv maskanlari bazasi hali to‘ldirilmagan. Markazingiz haqidagi tasdiqlangan
-            ma’lumotlarni kiritish uchun biz bilan bog‘laning — ma’lumotlar tekshirilgach,
-            katalogga joylanadi.
+            O‘quv maskanlari ma’lumotlari e’lon qilishdan oldin tekshirilmoqda. Markazingiz
+            haqidagi tasdiqlangan ma’lumotlarni kiritish uchun ariza qoldiring —
+            ma’lumotlar tekshirilgach, katalogga joylanadi.
           </p>
 
           <ul className="mt-4 flex flex-col gap-1.5">
@@ -94,7 +94,7 @@ export default function StudyCentersPartnerCard({ compact = false, className = '
             rel="noopener noreferrer"
             className="group inline-flex h-11 items-center justify-center gap-2.5 rounded-xl bg-ember px-5 text-sm font-semibold text-ember-ink transition-all duration-200 hover:-translate-y-0.5 hover:brightness-110 active:scale-[0.98]"
           >
-            Telegram orqali yozish
+            Telegram orqali ariza qoldirish
             <ArrowUpRight className="h-4 w-4 transition-transform duration-200 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
           </a>
           <p className="mt-3 font-mono text-[9px] uppercase tracking-[0.14em] text-muted">

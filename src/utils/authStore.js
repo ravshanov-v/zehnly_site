@@ -1,9 +1,9 @@
 import { isSupabaseEnabled, supabase } from '../lib/supabase.js'
 import { normalizeEmail } from './validation.js'
 
-const USERS_KEY = 'zehnly-users'
-const SESSION_KEY = 'zehnly-session'
-const LAST_EMAIL_KEY = 'zehnly-last-email'
+const USERS_KEY = 'kredorium-users'
+const SESSION_KEY = 'kredorium-session'
+const LAST_EMAIL_KEY = 'kredorium-last-email'
 
 const listeners = new Set()
 
@@ -37,10 +37,17 @@ function mapSupabaseSession(session) {
   const user = session?.user
   if (!user?.email) return null
 
+  const metadata = user.user_metadata || {}
+
   return {
     id: user.id,
     email: user.email,
-    name: user.user_metadata?.name || user.email.split('@')[0],
+    name:
+      metadata.name ||
+      metadata.full_name ||
+      metadata.user_name ||
+      user.email.split('@')[0],
+    avatarUrl: metadata.avatar_url || metadata.picture || '',
     createdAt: user.created_at,
     created_at: user.created_at,
     loggedInAt: new Date().toISOString(),
@@ -112,6 +119,27 @@ function mapAuthError(error) {
       ok: false,
       code: 'WEAK_PASSWORD',
       message: "Parol kamida 6 belgidan iborat bo'lishi kerak",
+    }
+  }
+
+  if (
+    normalized.includes('provider is not enabled') ||
+    normalized.includes('unsupported provider') ||
+    normalized.includes('provider_disabled') ||
+    normalized.includes('provider not found')
+  ) {
+    return {
+      ok: false,
+      code: 'PROVIDER_DISABLED',
+      message: 'Google orqali kirish hozircha mavjud emas',
+    }
+  }
+
+  if (normalized.includes('oauth') || normalized.includes('callback')) {
+    return {
+      ok: false,
+      code: 'OAUTH_ERROR',
+      message: "Google orqali kirishda xatolik yuz berdi. Qayta urinib ko'ring",
     }
   }
 
@@ -258,6 +286,35 @@ export async function loginUser(email, password, options = {}) {
   }
 
   return loginLocalUser(normalizedEmail, password, options)
+}
+
+export async function loginWithGoogle() {
+  if (!isSupabaseEnabled) {
+    return {
+      ok: false,
+      code: 'PROVIDER_DISABLED',
+      message: "Google orqali kirish hozircha mavjud emas. Mehmon rejimida davom eting",
+    }
+  }
+
+  try {
+    const redirectTo =
+      typeof window === 'undefined' ? undefined : `${window.location.origin}/`
+
+    const { error } = await supabase.auth.signInWithOAuth({
+      provider: 'google',
+      options: {
+        redirectTo,
+        queryParams: { prompt: 'select_account' },
+      },
+    })
+
+    if (error) return mapAuthError(error)
+
+    return { ok: true, redirect: true }
+  } catch (error) {
+    return mapAuthError(error)
+  }
 }
 
 export function logoutUser() {

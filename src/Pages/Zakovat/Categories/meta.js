@@ -1,31 +1,42 @@
+import questionCounts from '../../../data/questionCounts.json'
+
+const counts = questionCounts?.categories ?? {}
+
+function withCount(category) {
+  return {
+    ...category,
+    questionCount: counts[category.id] ?? 0,
+  }
+}
+
 const maktabFanlari = [
-  { id: 'matematika', title: 'Matematika', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'adabiyot', title: 'Adabiyot', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'tarix', title: 'Tarix', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'fizika', title: 'Fizika', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'kimyo', title: 'Kimyo', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'biologiya', title: 'Biologiya', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'ona_tili', title: 'Ona tili', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'geografiya', title: 'Geografiya', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'informatika', title: 'Informatika', category: 'Maktab fanlari', questionCount: 1000 },
-  { id: 'huquq', title: 'Huquq', category: 'Maktab fanlari', questionCount: 1000 },
-]
+  { id: 'matematika', title: 'Matematika', category: 'Maktab fanlari' },
+  { id: 'adabiyot', title: 'Adabiyot', category: 'Maktab fanlari' },
+  { id: 'tarix', title: 'Tarix', category: 'Maktab fanlari' },
+  { id: 'fizika', title: 'Fizika', category: 'Maktab fanlari' },
+  { id: 'kimyo', title: 'Kimyo', category: 'Maktab fanlari' },
+  { id: 'biologiya', title: 'Biologiya', category: 'Maktab fanlari' },
+  { id: 'ona_tili', title: 'Ona tili', category: 'Maktab fanlari' },
+  { id: 'geografiya', title: 'Geografiya', category: 'Maktab fanlari' },
+  { id: 'informatika', title: 'Informatika', category: 'Maktab fanlari' },
+  { id: 'huquq', title: 'Huquq', category: 'Maktab fanlari' },
+].map(withCount)
 
 const itYonalishlari = [
-  { id: 'frontend', title: 'Frontend', category: "IT yo'nalishlari", questionCount: 1000 },
-  { id: 'backend', title: 'Backend', category: "IT yo'nalishlari", questionCount: 1000 },
-  { id: 'mobile-dev', title: 'Mobile Dev', category: "IT yo'nalishlari", questionCount: 1000 },
-  { id: 'kiberxavfsizlik', title: 'Kiberxavfsizlik', category: "IT yo'nalishlari", questionCount: 1000 },
-  { id: 'suniy-intellekt', title: "Sun'iy intellekt", category: "IT yo'nalishlari", questionCount: 1000 },
-  { id: 'dizayn-ui-ux', title: 'Dizayn UI/UX', category: "IT yo'nalishlari", questionCount: 1000 },
-]
+  { id: 'frontend', title: 'Frontend', category: "IT yo'nalishlari" },
+  { id: 'backend', title: 'Backend', category: "IT yo'nalishlari" },
+  { id: 'mobile-dev', title: 'Mobile Dev', category: "IT yo'nalishlari" },
+  { id: 'kiberxavfsizlik', title: 'Kiberxavfsizlik', category: "IT yo'nalishlari" },
+  { id: 'suniy-intellekt', title: "Sun'iy intellekt", category: "IT yo'nalishlari" },
+  { id: 'dizayn-ui-ux', title: 'Dizayn UI/UX', category: "IT yo'nalishlari" },
+].map(withCount)
 
 const tillar = [
-  { id: 'ingliz-tili', title: 'Ingliz tili', category: 'Tillar', questionCount: 1000 },
-  { id: 'rus-tili', title: 'Rus tili', category: 'Tillar', questionCount: 1000 },
-  { id: 'turk-tili', title: 'Turk tili', category: 'Tillar', questionCount: 1000 },
-  { id: 'nemis-tili', title: 'Nemis tili', category: 'Tillar', questionCount: 1000 },
-]
+  { id: 'ingliz-tili', title: 'Ingliz tili', category: 'Tillar' },
+  { id: 'rus-tili', title: 'Rus tili', category: 'Tillar' },
+  { id: 'turk-tili', title: 'Turk tili', category: 'Tillar' },
+  { id: 'nemis-tili', title: 'Nemis tili', category: 'Tillar' },
+].map(withCount)
 
 export const categoryMeta = [...maktabFanlari, ...itYonalishlari, ...tillar]
 

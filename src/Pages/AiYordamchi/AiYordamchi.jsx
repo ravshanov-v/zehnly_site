@@ -409,7 +409,7 @@ function TypingIndicator() {
           <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember [animation-delay:-0.12s]" />
           <span className="h-1.5 w-1.5 animate-bounce rounded-full bg-ember" />
         </span>
-        <span className="text-xs text-muted">Mushohada AI o‘ylamoqda...</span>
+        <span className="text-xs text-muted">Kredorium AI o‘ylamoqda...</span>
       </div>
     </div>
   )
@@ -440,7 +440,7 @@ function EmptyState({ onPrompt }) {
         Qanday yordam bera olaman?
       </h1>
       <p className="mt-2 max-w-md text-[13px] leading-6 text-muted sm:text-sm">
-        Savol yozing yoki tayyor mavzulardan birini tanlang. Mushohada AI tushuntiradi,
+        Savol yozing yoki tayyor mavzulardan birini tanlang. Kredorium AI tushuntiradi,
         mashq qilishga va reja tuzishga yordam beradi.
       </p>
 
@@ -594,7 +594,7 @@ export default function AiYordamchi() {
                 <Spark className="h-4 w-4" />
               </span>
               <span className="hidden font-display text-[13px] font-semibold tracking-tight text-ink sm:inline sm:text-sm">
-                Mushohada <span className="text-ember">AI</span>
+                Kredorium <span className="text-ember">AI</span>
               </span>
             </div>
 
@@ -688,7 +688,7 @@ export default function AiYordamchi() {
                   value={input}
                   onChange={(event) => setInput(event.target.value)}
                   onKeyDown={handleKeyDown}
-                  placeholder="Mushohada AI orqali savol bering..."
+                  placeholder="Kredorium AI orqali savol bering..."
                   className="min-h-12 max-h-40 w-full resize-none bg-transparent px-2.5 py-2 text-sm leading-6 text-ink outline-none placeholder:text-muted"
                 />
 

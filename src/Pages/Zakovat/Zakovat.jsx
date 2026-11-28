@@ -19,6 +19,7 @@ import {
   getCategoryBatch,
   resetCategoryProgress,
 } from '../../utils/quizProgress.js'
+import { recordQuizResult } from '../../utils/profileStore.js'
 import { useQuizProgress } from '../../hooks/useQuizProgress.js'
 import { ArrowRight, ArrowUpRight } from '../../Components/Marks.jsx'
 import Reveal from '../../Components/Reveal.jsx'
@@ -39,10 +40,10 @@ const formattedTotal = totalQuestions.toLocaleString('ru-RU')
 
 function notifySessionResult({ totalAnswered, correctCount, totalEarnedXP }) {
   try {
-    if (localStorage.getItem('zehnly_notifications') !== 'true') return
+    if (localStorage.getItem('kredorium_notifications') !== 'true') return
     if (!('Notification' in window) || Notification.permission !== 'granted') return
 
-    new Notification('Mushohada sessiyasi yakunlandi', {
+    new Notification('Kredorium sessiyasi yakunlandi', {
       body: `${correctCount}/${totalAnswered} to'g'ri javob · ${totalEarnedXP} XP`,
     })
   } catch {
@@ -262,6 +263,11 @@ export default function Zakovat() {
       } else {
         sessionRecordIdRef.current = record.id
         addHistoryRecord(record)
+        recordQuizResult({
+          xp: record.xp,
+          correctAnswers: record.correctCount,
+          testsCompleted: 1,
+        }).catch(() => {})
       }
 
       notifySessionResult(stats)
@@ -331,7 +337,7 @@ export default function Zakovat() {
   return (
     <div className="relative z-10 mx-auto flex w-full max-w-5xl select-none flex-col gap-10 pb-20 pt-6 sm:pt-10">
       {gameState === 'lobby' && (
-        <div className="zehnly-fade-in flex flex-col gap-14">
+        <div className="kredorium-fade-in flex flex-col gap-14">
           <Reveal as="header">
             <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
               <span className="relative flex h-1.5 w-1.5">
@@ -621,7 +627,7 @@ export default function Zakovat() {
       )}
 
       {gameState === 'arena' && currentQuestion && (
-        <div className="zehnly-fade-in flex flex-col gap-4">
+        <div className="kredorium-fade-in flex flex-col gap-4">
           <div className="flex flex-wrap items-center justify-between gap-4 rounded-2xl border border-hairline bg-raised px-4 py-3.5 sm:px-5">
             <div className="flex flex-wrap items-center gap-2.5">
               <span className="inline-flex items-center gap-1.5 rounded-md border border-ember/25 bg-ember/[0.06] px-2.5 py-1 font-mono text-[9px] uppercase tracking-[0.1em] text-ember">
@@ -769,7 +775,7 @@ export default function Zakovat() {
           </div>
 
           {isDone && (
-            <div className="zehnly-fade-in flex flex-col gap-4 rounded-2xl border border-hairline bg-raised p-5 sm:flex-row sm:items-center sm:justify-between">
+            <div className="kredorium-fade-in flex flex-col gap-4 rounded-2xl border border-hairline bg-raised p-5 sm:flex-row sm:items-center sm:justify-between">
               <div className="flex items-start gap-3">
                 <span
                   className={`mt-1.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full ${
@@ -822,7 +828,7 @@ export default function Zakovat() {
       )}
 
       {gameState === 'cycle-complete' && (
-        <div className="zehnly-fade-in">
+        <div className="kredorium-fade-in">
           <div className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center text-ink sm:px-12 sm:py-16">
 
             <div className="relative mx-auto max-w-2xl">
@@ -868,7 +874,7 @@ export default function Zakovat() {
       )}
 
       {gameState === 'summary' && (
-        <div className="zehnly-fade-in">
+        <div className="kredorium-fade-in">
           <div className="relative overflow-hidden rounded-3xl border border-hairline bg-raised px-6 py-14 text-center text-ink sm:px-12 sm:py-16">
 
             <div className="relative mx-auto max-w-2xl">

@@ -6,8 +6,10 @@ import { useLanguage } from '../../context/useLanguage.js'
 import { useSession } from '../../hooks/useSession.js'
 import { useAuthReady } from '../../hooks/useAuthReady.js'
 import { useQuizHistory } from '../../hooks/useQuizHistory.js'
+import { useProfile } from '../../hooks/useProfile.js'
 import { useFavorites } from '../../hooks/useFavorites.js'
 import { logoutUser } from '../../utils/authStore.js'
+import { syncGuestStatsToProfile } from '../../utils/profileStore.js'
 import { useToast } from '../../context/useToast.js'
 import {
   formatRecordDate,
@@ -19,6 +21,7 @@ import { mergeGuestProgress } from '../../utils/quizProgress.js'
 import { getNavLabel } from '../../utils/navLabels.js'
 import { studyCenters } from '../../data/studyCenters.js'
 import AuthModal from '../AuthModal/AuthModal.jsx'
+import UserAvatar from '../UserAvatar.jsx'
 import Logo from '../Logo.jsx'
 import ProfilLayout from '../../Pages/Profil/ProfilLayout.jsx'
 import Malumotlarim from '../../Pages/Profil/Malumotlarim.jsx'
@@ -45,13 +48,15 @@ export default function Navbar() {
   const session = useSession()
   const authReady = useAuthReady()
   const { records, stats } = useQuizHistory()
+  const { profile } = useProfile()
   const favoriteIds = useFavorites()
   const isDark = theme === 'dark'
   const activeLanguage = languages.find((item) => item.code === language) ?? languages[0]
 
   const displayName = (session?.name || session?.email?.split('@')[0] || '').trim()
-  const initial = displayName.charAt(0).toUpperCase()
-  const xpLabel = new Intl.NumberFormat('uz-UZ').format(Math.max(stats.xp || 0, 0))
+  const avatarUrl = session?.avatarUrl || ''
+  const liveXp = session ? profile?.xp ?? stats.xp : stats.xp
+  const xpLabel = new Intl.NumberFormat('uz-UZ').format(Math.max(liveXp || 0, 0))
 
   const dateLocale = RELATIVE_DATE_LOCALES[language] ?? RELATIVE_DATE_LOCALES.uz
   const historyLogs = records.map((record) => ({
@@ -67,6 +72,7 @@ export default function Navbar() {
 
   useEffect(() => {
     if (!session?.email) return
+    syncGuestStatsToProfile()
     mergeGuestHistory(session.email)
     mergeGuestFavorites(session.email)
     mergeGuestProgress()
@@ -222,7 +228,7 @@ export default function Navbar() {
                 <div
                   role="listbox"
                   aria-label={t('navbar.chooseLanguage')}
-                  className="zehnly-fade-in absolute right-0 z-50 mt-1.5 w-28 overflow-hidden rounded-lg border border-hairline bg-raised p-1 shadow-xl"
+                  className="kredorium-fade-in absolute right-0 z-50 mt-1.5 w-28 overflow-hidden rounded-lg border border-hairline bg-raised p-1 shadow-xl"
                 >
                   {languages.map((item) => (
                     <button
@@ -263,10 +269,7 @@ export default function Navbar() {
                   aria-label={t('navbar.openProfile')}
                   className="group flex h-9 items-center gap-2 rounded-lg border border-hairline bg-paper/60 py-1 pl-1 pr-1.5 transition-colors hover:border-hairline-strong hover:bg-ink/[0.04] lg:pr-3"
                 >
-                  <span className="relative flex h-7 w-7 shrink-0 items-center justify-center rounded-md gradient-brand font-display text-[12px] font-semibold text-ember-ink">
-                    {initial}
-                    <span className="absolute -bottom-0.5 -right-0.5 h-2.5 w-2.5 rounded-full border-2 border-paper bg-positive" />
-                  </span>
+                  <UserAvatar src={avatarUrl} name={displayName} />
                   <span className="hidden min-w-0 flex-col items-start leading-tight xl:flex">
                     <span className="max-w-[9rem] truncate text-[12px] font-semibold text-ink">
                       {displayName}
@@ -310,14 +313,27 @@ export default function Navbar() {
                 </button>
               </div>
             ) : (
-              <button
-                type="button"
-                onClick={() => setAuthOpen(true)}
-                className="inline-flex h-9 items-center gap-1.5 rounded-lg bg-ink px-3 text-[12px] font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink sm:gap-2 sm:px-4"
-              >
-                <span>{t('navbar.login')}</span>
-                <ArrowUpRight className="hidden h-3.5 w-3.5 sm:block" />
-              </button>
+              <div className="flex items-center gap-2">
+                {stats.xp > 0 && (
+                  <span
+                    title={`${xpLabel} XP · ${t('navbar.guest')}`}
+                    className="hidden h-9 items-center gap-1 rounded-lg border border-ember/20 bg-ember/[0.07] px-2 font-mono text-[10px] font-semibold tabular-nums text-ember sm:flex"
+                  >
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" className="h-3 w-3">
+                      <path d="M13 2 4.5 13.5H11l-1 8.5 9.5-12H13l0-8Z" />
+                    </svg>
+                    {xpLabel}
+                  </span>
+                )}
+                <button
+                  type="button"
+                  onClick={() => setAuthOpen(true)}
+                  className="inline-flex h-9 items-center gap-1.5 rounded-lg bg-ink px-3 text-[12px] font-semibold text-paper transition-colors hover:bg-ember hover:text-ember-ink sm:gap-2 sm:px-4"
+                >
+                  <span>{t('navbar.login')}</span>
+                  <ArrowUpRight className="hidden h-3.5 w-3.5 sm:block" />
+                </button>
+              </div>
             )}
 
             <button
@@ -346,7 +362,7 @@ export default function Navbar() {
         {menuOpen && (
           <nav
             id="mobile-menu"
-            className="zehnly-fade-in border-b border-hairline bg-paper lg:hidden"
+            className="kredorium-fade-in border-b border-hairline bg-paper lg:hidden"
           >
             <div className="mx-auto max-w-[1240px] px-5 py-4 sm:px-8">
               <div className="mb-3 flex items-center justify-between gap-2">
@@ -400,10 +416,12 @@ export default function Navbar() {
               {session ? (
                 <div className="mt-4 rounded-xl border border-hairline bg-paper p-3">
                   <div className="flex items-center gap-3">
-                    <span className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-lg gradient-brand font-display text-base font-semibold text-ember-ink">
-                      {initial}
-                      <span className="absolute -bottom-0.5 -right-0.5 h-3 w-3 rounded-full border-2 border-paper bg-positive" />
-                    </span>
+                    <UserAvatar
+                      src={avatarUrl}
+                      name={displayName}
+                      size="h-10 w-10"
+                      textSize="text-base"
+                    />
                     <div className="min-w-0 flex-1">
                       <p className="truncate text-sm font-semibold text-ink">{displayName}</p>
                       <p className="truncate text-[11px] text-muted">{session.email}</p>

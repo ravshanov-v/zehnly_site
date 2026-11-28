@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Matematika (1000 savol)
+// Kredorium Zakovat Platformasi - Matematika (1000 savol)
 
 const matematika = {
   "id": "matematika",
@@ -10968,6 +10968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10985,6 +10993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11002,6 +11018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11019,6 +11043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11036,6 +11068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11053,6 +11093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11070,6 +11118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11087,6 +11143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11104,6 +11168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11121,6 +11193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11138,6 +11218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11155,6 +11243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11172,6 +11268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11189,6 +11293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11206,6 +11318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11223,6 +11343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11240,6 +11368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11257,6 +11393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11274,6 +11418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11291,6 +11443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11308,6 +11468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11325,6 +11493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11342,6 +11518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11359,6 +11543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11376,6 +11568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11393,6 +11593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11410,6 +11618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11427,6 +11643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11444,6 +11668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11461,6 +11693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11478,6 +11718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11495,6 +11743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11512,6 +11768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11529,6 +11793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11546,6 +11818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11563,6 +11843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11580,6 +11868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11597,6 +11893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11614,6 +11918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11631,6 +11943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11648,6 +11968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11665,6 +11993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11682,6 +12018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11699,6 +12043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11716,6 +12068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11733,6 +12093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11750,6 +12118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11767,6 +12143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11784,6 +12168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11801,6 +12193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11818,6 +12218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11835,6 +12243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11852,6 +12268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11869,6 +12293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11886,6 +12318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11903,6 +12343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11920,6 +12368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11937,6 +12393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11954,6 +12418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11971,6 +12443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11988,6 +12468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12005,6 +12493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12022,6 +12518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12039,6 +12543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12056,6 +12568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12073,6 +12593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12090,6 +12618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12107,6 +12643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12124,6 +12668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12141,6 +12693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12158,6 +12718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12175,6 +12743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12192,6 +12768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12209,6 +12793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12226,6 +12818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12243,6 +12843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12260,6 +12868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12277,6 +12893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12294,6 +12918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12311,6 +12943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12328,6 +12968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12345,6 +12993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12362,6 +13018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12379,6 +13043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12396,6 +13068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12413,6 +13093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12430,6 +13118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12447,6 +13143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12464,6 +13168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12481,6 +13193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12498,6 +13218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12515,6 +13243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12532,6 +13268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12549,6 +13293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12566,6 +13318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12583,6 +13343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12600,6 +13368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12617,6 +13393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12634,6 +13418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12651,6 +13443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12668,6 +13468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12685,6 +13493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12702,6 +13518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12719,6 +13543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12736,6 +13568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12753,6 +13593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12770,6 +13618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12787,6 +13643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12804,6 +13668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12821,6 +13693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12838,6 +13718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12855,6 +13743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12872,6 +13768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12889,6 +13793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12906,6 +13818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12923,6 +13843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12940,6 +13868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12957,6 +13893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12974,6 +13918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12991,6 +13943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13008,6 +13968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13025,6 +13993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13042,6 +14018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13059,6 +14043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13076,6 +14068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13093,6 +14093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13110,6 +14118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13127,6 +14143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13144,6 +14168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13161,6 +14193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13178,6 +14218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13195,6 +14243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13212,6 +14268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13229,6 +14293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13246,6 +14318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13263,6 +14343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13280,6 +14368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13297,6 +14393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13314,6 +14418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13331,6 +14443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13348,6 +14468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13365,6 +14493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13382,6 +14518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13399,6 +14543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13416,6 +14568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13433,6 +14593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13450,6 +14618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13467,6 +14643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13484,6 +14668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13501,6 +14693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13518,6 +14718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13535,6 +14743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13552,6 +14768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13569,6 +14793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13586,6 +14818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13603,6 +14843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13620,6 +14868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13637,6 +14893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13654,6 +14918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13671,6 +14943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13688,6 +14968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13705,6 +14993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13722,6 +15018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13739,6 +15043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13756,6 +15068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13773,6 +15093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13790,6 +15118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13807,6 +15143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13824,6 +15168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13841,6 +15193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13858,6 +15218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13875,6 +15243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13892,6 +15268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13909,6 +15293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13926,6 +15318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13943,6 +15343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13960,6 +15368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13977,6 +15393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13994,6 +15418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14011,6 +15443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14028,6 +15468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14045,6 +15493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14062,6 +15518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14079,6 +15543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14096,6 +15568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14113,6 +15593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14130,6 +15618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14147,6 +15643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14164,6 +15668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14181,6 +15693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14198,6 +15718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14215,6 +15743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14232,6 +15768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14249,6 +15793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14266,6 +15818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14283,6 +15843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14300,6 +15868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14317,6 +15893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14334,6 +15918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14351,6 +15943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14368,6 +15968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14385,6 +15993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14402,6 +16018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14419,6 +16043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14436,6 +16068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14453,6 +16093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14470,6 +16118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14487,6 +16143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14504,6 +16168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14521,6 +16193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14538,6 +16218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14555,6 +16243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14572,6 +16268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14589,6 +16293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14606,6 +16318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14623,6 +16343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14640,6 +16368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14657,6 +16393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14674,6 +16418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14691,6 +16443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14708,6 +16468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14725,6 +16493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14742,6 +16518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14759,6 +16543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14776,6 +16568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14793,6 +16593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14810,6 +16618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14827,6 +16643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14844,6 +16668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14861,6 +16693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14878,6 +16718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14895,6 +16743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14912,6 +16768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14929,6 +16793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14946,6 +16818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14963,6 +16843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14980,6 +16868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14997,6 +16893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15014,6 +16918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15031,6 +16943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15048,6 +16968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15065,6 +16993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15082,6 +17018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15099,6 +17043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15116,6 +17068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15133,6 +17093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15150,6 +17118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15167,6 +17143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15184,6 +17168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15201,6 +17193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15218,6 +17218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15235,6 +17243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15252,6 +17268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15269,6 +17293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15286,6 +17318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15303,6 +17343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15320,6 +17368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15337,6 +17393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15354,6 +17418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15371,6 +17443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15388,6 +17468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15405,6 +17493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15422,6 +17518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15439,6 +17543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15456,6 +17568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15473,6 +17593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15490,6 +17618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15507,6 +17643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15524,6 +17668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15541,6 +17693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15558,6 +17718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15575,6 +17743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15592,6 +17768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15609,6 +17793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15626,6 +17818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15643,6 +17843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15660,6 +17868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15677,6 +17893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15694,6 +17918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15711,6 +17943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15728,6 +17968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15745,6 +17993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15762,6 +18018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15779,6 +18043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15796,6 +18068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15813,6 +18093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15830,6 +18118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15847,6 +18143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15864,6 +18168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15881,6 +18193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15898,6 +18218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15915,6 +18243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15932,6 +18268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15949,6 +18293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15966,6 +18318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -15983,6 +18343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16000,6 +18368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16017,6 +18393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16034,6 +18418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16051,6 +18443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16068,6 +18468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16085,6 +18493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16102,6 +18518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16119,6 +18543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16136,6 +18568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16153,6 +18593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16170,6 +18618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16187,6 +18643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16204,6 +18668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16221,6 +18693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16238,6 +18718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16255,6 +18743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16272,6 +18768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16289,6 +18793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16306,6 +18818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16323,6 +18843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16340,6 +18868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16357,6 +18893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16374,6 +18918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16391,6 +18943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16408,6 +18968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16425,6 +18993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16442,6 +19018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16459,6 +19043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16476,6 +19068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16493,6 +19093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16510,6 +19118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16527,6 +19143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16544,6 +19168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16561,6 +19193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16578,6 +19218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16595,6 +19243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16612,6 +19268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16629,6 +19293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16646,6 +19318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16663,6 +19343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16680,6 +19368,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16697,6 +19393,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16714,6 +19418,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16731,6 +19443,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16748,6 +19468,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16765,6 +19493,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16782,6 +19518,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16799,6 +19543,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16816,6 +19568,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16833,6 +19593,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16850,6 +19618,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16867,6 +19643,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16884,6 +19668,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16901,6 +19693,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16918,6 +19718,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16935,6 +19743,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16952,6 +19768,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -16969,6 +19793,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -16986,6 +19818,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17003,6 +19843,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17020,6 +19868,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17037,6 +19893,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17054,6 +19918,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17071,6 +19943,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17088,6 +19968,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17105,6 +19993,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17122,6 +20018,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17139,6 +20043,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17156,6 +20068,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17173,6 +20093,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17190,6 +20118,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17207,6 +20143,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17224,6 +20168,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17241,6 +20193,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17258,6 +20218,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17275,6 +20243,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17292,6 +20268,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17309,6 +20293,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -17326,6 +20318,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -17343,6 +20343,14 @@ const matematika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",

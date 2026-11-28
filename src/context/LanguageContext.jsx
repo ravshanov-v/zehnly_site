@@ -5,7 +5,7 @@ import {
   dictionaries,
 } from './useLanguage.js';
 
-const STORAGE_KEY = 'mushohada-language';
+const STORAGE_KEY = 'kredorium-language';
 
 function getInitialLanguage() {
   try {

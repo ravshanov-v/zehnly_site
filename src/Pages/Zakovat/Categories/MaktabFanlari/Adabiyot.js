@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Adabiyot (1000 savol)
+// Kredorium Zakovat Platformasi - Adabiyot (1000 savol)
 
 const adabiyotData = {
   "id": "adabiyot",

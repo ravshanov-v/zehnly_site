@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Fizika (1000 savol)
+// Kredorium Zakovat Platformasi - Fizika (1000 savol)
 
 const fizika = {
   "id": "fizika",
@@ -21418,6 +21418,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21435,6 +21443,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21452,6 +21468,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21469,6 +21493,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21486,6 +21518,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21503,6 +21543,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21520,6 +21568,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21537,6 +21593,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21554,6 +21618,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21571,6 +21643,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21588,6 +21668,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21605,6 +21693,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21622,6 +21718,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21639,6 +21743,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21656,6 +21768,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21673,6 +21793,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21690,6 +21818,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21707,6 +21843,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21724,6 +21868,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21741,6 +21893,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21758,6 +21918,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21775,6 +21943,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21792,6 +21968,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21809,6 +21993,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21826,6 +22018,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21843,6 +22043,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21860,6 +22068,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21877,6 +22093,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21894,6 +22118,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21911,6 +22143,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21928,6 +22168,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21945,6 +22193,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21962,6 +22218,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -21979,6 +22243,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -21996,6 +22268,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22013,6 +22293,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22030,6 +22318,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22047,6 +22343,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22064,6 +22368,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22081,6 +22393,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22098,6 +22418,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22115,6 +22443,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22132,6 +22468,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22149,6 +22493,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22166,6 +22518,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22183,6 +22543,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22200,6 +22568,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22217,6 +22593,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22234,6 +22618,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22251,6 +22643,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22268,6 +22668,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22285,6 +22693,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22302,6 +22718,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22319,6 +22743,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22336,6 +22768,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22353,6 +22793,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22370,6 +22818,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22387,6 +22843,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22404,6 +22868,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22421,6 +22893,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22438,6 +22918,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22455,6 +22943,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22472,6 +22968,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22489,6 +22993,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22506,6 +23018,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22523,6 +23043,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22540,6 +23068,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22557,6 +23093,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22574,6 +23118,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22591,6 +23143,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22608,6 +23168,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22625,6 +23193,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22642,6 +23218,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22659,6 +23243,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22676,6 +23268,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22693,6 +23293,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22710,6 +23318,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22727,6 +23343,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22744,6 +23368,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22761,6 +23393,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22778,6 +23418,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22795,6 +23443,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22812,6 +23468,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22829,6 +23493,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22846,6 +23518,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22863,6 +23543,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22880,6 +23568,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22897,6 +23593,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22914,6 +23618,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22931,6 +23643,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22948,6 +23668,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -22965,6 +23693,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22982,6 +23718,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -22999,6 +23743,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23016,6 +23768,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23033,6 +23793,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23050,6 +23818,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23067,6 +23843,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23084,6 +23868,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23101,6 +23893,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23118,6 +23918,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23135,6 +23943,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23152,6 +23968,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23169,6 +23993,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23186,6 +24018,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23203,6 +24043,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23220,6 +24068,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23237,6 +24093,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23254,6 +24118,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23271,6 +24143,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23288,6 +24168,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23305,6 +24193,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23322,6 +24218,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23339,6 +24243,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23356,6 +24268,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23373,6 +24293,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23390,6 +24318,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23407,6 +24343,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23424,6 +24368,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23441,6 +24393,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23458,6 +24418,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23475,6 +24443,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23492,6 +24468,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23509,6 +24493,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23526,6 +24518,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23543,6 +24543,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23560,6 +24568,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23577,6 +24593,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23594,6 +24618,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23611,6 +24643,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23628,6 +24668,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23645,6 +24693,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23662,6 +24718,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23679,6 +24743,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23696,6 +24768,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23713,6 +24793,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23730,6 +24818,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23747,6 +24843,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23764,6 +24868,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23781,6 +24893,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23798,6 +24918,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -23815,6 +24943,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23832,6 +24968,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -23849,6 +24993,14 @@ const fizika = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",

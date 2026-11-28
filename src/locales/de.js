@@ -3,10 +3,11 @@ export default {
     home: 'Startseite',
     studyCenters: 'Lernzentren',
     zakovat: 'Quiz',
+    leaderboard: 'Rangliste',
     ai: 'KI-Assistent',
   },
   navbar: {
-    brandHome: 'Mushohada Startseite',
+    brandHome: 'Kredorium Startseite',
     themeToLight: 'Zum hellen Modus wechseln',
     themeToDark: 'Zum dunklen Modus wechseln',
     themeLight: 'Heller Modus',
@@ -21,19 +22,20 @@ export default {
     exit: 'Abmelden',
     loginPrompt: 'Melden Sie sich in Ihrem Konto an',
     loggedOut: 'Sie wurden abgemeldet. Bis bald!',
+    guest: 'Gast',
     language: 'Sprache',
     chooseLanguage: 'Sprache wählen',
   },
   home: {
     hero: {
-      badge: 'Mushohada Arena · offen',
+      badge: 'Kredorium Arena · offen',
       titleTop: 'Wissen braucht',
       titleBottom: 'eine neue ',
       titleAccent: 'Infrastruktur.',
       description:
         '{count} Fragen, eine interaktive 30-Sekunden-Arena und Wachstumsanalysen — in einem schnellen, präzisen System. Jeder Versuch wird gemessen, jedes Ergebnis ist sichtbar.',
       startArena: 'Arena starten',
-      catalogStatus: 'Katalogstatus',
+      catalogStatus: 'Lernzentren',
       noCard: 'Kostenlos starten · Keine Karte erforderlich',
       statSubject: 'Fach',
       statQuestion: 'Frage',
@@ -75,17 +77,17 @@ export default {
       centers: {
         eyebrow: 'Lernzentren',
         countBadge: '{count} Zentren',
-        loadingBadge: 'Wird gefüllt',
+        loadingBadge: 'Demnächst',
         readyTitle: 'Katalog ist bereit',
-        loadingTitle: 'Katalog wird gefüllt',
+        loadingTitle: 'Katalog folgt in Kürze',
         readyDescription:
           'Filtern Sie nach Richtung, Bezirk und Format und finden Sie das passende Zentrum.',
         loadingDescription:
-          'Die Datenbank der Lernzentren ist noch nicht gefüllt. Sobald geprüfte Daten hinzugefügt werden, öffnet sich der Katalog hier.',
+          'Wir prüfen die Daten der Lernzentren, bevor wir sie veröffentlichen. Geprüfte Einträge erscheinen hier.',
         searchPlaceholder: 'Zentrum, Richtung oder Bezirk...',
         tags: ['Programmierung', 'Design', 'Sprachen', 'Marketing'],
         allCenters: 'Alle Zentren',
-        baseEmpty: 'Datenbank noch nicht gefüllt',
+        baseEmpty: 'Katalog folgt in Kürze',
         view: 'Ansehen',
         details: 'Mehr erfahren',
       },
@@ -155,25 +157,35 @@ export default {
     studyCenters: 'Lernzentren',
     catalog: 'Katalog',
     base: 'Datenbank',
-    catalogLoading: 'Katalog wird gefüllt',
+    catalogLoading: 'Katalog folgt in Kürze',
     catalogLoadingNote:
-      'Die Datenbank der Lernzentren ist noch nicht gefüllt. Kontaktieren Sie uns, um Ihr Zentrum hinzuzufügen.',
+      'Wir prüfen die Daten der Lernzentren, bevor wir sie veröffentlichen. Kontaktieren Sie uns, um Ihr Zentrum einzureichen.',
   },
   partnerCard: {
-    open: 'Partnerschaft offen',
-    title: 'Möchten Sie Ihr Zentrum auf der Plattform hinzufügen?',
+    open: 'Bewerbungen für Partnerschaft offen',
+    title: 'Möchten Sie Ihr Lernzentrum im Katalog vorstellen?',
     description:
-      'Die Datenbank der Lernzentren ist noch nicht gefüllt. Kontaktieren Sie uns, um geprüfte Informationen in den Katalog aufzunehmen.',
-    telegram: 'Auf Telegram schreiben',
+      'Wir prüfen die Daten der Lernzentren, bevor wir sie veröffentlichen. Reichen Sie Ihr Zentrum über unser Telegram zur Prüfung ein.',
+    telegram: 'Bewerbung einreichen',
+  },
+  notFound: {
+    badge: '404 · Seite nicht gefunden',
+    title: 'Seite nicht gefunden.',
+    description:
+      'Die gesuchte Seite existiert nicht oder wurde verschoben. Versuchen Sie einen der folgenden Bereiche.',
+    backHome: 'Zur Startseite',
+    openArena: 'Quiz-Arena',
+    help:
+      'Der Link ist möglicherweise veraltet. Wenn Sie glauben, dass dies ein Fehler ist, kontaktieren Sie uns.',
   },
   footer: {
     description:
-      'Mushohada ist eine Plattform, die Wissen, Quiz und moderne Bildung in einem schnellen, messbaren System vereint.',
+      'Kredorium ist eine Plattform, die Wissen, Quiz und moderne Bildung in einem schnellen, messbaren System vereint.',
     country: 'Usbekistan',
     sections: 'Bereiche',
     contact: 'Kontakt',
     contactPrompt: 'Haben Sie Fragen? Schreiben Sie uns:',
-    rights: '© {year} Mushohada — Alle Rechte vorbehalten',
+    rights: '© {year} Kredorium — Alle Rechte vorbehalten',
     backToTop: 'Nach oben',
   },
   auth: {
@@ -233,6 +245,13 @@ export default {
       'Ergebnisse, Verlauf und Statistiken werden mit Ihrem Konto verknüpft und synchronisiert',
     loginInfoLocal:
       'Ihre Ergebnisse, Ihr Verlauf und Ihre Statistiken werden sicher in diesem Browser gespeichert',
+    google: 'Mit Google fortfahren',
+    or: 'oder',
+    connecting: 'Verbindung wird hergestellt...',
+    continueAsGuest: 'Als Gast fortfahren',
+    guestToast: 'Sie surfen als Gast. Ergebnisse werden auf diesem Gerät gespeichert.',
+    googleUnavailable:
+      'Die Anmeldung mit Google funktioniert nur, wenn Supabase verbunden ist.',
     storageNoteRemote:
       'Ihr Konto wird sicher über Supabase gespeichert und geräteübergreifend synchronisiert.',
     storageNoteLocal: 'Kontodaten werden nur auf diesem Gerät gespeichert.',
@@ -283,6 +302,8 @@ export default {
       NO_SESSION:
         'Sitzung nicht gefunden. Verwenden Sie den Link zum Zurücksetzen des Passworts erneut',
       EMAIL_NOT_FOUND: 'Kein Konto mit dieser E-Mail gefunden',
+      PROVIDER_DISABLED: 'Die Google-Anmeldung ist derzeit nicht verfügbar',
+      OAUTH_ERROR: 'Die Google-Anmeldung ist fehlgeschlagen. Bitte versuchen Sie es erneut',
     },
   },
   recover: {
@@ -306,7 +327,7 @@ export default {
     updatedToast:
       'Ihr Passwort wurde aktualisiert. Sie können sich jetzt in Ihr Konto einloggen.',
     updatedToastTitle: 'Passwort aktualisiert',
-    footerHome: 'Mushohada · Startseite',
+    footerHome: 'Kredorium · Startseite',
   },
   profile: {
     titleFallback: 'Profil',
@@ -340,7 +361,7 @@ export default {
       accountType: 'Kontotyp',
       accountRemote: 'Supabase-Konto · geräteübergreifend synchronisiert',
       accountLocal: 'Lokales Konto · in diesem Browser',
-      member: 'Mushohada-Mitglied',
+      member: 'Kredorium-Mitglied',
       active: 'Aktiv',
     },
     favorites: {

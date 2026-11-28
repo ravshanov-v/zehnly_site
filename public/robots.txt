@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /auth/recover
 
-Sitemap: https://mushohada.uz/sitemap.xml
+Sitemap: https://kredorium.uz/sitemap.xml

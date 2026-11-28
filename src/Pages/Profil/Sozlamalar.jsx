@@ -22,6 +22,24 @@ const STRENGTH_TONES = {
 const fieldClass =
   'w-full rounded-lg border bg-raised px-3.5 py-2.5 text-base text-ink outline-none transition-all placeholder:text-muted/60 focus:ring-2 sm:text-sm';
 
+const NOTIFICATIONS_KEY = 'kredorium_notifications';
+
+function readNotificationsPreference() {
+  try {
+    return localStorage.getItem(NOTIFICATIONS_KEY) === 'true';
+  } catch {
+    return false;
+  }
+}
+
+function writeNotificationsPreference(enabled) {
+  try {
+    localStorage.setItem(NOTIFICATIONS_KEY, String(enabled));
+  } catch {
+    // xususiy rejimda yoki storage to'lgan holatda jim o'tamiz
+  }
+}
+
 function inputClass(hasError) {
   return [
     fieldClass,
@@ -38,16 +56,14 @@ export default function Sozlamalar() {
 
   const [notifications, setNotifications] = useState(() => {
     if (!('Notification' in window)) return false
-    return (
-      localStorage.getItem('zehnly_notifications') === 'true' &&
-      Notification.permission === 'granted'
-    )
+
+    return readNotificationsPreference() && Notification.permission === 'granted'
   });
 
   const toggleNotifications = async () => {
     if (notifications) {
       setNotifications(false);
-      localStorage.setItem('zehnly_notifications', 'false');
+      writeNotificationsPreference(false);
       return;
     }
 
@@ -60,7 +76,7 @@ export default function Sozlamalar() {
 
     const enabled = permission === 'granted';
     setNotifications(enabled);
-    localStorage.setItem('zehnly_notifications', String(enabled));
+    writeNotificationsPreference(enabled);
   };
 
   const [password, setPassword] = useState('');

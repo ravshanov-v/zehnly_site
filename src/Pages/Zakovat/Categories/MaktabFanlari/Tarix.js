@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Tarix (1000 savol)
+// Kredorium Zakovat Platformasi - Tarix (1000 savol)
 
 const tarix = {
   "id": "tarix",
@@ -4884,7 +4884,7 @@ const tarix = {
     },
     {
       "id": "tarix-196",
-      "question": "«Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan.» izohi qaysi savolga mos keladi?",
+      "question": "Tarix bo'yicha: «Davlat bayrog'i 1991-yil 18-noyabrda qabul qilingan.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -9393,6 +9393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9410,6 +9418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9427,6 +9443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9444,6 +9468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9461,6 +9493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9478,6 +9518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9495,6 +9543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9512,6 +9568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9529,6 +9593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9546,6 +9618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9563,6 +9643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9580,6 +9668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9597,6 +9693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9614,6 +9718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9631,6 +9743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9648,6 +9768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9665,6 +9793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9682,6 +9818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9699,6 +9843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9716,6 +9868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9733,6 +9893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9750,6 +9918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9767,6 +9943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9784,6 +9968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9801,6 +9993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9818,6 +10018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9835,6 +10043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9852,6 +10068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9869,6 +10093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9886,6 +10118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9903,6 +10143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9920,6 +10168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9937,6 +10193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9954,6 +10218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -9971,6 +10243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -9988,6 +10268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10005,6 +10293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10022,6 +10318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10039,6 +10343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10056,6 +10368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10073,6 +10393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10090,6 +10418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10107,6 +10443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10124,6 +10468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10141,6 +10493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10158,6 +10518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10175,6 +10543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10192,6 +10568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10209,6 +10593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10226,6 +10618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10243,6 +10643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10260,6 +10668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10277,6 +10693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10294,6 +10718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10311,6 +10743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10328,6 +10768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10345,6 +10793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10362,6 +10818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10379,6 +10843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10396,6 +10868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10413,6 +10893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10430,6 +10918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10447,6 +10943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10464,6 +10968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10481,6 +10993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10498,6 +11018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10515,6 +11043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10532,6 +11068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10549,6 +11093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10566,6 +11118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10583,6 +11143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10600,6 +11168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10617,6 +11193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10634,6 +11218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10651,6 +11243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10668,6 +11268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10685,6 +11293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10702,6 +11318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10719,6 +11343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10736,6 +11368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10753,6 +11393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10770,6 +11418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10787,6 +11443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10804,6 +11468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10821,6 +11493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10838,6 +11518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10855,6 +11543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10872,6 +11568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10889,6 +11593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10906,6 +11618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10923,6 +11643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10940,6 +11668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -10957,6 +11693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10974,6 +11718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -10991,6 +11743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11008,6 +11768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11025,6 +11793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11042,6 +11818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11059,6 +11843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11076,6 +11868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11093,6 +11893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11110,6 +11918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11127,6 +11943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11144,6 +11968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11161,6 +11993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11178,6 +12018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11195,6 +12043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11212,6 +12068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11229,6 +12093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11246,6 +12118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11263,6 +12143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11280,6 +12168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11297,6 +12193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11314,6 +12218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11331,6 +12243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11348,6 +12268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11365,6 +12293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11382,6 +12318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11399,6 +12343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11416,6 +12368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11433,6 +12393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11450,6 +12418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11467,6 +12443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11484,6 +12468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11501,6 +12493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11518,6 +12518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11535,6 +12543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11552,6 +12568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11569,6 +12593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11586,6 +12618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11603,6 +12643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11620,6 +12668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11637,6 +12693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11654,6 +12718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11671,6 +12743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11688,6 +12768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11705,6 +12793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11722,6 +12818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11739,6 +12843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11756,6 +12868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11773,6 +12893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11790,6 +12918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11807,6 +12943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11824,6 +12968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11841,6 +12993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11858,6 +13018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11875,6 +13043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11892,6 +13068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11909,6 +13093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11926,6 +13118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11943,6 +13143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -11960,6 +13168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11977,6 +13193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -11994,6 +13218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12011,6 +13243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12028,6 +13268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12045,6 +13293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12062,6 +13318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12079,6 +13343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12096,6 +13368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12113,6 +13393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12130,6 +13418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12147,6 +13443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12164,6 +13468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12181,6 +13493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12198,6 +13518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12215,6 +13543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12232,6 +13568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12249,6 +13593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12266,6 +13618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12283,6 +13643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12300,6 +13668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12317,6 +13693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12334,6 +13718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12351,6 +13743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12368,6 +13768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12385,6 +13793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12402,6 +13818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12419,6 +13843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12436,6 +13868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12453,6 +13893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12470,6 +13918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12487,6 +13943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12504,6 +13968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12521,6 +13993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12538,6 +14018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12555,6 +14043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12572,6 +14068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12589,6 +14093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12606,6 +14118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12623,6 +14143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12640,6 +14168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12657,6 +14193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12674,6 +14218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12691,6 +14243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12708,6 +14268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12725,6 +14293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12742,6 +14318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12759,6 +14343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12776,6 +14368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12793,6 +14393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12810,6 +14418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12827,6 +14443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12844,6 +14468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12861,6 +14493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12878,6 +14518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12895,6 +14543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12912,6 +14568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12929,6 +14593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12946,6 +14618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -12963,6 +14643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12980,6 +14668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -12997,6 +14693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13014,6 +14718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13031,6 +14743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13048,6 +14768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13065,6 +14793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13082,6 +14818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13099,6 +14843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13116,6 +14868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13133,6 +14893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13150,6 +14918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13167,6 +14943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13184,6 +14968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13201,6 +14993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13218,6 +15018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13235,6 +15043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13252,6 +15068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13269,6 +15093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13286,6 +15118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13303,6 +15143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13320,6 +15168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13337,6 +15193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13354,6 +15218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13371,6 +15243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13388,6 +15268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13405,6 +15293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13422,6 +15318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13439,6 +15343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13456,6 +15368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13473,6 +15393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13490,6 +15418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13507,6 +15443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13524,6 +15468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13541,6 +15493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13558,6 +15518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13575,6 +15543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13592,6 +15568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13609,6 +15593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13626,6 +15618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13643,6 +15643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13660,6 +15668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13677,6 +15693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13694,6 +15718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13711,6 +15743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13728,6 +15768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13745,6 +15793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13762,6 +15818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13779,6 +15843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13796,6 +15868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13813,6 +15893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13830,6 +15918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13847,6 +15943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13864,6 +15968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13881,6 +15993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13898,6 +16018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13915,6 +16043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13932,6 +16068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -13949,6 +16093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13966,6 +16118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -13983,6 +16143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14000,6 +16168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14017,6 +16193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14034,6 +16218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14051,6 +16243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14068,6 +16268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14085,6 +16293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14102,6 +16318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14119,6 +16343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14136,6 +16368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14153,6 +16393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14170,6 +16418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14187,6 +16443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14204,6 +16468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14221,6 +16493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14238,6 +16518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14255,6 +16543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14272,6 +16568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14289,6 +16593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14306,6 +16618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14323,6 +16643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14340,6 +16668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14357,6 +16693,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14374,6 +16718,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14391,6 +16743,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14408,6 +16768,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14425,6 +16793,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14442,6 +16818,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14459,6 +16843,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14476,6 +16868,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14493,6 +16893,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14510,6 +16918,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14527,6 +16943,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14544,6 +16968,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14561,6 +16993,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14578,6 +17018,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14595,6 +17043,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14612,6 +17068,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14629,6 +17093,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14646,6 +17118,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14663,6 +17143,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14680,6 +17168,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14697,6 +17193,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14714,6 +17218,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14731,6 +17243,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14748,6 +17268,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14765,6 +17293,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14782,6 +17318,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14799,6 +17343,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14816,6 +17368,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14833,6 +17393,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14850,6 +17418,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14867,6 +17443,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14884,6 +17468,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14901,6 +17493,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14918,6 +17518,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14935,6 +17543,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14952,6 +17568,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",
@@ -14969,6 +17593,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -14986,6 +17618,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15003,6 +17643,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Ha"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "A",
@@ -15020,6 +17668,14 @@ const tarix = {
         {
           "id": "B",
           "text": "Yo'q"
+        },
+        {
+          "id": "C",
+          "text": "Qisman to'g'ri"
+        },
+        {
+          "id": "D",
+          "text": "Aniqlab bo'lmaydi"
         }
       ],
       "correct": "B",

@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Nemis tili (1000 savol)
+// Kredorium Zakovat Platformasi - Nemis tili (1000 savol)
 
 const nemisTili = {
   "id": "nemis-tili",

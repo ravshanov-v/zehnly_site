@@ -111,7 +111,7 @@ export default function Footer() {
             aria-hidden="true"
             className="block font-display text-[clamp(4.4rem,15vw,12rem)] font-semibold leading-[0.78] tracking-[-0.06em] text-ink/[0.06]"
           >
-            mushohada.
+            kredorium.
           </span>
         </div>
 

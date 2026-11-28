@@ -1,16 +1,20 @@
 {
-  "name": "mushohada",
+  "name": "kredorium",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predev": "node scripts/zakovat/sync-counts.mjs",
     "build": "vite build",
+    "prebuild": "node scripts/zakovat/sync-counts.mjs",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "audit": "node scripts/audit-questions.mjs",
+    "preview": "vite preview",
+    "sync:counts": "node scripts/zakovat/sync-counts.mjs"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.119.0",
+    "@supabase/supabase-js": "^2.119.2",
     "@tailwindcss/vite": "^4.3.3",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",

@@ -3,10 +3,11 @@ export default {
     home: 'Bosh sahifa',
     studyCenters: 'O‘quv maskanlari',
     zakovat: 'Zakovat',
+    leaderboard: 'Reyting',
     ai: 'AI Yordamchi',
   },
   navbar: {
-    brandHome: 'Mushohada bosh sahifa',
+    brandHome: 'Kredorium bosh sahifa',
     themeToLight: 'Yorug‘ rejimga o‘tish',
     themeToDark: 'Tun rejimiga o‘tish',
     themeLight: 'Yorug‘ rejim',
@@ -21,19 +22,20 @@ export default {
     exit: 'Chiqish',
     loginPrompt: 'Hisobingizga kiring',
     loggedOut: 'Tizimdan chiqdingiz. Yana kutamiz!',
+    guest: 'Mehmon',
     language: 'Til',
     chooseLanguage: 'Tilni tanlash',
   },
   home: {
     hero: {
-      badge: 'Mushohada Arena · ochiq',
+      badge: 'Kredorium Arena · ochiq',
       titleTop: 'Bilim uchun',
       titleBottom: 'yangi ',
       titleAccent: 'infratuzilma.',
       description:
         '{count} savol, 30 soniyalik interaktiv arena va o‘sish analitikasi — bitta tezkor, aniq tizimda. Har bir urinish o‘lchanadi, har bir natija ko‘rinadi.',
       startArena: 'Arenani boshlash',
-      catalogStatus: 'Katalog holati',
+      catalogStatus: "O'quv maskanlari",
       noCard: 'Bepul boshlash · Karta talab qilinmaydi',
       statSubject: 'Fan',
       statQuestion: 'Savol',
@@ -74,17 +76,17 @@ export default {
       centers: {
         eyebrow: 'O‘quv maskanlari',
         countBadge: '{count} maskan',
-        loadingBadge: 'To‘ldirilmoqda',
+        loadingBadge: 'Tez orada',
         readyTitle: 'Katalog tayyor',
-        loadingTitle: 'Katalog to‘ldirilmoqda',
+        loadingTitle: 'Katalog tez orada',
         readyDescription:
           'Yo‘nalish, tuman va format bo‘yicha filtrlab, o‘zingizga mos maskanni toping.',
         loadingDescription:
-          'O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlar qo‘shilgach, katalog shu yerda ochiladi.',
+          'O‘quv maskanlari ma’lumotlari e’lon qilinishdan oldin tekshirilmoqda. Tasdiqlangan maskanlar shu yerda paydo bo‘ladi.',
         searchPlaceholder: 'Maskan, yo‘nalish yoki tuman...',
         tags: ['Dasturlash', 'Dizayn', 'Tillar', 'Marketing'],
         allCenters: 'Barcha maskanlar',
-        baseEmpty: 'Baza hali to‘ldirilmagan',
+        baseEmpty: 'Katalog tez orada',
         view: 'Ko‘rish',
         details: 'Batafsil',
       },
@@ -134,6 +136,34 @@ export default {
       noCard: 'Bepul · Karta talab qilinmaydi',
     },
   },
+  leaderboard: {
+    badge: 'Live reyting · Top 50',
+    title: 'Eng yaxshi',
+    titleAccent: 'bilimdonlar.',
+    description:
+      "Haqiqiy foydalanuvchilar orasidagi XP reytingi. Har bir to'g'ri javob sizni yuqoriga olib chiqadi.",
+    loading: 'Reyting yuklanmoqda',
+    errorTitle: "Reytingni yuklab bo'lmadi",
+    errorDesc: 'Tarmoq yoki server bilan aloqa uzildi. Qayta urinib ko‘ring.',
+    retry: 'Qayta urinish',
+    emptyTitle: "Reyting hali bo'sh",
+    emptyDesc:
+      "Birinchi bo'lib arenaga kirib, XP to'plang va ro'yxatda birinchi o'rinni egallang.",
+    offlineTitle: 'Reyting oflayn',
+    offlineDesc:
+      'Supabase sozlanmagan. Mehmon rejimida natijalar shu qurilmada saqlanadi.',
+    rank: "O'rin",
+    player: 'Ishtirokchi',
+    xp: 'XP',
+    tests: 'Testlar',
+    correct: "To'g'ri javob",
+    you: 'Siz',
+    anonymous: 'Kredorium a’zosi',
+    participants: '{count} ishtirokchi',
+    guestHint: "Reytingda ko'rinish uchun hisobingizga kiring.",
+    login: 'Kirish',
+    arena: 'Arenaga kirish',
+  },
   preview: {
     interactiveSample: 'Interaktiv namuna',
     quizSample: 'Zakovat testi · Namuna savol',
@@ -154,25 +184,35 @@ export default {
     studyCenters: 'O‘quv maskanlari',
     catalog: 'Katalog',
     base: 'Baza',
-    catalogLoading: 'Katalog to‘ldirilmoqda',
+    catalogLoading: 'Katalog tez orada',
     catalogLoadingNote:
-      'O‘quv maskanlari bazasi hali to‘ldirilmagan. Markazingizni qo‘shish uchun biz bilan bog‘laning.',
+      'O‘quv maskanlari ma’lumotlari e’lon qilishdan oldin tekshirilmoqda. Markazingizni qo‘shish uchun biz bilan bog‘laning.',
   },
   partnerCard: {
-    open: 'Hamkorlik ochiq',
-    title: 'Markazingizni platformaga qo‘shmoqchimisiz?',
+    open: 'Hamkorlik uchun ariza · ochiq',
+    title: 'Markazingizni katalogga qo‘shmoqchimisiz?',
     description:
-      'O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlarni katalogga joylashtirish uchun biz bilan bog‘laning.',
-    telegram: 'Telegram orqali yozish',
+      'O‘quv maskanlari ma’lumotlari e’lon qilishdan oldin tekshirilmoqda. Markazingizni ko‘rib chiqishga topshirish uchun ariza qoldiring.',
+    telegram: 'Ariza qoldirish',
+  },
+  notFound: {
+    badge: '404 · Sahifa topilmadi',
+    title: 'Sahifa topilmadi.',
+    description:
+      "Siz izlagan sahifa mavjud emas yoki boshqa manzilga ko‘chirilgan. Quyidagi bo‘limlardan birini sinab ko‘ring.",
+    backHome: 'Bosh sahifaga qaytish',
+    openArena: 'Zakovat arenasi',
+    help:
+      "Havola eskirgan bo‘lishi mumkin. Agar bu xatolik deb o‘ylasangiz, biz bilan bog‘laning.",
   },
   footer: {
     description:
-      'Mushohada — bilim, zakovat va zamonaviy ta’limni bitta tezkor, o‘lchanadigan tizimga jamlagan platforma.',
+      'Kredorium — bilim, zakovat va zamonaviy ta’limni bitta tezkor, o‘lchanadigan tizimga jamlagan platforma.',
     country: 'O‘zbekiston',
     sections: 'Bo‘limlar',
     contact: 'Aloqa',
     contactPrompt: 'Savollaringiz bo‘lsa yozing:',
-    rights: '© {year} Mushohada — Barcha huquqlar himoyalangan',
+    rights: '© {year} Kredorium — Barcha huquqlar himoyalangan',
     backToTop: 'Yuqoriga',
   },
   auth: {
@@ -227,6 +267,12 @@ export default {
     loginInfoRemote:
       "Natijalar, tarix va statistika hisobingizga bog'lanadi va sinxronlanadi",
     loginInfoLocal: 'Natijalar, tarix va statistikangiz shu brauzerda xavfsiz saqlanadi',
+    google: 'Google bilan davom etish',
+    or: 'yoki',
+    connecting: 'Ulanmoqda...',
+    continueAsGuest: 'Mehmon sifatida davom etish',
+    guestToast: 'Mehmon rejimida davom etyapsiz. Natijalar shu qurilmada saqlanadi.',
+    googleUnavailable: 'Google orqali kirish faqat Supabase ulanganda ishlaydi.',
     storageNoteRemote:
       'Hisobingiz Supabase orqali xavfsiz saqlanadi va qurilmalararo sinxronlanadi.',
     storageNoteLocal: 'Hisob ma’lumotlari faqat shu qurilmada saqlanadi.',
@@ -268,6 +314,8 @@ export default {
         'Hisob yaratildi. Emailingizga yuborilgan tasdiqlash havolasini bosing va keyin kiring',
       NO_SESSION: 'Sessiya topilmadi. Parolni tiklash havolasidan qayta foydalaning',
       EMAIL_NOT_FOUND: 'Bunday email bilan hisob topilmadi',
+      PROVIDER_DISABLED: 'Google orqali kirish hozircha mavjud emas',
+      OAUTH_ERROR: "Google orqali kirishda xatolik yuz berdi. Qayta urinib ko'ring",
     },
   },
   recover: {
@@ -290,7 +338,7 @@ export default {
     update: 'Parolni yangilash',
     updatedToast: 'Parolingiz yangilandi. Endi hisobingizga kirishingiz mumkin.',
     updatedToastTitle: 'Parol yangilandi',
-    footerHome: 'Mushohada · bosh sahifa',
+    footerHome: 'Kredorium · bosh sahifa',
   },
   profile: {
     titleFallback: 'Profil',
@@ -324,7 +372,7 @@ export default {
       accountType: 'Hisob turi',
       accountRemote: 'Supabase hisob · qurilmalararo sinxron',
       accountLocal: 'Mahalliy hisob · shu brauzerda',
-      member: "Mushohada a'zosi",
+      member: "Kredorium a'zosi",
       active: 'Faol',
     },
     favorites: {

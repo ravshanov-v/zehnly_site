@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Biologiya (1000 savol)
+// Kredorium Zakovat Platformasi - Biologiya (1000 savol)
 
 const biologiya = {
   "id": "biologiya",

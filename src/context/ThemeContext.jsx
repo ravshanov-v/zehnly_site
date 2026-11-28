@@ -1,11 +1,15 @@
 import { useCallback, useEffect, useState } from 'react';
 import { ThemeContext } from './useTheme';
 
-const STORAGE_KEY = 'zehnly-theme';
+const STORAGE_KEY = 'kredorium-theme';
 
 function getInitialTheme() {
-  const saved = localStorage.getItem(STORAGE_KEY);
-  if (saved === 'dark' || saved === 'light') return saved;
+  try {
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (saved === 'dark' || saved === 'light') return saved;
+  } catch {
+    return 'dark';
+  }
 
   return 'dark';
 }
@@ -17,7 +21,12 @@ export function ThemeProvider({ children }) {
     const root = document.documentElement;
     root.classList.toggle('dark', theme === 'dark');
     root.style.colorScheme = theme;
-    localStorage.setItem(STORAGE_KEY, theme);
+
+    try {
+      localStorage.setItem(STORAGE_KEY, theme);
+    } catch {
+      // xususiy rejimda yoki storage to'lgan holatda jim o'tamiz
+    }
 
     const meta = document.querySelector('meta[name="theme-color"]');
     if (meta) {

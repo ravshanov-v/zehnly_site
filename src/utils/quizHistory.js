@@ -1,11 +1,11 @@
 import { getSession, subscribe as subscribeSession } from './authStore.js'
 import { isSupabaseEnabled, supabase } from '../lib/supabase.js'
 
-const GUEST_KEY = 'zehnly_quiz_history'
-const USER_KEY_PREFIX = 'zehnly_quiz_history:'
+const GUEST_KEY = 'kredorium_quiz_history'
+const USER_KEY_PREFIX = 'kredorium_quiz_history:'
 const MAX_RECORDS = 200
 const REMOTE_PREFIX = 'remote:'
-const PENDING_PREFIX = 'zehnly_pending_history:'
+const PENDING_PREFIX = 'kredorium_pending_history:'
 
 const listeners = new Set()
 const pendingInserts = new Map()

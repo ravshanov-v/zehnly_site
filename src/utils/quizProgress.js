@@ -1,7 +1,7 @@
 import { getSession, subscribe as subscribeSession } from './authStore.js'
 import { isSupabaseEnabled, supabase } from '../lib/supabase.js'
 
-const STORAGE_PREFIX = 'zehnly_quiz_progress:'
+const STORAGE_PREFIX = 'kredorium_quiz_progress:'
 const GUEST_KEY = 'guest'
 const SYNC_DELAY_MS = 800
 

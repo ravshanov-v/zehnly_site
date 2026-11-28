@@ -293,7 +293,7 @@ body::before {
 
 /* ---------- motion ---------- */
 
-@keyframes zehnly-fade-in {
+@keyframes kredorium-fade-in {
   from {
     opacity: 0;
   }
@@ -302,11 +302,11 @@ body::before {
   }
 }
 
-.zehnly-fade-in {
-  animation: zehnly-fade-in 0.2s ease-out both;
+.kredorium-fade-in {
+  animation: kredorium-fade-in 0.2s ease-out both;
 }
 
-@keyframes zehnly-scale-in {
+@keyframes kredorium-scale-in {
   from {
     opacity: 0;
     transform: translateY(8px);
@@ -317,11 +317,11 @@ body::before {
   }
 }
 
-.zehnly-scale-in {
-  animation: zehnly-scale-in 0.24s ease-out both;
+.kredorium-scale-in {
+  animation: kredorium-scale-in 0.24s ease-out both;
 }
 
-@keyframes zehnly-toast-in {
+@keyframes kredorium-toast-in {
   from {
     opacity: 0;
     transform: translateY(-8px);
@@ -332,8 +332,8 @@ body::before {
   }
 }
 
-.zehnly-toast-in {
-  animation: zehnly-toast-in 0.22s ease-out both;
+.kredorium-toast-in {
+  animation: kredorium-toast-in 0.22s ease-out both;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -347,9 +347,9 @@ body::before {
     transition: none;
   }
 
-  .zehnly-fade-in,
-  .zehnly-scale-in,
-  .zehnly-toast-in,
+  .kredorium-fade-in,
+  .kredorium-scale-in,
+  .kredorium-toast-in,
   .animate-fadeIn,
   .animate-spin,
   .animate-pulse,

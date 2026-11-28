@@ -1,0 +1,25 @@
+{
+  "categories": {
+    "adabiyot": 1000,
+    "backend": 1000,
+    "biologiya": 1000,
+    "dizayn-ui-ux": 1000,
+    "fizika": 1000,
+    "frontend": 1000,
+    "geografiya": 1000,
+    "huquq": 1000,
+    "informatika": 1000,
+    "ingliz-tili": 1000,
+    "kiberxavfsizlik": 1000,
+    "kimyo": 1000,
+    "matematika": 1000,
+    "mobile-dev": 1000,
+    "nemis-tili": 1000,
+    "ona_tili": 1000,
+    "rus-tili": 1000,
+    "suniy-intellekt": 1000,
+    "tarix": 1000,
+    "turk-tili": 1000
+  },
+  "total": 20000
+}

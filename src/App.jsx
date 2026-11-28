@@ -1,42 +1,49 @@
 import { Suspense, useEffect, useLayoutEffect } from 'react';
-import { BrowserRouter, Routes, Route, Outlet, Navigate, useLocation } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Outlet, useLocation } from 'react-router-dom';
 import { ThemeProvider } from './context/ThemeContext';
 import { LanguageProvider } from './context/LanguageContext.jsx';
 import ToastProvider from './context/ToastProvider.jsx';
 import Navbar from './Components/Navbar/Navbar.jsx';
 import Footer from './Components/Footer/Footer.jsx';
+import NotFound from './Pages/NotFound/NotFound.jsx';
 import routes from './routes.jsx';
+import { categoryMeta, totalQuestions } from './Pages/Zakovat/Categories/meta.js';
 
 const layoutRoutes = routes.filter((route) => !route.standalone);
 const standaloneRoutes = routes.filter((route) => route.standalone);
 
-const SITE_URL = 'https://mushohada.uz';
+const SITE_URL = 'https://kredorium.uz';
+const formattedTotalQuestions = totalQuestions.toLocaleString('ru-RU');
 
 const PAGE_META = {
   '/': {
-    title: "Mushohada — Bilim, Zakovat va O'quv Maskanlari Platformasi",
-    description:
-      "Mushohada — O'zbekistondagi bilim, zakovat va o'quv maskanlari platformasi. 20 000 ta test savoli, 30 soniyalik interaktiv arena, o'quv maskanlari bo'limi va shaxsiy o'sish analitikasi.",
+    title: "Kredorium — Bilim, Zakovat va O'quv Maskanlari Platformasi",
+    description: `Kredorium — O'zbekistondagi bilim, zakovat va o'quv maskanlari platformasi. ${formattedTotalQuestions} ta test savoli, 30 soniyalik interaktiv arena, o'quv maskanlari katalogi va shaxsiy o'sish analitikasi.`,
   },
   '/oquv-maskanlari': {
-    title: "O'quv maskanlari — Mushohada",
+    title: "O'quv maskanlari — Kredorium",
     description:
-      "O'quv maskanlari bazasi hozircha to'ldirilmoqda. O'z markazingizni platformaga qo'shish uchun biz bilan bog'laning.",
+      "O'quv maskanlari ma'lumotlari e'lon qilishdan oldin tekshirilmoqda. O'z markazingizni ko'rib chiqishga topshirish uchun biz bilan bog'laning.",
   },
   '/zakovat': {
-    title: 'Zakovat arenasi — Mushohada',
-    description:
-      "20 000 ta savol, 20 ta fan va 30 soniyalik taymer. Mushohada zakovat arenasida bilimingizni sinab ko'ring va XP to'plang.",
+    title: 'Zakovat arenasi — Kredorium',
+    description: `${formattedTotalQuestions} ta savol, ${categoryMeta.length} ta fan va 30 soniyalik taymer. Kredorium zakovat arenasida bilimingizni sinab ko'ring va XP to'plang.`,
   },
   '/ai-yordamchi': {
-    title: "Mushohada AI — O'quv yordamchi",
+    title: "Kredorium AI — O'quv yordamchi",
     description:
-      "Mushohada AI — o'zbek tilida ishlaydigan o'quv yordamchi. Matematika, tillar, mantiq va boshqa fanlar bo'yicha qadam-baqadam tushuntirish oling.",
+      "Kredorium AI — o'quv yordamchi. Matematika, tillar, mantiq va boshqa fanlar bo'yicha qadam-baqadam tushuntirish oling.",
   },
   '/auth/recover': {
-    title: 'Parolni tiklash — Mushohada',
-    description: "Mushohada hisobingiz uchun yangi parol o'rnating.",
+    title: 'Parolni tiklash — Kredorium',
+    description: "Kredorium hisobingiz uchun yangi parol o'rnating.",
   },
+};
+
+const NOT_FOUND_META = {
+  title: 'Sahifa topilmadi — Kredorium',
+  description:
+    "Siz izlagan sahifa mavjud emas yoki boshqa manzilga ko'chirilgan. Kredorium bosh sahifasiga qaytib davom eting.",
 };
 
 function setMeta(selector, attribute, value) {
@@ -48,11 +55,19 @@ function RouteMeta() {
   const location = useLocation();
 
   useEffect(() => {
-    const meta = PAGE_META[location.pathname] ?? PAGE_META['/'];
+    const isNotFound = !PAGE_META[location.pathname];
+    const meta = isNotFound ? NOT_FOUND_META : PAGE_META[location.pathname];
     const canonicalUrl = `${SITE_URL}${location.pathname}`;
 
     document.title = meta.title;
     setMeta('meta[name="description"]', 'content', meta.description);
+    setMeta(
+      'meta[name="robots"]',
+      'content',
+      isNotFound
+        ? 'noindex, nofollow'
+        : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
+    );
     setMeta('meta[property="og:title"]', 'content', meta.title);
     setMeta('meta[property="og:description"]', 'content', meta.description);
     setMeta('meta[property="og:url"]', 'content', canonicalUrl);
@@ -139,7 +154,7 @@ export default function App() {
                   {layoutRoutes.map((route) => (
                     <Route key={route.path} path={route.path} element={route.element} />
                   ))}
-                  <Route path="*" element={<Navigate to="/" replace />} />
+                  <Route path="*" element={<NotFound />} />
                 </Route>
             </Routes>
           </ToastProvider>

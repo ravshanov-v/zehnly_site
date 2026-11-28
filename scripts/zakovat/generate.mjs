@@ -1,7 +1,8 @@
-import { readFileSync, writeFileSync } from 'node:fs'
+import { writeFileSync } from 'node:fs'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 import { languageFacts } from './facts.mjs'
+import { syncQuestionCounts } from './sync-counts.mjs'
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '../..')
 const CATEGORIES_DIR = resolve(ROOT, 'src/Pages/Zakovat/Categories')
@@ -619,24 +620,9 @@ function generateForCategory(category, sourceData, sharedBase) {
   }))
 }
 
-function updateMeta(counts) {
-  const metaPath = resolve(CATEGORIES_DIR, 'meta.js')
-  let source = readFileSync(metaPath, 'utf8')
-
-  for (const [id, count] of Object.entries(counts)) {
-    const escapedId = id.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-    const pattern = new RegExp(`(id: '${escapedId}'[^\\n]*questionCount: )\\d+`)
-
-    source = source.replace(pattern, `$1${count}`)
-  }
-
-  writeFileSync(metaPath, source, 'utf8')
-}
-
 async function main() {
   const infoSource = await loadModule('MaktabFanlari/Informatika.js')
   const informaticsBase = Array.isArray(infoSource?.questions) ? infoSource.questions : []
-  const counts = {}
 
   for (const category of categories) {
     const sourceData = await loadModule(category.file)
@@ -652,19 +638,18 @@ async function main() {
       questions,
     }
 
-    const content = `// Zehnly Zakovat Platformasi - ${output.title} (${questions.length} savol)\n\nconst ${category.varName} = ${JSON.stringify(
+    const content = `// Kredorium Zakovat Platformasi - ${output.title} (${questions.length} savol)\n\nconst ${category.varName} = ${JSON.stringify(
       output,
       null,
       2
     )}\n\nexport default ${category.varName}\n`
 
     writeFileSync(resolve(CATEGORIES_DIR, category.file), content, 'utf8')
-    counts[category.id] = questions.length
     console.log(`${category.id.padEnd(18)} ${questions.length} savol yozildi`)
   }
 
-  updateMeta(counts)
-  console.log('meta.js yangilandi')
+  const { total } = await syncQuestionCounts()
+  console.log(`questionCounts.json yangilandi: ${total} savol`)
 }
 
 main().catch((error) => {

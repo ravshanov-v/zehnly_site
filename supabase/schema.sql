@@ -1,4 +1,4 @@
--- Zehnly Supabase sxemasi
+-- Kredorium Supabase sxemasi
 -- Supabase Dashboard -> SQL Editor bo'limida bir marta ishga tushiring.
 
 create extension if not exists pgcrypto;
@@ -8,14 +8,33 @@ create extension if not exists pgcrypto;
 create table if not exists public.profiles (
   id uuid primary key references auth.users (id) on delete cascade,
   name text not null default '',
-  created_at timestamptz not null default now()
+  xp integer not null default 0 check (xp >= 0),
+  tests_completed integer not null default 0 check (tests_completed >= 0),
+  correct_answers integer not null default 0 check (correct_answers >= 0),
+  created_at timestamptz not null default now(),
+  updated_at timestamptz not null default now()
 );
+
+-- Mavjud profillar jadvalini yangi ustunlar bilan to'ldirish
+alter table public.profiles
+  add column if not exists xp integer not null default 0 check (xp >= 0),
+  add column if not exists tests_completed integer not null default 0 check (tests_completed >= 0),
+  add column if not exists correct_answers integer not null default 0 check (correct_answers >= 0),
+  add column if not exists updated_at timestamptz not null default now();
+
+create index if not exists profiles_xp_idx on public.profiles (xp desc, updated_at asc);
 
 alter table public.profiles enable row level security;
 
 drop policy if exists "profiles_select_own" on public.profiles;
 create policy "profiles_select_own" on public.profiles
   for select using (auth.uid() = id);
+
+-- Reyting uchun barcha foydalanuvchi profillari ommaviy o'qiladi.
+-- Jadvalda email yoki boshqa maxfiy maydonlar saqlanmaydi.
+drop policy if exists "profiles_select_public" on public.profiles;
+create policy "profiles_select_public" on public.profiles
+  for select using (true);
 
 drop policy if exists "profiles_insert_own" on public.profiles;
 create policy "profiles_insert_own" on public.profiles
@@ -33,7 +52,15 @@ set search_path = public
 as $$
 begin
   insert into public.profiles (id, name)
-  values (new.id, coalesce(new.raw_user_meta_data ->> 'name', ''))
+  values (
+    new.id,
+    coalesce(
+      nullif(new.raw_user_meta_data ->> 'name', ''),
+      nullif(new.raw_user_meta_data ->> 'full_name', ''),
+      split_part(coalesce(new.email, ''), '@', 1),
+      ''
+    )
+  )
   on conflict (id) do nothing;
 
   return new;
@@ -44,6 +71,54 @@ drop trigger if exists on_auth_user_created on auth.users;
 create trigger on_auth_user_created
   after insert on auth.users
   for each row execute function public.handle_new_user();
+
+-- XP va statistika (atomik) ----------------------------------------------
+
+create or replace function public.increment_profile_stats(
+  p_xp integer default 0,
+  p_tests integer default 0,
+  p_correct integer default 0
+)
+returns public.profiles
+language plpgsql
+security definer
+set search_path = public
+as $$
+declare
+  v_user_id uuid := auth.uid();
+  v_profile public.profiles;
+begin
+  if v_user_id is null then
+    raise exception 'Authentication required' using errcode = '28000';
+  end if;
+
+  insert into public.profiles (id, name, xp, tests_completed, correct_answers, updated_at)
+  values (
+    v_user_id,
+    coalesce(
+      (select nullif(u.raw_user_meta_data ->> 'name', '') from auth.users u where u.id = v_user_id),
+      (select nullif(u.raw_user_meta_data ->> 'full_name', '') from auth.users u where u.id = v_user_id),
+      (select split_part(coalesce(u.email, ''), '@', 1) from auth.users u where u.id = v_user_id),
+      ''
+    ),
+    greatest(coalesce(p_xp, 0), 0),
+    greatest(coalesce(p_tests, 0), 0),
+    greatest(coalesce(p_correct, 0), 0),
+    now()
+  )
+  on conflict (id) do update
+    set xp = public.profiles.xp + greatest(coalesce(p_xp, 0), 0),
+        tests_completed = public.profiles.tests_completed + greatest(coalesce(p_tests, 0), 0),
+        correct_answers = public.profiles.correct_answers + greatest(coalesce(p_correct, 0), 0),
+        updated_at = now()
+  returning * into v_profile;
+
+  return v_profile;
+end;
+$$;
+
+revoke all on function public.increment_profile_stats(integer, integer, integer) from public;
+grant execute on function public.increment_profile_stats(integer, integer, integer) to authenticated;
 
 -- Test tarixi -------------------------------------------------------------
 

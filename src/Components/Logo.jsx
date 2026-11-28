@@ -10,7 +10,7 @@ export default function Logo({ size = 'md', className = '' }) {
   return (
     <div
       role="img"
-      aria-label="Mushohada"
+      aria-label="Kredorium"
       className={`inline-flex cursor-pointer select-none items-center gap-2.5 ${className}`}
     >
       <svg
@@ -34,7 +34,7 @@ export default function Logo({ size = 'md', className = '' }) {
         aria-hidden="true"
         className={`font-display font-semibold leading-none tracking-[-0.05em] text-ink ${text}`}
       >
-        mushohada
+        kredorium
       </span>
     </div>
   )

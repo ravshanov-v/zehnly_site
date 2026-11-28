@@ -171,7 +171,7 @@ export default function OquvMaskanlari() {
       <Reveal as="header">
         <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-raised px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
           <span className="h-1.5 w-1.5 rounded-full bg-ember" />
-          Katalog · to‘ldirilmoqda
+          Katalog · tez orada
         </span>
 
         <h1 className="mt-6 font-display text-[clamp(2.8rem,6.4vw,5rem)] font-semibold leading-[0.98] tracking-[-0.05em] text-ink">
@@ -181,7 +181,7 @@ export default function OquvMaskanlari() {
         <p className="mt-5 max-w-xl text-sm leading-7 text-muted sm:text-base">
           {hasCenters
             ? "O‘quv maskanlarini qidiring, taqqoslang va sevimlilarga qo‘shing. Har bir maskan yo‘nalishi, narxi va reytingi bilan bir joyda."
-            : "O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlar qo‘shilgach, katalog shu yerda ochiladi. O‘z markazingizni qo‘shmoqchi bo‘lsangiz, biz bilan bog‘laning."}
+            : "O‘quv maskanlari ma’lumotlari e’lon qilishdan oldin tekshirilmoqda. Tasdiqlangan maskanlar katalogga qo‘shilgach, ular shu yerda ko‘rinadi. O‘z markazingizni qo‘shmoqchi bo‘lsangiz, ariza qoldiring."}
         </p>
 
         <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-2 font-mono text-[9px] uppercase tracking-[0.16em] text-muted">
@@ -190,7 +190,7 @@ export default function OquvMaskanlari() {
             Toshkent · O‘zbekiston
           </span>
           <span>
-            {hasCenters ? `${studyCenters.length} ta maskan` : 'Baza to‘ldirilmoqda'}
+            {hasCenters ? `${studyCenters.length} ta maskan` : 'Katalog tez orada'}
           </span>
         </div>
       </Reveal>
@@ -301,16 +301,16 @@ export default function OquvMaskanlari() {
                 <div>
                   <span className="inline-flex items-center gap-2 rounded-full border border-hairline bg-paper px-3 py-1.5 font-mono text-[9px] uppercase tracking-[0.18em] text-muted">
                     <span className="h-1.5 w-1.5 rounded-full bg-ember" />
-                    Katalog holati · to‘ldirilmoqda
+                    Katalog holati · tez orada
                   </span>
 
                   <h2 className="mt-5 font-display text-[clamp(2rem,4.6vw,3.4rem)] font-semibold leading-[1.02] tracking-[-0.045em] text-ink">
-                    Baza hali <span className="text-ember">to‘ldirilmagan.</span>
+                    Katalog tez orada <span className="text-ember">ochiladi.</span>
                   </h2>
                   <p className="mt-4 max-w-md text-sm leading-7 text-muted">
-                    O‘quv maskanlari bazasi hali to‘ldirilmagan. Tasdiqlangan ma’lumotlar
-                    qo‘shilgach, katalog shu yerda ochiladi. Bu vaqtda zakovat arenasida
-                    bilimingizni sinab ko‘ring.
+                    O‘quv maskanlari ma’lumotlari e’lon qilishdan oldin tekshirilmoqda.
+                    Tasdiqlangan maskanlar qo‘shilgach, katalog shu yerda ochiladi. Bu
+                    vaqtda zakovat arenasida bilimingizni sinab ko‘ring.
                   </p>
 
                   <NavLink
@@ -343,7 +343,7 @@ export default function OquvMaskanlari() {
                           <span className="block h-2 w-3/5 rounded-full bg-ink/[0.07]" />
                         </div>
                         <span className="font-mono text-[8px] uppercase tracking-[0.12em] text-muted">
-                          kutilmoqda
+                          tekshirilmoqda
                         </span>
                       </div>
                     ))}

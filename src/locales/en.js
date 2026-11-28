@@ -3,10 +3,11 @@ export default {
     home: 'Home',
     studyCenters: 'Study centers',
     zakovat: 'Quiz',
+    leaderboard: 'Leaderboard',
     ai: 'AI Assistant',
   },
   navbar: {
-    brandHome: 'Mushohada home',
+    brandHome: 'Kredorium home',
     themeToLight: 'Switch to light mode',
     themeToDark: 'Switch to dark mode',
     themeLight: 'Light mode',
@@ -21,19 +22,20 @@ export default {
     exit: 'Log out',
     loginPrompt: 'Sign in to your account',
     loggedOut: 'You have been logged out. See you again!',
+    guest: 'Guest',
     language: 'Language',
     chooseLanguage: 'Choose language',
   },
   home: {
     hero: {
-      badge: 'Mushohada Arena · open',
+      badge: 'Kredorium Arena · open',
       titleTop: 'Knowledge needs',
       titleBottom: 'a new ',
       titleAccent: 'infrastructure.',
       description:
         '{count} questions, a 30-second interactive arena and growth analytics — in one fast, precise system. Every attempt is measured, every result is visible.',
       startArena: 'Start the arena',
-      catalogStatus: 'Catalog status',
+      catalogStatus: 'Study centers',
       noCard: 'Start free · No card required',
       statSubject: 'Subject',
       statQuestion: 'Question',
@@ -74,17 +76,17 @@ export default {
       centers: {
         eyebrow: 'Study centers',
         countBadge: '{count} centers',
-        loadingBadge: 'Filling up',
+        loadingBadge: 'Coming soon',
         readyTitle: 'Catalog is ready',
-        loadingTitle: 'Catalog is being filled',
+        loadingTitle: 'Catalog coming soon',
         readyDescription:
           'Filter by direction, district and format to find the center that fits you.',
         loadingDescription:
-          'The study centers database has not been filled yet. Once verified data is added, the catalog will open here.',
+          'We are verifying study center details before publishing them. Verified listings will appear here.',
         searchPlaceholder: 'Center, direction or district...',
         tags: ['Programming', 'Design', 'Languages', 'Marketing'],
         allCenters: 'All centers',
-        baseEmpty: 'Database is not filled yet',
+        baseEmpty: 'Catalog coming soon',
         view: 'View',
         details: 'Details',
       },
@@ -154,25 +156,35 @@ export default {
     studyCenters: 'Study centers',
     catalog: 'Catalog',
     base: 'Database',
-    catalogLoading: 'Catalog is being filled',
+    catalogLoading: 'Catalog coming soon',
     catalogLoadingNote:
-      'The study centers database has not been filled yet. Contact us to add your center.',
+      'We are verifying study center details before publishing them. Contact us to submit your center.',
   },
   partnerCard: {
-    open: 'Partnership open',
-    title: 'Want to add your center to the platform?',
+    open: 'Partnership applications open',
+    title: 'Want to feature your center in the catalog?',
     description:
-      'The study centers database has not been filled yet. Contact us to place verified information in the catalog.',
-    telegram: 'Message on Telegram',
+      'We are verifying study center details before publishing them. Submit your center for review through our Telegram channel.',
+    telegram: 'Submit an application',
+  },
+  notFound: {
+    badge: '404 · Page not found',
+    title: 'Page not found.',
+    description:
+      'The page you are looking for does not exist or has been moved. Try one of the sections below.',
+    backHome: 'Back to home',
+    openArena: 'Quiz arena',
+    help:
+      'The link may be outdated. If you believe this is a mistake, please contact us.',
   },
   footer: {
     description:
-      'Mushohada is a platform that brings knowledge, quiz and modern education into one fast, measurable system.',
+      'Kredorium is a platform that brings knowledge, quiz and modern education into one fast, measurable system.',
     country: 'Uzbekistan',
     sections: 'Sections',
     contact: 'Contact',
     contactPrompt: 'Have questions? Write to us:',
-    rights: '© {year} Mushohada — All rights reserved',
+    rights: '© {year} Kredorium — All rights reserved',
     backToTop: 'Back to top',
   },
   auth: {
@@ -227,6 +239,12 @@ export default {
     loginInfoRemote: 'Results, history and statistics are linked to your account and synced',
     loginInfoLocal:
       'Your results, history and statistics are stored securely in this browser',
+    google: 'Continue with Google',
+    or: 'or',
+    connecting: 'Connecting...',
+    continueAsGuest: 'Continue as guest',
+    guestToast: 'You are browsing as a guest. Results will be saved on this device.',
+    googleUnavailable: 'Signing in with Google works only when Supabase is connected.',
     storageNoteRemote:
       'Your account is securely stored via Supabase and synced across devices.',
     storageNoteLocal: 'Account data is stored only on this device.',
@@ -269,6 +287,8 @@ export default {
         'Account created. Open the confirmation link sent to your email, then log in',
       NO_SESSION: 'Session not found. Use the password reset link again',
       EMAIL_NOT_FOUND: 'No account found with this email',
+      PROVIDER_DISABLED: 'Google sign-in is currently unavailable',
+      OAUTH_ERROR: 'Google sign-in failed. Please try again',
     },
   },
   recover: {
@@ -292,7 +312,7 @@ export default {
     updatedToast:
       'Your password has been updated. You can now log in to your account.',
     updatedToastTitle: 'Password updated',
-    footerHome: 'Mushohada · home',
+    footerHome: 'Kredorium · home',
   },
   profile: {
     titleFallback: 'Profile',
@@ -326,7 +346,7 @@ export default {
       accountType: 'Account type',
       accountRemote: 'Supabase account · synced across devices',
       accountLocal: 'Local account · in this browser',
-      member: 'Mushohada member',
+      member: 'Kredorium member',
       active: 'Active',
     },
     favorites: {

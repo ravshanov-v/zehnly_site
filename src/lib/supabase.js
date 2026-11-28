@@ -1,16 +1,25 @@
 import { createClient } from '@supabase/supabase-js'
 
-const supabaseUrl = import.meta.env.VITE_SUPABASE_URL
-const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY
+const supabaseUrl = String(import.meta.env.VITE_SUPABASE_URL ?? '').trim()
+const supabaseAnonKey = String(import.meta.env.VITE_SUPABASE_ANON_KEY ?? '').trim()
 
-export const isSupabaseEnabled = Boolean(supabaseUrl && supabaseAnonKey)
+function createSupabaseClient() {
+  if (!supabaseUrl || !supabaseAnonKey) return null
 
-export const supabase = isSupabaseEnabled
-  ? createClient(supabaseUrl, supabaseAnonKey, {
+  try {
+    return createClient(supabaseUrl, supabaseAnonKey, {
       auth: {
         persistSession: true,
         autoRefreshToken: true,
         detectSessionInUrl: true,
       },
     })
-  : null
+  } catch (error) {
+    console.warn('Supabase client could not be initialized, using guest mode:', error)
+    return null
+  }
+}
+
+export const supabase = createSupabaseClient()
+
+export const isSupabaseEnabled = supabase !== null

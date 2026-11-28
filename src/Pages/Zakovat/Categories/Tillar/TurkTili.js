@@ -1,4 +1,4 @@
-// Mushohada Zakovat Platformasi - Turk tili (1000 savol)
+// Kredorium Zakovat Platformasi - Turk tili (1000 savol)
 
 const turkTili = {
   "id": "turk-tili",
@@ -7484,7 +7484,7 @@ const turkTili = {
     },
     {
       "id": "turk-tili-300",
-      "question": "«telefon» so'zining o'zbekcha tarjimasi qaysi?",
+      "question": "Turk tili bo'yicha: «telefon» so'zining o'zbekcha tarjimasi qaysi?",
       "options": [
         {
           "id": "A",
@@ -10084,7 +10084,7 @@ const turkTili = {
     },
     {
       "id": "turk-tili-404",
-      "question": "«Salom» quyidagi qaysi savolning to'g'ri javobi? (To'g'ri javob: Salom.)",
+      "question": "Turk tili bo'yicha: «Salom» quyidagi qaysi savolning to'g'ri javobi? (To'g'ri javob: Salom.)",
       "options": [
         {
           "id": "A",
@@ -10109,7 +10109,7 @@ const turkTili = {
     },
     {
       "id": "turk-tili-405",
-      "question": "«Rahmat» quyidagi qaysi savolning to'g'ri javobi? (To'g'ri javob: Rahmat.)",
+      "question": "Turk tili bo'yicha: «Rahmat» quyidagi qaysi savolning to'g'ri javobi? (To'g'ri javob: Rahmat.)",
       "options": [
         {
           "id": "A",
@@ -17559,7 +17559,7 @@ const turkTili = {
     },
     {
       "id": "turk-tili-703",
-      "question": "«telefon» quyidagi qaysi savolning to'g'ri javobi? («telefon» so'zi o'zbek tilida «telefon» deb tarjima qilinadi.)",
+      "question": "Turk tili bo'yicha: «telefon» quyidagi qaysi savolning to'g'ri javobi? («telefon» so'zi o'zbek tilida «telefon» deb tarjima qilinadi.)",
       "options": [
         {
           "id": "A",
@@ -20159,7 +20159,7 @@ const turkTili = {
     },
     {
       "id": "turk-tili-807",
-      "question": "«To'g'ri javob: Salom.» izohi qaysi savolga mos keladi?",
+      "question": "Turk tili bo'yicha: «To'g'ri javob: Salom.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",
@@ -20184,7 +20184,7 @@ const turkTili = {
     },
     {
       "id": "turk-tili-808",
-      "question": "«To'g'ri javob: Rahmat.» izohi qaysi savolga mos keladi?",
+      "question": "Turk tili bo'yicha: «To'g'ri javob: Rahmat.» izohi qaysi savolga mos keladi?",
       "options": [
         {
           "id": "A",

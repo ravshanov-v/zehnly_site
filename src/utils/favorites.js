@@ -1,10 +1,10 @@
 import { getSession, subscribe as subscribeSession } from './authStore.js'
 import { isSupabaseEnabled, supabase } from '../lib/supabase.js'
 
-const GUEST_KEY = 'zehnly_favorites'
-const USER_KEY_PREFIX = 'zehnly_favorites:'
+const GUEST_KEY = 'kredorium_favorites'
+const USER_KEY_PREFIX = 'kredorium_favorites:'
 const MAX_FAVORITES = 200
-const PENDING_PREFIX = 'zehnly_pending_favorites:'
+const PENDING_PREFIX = 'kredorium_pending_favorites:'
 
 const listeners = new Set()
 

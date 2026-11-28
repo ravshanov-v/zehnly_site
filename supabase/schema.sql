@@ -1,6 +1,4 @@
--- Kredorium Supabase sxemasi
--- Supabase Dashboard -> SQL Editor bo'limida bir marta ishga tushiring.
--- Skript idempotent: qayta ishga tushirish xavfsiz.
+
 
 create extension if not exists pgcrypto;
 

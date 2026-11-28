@@ -1,5 +1,4 @@
-const GEMINI_MODEL = 'gemini-1.5-flash'
-const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`
+const GEMINI_MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite']
 const REQUEST_TIMEOUT_MS = 45000
 const MAX_MESSAGES = 16
 const MAX_REQUEST_MESSAGES = 64
@@ -279,47 +278,64 @@ export default async function handler(req, res) {
   }, REQUEST_TIMEOUT_MS)
 
   try {
-    const response = await fetch(GEMINI_API_URL, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-goog-api-key': apiKey,
-      },
-      body: JSON.stringify({
-        systemInstruction: {
-          parts: [{ text: SYSTEM_PROMPT }],
+    let lastErrorResponse = null
+
+    for (const model of GEMINI_MODELS) {
+      const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`
+      const response = await fetch(apiUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'x-goog-api-key': apiKey,
         },
-        contents,
-        generationConfig: {
-          temperature: 0.7,
-          topP: 0.95,
-          maxOutputTokens: 1200,
-        },
-      }),
-      signal: controller.signal,
-    })
-
-    if (!response.ok) {
-      const statusCode = response.status === 429 ? 429 : 502
-      return sendJson(res, statusCode, { error: await readUpstreamError(response, apiKey) })
-    }
-
-    const data = await response.json()
-    const reply = extractResponseText(data)
-
-    if (!reply) {
-      const finishReason = data?.candidates?.[0]?.finishReason
-      const blockReason = data?.promptFeedback?.blockReason
-
-      return sendJson(res, 502, {
-        error:
-          finishReason === 'SAFETY' || blockReason
-            ? 'Bu so‘rovga javob berilmadi. Savolni boshqacha ifodalab ko‘ring.'
-            : 'Bo‘sh javob keldi. Savolni qisqaroq yoki aniqroq yozib ko‘ring.',
+        body: JSON.stringify({
+          systemInstruction: {
+            parts: [{ text: SYSTEM_PROMPT }],
+          },
+          contents,
+          generationConfig: {
+            temperature: 0.7,
+            topP: 0.95,
+            maxOutputTokens: 1200,
+          },
+        }),
+        signal: controller.signal,
       })
+
+      if (response.status === 404) {
+        lastErrorResponse = response
+        continue
+      }
+
+      if (!response.ok) {
+        const statusCode = response.status === 429 ? 429 : 502
+        return sendJson(res, statusCode, { error: await readUpstreamError(response, apiKey) })
+      }
+
+      const data = await response.json()
+      const reply = extractResponseText(data)
+
+      if (!reply) {
+        const finishReason = data?.candidates?.[0]?.finishReason
+        const blockReason = data?.promptFeedback?.blockReason
+
+        return sendJson(res, 502, {
+          error:
+            finishReason === 'SAFETY' || blockReason
+              ? 'Bu so‘rovga javob berilmadi. Savolni boshqacha ifodalab ko‘ring.'
+              : 'Bo‘sh javob keldi. Savolni qisqaroq yoki aniqroq yozib ko‘ring.',
+        })
+      }
+
+      return sendJson(res, 200, { reply })
     }
 
-    return sendJson(res, 200, { reply })
+    const statusCode = lastErrorResponse?.status === 429 ? 429 : 502
+    return sendJson(res, statusCode, {
+      error: lastErrorResponse
+        ? await readUpstreamError(lastErrorResponse, apiKey)
+        : 'AI modeli topilmadi. Keyinroq qayta urinib ko‘ring.',
+    })
   } catch (error) {
     if (error?.name === 'AbortError') {
       return sendJson(res, timedOut ? 504 : 499, {

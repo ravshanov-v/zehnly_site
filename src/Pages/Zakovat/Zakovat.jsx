@@ -266,6 +266,7 @@ export default function Zakovat() {
         recordQuizResult({
           xp: record.xp,
           correctAnswers: record.correctCount,
+          totalAnswered: record.totalAnswered,
           testsCompleted: 1,
         }).catch(() => {})
       }

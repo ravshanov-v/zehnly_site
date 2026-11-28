@@ -4,7 +4,7 @@ import { isSupabaseEnabled, supabase } from '../lib/supabase.js'
 const GUEST_HISTORY_KEY = 'kredorium_quiz_history'
 const GUEST_SYNC_PREFIX = 'kredorium_guest_xp_synced:'
 const PROFILE_COLUMNS =
-  'id,name,xp,tests_completed,correct_answers,created_at,updated_at'
+  'id,name,xp,tests_completed,correct_answers,total_answers,created_at,updated_at'
 
 const listeners = new Set()
 const guestSyncPromises = new Map()
@@ -53,6 +53,7 @@ function normalizeRow(row) {
     xp: Number(row.xp) || 0,
     tests_completed: Number(row.tests_completed) || 0,
     correct_answers: Number(row.correct_answers) || 0,
+    total_answers: Number(row.total_answers) || 0,
   }
 }
 
@@ -111,6 +112,7 @@ function pendingGuestStats(userId) {
     xp: pending.reduce((sum, record) => sum + (Number(record.xp) || 0), 0),
     tests: pending.length,
     correct: pending.reduce((sum, record) => sum + (Number(record.correctCount) || 0), 0),
+    total: pending.reduce((sum, record) => sum + (Number(record.totalAnswered) || 0), 0),
   }
 }
 
@@ -226,7 +228,8 @@ export function initProfileStore() {
 export async function recordQuizResult({
   xp = 0,
   correctAnswers = 0,
-  testsCompleted = 0,
+  testsCompleted = 1,
+  totalAnswered = 0,
 } = {}) {
   if (!isSupabaseEnabled) return null
 
@@ -235,14 +238,16 @@ export async function recordQuizResult({
   if (!userId) return null
 
   const payload = {
+    p_correct: Math.max(0, Math.round(Number(correctAnswers) || 0)),
+    p_total: Math.max(0, Math.round(Number(totalAnswered) || 0)),
     p_xp: Math.max(0, Math.round(Number(xp) || 0)),
     p_tests: Math.max(0, Math.round(Number(testsCompleted) || 0)),
-    p_correct: Math.max(0, Math.round(Number(correctAnswers) || 0)),
   }
 
-  if (payload.p_xp === 0 && payload.p_tests === 0 && payload.p_correct === 0) return null
+  if (payload.p_total <= 0) return null
+  if (payload.p_tests <= 0) payload.p_tests = 1
 
-  const { data, error } = await supabase.rpc('increment_profile_stats', payload)
+  const { data, error } = await supabase.rpc('increment_quiz_stats', payload)
 
   if (error) {
     console.warn('Profil statistikasi saqlanmadi:', error.message)
@@ -266,11 +271,15 @@ export function syncGuestStatsToProfile() {
   const stats = pendingGuestStats(userId)
   if (!stats) return Promise.resolve(null)
 
+  const total = Math.max(stats.total, stats.correct, stats.tests, 1)
+  const correct = Math.min(Math.max(stats.correct, 0), total)
+
   const promise = supabase
-    .rpc('increment_profile_stats', {
+    .rpc('increment_quiz_stats', {
+      p_correct: correct,
+      p_total: total,
       p_xp: Math.max(stats.xp, 0),
-      p_tests: Math.max(stats.tests, 0),
-      p_correct: Math.max(stats.correct, 0),
+      p_tests: Math.max(stats.tests, 1),
     })
     .then(({ data, error }) => {
       if (error) {

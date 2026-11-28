@@ -29,6 +29,11 @@ const PAGE_META = {
     title: 'Zakovat arenasi — Kredorium',
     description: `${formattedTotalQuestions} ta savol, ${categoryMeta.length} ta fan va 30 soniyalik taymer. Kredorium zakovat arenasida bilimingizni sinab ko'ring va XP to'plang.`,
   },
+  '/reyting': {
+    title: 'Reyting — Kredorium',
+    description:
+      "Kredorium live reytingi: eng faol bilimdonlar, XP va aniqlik ko'rsatkichlari. Top 50 o'rin va shaxsiy reytingingizni ko'ring.",
+  },
   '/ai-yordamchi': {
     title: "Kredorium AI — O'quv yordamchi",
     description:

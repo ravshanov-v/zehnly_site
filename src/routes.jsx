@@ -1,9 +1,17 @@
-import { AiYordamchi, BoshSahifa, OquvMaskanlari, RecoverPassword, Zakovat } from './lazyPages.jsx'
+import {
+  AiYordamchi,
+  BoshSahifa,
+  OquvMaskanlari,
+  RecoverPassword,
+  Reyting,
+  Zakovat,
+} from './lazyPages.jsx'
 
 const routes = [
   { path: '/', label: 'Bosh sahifa', element: <BoshSahifa /> },
   { path: '/oquv-maskanlari', label: "O'quv maskanlari", element: <OquvMaskanlari /> },
   { path: '/zakovat', label: 'Zakovat', element: <Zakovat /> },
+  { path: '/reyting', label: 'Reyting', element: <Reyting /> },
   {
     path: '/ai-yordamchi',
     label: 'AI Yordamchi',

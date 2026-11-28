@@ -1,17 +1,25 @@
 const CHAT_ENDPOINT = '/api/chat'
 const REQUEST_TIMEOUT_MS = 45000
 const MAX_MESSAGES = 16
+const MAX_MESSAGE_LENGTH = 4000
+const MAX_TOTAL_LENGTH = 24000
 
 function buildRequestMessages(conversation) {
-  return conversation
-    .slice(-MAX_MESSAGES)
-    .map((message) => {
-      const role = message?.role === 'assistant' ? 'assistant' : 'user'
-      const text = typeof message?.text === 'string' ? message.text.trim() : ''
+  let remaining = MAX_TOTAL_LENGTH
+  const messages = []
 
-      return { role, text }
-    })
-    .filter((message) => message.text)
+  for (const message of conversation.slice(-MAX_MESSAGES).reverse()) {
+    const role = message?.role === 'assistant' ? 'assistant' : 'user'
+    const raw = typeof message?.text === 'string' ? message.text.trim() : ''
+    const text = raw.slice(0, Math.min(MAX_MESSAGE_LENGTH, remaining))
+
+    if (!text) continue
+
+    remaining = Math.max(remaining - text.length, 0)
+    messages.push({ role, text })
+  }
+
+  return messages.reverse()
 }
 
 async function readApiError(response) {

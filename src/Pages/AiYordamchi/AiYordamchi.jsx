@@ -688,6 +688,7 @@ export default function AiYordamchi() {
                   value={input}
                   onChange={(event) => setInput(event.target.value)}
                   onKeyDown={handleKeyDown}
+                  maxLength={4000}
                   placeholder="Kredorium AI orqali savol bering..."
                   className="min-h-12 max-h-40 w-full resize-none bg-transparent px-2.5 py-2 text-sm leading-6 text-ink outline-none placeholder:text-muted"
                 />

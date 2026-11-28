@@ -79,6 +79,13 @@ export default function Navbar() {
   }, [session?.email, session?.id])
 
   useEffect(() => {
+    const openAuth = () => setAuthOpen(true)
+
+    window.addEventListener('kredorium:open-auth', openAuth)
+    return () => window.removeEventListener('kredorium:open-auth', openAuth)
+  }, [])
+
+  useEffect(() => {
     if (!menuOpen) return
 
     const onKeyDown = (event) => {

@@ -2,6 +2,7 @@ const NAV_LABEL_KEYS = {
   '/': 'nav.home',
   '/oquv-maskanlari': 'nav.studyCenters',
   '/zakovat': 'nav.zakovat',
+  '/reyting': 'nav.leaderboard',
   '/ai-yordamchi': 'nav.ai',
 }
 
